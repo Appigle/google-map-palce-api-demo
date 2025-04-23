@@ -1,0 +1,839 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4005525,
+        "lng": -80.4382773
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4019620302915,
+          "lng": -80.43675066970849
+        },
+        "southwest": {
+          "lat": 43.3992640697085,
+          "lng": -80.43944863029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+    "name": "Ken Seiling Waterloo Region Museum",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 459,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105264426948804764037\">Ken Seiling Waterloo Region Museum</a>"
+        ],
+        "photo_reference": "AeeoHcLcDbJr7dAqOLXrTP8FbEKgpLfZ3hWn4y-24sq49JmYNdjn1lFl8yVGbo7wfN0VBf_Dxpy99pIV5pIIaowFSDh80vridxifUVonmedSfsefqZZvREG5O-TLNIpIMU2Vz_KHayFUxyYVYAxbk86YEgRFVHYHoFincoLdAH33XuVCrrQeX_yhV7E6J5WPkW-CZjbEka1POvUKozPZNI1dut0iXwM9YQY2aPFgiJrlyPSywJw7t1C2ExWuUt79nq4YqbQsN16wlzNm54k7rlj04Qs_oYdSgUbo5Pei0WiE7Stu2coQUqdYWiKSLIS6VjMAZ39NCGhBHUo",
+        "width": 781
+      }
+    ],
+    "place_id": "ChIJeyiDubyKK4gRgMzhTsFpTzo",
+    "plus_code": {
+      "compound_code": "CH26+6M Kitchener, ON, Canada",
+      "global_code": "86MXCH26+6M"
+    },
+    "rating": 4.6,
+    "reference": "ChIJeyiDubyKK4gRgMzhTsFpTzo",
+    "scope": "GOOGLE",
+    "types": [
+      "museum",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 882,
+    "vicinity": "10 Huron Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.496841,
+        "lng": -80.526899
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.49797658029151,
+          "lng": -80.52540726970851
+        },
+        "southwest": {
+          "lat": 43.49527861970851,
+          "lng": -80.52810523029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+    "name": "City of Waterloo Museum",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109261285904856407416\">City of Waterloo Museum</a>"
+        ],
+        "photo_reference": "AeeoHcKf7KM35gbWn1Ec0feQ1XdF_G0t4FxneHEi78sd2FAoswJ7gFzREHMLJ9uaROBVd8d2MUZT_EEjMqDGoFRa5tBd-M3ylgH21hJFPeUOxiH7HplX60zScg5iNv92hO6luw0vCTBDBDdgItabepJkQ3LcOko4O2UVHugxF8_hBp84hVmra3FQPX9sWbZajTzMTEaBuO0EcpRu5vmgab_Wvh5w7pjJpSHtoE83GffyYRt25wIirVjJwK9VBmHnrP-dw3vdOxVbxwW9CxSF3ymRmjV0njfultVwHK_cNmX_93F31thdEFXOqYMsSZZXNjKBiOGjMcdkKqM",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJY2VDUMHzK4gRhwc1oXO7Kpk",
+    "plus_code": {
+      "compound_code": "FFWF+P6 Waterloo, ON, Canada",
+      "global_code": "86MXFFWF+P6"
+    },
+    "rating": 4.2,
+    "reference": "ChIJY2VDUMHzK4gRhwc1oXO7Kpk",
+    "scope": "GOOGLE",
+    "types": [
+      "museum",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 53,
+    "vicinity": "550 King St North, Conestoga Mall, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4649381,
+        "lng": -80.5262637
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4662819802915,
+          "lng": -80.52463366970849
+        },
+        "southwest": {
+          "lat": 43.46358401970851,
+          "lng": -80.5273316302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Canadian Clay and Glass Gallery",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2304,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116261156797735563659\">Canadian Clay and Glass Gallery</a>"
+        ],
+        "photo_reference": "AeeoHcLDmZKU7SOkz-nIH2ku4BW84A2144GibFjs78nRs3vjuCJmtxxM5KwkS093aOBPvSZoS0FF-VwJGkLAJ-lEOYizDw5pnrPi-eqY3Q1ozjCV2Xd8sQDQ7s3m_3_Xd6WgB4wL8hFcCRSuoOFwlurIbcODTpWdBQ3gQC0WBFRf046HWxH6_snAERl-Lkll0dIWc26as-k7WXlxSa2u2p5wTCMPHxvTl_kYyEZyjTXQstjQV-Ks_frbuBHeCRXeweu2K7L_rsthdhsKtrUEvjVVgyJykRmlBHnTZsFchmp9OuI5sY-z62PeZbl7LiA3Ts6YxPcYuRvrjlI",
+        "width": 3072
+      }
+    ],
+    "place_id": "ChIJodTTig30K4gRIHD1jB1vAt8",
+    "plus_code": {
+      "compound_code": "FF7F+XF Waterloo, ON, Canada",
+      "global_code": "86MXFF7F+XF"
+    },
+    "rating": 4.6,
+    "reference": "ChIJodTTig30K4gRIHD1jB1vAt8",
+    "scope": "GOOGLE",
+    "types": [
+      "art_gallery",
+      "tourist_attraction",
+      "museum",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 494,
+    "vicinity": "25 Caroline Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44510429999999,
+        "lng": -80.4951792
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4465988802915,
+          "lng": -80.4934707697085
+        },
+        "southwest": {
+          "lat": 43.4439009197085,
+          "lng": -80.4961687302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+    "name": "Schneider Haus National Historic Site",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 890,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106954627874291729881\">Schneider Haus National Historic Site</a>"
+        ],
+        "photo_reference": "AeeoHcJ3S1zXbmV7xbyX3-C_dJTUQ4mQzY8aW_BGzph3DRB_YMEGBtcN9JfkezA_l66CokHWPsjMV2kSAz8hbbwnNdHbzUAttQMYByH12uA8-9oFTecAeMA1H65GhI12y8leSQ1o-jPvdQdHnQwyJs35efgLHOqDaiov6eMMvVq6qWMdxyW8M7VcKZACELBIGwUYAcQxDYUKwny1S3P8JMPASjqXci7uSsAk4pKhFebc-wP_vW9mbByg4eXd7HJgwpnPgiOvn7sKulpq_u_hBct4LonMVMMtxnDm_yQq82VKUFm8FJGQ67N3ohmF0xyYGQvhrzlBuYkdgLQ",
+        "width": 1200
+      }
+    ],
+    "place_id": "ChIJg-3eL_f0K4gRhtdqC15vQ0U",
+    "plus_code": {
+      "compound_code": "CGW3+2W Kitchener, ON, Canada",
+      "global_code": "86MXCGW3+2W"
+    },
+    "rating": 4.7,
+    "reference": "ChIJg-3eL_f0K4gRhtdqC15vQ0U",
+    "scope": "GOOGLE",
+    "types": [
+      "museum",
+      "tourist_attraction",
+      "art_gallery",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 220,
+    "vicinity": "466 Queen Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.51020330000001,
+        "lng": -80.55509080000002
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.51164443029151,
+          "lng": -80.5539088697085
+        },
+        "southwest": {
+          "lat": 43.50894646970851,
+          "lng": -80.5566068302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Mennonite Story",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1512,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115720715815312455483\">The Mennonite Story</a>"
+        ],
+        "photo_reference": "AeeoHcLDA3vCW8CKgaTuRcitlTxyYGVS7owPIKZQKgADE7Rerk0pz-g9e7TBIXadmaxQfw2ZBF19PFle6M_JtwQrAEJ6P9QN5BIboiVLWD7T_ZWN9wyf2jmmdt_uxX5N-0QbFIS1iFFxasrrwthZJsjrNiZv7mxVvsrNosTr04FeEgLaN2AT6FVDPunN9pN4Cd2GXiiye17H61157_EQqV5_nkZjV47mbJ001CZh4QIRJXk256vsYbdimQeZELJfINOnFGzYTUm1irXoP_J9MU60OOpptnPdGfGpxZwSQy3qzfCFl7iOS3IeupkBl7ZM2_kEBQD2bDe9Tn8",
+        "width": 2016
+      }
+    ],
+    "place_id": "ChIJp9Euk_HxK4gRnXUWwdITFtA",
+    "plus_code": {
+      "compound_code": "GC6V+3X Waterloo, ON, Canada",
+      "global_code": "86MXGC6V+3X"
+    },
+    "rating": 4.5,
+    "reference": "ChIJp9Euk_HxK4gRnXUWwdITFtA",
+    "scope": "GOOGLE",
+    "types": [
+      "tourist_attraction",
+      "museum",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 136,
+    "vicinity": "Log House, 878 Weber Street North, Waterloo"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 43.463612,
+        "lng": -80.480846
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4652922802915,
+          "lng": -80.47923136970849
+        },
+        "southwest": {
+          "lat": 43.4625943197085,
+          "lng": -80.48192933029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+    "name": "Woodside National Historic Site",
+    "permanently_closed": true,
+    "photos": [
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110244557474162502767\">Woodside National Historic Site</a>"
+        ],
+        "photo_reference": "AeeoHcKwMGNj6z1qBIfXoEcGyi7UBpc8agUTOHizuLQq-95H0xZPg_TJVwr0RNCjGLcf9lZFoYlIXclB5AiUdTaGj3Jb9pxwM7JvJBnyAruBowOJldEgM_gK5VwzrY7iMrvKoe1prTdn0ha-RTtVEJe9eTs4OvZEa1NngUWF5A_J2pRIZzgxnJVjLMBg1QKuikz8st3x4KT-mpnG9468tTcOQ7lelyR_eNZWun_If767_aPFjkDhUANkdeQ-N7DqiinH8vwWM1rR_a0iDzk3P0Qy0JTtfvYoYAWXcOA2-hypw_uNqToRvfIJk6T2_0f2MljpKlkXNjBZcOA",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJ1x-5Apn0K4gR2Ut1c-UuAwU",
+    "plus_code": {
+      "compound_code": "FG79+CM Kitchener, ON, Canada",
+      "global_code": "86MXFG79+CM"
+    },
+    "rating": 4.5,
+    "reference": "ChIJ1x-5Apn0K4gR2Ut1c-UuAwU",
+    "scope": "GOOGLE",
+    "types": [
+      "museum",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 148,
+    "vicinity": "528 Wellington Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47149539999999,
+        "lng": -80.54211509999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47267355,
+          "lng": -80.54084961970848
+        },
+        "southwest": {
+          "lat": 43.46956695,
+          "lng": -80.5435475802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+    "name": "Earth Sciences Museum",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2252,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115054370498296346239\">Saif ul Haq (Chamoos)</a>"
+        ],
+        "photo_reference": "AeeoHcIMvA3JKA3UztWUfD-8HXdyJMICEqW35jRyk4Kwvl2kLc7HaNLFREw-YdkfYUDkOiRF6iOFWJXrBAgvD_lH8s9v_nieBX-L6S7VBjdCq_h7PVWHRJal8jF-Ocy_Ez-WtEh-EZzDyhh5nd-C8bWNKoaJAPGKqIB7DyR1Kyy2IBPlXKFdhmm2Q5IP2iP4lg796c7mL6Jw3uWArHHD7tNWVFa9AgTqOv5C1IG6l6AMvI_swf6Sd0WWL-a3YTtya-djtpwfdr3kJn1Wbnkdv7xEYK-virs4q-cVdy0PlwgnGH09N09HeX2VyTqJXujSHUWfFK2XKnT9VYHr-wMEKODO6xJRWOeCed1f0ClOogD9ZJ_LhU2p55ZkBmoE41l_DIcarZvknXLrxoTuFUReQITB1emviWxMCTGmp9eT1VeN4QKFKuxpb61pR_RgzVw5fMwR1xuLWcYdHqFOZWYmDGD8B8B1o52dcaW21JdbVdKN2bebhMiAifWIi1i5UY-IuBED10kCFH5kLKmKBAUDblhJIV2DnqwQ1PW3UedRT5vEXbVdZtNUbxDEfyoOcWH5HakHp2xEh5cEkV__gWWfGJDhuHmXzxrIl4HWlfNrUBy1mdbysH9ATHJ9gWeY1fUh0QqOkzXpoQ",
+        "width": 3376
+      }
+    ],
+    "place_id": "ChIJR-cnkgH0K4gRdH-6Js738MM",
+    "plus_code": {
+      "compound_code": "FFC5+H5 Waterloo, ON, Canada",
+      "global_code": "86MXFFC5+H5"
+    },
+    "rating": 4.6,
+    "reference": "ChIJR-cnkgH0K4gRdH-6Js738MM",
+    "scope": "GOOGLE",
+    "types": [
+      "tourist_attraction",
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 431,
+    "vicinity": "200 University Avenue West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4659017,
+        "lng": -80.51800840000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46718533029149,
+          "lng": -80.5166362697085
+        },
+        "southwest": {
+          "lat": 43.4644873697085,
+          "lng": -80.51933423029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+    "name": "Cley museum",
+    "place_id": "ChIJW7VSbQD1K4gR1DscN_uZ4tI",
+    "plus_code": {
+      "compound_code": "FF8J+9Q Waterloo, ON, Canada",
+      "global_code": "86MXFF8J+9Q"
+    },
+    "reference": "ChIJW7VSbQD1K4gR1DscN_uZ4tI",
+    "scope": "GOOGLE",
+    "types": [
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "66 Waterloo Regional Road 9, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46243940000001,
+        "lng": -80.5247898
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46367813029151,
+          "lng": -80.52352516970849
+        },
+        "southwest": {
+          "lat": 43.46098016970851,
+          "lng": -80.5262231302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+    "name": "Museum Planning Partners",
+    "place_id": "ChIJq6qaUxL0K4gRTOIbZGF8pSo",
+    "plus_code": {
+      "compound_code": "FF6G+X3 Waterloo, ON, Canada",
+      "global_code": "86MXFF6G+X3"
+    },
+    "reference": "ChIJq6qaUxL0K4gRTOIbZGF8pSo",
+    "scope": "GOOGLE",
+    "types": [
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "3 Father David Bauer Drive Suite 206, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4611445,
+        "lng": -80.5050029
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46255938029149,
+          "lng": -80.5035876697085
+        },
+        "southwest": {
+          "lat": 43.4598614197085,
+          "lng": -80.50628563029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+    "name": "Balwey Manor",
+    "photos": [
+      {
+        "height": 3264,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110995799584738814443\">Alfred Longbottom</a>"
+        ],
+        "photo_reference": "AeeoHcKTvmxA7K_RZUGm5-glx-3WxeebW18yhHXTSOBysf8vfUVrEcImeidm_EVa9HreTVZWCoCqYahzA3LBwWPeKz1vtjSAKFVodorA0SP7CluQ05-GM6czxjI0w5-ltLAmUYh7zn76l0DEHsqq5Qey_NF3YqNLuh14Atdb9BuzmtnEgQ0n3W_iOthJ2teyFFwqkEX7IudIfwo3pnR0avZ2QljAfSDRYlPGTgfJCTBcLcaj4AvUo6dHydeZ4U6ILkKZASOtXv_Q1r9IlQ2jbSBzyZGh48GIMJwsXIlRoc9bi77EPW_ox24Xi-LpUbDqKU_Z8UWOWlrlhqYljy-jLU3IuSm-cUQ40QnCHn0kIxcfC-P5NorEKMeFLfVrnYcFo0gzq-lYuqEthdfSKP-36BKFz-0tOaMIsUnd8hCVq1vc7kjiI4kvcH1-zanrmmJ948GjFXgNiXCOtTUIIdmVz32-MBlVFxQbkDO5IAjipb2-xTaBGmq_nI1Q1s323-0VarWGDGjj6JAQldDyjv68m7MztE7TF-UyFNhLrPj65Uqke1pw6sPUwAaKflyl3rh0X4bPGJHDPj_5f2hCvYsy0ZwqtiDSrcZQetaexNtyv052vJrqglGTIfy6mSfmg3hbYeoWx8vpiQ",
+        "width": 2448
+      }
+    ],
+    "place_id": "ChIJYSWggmT0K4gRYsXdn5ZHTtk",
+    "plus_code": {
+      "compound_code": "FF6V+FX Kitchener, ON, Canada",
+      "global_code": "86MXFF6V+FX"
+    },
+    "rating": 4.7,
+    "reference": "ChIJYSWggmT0K4gRYsXdn5ZHTtk",
+    "scope": "GOOGLE",
+    "types": [
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 27,
+    "vicinity": "Balwey Manor, 241 Waterloo Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4548301,
+        "lng": -80.4972143
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4559835302915,
+          "lng": -80.4956325197085
+        },
+        "southwest": {
+          "lat": 43.4532855697085,
+          "lng": -80.49833048029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+    "name": "SOMALI LEGACY MUSEUM",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4501,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114455250778807404714\">SOMALI LEGACY MUSEUM</a>"
+        ],
+        "photo_reference": "AeeoHcL0mNjcYyNdYUOicfJ5QrGlPQNrFnQFqKdEI6Ie4-rROCcd8FNIF0sdMO589qvWG5LpOds1hxwoZL4qVYlht-gKk8Ld2mIcDBoeVwkiunpsHbfCf77AbnpJpsBDDIodXmdKFKffyHlzUSmXl1_z53Q4YzmZ-mIe5m4JDfm87ZsB_quQqrA--4fh3uWqYMWtexF2PAEYjLIp8blTb16CuwF4BKHBkYdVyV5u8rjuLr3CAQUgUDkrGdPLhc1lok9ppw_aWZJxp_EEgbp7VN_MdcMwlV6FcjtIRtBBK2RZCtG2brRrfy8lX-EsAvePNUd8ksbMdhd6So0",
+        "width": 4500
+      }
+    ],
+    "place_id": "ChIJcYTvWoD1K4gR2TwPzKNzZIU",
+    "plus_code": {
+      "compound_code": "FG33+W4 Kitchener, ON, Canada",
+      "global_code": "86MXFG33+W4"
+    },
+    "reference": "ChIJcYTvWoD1K4gR2TwPzKNzZIU",
+    "scope": "GOOGLE",
+    "types": [
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "283 Duke Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4758743,
+        "lng": -80.5454781
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4771924302915,
+          "lng": -80.54399581970848
+        },
+        "southwest": {
+          "lat": 43.4744944697085,
+          "lng": -80.5466937802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+    "name": "Museum of Vision Science",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102584875072436456503\">Nim Ja</a>"
+        ],
+        "photo_reference": "AeeoHcKXRkBpUwdmHsH-GTvhRwo-9UXVvY_1wQq7KMs6fPzX1z4O5X-4Yklwc09LfFIqVxDnk8m-ZMmJlvzV8GVsYg3Hy4FeZ9GhzZnmOv2l_bAWO6VNhSBE0pibukwulUfc2dgtDLNn73P93hNKPPZ2lOfhtZDpd3jgetqk7fgG2KsGtP0y9XrBoeLYGCrLlt3mWdurETJeeXKxQkFVoSPRm0jV3tTXS4SIlu_KbcFj_5efP_Z6A3W6t7RXSbECXp6I5cLqONahNbRpxXjt9mt2owP4D60dotM3_DuremuR5OJ-3vZcKAhK39n7FDm-0tOY3VVZvrA9djKdkdW8EhxE9OHwN8sqSh-bhZMb8-tCBsiGu37mY9aqVEo5Dltvq3g7T1BT4t6bnfPcCFGYAj2wppESO1xeWAMItpnkLoPYx2ImMI8YTUaGl-7B5IRI_GbEjHHEwpqNGrtuFlF0ZwJRc2_M4dT8nXT-HnYdntE6DjuTZfMwOQIDU9x3ARYJzsGkeifowPtQilZANupoxab7r2yhTwn1JQ1rP4X-K-CAth7kppY7WY2dYLrMs1Zkg29Z4INL2G6GkF_dqY2fezgf4tLEs55lp7xsIXBd055lrs75haX7bABvtv6CI1yckQHJBes6lw",
+        "width": 4080
+      }
+    ],
+    "place_id": "ChIJZVhnhAP0K4gRyMjqNY66rGA",
+    "plus_code": {
+      "compound_code": "FFG3+8R Waterloo, ON, Canada",
+      "global_code": "86MXFFG3+8R"
+    },
+    "rating": 4.3,
+    "reference": "ChIJZVhnhAP0K4gRyMjqNY66rGA",
+    "scope": "GOOGLE",
+    "types": [
+      "museum",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "200 Columbia Street West, Waterloo"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 43.4753782,
+        "lng": -80.55221759999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4769735302915,
+          "lng": -80.55089726970849
+        },
+        "southwest": {
+          "lat": 43.4742755697085,
+          "lng": -80.5535952302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+    "name": "Brubacher House",
+    "permanently_closed": true,
+    "photos": [
+      {
+        "height": 1365,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115328340191115810408\">Brubacher House</a>"
+        ],
+        "photo_reference": "AeeoHcI2J5G497D_mQ7JUxb64KpIsNBn7SxuOrtqyepwaRcVEysz5pq7HFWNRFhNVbgdv5-rFKt1765wNI2CZ5BZwksskn54Q4wW9ALUKsRxEyYieEjQqJwUwDsSnDdhWDVhLWhAPH80wWSV91hA1RAK8MUy6Fje7AYAQ4ym8Im2IUxLsKbwaqO3oBBB-78kITa3FZx30f4H4A7autWas2w4W40ZAApT9lK1Nzx6qW1ZgTK_W8t-bBRYEyQLYodPMBkSnGJkIgOx2LwbKN5Bq1At1WFk674N5jzrenGX01s7nuFE4Sjvjq7U8gwo_4JuxR1Css8Yxu92SGU",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJW2wzMfLzK4gRgGifOSh577A",
+    "plus_code": {
+      "compound_code": "FCGX+54 Waterloo, ON, Canada",
+      "global_code": "86MXFCGX+54"
+    },
+    "rating": 4.4,
+    "reference": "ChIJW2wzMfLzK4gRgGifOSh577A",
+    "scope": "GOOGLE",
+    "types": [
+      "museum",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 35,
+    "vicinity": "Frank Tompa Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4500672,
+        "lng": -80.4893888
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4513830302915,
+          "lng": -80.48814486970849
+        },
+        "southwest": {
+          "lat": 43.4486850697085,
+          "lng": -80.4908428302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+    "name": "THEMUSEUM",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1367,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109885415178631468879\">THEMUSEUM</a>"
+        ],
+        "photo_reference": "AeeoHcKKXIFG1t08QhIjuCJ2ktN07gdNeaO7kIJ-mvxCTMjPcHDaCxRfFVFYn8HAfhh59zQbOxHOP303t6XPyQ5wdjxlubeyDIpfdrVNiqfCbSz4mWc4PvNrm0karwwhyLmgvnemGON6p5ciSvNb4boxshwv-z3Uv7mmLsHlFIsQaKLpWAMvd37xeHKRm3MZXrn8OV7e0tb8nT-2n4YhwgrACB86510Gc-Hj1Vq_CJigTzMxP4A_htzNgnyztPAsE02xrvTxnqjqPUiXDegGckiLKdOKzDNmipTXofQky74ulIchLPZCHtE800cu3xA-nj7NZgUwRCWuaco",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJ52t8jPL0K4gRX8TcXqzfMJQ",
+    "plus_code": {
+      "compound_code": "FG26+26 Kitchener, ON, Canada",
+      "global_code": "86MXFG26+26"
+    },
+    "rating": 4.4,
+    "reference": "ChIJ52t8jPL0K4gRX8TcXqzfMJQ",
+    "scope": "GOOGLE",
+    "types": [
+      "museum",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1664,
+    "vicinity": "10 King Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4353596,
+        "lng": -80.5252172
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4366392302915,
+          "lng": -80.5239840197085
+        },
+        "southwest": {
+          "lat": 43.4339412697085,
+          "lng": -80.5266819802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+    "name": "Caso Artisty",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102355176209601604174\">samira ramezani</a>"
+        ],
+        "photo_reference": "AeeoHcIVIn9I_9hJ81A0dzz_8aFLcHKzuv3-uc6ywdL7DSDTDch9tF4A_PATfhU9-NTuHRRxKtjwWAwH2TK0UskqhdQScLLKel_odUXOfa9Fg3faAmpfbS6x1rGwsL_6gbwkCbQjbRlnJ_ylD955CswZCEUAhSArsgWsDpRcVIw6jFD4cI8ofjd5Xk9ycZPRfjS-zQOI7wP-xHTZC-a6fRYXXqAidVybfjSkwLq5VGSuTxj5X-5nXbS6nsoRLLdDdmxbfoq0ixnFUAREzkp9QMtb0H-vXHuEkRgURmuovBUPA0NFU4MC1jSFjcGrAeAKSMARVKhA9ZCH6qiBwzrAwEGQ9R727xAKLiWbxszG1_lEx_MlO-6qXTIwy4gr1pzClo7UPxmWJOb_8i6SPCW3Ywe3C85DsI7diYBV8X8UpeSCUvd5oGe3Xv4ypODM_bMlmH54y8qTBLlsfuqspkYL7Dvjc8pOaj9GEdO1h6m3oYCCTkFpF45_SUqt8MWY12LRcNN37oEAMN4A9uOJG6-iXRwL8pzc-guicdDXsjA-FBdQG7zHd-BiMrZG_hH5A_F22AxbXJ32Gnd18bFgbLRn5Dzey6srJ6_P5in1B5bvHm-PWQidt0Uhegpyg_FZQ0A-npZK",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJoYvJAwD1K4gRt2sV_9MsXIY",
+    "plus_code": {
+      "compound_code": "CFPF+4W Kitchener, ON, Canada",
+      "global_code": "86MXCFPF+4W"
+    },
+    "rating": 4,
+    "reference": "ChIJoYvJAwD1K4gRt2sV_9MsXIY",
+    "scope": "GOOGLE",
+    "types": [
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "68 Monte Carlo Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4985211,
+        "lng": -80.54398139999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4999168802915,
+          "lng": -80.54259866970851
+        },
+        "southwest": {
+          "lat": 43.4972189197085,
+          "lng": -80.54529663029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+    "name": "Waterloo (Northfield) Train Station",
+    "photos": [
+      {
+        "height": 1440,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105443782769336241332\">Rene Boivin</a>"
+        ],
+        "photo_reference": "AeeoHcKHP9zZpPCY_1hJbNvCdcRj2ZTCp6I0TuDs9-ueSS4_tvVBIQKLF7Vq2YsoJNmv8_N0_JJ0LOb-b4ri697UUEFZkzVEYUZDeR-sC0nvMGbfaSqMG1p4UT_44dBGEcBXgGxNbkZ_iooNoiO_DrHakbPZknJAx4dJAwDyS-ByH71DXRqLXRIsMJ2Ga-XoB4-Qew-cCxEgtd2kSxwyekHbf6r8LeG-YQtggXIFKO_Y3bXKiEosG6aIlPu1uXrZtOfxrg1kd95zJmg-MtsOerarvuptqvk1kAF5-qd7S90OtcwjWzJ5H6BI98_z-UHSo7K9eXKC6OWmYO4KGXXqwA9IQJhjVHOurZtYLZA6Axwy5hRbqttcsVwQ5x_mq38rUOKsosnv0G3Ug-Fp4unkSe8qHZHPv2NSVJVIQWtED6eBzbQETWF_QLNaxScqbtju3Y-K1CMNFLnfnJSkcXrBKsaFVF1Fl4u59W1L_fMJL-UU0WezkTrA9p6STlLsczennUJqusa8Vjg1l1RYvp74-Uw6vRcaTu8g2BiaZuhDAReoouJ6e9QuxwzvinPG0OKxZOUaFVlC35pfyrauFPn-C5yMg0t-G_k-tUeWT4FCxEsaJi1gXZLu2q_3oHxrvdQhJaFbgwfkKQ",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJ5w7akxfzK4gRuu0a0aE-W4E",
+    "plus_code": {
+      "compound_code": "FFX4+CC Waterloo, ON, Canada",
+      "global_code": "86MXFFX4+CC"
+    },
+    "rating": 4.4,
+    "reference": "ChIJ5w7akxfzK4gRuu0a0aE-W4E",
+    "scope": "GOOGLE",
+    "types": [
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 10,
+    "vicinity": "90 Northfield Drive West, Waterloo"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 43.4008309,
+        "lng": -80.4369806
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4021871802915,
+          "lng": -80.43560151970851
+        },
+        "southwest": {
+          "lat": 43.3994892197085,
+          "lng": -80.43829948029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+    "name": "Doon Heritage Village",
+    "permanently_closed": true,
+    "photos": [
+      {
+        "height": 468,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117240957789698987724\">Doon Heritage Village</a>"
+        ],
+        "photo_reference": "AeeoHcLWhrKUC_FZX2QVxfzhwjwzxyYKA4fX5NiaOyoTZ3ZcsrfSME4PnNOH-7YcIFFwZLcv2ZUNfyRuATe0ieksw3H6F3RS2Ye7mJR2HcPipxho5TIGranO26Jx6NuWViMwKKPjhZxW1rbhUYKZMDkyS6gnmh0gUmZaV_LvgVnxNh1hWvc8Tf_4j6SRiIUtVeZEyoNibuazqoMIvLI2hKY8EgIHLL5glSDdwRe27mKCKZFzx3MwYjKJY-eSgytVskF7svytFmiG5hGiRtVz_rnKh6V6Bn1tO1Yf-oIgsc1KOY1m0an6QYoTUNNODh4vJ9JyYe5vASGXPwg",
+        "width": 702
+      }
+    ],
+    "place_id": "ChIJ25AATLuKK4gR12I6wpRo_aE",
+    "plus_code": {
+      "compound_code": "CH27+86 Kitchener, ON, Canada",
+      "global_code": "86MXCH27+86"
+    },
+    "rating": 4.6,
+    "reference": "ChIJ25AATLuKK4gR12I6wpRo_aE",
+    "scope": "GOOGLE",
+    "types": [
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 50,
+    "vicinity": "10 Huron Road, Kitchener"
+  }
+]

@@ -1,0 +1,3213 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4560683,
+        "lng": -80.5072404
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4575508802915,
+          "lng": -80.5058985197085
+        },
+        "southwest": {
+          "lat": 43.4548529197085,
+          "lng": -80.5085964802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+    "name": "Central Fresh Market",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 791,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112635251945597557324\">Central Fresh Market</a>"
+        ],
+        "photo_reference": "AeeoHcKuvQfvaJ29-ant5y416lrsXDoPp8tUE0qJRGQQv-RKEeHgnYAtDqo6En8k81ZrHW3R9NvIdt-zCr6COK0DC8YLZHrVaCg5g0Qe7FFQiJ-GEWc-ABwmMYCKe03LhHwqAtPgswiQQjQ5hKxKyAGV8_OS3QsDC7uLXvlbr_nUkl5TkYjYjka_xOncPVzy5TrB2smduRRAA6NhlcRKKJ8ojkV9j2UVX2OdmeSbiBWveH3EvMJSZ4yrFXJFGjxIVovkl_vveHvkD-jyw51MTdRq5JvvdrFxCJUXpoac0y9qOoLtM7rvc1jYIGs_IZPiWcG4EzicaRdW",
+        "width": 2200
+      }
+    ],
+    "place_id": "ChIJ4c6kAWf0K4gRr1TXhYPtftk",
+    "plus_code": {
+      "compound_code": "FF4V+C4 Kitchener, ON, Canada",
+      "global_code": "86MXFF4V+C4"
+    },
+    "rating": 4.2,
+    "reference": "ChIJ4c6kAWf0K4gRr1TXhYPtftk",
+    "scope": "GOOGLE",
+    "types": [
+      "grocery_or_supermarket",
+      "convenience_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 1110,
+    "vicinity": "760 King Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.459195,
+        "lng": -80.468711
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46065608029151,
+          "lng": -80.4674013697085
+        },
+        "southwest": {
+          "lat": 43.45795811970851,
+          "lng": -80.47009933029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Rexall",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101113457636048079015\">Rexall</a>"
+        ],
+        "photo_reference": "AeeoHcLF_6kOgumvDa6WZoo0F-Vss3buq-R-pBxH1MoqTI-XEUk7BHeLqcWzyhjmuSuPwr-8QDt7UtqS80GhvyQqAaPLRZ6RpTYlAzYTfNa4ITb5p7JTL35KgOU80tXMct8gRivb9SH3kggH-Y03--j-MKulpHI5GwtINzmKbnWwk_oPJ6hR_OcBuUBmU_A-EG0SABHUtHSIhZMqPJ8GDy-fB9HauTG0vH1HJgb4AmbwZfzg4SoaJ9usEM7jKTOqq_EvJEBWN02g0AMtnPFdfOr4QeopN65euCcmE3buaYvbd3_8oWGTjD52oc6m6TTmuMzW7bwTwGO8vQY",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJM7S-O7v0K4gRp50eOtiLntM",
+    "plus_code": {
+      "compound_code": "FG5J+MG Kitchener, ON, Canada",
+      "global_code": "86MXFG5J+MG"
+    },
+    "rating": 2.9,
+    "reference": "ChIJM7S-O7v0K4gRp50eOtiLntM",
+    "scope": "GOOGLE",
+    "types": [
+      "drugstore",
+      "pharmacy",
+      "convenience_store",
+      "health",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 161,
+    "vicinity": "537 Frederick Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.489418,
+        "lng": -80.49389599999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4907935302915,
+          "lng": -80.49257071970848
+        },
+        "southwest": {
+          "lat": 43.4880955697085,
+          "lng": -80.4952686802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Rexall",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117433566654895261317\">Rexall</a>"
+        ],
+        "photo_reference": "AeeoHcIYcMoCp_OdfkML5wIDRoHFZ7N2rp34iDFLA3HbtmTGqin_Qiu5qUJcmme0HM-mSSXshGA6iuJ9WzVQYe_ixqySN0Hv3RTqWqosbtRnL_Ea8uyaF2H2gD7A1-OIUSYuGGXaW2httG8IHRnsdjOrftj2eTmCdornrwVZ54qmmCq0QgYoWdtM6HGIkBX8LoBW6whLYq6i6xWmkbHfFA_n9zhlxygMD2-PN7OOsDg2AYvnEof5CwF1enfg0RU10MpP8Ycp7JaH9XL0y4JFBP7vWDIBXf7KF4URNIPWBIrCDC0dwJiWm2uv7JbbpLhDxxBsTFe6mzidhvQ",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJYxAXYHPzK4gRzsjIGILWIqQ",
+    "plus_code": {
+      "compound_code": "FGQ4+QC Waterloo, ON, Canada",
+      "global_code": "86MXFGQ4+QC"
+    },
+    "rating": 3.1,
+    "reference": "ChIJYxAXYHPzK4gRzsjIGILWIqQ",
+    "scope": "GOOGLE",
+    "types": [
+      "drugstore",
+      "pharmacy",
+      "convenience_store",
+      "health",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 73,
+    "vicinity": "425 University Avenue East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4589564,
+        "lng": -80.4822746
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4603231802915,
+          "lng": -80.4809309197085
+        },
+        "southwest": {
+          "lat": 43.4576252197085,
+          "lng": -80.4836288802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+    "name": "Circle K",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118141292848437638476\">Marta Borowska</a>"
+        ],
+        "photo_reference": "AeeoHcLRz10Imu8vfp1aZKwS4x0a3ylAGZ9bade1wEKlEBkTdnIzAQZ6gPElUXyAtbKQcqlUb20Fj3Ic0mmo6BteGqKslYHHq_800GwW-ftavWz2VHAxpRrDNvJ9cI-dWLrncM_ygrt8YU6yCUNRW47Jdw4qEVfqn-M-840EDSODt5bXIX9afIlAw_iIshHrlgIygcspBON88TQh86RJNe0WSKG-f84RoWPwhqaPKi1p4vhQj3Ak8Oj3wkplLGrtryIahU7i69fX-i-j-Nsv9VqwkNyv5xKma5QgbBNpakxEQ5pLkgQImJGW3GKH0lhW8PoCGtUFtylq2wtGarrXSc42rqevHATLwNBX7ZyAmXu6TEOrOmYagI4aT-E53qSS_N_6Da2Zc9k0PntLFE3LIlskF-LnFZq_bnzITTlWXVx_H9ogJhPXglTSTHidSurm_RLcYCMJ9Cf3LjkQWa4PorSQNUaWeAtJ9JmsL-LnjeiG8D90N9ZLnJuL1U-1BOEdOgSaW6vORhipstISfrN47P1Y3QMbn6VVFpdO5K953r5ut9dx6nC8YXsIynJ4aPXK-xVDNZnB-lAACKagXMLDYLDg9EbgTxBpusvlEB3zi7ZqKBBgSycGBxBPpxANY1EYMqqNTefe8SyY",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJM0QoKJf0K4gRdc0wUGFTV0k",
+    "plus_code": {
+      "compound_code": "FG59+H3 Kitchener, ON, Canada",
+      "global_code": "86MXFG59+H3"
+    },
+    "price_level": 1,
+    "rating": 2.6,
+    "reference": "ChIJM0QoKJf0K4gRdc0wUGFTV0k",
+    "scope": "GOOGLE",
+    "types": [
+      "convenience_store",
+      "liquor_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 37,
+    "vicinity": "366 Victoria Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4564156,
+        "lng": -80.4607087
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4577868302915,
+          "lng": -80.45939946970849
+        },
+        "southwest": {
+          "lat": 43.4550888697085,
+          "lng": -80.4620974302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+    "name": "Little Short Stop",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJgeF3dLH0K4gRcRd3OM4CzKY",
+    "plus_code": {
+      "compound_code": "FG4Q+HP Kitchener, ON, Canada",
+      "global_code": "86MXFG4Q+HP"
+    },
+    "rating": 3.8,
+    "reference": "ChIJgeF3dLH0K4gRcRd3OM4CzKY",
+    "scope": "GOOGLE",
+    "types": [
+      "convenience_store",
+      "atm",
+      "liquor_store",
+      "finance",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 18,
+    "vicinity": "501 Krug Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4440185,
+        "lng": -80.46900629999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4452925302915,
+          "lng": -80.4676715197085
+        },
+        "southwest": {
+          "lat": 43.4425945697085,
+          "lng": -80.47036948029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+    "name": "Little Short Stop",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2736,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108822761296561478687\">Patrick Asselin</a>"
+        ],
+        "photo_reference": "AeeoHcJwClyttstq-feJRZXoiD49vTCgAK1wyFOxhyMZ3bn5xHOCK51m86Y26eF1fW292mkJHf4zd59teip97iZIyEaG68PLz56kfYHQsWpppu2oAjOv_cYdDbNgrFZVA3wjD777FKV0S0uSGIl_m7y1DvjA5ezTgzwjCBS7k8Njvqiz0dVsAKNqahPRzI_5OP_jlSzQQ563wvvV-en4oQqOUZ-eMQo7sBkF0KVmP0MRXqifge9SqlXClSih4rjBtpSY2tl4RFrkmB971zoWVgeq1bCJlqdEU2s30ia2Wli2OUFZm93P1tkall2VANsTYwjC98MpBP9IvXrHqH3kMHTzjwZn7L--FVqxPiR6ikd1eXjmLk962gbM38d0dwAkKXhoqu27UWIWx3LvJ_1bxH4qU_0PNsGBOybH8rVFoeEqkd2EtA8Vo9YLsFJ6y6fjp5LFffK8zJJe0kgnkeBakOSfpTcGy27wEnlZ8TmI9tdm4ceDMV0N-6Ouf_Qh_oETMIDU_aXOIs1pESusbZ7W7TnXKIKsbOwexw9jmj16gYvZ8UbztJf6Z8WIqH9DdjHmc_jy3tXz4bSHmBAvQw7VTqtVnFKac-xrnIpq0Jb83tjQFMTl2HSMqKBNJQT7vc0QgiTwX17jgQ",
+        "width": 3648
+      }
+    ],
+    "place_id": "ChIJW3lvVcT0K4gRwe8tM0Nh2Cw",
+    "plus_code": {
+      "compound_code": "CGVJ+J9 Kitchener, ON, Canada",
+      "global_code": "86MXCGVJ+J9"
+    },
+    "rating": 4,
+    "reference": "ChIJW3lvVcT0K4gRwe8tM0Nh2Cw",
+    "scope": "GOOGLE",
+    "types": [
+      "convenience_store",
+      "atm",
+      "liquor_store",
+      "finance",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 30,
+    "vicinity": "120 Ottawa Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4795269,
+        "lng": -80.4848757
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4808363802915,
+          "lng": -80.4835202197085
+        },
+        "southwest": {
+          "lat": 43.4781384197085,
+          "lng": -80.48621818029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+    "name": "Most Convenient Food Store & Pizza",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106719219537232420655\">Chris Goodwin</a>"
+        ],
+        "photo_reference": "AeeoHcJW_GL2ybwRxIyLmpn7b9sm83gi3wyLchTCCuUAXYPUdfnBU7WGIlmxL7lrs_E_MY_3gOOYpEvblwoWQyjPT_sYG6iEHOVA6Jo5tsDt5V0yWOYXOtaqEWF-mXPSos6W26x3BcMdRxGQgsA_tKu1W9CQoyLbE-nVBDiDAlK3phBxw2o74xJbD7uS1I8y9efCoP--PkiU3aK9dTdgMGQJUzhsRPLKBzSjCnYzl7i94mxHozgsobPagzxT6Vug8tTZCCsFlhe5Ft2u5ZrUAZivzFIHnUbhr5e-GwlYv75YGres3nKNdMJcebMl9QYG2OK_SV87CeikV-UKKfACwMKycjNZN5t4qTjI_kNEMkbVefSBQZk14BRSVKrjwyE0Ivdwt9uyWve3RqDq1bAI1ys6UpN2cm30QqzEZ2Q0cyDLrm1ckg-fzom1NkRANQdm0gFms2zMOtGlZ9u9tp6ip-qI6XlV07BpxORQ2lU0VhVOkKMZhrKU9NjJeQ_W_eqcKANkCEJWCMqQjWIKG4hpgu7Ck6sCIZ239vv-mJOBtKtZQ1dJp-Bv3BGIvHQLExMD4ZRJfHml7VJXrC0dhkfjXAAPP3id3K36vh_hCSn1mKSsv6mjBF2opDimvxZj9jFVZ6dYQO3QuA",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJL5xClmXzK4gRAjkqkltnLzc",
+    "plus_code": {
+      "compound_code": "FGH8+R2 Kitchener, ON, Canada",
+      "global_code": "86MXFGH8+R2"
+    },
+    "rating": 3.7,
+    "reference": "ChIJL5xClmXzK4gRAjkqkltnLzc",
+    "scope": "GOOGLE",
+    "types": [
+      "convenience_store",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 32,
+    "vicinity": "569 Lancaster Street West D, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.42542419999999,
+        "lng": -80.5448984
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4267708302915,
+          "lng": -80.5434550197085
+        },
+        "southwest": {
+          "lat": 43.4240728697085,
+          "lng": -80.54615298029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+    "name": "Circle K",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104057767868712230209\">Michael Merino</a>"
+        ],
+        "photo_reference": "AeeoHcJ1cXfZHhY-aVOxt2iVcpRkmLZc26ZBXmhzcnBFiHiOwFcbQQdHpMtgaRF9KgRjDuXHHWbyZ_IjWsvc5IDnigo-FVMINZQ_eKwcJSRKXFQPAdAqMzzC7SVWKNtUylA0wKLD2RFVl-UamFJJwkjHNKDfOBguqTdBmEWQfNb7h-ypYYuRct4exxX0R4Ub9IL1cnHwjUiPaaeb6XQBYwTZqdWJcQlEk0RKPGETBRYvjZsL1DSiOUG1xgDcTlyAksIeVaMhWOZj79JKvr8UEOENTgY9NUN68sPgDUdL4KC0H30-fOrxcC78V6OpsXsAwqA-cE8CUbzf-eJH8Bu54zOahgIXmae1vEbHrepNxA7SyZ0wCysiOJSPbWOO0rxMhwONAXOj6FQpy19EVv5Xy018c2AkU0fW0oVg-AubL_JsPTibTm0GQBMQ7fktILoUEbJW5MNICxaO--DXhQDvaM91EZbj2Ybm_-tF0b4kQz7x0kFi5Ni8HzdtwqvfiwwKb-SQMLNQO3NPHiUQ6dKBKK7C69ISih6LBRvmmN0YmgaM7X2gYu99U2W10TG9kcmSDr-MhZPnEqmxWQA9nb5b4EOItBGuNsVkS1SHTSk1pL5rBgpfYZzvhneIhzilOtulX0uVtDJrzHsl",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJseN_z3f2K4gRKFq8usLbm9c",
+    "plus_code": {
+      "compound_code": "CFG4+52 Kitchener, ON, Canada",
+      "global_code": "86MXCFG4+52"
+    },
+    "price_level": 1,
+    "rating": 4.2,
+    "reference": "ChIJseN_z3f2K4gRKFq8usLbm9c",
+    "scope": "GOOGLE",
+    "types": [
+      "convenience_store",
+      "liquor_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 29,
+    "vicinity": "540 Westforest Trail, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.50320829999999,
+        "lng": -80.52783219999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5045414802915,
+          "lng": -80.52642941970849
+        },
+        "southwest": {
+          "lat": 43.5018435197085,
+          "lng": -80.5291273802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+    "name": "Little Short Stop",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3464,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113512457090145462310\">Ruben Agadzanian</a>"
+        ],
+        "photo_reference": "AeeoHcLUWkyAFbvQZjrwHlgKtkHmK2aO8OjRUwsiYUNoCTicOhSa0IdrvK2IWAGacqwr8hQY_VQYsgoZbf8_V6S8oyVa7QH5kzKgi9lOq-Ijd6pUAS5RWDqGUjeWRVxASyFNDmpKNfnOSZRN5soPzodMHpOC9uuVtM2d6BXfpzchNliANBaYL13eLtMiB0JkB5Xcd3Aj0aiwCCQzpOddDOOR3TSO7stggGgvtkM5CRe_ePbyP8kDy5f6GzipgobO_jc8Ilmo0o8GumBVGZAl2bpjy6ZDA_PquD5syOMM0Gv6c62DgNBsCbk8_6Li2YVSAII5kUbqHYYSPwaTvpfHkSWDfW0EfKDYBRdgZaDVjygmm4t-nq3RtDuCRVoLSA3d1ACqq1vAauLGnHAdKrZBXlunL3SDkbzCfwYIcR1JBOu-Rho3Xm1Q4OmJejJ0zHTNtjF7XNXsGlTfrxrF1iprqpB72cYVR4FonKDB2X7RLRzH6TM3Zv9eKqYlX6fx5ROlKzFg4iYRPS8SeMVyGnhqSbuD_fE01Cf_zSOGZtBxEFXlNdcOjeWN0IyJ2rxDhgkuQ7LSY9yJUp67g7lBbuRdSXPhI-26iaWrg3H-97wDYTxTHd3vqYO_AHCi82mJ7EPB-KuxBgg1PA",
+        "width": 4618
+      }
+    ],
+    "place_id": "ChIJoSw0aywCWkARx-D1IB-1vbY",
+    "plus_code": {
+      "compound_code": "GF3C+7V Waterloo, ON, Canada",
+      "global_code": "86MXGF3C+7V"
+    },
+    "rating": 3.5,
+    "reference": "ChIJoSw0aywCWkARx-D1IB-1vbY",
+    "scope": "GOOGLE",
+    "types": [
+      "convenience_store",
+      "gas_station",
+      "atm",
+      "liquor_store",
+      "finance",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 35,
+    "vicinity": "55 Northfield Drive East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4959233,
+        "lng": -80.5015617
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.49728273029151,
+          "lng": -80.50019396970849
+        },
+        "southwest": {
+          "lat": 43.49458476970851,
+          "lng": -80.50289193029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Shell",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1193,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109596735621693323594\">Shell</a>"
+        ],
+        "photo_reference": "AeeoHcKQfJDRg0ArkADCosda8NknsT6E5x8mK4gyaXc8yZFhqqQoY-Iq82y2rsdkRENbW8LvoE0RmVQEvClDlG5ruv1QxBRiI7hOlmZnrrE5okb530tg4fvki0iloLMq-Gl1543-z6ZIb90MM0EXxbYnKj-mBzHMp0Mnr6RqogW78a3FFieVp0uL4V_Xee4xtpw6PDhXpBdxyS-bJUMcgyb7QHLiGyIu4vpN5W_UG6wBXOHICcySJvyq7QWgghCUWtAybV6tpuOvPz5UsVjaewbOnxifgenUKwS8rcfMbgbNd_ibHLuZmSOvXvSNauHKDNPnp4T6bdViPII",
+        "width": 2119
+      }
+    ],
+    "place_id": "ChIJsRJInKDzK4gRgy40mp7LJiQ",
+    "plus_code": {
+      "compound_code": "FFWX+99 Waterloo, ON, Canada",
+      "global_code": "86MXFFWX+99"
+    },
+    "price_level": 2,
+    "rating": 3.5,
+    "reference": "ChIJsRJInKDzK4gRgy40mp7LJiQ",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "convenience_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 35,
+    "vicinity": "373 Bridge Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.41835770000001,
+        "lng": -80.5084657
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4198148802915,
+          "lng": -80.50724846970849
+        },
+        "southwest": {
+          "lat": 43.41711691970851,
+          "lng": -80.5099464302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+    "name": "Daisy Mart",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118354783860304046804\">MriDu Sharma</a>"
+        ],
+        "photo_reference": "AeeoHcIyyvFOpNqpmE2cmyEUDsywFpuYSCfs69GOBfJJ3WNmesE0lmgpO6tA-x8sS3Sn3PClsauzRsZqRBlv-z6tz3B-9t3kkkzvLO2XpH_xoFkdkib6K45Z35H30iCmrtr3FSAGAjhgLwg9xBSM19a7LKq3aSoknRqWDWqqRFqtVexYHYLDZHi_xu3X7qi13Os2X474nAs_FQgapM14V7ZQMVmdx-fvsdOPohwf71hWWon-_5SD6lkUNZspF-tF9kbIXiHGLxdKNuESejPGgG-o3vzjhy1dMVV9grKVv2b2NloDNDCRD-R_bB_yR3V6u1i35Is3J57eF7DP_vNe9efd3siXJpmOXSgWoAhF_PeHHjslfUtFwGo4PO58HaUCz6VkghrwLkN6MQJX5i5_Ul41NwKJ1wjL-DFF4xuNl3RpHr6upgd5hcgLu32cMSbhDaHaCbOIQ9yZ2GmXDvVli6koyJg8xe-EpPK5go-lOPmf9e7IKyGh8XTfwqcSKO0qRSlr8G5ff2UyJoVVT53jtNKECDSEb5JL1gufnqyJnxTUL5z1sU-bIbf42xT3-bId0ziCbVlH0cKUVMeybEzSQSkoeF96JqqmOFRFnk3D6FqDOmTpwwZOWsZlWIhHK2PnxOAMU_w-uA",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJdxLzGaP1K4gRT0c2SkOaVlM",
+    "plus_code": {
+      "compound_code": "CF9R+8J Kitchener, ON, Canada",
+      "global_code": "86MXCF9R+8J"
+    },
+    "rating": 3.4,
+    "reference": "ChIJdxLzGaP1K4gRT0c2SkOaVlM",
+    "scope": "GOOGLE",
+    "types": [
+      "convenience_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 20,
+    "vicinity": "1241 Ottawa Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4057646,
+        "lng": -80.5124871
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.40717343029149,
+          "lng": -80.51119066970851
+        },
+        "southwest": {
+          "lat": 43.40447546970849,
+          "lng": -80.51388863029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+    "name": "Circle K",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104338751294581844198\">paolo tranquilino</a>"
+        ],
+        "photo_reference": "AeeoHcIWb8MEqqc5hZdnQc7oO7JKWsHUMcUeUEUVIVhmgGIkCtBY2S1VcVxkNYBFmUpuKjPwT92RKEzLioH6eIYSULoo1421ybyumPIgXI1Y3Dlks0EeL2kH2qTmOVfqd4rOMZ0VkeoVG8kpcExMmspYIxxRg2JphcFcqQjWqC4GWJ9iM8e7F5RUaAut0JcmBXxeeAAw7XmEDFeQJ3RWI7ey5kNaU_JWf_2VHAR4VScAIwxzZN6VT8TVOsbCzszjmK1eKS3r6tKV-0UfmQLpICvpIZqJG1OmPtiIgJh5DZC8gD-tIB2hhQoS1a7L-OlKvZYypXAlS490X3j9fAr8Ij6l8oEEEKSQBfPUB4U6Sa8bcflZzJlDhh5jgwaTd-G-GZl36I-TtiSRf-mCRyhcJrw221xTv-iNOmCdiIwUdl2CslaxHxXLEuaZuZ9iVbRy9L0cjxZdlSDbWcUUr9D5b9YVs3pRMt7L_-r0XafPUInydZItodiqWn9lTx3TNWRQmSzvBFAxiXkwlpFh5y-GW_BBIVqw1YYWsfs7ui-AHvBztaV7Hbq-tOcFnUa7fmf0Rz9jn-FiwYRd9iOoD1f5WDfYsT_M1cDBt9YqkX89CqV1KDGXnhaCKb-rKBFRmi0zuR_AQfdNrFvo",
+        "width": 1600
+      }
+    ],
+    "place_id": "ChIJWbVH1o_1K4gRdwBSghtQaGo",
+    "plus_code": {
+      "compound_code": "CF4Q+82 Kitchener, ON, Canada",
+      "global_code": "86MXCF4Q+82"
+    },
+    "price_level": 1,
+    "rating": 3.5,
+    "reference": "ChIJWbVH1o_1K4gRdwBSghtQaGo",
+    "scope": "GOOGLE",
+    "types": [
+      "convenience_store",
+      "liquor_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 29,
+    "vicinity": "192 Activa Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46695760000001,
+        "lng": -80.4583006
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4682420302915,
+          "lng": -80.4568242197085
+        },
+        "southwest": {
+          "lat": 43.46554406970851,
+          "lng": -80.4595221802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+    "name": "Ministop",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102824176067937656860\">F. T.</a>"
+        ],
+        "photo_reference": "AeeoHcJxWxIMQbqv7uyfsGk3GOAAqDwcC2dcJo3EynOw7gXEIHI4J1TIatE719H0GmzupsQUsJQafAs6G9fkhttl4P8dUxSmrqxtbFAJO6PcsFFDUUuB-JekJwbpRIcfzktDehhYOJ9_vO5Z3m7iWLrvalnlUSb4A600PN_blK7L7l2SnqvYmvLafVU4jCAAYNSj-L2iFB0wus3x5Zd7UosPa0Bf4E_57Vk9f13Nvdpm-1IzlmBMvKbaOXeGjUzD_BWilf3a1pAknk7bPCPCQjBqukgt6tovmGjDLp2xnjjcdKlZ6bNcZVg2ldmgIhOesW5SFXymVCBOSt6thOTBygm54d1kTi-vm3UZzo55f1wye6e3GS4PrLD_Vh8soh1yCBLKIfFiLI9cBp0Oy_0wlcoCfT-9u1kOtSU6fe7J5kKxIgOZXEh5z_Db2-3dLiCWzUo--uGY-d3EMeHwnbQJgK0zlMZLooa3yE1FDgeKrhiri-3nC-ddFo5LanIc6m0Jfn8louTAqw9omCnWRBPEIKfC-X1SJ3bzLl68KmMSutw4-b7QzEplrLb4KzFgEzdegophtnQOCTiSJ_P1cL87ayAGa1uWK80PZSalnGd0qKZGqpyHiNG-0mB4ik09bA135Sxv",
+        "width": 3120
+      }
+    ],
+    "place_id": "ChIJj5Y3T6r0K4gRm6iW-EA4nuY",
+    "plus_code": {
+      "compound_code": "FG8R+QM Kitchener, ON, Canada",
+      "global_code": "86MXFG8R+QM"
+    },
+    "rating": 4.1,
+    "reference": "ChIJj5Y3T6r0K4gRm6iW-EA4nuY",
+    "scope": "GOOGLE",
+    "types": [
+      "convenience_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 33,
+    "vicinity": "1120 Victoria Street North #6, Kitchener"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 43.4757593,
+        "lng": -80.5356264
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4770775802915,
+          "lng": -80.53447971970849
+        },
+        "southwest": {
+          "lat": 43.4743796197085,
+          "lng": -80.53717768029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+    "name": "Student's Smart Shop",
+    "permanently_closed": true,
+    "photos": [
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117322561501909509565\">Venu Mehta</a>"
+        ],
+        "photo_reference": "AeeoHcKxdYS78dJ_WNwkLX-CffgVVpHZHxNVTBTsmqKOoTnLBKg40YhWijFW4dNHsTTC38XtmvIMkogGcfp4rogJyz2314e3d446mIablr2V1TAveroZJGbwPpvnTWboU-6dnv0l_MI-t0ssV46KarzR4BnXis0BcEKPBcwZu2qWCkLyn_JaxabZZi4X4gJ-ZoeMxWfx65MkLcKgXFuJwklNzithe0Z7Dj6PnespELQfZcybFYlA5lkOy0z26s6J2b7cAaXxWozXtW6jMy2PpL82AcWZz1_PuFSAFAk8-DaDnf-Np01W_doukoy1Npd8_v9S718UHK0dSkLi4_ygmI1m0pdQvkVk35Qi8aBxNYxpF2jSToWJemrZoZnN70vuAmm8aWSbRkqdnDpvyecS-jz_o_RGik-dG8GtAVyoeg6vZduII2re1Fx3UN4cobLLkdmjUmbMknLLJGqKNo02jZRj54wUerPJx-v_bUq5aBGaYFk1q412BixQq0F1PhUWGKQ_uNLIXmruckJNXKaCAQpUZ5QR61brbrUGDPzXxYt4o1aqywEsQbFG5TIoxkrkPf1NXwO1GPpVZWP_kP8UhPlabrI9oMqAhy-RpmRGgzWgqCXTyr3IzUVPR4vgXgwuwuCgSISv6YtH",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJAZxghvjzK4gRWVn5exx0IKg",
+    "plus_code": {
+      "compound_code": "FFG7+8P Waterloo, ON, Canada",
+      "global_code": "86MXFFG7+8P"
+    },
+    "rating": 4.3,
+    "reference": "ChIJAZxghvjzK4gRWVn5exx0IKg",
+    "scope": "GOOGLE",
+    "types": [
+      "convenience_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 23,
+    "vicinity": "280 Lester Street #113, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4462426,
+        "lng": -80.5235608
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44773148029149,
+          "lng": -80.5221798197085
+        },
+        "southwest": {
+          "lat": 43.4450335197085,
+          "lng": -80.5248777802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+    "name": "Hasty Market 24 Hrs",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116690524333425749888\">Hasty Market 24 Hrs</a>"
+        ],
+        "photo_reference": "AeeoHcLkPRmL6rdGqmywIBJ5ZHi4xGnvb6cJ5QOsfD0qVugGrIMqdEe1NU4NgI7lJphEdiZzFwn3UM_wamdD7DhS_6FRs34SwxMKMHX7hQFoWJGz0OEKCyr1zHZ1bpQ41fJ0S5jpF55GpWKwBWkmY6CmuVAKfmZCaOD6Zu1eykPNq8jOI_LRs4BWJhcilrtbdSbLOybMWNBNVLtcKFjzsHaGzOuBMIoG3Yh5C32D9oLGyrDDAdKJDCJR3KLU3u4_MrfgZOvyVR6Omoy9MEKPPotO5BfbLkg5ikv7WziDG66vCPYg_jkxV3vA0Od8aYtqifNKIT40QLsNg70",
+        "width": 3999
+      }
+    ],
+    "place_id": "ChIJC9WP3Dj0K4gRvoeGPGVdBDM",
+    "plus_code": {
+      "compound_code": "CFWG+FH Kitchener, ON, Canada",
+      "global_code": "86MXCFWG+FH"
+    },
+    "rating": 3.4,
+    "reference": "ChIJC9WP3Dj0K4gRvoeGPGVdBDM",
+    "scope": "GOOGLE",
+    "types": [
+      "convenience_store",
+      "atm",
+      "supermarket",
+      "finance",
+      "grocery_or_supermarket",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 79,
+    "vicinity": "11 Westwood Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4713199,
+        "lng": -80.5453422
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47257518029151,
+          "lng": -80.5440219697085
+        },
+        "southwest": {
+          "lat": 43.46987721970851,
+          "lng": -80.54671993029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+    "name": "Flock Stop",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104744917914868926942\">Flock Stop</a>"
+        ],
+        "photo_reference": "AeeoHcL7rNOiirUPKqe4c4oRqChrSsQ-Ih4R3v-9hHXzvZq4n6df8TtLsuayRp355k84_DuBYKdgK-G8ul6OdMJInz72RuAMNq2lw14rCvFB1Y66jlUG3UuT73Mnfja1BbakGx3bXqDCn6Vs3mfX8EZrh8rXqjtSjfpWS2jwdUAKE-YIDbpCb7q0_cj9-rn6iHu2Na2KDl_gXHJFnDqX1pcm9SEwM7HjszpNUNPaHUtQXtdzyCnS5fxg_PvL_RDjLhh09BJfquWV267JFuy8ZqR_lI62fhEbckOyBRqHbhqCrbO6Ae48Y00-jZoBXyitCJw4XnyrtdNGxrw",
+        "width": 4080
+      }
+    ],
+    "place_id": "ChIJ0yeAIar2K4gRovyTQZRU5d0",
+    "plus_code": {
+      "compound_code": "FFC3+GV Waterloo, ON, Canada",
+      "global_code": "86MXFFC3+GV"
+    },
+    "rating": 4.3,
+    "reference": "ChIJ0yeAIar2K4gRovyTQZRU5d0",
+    "scope": "GOOGLE",
+    "types": [
+      "convenience_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 29,
+    "vicinity": "Student Life Centre, 200 University Avenue West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4427979,
+        "lng": -80.5437772
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4441953802915,
+          "lng": -80.54239716970848
+        },
+        "southwest": {
+          "lat": 43.4414974197085,
+          "lng": -80.5450951302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+    "name": "Daisy Mart",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102145146042226115872\">Naeem M Khan</a>"
+        ],
+        "photo_reference": "AeeoHcLUpMFV2FW3QZGk7JTLIc1JpUcapQm-jGASghLTEbn0GTRVxCcaaJyc23NTxFKGjDHzZGu7HV6hqGkqAYVzBgoad66Q7s_SJLY76WttXfruZT_QAiZGTK9fCbVQclBHdCl_jYsXhK6eL1ymSP1QCnIDPRJr33fNOSsbcNEZ2HTJ8-36I0euSSdJfgAIX9gM1zlzUk_5YR-Q4y8XbRi9BdaP8AAb09eBjGMyABP-EE97gnK57m9d7CU67sqv-PgOhiTRMVk6F_iwkiwOimvrIHnDlOVTralls6SehDkmKzcUDCDnKwb49jPG37QK0_xJYzH0_MwTPRKmC8eFy3SO7Uo1S9qF2eBC0vBjqF549Fy4KQXhLSs6QtmesD8IwXSjE9TKK0Hk-ofNjdvsJzPRxf17Rq7d97hBagCEZknVt240LM0jltLx6iBs6UpHqDX6Edjuxu3yyw4NW_oRwRBNMfN0Ovl5aIyXv9fovR9rKBEgLPWbKb2sdTRSFbJmrfyF29YzT_N2wJLC-zACCeQVCLLwgWHsFZyYvX5-_ZI3QLlRaoJF1fP0aUK99Cins5UTugFfWHWicun6FjrjnRaDVx7JUn0ke4AOdUu8WogswArh8JW7ZA-zcL4bqcyw_91gcIAJpw",
+        "width": 1440
+      }
+    ],
+    "place_id": "ChIJfQRtHoL2K4gRiNmOnmIv7kQ",
+    "plus_code": {
+      "compound_code": "CFV4+4F Kitchener, ON, Canada",
+      "global_code": "86MXCFV4+4F"
+    },
+    "rating": 3.6,
+    "reference": "ChIJfQRtHoL2K4gRiNmOnmIv7kQ",
+    "scope": "GOOGLE",
+    "types": [
+      "convenience_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 20,
+    "vicinity": "851 Fischer-Hallman Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.437013,
+        "lng": -80.51278599999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4383461802915,
+          "lng": -80.5114493697085
+        },
+        "southwest": {
+          "lat": 43.4356482197085,
+          "lng": -80.51414733029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Petro-Canada & Car Wash",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103634708711974066884\">Riya D&#39;souza</a>"
+        ],
+        "photo_reference": "AeeoHcJJ70DqPwawAOYBYTInznpEZ6NWCnnS5N8VeWN3AH1xLFl_MaK0ZhR4ulsgi5GAOnVTIDgCYQ68aTO-nDtae-pTcWLYRvjMbbwYEY-8ECKP9fyNJOltoxH-lOK__rehwZe-_HkFxiK65i2Vp6vNrhxO4qyBEVoGZB6lqIuHb31F3WBJDSQkY9kUR75549l-8_ZGHOTXKPdDokgTpY9fO7MPhIrqPgkSlBcdwK1RrHRlbAKwiL3Kk3XIZLTJDUWA-UuSojPH6AgmXS-_rOPwOntrkEpW8PXQGxgeapQRbprVQq2ExB-uFl0JPZt0So_V0woEW6NybTDJGD2Y_3sCePxYcrCnkB37ZrNNWn10_P2Y9hZf3dyAuXoqYAgUTu4uxk-CWjTV_sFADQCTuX0tmlNQ8o9pGZBYgcNP8XBhGb7bVyXKn7rVQvjsMz7WzRV5zer0Iz8N0BoyhnLcrc8D9LGsbHdfYCBWZhQ51jmNuI11eKBC1yGl_fSVvSfUQF6b2IMRPawMpnszQ1y5yz_OlWYjIruFF9l1UDSlhxuaVsAitvubNQzoS4FIAxQ9ZSk-kycrihBTnq3jE24_FTjTNeEx5dkINZZ3ZexZqe7jOxt7-MY7307dSCytLb1nNLTP",
+        "width": 3000
+      }
+    ],
+    "place_id": "ChIJnRWGBk30K4gRR0n5yJAeMuY",
+    "plus_code": {
+      "compound_code": "CFPP+RV Kitchener, ON, Canada",
+      "global_code": "86MXCFPP+RV"
+    },
+    "rating": 3.2,
+    "reference": "ChIJnRWGBk30K4gRR0n5yJAeMuY",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "convenience_store",
+      "car_wash",
+      "liquor_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 131,
+    "vicinity": "426 Highland Road West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44855,
+        "lng": -80.48568279999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4499535802915,
+          "lng": -80.48438896970848
+        },
+        "southwest": {
+          "lat": 43.4472556197085,
+          "lng": -80.4870869302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "SMK African Foods Inc",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118141292848437638476\">Marta Borowska</a>"
+        ],
+        "photo_reference": "AeeoHcLSCuk7zjWMb2f9WeU7wVAgVqn5U_TZ0dW52CNeV1CgQ8DUtb2xfmsujncM9JYMZvQg2wQFriMudOyM55QLf3yZX9tw3ApLcttMPVn50krSMJxIKNs7W5TgzjVbOY1g4k6GqpT_ONff9aAj3WEjq1ZVhHDaHy-qIoqZ7mOybYxl5vbwEMmZZQlAj_poKNuqv0sfwTgrYi4ryJ_fiIigGAs2XQWi-2070nrmoFJ1828iWMAqqlamabEuOS82P83jOykjue03ogROzde4XFpm1MsJcP8iY_bw83fNdj9T50M4dD25hVahY1xF1K-JtgFCF_Fnn3dmi92sX4Sv60K2BzBR6uuQDUoq6SBHjolq3YcBRJ1IFjEMhnkjU17WIEkgBEvhi36RCOYKsGCXjn9fL0WK6GId1oLLel7WPBs4w9px000rrOTOcozlKPOIX-pzONNz8wFTa5y3n_Pvl9rVKHR0yAvfrMcNeUgaTDTaH9OFN9Rli1-mEh8QiGhi9qd_esezGNVYs8QDSwU8_1_DxwnYWqFFm56YtVmkCx_4DrPLh64ls7k9jvYMHefZ_CYnbGc4gDRIBZ4dRLijleEvMG87pENPdzJIPrqdXTdzjid3qKdcrTqvI-TmJ584nVHAkbzk-w",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJVVV5tO30K4gR_utDUrrlPq8",
+    "plus_code": {
+      "compound_code": "CGX7+CP Kitchener, ON, Canada",
+      "global_code": "86MXCGX7+CP"
+    },
+    "rating": 4.2,
+    "reference": "ChIJVVV5tO30K4gR_utDUrrlPq8",
+    "scope": "GOOGLE",
+    "types": [
+      "convenience_store",
+      "grocery_or_supermarket",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 47,
+    "vicinity": "206-C King Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.493898,
+        "lng": -80.548109
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4953613302915,
+          "lng": -80.5466268197085
+        },
+        "southwest": {
+          "lat": 43.4926633697085,
+          "lng": -80.5493247802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Petro-Canada",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117058967526677167429\">valliappan p</a>"
+        ],
+        "photo_reference": "AeeoHcI7XByRk4IQEXW2qy20nxFbPBycvo0FXOCL0ZZEKTYILAgacgJ9FGjV9bEv5635DS0yTVOAPJ6mhXp-XzyDAXq7-PceOMP-0DCtippL1shWKcLa0tkfy4s5qdyiPaoKVbPDZndRA8AHiBo65EokXfbAbA1wgHpyOTBtLKuOdjDDTb7At5Ejc7LHh5BhBICBn0wiW6Shfp3ZGZfoTk-V5ym9wystZg6OkZDXBGxjmCbAl9zKuYv2hKHuTbrFFZN_CN8_o9KV4GFWAVDvegvNKAROXIOdRYKDmLeJE8doX-0sxzphUxVLQJWpgaip-Evr47dIPK1ncQlMlchHidlZwxbr6BlYVcftoBcQ1u5dOk-qeoUEK8ruVesD95hfpfP4R75-tYL2rZi08UT0jq5qpX3K9iJIjXA3LCXHPlLx3_vFlA57wVIr_wVeYJTvzGojck98VAtWfk9cgV0co0N7TpM5-LbGNvrm7aDMAjou-Kwb8Srxi60l5ntq0ZjCDz8Hg7FmO76S6lflP7Ql8V7QnIVh0HdCgmP8Q4Xa6NKLi2-IExe-bYekQCXw3LWgJX13h2mjN2szMJI4MUUpVRzSlHv30G4xW1vjcsB60QBU8pM6fBzSImRhfBmcYQWp1erCrrDXYmzj",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJDXG_FV7xK4gR6ii1povjDeU",
+    "plus_code": {
+      "compound_code": "FFV2+HQ Waterloo, ON, Canada",
+      "global_code": "86MXFFV2+HQ"
+    },
+    "rating": 2.7,
+    "reference": "ChIJDXG_FV7xK4gR6ii1povjDeU",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "convenience_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 90,
+    "vicinity": "730 Glen Forrest Boulevard, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.500754,
+        "lng": -80.533136
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.50211953029149,
+          "lng": -80.5317607197085
+        },
+        "southwest": {
+          "lat": 43.49942156970849,
+          "lng": -80.53445868029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Petro-Canada & Car Wash",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117091818027646032203\">Veer Bahadur Singh thiara</a>"
+        ],
+        "photo_reference": "AeeoHcJ7JXcXTXlC_Mt6sv4alJSBwPruiqyVY8IuP-tV2TGSlMbaZxbgxaIWSq-R_ND0Rtoa52z_JKPxE3nCybwPp7lCNk256HK8l2o5tw6GcpvkGZPdieClEfGSOg15vThAJLjrkXa5KpwM_4BRvOUulst--bYxW5D6wP50gy3dVUmvnsDaY7vDgiU8i9SIOogD68AAqHZ0iTc03MgP1L30APydiShH9yQAh75XiSoWhBxfRx7avaQtxLac68Wv_o8JkWl4yvzI73dhHgYiX1jNeOTZ9Pl75tt8kzkWc1b7dyKPS4PKMoBs3urhwbeIIBNK0bgfSJ6HIySOzrZCViuwpFS0U8dAmyCEhwjLQSKQ4G_FTbT9daFSs-axSZHz6nJK-eCYzMc8sx-DwK6ucH8I0CyyC9fhPWu0nmg733RTTcSZNPBCdXru82MCea3y9sAPrfcaLksLwXM5Yj_Z91P1jMj1OrCkdwsuD3a8m8IxJf33P2JxndlSM3xvpPh-L0hB6VD1mBwiY0h3SQyBCliBMmXPlrFdgcJTR-Go6eI1jWk8jnFU25wgsBCeBqgdShfwtmSSAS471uCywdsWXff50E5jZxruYs17dbW7g96ahmzqJPsS0Qdp2vJq8GfbHVDi",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJw7TSnC0CWkARjzJKJg_1jAE",
+    "plus_code": {
+      "compound_code": "GF28+8P Waterloo, ON, Canada",
+      "global_code": "86MXGF28+8P"
+    },
+    "rating": 3.4,
+    "reference": "ChIJw7TSnC0CWkARjzJKJg_1jAE",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "car_wash",
+      "convenience_store",
+      "liquor_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 99,
+    "vicinity": "565 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4330801,
+        "lng": -80.44863649999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.43454088029149,
+          "lng": -80.44723071970849
+        },
+        "southwest": {
+          "lat": 43.43184291970849,
+          "lng": -80.4499286802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+    "name": "Little Short Stop",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4284,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115983266722296307734\">Sony Abraham</a>"
+        ],
+        "photo_reference": "AeeoHcKL_mn1F06AH19qkpWI-JsRUzPQWBKNiE4gMWDgVCsDvL9pwggXxNsqeysf5H6IWFRNrZGaxxMnWXWrm5IMKrip2Gh1YKqSeI4byzo9UckKLvheNLBecV7uRWF7e5-rhdPXrCNQlrzFf4joo2hKgEty8bQIrI6JzAXm8ZKO62cQFUz2GEIbQ6Ix0TdSXjMdMmfX0hdwtCr_xvdJqe3H6REIqrZrQpy1ykfUdASqjTTv2Dn0yBvrowQJEvuGkxWd0LwNqRALzRRQETpdeSYym9jaO4ZwRtyhvFYseGxKf0JjB0Wa4yKhzIul1ZN2na8CTTMw7GUBH8m4P1l1H4K6T0Xi3asxFrIAID7aLEov6Vy75rFNP8hugifXFbpWKC5NzoKPhEy6fEks8Cvxa74AwZ2KFS8kMpXwsNOZ6jCZP-sxmkFPiIzOt4B_fj3zodYzo7H_oc-XuYC4iROCMCIhm73ImOLK_1SKA1SZ-RHb4UU-zP2LgwQp1dGeQGxlt0ZngABh8UU9R-NxwcJyooWHoh0AvDyl-iFjIbN_03ki7JGT66KOUL5pKYulIPOH2yrnjYPwP6_ruuMCzshkRjJVeWgMzFWmatRl4RSlg-PioP_U_dzKv6CXZ6k8JV9cKfmw_9W1Sw",
+        "width": 5712
+      }
+    ],
+    "place_id": "ChIJfTnvaSmLK4gRYxcj8iLawek",
+    "plus_code": {
+      "compound_code": "CHM2+6G Kitchener, ON, Canada",
+      "global_code": "86MXCHM2+6G"
+    },
+    "rating": 3.8,
+    "reference": "ChIJfTnvaSmLK4gRYxcj8iLawek",
+    "scope": "GOOGLE",
+    "types": [
+      "convenience_store",
+      "atm",
+      "liquor_store",
+      "finance",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 46,
+    "vicinity": "2399 Kingsway Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.41885579999999,
+        "lng": -80.4700436
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.42021063029149,
+          "lng": -80.46875061970849
+        },
+        "southwest": {
+          "lat": 43.41751266970849,
+          "lng": -80.4714485802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+    "name": "Little Short Stop",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102824176067937656860\">F. T.</a>"
+        ],
+        "photo_reference": "AeeoHcK7k6cxzoRpnMIuOigTXLzh9-yl8ZGJbxvcOFIdEBUTia_OnZIVPIe0s18RpvSAE7zaeNBQugmCUeYJyMYO_BhlDe8LrHa-_LtaX16odAn4Ni-9egLL-N4dXpLqkBXUMJGUeYvDRaWNe3xJvMHch7clFA88Z9gmmNoOvNenIBTY2hEwaLGb77Kvfc3aA8nAeu8ksmEjeKCRg6kQdr5Xvg2EjNaOKTawkkt-pty2BWE4T24q2NGL6WFnhw7KivmLlrZiZCHkJB9QM1QYi2FS5egANgxfvEyA4SbX5A5Dh6YnnasCrmceo-xTGIxLz2aWH8oQeCjXrJLgtGzds1Jklb42T9TDCIjmVW4NvZmcN2YwublDW4G2tmX4GQXczfSRIxwLeBxh706ArsfWjrJHh8AZuG0d8ixoWT4uHGu6JQCoyRUHn6wNtLQ3U-LzjmeXnJFs56k9PTgORHwYSLs_Som78lNEqWFNDPUuPyU8xuGdnrjU5vrnF9EsvDjMQ6OW8163Sm8k0k4-DYTZZFPZ2Tk_ApB2nEN5bj8g-CRFLcS4hRm8pYTMTN_qr_zibhpzxw3hT_fOqC9rL-mZjGX8_IvS-nItKmMz-lpFqaAW-LMalE8_u5mQPlkldIJvqA3sOwoyzw",
+        "width": 4160
+      }
+    ],
+    "place_id": "ChIJy0yhrjv1K4gRPM6FrP_UKow",
+    "plus_code": {
+      "compound_code": "CG9H+GX Kitchener, ON, Canada",
+      "global_code": "86MXCG9H+GX"
+    },
+    "rating": 3.6,
+    "reference": "ChIJy0yhrjv1K4gRPM6FrP_UKow",
+    "scope": "GOOGLE",
+    "types": [
+      "convenience_store",
+      "atm",
+      "liquor_store",
+      "finance",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 33,
+    "vicinity": "1450 Block Line Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4190008,
+        "lng": -80.4697295
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4203400802915,
+          "lng": -80.4684292697085
+        },
+        "southwest": {
+          "lat": 43.4176421197085,
+          "lng": -80.4711272302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Shell",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1193,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114270967033358740352\">Shell</a>"
+        ],
+        "photo_reference": "AeeoHcKUy7J3QaGzy07V7Ur8UPgcawd6aFn-7FxE9IikYUbQionKQiHXECg4lHdc_PSw5Vq2jPJ06YapefQcd-lXu1vtGMK1Bd66ZDXMw_tgaYBVLNNlfyhjyuYxkFpOGf9wOjjNS_kuH1uLeKbl0Ik34dQqk2YxX4K8ja57AFGi7X4NfnHetvJgFSwH0HxQzeDSKkiSaPvp6p62C77OsjUdnUqoZo9TLpMC6S9DQh-mkmuhvnuvl3bV2b3ENJn4k2u4Ny4nMVYpf2Tny1aYQY0RGIHM2W0HrZJnkO__x7saOATXM0uQCXigW3dzWaxSjUWdXAZHBrpdfyQ",
+        "width": 2119
+      }
+    ],
+    "place_id": "ChIJy0yhrjv1K4gR_l5QSZoYtsY",
+    "plus_code": {
+      "compound_code": "CG9J+J4 Kitchener, ON, Canada",
+      "global_code": "86MXCG9J+J4"
+    },
+    "price_level": 2,
+    "rating": 3.6,
+    "reference": "ChIJy0yhrjv1K4gR_l5QSZoYtsY",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "convenience_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 56,
+    "vicinity": "1450 Block Line Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.40675799999999,
+        "lng": -80.499731
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.40806473029149,
+          "lng": -80.4984532197085
+        },
+        "southwest": {
+          "lat": 43.40536676970849,
+          "lng": -80.5011511802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Petro-Canada & Car Wash",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109338729318599261685\">Deniie Patel</a>"
+        ],
+        "photo_reference": "AeeoHcJHsFLPuaevXbWSKBwWUx_FuSsvhXe3qKO39rZP6IcJFE5fSBRAOwrYCmT4xDC2MghfMBFYrR-iH4ZXYBxx-lOQjCwbQkmyXu5NF31bZsILuw5RLlhiXTqjO0BjhekvUiiwYt2xhykOLvI__vj92uya7EjoMiylCDmBFOab3u1yYE2G4gPgqEiKTtqGvLYprlcImBJdlTfrBszAalTXi2NUiPj4B--4mpaz8IGSmc6x1U72xEDJT7tpqOio8Lszbx8KxESZ-xBYt2wdWJSfBM1LsS2Sm6voxIy3vKR3rlTeyXnHyCvdacZavtqVgs1P5fcbSFl8CyJ2i9joYhaIg4dhFijorO43XrzeNW8wO4Ex0vuF7iAHDc5IDBe-wesu2b4JNA6-CcTo51twd6O_ezMOy9O-MK4MjbB3hnDYoy4laanLLO-S5OsZP-lcSV00_TszNbWRslBAzZg_WjSsXfU_hvePrzIjRW0K8mDjCasZpV7oqq6YFGUU_L1R9Y_gXHGRr2qRYbXv1iPFIXCXv2iy5kYIYFv1g3yvMC3-uYJDPBJQcC7x5h5URxg5ePqeOd1n2R7aPFFy4K2sixkmOK4TCYNdY9hPkN8irlja-ox8ief0RrsKSRKxezLweRHByjIIxg",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJxytiYZ31K4gRiZEnNeHpcLM",
+    "plus_code": {
+      "compound_code": "CG42+P4 Kitchener, ON, Canada",
+      "global_code": "86MXCG42+P4"
+    },
+    "rating": 2.7,
+    "reference": "ChIJxytiYZ31K4gRiZEnNeHpcLM",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "car_wash",
+      "convenience_store",
+      "liquor_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 85,
+    "vicinity": "1178 Fischer-Hallman Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4102739,
+        "lng": -80.4622483
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4116186802915,
+          "lng": -80.4607982197085
+        },
+        "southwest": {
+          "lat": 43.4089207197085,
+          "lng": -80.4634961802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+    "name": "Circle K",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJIeSY0HYcWkAR2A3KgqVfzwk",
+    "plus_code": {
+      "compound_code": "CG6Q+44 Kitchener, ON, Canada",
+      "global_code": "86MXCG6Q+44"
+    },
+    "price_level": 1,
+    "rating": 3.8,
+    "reference": "ChIJIeSY0HYcWkAR2A3KgqVfzwk",
+    "scope": "GOOGLE",
+    "types": [
+      "convenience_store",
+      "liquor_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 21,
+    "vicinity": "300 Bleams Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4285779,
+        "lng": -80.4315197
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4298844802915,
+          "lng": -80.4301629197085
+        },
+        "southwest": {
+          "lat": 43.4271865197085,
+          "lng": -80.4328608802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+    "name": "Little Short Stop",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106057984735230009987\">Cy Anyde</a>"
+        ],
+        "photo_reference": "AeeoHcLdas8a_RRq0GcL001DxVR65aTpSSAVC7tdBmx0q09vx7fClqQ9t3ZGOnsHWKW0ESjX-nm6fSbaiIMfRUnbeTp_AJYsPcaRbXChahGRZCq5fCt2dKjkmBoLFenXqTLR3yTXD7O9AfcRho_7FHM97JjbCNVfvrkjHDcvcCSi6afpFWcp60MW85u4bZt-JZT2s4gooGCujWBRp30EhMBUe9LGWqkFbqo5BtQvSgg3Uwq0nmu0JBfabVorKgwmiLT0zLrEy_6Qy1gdfBVRJGriNh5F4EG30AoGwPPWmSKgS7tyfm1RsZN02_4LW0_6QOdY81f82Zo54NgKR84Gu9GMwu80pbnqxjVnUkhhIG84fUpE45aEOMEyueUgSwyB6CDyz3yjo5ik96lKsqWrq6Hhqc4hUbVU49__UqSKb-QBIrnQMLMtVVNL688yWOEbcWuS_vPCNPoRCRUjVseWbrrDklvoE4WSqHd7SgkSUerA2-ZaFCRUXlOzSAF6aSpGdj1Cq1vIQ5S1rDXiGTdWy1zVKt5tbVbu7kTh5UYjh5lAu9Yp-h4gsPp_iguQgoiZTEcPYHErlvtJwZMAV9e5SAHDE0cRsLimLHBylut5qrlqbtGONjv4S16K4fHIWe7aQbGPr4CBQvsU",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJlW69JpEcWkARU5Q25EmHY2A",
+    "plus_code": {
+      "compound_code": "CHH9+C9 Kitchener, ON, Canada",
+      "global_code": "86MXCHH9+C9"
+    },
+    "rating": 3.5,
+    "reference": "ChIJlW69JpEcWkARU5Q25EmHY2A",
+    "scope": "GOOGLE",
+    "types": [
+      "convenience_store",
+      "atm",
+      "liquor_store",
+      "finance",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 27,
+    "vicinity": "3014 King Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.3965064,
+        "lng": -80.4626163
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.3978163302915,
+          "lng": -80.4612768697085
+        },
+        "southwest": {
+          "lat": 43.3951183697085,
+          "lng": -80.4639748302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+    "name": "Circle K",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105550692136117154460\">Bojan K</a>"
+        ],
+        "photo_reference": "AeeoHcIyVyslrWUq656MZ3ME0CG5mlWuBqjNtLKQUHMLgvt6gnOk9ZhJuvfzviXM0ng4-ZLL6JxMeipEsToG9-mhsQIhjmUg3Z_ZBI8C2dXkkMcv9mnnOntAFpG2nO7l8-5VgHtJFzR0tUCQd_qY36KvhCqHZMnT9TgiTDo0PdU_QyR2RYQZcarFh0wsOywPyOtdf4rVYjjqLdEfWQaB7jCpEDimnD2M5DTIY_3iGqOlISODlHhGR9IWGYvVC15QtRwbQPxPgnP9YcxUOXPyLE7qvwAcC35_sJULzOxb0fhKlTmXwlBLJYoeMeD7COdWDV9-STn_d7Vg2HTeH5rCt8RofJDmuo-rHLmDHxxvXRbXuZBu_LiDXcGMHO6xEcJDI97TJnOi_aU9GwQHr4aSbdrogYMtuaWMzBrF-Rkx5IO0A0UncxKoKOj-v2cKQk3_l20aQ5v-9gaTXvvA5kn3aofTZ5dbGjMnxF1KZzHqgEgDZsGbW03hXJsBOWF9xUZyCTh1YzbY9db7K9aU34kozhNzV06LJ8e3uAD1_nc4hx_tse2Ab3sAzvspcTCeAmceViHCeP8KxtVieu505dj5PCclTASczuArWI9m6z2COHA_wurvyKVqHtdUk4O7y_kCwjhQc3cj_aK7",
+        "width": 2268
+      }
+    ],
+    "place_id": "ChIJq6qqkXeLK4gRwV82TNZX8b8",
+    "plus_code": {
+      "compound_code": "9GWP+JX Kitchener, ON, Canada",
+      "global_code": "86MX9GWP+JX"
+    },
+    "price_level": 1,
+    "rating": 3.3,
+    "reference": "ChIJq6qqkXeLK4gRwV82TNZX8b8",
+    "scope": "GOOGLE",
+    "types": [
+      "convenience_store",
+      "liquor_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 22,
+    "vicinity": "1606 Battler Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.413602,
+        "lng": -80.605962
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4148919802915,
+          "lng": -80.60431226970849
+        },
+        "southwest": {
+          "lat": 43.4121940197085,
+          "lng": -80.60701023029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Petro-Canada",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112268565545794416380\">Rohan Benny</a>"
+        ],
+        "photo_reference": "AeeoHcK4_1QVfwcAyGScHWIjIX9RiPUKftv0DaP3V3MUhnLggniyl3TTIHOEw1Tqzwfep_1_CtZLkReXJrBXZJqMXB5iK2n3tyNZ5QPg7Mrai4HXxX9qBg08XdPN3Inz185QwqN0d2bLdcMDOLEhp2WC-1Z7AZ1x1YR-1qW_jRUQlXlvJ9L0HvRUq1W3yydJEpmNoJ-Kiw2oH9ie7-XqQazRF0gtShuxxsFGl07Kb-pyEiSLSw4koNun15h4kkdGrZiKfdqb8Bqggwch6Ta2thLEbf3sVazWjyHfLCf59zFl1mP9ECSCVlEuvLKr9Cqn1dWZvVsWr9wd4OydMQVsFBalYRLmMZBJcP-CHw7va0gUa3HBwCQqRB8V1zEKiE54ZHNozBT-oUpFmqAWMeRASxSSSrRhuyN5s_5jbFBfsoBXV8rZTHefApdnC-sfGPWtXDaXLEONUdcZTc7IMl1PcFQV7oFfB73jNnUWa00mWp7-nwsQNL0MyDtCuXl3X5-cs8hAAl3OaKjvacJX_9QacIB0wNk9IppauBrX6gEW8r_Np2XR_0U3-S2cS-YQvBzQg9o7kUEa6yJZLB76tueZCvf9WteUuVRek5t3tDdymMJeNQKfR673tSscgLihuSnVZiTj5y9tiQ",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJqQZhutz3K4gRJ40ed4Dy5hA",
+    "plus_code": {
+      "compound_code": "C97V+CJ Petersburg, ON, Canada",
+      "global_code": "86MXC97V+CJ"
+    },
+    "rating": 4.1,
+    "reference": "ChIJqQZhutz3K4gRJ40ed4Dy5hA",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "convenience_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 43,
+    "vicinity": "1656 Snyder's Road East, Petersburg"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.496472,
+        "lng": -80.550771
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.49779358029149,
+          "lng": -80.5494889197085
+        },
+        "southwest": {
+          "lat": 43.49509561970849,
+          "lng": -80.5521868802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Rexall",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108380441435685696208\">Rexall</a>"
+        ],
+        "photo_reference": "AeeoHcItvLlDNEg99ActMTPY7d-NGJXbsOhJ4vpAITnekobYpbUO1Soa2P3Im32tQ8JX_N3H6BC3RonfHn8rBlBQjU4PwF58WrAqemSGBsY3L4EOFtM1S590MjgSNu-in8bHp2XYVJmmGVQV-xbCAtEHFlrdonMYDkBMiDrtKsefnzSxCNiXVADzZbI5dttzXOdFGQv7t_LuTkrOLuoyQtSuMvnAsAbeplqvXnoLKBiDJObdWrLgpKdKqgBvAY3nBAE7gMAhDmlrNqjEFVPdqZdUOnsnRv9uoBWraLVIKRkV7_1siodwe5Gv-XC1RkktcEXrC058HX0CJhw",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJBbwKTWfxK4gRxrtlS_bUd9U",
+    "plus_code": {
+      "compound_code": "FCWX+HM Waterloo, ON, Canada",
+      "global_code": "86MXFCWX+HM"
+    },
+    "rating": 3.5,
+    "reference": "ChIJBbwKTWfxK4gRxrtlS_bUd9U",
+    "scope": "GOOGLE",
+    "types": [
+      "drugstore",
+      "convenience_store",
+      "pharmacy",
+      "health",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 62,
+    "vicinity": "585 Weber Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4766798,
+        "lng": -80.5247748
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47793593029149,
+          "lng": -80.5235539697085
+        },
+        "southwest": {
+          "lat": 43.47523796970849,
+          "lng": -80.52625193029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+    "name": "7-Eleven",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1440,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101276968877339321445\">Sohamjit Das</a>"
+        ],
+        "photo_reference": "AeeoHcJrkpJ5_luPNkT2USeynxFC3lQJ3quOD-d8WQ1_JOI73bJMg44LIhhLCgnwWRz79sR-7971b1Binqc4OIK8v3h-VCbv0BRKh7PApk0SwuHKwdFEdvfuQ9UUbbCJEdPwynDxS6HGTM0VvkNoyu1qJYCYecVdNVV4vvKg73I9_ph2EPjFKHcZZMv6Fulip3LK9Rb5EKcW6FdvzC7erZR0yKc5pupmdl9hG8iHODemqGfqTXl_lrIxtFSksY2kKtUR2J9G7zmfO5L7xRbr42BZ5Ea4mGTwCRAeYTZfHbcf3KpJzUSlRqPphr6KD3HT5hl3VpXEUKBoKMxKhUAyVvEmuoMcb2NPdpXYr80ObUtJW1R4HRmz1p-Uy13N1wAAqeJPpwp9UqtlzdHwLrowMPWMtR5u9FZf0Uk6Et4lT1PhfMF7RKF99V4VMmrxJHkU_o6U-ZIPuGEkYSaQo_HyVp5TAqzUGMeAf6_GmmksJ-KoSplfrQozr4-lNsdshadZJngu5K-B7I_YlEZybXRUy8OJE5X4iyX-NDeHAQT5OW8138kTTMUq2PQPxqKPejAda9qeL7Zhuj3c2Os3vSDDpZfI_yTDrESiN9FxWWi9kO2u9e059bLEjc9vSfdOsQi2QGyt",
+        "width": 2560
+      }
+    ],
+    "place_id": "ChIJR5R4rvXzK4gRBMJotJRuC1U",
+    "plus_code": {
+      "compound_code": "FFGG+M3 Waterloo, ON, Canada",
+      "global_code": "86MXFFGG+M3"
+    },
+    "rating": 2.7,
+    "reference": "ChIJR5R4rvXzK4gRBMJotJRuC1U",
+    "scope": "GOOGLE",
+    "types": [
+      "convenience_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 130,
+    "vicinity": "@ University, 256 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4392797,
+        "lng": -80.5101095
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4407394802915,
+          "lng": -80.50790355
+        },
+        "southwest": {
+          "lat": 43.4380415197085,
+          "lng": -80.51090774999999
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+    "name": "Kitchen Food",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118141292848437638476\">Marta Borowska</a>"
+        ],
+        "photo_reference": "AeeoHcIcB-VQgjvZtdyQQxI_7jU9giVSfDWlrXJ8zv2apHegQLfhnmB0NeRUVmFRD_lspFpqXtZ_4QbOoh--zyOley_0MDiM67TW-elpTjZ8470xTDQhn1LYunD38VTyyBEgybTssDlDBQqjEtnf0EK0nIod69RgknIgFusz6UR-3gMbqBsrXaimt6vT6pGgHJjeFPrNLbrKzbeqIoluAmeVJ1sXfYXXXoHe069LcPBWgJ4vgja6WkXUkbcOLBsb9zil1aMTsG13yGhUtNeZgx58ax3GUoTiztDGBzkCxZkKtskNI68__FJfWLA1eUpDXbFL5PCYEZt36QSIzvz9X8r7tqngyW5vogLqE1lenWTc55rcUSQqVeMVIhRKq6BzsxrKPJPlLk16T7JNk-cFKvBO_WtMOBDzZ0Ns9veS0tlEo33Z44DFpxMUiI3uqk42k3BZ_X4q10s5JnMa4rkOkOPYbJsAIC1Pgx5IYky5uYAAumXTBYlX1A8rsctcfLngCWeWfwIt6yiNDdFWpKKLMK7x4yDXLROmiP5zNGGVdnvhOVSJNuAMWE9o24Sb7wZuuAKZdJgcWxP15pUfjLAxXOb4unNW-tCwgMf6EnurncA6DZoaMFN1EpyPtaF7afaEtUtItLdp2g",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJn1t4I1L0K4gRktpcRa-Qsfs",
+    "plus_code": {
+      "compound_code": "CFQQ+PX Kitchener, ON, Canada",
+      "global_code": "86MXCFQQ+PX"
+    },
+    "rating": 5,
+    "reference": "ChIJn1t4I1L0K4gRktpcRa-Qsfs",
+    "scope": "GOOGLE",
+    "types": [
+      "convenience_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "324 Highland Road West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4890466,
+        "lng": -80.4928509
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4904423802915,
+          "lng": -80.49143701970848
+        },
+        "southwest": {
+          "lat": 43.48774441970851,
+          "lng": -80.49413498029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+    "name": "7-Eleven",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109034883406018414750\">Peter de Boer</a>"
+        ],
+        "photo_reference": "AeeoHcJdaG8-Qs4ZswaqUMw02Ki8XS4xbAj53uvZ5j17NOXdh-ImBeBwAwqX_boI2MahLwltVmd3BajbdgkD2rZvyaDFgu1KIkqnfZq5ibejENZM9cCogwcP_oimSsv3zkLGI98p66KuMokPGVnkTPEy0LbFllaOH9cCbTt8PvCCvPRUgizhMebjQipFb2PLmHYi9JH_eoHJVP4SQUo6QkHuphFCYuEOPoJE3RJs5Hu46yPDs8jflTsQnPyYjymINxVgJTW2aq6OuRR41QRCna0v_dDG91_iFwn8hoFPJ45M4T4E-JZTNOh-ZkY3P-cz4lAbutWV-U9M0B4XFgro4iJeeW9v7nYAEtBUU7M5hZ7rjMvBI_4ZVyO0EPxvxcq5L2kI42S-uk-RaD6wqHZxPILck0pkL095S0wAOGkpYJEBHkjXYV_BT1BEnyJYze0asL4dzIIFgQMW6Vw4tzA8tGfZhLm2D9atnXRc3eJCwDbYtUSKF1srcbDJawp7Ieup4f9OXJMvfGKxmX2GE6q4DiHFmEMGlxw-e6baWGQyf2Ys1oEwyqde_hLWCnYCSoTAs1EU6KI32Mc4vSjz1Qa8rAO-iutHUg1c7Y6hcAdSRqdlR1twpYTRpiYVW78OGlwHP4tmE8KPhg",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJYxAXYHPzK4gR24-cewgb5SE",
+    "plus_code": {
+      "compound_code": "FGQ4+JV Waterloo, ON, Canada",
+      "global_code": "86MXFGQ4+JV"
+    },
+    "rating": 2.8,
+    "reference": "ChIJYxAXYHPzK4gR24-cewgb5SE",
+    "scope": "GOOGLE",
+    "types": [
+      "convenience_store",
+      "gas_station",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 73,
+    "vicinity": "@ Bridge, 425 University Avenue East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4957946,
+        "lng": -80.50154789999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.49717978029149,
+          "lng": -80.5001338697085
+        },
+        "southwest": {
+          "lat": 43.4944818197085,
+          "lng": -80.50283183029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+    "name": "Little Short Stop",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJd7-rzqDzK4gRYugGRrRqtHI",
+    "plus_code": {
+      "compound_code": "FFWX+89 Waterloo, ON, Canada",
+      "global_code": "86MXFFWX+89"
+    },
+    "rating": 4.2,
+    "reference": "ChIJd7-rzqDzK4gRYugGRrRqtHI",
+    "scope": "GOOGLE",
+    "types": [
+      "convenience_store",
+      "atm",
+      "liquor_store",
+      "gas_station",
+      "finance",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 42,
+    "vicinity": "373 Bridge Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.43319,
+        "lng": -80.444965
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4345561302915,
+          "lng": -80.44360671970848
+        },
+        "southwest": {
+          "lat": 43.4318581697085,
+          "lng": -80.4463046802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Petro-Canada & Car Wash",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113932187865128667984\">13 OTHI</a>"
+        ],
+        "photo_reference": "AeeoHcLxoQ2FaZIq50EFBtQm4tzu41ZkIqcXtCEdlprnQTwQYK17QwBLVCGbYQvMf1znrTbJ80fYPRuj48k9srKqu_TvBRDD2kHmOsy3_UmuTQBRnQMZXivwBo4mET90qbqQ2illsD8Atx0kaJZreY8Yj64-kV0hhxmS1NxTafraCBpik-MfcMBTmVbMZc4unW8mfseyaYpx5i9evg3NYLZqQoZRoS18KUTkC1uSHppnShltiGOnPwAvd34SwXPTv7ro9kYEZrFnZ3aetzFA2dK8XlibHgV2mEVnxfRqi46DxI_JIL2Q4Xy8zS9ly-HnmsRXOIY3C9n9JsizokLVhNXQXdvzXiccutGR1xqkF8dI95ow-Ff4XsxBpwCx1dupsFtv9QKEVlqZ2WIWE8xB4Qi9MRNNopVM35qXl6IiESNTLBRMgYJprdaA1JXD-42D6Oliu4sJkDpT1EBYUcqzu58_ARPGXyGQSgDQSKYRuXIqxljWiy-jJ-MI5vMYfY1sjS7stg5DN9pfX447jha1YJO238uilWoy_dnFFtZwTVNosIPZm5SQPOttaZt7IO14zE0GsRbHcFI7jZwkMDELZ9RS2vaJUCZWfzfaAPFXygcd6aNXFe7HXtrZJKEreaccBcQY10knL_D5",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJY8S3tyiLK4gRGUl7jCTLIys",
+    "plus_code": {
+      "compound_code": "CHM4+72 Kitchener, ON, Canada",
+      "global_code": "86MXCHM4+72"
+    },
+    "rating": 3.5,
+    "reference": "ChIJY8S3tyiLK4gRGUl7jCTLIys",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "car_wash",
+      "convenience_store",
+      "liquor_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 224,
+    "vicinity": "1241 Weber Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4354381,
+        "lng": -80.5146048
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4368115802915,
+          "lng": -80.51327436970848
+        },
+        "southwest": {
+          "lat": 43.4341136197085,
+          "lng": -80.5159723302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+    "name": "Stop to Shop",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101038344528051208666\">Jeff Mulder</a>"
+        ],
+        "photo_reference": "AeeoHcKEUq33wJB3hGg3UJMpb4sYkUwDrZBsxtN1BLFLNUtayuLpZoWlOzA3RK4BFanHettGOU9QtyOt0UlaCEl9Y-nhPRmmxbdcFfbTvjEt71AkY1BV0dm_-6MTMUiDdTWZbLLzBzHhCPEl43Bi_RTlp6V9Mcuvd4ifSOPk5D-AZ3uhely3nm3UqUm8m_gjni2rVmdS2Nnlg3gHi1aNjkfUcXOkVqUCry5uSvbYVrsb8tUcb26T8c4qBkheG796cTuTr5i-Bc3qG6y5yCtTYrb6_0yPvf6eQMQpwKHEdAucSlsZDpbkrIiE0J39uzkmtzIiSrHcfYo_ipJn8Zl3xHIlFasRpsOcbHvXhRP1Ddr0h_QM54NcEOCYXzLxGkHosRRR07wr1PofAr_tvJDrFbhHPvavk58Du1aqLdufe7eVc673EoAYp9vfZSsLZKrDJ2T5Neg6UDgo36ELPFItxg2naQKsHDOr3S1epSdSByFb1eFRS7NtvZY2ehpg44ByfVsHDzOAM7I7j9KFWJC7GRQ3zWGoTPgpdJGNURJ2xMEolMI2WD2x-lwmPmDFXeDRO2poVlFikz3M9lPw-uvIC48Hb3VSVpNw1baQFkCG8PPJo1L28RGmhrRAXyMAyA2gFKKmioeUNzih",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ9TYMt0z0K4gR6dQKqNtvAJE",
+    "plus_code": {
+      "compound_code": "CFPP+55 Kitchener, ON, Canada",
+      "global_code": "86MXCFPP+55"
+    },
+    "rating": 3.9,
+    "reference": "ChIJ9TYMt0z0K4gR6dQKqNtvAJE",
+    "scope": "GOOGLE",
+    "types": [
+      "convenience_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 89,
+    "vicinity": "491 Highland Road West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.467695,
+        "lng": -80.56726700000002
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4689952302915,
+          "lng": -80.5658550197085
+        },
+        "southwest": {
+          "lat": 43.4662972697085,
+          "lng": -80.5685529802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Petro-Canada & Car Wash",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112827822780863524246\">Jaswant Brar</a>"
+        ],
+        "photo_reference": "AeeoHcJVQ_o_u1tp381ov0HkXPm3OXRrxNH-i6t79L9TLZfVvQ2ArettL6QmvaBq7MX5HlGKH292UKNQY2CjlCaBImpOZaPzZtaEQU2Txw3hm4RybaDGCzTpBU8VO1z1Y1DmeZYx4iAhYp91oLMZRCNNsUL9iUL0KS_eSRMsuAdwecmikGeJ8wj6g163Z0pJnXkJ-4sa6MYqC259Xo47qiEZhwTQY2YPhhfMSvFi9Pp7Uw_Wp6X1qwvdxHbMTFXR6iZdNgS6cVQPO8n5J8zjtSaXDtIFsjGesodIqxzyLTWYZ2XsXjTXEsib38wXhAIo169DmKbVrXx0s7hnXMmUOQb6y5KygAEMLriSKEdXoNlvU2emkABWnxg8qFtMsqR6cn8A3d6kyQ5oN48dtMJAoMZSZCuRyyrU08S8LwSkx9nBH7fBPMbI5_Eck8v2vEtfPdTKHdKmjagc4SL1AKnlFVt2H3rUsQdHshXqiXbOONokSQiTQwXDH2rgtq_O_PBLjTcu-jcn3_AObUYNoJ37pHiBlHcoW4UfhY8Qwr-zuXDmBtvrPIFCka9S2z1ngIRehDMStkJn2gPGLW1LNMfEWl_dpDd-qPgkY2k6aUWtQDpVUOQOnI_nuQkhJkPQ9lcNVThm9NJTal6c",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJT6gt-sf2K4gRMZ_hXMhbyrA",
+    "plus_code": {
+      "compound_code": "FC9M+33 Waterloo, ON, Canada",
+      "global_code": "86MXFC9M+33"
+    },
+    "rating": 3.1,
+    "reference": "ChIJT6gt-sf2K4gRMZ_hXMhbyrA",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "car_wash",
+      "convenience_store",
+      "liquor_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 152,
+    "vicinity": "440 Columbia Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45367399999999,
+        "lng": -80.51771699999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4549964802915,
+          "lng": -80.51653546970849
+        },
+        "southwest": {
+          "lat": 43.4522985197085,
+          "lng": -80.51923343029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Rexall",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115162388761818108339\">Rexall</a>"
+        ],
+        "photo_reference": "AeeoHcIbvd6x2QQaRTXyWcQWT5P_IONQQaDG4L6ehPvo7NMXSjoYjS7phaWhhhGiugIJG4tJgXRqjcKpN1xTq-bfHxTPYxYL4wDngRGwQK1nwh3DJH_xp-dgX8Eu1ODyysssKoUqamtxJ1melTox1vxL_OetyqtA7JpP9yj97LXQCx6eHmPIMdsODNxHxWZ7C6UQIpJzYY9DBevxaVS1xNUygoMyGvMixAaNUp3Z4SEswRXd1owLx2-3DRWGxGkRw7VOKUqvn8_j6TJ0OEE7D1Iz9RoorbVblgMuh1TQyfmEbpX6a0WxK8U_TvG7uEuvrbqssHi73MTbUIs",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJOxkPx0H0K4gROaHU3nV_6UA",
+    "plus_code": {
+      "compound_code": "FF3J+FW Kitchener, ON, Canada",
+      "global_code": "86MXFF3J+FW"
+    },
+    "rating": 2.5,
+    "reference": "ChIJOxkPx0H0K4gROaHU3nV_6UA",
+    "scope": "GOOGLE",
+    "types": [
+      "drugstore",
+      "convenience_store",
+      "pharmacy",
+      "health",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 66,
+    "vicinity": "696 Belmont Avenue West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.43959599999999,
+        "lng": -80.50964599999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44065793029151,
+          "lng": -80.5082907197085
+        },
+        "southwest": {
+          "lat": 43.43795996970851,
+          "lng": -80.5109886802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Rexall",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112482415753734225075\">Chung Hsien Lee (Jason)</a>"
+        ],
+        "photo_reference": "AeeoHcL7rUGIkCkfE4IIsTI94Ibt5x7Ea6xyRIq0zrGVwry_cq2QMOXtigDQMqga4rh4qEfuFXrTIMqa8rKIfHlbc_IqlLFxAPU50wugYqx4iX8niqfwk9bn7mcH21VJp7DC31XG578y3vBts1KXHmlbuCItQO99_HugxkBWJ3tTv4YvTkpZU46xmsQB-ON7npjHpMc3yr5vQK94azY5TOXZ3lxVtoCb23Dy7dVmg5NH13xLWTYPPeu8Iz2YpveRhKbALOp8E3gD7FHzZssrSZo25L8qysxx7BsrqZRFadfxXWzWNfguKRVJ4tMZ7BFnvU5ONq4LFUPLPO5EpIfnqnJLNcWFn2nBYKZa2hFbfAG4Y-cEI-xxJiwAjPOovU4YunckqO1q-be0LFMYvIG86ySht2aaU9pTxeaoTPGqe0ZZ4Zs1et0UO6DKbk1a9dJ-Di56dZDb8cOztZPQ1zwPKLE2gsEKCxbAv0p8m01CO9G_8JQwBU1G39fKKyhnNhZVUdRct2JZ3F7L2b84nsQUwRdhkdNYzoi4FsXqj6rCZj9rPxlvg7f34CPaxccTlm4WtS1Ql9MdSKH8py90yclUbRZdnumc652UB8l-yJyh6D2TAyWDe7VAjNjJZDlOuE5A-S26",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJn1t4I1L0K4gRcx9oiPJrKGI",
+    "plus_code": {
+      "compound_code": "CFQR+R4 Kitchener, ON, Canada",
+      "global_code": "86MXCFQR+R4"
+    },
+    "rating": 2.6,
+    "reference": "ChIJn1t4I1L0K4gRcx9oiPJrKGI",
+    "scope": "GOOGLE",
+    "types": [
+      "drugstore",
+      "convenience_store",
+      "pharmacy",
+      "health",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 73,
+    "vicinity": "324 Highland Road West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.469921,
+        "lng": -80.515485
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4715426802915,
+          "lng": -80.51153355
+        },
+        "southwest": {
+          "lat": 43.4688447197085,
+          "lng": -80.51680215
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Petro-Canada",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108839165786012261617\">Soran Mirza I.</a>"
+        ],
+        "photo_reference": "AeeoHcJ_CZsd46YK1_DvxEHgIZM_YN_2pvoedTJMMKCPaGwC4gKkvIT_DPVCjpfW5QTzCUN5eGJ145vgVjG7HK2bN_OqNg6tYvdbzid1NF5bSvLh7u_s1iBLfq4fVqQ646L_TzT6ekP7F_yfCZag4HHg2LzwQDYtkaMxl1Pjp-F93h-sNPjbPJTOV1H39ghG6GDBWsF-nqemiN0IlPE_9kX7B1DC9GSlIZQOdXtVVnUCpCEtI7CBW6YOP-bzqc6McRRYp9VJVUKJ92NR0vw_nmbtKz2DpX0nzZLfIGtCb1niSbtXQRUjwp_uHJJXyYTd32XS10fnzRcb0AjKtV2BLku0ImF5DQntT2-ZwFoAmz6HnKmD9Lg9P1Mdp7KtkMa4hyR2NAdbjIsaw0V5Sh1zFk07JWy3eQcMF2bTShL_xL3unmS7C-qgEL7WF4igq45DAY4f8jahHSz2J1bum6KfvwNhrKX1xzNy1GlL6-p_4sTV9MeqYjcQ0zQiLsb1xlX8hQD_bkRz5m8dN7Cs2PEXsdxAjFvU8ZbcM3MnFClIYhFuIOeWXjF-QsYJkUTB2l9UxkdPfvsFtkRmZXwoYI797VIIbdlnrYE2rbhUwaRIWmpEHSFamK1NKwjYmlSHuR5y9jxzTcb5hghI",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJy1bPGnf0K4gReb0qubEdswQ",
+    "plus_code": {
+      "compound_code": "FF9M+XR Waterloo, ON, Canada",
+      "global_code": "86MXFF9M+XR"
+    },
+    "rating": 3.1,
+    "reference": "ChIJy1bPGnf0K4gReb0qubEdswQ",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "convenience_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 54,
+    "vicinity": "106 Bridgeport Road East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4221878,
+        "lng": -80.48779429999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4235642302915,
+          "lng": -80.48651566970848
+        },
+        "southwest": {
+          "lat": 43.4208662697085,
+          "lng": -80.4892136302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Petro-Canada & Car Wash",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101528657312900022770\">Alex Parmar</a>"
+        ],
+        "photo_reference": "AeeoHcKU2qWAtuJnxbuSfLPXnVMuB9Mza9k06fzcwCeGChF0HJncPmBw7yKTPDu2Zlij2aue0kyh5amV50r5TEKKAevkUWvHbDW3YR8ftAAvOR6chBeM5Oo3XSZqL5f3VEK8gIwYIG7RYhMIT2UZTJgTkIcVi631becgSvOkmcB-BPY7y4AxClLgcqwK9YEk2j9fHUhfDDv5146E8uGjH8ksuag-wclfwm49kjSzPOikK0HBghBBB4JcVfLR4Ng-EkJvK-OIbJGvhFr6r94SymprGjM9JXylNjtsu4LYc4hPAKUaVCPcNne3Ln6MVwG9vpNYiFivfnRU7J9JuC97mSjQ2YZ2BuUGJalYwB82-qQD2jaT9ZMMRmhJ2MXnRzcva_me3RGH27antKf3UdqSpArlwEUuDPmsMcXefk5zoBO5VmzUG9_ykJnrL-tCUkeyNj9lETljJ87CvgxNu17ke7CRfFlrByjpwVXfhlh3gfRM6qDXfE7V6EHW3J5Uo0PH_3Nr9Q4R43_zA2McC_nO-34zfhOQ7KzZBqPdq94byoAEiqH27FbfpYIo8KQuPdoiz0cRuRT_l_C_YPlCSShtHi4jPKV8ZAaeFb9jA0T8V2sb43DZg1BgBxEc2kTXPZH7IWW66n3NexnQ",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJtyFmFxD1K4gRGh28qh9N-gw",
+    "plus_code": {
+      "compound_code": "CGC6+VV Kitchener, ON, Canada",
+      "global_code": "86MXCGC6+VV"
+    },
+    "rating": 3.3,
+    "reference": "ChIJtyFmFxD1K4gRGh28qh9N-gw",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "convenience_store",
+      "car_wash",
+      "liquor_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 139,
+    "vicinity": "795 Ottawa Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47764699999999,
+        "lng": -80.519986
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47901413029149,
+          "lng": -80.51859441970849
+        },
+        "southwest": {
+          "lat": 43.47631616970849,
+          "lng": -80.5212923802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Petro-Canada",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2304,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104188599540043908898\">Abhinav</a>"
+        ],
+        "photo_reference": "AeeoHcKjNhw9K_1Okwna9ymJqYmhVXiQpiyGwhZILVeVa5XCQokUnR6GTUBnm4KDJH1FOz3note3sPB98uShCCbQmsK_PrD1vzlUz4d51K7NYF5fLNcta5F77cUupxOYD72x05ctiWYSpUCfngLeiJgEV9LV3jytBLfxKf46uYRSvoY88SEgkJxxsw8Re5b4eJPi_x8RdQipq7CjxWtro1piZx8-AAAycZYWi44iFg5h8fFBd986I8RjqGNHi712AH0VhgMoKDPIMFI0fdOo3xBIDITO8t9kKxZmBTfR2zOtZFKOeGJowRqs6AupENVWVKsryk9sPIrthO7lT6KZe4qAxxdUHT2A5IEZ4yYX11DJ-p32EhkMjwQYX7BZJNwIRBtPv3QnLa7skti0KoyyadelW5sVP0hTNRBM07XDkQsbczcbGYnT61eoSWmkJ08UbeGQwtCO4kjx9DWgMIB8axCgdTZhwl3oFxIWiftQN-azlQvVU06KFpmJoZC64B6FHaqrpbqKk7L-t-4XAjHXKFEG_Rr4aIeiGIneK7LnCz13P0Rv8oBn6Es8t9XMXJ70HmQy4WoUPSdut1eDwx188UCG8uPpIVJN2cnvxE_mKkeEUD_Vzr_JKjjprsqwghDRlEC0qk3QsGs_",
+        "width": 4096
+      }
+    ],
+    "place_id": "ChIJNZOWbYvzK4gR56oz-lAx8sY",
+    "plus_code": {
+      "compound_code": "FFHJ+32 Waterloo, ON, Canada",
+      "global_code": "86MXFFHJ+32"
+    },
+    "rating": 3.4,
+    "reference": "ChIJNZOWbYvzK4gR56oz-lAx8sY",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "convenience_store",
+      "liquor_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 97,
+    "vicinity": "245 Weber Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4773658,
+        "lng": -80.5396552
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47865728029149,
+          "lng": -80.53810821970849
+        },
+        "southwest": {
+          "lat": 43.4759593197085,
+          "lng": -80.54080618029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Shell",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1193,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108002155041314548649\">Shell</a>"
+        ],
+        "photo_reference": "AeeoHcIZKf7En-gb4iGAIt1qMAcOVM8R4TRfrThsd3YpxrWm74Gwxi5LY0iTyvT5oDekJJI5HjDZyhLC0FmN35g1xusm4s-QMJ7wmyjBoiU_38TvtQCmdM4UI9QPvGKIV7f1Ijpqp154-BgcZIFzeQR2ky5Cs5lXOo04Qa77taRrbcpvJqTfiynyVXAUgeXeGJhzuUAmDE_SmJ_89veXKuG8Ueeh0EfTSpr4IVc9kbIXB_TzccHxeYJLv1mL8pEFrsk44D-wcKRlX9TKChibNPB8LLlJtD_Qas_XtYrpihviSuDEKgCQg-SRoaoBBCseVod8WIrNjkbMM8Q",
+        "width": 2119
+      }
+    ],
+    "place_id": "ChIJh_hzAf3zK4gR5HBxRSQNtnE",
+    "plus_code": {
+      "compound_code": "FFG6+W4 Waterloo, ON, Canada",
+      "global_code": "86MXFFG6+W4"
+    },
+    "price_level": 2,
+    "rating": 3,
+    "reference": "ChIJh_hzAf3zK4gR5HBxRSQNtnE",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "meal_delivery",
+      "convenience_store",
+      "car_wash",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 73,
+    "vicinity": "360 Phillip Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4761298,
+        "lng": -80.4841208
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47745963029151,
+          "lng": -80.48281136970849
+        },
+        "southwest": {
+          "lat": 43.47476166970851,
+          "lng": -80.4855093302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Shell",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1193,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111297935356172067843\">Shell</a>"
+        ],
+        "photo_reference": "AeeoHcIW-BfUunuzrZDsXObo6wjgRC1MHTi1hsXD_EJPFl1uNWIoSWEl4IQymk2Qwwvmh6IgZNMHF4dFK0_9aiMgtSuOmNgs-QNiZzHtokoG4taw-SOVPa0lDYe1HSxtHt2BZqTe7sfjjmTrSNSDhASPw2jC4KMluNdqWN7b4IAlr_MOhrVs5R480QGeCJloinq7SuvBIKmy7yEwCbRBAcgJJMBqjAQDaCxZmu-HKplbcFahRZu3eymR6x0a0c19uD78QFiDkEsjc2mlqF7kBu6umt7qrxEO3eKfteNZb5oQCz_nwiFh5X9ct6DCnLhdG-5tuxMTQhz17_s",
+        "width": 2119
+      }
+    ],
+    "place_id": "ChIJnWnydWTzK4gRlLGiU2ZLJ94",
+    "plus_code": {
+      "compound_code": "FGG8+F9 Kitchener, ON, Canada",
+      "global_code": "86MXFGG8+F9"
+    },
+    "price_level": 2,
+    "rating": 3.4,
+    "reference": "ChIJnWnydWTzK4gRlLGiU2ZLJ94",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "meal_delivery",
+      "convenience_store",
+      "liquor_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 73,
+    "vicinity": "504 Lancaster Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.456687,
+        "lng": -80.431777
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4580273802915,
+          "lng": -80.43038691970848
+        },
+        "southwest": {
+          "lat": 43.4553294197085,
+          "lng": -80.4330848802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Rexall",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108342298972454970686\">Rexall</a>"
+        ],
+        "photo_reference": "AeeoHcIkH6MlzXjOQaep8ZF1S0EkRcBdyqdiedxTi7LpXEHV-tvzLkfU7URb7Oi1TEBapVvAqZdQoHClEQLVH44LcpxRxngWrDYq5gP01EYM7PtRzY0h6Tv9RBjanRtaSECOp4flrFx6a_7NIKn9wTuo3Uc5ZccE3N1jGDviuUdrxrWlrKKFfb7DbnJZe6gaCEyDdbXdUe7LabwAaF-Ve_YPfd8rZW0TP7nLfwZ6LQMyB_zRFXhtOebJALkMs0Ma4veBuk_6dOH4wW6GAJx8TNcRxTb3z9EEZKMUPCxEfVgORLUzcQ4c6cb-jdjwTI_eSiefFatVgtzU6cY",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJHWA_TkiLK4gRejDLZyJ2waU",
+    "plus_code": {
+      "compound_code": "FH49+M7 Kitchener, ON, Canada",
+      "global_code": "86MXFH49+M7"
+    },
+    "rating": 3.7,
+    "reference": "ChIJHWA_TkiLK4gRejDLZyJ2waU",
+    "scope": "GOOGLE",
+    "types": [
+      "drugstore",
+      "pharmacy",
+      "convenience_store",
+      "health",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 45,
+    "vicinity": "1405 Ottawa Street North Unit #16, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4820543,
+        "lng": -80.5268298
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4833824802915,
+          "lng": -80.5254085697085
+        },
+        "southwest": {
+          "lat": 43.4806845197085,
+          "lng": -80.52810653029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+    "name": "Lucky Super Convenience",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1816,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115198191317877504076\">Lucky Super Convenience</a>"
+        ],
+        "photo_reference": "AeeoHcJP66kJR8kCaqPVhRZc8XUOJrW1DFcM5Tt8jrACwUIQ6QzmUFBwQpozn8z7ep0E5Xk-v9Qst5E-XRxRA-Nv85QPPVQsyso1odq89GHj_DO5uq2OudYgvVn5BUhOB2dOfu7fX1nsyiGOYVD8B8dQyPihIMxdDKCSN0inHpFJm6VcTF0zGEW4f1GTPAL3v_Kq-MGQeuElla3e2IqadybS_VcZFf9u8Ueljy4DsHIwoDheV5z_Q6lRg2nMnOOEj56RmAyhN40O_Kc5tB7LM2SNatIviWUk4PiMkNhcvpowTEv0rosIEVErQnPlNA0A2pLk-4G27Lmcznw",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJmzEwMfLzK4gRvyxKyuj6XAc",
+    "plus_code": {
+      "compound_code": "FFJF+R7 Waterloo, ON, Canada",
+      "global_code": "86MXFFJF+R7"
+    },
+    "rating": 3.9,
+    "reference": "ChIJmzEwMfLzK4gRvyxKyuj6XAc",
+    "scope": "GOOGLE",
+    "types": [
+      "convenience_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 50,
+    "vicinity": "363 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.476878,
+        "lng": -80.5393
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4781941302915,
+          "lng": -80.53802711970849
+        },
+        "southwest": {
+          "lat": 43.4754961697085,
+          "lng": -80.5407250802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Petro-Canada",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104519170046879835041\">David Hu</a>"
+        ],
+        "photo_reference": "AeeoHcLe9i28B3Gb1anAW7S8ZjOZqhdzREYHYEmzpIK5mKlKIPjNY_dlh5bDglp1rfQRbMJA09pzXHyAbkIr9qXWB4P82E9vNGUmRPUkQ_ddcMoHL_b4_GJeYSoPTFMLBCqwu3x03uFZDzFqY9TchOXNKfcu86CJQcraFIrj9AHbo1N9aWeLv1EXnKqLCqELOyw1J6BzlIQmJD-4c_W7SVsO00Pcy4O46x_aaGjcvtkcVw54X3X4nJxp1LP-CWRnhuIjjtunePS72qKJ25BTFa-cL-i5WiY4VRZ4ew24FmGIg-XE4ju1Q1VjIZwBPlzqKk1DNuH4rATjW_W_-LXoOksrgfPf4d7HrU5WrdsnfhC-jz2oF-4zpbpwts6egmGTx_HG9xJgfmsbsmXpmxAc3yeMy1ll5iqSjZAtO5pos9NXBOwMVenrRC5sfx97su7Sr4jLAuG8e_CRT03hk5LbEb9ABTSzAHo8YjAKe3evrBTmcHIN8kKf_7zorVz1AIlAMGwnQkBK1Phjpaiyl-vCaIpFCaajnyJdo8-2nx1NvEDZk5QFCcj4ZAZi37M8pMvVEkzoIDeZYBpKK3JkPCgsS7yYACoP_W57UIaRwbtkgci4GHdJF2hokM9tVg0wsj9RcY3-",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJa4WfFv_zK4gRGrMOpGBkLtc",
+    "plus_code": {
+      "compound_code": "FFG6+Q7 Waterloo, ON, Canada",
+      "global_code": "86MXFFG6+Q7"
+    },
+    "rating": 3.4,
+    "reference": "ChIJa4WfFv_zK4gRGrMOpGBkLtc",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "convenience_store",
+      "liquor_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 90,
+    "vicinity": "151 Columbia Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4727002,
+        "lng": -80.5379337
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4740009302915,
+          "lng": -80.53657506970849
+        },
+        "southwest": {
+          "lat": 43.4713029697085,
+          "lng": -80.53927303029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+    "name": "University Convenience",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2560,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109078186295250826368\">Connor Hammond</a>"
+        ],
+        "photo_reference": "AeeoHcKFPyx_JQZYFq1oXTWs1-b4PCEdBsZegnE66cpHeo5XCc4RFyfmb25MGV2gk6XAjKv-HQpX4IlAfsyNf_ljZtdXsl-KODr0w4HDtBKvmCD1ASIqZi-gHDMOs68FQdyX21D7W3bhBz1SUgUUpY_SUMhx-KJXIpjLirPY1h5YeUHZan3VM4Jg5xTD8P-FszZIrazOHi3ME3OFywpZVPvN6rakGRb4NuiOqLUHQixoKikis0BInw4A6NWgCohdQTALEeLTG7p0b7nypM89TJXvm2NDiOv6KuWdXaFxwNHUEjA6rJePyiNOKGawApWnF0NuhQ99-LaeBQmmz-MOU-N-4KSyKyjD82gj2CvTt0sHQjF5HtxiP4Uvy8foskR5itGAk9WV6QUWLjL0zr0KUUNcFGJbTUChtz03xrwktZ6ZsrDgj3Lu8O22tk4ijqX3nEa243bJAVuHmLKDGHwribNnpPoT4P-LRpcU-UvJvRZX8kXD4XioV-P_-d3wuC2qiUzOMnZvjXMK53NEH3ohocMl5nCWk8kyTut7rbIbOZk5sJ3qFg6g3RFW8SWUWeNMO0KIkLivtBPK_Z4SUCpmgDNKV5RINYklz9ZfSADGd4y3inehD5OYZR6U1vmZffq3ByPaN7HfSA",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJQdQ9MgH0K4gRGYipKAxAK0I",
+    "plus_code": {
+      "compound_code": "FFF6+3R Waterloo, ON, Canada",
+      "global_code": "86MXFFF6+3R"
+    },
+    "rating": 2.8,
+    "reference": "ChIJQdQ9MgH0K4gRGYipKAxAK0I",
+    "scope": "GOOGLE",
+    "types": [
+      "convenience_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 16,
+    "vicinity": "University Shops Plaza, 170 University Avenue West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.442695,
+        "lng": -80.544152
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4440721302915,
+          "lng": -80.5428371197085
+        },
+        "southwest": {
+          "lat": 43.4413741697085,
+          "lng": -80.5455350802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Rexall",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116034445510207021780\">Rexall</a>"
+        ],
+        "photo_reference": "AeeoHcJEPPnxU9XvLtJzMKDQdpGdhlGCJa6PTkwIBApwHmKUZMRIfmciHlF00ThURrTbcrXLyMyZMVQe8NKeBL4NUO1QHF_4vAFDpxYa7tdOwFcZRAQGm-g1YjjIYTSk6ZCSRBNdfxJ0XplZa67fvX5k23o2YwuDl6V4irtCWApbWF2Pz860ceaLgxIS3i-o-IzHTa-N8rR4IKENVKwzvGF25lhXMnTGy4SyGYGt65roonzDXjirRY1XLdYZZkKR2cwhv4KTlkweh4yhRwTSLo0LXbICsvKifeCZPwUgANXUDTzSrhj3Ly9yfFYBJLUEISTQoz0Y2uI4tGA",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJsV20BoL2K4gRh-1ZRsATxjY",
+    "plus_code": {
+      "compound_code": "CFV4+38 Kitchener, ON, Canada",
+      "global_code": "86MXCFV4+38"
+    },
+    "rating": 3.1,
+    "reference": "ChIJsV20BoL2K4gRh-1ZRsATxjY",
+    "scope": "GOOGLE",
+    "types": [
+      "drugstore",
+      "pharmacy",
+      "convenience_store",
+      "health",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 27,
+    "vicinity": "851 Fischer-Hallman Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44865250000001,
+        "lng": -80.4914032
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4500389302915,
+          "lng": -80.4901069197085
+        },
+        "southwest": {
+          "lat": 43.4473409697085,
+          "lng": -80.4928048802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+    "name": "Hasty Market",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115061387727628385714\">Hasty Market</a>"
+        ],
+        "photo_reference": "AeeoHcL8yr4G_TFehEgnnSZNXzbSWUQavStfXNkvbhh_VdUdftzuWf9lgZ-7R_bZg0acOYWPOYxr-1KUve8QCBkJ6I7BVCtErZ9BG0AYC4U6ZXkZzpU6qpxuGE9aJ0W0DE7WXJsQjE3s13DfwR96GBcyG34BK2N995Dk9br6c2KuflKTmiF7VRIzQCDZL6sFtvie0B3eEq3eJOShgAVyjOLV92yHDVKQ1tI5KBmwxmZTe2XKWtES3kyQ1p7oYpUTzEm8U3ud0taGWmUPwOa7mUC55FCKzp4m2y7MJ_xTy18q5oOGfEu3jLKhyaq0Z5zyYAxPdNHOkRpDY2M",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJq84GyvP0K4gRAmwbnGABWbY",
+    "plus_code": {
+      "compound_code": "CGX5+FC Kitchener, ON, Canada",
+      "global_code": "86MXCGX5+FC"
+    },
+    "rating": 4.1,
+    "reference": "ChIJq84GyvP0K4gRAmwbnGABWbY",
+    "scope": "GOOGLE",
+    "types": [
+      "convenience_store",
+      "supermarket",
+      "grocery_or_supermarket",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 300,
+    "vicinity": "103 Ontario Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4589335,
+        "lng": -80.4821815
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46015568029149,
+          "lng": -80.48089876970847
+        },
+        "southwest": {
+          "lat": 43.4574577197085,
+          "lng": -80.48359673029148
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Shell",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1193,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104840111805156680887\">Shell</a>"
+        ],
+        "photo_reference": "AeeoHcKlgF0SHqFbgRNBbt-RayZg9LO1zDhSazplj-gyKqOTkmgfyg6oWEXJRVI3EXU3RmIW8Pkwt6gd2evHkj72S9-51iobeKE1DvzcUXejVlHNaR6hrodTG4lvlMjDwdFiv6C6wTdgSfiF4NrgRq09zjmjry-pzPwoDu0ONaElx74wNxwvHyj6jM3I3DbrLkEdsQ-FA7MZQqGWd1Fh_6T3rMAW6SgyAqPA-6DxY_EOKa6biY4TTF51Ikqg-OlKRz5Szd3S_FIt3NNJBPbzytRON_3oIpThEZTC2A5oTsQyMgvCa-4G0kcRFLktYRrJ_lywplzf70QhYQM",
+        "width": 2119
+      }
+    ],
+    "place_id": "ChIJF_a5KZf0K4gRuIjBhFqbScE",
+    "plus_code": {
+      "compound_code": "FG59+H4 Kitchener, ON, Canada",
+      "global_code": "86MXFG59+H4"
+    },
+    "price_level": 2,
+    "rating": 3.5,
+    "reference": "ChIJF_a5KZf0K4gRuIjBhFqbScE",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "convenience_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 62,
+    "vicinity": "366 Victoria Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47260319999999,
+        "lng": -80.5357843
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4737987302915,
+          "lng": -80.53438386970849
+        },
+        "southwest": {
+          "lat": 43.4711007697085,
+          "lng": -80.53708183029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+    "name": "Campus Convenience",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103634708711974066884\">Riya D&#39;souza</a>"
+        ],
+        "photo_reference": "AeeoHcKpfUIndfyWeCd8CdrLN4ZU_OL_5JkrbTcUapHCZdcukS9ccr5pp4Z0-CC2oglXyZd6jqcAv5qINt1NS4ugWLEc7HgzWSp_WF_ppQepDbi0YR2QrcY8rJIQESFuaxVIMdUgjqLSigyM-YuJqhDyO0wLmU06159yfG9Z9nqy3k6FZtoP9ao7_v29njnPnzaZXF-pzaQRT47oZjVk_C0j_GtiP9o5W9SubxQ5cJQM9ZquRjIr9Xp0dGmv9mKHdGtANQf1BJ8flgROHXsTkcnpdtONqn6cTpc-1iDQZ_JFS3Ha60F8VHh3_KzFtWwsudyjanXlqXZuwWwENs2QPjyTYX1n5gY8RvK66h4Tx-Bhg4QRwO0ni9XubVQr9lfvI2gL30cjjXXYuOhvaKdhGAJOmhQuhuv75Ynn8RLsoageWCl2Yoej7JwDM7bBIHmW7vAX_eqBpz-L2TEPfm1Sb7huwBtv2g6KciPN07YFkjQ13g18ojsjLoLSoBWgZ3Bm3cKBu8wMToza-1kpSZvxZfb0liO3IRXEjvHdsKruuIDFVCCbkqEUEWLQi1ENrT1hmcm964YpWgh4DrEYBDJO9IckJCTwbN5N053CfyLj9qS3d4l5BFLmSzbwfMwmDp2y7AUbVInjTw",
+        "width": 3000
+      }
+    ],
+    "place_id": "ChIJSR96Vgb0K4gR5pSihcvquCg",
+    "plus_code": {
+      "compound_code": "FFF7+2M Waterloo, ON, Canada",
+      "global_code": "86MXFFF7+2M"
+    },
+    "rating": 3.8,
+    "reference": "ChIJSR96Vgb0K4gR5pSihcvquCg",
+    "scope": "GOOGLE",
+    "types": [
+      "convenience_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 107,
+    "vicinity": "150 University Avenue West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46891199999999,
+        "lng": -80.5231597
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47005703029149,
+          "lng": -80.5218701197085
+        },
+        "southwest": {
+          "lat": 43.46735906970849,
+          "lng": -80.5245680802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+    "name": "Uptown Convenience And Collectibles",
+    "place_id": "ChIJL9L0KUn1K4gREgKe4HJZl2U",
+    "plus_code": {
+      "compound_code": "FF9G+HP Waterloo, ON, Canada",
+      "global_code": "86MXFF9G+HP"
+    },
+    "reference": "ChIJL9L0KUn1K4gREgKe4HJZl2U",
+    "scope": "GOOGLE",
+    "types": [
+      "convenience_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "vicinity": "108 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4615827,
+        "lng": -80.53224490000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4628349802915,
+          "lng": -80.5308297697085
+        },
+        "southwest": {
+          "lat": 43.4601370197085,
+          "lng": -80.53352773029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+    "name": "7 Star Convenience",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2688,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111755370086894716756\">FilmGamer</a>"
+        ],
+        "photo_reference": "AeeoHcI3AHZ_pCb-Gku2BIc-k8U0bGLMZvj2_mMD3sctL-s_hFTx_Zgz5c-c78YhXymJQuf1MYx-Mbm_HzTlxM-GOK6h2PtndQLYIXst1t8WHI7YAbOCf9RxQDVHI-zX6MSZWMEdG5sbB5PYjY_JEieC9JEy9gSW0dbs_-u_sKyoKcblKrdOsDDpt3SwHlMJrxuzThPzeJevX4szG0NvlYldPsufPErCJOimzbJ0aGezKpvmRLnk6df46KUecxF3cJC2RhfMagvALFOmv77PhggIFXar9bdqArLAKVnug-GX9r_HqNkJULZu0wH8rtWP_I6tbK6hdniLUZa5PLDVaZw_6TfaQ4tFXyB7JhfxkchdOYDlzMV71r-DqVSihtjbrtSNSH5f7OGqNgoKAnhs0x2dw6ZZlfpmO42SkMv2SO9IhYdE1867_pM4Rt2IxhoLorQQSAGIQfc5rXBDAScY_3xmYtcwCoPOFY9IYCBnuxuXMSCkPWONtln43XVYvpfsP1GWb09DRGIcq67_dWCQ4xMU9IU9cBWuzew5FjNSVDT2GJ27d_QXKDGauw1nSjcU6wHCQdTvnO9m_ufN0TRYPQg1Moz5e8zNnJwTI2rL2DwlSXQdS9xxgWUAJtXZQ3CuHJ6sX2njDA",
+        "width": 1512
+      }
+    ],
+    "place_id": "ChIJ-1ajoxD0K4gRZR6VjjEF3zA",
+    "plus_code": {
+      "compound_code": "FF69+J4 Waterloo, ON, Canada",
+      "global_code": "86MXFF69+J4"
+    },
+    "rating": 4.5,
+    "reference": "ChIJ-1ajoxD0K4gRZR6VjjEF3zA",
+    "scope": "GOOGLE",
+    "types": [
+      "convenience_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 16,
+    "vicinity": "156 Erb Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4718113,
+        "lng": -80.5134084
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4732105802915,
+          "lng": -80.5122831697085
+        },
+        "southwest": {
+          "lat": 43.4705126197085,
+          "lng": -80.5149811302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Lincoln Variety Convenience Store & Bong Center",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 639,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114753120900404922901\">Lincoln Variety Convenience Store &amp; Bong Center</a>"
+        ],
+        "photo_reference": "AeeoHcIL7JgXkg1TYR8OCv6CKnT4VTBpZaz0FRoKfeqdBzPQ5bCkop0G8V10r5A4OAmd48GKqplPYPPG8X2R34GU-z3g_DTA2Mvd1jHSYzdFgC5mZZYnfd4XyzcDB4yWgKESn4bAu3r5Qj4aQw5hLlfUzZD0kaSrq12YPXyWr-N6vegz4fibwXzE_L2vtZr-jEN1ux2tWC9qg-a63Q4qIOspdd5kCQIBKKSXHGktnHXNXFNIIWOOAsYPF18qw0K2c91jV8w-up3BFIg2zv75niLdGiiEbnFfLuT8jDWfEpE-lCPScDDNJVYHsWAWmqwNwZoU8Z8gKPSl2IQ",
+        "width": 811
+      }
+    ],
+    "place_id": "ChIJL3gyP4bzK4gRD4GZeF7PMKQ",
+    "plus_code": {
+      "compound_code": "FFCP+PJ Waterloo, ON, Canada",
+      "global_code": "86MXFFCP+PJ"
+    },
+    "rating": 4,
+    "reference": "ChIJL3gyP4bzK4gRD4GZeF7PMKQ",
+    "scope": "GOOGLE",
+    "types": [
+      "convenience_store",
+      "grocery_or_supermarket",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 28,
+    "vicinity": "90 Weber Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4652667,
+        "lng": -80.50463859999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46649813029149,
+          "lng": -80.5034225197085
+        },
+        "southwest": {
+          "lat": 43.46380016970849,
+          "lng": -80.5061204802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+    "name": "On The Run - Convenience Store",
+    "place_id": "ChIJmevM1yv1K4gRMHDH6UbI-Rw",
+    "plus_code": {
+      "compound_code": "FF8W+44 Waterloo, ON, Canada",
+      "global_code": "86MXFF8W+44"
+    },
+    "reference": "ChIJmevM1yv1K4gRMHDH6UbI-Rw",
+    "scope": "GOOGLE",
+    "types": [
+      "convenience_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "vicinity": "136 Weber Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.475781,
+        "lng": -80.52459240000002
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47719043029149,
+          "lng": -80.5232604197085
+        },
+        "southwest": {
+          "lat": 43.47449246970849,
+          "lng": -80.52595838029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+    "name": "Farah Market Express",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3512,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114925461789052088606\">Farah Market Express</a>"
+        ],
+        "photo_reference": "AeeoHcKRYpdDNVW7xJjhK4za8EaWX2ofO3P--iApuqALMZ6lOYsMfwfzY6yWREN3GvMOAMt0uI7332czxSBVZiekyKMxEvw7lDAwtyiH8DreWDm1I4SrygKgdbZlb0u8ZTAwDakuolXwVg_Bw1wgSdlda-fqOSGNsqTasDEeX8vJyCA9sxEUV8LBN5qz0krSegELgmL45Nh-iN2uZQ80q7Go5nH2_vWKU4NueoA5ujdrrGkNgvwaSWlUIH_ZOnpl0gze1XjUQonkDMtUBDWwr34OTuy5d7DYp315xY39rEZq-o6Y0-0FzijCEVtqfWIqunngcErIEEk4Ogw",
+        "width": 6240
+      }
+    ],
+    "place_id": "ChIJhx1pcTvzK4gRtrezb_KouZQ",
+    "plus_code": {
+      "compound_code": "FFGG+85 Waterloo, ON, Canada",
+      "global_code": "86MXFFGG+85"
+    },
+    "rating": 4.2,
+    "reference": "ChIJhx1pcTvzK4gRtrezb_KouZQ",
+    "scope": "GOOGLE",
+    "types": [
+      "convenience_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 31,
+    "vicinity": "242 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4765595,
+        "lng": -80.5231862
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4780054302915,
+          "lng": -80.52190101970848
+        },
+        "southwest": {
+          "lat": 43.4753074697085,
+          "lng": -80.5245989802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+    "name": "Bumble Bee Convenience",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112929587174748024412\">karan rv</a>"
+        ],
+        "photo_reference": "AeeoHcJEGVcufdidnni50mRB0L8MVgPlgKwKGR9rZtE3mjVpwWafNUw3ysqbKC6slJxWTyjbKOC1TSrQEWccCxQeAli7FSODdzNRMzsoZyeliPsplnFXiwc2F6s_Ksw3YWTGH9mjk6Hg4cNbJFd4RbFDAj0hlqj7dbSPK1PydPWR-8A2VrWY31PYIPHzm7jmaYh__27GXSv3qVjGqIO00UMBIuC8KzW_0cZS-P8k8CwLOMSYwS0ORNiawQLNL6VSyC9Xgv2psPqEE4mGskQNM4dRb3XOn_TJYmWeM2qpdQSothFZnGzLKHHTRN3U-nZDDvkfBj1Gkqj6ASubw9NqTBr0P28Ytrz8MoY846uvTMg9N1g9Pb1VpfhsNpGepjdzTymM32muy7FwI1oaBrNYeH-D8Fui-7gkuEM8jWKqgrQM9gDUR_lgJKc9lwoHijuBSiZ3TalivVURldKNlOI_PwLb1Xx3qnjxuvCF_IjyDOTe9zpubDrYAkpxEbJ8oQushu2kERm-V5wE-lExayTs7sC-lNtkhr8thERF_6ON2QblotvBdpFdy03ap2Thq5xL20JPHodsq3EBqETjV2F3_QInitgIkTee7gHIqPbGDnUgAR_rRbA7sdpF30vAVyV0UdHo",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJXSfEDgDzK4gRHa4QiKQF0Yc",
+    "plus_code": {
+      "compound_code": "FFGG+JP Waterloo, ON, Canada",
+      "global_code": "86MXFFGG+JP"
+    },
+    "rating": 5,
+    "reference": "ChIJXSfEDgDzK4gRHa4QiKQF0Yc",
+    "scope": "GOOGLE",
+    "types": [
+      "convenience_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 8,
+    "vicinity": "29 University Avenue East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.477551,
+        "lng": -80.5198798
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4788685302915,
+          "lng": -80.51856911970849
+        },
+        "southwest": {
+          "lat": 43.4761705697085,
+          "lng": -80.5212670802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+    "name": "Super Stop",
+    "photos": [
+      {
+        "height": 2176,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104188599540043908898\">Abhinav</a>"
+        ],
+        "photo_reference": "AeeoHcJeZDZKDmvlzSWu9BF8tYsm03OrTpJzQJ9xaVLMJqHTUautW5AVDPoyR7vXcs3vlYfC1DwfWnc7T8Bh3zB3MJPRdznbgMcI2yFiQz9qwd_2Xtoc2PMsNORN-hhOdSyqs2LoiZvjb9ve3Jjbb1H6AyAhdywrMe7jQOFMIO8MxrqMDubMNARR9PQaHdv8IhEYnyl0vGiu14_7ibZXg_7pLmazbzoKjMvi5Z8Rs7or0ZB-yZbcKdYnRRYZ_QJPl7lhbLif82g--1j2OYxcqnr9ks9CQaPGVxgAvvXq-gbJ8-BoRRLSza2fDMdtVT-e1V-DQ96chTcYlnT5-VRSxoIClPjF-bKNpUNtYDjWu06YXlAY69wnSrge8IdSav-cGFxZy71nhhPn2RIoeIEuv3egG8SDslT74pc1L2YjRTkh67v1itCOrCNjYon2l8Y91MhYdhrGIFrxEaSShJFieF5qNUOp49EH2cGVQxYDMoxb-a3fUUyJ4YVhnB-L1DG-50BCZNyl6Sp46e8LlSKEAsgpDgzaCuiuxQKRwlod9WnUA9KP-ZwH0jlZaZngRrbqksAH8YblOllbqUTCIyIuzBklnPQxj_bZF2iWQ-PADN_NkYJuKAUKWPD7KE4cwBolcVOQMpgrAA",
+        "width": 3840
+      }
+    ],
+    "place_id": "ChIJw6x4bIvzK4gRw1K7n61NH40",
+    "plus_code": {
+      "compound_code": "FFHJ+22 Waterloo, ON, Canada",
+      "global_code": "86MXFFHJ+22"
+    },
+    "rating": 2.3,
+    "reference": "ChIJw6x4bIvzK4gRw1K7n61NH40",
+    "scope": "GOOGLE",
+    "types": [
+      "convenience_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "245 Weber Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4630367,
+        "lng": -80.5388007
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4643595302915,
+          "lng": -80.5374910197085
+        },
+        "southwest": {
+          "lat": 43.4616615697085,
+          "lng": -80.5401889802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+    "name": "Select",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJDdGnexz0K4gRglN5Vp4d8QQ",
+    "plus_code": {
+      "compound_code": "FF76+6F Waterloo, ON, Canada",
+      "global_code": "86MXFF76+6F"
+    },
+    "rating": 3.5,
+    "reference": "ChIJDdGnexz0K4gRglN5Vp4d8QQ",
+    "scope": "GOOGLE",
+    "types": [
+      "convenience_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "70 Westmount Road North, Waterloo"
+  }
+]

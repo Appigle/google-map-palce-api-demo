@@ -1,0 +1,844 @@
+[
+  {
+    "name": "WLU 24Hr Residence Parking (Green) Lot 5",
+    "coordinates": {
+      "lat": 43.47343889999999,
+      "lng": -80.5240063
+    },
+    "longitude": -80.5240063,
+    "latitude": 43.47343889999999,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "WLU 24Hr Residence Parking (Red) Lot 31",
+    "coordinates": {
+      "lat": 43.4726127,
+      "lng": -80.5319944
+    },
+    "longitude": -80.5319944,
+    "latitude": 43.4726127,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Parking Lot S (S Lot)",
+    "coordinates": {
+      "lat": 43.4718026,
+      "lng": -80.55321090000001
+    },
+    "longitude": -80.55321090000001,
+    "latitude": 43.4718026,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "WLU Staff & Faculty Parking (Gold) Lot 40",
+    "coordinates": {
+      "lat": 43.474021,
+      "lng": -80.52383259999999
+    },
+    "longitude": -80.52383259999999,
+    "latitude": 43.474021,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "WLU 24Hr Residence Parking (Red) Lot 31b",
+    "coordinates": {
+      "lat": 43.47222299999999,
+      "lng": -80.53268899999999
+    },
+    "longitude": -80.53268899999999,
+    "latitude": 43.47222299999999,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "WLU 24Hr Residence Parking (Red) Lot 31c",
+    "coordinates": {
+      "lat": 43.4717249,
+      "lng": -80.5320813
+    },
+    "longitude": -80.5320813,
+    "latitude": 43.4717249,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "WLU Staff, Faculty & Student Parking (Gold & White) Lot 3A & 3B",
+    "coordinates": {
+      "lat": 43.4739734,
+      "lng": -80.52639409999999
+    },
+    "longitude": -80.52639409999999,
+    "latitude": 43.4739734,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "WLU Staff & Faculty Parking (Gold) Lot 22",
+    "coordinates": {
+      "lat": 43.4754535,
+      "lng": -80.5239387
+    },
+    "longitude": -80.5239387,
+    "latitude": 43.4754535,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "WLU Student Parking (White) Lot 37",
+    "coordinates": {
+      "lat": 43.4777513,
+      "lng": -80.5319076
+    },
+    "longitude": -80.5319076,
+    "latitude": 43.4777513,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "WLU Residence Life Staff Parking (Orange) Lot 19A",
+    "coordinates": {
+      "lat": 43.4744164,
+      "lng": -80.5281307
+    },
+    "longitude": -80.5281307,
+    "latitude": 43.4744164,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Parking Lot A, University of Waterloo",
+    "coordinates": {
+      "lat": 43.4692491,
+      "lng": -80.5374563
+    },
+    "longitude": -80.5374563,
+    "latitude": 43.4692491,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Parking Lot C, University of Waterloo",
+    "coordinates": {
+      "lat": 43.4675796,
+      "lng": -80.5384941
+    },
+    "longitude": -80.5384941,
+    "latitude": 43.4675796,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Standard Parking",
+    "coordinates": {
+      "lat": 43.4503239,
+      "lng": -80.5154886
+    },
+    "longitude": -80.5154886,
+    "latitude": 43.4503239,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Bramm St. Yards Parking",
+    "coordinates": {
+      "lat": 43.4500651,
+      "lng": -80.50333239999999
+    },
+    "longitude": -80.50333239999999,
+    "latitude": 43.4500651,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Parking Lot OV",
+    "coordinates": {
+      "lat": 43.47617899999999,
+      "lng": -80.5439318
+    },
+    "longitude": -80.5439318,
+    "latitude": 43.47617899999999,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Parking Lot X",
+    "coordinates": {
+      "lat": 43.47683399999999,
+      "lng": -80.54685119999999
+    },
+    "longitude": -80.54685119999999,
+    "latitude": 43.47683399999999,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "TD Centre",
+    "coordinates": {
+      "lat": 43.44951520000001,
+      "lng": -80.4904717
+    },
+    "longitude": -80.4904717,
+    "latitude": 43.44951520000001,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Standard Parking",
+    "coordinates": {
+      "lat": 43.45174449999999,
+      "lng": -80.4882003
+    },
+    "longitude": -80.4882003,
+    "latitude": 43.45174449999999,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Standard Parking",
+    "coordinates": {
+      "lat": 43.45011819999999,
+      "lng": -80.4880266
+    },
+    "longitude": -80.4880266,
+    "latitude": 43.45011819999999,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "CANADA REVENUE AGENCY - Lot #114",
+    "coordinates": {
+      "lat": 43.4528307,
+      "lng": -80.4838542
+    },
+    "longitude": -80.4838542,
+    "latitude": 43.4528307,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Standard Parking",
+    "coordinates": {
+      "lat": 43.451108,
+      "lng": -80.48488259999999
+    },
+    "longitude": -80.48488259999999,
+    "latitude": 43.451108,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Standard Parking",
+    "coordinates": {
+      "lat": 43.4488028,
+      "lng": -80.4865787
+    },
+    "longitude": -80.4865787,
+    "latitude": 43.4488028,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Standard Parking",
+    "coordinates": {
+      "lat": 43.4479133,
+      "lng": -80.4857184
+    },
+    "longitude": -80.4857184,
+    "latitude": 43.4479133,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Duke St. Parking Garage",
+    "coordinates": {
+      "lat": 43.4510999,
+      "lng": -80.48929489999999
+    },
+    "longitude": -80.48929489999999,
+    "latitude": 43.4510999,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "UW Parking Services",
+    "coordinates": {
+      "lat": 43.47353849999999,
+      "lng": -80.5426742
+    },
+    "longitude": -80.5426742,
+    "latitude": 43.47353849999999,
+    "types": [
+      "parking",
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "WLU - Kitchener Campus",
+    "coordinates": {
+      "lat": 43.45276759999999,
+      "lng": -80.4921762
+    },
+    "longitude": -80.4921762,
+    "latitude": 43.45276759999999,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "WLU 24Hr Residence Parking (Green) Lot 47",
+    "coordinates": {
+      "lat": 43.4736726,
+      "lng": -80.5214988
+    },
+    "longitude": -80.5214988,
+    "latitude": 43.4736726,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "WLU Staff & Faculty Parking (Gold) Lot 15",
+    "coordinates": {
+      "lat": 43.4744164,
+      "lng": -80.5281307
+    },
+    "longitude": -80.5281307,
+    "latitude": 43.4744164,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "WLU Parking Lot 4",
+    "coordinates": {
+      "lat": 43.473876,
+      "lng": -80.5271123
+    },
+    "longitude": -80.5271123,
+    "latitude": 43.473876,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Moser Landscape Group Inc",
+    "coordinates": {
+      "lat": 43.4729301,
+      "lng": -80.48000979999999
+    },
+    "longitude": -80.48000979999999,
+    "latitude": 43.4729301,
+    "types": [
+      "parking",
+      "general_contractor",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Regina Parking Lot",
+    "coordinates": {
+      "lat": 43.4646219,
+      "lng": -80.5206911
+    },
+    "longitude": -80.5206911,
+    "latitude": 43.4646219,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Station Lot",
+    "coordinates": {
+      "lat": 43.4649005,
+      "lng": -80.5204146
+    },
+    "longitude": -80.5204146,
+    "latitude": 43.4649005,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Gillen St Parking",
+    "coordinates": {
+      "lat": 43.4649382,
+      "lng": -80.5203817
+    },
+    "longitude": -80.5203817,
+    "latitude": 43.4649382,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Hughes Ln Parking",
+    "coordinates": {
+      "lat": 43.4645685,
+      "lng": -80.5213843
+    },
+    "longitude": -80.5213843,
+    "latitude": 43.4645685,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "City Centre Lot",
+    "coordinates": {
+      "lat": 43.4641575,
+      "lng": -80.51924939999999
+    },
+    "longitude": -80.51924939999999,
+    "latitude": 43.4641575,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Uptown Parkade",
+    "coordinates": {
+      "lat": 43.46388079999999,
+      "lng": -80.5216631
+    },
+    "longitude": -80.5216631,
+    "latitude": 43.46388079999999,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Herbert Parking Lot",
+    "coordinates": {
+      "lat": 43.463094,
+      "lng": -80.5195533
+    },
+    "longitude": -80.5195533,
+    "latitude": 43.463094,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "William Parking Lot",
+    "coordinates": {
+      "lat": 43.4627518,
+      "lng": -80.519502
+    },
+    "longitude": -80.519502,
+    "latitude": 43.4627518,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "21 Willow St Parking",
+    "coordinates": {
+      "lat": 43.4646815,
+      "lng": -80.5178353
+    },
+    "longitude": -80.5178353,
+    "latitude": 43.4646815,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Waterloo Town Square Parking Lot North",
+    "coordinates": {
+      "lat": 43.4643718,
+      "lng": -80.5235879
+    },
+    "longitude": -80.5235879,
+    "latitude": 43.4643718,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Waterloo Town Square Parking Lot South",
+    "coordinates": {
+      "lat": 43.4625942,
+      "lng": -80.5233049
+    },
+    "longitude": -80.5233049,
+    "latitude": 43.4625942,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "20 Erb St W Parking",
+    "coordinates": {
+      "lat": 43.46531090000001,
+      "lng": -80.5239163
+    },
+    "longitude": -80.5239163,
+    "latitude": 43.46531090000001,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Marsland Centre Parking Lot - Pay & Display",
+    "coordinates": {
+      "lat": 43.4657342,
+      "lng": -80.523958
+    },
+    "longitude": -80.523958,
+    "latitude": 43.4657342,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Caroline North Lot",
+    "coordinates": {
+      "lat": 43.462535,
+      "lng": -80.5237928
+    },
+    "longitude": -80.5237928,
+    "latitude": 43.462535,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Caroline South Parking Lot",
+    "coordinates": {
+      "lat": 43.46164270000001,
+      "lng": -80.5235112
+    },
+    "longitude": -80.5235112,
+    "latitude": 43.46164270000001,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Library Lot",
+    "coordinates": {
+      "lat": 43.4663586,
+      "lng": -80.5247253
+    },
+    "longitude": -80.5247253,
+    "latitude": 43.4663586,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Dupont Parking Lot",
+    "coordinates": {
+      "lat": 43.46564029999999,
+      "lng": -80.52524749999999
+    },
+    "longitude": -80.52524749999999,
+    "latitude": 43.46564029999999,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Museum Lot at Waterloo Park",
+    "coordinates": {
+      "lat": 43.464175,
+      "lng": -80.526811
+    },
+    "longitude": -80.526811,
+    "latitude": 43.464175,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Perimeter Lot",
+    "coordinates": {
+      "lat": 43.46521140000001,
+      "lng": -80.5267865
+    },
+    "longitude": -80.5267865,
+    "latitude": 43.46521140000001,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "20-32 John St W Garage",
+    "coordinates": {
+      "lat": 43.45849210000001,
+      "lng": -80.5189369
+    },
+    "longitude": -80.5189369,
+    "latitude": 43.45849210000001,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Parking Indigo Toronto - Delta Waterloo Hotel",
+    "coordinates": {
+      "lat": 43.4633259,
+      "lng": -80.52845119999999
+    },
+    "longitude": -80.52845119999999,
+    "latitude": 43.4633259,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Parking bike",
+    "coordinates": {
+      "lat": 43.46638,
+      "lng": -80.5299307
+    },
+    "longitude": -80.5299307,
+    "latitude": 43.46638,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "KW Campus",
+    "coordinates": {
+      "lat": 43.45737889999999,
+      "lng": -80.5130295
+    },
+    "longitude": -80.5130295,
+    "latitude": 43.45737889999999,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Bauer Lot Parking",
+    "coordinates": {
+      "lat": 43.46514270000001,
+      "lng": -80.53247019999999
+    },
+    "longitude": -80.53247019999999,
+    "latitude": 43.46514270000001,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Sun Life Parking",
+    "coordinates": {
+      "lat": 43.4568412,
+      "lng": -80.51379519999999
+    },
+    "longitude": -80.51379519999999,
+    "latitude": 43.4568412,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "WLU Reserved parking 13",
+    "coordinates": {
+      "lat": 43.4719935,
+      "lng": -80.5286055
+    },
+    "longitude": -80.5286055,
+    "latitude": 43.4719935,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "University Stadium Parking",
+    "coordinates": {
+      "lat": 43.4704723,
+      "lng": -80.53118160000001
+    },
+    "longitude": -80.53118160000001,
+    "latitude": 43.4704723,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Lot 24",
+    "coordinates": {
+      "lat": 43.4737141,
+      "lng": -80.5252988
+    },
+    "longitude": -80.5252988,
+    "latitude": 43.4737141,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Grand River Hospital Campus Parking - Precise ParkLink",
+    "coordinates": {
+      "lat": 43.456209,
+      "lng": -80.5120152
+    },
+    "longitude": -80.5120152,
+    "latitude": 43.456209,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Belmont Village Parking",
+    "coordinates": {
+      "lat": 43.4539327,
+      "lng": -80.5190099
+    },
+    "longitude": -80.5190099,
+    "latitude": 43.4539327,
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ]
+  }
+]

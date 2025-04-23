@@ -1,0 +1,967 @@
+[
+  {
+    "name": "Canadian Tire",
+    "coordinates": {
+      "lat": 43.4852414,
+      "lng": -80.5226235
+    },
+    "longitude": -80.5226235,
+    "latitude": 43.4852414,
+    "types": [
+      "department_store",
+      "car_repair",
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "The Home Depot",
+    "coordinates": {
+      "lat": 43.4141612,
+      "lng": -80.5163919
+    },
+    "longitude": -80.5163919,
+    "latitude": 43.4141612,
+    "types": [
+      "hardware_store",
+      "furniture_store",
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Canadian Tire",
+    "coordinates": {
+      "lat": 43.4484988,
+      "lng": -80.4449983
+    },
+    "longitude": -80.4449983,
+    "latitude": 43.4484988,
+    "types": [
+      "department_store",
+      "car_repair",
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "The UPS Store",
+    "coordinates": {
+      "lat": 43.4210079,
+      "lng": -80.4470485
+    },
+    "longitude": -80.4470485,
+    "latitude": 43.4210079,
+    "types": [
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "The Home Depot",
+    "coordinates": {
+      "lat": 43.5029945,
+      "lng": -80.5335083
+    },
+    "longitude": -80.5335083,
+    "latitude": 43.5029945,
+    "types": [
+      "hardware_store",
+      "furniture_store",
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "The UPS Store",
+    "coordinates": {
+      "lat": 43.45323,
+      "lng": -80.55338499999999
+    },
+    "longitude": -80.55338499999999,
+    "latitude": 43.45323,
+    "types": [
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "The UPS Store",
+    "coordinates": {
+      "lat": 43.503148,
+      "lng": -80.52735899999999
+    },
+    "longitude": -80.52735899999999,
+    "latitude": 43.503148,
+    "types": [
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Sobeys Columbia",
+    "coordinates": {
+      "lat": 43.46846,
+      "lng": -80.56867799999999
+    },
+    "longitude": -80.56867799999999,
+    "latitude": 43.46846,
+    "types": [
+      "supermarket",
+      "grocery_or_supermarket",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Canadian Tire",
+    "coordinates": {
+      "lat": 43.419701,
+      "lng": -80.44115049999999
+    },
+    "longitude": -80.44115049999999,
+    "latitude": 43.419701,
+    "types": [
+      "department_store",
+      "car_repair",
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Sobeys Northfield",
+    "coordinates": {
+      "lat": 43.498686,
+      "lng": -80.548103
+    },
+    "longitude": -80.548103,
+    "latitude": 43.498686,
+    "types": [
+      "supermarket",
+      "grocery_or_supermarket",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Tim Hortons",
+    "coordinates": {
+      "lat": 43.44249120000001,
+      "lng": -80.47456319999999
+    },
+    "longitude": -80.47456319999999,
+    "latitude": 43.44249120000001,
+    "types": [
+      "bakery",
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Food Basics",
+    "coordinates": {
+      "lat": 43.4376748,
+      "lng": -80.5122399
+    },
+    "longitude": -80.5122399,
+    "latitude": 43.4376748,
+    "types": [
+      "supermarket",
+      "grocery_or_supermarket",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Food Basics",
+    "coordinates": {
+      "lat": 43.4424183,
+      "lng": -80.5449458
+    },
+    "longitude": -80.5449458,
+    "latitude": 43.4424183,
+    "types": [
+      "supermarket",
+      "grocery_or_supermarket",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Food Basics",
+    "coordinates": {
+      "lat": 43.47278860000001,
+      "lng": -80.59333389999999
+    },
+    "longitude": -80.59333389999999,
+    "latitude": 43.47278860000001,
+    "types": [
+      "supermarket",
+      "grocery_or_supermarket",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Canada Computers & Electronics",
+    "coordinates": {
+      "lat": 43.47757060000001,
+      "lng": -80.5189684
+    },
+    "longitude": -80.5189684,
+    "latitude": 43.47757060000001,
+    "types": [
+      "electronics_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Tim Hortons",
+    "coordinates": {
+      "lat": 43.4159668,
+      "lng": -80.5114388
+    },
+    "longitude": -80.5114388,
+    "latitude": 43.4159668,
+    "types": [
+      "bakery",
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "The UPS Store",
+    "coordinates": {
+      "lat": 43.4631145,
+      "lng": -80.4656346
+    },
+    "longitude": -80.4656346,
+    "latitude": 43.4631145,
+    "types": [
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "U-Haul Moving & Storage of Waterloo",
+    "coordinates": {
+      "lat": 43.5011167,
+      "lng": -80.53968549999999
+    },
+    "longitude": -80.53968549999999,
+    "latitude": 43.5011167,
+    "types": [
+      "moving_company",
+      "point_of_interest",
+      "store",
+      "storage",
+      "establishment"
+    ]
+  },
+  {
+    "name": "ALDO",
+    "coordinates": {
+      "lat": 43.4991033,
+      "lng": -80.52956329999999
+    },
+    "longitude": -80.52956329999999,
+    "latitude": 43.4991033,
+    "types": [
+      "shoe_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Marshalls & HomeSense",
+    "coordinates": {
+      "lat": 43.4187509,
+      "lng": -80.44885049999999
+    },
+    "longitude": -80.44885049999999,
+    "latitude": 43.4187509,
+    "types": [
+      "department_store",
+      "shoe_store",
+      "clothing_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Spaenaur",
+    "coordinates": {
+      "lat": 43.4623952,
+      "lng": -80.4675113
+    },
+    "longitude": -80.4675113,
+    "latitude": 43.4623952,
+    "types": [
+      "hardware_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Stag Shop - Adult Sex Store",
+    "coordinates": {
+      "lat": 43.46535349999999,
+      "lng": -80.5226783
+    },
+    "longitude": -80.5226783,
+    "latitude": 43.46535349999999,
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "HomeSense",
+    "coordinates": {
+      "lat": 43.5007797,
+      "lng": -80.5305952
+    },
+    "longitude": -80.5305952,
+    "latitude": 43.5007797,
+    "types": [
+      "department_store",
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Tim Hortons",
+    "coordinates": {
+      "lat": 43.4714332,
+      "lng": -80.4404689
+    },
+    "longitude": -80.4404689,
+    "latitude": 43.4714332,
+    "types": [
+      "bakery",
+      "cafe",
+      "restaurant",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "solis optics - Waterloo",
+    "coordinates": {
+      "lat": 43.47569660000001,
+      "lng": -80.51724209999999
+    },
+    "longitude": -80.51724209999999,
+    "latitude": 43.47569660000001,
+    "types": [
+      "health",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Tim Hortons",
+    "coordinates": {
+      "lat": 43.4837233,
+      "lng": -80.5259945
+    },
+    "longitude": -80.5259945,
+    "latitude": 43.4837233,
+    "types": [
+      "bakery",
+      "cafe",
+      "restaurant",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Play It Again Sports",
+    "coordinates": {
+      "lat": 43.4193067,
+      "lng": -80.4430952
+    },
+    "longitude": -80.4430952,
+    "latitude": 43.4193067,
+    "types": [
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Shoppers Drug Mart",
+    "coordinates": {
+      "lat": 43.46362999999999,
+      "lng": -80.523432
+    },
+    "longitude": -80.523432,
+    "latitude": 43.46362999999999,
+    "types": [
+      "pharmacy",
+      "drugstore",
+      "health",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Tim Hortons",
+    "coordinates": {
+      "lat": 43.47699809999999,
+      "lng": -80.5214871
+    },
+    "longitude": -80.5214871,
+    "latitude": 43.47699809999999,
+    "types": [
+      "bakery",
+      "cafe",
+      "restaurant",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Food Basics",
+    "coordinates": {
+      "lat": 43.4183105,
+      "lng": -80.45117139999999
+    },
+    "longitude": -80.45117139999999,
+    "latitude": 43.4183105,
+    "types": [
+      "supermarket",
+      "grocery_or_supermarket",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Rogers",
+    "coordinates": {
+      "lat": 43.4976671,
+      "lng": -80.52569439999999
+    },
+    "longitude": -80.52569439999999,
+    "latitude": 43.4976671,
+    "types": [
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Marble Slab Creamery -- KITCHENER -- Williamsburg Town Center",
+    "coordinates": {
+      "lat": 43.4071754,
+      "lng": -80.5002064
+    },
+    "longitude": -80.5002064,
+    "latitude": 43.4071754,
+    "types": [
+      "bakery",
+      "restaurant",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Franklin Empire",
+    "coordinates": {
+      "lat": 43.4001083,
+      "lng": -80.49122609999999
+    },
+    "longitude": -80.49122609999999,
+    "latitude": 43.4001083,
+    "types": [
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Rogers",
+    "coordinates": {
+      "lat": 43.42923159999999,
+      "lng": -80.52498489999999
+    },
+    "longitude": -80.52498489999999,
+    "latitude": 43.42923159999999,
+    "types": [
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Rogers",
+    "coordinates": {
+      "lat": 43.4699493,
+      "lng": -80.515537
+    },
+    "longitude": -80.515537,
+    "latitude": 43.4699493,
+    "types": [
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Tim Hortons",
+    "coordinates": {
+      "lat": 43.4846435,
+      "lng": -80.54026979999999
+    },
+    "longitude": -80.54026979999999,
+    "latitude": 43.4846435,
+    "types": [
+      "bakery",
+      "cafe",
+      "restaurant",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Rogers",
+    "coordinates": {
+      "lat": 43.42440209999999,
+      "lng": -80.43889399999999
+    },
+    "longitude": -80.43889399999999,
+    "latitude": 43.42440209999999,
+    "types": [
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Tim Hortons",
+    "coordinates": {
+      "lat": 43.48884239999999,
+      "lng": -80.4927009
+    },
+    "longitude": -80.4927009,
+    "latitude": 43.48884239999999,
+    "types": [
+      "bakery",
+      "cafe",
+      "restaurant",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Hudson’s Bay",
+    "coordinates": {
+      "lat": 43.42343779999999,
+      "lng": -80.44070099999999
+    },
+    "longitude": -80.44070099999999,
+    "latitude": 43.42343779999999,
+    "types": [
+      "department_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "ALDO",
+    "coordinates": {
+      "lat": 43.4243176,
+      "lng": -80.438563
+    },
+    "longitude": -80.438563,
+    "latitude": 43.4243176,
+    "types": [
+      "shoe_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Colonial Acres Coins and Jewellery",
+    "coordinates": {
+      "lat": 43.4648772,
+      "lng": -80.4615847
+    },
+    "longitude": -80.4615847,
+    "latitude": 43.4648772,
+    "types": [
+      "jewelry_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Best Buy Express",
+    "coordinates": {
+      "lat": 43.498116,
+      "lng": -80.5262754
+    },
+    "longitude": -80.5262754,
+    "latitude": 43.498116,
+    "types": [
+      "electronics_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Value Village",
+    "coordinates": {
+      "lat": 43.44408000000001,
+      "lng": -80.46925139999999
+    },
+    "longitude": -80.46925139999999,
+    "latitude": 43.44408000000001,
+    "types": [
+      "book_store",
+      "clothing_store",
+      "furniture_store",
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Ziggy's Cycle",
+    "coordinates": {
+      "lat": 43.4562191,
+      "lng": -80.4944098
+    },
+    "longitude": -80.4944098,
+    "latitude": 43.4562191,
+    "types": [
+      "bicycle_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Long & McQuade Musical Instruments",
+    "coordinates": {
+      "lat": 43.4663755,
+      "lng": -80.52240809999999
+    },
+    "longitude": -80.52240809999999,
+    "latitude": 43.4663755,
+    "types": [
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Starbucks",
+    "coordinates": {
+      "lat": 43.4628433,
+      "lng": -80.5220047
+    },
+    "longitude": -80.5220047,
+    "latitude": 43.4628433,
+    "types": [
+      "cafe",
+      "point_of_interest",
+      "food",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Food Basics",
+    "coordinates": {
+      "lat": 43.4562537,
+      "lng": -80.42969649999999
+    },
+    "longitude": -80.42969649999999,
+    "latitude": 43.4562537,
+    "types": [
+      "supermarket",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "food",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Tim Hortons",
+    "coordinates": {
+      "lat": 43.4960556,
+      "lng": -80.55002580000001
+    },
+    "longitude": -80.55002580000001,
+    "latitude": 43.4960556,
+    "types": [
+      "cafe",
+      "bakery",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "RONA+ Waterloo West",
+    "coordinates": {
+      "lat": 43.4372793,
+      "lng": -80.5647118
+    },
+    "longitude": -80.5647118,
+    "latitude": 43.4372793,
+    "types": [
+      "furniture_store",
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Tim Hortons",
+    "coordinates": {
+      "lat": 43.43814520000001,
+      "lng": -80.51079109999999
+    },
+    "longitude": -80.51079109999999,
+    "latitude": 43.43814520000001,
+    "types": [
+      "cafe",
+      "bakery",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "TA Appliances & Barbecues",
+    "coordinates": {
+      "lat": 43.4647903,
+      "lng": -80.46419519999999
+    },
+    "longitude": -80.46419519999999,
+    "latitude": 43.4647903,
+    "types": [
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Tim Hortons",
+    "coordinates": {
+      "lat": 43.4771884,
+      "lng": -80.4841675
+    },
+    "longitude": -80.4841675,
+    "latitude": 43.4771884,
+    "types": [
+      "cafe",
+      "bakery",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Afterglow",
+    "coordinates": {
+      "lat": 43.5073865,
+      "lng": -80.5313067
+    },
+    "longitude": -80.5313067,
+    "latitude": 43.5073865,
+    "types": [
+      "general_contractor",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Canadian Tire",
+    "coordinates": {
+      "lat": 43.4475553,
+      "lng": -80.5737841
+    },
+    "longitude": -80.5737841,
+    "latitude": 43.4475553,
+    "types": [
+      "department_store",
+      "car_repair",
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Wine Rack",
+    "coordinates": {
+      "lat": 43.470413,
+      "lng": -80.51512699999999
+    },
+    "longitude": -80.51512699999999,
+    "latitude": 43.470413,
+    "types": [
+      "liquor_store",
+      "point_of_interest",
+      "food",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Glenbriar Home Hardware",
+    "coordinates": {
+      "lat": 43.4795385,
+      "lng": -80.5197948
+    },
+    "longitude": -80.5197948,
+    "latitude": 43.4795385,
+    "types": [
+      "hardware_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Tim Hortons",
+    "coordinates": {
+      "lat": 43.4218348,
+      "lng": -80.45959979999999
+    },
+    "longitude": -80.45959979999999,
+    "latitude": 43.4218348,
+    "types": [
+      "cafe",
+      "bakery",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Michaels",
+    "coordinates": {
+      "lat": 43.4607869,
+      "lng": -80.5366902
+    },
+    "longitude": -80.5366902,
+    "latitude": 43.4607869,
+    "types": [
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Canadian Tire",
+    "coordinates": {
+      "lat": 43.4168731,
+      "lng": -80.51328149999999
+    },
+    "longitude": -80.51328149999999,
+    "latitude": 43.4168731,
+    "types": [
+      "department_store",
+      "car_repair",
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Mr. Lube + Tires",
+    "coordinates": {
+      "lat": 43.431925,
+      "lng": -80.524728
+    },
+    "longitude": -80.524728,
+    "latitude": 43.431925,
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  }
+]

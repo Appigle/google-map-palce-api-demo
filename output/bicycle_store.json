@@ -1,0 +1,1086 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4562191,
+        "lng": -80.4944098
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4576065802915,
+          "lng": -80.4929388697085
+        },
+        "southwest": {
+          "lat": 43.4549086197085,
+          "lng": -80.49563683029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Ziggy's Cycle",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107734030840267019059\">L. Buhr</a>"
+        ],
+        "photo_reference": "AeeoHcIMJq3sBVtuKKpulFTD4CUGm4yhQHac0l08q-9QElTmSVQOvDiWj_ouCpSdzkvZUmNSoTZ9twSY2A79SzVQVcCi3kfiUMpC67g7rL63QTXGrbn3RNPNfBh_mkTeB4Cylofa-CPzHyM_SWk-m4AbtjalRXqc3uRZ8f9Zz7LPNUjP1VqRQnLZZHGI0CF3doa2jT5LsSeWiGF6X37G56aN7xQ69nPDGkbUkL1Dgj8wVDdmLEDHjvOs89FbWqlRYc31Z_BTItrNuzfggtBn6uvz0W8vnjmrVA815hhzrpWQC4yWtfSUZAmmfI7WLSaMc_nbTbXxserNmsWcmmjulHR3FwdW0hzLeQ2Nl5X3bJZfJDl6bWGqDleU2BG4RmFF60Yn7x9Fgrylu44Xect7Fi2q-xneJ7RAJULmOJjcCx8ArjEaG7Ej7zW6wFohKKXGaVFurVCIMt08MX-Ix47gzP-i9X5myUZ0PmZlyv7qaH0UCavW6RhF6_fMPIypCiWBVh4HBlbQZyPmSIRkDxGu2_nYV3Ab-1vG_tDqMT7WsI5N7f9TCqRaniFzpVB7RO_3_DUIh4IsJxYXrJIHO6uNU_TNm2PMIUP_CXg0yAzeoMubVxu8kl9f7EkNljrIS9sSfHbOwgpXhQ",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJjUeDLvX0K4gR35KX4tEdSgQ",
+    "plus_code": {
+      "compound_code": "FG44+F6 Kitchener, ON, Canada",
+      "global_code": "86MXFG44+F6"
+    },
+    "rating": 4.7,
+    "reference": "ChIJjUeDLvX0K4gR35KX4tEdSgQ",
+    "scope": "GOOGLE",
+    "types": [
+      "bicycle_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 507,
+    "vicinity": "130 Weber Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4996081,
+        "lng": -80.52754209999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.50105183029149,
+          "lng": -80.52637516970849
+        },
+        "southwest": {
+          "lat": 43.4983538697085,
+          "lng": -80.52907313029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Sport Chek",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113664309233820834071\">Ron Dutton</a>"
+        ],
+        "photo_reference": "AeeoHcKkJxNh__rlo1PTqAssnLOzGHKmTgVnibYUmfTw51XER3G15jSUePvT87o953U7GMhkAnqZ9CP5VHjnX2We1zRK6YLFPFehs4paKQnT7Gmzhb1GflVTmPJqFKs6WmI1GmMDPoRF_SsmTX5jsFiHPhHT9BoN6ruepQCLPYTt0srwgDJq_QNOeLIgUnf68b5dEijLXw9AECOXROxo4ID-oQ4MDJ-FiIUy1oDX3L34CvAp71QLgdOdx_Rf4Bx_lN58ZQ3b_vkpgbyANCfp77y3ZwOlyLIngbnEWr4bZu90okS-z-0d3FTp88KVHlhHZkZMO8b0qCD4bwk26S7U8aeETue-tB4fjLAsH6ulDwCnXRELOUQpNhQ6P9Umv8l6EsvRJRZXB_dCd8rWZwGR0Xyj0OheN3tNWf17IaX0n3A0IvVs8ZQqy29AkFzn4jnjKdRuEooLjy5-Z0os2s1Gu21yMHTh18yYntNAI9uKwKBPcyCfNUXOaUHK8GhuOVKjUsVeAfmQ5CVCeaj7Yw3LftmRVysGW0vaFa4IcFKqw-50NjPSteZpMWpbfylnvUsznJucmWC4nWlC3MdN3uAz0LeP516Nja4cG4-sqpzLsuWF8iB5GEC8M5gTZEIocC6IHL3K",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJn57J_sPzK4gRyWoXaqdvXRE",
+    "plus_code": {
+      "compound_code": "FFXC+RX Waterloo, ON, Canada",
+      "global_code": "86MXFFXC+RX"
+    },
+    "rating": 3.9,
+    "reference": "ChIJn57J_sPzK4gRyWoXaqdvXRE",
+    "scope": "GOOGLE",
+    "types": [
+      "bicycle_store",
+      "shoe_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 299,
+    "vicinity": "550 King Street North Unit N1, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4239041,
+        "lng": -80.43781249999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4249479802915,
+          "lng": -80.4369585197085
+        },
+        "southwest": {
+          "lat": 43.4222500197085,
+          "lng": -80.43965648029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Sport Chek",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105612268752145423343\">Vishal Shah</a>"
+        ],
+        "photo_reference": "AeeoHcLlAbdxe8vNcUmSplhV7fo3aLJ0lIYkyjd9SnwVGZb1IAAWbxPBjX6REmn_aookw7P-g2CDOG9xctmj9YzWPQsvCkVC3QpyXToTJRCMhIa6bATor9bZongOQaTEhjbU2Yp6A1hbtS_4KTWxBdU_MiPg-2Eyo37lw8tcmVmLX2fs7EyDqVKx63-jGxlvsUgwTCoA_SZ-ZGFIBmq-ZjtcfV8pZAt8tZ6qtfJO5o8w6cO1eU-CJFZ3izITO_Kf3JVSBOusWhKSTTT862NgXaIyM9Mua82jqTDkdG5uCWUB_uUiGSsOt0R16jJXPUrcZiY_wsm3kCvRhnwlQtuWoqbFd1SXfmGWfyo5MlOeF31NMz321lARM31pTSiR6f2ouNXTI9pAGAAHosthxSZKyWMQAuhyxDv39lMRU126NCoeJbIgD6kODSF6yjIw2F8uXUtu8U67VUkWT-DmDdv9XljhMfLpUUq65RILJRfDnkzd-ID6acTEpUc2J09620MP8XDQJX0NCZYx_rGpouj4ZF2-Krwx24vq-JOtvo2gO7nddCZFIaNeCv_7M5g2Wo4Lxt49oVuo9nTcOixFunzOdLZ6PUCvmtgtbncmd9WyZ6EiTpQV8l8WKB1qCkI7SIpHilxcccfZDQ",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJgwclnM2KK4gRbSRnSnQilpo",
+    "plus_code": {
+      "compound_code": "CHF6+HV Kitchener, ON, Canada",
+      "global_code": "86MXCHF6+HV"
+    },
+    "rating": 4,
+    "reference": "ChIJgwclnM2KK4gRbSRnSnQilpo",
+    "scope": "GOOGLE",
+    "types": [
+      "bicycle_store",
+      "shoe_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 221,
+    "vicinity": "2960 Kingsway Drive Unit # Y006, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.43451489999999,
+        "lng": -80.5622508
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.43596228029149,
+          "lng": -80.56067546970849
+        },
+        "southwest": {
+          "lat": 43.43326431970849,
+          "lng": -80.56337343029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Sport Chek",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 733,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114516024604093611886\">Sport Chek</a>"
+        ],
+        "photo_reference": "AeeoHcIpU-6FClVF69NOvA0wfF-ublbD9F2yrrnqwzabxSMnPoocDgnrquPlTCddQOBKSRBNLZwbgtwnF92Q9vVWTBQBTcwBT5wgKb5NpfCRo_kLEtgQJza9iioctdM-ZWWcwEr-IqlgziUopPeBN_WNPgEHTM1XsNpIaPO5SCrowjBpAbCLsY8n7YdnPhxijRmC9Ts2z26va2BRG6M1mZVyQgBQJn7geGeLl5Ejw_FBD-LQBo0FvBLKZ4b9Td-91hdBg89hR3touoBgsx_u1NrzMx8IGmlsMwaK65htgVqQlZ8WOgapC7Pb1zy-V8xtzrpWTLt2C_G_",
+        "width": 1470
+      }
+    ],
+    "place_id": "ChIJAQAAANz1K4gRYdRtl5Fkto8",
+    "plus_code": {
+      "compound_code": "CCMQ+R3 Kitchener, ON, Canada",
+      "global_code": "86MXCCMQ+R3"
+    },
+    "rating": 3.8,
+    "reference": "ChIJAQAAANz1K4gRYdRtl5Fkto8",
+    "scope": "GOOGLE",
+    "types": [
+      "bicycle_store",
+      "shoe_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 222,
+    "vicinity": "225 The Boardwalk Unit 3, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4718576,
+        "lng": -80.5458742
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4730798302915,
+          "lng": -80.5445810697085
+        },
+        "southwest": {
+          "lat": 43.4703818697085,
+          "lng": -80.5472790302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "WUSA Bike Centre",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103135609012123438729\">WUSA Bike Centre</a>"
+        ],
+        "photo_reference": "AeeoHcLerghNXHSowLnlNXXVDPoFmWmvKJUxxW2le8jo2MFgxIvWuYzRhEHNJMcbHlZHsxXTZhaJHHWU0xh_xdtl_pSsMtGJpN5hrS7UO44G8j7qqGmYKaO7IMdqTZL-GKWssZdKbQ0Y2dt1kyJDE7S2hnua6zplYMgL9B5QpOF_lhPoI2Da5AqWcfdgWAz8JEcCfEzK9AU6c-4_fQ5f8I3IaOHixoylUAX5W-bgHUBCeW2cVD2iBYgQeE3x5uYqif8w6TX922vuJUG_NJ5e93UkPb55vhooEKGmRq_k1FSRfMbWl6TThjYwRezPVzRGmZZr31F2x3l8wf8",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJoZ9IJKr2K4gRAUqwvMqk5eQ",
+    "plus_code": {
+      "compound_code": "FFC3+PM Waterloo, ON, Canada",
+      "global_code": "86MXFFC3+PM"
+    },
+    "rating": 4.4,
+    "reference": "ChIJoZ9IJKr2K4gRAUqwvMqk5eQ",
+    "scope": "GOOGLE",
+    "types": [
+      "bicycle_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 26,
+    "vicinity": "Student Life Centre, 200 University Avenue West SLC) 0101, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5049029,
+        "lng": -80.5376285
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.50626743029149,
+          "lng": -80.5362042197085
+        },
+        "southwest": {
+          "lat": 43.50356946970849,
+          "lng": -80.53890218029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "CYCLE ELECTRIC INC",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4953,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101888189180997962013\">CYCLE ELECTRIC INC</a>"
+        ],
+        "photo_reference": "AeeoHcJd-YET5ZRKJoylV_79yB_UWOpM1HxH4079nUvjondZmERL7LqXmP5I_NlA2Tc4XNqWofKj-fmSDrZLF2zYiDRfUT0RE8-W4veBE_pWYWSEbWRneMdiN3Uw4L9924rNrrY8NlCCmaMHWefoJwf6N_ul7pJBaWTqm9TEwR-9rrkIPEGdV01c3aSELHbHomcSEZaZG40CHE1hf9s39jHwxFZc7FqhfNI-a95xXg90wb-BaqugdBDec5aIw5iSNFA-QvokddAokVmQ_VegglfojzhuNay5HVlilMpk95OIdESNsxq3bJvbelhYO2XGPOsl6QN5-Zc4Bec",
+        "width": 6997
+      }
+    ],
+    "place_id": "ChIJW2FTt9DzK4gRdUPv5ysCexc",
+    "plus_code": {
+      "compound_code": "GF36+XW Waterloo, ON, Canada",
+      "global_code": "86MXGF36+XW"
+    },
+    "rating": 4.7,
+    "reference": "ChIJW2FTt9DzK4gRdUPv5ysCexc",
+    "scope": "GOOGLE",
+    "types": [
+      "bicycle_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 78,
+    "vicinity": "10 Wyman Road Unit 1, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4492652,
+        "lng": -80.4898974
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45057133029151,
+          "lng": -80.48848316970849
+        },
+        "southwest": {
+          "lat": 43.44787336970851,
+          "lng": -80.49118113029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Black Arrow Cycles",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117035618763826377315\">Cory Crawford</a>"
+        ],
+        "photo_reference": "AeeoHcJIgWqgDV4g95BHx7MAhpnHzefJOB7fF4iJKfBuSIbKsoL8N4eONRnEMqFw54tFX40D0uMFoeNh8sakFN9OJeVPu-BxB2IhuUFfFdEN9CnEGFYWZ6OtHvHxPkQNmlKf_mx970z70xpAcR0AldJMt1osaHir7X0Q37d85PyDWX1TJs9lvAewA0Z4GtdRYNhU29t4cTb3lVjMxZB4uEoqZY6jIOjYJZnp3-PAFKc77Y5E0HLppc9vhA_BzTEQvRB0T6yi5u8YMHL7n1uYfugBPHMlWJEbqe0d6IFbGFFzlZvt8S6Siw2G0uyZus7LjXDRVMYKwzLr3HrPUMoX3YG_psf50Lzpqu4EiSjl3frk235zPYhGAb_xIHJAyohiCUN5zUNkiQlpRw7LE1SD-82uUWkXLk-pIK3ZzdLUI__oBQyfRpf0eUSpmFay_0HE62qJH41wmwYqHAHDaYUYo5E0HgEc0ApcQ0IakPorHDBdSG3FG5FG-2XzILoMeqWC-8Ckn8k738ZFNAmmsa62gNINQtPeSrgIbP6DHeR_rBl3iLhzWRxtzt8yiEuzlpEJoGmp3vtHuB5BVILr4GuTDGCUdBytlifMIpTRWafVhWLlbEfT_3wxc1Pp-diZl9m-iNYN6xe0sg",
+        "width": 3456
+      }
+    ],
+    "place_id": "ChIJg1o87_L0K4gR8fqky-ImfW0",
+    "plus_code": {
+      "compound_code": "CGX6+P2 Kitchener, ON, Canada",
+      "global_code": "86MXCGX6+P2"
+    },
+    "rating": 4.9,
+    "reference": "ChIJg1o87_L0K4gR8fqky-ImfW0",
+    "scope": "GOOGLE",
+    "types": [
+      "bicycle_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 263,
+    "vicinity": "50 Queen Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4480508,
+        "lng": -80.4847442
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44940053029151,
+          "lng": -80.4834925697085
+        },
+        "southwest": {
+          "lat": 43.44670256970851,
+          "lng": -80.48619053029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Recycle Cycles",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110305119340866635671\">Aniket Salunke</a>"
+        ],
+        "photo_reference": "AeeoHcJFibGlFH0WPZGihoHbf3wTqBKHz-3PJxVkn1DOk2YQWLStR26QDn-gvFWUXVQywoxqhkkIfPNI8NKHaMmE3u42vxawwqCMEpqdifb0yCc-H62Wa31u5RZTj2krUf-NvHUvASKpY81ib0qakthGeYX9HxbeCL7-M2sKrisHyPy1uEZeT5A27-RrXrMRfUsCjpsb4Iku3VWZJdR2vpWY7O8h9pHEA5HkdhIQB28Gd-Y7Ssxdb74bMpKrYePChnjxIGbGdyeNT9ndMAkA3NCsZ6Ish_rEJFZVDq8guTBHxbefX9BJVJhHYKpHmcUlkPLXUF_0mJRa2W1qmMvJMaqgXy2Vw_2byiXPmApajbz1rQEmaJkN_M2vB7EXw19yXy37R_D23JorVs94YMp6UcVunWE2k-dymdAVVlnL9lUYdL4yPdvgu_tWQWoMLqmyasB6chu989tfMZpfVmBHRb_ZbyUW-wMydjMS3koaGe3Hei8Y83wH6FH5Nrcxk-eEST5H0tbps-jy6jZfe_7A8PXEhMxhLYtOc2NUdhFPn9MSnJDNXkkmOuGNIcaU_oQ3-kN7BX0tHTU6uslzf6ipqPVQDn4qBJgbfX0BNTlUcSBub8RP2g70L8J7HgfSujF196FfwnDAzw",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJMxEMauz0K4gRHwQQVGesr1s",
+    "plus_code": {
+      "compound_code": "CGX8+64 Kitchener, ON, Canada",
+      "global_code": "86MXCGX8+64"
+    },
+    "rating": 4.7,
+    "reference": "ChIJMxEMauz0K4gRHwQQVGesr1s",
+    "scope": "GOOGLE",
+    "types": [
+      "bicycle_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 171,
+    "vicinity": "256 King Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46841399999999,
+        "lng": -80.5229543
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4697438302915,
+          "lng": -80.5217407697085
+        },
+        "southwest": {
+          "lat": 43.4670458697085,
+          "lng": -80.52443873029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "McPhail's Cycle & Sports Ltd",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1520,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107198089164830315426\">Deepak Vishnu D</a>"
+        ],
+        "photo_reference": "AeeoHcK9hpZVVhQQcPCbu_rXg7Ax3PEW3VGLaCU1JEROFL3oSbXZkvjRbrmcWtKLy0jyZUyMX02mqSC8KXkRUvqaueqi3KH7t3zL9DgObw9vmwC6eZXuNkwY8al7IQUTAtA-E7sxYagZJFlsMuv5ENunyp0oqgJtQg30wnbM6tkIxXxqAEEyEM3gJaj447fDBCstVgA-EgVwTDVWRVreDD5VTMODvDERD4AqeLeiN5JmaxspKbMxAyY1aX_7XajIyE05uGb9hjGDk3W94KVqnrPf2D5DZpN5-fPYpbt5HbXiC_wN5aI0lCE_I_Gq77FQnGSv3KMq7fq60ARegXww-0xmQrGh78Ydz0vT_OlzYscHHxE8iG9zCfQPuEEf1xgYAY7DWTLMfAmvU2OeBDXGXuJHVAolfJ268SElRQEhFe_4F5Hm2NR7BXVD3gqOmeBedRva_G87EZCQ9BM8bzo44TDR0H8MGwPqAEn9PgMMa5ky6lmLai8HLfwPE5ELTGZEkfOZ2tzlfC_exoDatSXrbkoV0pE4tjq2px4p1F1Nf7hwBex-3c-v4FLdan19C3nf-JlO279eqgXhsD-VraLng6fTSlRUfHR5DR0Wdwq-fsB-WMR7Nu-xk7EVSvtj31YdOSa4h5NeOe8L",
+        "width": 2688
+      }
+    ],
+    "place_id": "ChIJ5yZzlgz0K4gRThrD9ABMThU",
+    "plus_code": {
+      "compound_code": "FF9G+9R Waterloo, ON, Canada",
+      "global_code": "86MXFF9G+9R"
+    },
+    "rating": 4.5,
+    "reference": "ChIJ5yZzlgz0K4gRThrD9ABMThU",
+    "scope": "GOOGLE",
+    "types": [
+      "bicycle_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 270,
+    "vicinity": "98 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4425531,
+        "lng": -80.4728561
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44393998029149,
+          "lng": -80.47135886970848
+        },
+        "southwest": {
+          "lat": 43.44124201970849,
+          "lng": -80.4740568302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Ski 'n' Cycle Hut Inc",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 453,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115221135821720601890\">Ski &#39;n&#39; Cycle Hut Inc</a>"
+        ],
+        "photo_reference": "AeeoHcJgjrcKE8gBIqGXl6VcnwrlkT-JMjSxb1QOy2aq0Ovx6BxD-rzwp30QswMYWlkdhXKvH1vKhSbJf8S4tA-SHQvJIm70k69tqe_KuetBymttHX3bSZ5-jKt-YIYNNK4HclCmC56zlEV8i3wxlFduJqijZd_Rgw2Pm47SwPRdvFjTmbLKYSiAuyzlpMBdiSsztZEU3INyn5s2J_bpzun6XkiSiUIB-2rV9NXR_09f91wLpBRxYuJKobnU-3isu9FHRh9_0cLjlxd8FGfkqdKARAKpriXq7VxDKMsP9Ah0WlD_f6sj3ugDBZ9LVcydLqMNNIpfrITTfAI",
+        "width": 604
+      }
+    ],
+    "place_id": "ChIJWerlasP0K4gRn-vcH9xKpFI",
+    "plus_code": {
+      "compound_code": "CGVG+2V Kitchener, ON, Canada",
+      "global_code": "86MXCGVG+2V"
+    },
+    "rating": 4.4,
+    "reference": "ChIJWerlasP0K4gRn-vcH9xKpFI",
+    "scope": "GOOGLE",
+    "types": [
+      "bicycle_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 91,
+    "vicinity": "1010 King Street East #519-571-0917, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4651145,
+        "lng": -80.522178
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4664500802915,
+          "lng": -80.5209149697085
+        },
+        "southwest": {
+          "lat": 43.4637521197085,
+          "lng": -80.5236129302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "King Street Cycles",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2988,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110437474318932130998\">Hugh MacLeod</a>"
+        ],
+        "photo_reference": "AeeoHcLBCaExRt__J7aTWI76rwCsgkgho4Jlz356BxO8KWGmZuU8XFHU4qHmnZMFceh-Q1qBtZGtqSO8plf_ThN7l7MGBITi41UpIUsrw6Sol29HFgRKThJsGwTdNlppurkA9ndit87KzAXJbn8366wghC7DgwzWYlr9oZJwxkjIx7j7NtSdbzQtVMEqJxuXSfllSp3bywlb_7KLZbjrJumNJcTi_vBT2el4EETZHr7VIyXqiZ7jQDDKXFvYUh14UzAEYIdSmrU0BS6zV-Y4r09Jq1vVCXQOpsHRCROUu5Z5OjC5QvaH0NAnr1NT44M8X5eg-MlsWBFBipBK2wONyZQgplxPlh7asp4vWDwlJbrwSI1vKuQ-WWXwH6rOfl1A_7vPT45rumT2ptx50mbK1m9-0LuDXPg4QWBxm0KzTkI8qVpVeJMEZd4gHYAhJeqvTuabun2Y578XcqkzZQAifpzPOH19_-rbplQP1-2udAJkudTovTQsOuDW4rGgMfKuw71YlLlzjW93i8lrsv1gM29ZeVg5Fo79XeZrkfZpXjOb3-o1mnwB8cYO15e_NeVzlvPtgdVt4eHGbdyCjNOIq2UhnYT_xjwMt5HdgVxuUpAO90jfA7uT9FI6lRZ9dMoUkS0vx4zwNVkl",
+        "width": 5312
+      }
+    ],
+    "place_id": "ChIJVyIiRQ30K4gRpTnTxFLXElU",
+    "plus_code": {
+      "compound_code": "FF8H+24 Waterloo, ON, Canada",
+      "global_code": "86MXFF8H+24"
+    },
+    "rating": 4.5,
+    "reference": "ChIJVyIiRQ30K4gRpTnTxFLXElU",
+    "scope": "GOOGLE",
+    "types": [
+      "bicycle_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 166,
+    "vicinity": "2 King Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4690144,
+        "lng": -80.450299
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4702103802915,
+          "lng": -80.4488792197085
+        },
+        "southwest": {
+          "lat": 43.46751241970851,
+          "lng": -80.45157718029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "East Side Cycle & Sports",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106894280284018607172\">Mark Hallman</a>"
+        ],
+        "photo_reference": "AeeoHcKksT-IS3BXKpLgMw1sCYfVRKKHNoDUsbOu2VUKFG7l8wzm-kAG_1TbFnU5RZstp1x2wJ2e3QiIF-ih2SHSpObCVkQ5MtYvjs4hVsGlIYcBscpam6nohZz1jFGo_5cUlFIPaaQmywkjvj2UJK2xrVkR-VXAnB5HTh5w0CJSqL9GJxCrW8JsvyKrwwcUmuoloDteuxagoMzAm3_NQZo6fcUNkN1MZnnEqNUXK0oVN-ZpAWDlcPoZvNPfaVFVK7Fa0CEelgwddHyJl9vE42Gk6i_37fULVPRezQfJxwzZTG16h3GNZbSZBbdNaAvLazTwHR90KBGyMFdWSTjGWsypCkfI6hjIJWw04hQ6P1HpxofQzqYvDK1H1TmPjSKdR00brVGhgqAlRV4sc5DFxDS5328aucZwT5fHieDmBCb0XUps0bI3LDpS1bt1HYUL1KADs_RULz_7jCVKNUPS9HFFaBHWouWnLxYyW1TH7bv40Edaq_JOGxJVbiXukjIuV42-lg4sSaDvWbvLRfgBMqj81VuTlQ_gXE1hFWjfT_4U9kIqYL9qDTDr7jJziAtr-qhw-7Qbzojf3FsdDNU6mZsVqpLTIJuGpmhnM7a7aIZEoHGqWYVg9E9LhYeub5QmcOMG",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJoRy0HqqMK4gRDNb_Dkvpr9M",
+    "plus_code": {
+      "compound_code": "FG9X+JV Kitchener, ON, Canada",
+      "global_code": "86MXFG9X+JV"
+    },
+    "rating": 4.4,
+    "reference": "ChIJoRy0HqqMK4gRDNb_Dkvpr9M",
+    "scope": "GOOGLE",
+    "types": [
+      "bicycle_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 187,
+    "vicinity": "1264 Victoria Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4749889,
+        "lng": -80.5322985
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4762901802915,
+          "lng": -80.5310706697085
+        },
+        "southwest": {
+          "lat": 43.47359221970851,
+          "lng": -80.5337686302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "RedSky Escooters & Ebikes",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115322605033994042224\">Berlin</a>"
+        ],
+        "photo_reference": "AeeoHcK8xnl8IvTdUcDEC_t6MZH8nbNB-OA1p_o6ttAYDwBnrZS7i6o3oMvRHkFpeWdrRPnanUUaueWEKtUddZ0Ok5ERFAXN6B0jRWKVNOK497CGDaBN_e1aWmZRmpM1n9xzotty2zEC1uE0sfyRCpXNHFCFx2l4dX1F9VVNTMXdekZA3ah7uKD0JSfYHlDHExbYJWbcbcycrp1t3L8I9FNAi_SQVibz46wIglkR_E6ng3rSOBtnshRZDuB-6Qiv5RJWLMv4bt4Xfajud5k_74r9HFli-DR-kKJba9cGG1FPVT3qdqGRxTSIKpHANL-TBh2BjVS2PpKcDzASt9OUnhaiThSLeq0KZ76BRf-xJD4Y5okdd6acxuBx7lyIg6uqllJJu14rIqzIJbxtgygFEhUXsUscZaYQ8I9G0dVM-4BfGks1NX4msI1XhzFTuLMTUhDTV7JKZdtObg5BOgYnt4SfP8_9VGRtlN1wGWiHMDG1y5BT38lVZsiDyQZv_YKn9j678YhlBknFjAD1n2jOSAVQaqnLUTCV16OikykoxMi2s7Nv1Z2MFMvI6yQ7voacbMozWk5IGPR4-Q1ki0S6oF7LoaFczFw1hFn0vvwK6HP4WTTQ_9jbWWC6bqAbAYb-A3J1wPKDNxuX",
+        "width": 1200
+      }
+    ],
+    "place_id": "ChIJR45U_orzK4gRqxdjh9l7ymA",
+    "plus_code": {
+      "compound_code": "FFF9+X3 Waterloo, ON, Canada",
+      "global_code": "86MXFFF9+X3"
+    },
+    "rating": 4.7,
+    "reference": "ChIJR45U_orzK4gRqxdjh9l7ymA",
+    "scope": "GOOGLE",
+    "types": [
+      "bicycle_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 80,
+    "vicinity": "246 Albert Street #101, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44999079999999,
+        "lng": -80.50943240000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45149443029149,
+          "lng": -80.5078154697085
+        },
+        "southwest": {
+          "lat": 43.44879646970849,
+          "lng": -80.51051343029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "ZM Cycle and Fitness",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102157104766347053631\">ZM Cycle and Fitness</a>"
+        ],
+        "photo_reference": "AeeoHcJWrjLDvdJSYuvxCwRaQ0FqJtXf8p66g0eF6eVB1ALNs-ZiejocbpmRqQgFdB9Z0aWaUNKdeJRJuhjtW6flpc_E_MntGweOKffqMKNUg41BKYT6pKJ429gfMZ6O3-z41tWS2vsR-Q4zW25RB9TYqP6FQqf8EUyjum2quQIg-ElfYSFFVAYlmjUPjBCAjIrmlj9fvSGVeOzXMVV-vngyHEpjFs1SSbtsmQQLfbgFfqViC7u7ND8Mhi0Wbb274oWN0A2_GHqyeKsa_1Ou3clGjlwtX_WxbnyMIjFZVyd2ypELosGn2VTkraX7Iemrlt-qlCx44BHzGcw",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJHanOvlz0K4gR7BReSvkM74U",
+    "plus_code": {
+      "compound_code": "CFXR+X6 Kitchener, ON, Canada",
+      "global_code": "86MXCFXR+X6"
+    },
+    "rating": 4.2,
+    "reference": "ChIJHanOvlz0K4gR7BReSvkM74U",
+    "scope": "GOOGLE",
+    "types": [
+      "bicycle_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 79,
+    "vicinity": "131 Strange Street, Kitchener"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 43.48054339999999,
+        "lng": -80.5347728
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4818369802915,
+          "lng": -80.53356001970849
+        },
+        "southwest": {
+          "lat": 43.4791390197085,
+          "lng": -80.53625798029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "SWIFT Bike Shop -Same Day Bike Repairs",
+    "permanently_closed": true,
+    "photos": [
+      {
+        "height": 864,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113947732030210452731\">SWIFT Bike Shop -Same Day Bike Repairs</a>"
+        ],
+        "photo_reference": "AeeoHcK0egXdmg-OoGipVF9ks1ujeBM95plWfGrNXoOHnylSpmdVlolE9hG66L9U-LHPAgIzFJYHONV499jfPXN6rbqF3XEpy1TviwoREMpVOHa1hXE0xJ7NCD3OAMmcbsJriQuQxV9h8njthuDkXpIJ7NA1HUlY53Ik4w-6dG9bRV8FroernY_VIHGwd8kUVQhyH8LTqbNlluYWfhCr0Qe3ZmhscrSHwmfy329EcOjBvNONkDkYvDOTuVR34HIbs6pIaD2KlcJLjZy2EP2PalYsvNTs7Y-a1MzkTn6cKM4ukOgVkvlXhuZuGsTEm5xgQPbaLWoEYqkna0I",
+        "width": 1728
+      }
+    ],
+    "place_id": "ChIJ6VNfLEfzK4gRiz8dgVR8xcc",
+    "plus_code": {
+      "compound_code": "FFJ8+63 Waterloo, ON, Canada",
+      "global_code": "86MXFFJ8+63"
+    },
+    "rating": 4.6,
+    "reference": "ChIJ6VNfLEfzK4gRiz8dgVR8xcc",
+    "scope": "GOOGLE",
+    "types": [
+      "bicycle_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 202,
+    "vicinity": "13 Cardill Crescent, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4490316,
+        "lng": -80.4940803
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4504887302915,
+          "lng": -80.49270081970849
+        },
+        "southwest": {
+          "lat": 43.4477907697085,
+          "lng": -80.4953987802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Red Raccoon Bike Rescue",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106260670127376763771\">Red Raccoon Bike Rescue</a>"
+        ],
+        "photo_reference": "AeeoHcLO_q6xHEiidKZ78yl-J1bVdSzW9Q5WNb-IdJMoRzY7NWl5xbtR459mgHYBMXA3We-jgGQa_lOmzfQFhvBrpOLeazZVHOk2hLEzNFnZTBdXa3L2VePyIr42aFnTZsgDG2KjuDz5QtTuAZbfFew-F0DtiTlZg6l374VYK5UpsBr0Vp1PFj5oaGkDNC4DRBGrbz7trhoM1x3xLWY9zMe7YDm99yn6Hzp5pJpv5YhdlG4kjVfEzpOJHN_E-FEJq_JFFlCx2UpMTsi5-pLWq9rH80B8MxsmdWajtwnCa6KcNG9aBDcyjXCJeZvz1geLpoLend-tMcrupMM",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJVwk3YgD1K4gRjtbs_98j7mY",
+    "plus_code": {
+      "compound_code": "CGX4+J9 Kitchener, ON, Canada",
+      "global_code": "86MXCGX4+J9"
+    },
+    "rating": 4.3,
+    "reference": "ChIJVwk3YgD1K4gRjtbs_98j7mY",
+    "scope": "GOOGLE",
+    "types": [
+      "bicycle_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 10,
+    "vicinity": "79 Joseph Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4659606,
+        "lng": -80.4569649
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46735328029149,
+          "lng": -80.45564506970848
+        },
+        "southwest": {
+          "lat": 43.4646553197085,
+          "lng": -80.4583430302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Vintage Iron Cycles - Electric Bike & Electric Scooter Store",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4480,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101429482449185738221\">Vintage Iron Cycles - Electric Bike &amp; Electric Scooter Store</a>"
+        ],
+        "photo_reference": "AeeoHcID14DyEjfAczvDWP2PNO5yy0-HQNd-wfdJv59uM4bD5TG4-cxxjZAFsQKMZU4VVFVF4ho7nNiSuaBoO4-LHpaGILJt8vH4zoEu_hieXdmzYuQTAjACYV9_BtiuRc-wb6saZk3sYjBUxNBgUssZRo4XY5nT725Lpeo2SA1UzN-HR-xCIVriNr_7dim3XP98NaKr833yYy-gMh7LwpHNq9mvWr2IBedeCkPV2fuYAACbH9N9h9wT4piFeZOlBQ4SHnSwfSARSiHo2-8BiD8Or12Qxs2xdJEDkFRZUNRBaOnUFyUHT-G2Kusq5R3ueRJPQuYzur4NPr4",
+        "width": 6720
+      }
+    ],
+    "place_id": "ChIJr1yg_6L1K4gR0q_uJdUMaAs",
+    "plus_code": {
+      "compound_code": "FG8V+96 Kitchener, ON, Canada",
+      "global_code": "86MXFG8V+96"
+    },
+    "rating": 5,
+    "reference": "ChIJr1yg_6L1K4gR0q_uJdUMaAs",
+    "scope": "GOOGLE",
+    "types": [
+      "bicycle_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 29,
+    "vicinity": "935 Frederick Street #9, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.511926,
+        "lng": -80.5237892
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.51329038029149,
+          "lng": -80.5221936197085
+        },
+        "southwest": {
+          "lat": 43.51059241970849,
+          "lng": -80.52489158029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Healthy Movement",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJLemhdG_zK4gRsbGdz2oi3S4",
+    "plus_code": {
+      "compound_code": "GF6G+QF Waterloo, ON, Canada",
+      "global_code": "86MXGF6G+QF"
+    },
+    "rating": 5,
+    "reference": "ChIJLemhdG_zK4gRsbGdz2oi3S4",
+    "scope": "GOOGLE",
+    "types": [
+      "bicycle_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5,
+    "vicinity": "745 Bridge Street West unit 6b, Waterloo"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 43.4701728,
+        "lng": -80.44399539999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4716258802915,
+          "lng": -80.44255706970849
+        },
+        "southwest": {
+          "lat": 43.4689279197085,
+          "lng": -80.4452550302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Muon e-bike Canada",
+    "permanently_closed": true,
+    "photos": [
+      {
+        "height": 2084,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113659933353289225557\">David Nickerson</a>"
+        ],
+        "photo_reference": "AeeoHcL2UYiJG9UuYNjdCAOQSPav3KdUh04f0Nz_Kp_kWXt9PYghK5VQr7xL6FEcR2PknvqCgq5rPXrM8Njx5jpytuEELq-WFP-qT5JlNbM-prZK0h8R751WIMYXJXIojPL7arUicX0-xzDVnZ7bodmAP93po5zrUTwa5zjFr46KmJ8sgIc8BFON7r_lPBvYq9Ayaky5dDXUI2MPfRD6kJroog9oPuU2ZrOBeIYClKEtDPoCRWPtwWoX53DCNdbRkEr7L2S1AdMtEO2IIk5KEGLhuY-kEVfLNLJ0kYa27_ZaVpdc9dK0ZBKFt8MAWp20ohs6wW_wQgB5tcX592ZGDK0q-Nsx3gBr6qArDGXub-ZFCnQgGDyY_K4VEVDkyR7PexDyZ-6QKAXgHe7uJc9ABWqwyosERckKbSpOoIKLHmwalTvltxOd_EjejMiD43iKzLJUMnfYVDTvBnOAqkFdsGlKVtFk-RqltgNYcEhsMaSCabzKA_zrjgIbutl5a2uYx8K3sHhQBdKKdwt1D-3tz_wHDbsls5hMhXKWSJFo-Py2AyeWIDW3Fm31xN02JiZsz5lLCLDo2EZb8CsWvjubtgHlr1H2p6lc74Niu3zLk6EDdtWRfqxvjuKcUzFs7dgd_2ezVzJe5Q",
+        "width": 4624
+      }
+    ],
+    "place_id": "ChIJY6i2xl-NK4gRYa461HW3ww8",
+    "plus_code": {
+      "compound_code": "FHC4+3C Kitchener, ON, Canada",
+      "global_code": "86MXFHC4+3C"
+    },
+    "rating": 4,
+    "reference": "ChIJY6i2xl-NK4gRYa461HW3ww8",
+    "scope": "GOOGLE",
+    "types": [
+      "bicycle_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "1381 Victoria Street North unit3-5, Kitchener"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 43.4724003,
+        "lng": -80.43000479999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4739981802915,
+          "lng": -80.4288164697085
+        },
+        "southwest": {
+          "lat": 43.4713002197085,
+          "lng": -80.43151443029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Preferred Ebikes",
+    "permanently_closed": true,
+    "photos": [
+      {
+        "height": 280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101256604932221858584\">Preferred Ebikes</a>"
+        ],
+        "photo_reference": "AeeoHcIgcwfQ18HumVPNKXD9cUIkNSdTLu1QaEl1H6G2xHOFwhMyPbsR47Xi0vJU1F8z8v7drDum9tpY69uS9_zj2kAUesMzSo1un86R0KmRXcHGX7eYo5c1f-i2-Kx9i7Nh7j6Dn_KJZQE_eQpPbCP4JcZBHJN0CLJ3WucAOkFDwxPlVIhAPChkIC7oFYrWsqoVUEAhnv8JOXaEUqTul74XTO39yXwvAUsM5T6rhzk7MYj71rgAoMzs0UwkUuPd5KU59pClsByRnk5itRyYXX5zniMlEw_M5B9DKC_7WIECPPxujEpfwd3b-etnhtS6tn3T3M06ZVtgjXE",
+        "width": 373
+      }
+    ],
+    "place_id": "ChIJtyWF12n1K4gRQUEmcfptYSg",
+    "plus_code": {
+      "compound_code": "FHC9+XX Kitchener, ON, Canada",
+      "global_code": "86MXFHC9+XX"
+    },
+    "rating": 2.8,
+    "reference": "ChIJtyWF12n1K4gRQUEmcfptYSg",
+    "scope": "GOOGLE",
+    "types": [
+      "bicycle_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5,
+    "vicinity": "36C Centennial Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4182671,
+        "lng": -80.4522052
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4196923302915,
+          "lng": -80.45083671970849
+        },
+        "southwest": {
+          "lat": 43.4169943697085,
+          "lng": -80.4535346802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "MEC Kitchener",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106381060921024728965\">Peter J</a>"
+        ],
+        "photo_reference": "AeeoHcIoKB7QrU-GHb9xO89Z6hXjXCVkYWBangoxMCdeX9DKZ5NG0cEvPO40cogRbqHblDU7lYhBL3WvPnu6xrekvVAXOk2g2YozX1XHoyLbJ9ETD2VzW0LeNP2fQYDU_TJPyS6MTAUVQ79C3rre3KQgz48QxVmHxGwwfhq_8tKBAMO9xzHmOCbTg4W8K37X_5kBI0H37dt2WA00j0WCRm67sZ--QP0-yLRsqdHehDVUxfdhLLbxSRAoNCQrU3IkyAilJMi7EdA1nquQD69L8OplIqkeAWVaQgu4S4BeM094EBHKi4EMgv4IDaVabjIe7xviRcyxUaBSJ8G_2ecsPSUrdPRjdJHUJtHZ-KdV3ise_EU2CULmjCSKeVh4lQn_31SemMRXLOGcdBVxodzaikFCtXi1tPc3jIsT3pcsqwP8IFbwMClhrh5VN__QYDIufF9zOusk_BJ2b7SCKrEZMiT_XdldoCJRqRV0HsR5Gybw2gGJ3GroTiWf1DhLGvmTypu3ppbqFSZfblrzsvPKL6j_Vmwz6Rqn9p0Ja3q1TSQDqiTD97QtEliVgMtTx0E2Kowl08YDRt5aQOoTLq9OPhDALO6TilsX0vkazKvw4JKw5YbbJV0yOPBxSqwGl8rBp_Zb",
+        "width": 1800
+      }
+    ],
+    "place_id": "ChIJ3YN0D82KK4gRy2NXbc9BHDo",
+    "plus_code": {
+      "compound_code": "CG9X+84 Kitchener, ON, Canada",
+      "global_code": "86MXCG9X+84"
+    },
+    "rating": 4.3,
+    "reference": "ChIJ3YN0D82KK4gRy2NXbc9BHDo",
+    "scope": "GOOGLE",
+    "types": [
+      "bicycle_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 923,
+    "vicinity": "10 Manitou Drive, Kitchener"
+  }
+]

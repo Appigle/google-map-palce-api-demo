@@ -1,0 +1,3078 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47757060000001,
+        "lng": -80.5189684
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47875493029149,
+          "lng": -80.5176497197085
+        },
+        "southwest": {
+          "lat": 43.4760569697085,
+          "lng": -80.52034768029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Canada Computers & Electronics",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2988,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101795376736391545077\">Riju Sikdar</a>"
+        ],
+        "photo_reference": "AeeoHcKEkG9Mx9HCJypygCb6M44AHlaw4h6W2NX2EeECwD9TvlpqV50knFDZmMMjlBZxwgFXxx1_a8WUCMYECOy9UMBWnUdo4kqQcUiM6O7KD--ZnntgUosEvBD95EqGJVRkvGvZ9MDOErY-It5pvkTdV11dhLNPibDAa7re0SGrEO4jGtErLp5ZpNnKDFPAtNrulfa3aOI1PSyC1edfmtKRDtxRlN7mMy_-V7qLJWvJihE98zyVZ4AiVhN9Ve_bzjtzYNR3QW-q48PaK4eGc0Ih-cxfJlOhaMzsNafqehFWFhRYO65OEZ4BbB9OyIOgYbT0dJG0WGFKutzi16u-iwJaK_amEuv74VC5YpPWXPoA5dJltx6riNAFzQEljjJlPqfvN3EwUTALXg6OrFVoAtGG7qeECSdGRZp3jgv6HEkcRg87HyXSNxAO8Bi8dG_sRTa5R3_Euje4IZGsrjJbE-Bmr2moRG4IeXDEpH5RxWTGoc6Jc0U2go7YrcfX0PsQmr6K7QimjZj6BaJgpCcOkmQVB3h2A2n1D8OaxayyULTknOWrk7W4F_xmd7zL7WEc9mtugEMANS5qnAXtauKBiS4g4PW_mCLpE0jfDQPm4yqvB88H8F_oTwOL_lcEr4GCPPrDg6NpGw",
+        "width": 5312
+      }
+    ],
+    "place_id": "ChIJ58zcc4vzK4gRKWL1McsPCA4",
+    "plus_code": {
+      "compound_code": "FFHJ+2C Waterloo, ON, Canada",
+      "global_code": "86MXFFHJ+2C"
+    },
+    "rating": 3.9,
+    "reference": "ChIJ58zcc4vzK4gRKWL1McsPCA4",
+    "scope": "GOOGLE",
+    "types": [
+      "electronics_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 2440,
+    "vicinity": "234 Weber Street North #230, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.498116,
+        "lng": -80.5262754
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4997294302915,
+          "lng": -80.5248524197085
+        },
+        "southwest": {
+          "lat": 43.4970314697085,
+          "lng": -80.5275503802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Best Buy Express",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109915428968644511431\">Best Buy Express</a>"
+        ],
+        "photo_reference": "AeeoHcKpcMG00xYfsDOct_Z9Y0Qec6Y6O20LjVZSEbgAHfd1beypnjKQ0UBJoDS9BcbBWfct4ObSswIJRN5tYZQXuNcpfIM1qmRGwQgSplAqi02vF2usHpju5-K4OZfZO-mhAhb4G4fZ3-3YqyLDGPG718YojfamVDQEmBC2aoX5k-eEQ-01qTMwlvNPFz9sLuuGEi56Azm-N7xF8Dr6bSX2zjlAmYDzBhmUgI8Oj_siH44tV8JJ4umfFW6RSr4NFcISQfGxEUDDsDZUsbvreDfcrt60REwzxv_8bg0AvhJPW1gEgaR0W5Z8k_K8JBipjYdDxbYxZG9v1zk",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJn57J_sPzK4gReuluHPpcYII",
+    "plus_code": {
+      "compound_code": "FFXF+6F Waterloo, ON, Canada",
+      "global_code": "86MXFFXF+6F"
+    },
+    "rating": 4.4,
+    "reference": "ChIJn57J_sPzK4gReuluHPpcYII",
+    "scope": "GOOGLE",
+    "types": [
+      "electronics_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 306,
+    "vicinity": "Conestoga Mall, 550 King St N Unit B18, Entrance #4, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5015112,
+        "lng": -80.53219910000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5027258302915,
+          "lng": -80.5307145197085
+        },
+        "southwest": {
+          "lat": 43.5000278697085,
+          "lng": -80.53341248029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Best Buy",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 563,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101881898687564827557\">Best Buy</a>"
+        ],
+        "photo_reference": "AeeoHcKyyvriEUXCJNXr0yfSActMKvoYjsN2eQTvsPfhRryBzdMPf4K3iPCOwouZI1ygEv93UIb9yuW8gcQF2xwqWwmN4TEimuCy82676OHiKfpjrSJNRgOYWGVVj9vH9uuWkmQH1hSaci3NBqCYLmLtJYuNxLZiiPclkoqiuCyGHOa-s4efEh9DYlUXIBanWYx_Q4X8jAhLPuM5mjgsZhzKr66xsOso9dwxZ9uE_QKrf5hxy1QJADVx27h-4gwjSc3SOvsreja0OXbQsyrMBN0MCcMt2ydGdmiBYWXIxIAMrondslQRtEFIQ3LpN05SdLMonqEp4YNNRgA",
+        "width": 1091
+      }
+    ],
+    "place_id": "ChIJN_R41sTzK4gRA6kg6wT3WQU",
+    "plus_code": {
+      "compound_code": "GF29+J4 Waterloo, ON, Canada",
+      "global_code": "86MXGF29+J4"
+    },
+    "price_level": 2,
+    "rating": 3.6,
+    "reference": "ChIJN_R41sTzK4gRA6kg6wT3WQU",
+    "scope": "GOOGLE",
+    "types": [
+      "electronics_store",
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 1595,
+    "vicinity": "580 King Street North Bldg. B, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.425524,
+        "lng": -80.43790140000002
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.42672093029149,
+          "lng": -80.4370345697085
+        },
+        "southwest": {
+          "lat": 43.4240229697085,
+          "lng": -80.43973253029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Walmart",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109212626794179187661\">Ha Pham</a>"
+        ],
+        "photo_reference": "AeeoHcIIrIzY_KTkHSqfU3LpXQteXk5hv8gmNMrBl39nyZTyf63hZYjGxwp_dZU1JFZ4K7iITlYuEjvhU_zBPQ0eL0U6cHjOdqcHe7MFxe3xLOoD4QnWzSUXglD6-35hHevh8XbSEaqeECdTe1bAkqFRtQ9w2YFbBkyOcLWBRSUvY2WvLxVjEy8X2BZJd7RJKCE1AvIoAS9NvOTJHGdhniQduuAGsn9pupCE1K5oczWBCdZcKzjxPtBXFfa3o_traGn7xN37d4MeqtUNU_sNWVrPCf18ddr6QJM5fzW6tJUsyQGuCM7qUn7c0YRYlHcFVn1v5hgThEFDIJ59IDhU_JKHpQPIzgY2DD1nN60W6B3eYTJdhiT6kTg07QHVLsv4rda3yLRCA3LwELusnVuHHcWn_zck6Y2K5GIrr_JhbO6hNQtIYkMAPNW461kOfQkpntW1yGrLp98TWBz0PvkLTuBKszktubvV-h7JF9L9WufGyf1H5lFvrBLncBTv1A3U4rWSc9MGJn5CnoHB-Sx2GU_AySjvrYNk2WZouDHAYZwHUBrhH9oLQ6Z5qOg87VtKHL4cSCr_vQZDkeQYVrs7_QnjJyyN0fummZT-iqoB6QCaZa0hDf8ox7p0Xm1H87NcPwV3UuTWpQ",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJq6qqmnfW1IkRZSIUh1tEU_Q",
+    "plus_code": {
+      "compound_code": "CHG6+6R Kitchener, ON, Canada",
+      "global_code": "86MXCHG6+6R"
+    },
+    "price_level": 1,
+    "rating": 3.6,
+    "reference": "ChIJq6qqmnfW1IkRZSIUh1tEU_Q",
+    "scope": "GOOGLE",
+    "types": [
+      "department_store",
+      "supermarket",
+      "clothing_store",
+      "electronics_store",
+      "grocery_or_supermarket",
+      "furniture_store",
+      "home_goods_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 2882,
+    "vicinity": "2960 Kingsway Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.42126890000001,
+        "lng": -80.4372013
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4228122802915,
+          "lng": -80.4359983197085
+        },
+        "southwest": {
+          "lat": 43.4201143197085,
+          "lng": -80.43869628029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Best Buy",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106122048247449483566\">Peter</a>"
+        ],
+        "photo_reference": "AeeoHcKQhedoYouo7pUFIZhSAJTi8EyTMpWPuhAiqdlAePXV3UJfmdpZP8PIYA1u8Oxk3UVFmFM_Ipvzm3f1jUuhdI8qhkVCliqQRWRJA_atBjeC05WZZuCeIR61JGP4M5jtHcCm63DDLjBJ4jMrpZ0iDI3GR9uN1CyKuHvoYMGo9N3541lKWRCusB5QjxRJepvr9MrmoRs19qaq1qw-HjeMQFd5xdJ6Vkm8fLdToYVJpZSQoh9Lky9RoFXPJPR9H9RWqy_svXYcZpOVCBiBq_wsH7CyWAe8EHqYRThhN5xQ7hMWAvAj7Hy6yDmfbeQTp74Wd-_SU4MO-q95UkBQU0cAO2hn64TcZu3onqjKFyO-GZaPq0IaVq81SVhSMBnb92SxquHb5LD1yY4fsmAuoaksc9Iu853vdlET2b3Pigsa25C9_C8il4_a5s-EWhKRPadTCBtl_ZUhdi_HpsY1BGvPY7cT21tKlaLGUJbHSELK8FYomvSdEbtYNSWdo250HkoQGekPBmAThRz7InCCcpBVxaPGy7Neh6pSNB1_7ey5WX5Z-6JBq8BXTpifCEjkvRZvrTzehvPdbLyWaXgVWFZOAKjdUNWmSPFRn4kimRoDYPS9Wkc_ErzulHLSb9jqZqWG7mOzBPe6",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ_Sw9btyKK4gRkXuIRPWAW7k",
+    "plus_code": {
+      "compound_code": "CHC7+G4 Kitchener, ON, Canada",
+      "global_code": "86MXCHC7+G4"
+    },
+    "price_level": 2,
+    "rating": 3.7,
+    "reference": "ChIJ_Sw9btyKK4gRkXuIRPWAW7k",
+    "scope": "GOOGLE",
+    "types": [
+      "electronics_store",
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 2549,
+    "vicinity": "215 Fairway Road South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.416022,
+        "lng": -80.5190083
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4170845302915,
+          "lng": -80.51779851970849
+        },
+        "southwest": {
+          "lat": 43.4143865697085,
+          "lng": -80.5204964802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Walmart Supercentre",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112482415753734225075\">Chung Hsien Lee (Jason)</a>"
+        ],
+        "photo_reference": "AeeoHcJ2re6tEalxpD8BDPe1Ytai6JD2SUo9WQSD9bSQUBwfkgW4cBiga8s7nVOV0kRHie3tAZVuvp8z7n4btKcrceTt2D2Q5L_vaVVl-eOiiW2zIYZFZZLICy1l50NPZc29sR2jZKDVJf53LXLS7I-gEICe_sY4dr2SE63sUaalgJ2x67VdfOtUFjiP8fp9y7PoCw-d69yUzCwOVagfXwFeNZUMTF7EkQw1KWzp8cAoTUJkSd_jyrjYlojHmXwp3GIInUNI2Ode0TY0ESS7JVQuqXtgVyoAk0s9a81dQlUv-yGg4-NR3JMZcG0RzFO-Mg3jhlTrI1YepXvxecEuF7mvPnbSLk3vYnld-Zfw17x6iNOHVwr5ZQo6TSVbuTk6IIuWXjzO8nUBQ01r51vhoD8AiSgwr-A3ta-QdlhYFuDGxsOzcKg89JsS3eElgm0OVNPUrwSm8AZbsa514t1sAcCOgtzhnMXbIa4T5I3aUl_kGB1C9WnM4QYvIfOM5KksFbK03mtIbaJrudGt7znyV_CyI82D7UkKgLUp5l1Kz9nLnqQ7ehkFDtAglN8YENmyjdPQvR2i3uh2DnfT4qZGZ4snqMBYV8tp0n8ttR3Vel1AF3bMcBlbO0jPSE_T1m3RJynb",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJd_NXJr71K4gRS3CzmoRL1JU",
+    "plus_code": {
+      "compound_code": "CF8J+C9 Kitchener, ON, Canada",
+      "global_code": "86MXCF8J+C9"
+    },
+    "price_level": 1,
+    "rating": 3.7,
+    "reference": "ChIJd_NXJr71K4gRS3CzmoRL1JU",
+    "scope": "GOOGLE",
+    "types": [
+      "department_store",
+      "supermarket",
+      "clothing_store",
+      "electronics_store",
+      "grocery_or_supermarket",
+      "furniture_store",
+      "home_goods_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 2686,
+    "vicinity": "1400 Ottawa Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4263509,
+        "lng": -80.4870785
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.42759428029149,
+          "lng": -80.48581931970848
+        },
+        "southwest": {
+          "lat": 43.42489631970849,
+          "lng": -80.48851728029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Staples",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1372,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117534506850508434501\">Sandeep Singh Goraya</a>"
+        ],
+        "photo_reference": "AeeoHcL_MniOe0jkcwC6N7lN_xPRXl1cAK7JnkHP_d0P2RfrQTxBepSAYf4iUoWbmCLm8WzcEqTm1z-Gwt8EDW1-LoJf7k9IHuPjb4Qk4_VshTN3iegI2AV_PbtPm_GKJrepLXkVAZxefcW8IHBDoQZ3HOI7KWkNWuxtqbe2oqcwpZsY92ZJSE_6FGY_nCCx4Z9AWEvfgXReV12iA3-3vavdek4TVda4erK34mwDlKrQvUC_ZhbLmXKXwWYGHrT-uwh3qwjlkdx3NftLfZFP7TWef5t2gtIYz5cPmi7NNwulEjJCd0PDMxWNNK78KAIj_VErSCebsmuMkCUPCbIzCfmWS2HhzafgO1nJ2rJAscx1rkG-67qfBbtFXm2C9mmhb5OO4CVChV_1VRxAUq3C6JxrHNdFMBCvOGeo6GNdu4YFDh1DyFDvGQwAoyMVJ15DLeW4ufWdPPzrnDZl2y4XzukhEeSSZMR0abdZk9wfVoANtqVpq-th0VsPCHvHvRg2sUeCHU7h8QetAC2O3z-MIbTvgS6vK-blJ7mSRNNR87AaZNC1ALcU7zW88pSYix58tyg7Z20KHHOECNbX9ZJIwKY5cAgTEr-YvosV_BwrvZgyHHnkIW-t-JamL2xJmiWPEGDY6JHJfg",
+        "width": 1133
+      }
+    ],
+    "place_id": "ChIJ59Z4pBr1K4gR5QjcpX45ZAk",
+    "plus_code": {
+      "compound_code": "CGG7+G5 Kitchener, ON, Canada",
+      "global_code": "86MXCGG7+G5"
+    },
+    "price_level": 2,
+    "rating": 3.8,
+    "reference": "ChIJ59Z4pBr1K4gR5QjcpX45ZAk",
+    "scope": "GOOGLE",
+    "types": [
+      "electronics_store",
+      "furniture_store",
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 776,
+    "vicinity": "245 Strasburg Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5047349,
+        "lng": -80.5352089
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5059856802915,
+          "lng": -80.5340219697085
+        },
+        "southwest": {
+          "lat": 43.5032877197085,
+          "lng": -80.53671993029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Staples",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105474225481719405135\">Jordan Van Wyk</a>"
+        ],
+        "photo_reference": "AeeoHcLpDdQrXoJ2p6HNu74cCUHDsGjdp1xo0kmgZH-IC4CVLxUgEwv022FaKGmg25lC8U7nRSBwT3je7fwPPfx_LU0tQZakN2JNVI_Z8SMpPnrMva6hlARnMPR7RGv1o1UA-jqEaus5zcTbdCw1bj_MQA3V0n3Hd-e-EySlQtxTSM62cXtfvm1faKL8MqBqJr0QDAv80G2lgh7skFGpNbrZOPrT8cFtB_bmJCrwdNA6zD-7uUbe5OCAj5Z3pNvso86b75BDwEvuttXmodJaEt2uMn2d7E68B2d3Z7FNp3L64eUykWpCH8Wr9VflWFEyyN6_5OOBlRJNmpQ8JFzbkbGg0_dxYUJOGRXYJavDE3rzaG9Nrs69uiXf0HJhzjKnZw968Tbtsf3MO4HVqH6JZO_fpSXXzvQCMAgdxu5Hc3rrFqbm6jofk9lEYmc6GaMufZMNJhvLC9J-VQI7hqzd5W5PzmAmfrhVQQ-vMTWwAaEr0--27ofcZbdbVbw5fvPr4PWdn74KIVvXhd1mmGte2F1HCQE8mYDmhzi9mALY0kclDB8fIg3ZnuIXgdRclnHq2iEQT_pCzKZr-F1_QYWfv8GVAzMZ0tUGPXCWmeTLMPXsrQFcWZBmGERBFPaiQfuaFaTIPlV5Uw",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJw2ddldDzK4gRvZz8JUjdqOo",
+    "plus_code": {
+      "compound_code": "GF37+VW Waterloo, ON, Canada",
+      "global_code": "86MXGF37+VW"
+    },
+    "price_level": 2,
+    "rating": 4,
+    "reference": "ChIJw2ddldDzK4gRvZz8JUjdqOo",
+    "scope": "GOOGLE",
+    "types": [
+      "electronics_store",
+      "furniture_store",
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 654,
+    "vicinity": "620 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4349821,
+        "lng": -80.5626831
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.43643233029149,
+          "lng": -80.56118581970848
+        },
+        "southwest": {
+          "lat": 43.4337343697085,
+          "lng": -80.56388378029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Staples",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101038344528051208666\">Jeff Mulder</a>"
+        ],
+        "photo_reference": "AeeoHcKGOP9heRxam3IX6Huy82SUqFANvTK-9jWPRJ-HjulfU8I6nabG6r6INjBL6lsUCC8kdmw3lzDfmcHbNC7DUvneHWkYDYVoc-LTIBjDJ6ehKh-n9-yBAptzBu6TzgQOHBm_5J_UOAmKnsY31KF937jmKsSMTH-Qg_Uzwwsd0WoadoXYNPv8oX9ANy8ofacN1EWEwyEBFFYvAu3kGzHGgnhgxPX8CCevQu7g1V8f_VCp5W4GLa4vR2eVvMSOsrwQ2rFImBlEZlc_HZ_sZOoqrDMz9-py7hJve5WFktiQ3t55WA1ZrXsdVzA-h4jbrBrBtiEipkgAylv5PHsKS49delP70IoK2JRo-SA8yffHyxvDCrlwbWXDCuvKjc7oB2hjzeRATrH909GyrGuwbdPU-OunzilZ0jW6DHZ_qvOZ0k-kHR9O0M9XY5u3IDyzPf2aswLyuSHxy5z1vx6P_XuYu7kx8TYPk7YSTeiZ4PZnlDrQcWT45U0nvBH6fwB_pA6HWc5CNmGceFtcfXeEu6r1of9z_cyooh8Yu5Kb7t25wfIn0M6jgheYl1GOioAmFfdK7j61wJ3ckk5APsPBGIdVZv7YzUGpYzDky0ekY9zTWeuemVFBcGpfgcUgmyk9kvHsM00s3g",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJEQEAANz1K4gRRYxsEke0EXQ",
+    "plus_code": {
+      "compound_code": "CCMP+XW Kitchener, ON, Canada",
+      "global_code": "86MXCCMP+XW"
+    },
+    "price_level": 2,
+    "rating": 4,
+    "reference": "ChIJEQEAANz1K4gRRYxsEke0EXQ",
+    "scope": "GOOGLE",
+    "types": [
+      "electronics_store",
+      "furniture_store",
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 494,
+    "vicinity": "225 The Boardwalk #5, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4822896,
+        "lng": -80.5246231
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4835642802915,
+          "lng": -80.52322716970849
+        },
+        "southwest": {
+          "lat": 43.4808663197085,
+          "lng": -80.5259251302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Gibson Sound & Vision",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 541,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107380925821153593967\">Gibson Sound &amp; Vision</a>"
+        ],
+        "photo_reference": "AeeoHcK9dWgqENYfGiwPZCs0MNaEmoVPsWR2ILKHeon4K1sD3kj-XpVTka3eydMNaY2EtBW7zChs4ltaFL95VwDpHfm7iZ4uOA6k5jale7mz0ArldLwOvDXc6GqMM5uiAbTPxENF8U4TjoakC8xEJQcEM3bkXiOWRnSmXmIMMcTaZYrs_KH4n3OEU4mNKAb0jIu4epEPsy3E-igIO26vrFe4ICdOZLGy5LeG8_iQdVNVFqd4wWDE-SYMSWgmeZXozmq5WsPyx5O_QgqNPR71dDZ1u2ln1hetgnEe6_L6EerhZDIIxiFuth_gflI_8S1wAFIFimyAk56AZZ8",
+        "width": 960
+      }
+    ],
+    "place_id": "ChIJvdTmXvLzK4gRZ9GfiOwdnms",
+    "plus_code": {
+      "compound_code": "FFJG+W5 Waterloo, ON, Canada",
+      "global_code": "86MXFFJG+W5"
+    },
+    "rating": 4.8,
+    "reference": "ChIJvdTmXvLzK4gRZ9GfiOwdnms",
+    "scope": "GOOGLE",
+    "types": [
+      "electronics_store",
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 199,
+    "vicinity": "25 Columbia Street East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.424246,
+        "lng": -80.439245
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.42519868029149,
+          "lng": -80.43788161970849
+        },
+        "southwest": {
+          "lat": 43.42250071970849,
+          "lng": -80.4405795802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Best Buy Express",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109078186295250826368\">Connor Hammond</a>"
+        ],
+        "photo_reference": "AeeoHcICytjFXISVmuaihVD8nc9ViYBYE9R1kfF-2F2S20lMXi-dppE0PZK_NYjAaue2ue3pyL7Agxh6TIFGGihacalNxt3eQ_4XsUPEoT2p1bGkBhl9-Up_Imk6lLRE4l8n0DLpbvBL7m81CKajR15gI_nqipWeNLD6xVNho1EKQZFaqqOAhJfTpZD08dTv5unI7a2hVgLhJvuHV9D4yogV601Ft5FcouPKSz5wLF9vqTLiLEF3KSIJWEo7ut6ldHfujE7vnWXu3rJScBWMrj_L7ymnkLK-TI5EDxb-V3c6TktfE1pipOH7k-6rokeWeu2lNIxN-joWkTm6Pw846vSXKNgAbMYm6f5MVb0669nVhgu4D94FSrOM9l0E-FC0EGx0Ye4y_0MuUzv23EaO27RMmbGlLiFbxSKJIP-P38hn7TZ1zAu54VY02C8gkhwNsFi8_trzhSDsgI6GAVW8669N-n8wOwCiFSxTfujAEbt7RgZ0guTXw7Fl5_m207VQzco78MFFrx5PsMDLLKAvqVkTdHFpgnMQjOMLHl6MSogE_OTLolAuow5t6jR9cieDeyg08OP-BPRMQtgOzHBwww59iSiR5Z3C_1JITGxPSfVz7J5ZdCH-seNnuhoqVs0XGE5H",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJTS6cNNmKK4gRIq8B7CS13f0",
+    "plus_code": {
+      "compound_code": "CHF6+M8 Kitchener, ON, Canada",
+      "global_code": "86MXCHF6+M8"
+    },
+    "rating": 4.3,
+    "reference": "ChIJTS6cNNmKK4gRIq8B7CS13f0",
+    "scope": "GOOGLE",
+    "types": [
+      "electronics_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 366,
+    "vicinity": "Fairview Park, 2960 Kingsway Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.504499,
+        "lng": -80.5312227
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5057121302915,
+          "lng": -80.5296484197085
+        },
+        "southwest": {
+          "lat": 43.5030141697085,
+          "lng": -80.53234638029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Waterloo Appliance Service Ltd",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113411500006546344472\">Waterloo Appliance Service Ltd</a>"
+        ],
+        "photo_reference": "AeeoHcJOYt51RIdSz_llYgebxeIpAsDar0PAkT-U7GbktWpjBBl4UoKWqEHAnN5TJdm5E76VkLV0DBdi6HJH6eQb0UPpg9eBpqKpnRn6283n8BAexwca-ZY1XBQlM4gRPGmUm8-7HnRvZYVT5PCs5ZCHuzmYcovLenJKoOgQ0DT-l2zWqLNoFnc67d7WW7ISeG1kRiU9j7fIMc3hcLGdw9_insLY_yWkWh9YLjvQIoidKKQHLXRyUcQgFVuH2XRdD5AzjzSUaaIp1HaiZpzB3IkItaAA90BFguiUdavzgooIHa4Qgk2zFbIQlT-h6snbt5b0oxVdb78ZHns",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJ-69Ojc_zK4gR01b10YWoWZs",
+    "plus_code": {
+      "compound_code": "GF39+QG Waterloo, ON, Canada",
+      "global_code": "86MXGF39+QG"
+    },
+    "rating": 4.6,
+    "reference": "ChIJ-69Ojc_zK4gR01b10YWoWZs",
+    "scope": "GOOGLE",
+    "types": [
+      "electronics_store",
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 423,
+    "vicinity": "90 Frobisher Drive #4, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.49722329999999,
+        "lng": -80.5260007
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4983249802915,
+          "lng": -80.5249009197085
+        },
+        "southwest": {
+          "lat": 43.4956270197085,
+          "lng": -80.5275988802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Best Buy Mobile",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118141292848437638476\">Marta Borowska</a>"
+        ],
+        "photo_reference": "AeeoHcLT7kDnzi3RuWNdctHjC14_Z1056t1VsCwKPRI8jRCzSVjjljhmoVnTcjgLT42q6UGdEKZeeRfRDbeNAvBYBxdQRfwvo5ttIAoK5zcgoS1Ubfo1sJz_g-HsMpo3nk9b5GJ7corhHdITNeDyg2GbNsdSt9QedaTqnjjXzxISk0Cp7wVvOze7q2yMT92chQ5Id1VJahbMYpSnXn4AOGrUwcUf-I3fePSQ1JaJiGszHLNgCwehId6vseVWaCbQ7lOe6HSyrJcaYcei0-95xCvV8-V7sf-LSa7MLecmD-OqK3X-3KrnJn_RV1fmCgF8UgW2f6VDT6gJ-qGBU5h8OXUQYLYhk-QCcCUsiHHc2AQzyJ4Onj-3GMikF3AxDqIJQJNKXSFNJ6w_y98ELPCK1OonRWtYQWnIEGXWBry0JEjwWuyh0ArTJFFdOl57uLowCUGIM9yfiHrrEqLBe0WpfQ3f9Kq_KG5M1czBzmCofBeRpcj1TunbZRg34r4DiZ0S3AXR60Fxl4DpTHs799XXe5aDnb5MNlQ38ZsHrkeKtHwnxQZOZMBnsLXaD6VHNuydmfe5bB_jIJZ9E4UWcl-BWnAARD1-sL3nxQs0lbJQmoSSa_zIZ6pLinGNgzNfM9SO3RhP",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJXe0uQcHzK4gR9uyKeNlNG9o",
+    "plus_code": {
+      "compound_code": "FFWF+VH Waterloo, ON, Canada",
+      "global_code": "86MXFFWF+VH"
+    },
+    "price_level": 2,
+    "rating": 4.2,
+    "reference": "ChIJXe0uQcHzK4gR9uyKeNlNG9o",
+    "scope": "GOOGLE",
+    "types": [
+      "electronics_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 145,
+    "vicinity": "550 King Street North Unit H16, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4839391,
+        "lng": -80.5401727
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4854083302915,
+          "lng": -80.53886271970849
+        },
+        "southwest": {
+          "lat": 43.4827103697085,
+          "lng": -80.5415606802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "BJ Photo Labs Limited",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 343,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112852663625700622393\">BJ Photo Labs Limited</a>"
+        ],
+        "photo_reference": "AeeoHcJoilSbfViaP4RrISi_IWDNDEdIjQyLXP3EUHQqMZfG09YuJ1WmABvWe-dJ0iLhO1Pj2wvTJoXqnvbAl30nxPbEOy8u-EffOhq2tp54gGO_zvM3IN7Nr0M0mXShDJg00gCXCKK7Q6nf34CcriVkiCloa0ZzCdMAna0jXDPVN9Oz5BCEPmZFj-LLxfOmFqyfMJu5vAkN6UehxataVXfbLiwpJzF6baOFJimySlV2iXVm3_tp0-TCaTqIBHCJlqx5FPJYOldbdfJR2fN8kTvntQNVrevaaPU4c-j10xEK_rc1kCj-hUgEqf7O4RiwSmCTFgGiRpi-gbE",
+        "width": 512
+      }
+    ],
+    "place_id": "ChIJRYEPw_zzK4gRE7mM3FIbPQA",
+    "plus_code": {
+      "compound_code": "FFM5+HW Waterloo, ON, Canada",
+      "global_code": "86MXFFM5+HW"
+    },
+    "rating": 4.6,
+    "reference": "ChIJRYEPw_zzK4gRE7mM3FIbPQA",
+    "scope": "GOOGLE",
+    "types": [
+      "electronics_store",
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 496,
+    "vicinity": "468 Phillip Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.497729,
+        "lng": -80.527102
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4984668802915,
+          "lng": -80.52633016970849
+        },
+        "southwest": {
+          "lat": 43.4957689197085,
+          "lng": -80.52902813029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Apple Conestoga",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102486961927454287842\">Dmitry Skakovski</a>"
+        ],
+        "photo_reference": "AeeoHcJBkr7dhnHzTp5Hhz9dRTMaXsTWIQQ4hcpDYo2N_rjCd928dvqs1KKFr3o3X6WXudvaHLLwur3AmYqSN7A8AlgMAMoOIVgHndTCaxa7lYI8R-bYw5-Wj0Z0MK2kdFOQs2O1NeXliiUmTsLYZSCD45NOC-thH_DERR00R1HruORRko_Er-2lrxjn76U-ZYYB4uSsAcPuDOFz4P028xNWknBWB8razh1v71f0jXJq0ChXOQa_6mQ4mko5e9wIfbcHI69ZicTx_EP27oCw6Y7V3xRng3q6hdQyvVAoKH5Wj-fyxewfs4q1wrdAAlDlPoAodtF8_riqoiMs_ek7RO6A9T8pA8EWy5vFXSXyKSyaXpILtYE6YaI8QSzVu3ZNf3Rzj8BwVTwivEGttB-4KmcxkWSPQ2SNi2Oc6Tzbw8nkLOk5U2qd5-9r5mB9rh_Y5lws8qZruBLN_xqssEL4W8mZwR-hWQo5_x6EZy0Y8wlgKU_kdPaqnTKxAMD12Zohv-pRrzXR2qeYi90rcw02RrPGKMG1MSqAGqGU9uSoE15gFjsVH1KzsET1O2oku3OrKhNX5wO8jtJtGyE6J7SMNLkIj-0ZVNYhUGRmtFv_Br9Kmi94zDC6DfFrwmJncmKEaWcgK4rKcw",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ269iUMHzK4gRh7BKh-7u95k",
+    "plus_code": {
+      "compound_code": "FFXF+35 Waterloo, ON, Canada",
+      "global_code": "86MXFFXF+35"
+    },
+    "price_level": 3,
+    "rating": 3.5,
+    "reference": "ChIJ269iUMHzK4gRh7BKh-7u95k",
+    "scope": "GOOGLE",
+    "types": [
+      "electronics_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 1645,
+    "vicinity": "550 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.48654679999999,
+        "lng": -80.5405049
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4878128802915,
+          "lng": -80.53904991970849
+        },
+        "southwest": {
+          "lat": 43.4851149197085,
+          "lng": -80.5417478802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Access Vision Communication",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ_SJ8EePzK4gRHrpc6AUIqso",
+    "plus_code": {
+      "compound_code": "FFP5+JQ Waterloo, ON, Canada",
+      "global_code": "86MXFFP5+JQ"
+    },
+    "reference": "ChIJ_SJ8EePzK4gRHrpc6AUIqso",
+    "scope": "GOOGLE",
+    "types": [
+      "electronics_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "vicinity": "496 Albert Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4602801,
+        "lng": -80.4827488
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4614312302915,
+          "lng": -80.4815926697085
+        },
+        "southwest": {
+          "lat": 43.4587332697085,
+          "lng": -80.48429063029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Inkwell",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJFzc_ypD0K4gRONVPtq4dYC8",
+    "plus_code": {
+      "compound_code": "FG68+4W Kitchener, ON, Canada",
+      "global_code": "86MXFG68+4W"
+    },
+    "rating": 4.5,
+    "reference": "ChIJFzc_ypD0K4gRONVPtq4dYC8",
+    "scope": "GOOGLE",
+    "types": [
+      "electronics_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 18,
+    "vicinity": "40 Lancaster Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4942819,
+        "lng": -80.531067
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4957068302915,
+          "lng": -80.52969056970848
+        },
+        "southwest": {
+          "lat": 43.4930088697085,
+          "lng": -80.5323885302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Eco-Tech Refurbished Computers",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102533022650432588901\">Eco-Tech Refurbished Computers</a>"
+        ],
+        "photo_reference": "AeeoHcK2HNqzboeR2Rxl4iQPJyoDSv9ukpEMtb1zFwUrTufVEOTDRJH1o4ehijANSthAO0nJ1LMUzz-34QFHfr_hwR88RfxdpCcV2QnQZpKqdyv04J_FUAo29XIlvDTTpcudBo9cjHpjCaP6EbXewZ-70Jdg66g6bvH8SD25keHxfso4MP3d0u1I0BghdoDpSnTHl9ax6vhqUFb3Y5yanPCTBiNgY6dnIYNDG-NJKY88gMqZNYZSjAub0znsvLTIzo1CVp8AnrWsQwaCgTm639R_tNv_-jNMLeaNUR0Zy2a826D_EnVeyl1cyv381QpK4GBj3JTYzC5z1E8",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJS03gmcLzK4gRilujzSfauzI",
+    "plus_code": {
+      "compound_code": "FFV9+PH Waterloo, ON, Canada",
+      "global_code": "86MXFFV9+PH"
+    },
+    "rating": 4.9,
+    "reference": "ChIJS03gmcLzK4gRilujzSfauzI",
+    "scope": "GOOGLE",
+    "types": [
+      "electronics_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 25,
+    "vicinity": "505 Dotzert Court #2, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.513202,
+        "lng": -80.5199214
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5144853802915,
+          "lng": -80.51853011970849
+        },
+        "southwest": {
+          "lat": 43.5117874197085,
+          "lng": -80.5212280802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "5D Computer Systems",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJsdYc5MvzK4gRKHH4yFWwx-s",
+    "plus_code": {
+      "compound_code": "GF7J+72 Waterloo, ON, Canada",
+      "global_code": "86MXGF7J+72"
+    },
+    "rating": 5,
+    "reference": "ChIJsdYc5MvzK4gRKHH4yFWwx-s",
+    "scope": "GOOGLE",
+    "types": [
+      "electronics_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "295 Northfield Drive East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44760420000001,
+        "lng": -80.4835331
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44887173029151,
+          "lng": -80.4822312697085
+        },
+        "southwest": {
+          "lat": 43.44617376970851,
+          "lng": -80.48492923029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "R + L Photography",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1356,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113565714094541491060\">R + L Photography</a>"
+        ],
+        "photo_reference": "AeeoHcJlgYnEi12iqZH9v0pSq_mHnavCXo7ZKXy9mAchEKDVn4xyLF6sR1bYJC9yP_oisz3440422rWgQCBXsAQ8_VeXTHxRWIoECvgTVwMXUq5hzj75vJZiHpDj-tZIlXEifoAoMqgf-B7Fkn39Zjpjr0e2EACYXBKUkA4r-i6HnHGXb_TDE-6zxnzYTjzuap_c8kdwrkcqYZMKvBqMpAtAeMZfcp-ILbai2s4L1FPZhOxUaQjIMGkyS-qQdrjOi-Fy_Kl-TyaEJWoWJufensd2OTi1WFFgaRX5A3boV3qo7bEUg3uTyMoMy0xP6i-a_OsNQFjD1fckgMk",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJ44Deu2B1LIgReC2JSFY6Fg4",
+    "plus_code": {
+      "compound_code": "CGX8+2H Kitchener, ON, Canada",
+      "global_code": "86MXCGX8+2H"
+    },
+    "rating": 4.7,
+    "reference": "ChIJ44Deu2B1LIgReC2JSFY6Fg4",
+    "scope": "GOOGLE",
+    "types": [
+      "electronics_store",
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "310 King Street East #101, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.41668359999999,
+        "lng": -80.4759289
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.41805898029149,
+          "lng": -80.4744805697085
+        },
+        "southwest": {
+          "lat": 43.41536101970849,
+          "lng": -80.47717853029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "KW-IT",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102554716871821212546\">Jeannette Smith</a>"
+        ],
+        "photo_reference": "AeeoHcI_xRzo8g3w62KoaiwmZIyTeals-u9HBTYfjnd2b5Jt4ppHftyPpXlnwexiPlJl-Rjyi4yycYB0TH5ZjoTjx1a0egCAQftuLB6yFbO-1XhbS8WLvX5AYz26QtfXMwqiIgvl3FMw2xhulULriC5bFw0iN5LYdJasKtxVPgeUMej4rGy4inje73zM8aT_0fvu2DBrjCBnmzRhTLwbmS2yH0UI7y-YUi687JREI0tXlKzIabxzqvPNRMhPRvDY4Dnfv-dwN6aUHCi0HcID2pxik3lrEyQI56RcEX4SNmLWxdirfo_BUhRd6JK-GkLtz1ECSpldb7YNxLFT4SuprRBtjmdYjljmhjNsVlQb2aPTCK4AerEYlWAM43gwWHWibLdyvRRVb_d7jvsZe4g3CpAK6gJA5Wxq5fEnpNBN96RjJqePWkKZFPwzeqhEbiQ1rCJ1TNkZN18YKXpSUAmMj4Lu3wJgxQ8QzIH8XPg2jjamZky0upqVf21HsSBVS_naNgipKGBFtokd8MGgIItwrfKkEjR4jFkFzIoyGRnlsuuLEJoC2phG-6U3FRkUP6K0hJFg5JFdc81cbS3tuK0F2jIULJ50rvQo4kXXhqTeyvz-iFOfRi4mWQ4Zm0KdjM2g_pXCVd89iA",
+        "width": 3072
+      }
+    ],
+    "place_id": "ChIJAbAccz71K4gR313MUflmwYY",
+    "plus_code": {
+      "compound_code": "CG8F+MJ Kitchener, ON, Canada",
+      "global_code": "86MXCG8F+MJ"
+    },
+    "rating": 4.5,
+    "reference": "ChIJAbAccz71K4gR313MUflmwYY",
+    "scope": "GOOGLE",
+    "types": [
+      "electronics_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "25 Country Hill Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.42245949999999,
+        "lng": -80.5158927
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.42374878029149,
+          "lng": -80.51463106970849
+        },
+        "southwest": {
+          "lat": 43.42105081970849,
+          "lng": -80.5173290302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Soundco",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 322,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102199284805678725574\">Soundco</a>"
+        ],
+        "photo_reference": "AeeoHcKAcgJ4wyB0P8gV3_R260PcQ9fl_VZDcEcsvuMK-gUVh9XWKYKaPhbuHyLtG7GM9q9H_2M5m3MGM8rRtmPF7F5pppsDzbUQ8edOh21WSls9PiWcJPEwjsmcSY55hSYmwmuGETUuIwq3c8vPV7FV0Ww3JPpVSpQzUhHfg7VgQviTWhpj2Rm51LMTMAyS64-8LQzqph2_ej0pNK6qDRlKP0d9H3XyDHDabsjXhsKnYdvH_fcDHlqg4RrMdNqEDrrYUKuq3LnIbY6xXa-XMjY1QsQ5QWfuiVUhY4FAOj7q0lr1JaVkZgrbhwrm_qXQa00eQ7hw4h70",
+        "width": 963
+      }
+    ],
+    "place_id": "ChIJLdA7w47zK4gRbi2ZJ37AreQ",
+    "plus_code": {
+      "compound_code": "CFCM+XJ Kitchener, ON, Canada",
+      "global_code": "86MXCFCM+XJ"
+    },
+    "rating": 5,
+    "reference": "ChIJLdA7w47zK4gRbi2ZJ37AreQ",
+    "scope": "GOOGLE",
+    "types": [
+      "electronics_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "100 Uplands Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4777838,
+        "lng": -80.5399843
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4792597302915,
+          "lng": -80.53861316970848
+        },
+        "southwest": {
+          "lat": 43.4765617697085,
+          "lng": -80.54131113029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Vision Computer Systems",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 424,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112047240764172541714\">Vision Computer Systems</a>"
+        ],
+        "photo_reference": "AeeoHcIpC9JcgsSVhvoSOT3a309TKpjK7IgSTE1IZeflNI7HGABhVjg2pBoQ2Tm4p9UhvrOdsznSnLt0Q_pmOBI4jp59vYbKpFHBlHhXiRamBex99RhiOaHKd-KLMzbDNjUQlPuuX3hjmjxEFmHy3BsUbcX1F2Y4fohnkx9c3cyM-Y60uHMmPMDqOLrWrC_zkhy3VEz3NPVmmsFGM-PH2ZwgrbSQBpxpxvAVy_WHFeu6u1gt1sdv8HMNxd-8tsVpHk9oRpnaFLO5C8wvCwdQEXwD0SqYLDVkE5Eb2JDuJbXFDu9RS9SMxu5xOSKFj575nfexYvc59iyQzfo",
+        "width": 731
+      }
+    ],
+    "place_id": "ChIJHbYgA__zK4gRLrfvOZka4o0",
+    "plus_code": {
+      "compound_code": "FFH6+42 Waterloo, ON, Canada",
+      "global_code": "86MXFFH6+42"
+    },
+    "rating": 4.4,
+    "reference": "ChIJHbYgA__zK4gRLrfvOZka4o0",
+    "scope": "GOOGLE",
+    "types": [
+      "electronics_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 13,
+    "vicinity": "368 Phillip Street Unit 2, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4581227,
+        "lng": -80.4943397
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4595405802915,
+          "lng": -80.49303331970849
+        },
+        "southwest": {
+          "lat": 43.4568426197085,
+          "lng": -80.49573128029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "DDM Canada Ltd.",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2356,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104550125790553508891\">DDM Canada Ltd.</a>"
+        ],
+        "photo_reference": "AeeoHcLWXYVDTGRAwze3RH5kzvDeZ0S_Xbp48u6Jj5_3sZu1UATsHJ9EF1_z_bsRxjAzOJZQOnkhzsuvFNoio5pmTZ0YSOoFUc9IZMUqC-GKNN6b1Py8KsRfu3tthwz_JVhqxE7M-YgWAomF-_raeWTY8WECqxaxBoDaAW8hLGpwYa-1MeT8UpJvniD65qlsV54LmlRqtVH8Oq6NUG1ijdw7dUKykROo2DGKMrob-YhBEon8yQ_Oz2SLdszbZTKFNx6YMwJyn7qJCKLEfgDKKSPxk0DriPOYzaVaSXkhXJailYh_xHVCnpGV6b7E1tPRZ3AO9iYxffvyD_o",
+        "width": 4192
+      }
+    ],
+    "place_id": "ChIJo58am1b1K4gRs0MV8tqN_A4",
+    "plus_code": {
+      "compound_code": "FG54+67 Kitchener, ON, Canada",
+      "global_code": "86MXFG54+67"
+    },
+    "rating": 4.7,
+    "reference": "ChIJo58am1b1K4gRs0MV8tqN_A4",
+    "scope": "GOOGLE",
+    "types": [
+      "electronics_store",
+      "car_repair",
+      "car_dealer",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 60,
+    "vicinity": "227 Louisa Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.419648,
+        "lng": -80.5560726
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4209161302915,
+          "lng": -80.55466611970849
+        },
+        "southwest": {
+          "lat": 43.4182181697085,
+          "lng": -80.55736408029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Ackland Visual Presentations",
+    "place_id": "ChIJIdjaTG32K4gRTgJMDRt6ajE",
+    "plus_code": {
+      "compound_code": "CC9V+VH Kitchener, ON, Canada",
+      "global_code": "86MXCC9V+VH"
+    },
+    "rating": 5,
+    "reference": "ChIJIdjaTG32K4gRTgJMDRt6ajE",
+    "scope": "GOOGLE",
+    "types": [
+      "electronics_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "14 Cora Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44084799999999,
+        "lng": -80.5064668
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44216128029149,
+          "lng": -80.5051549697085
+        },
+        "southwest": {
+          "lat": 43.43946331970849,
+          "lng": -80.50785293029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "KW Laptops & Smartphones",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2472,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112049730314951700227\">KW Laptops &amp; Smartphones</a>"
+        ],
+        "photo_reference": "AeeoHcILbjG3tztt2oLiWSNMvdZfWC1SW3exws6RkREcvbkbVjPeCN0gXJSXBp1yozvblGPD0kd59zJA89wiLjcLD-avVycb7wsgr4gK4UawLUVcnmPMgYP3aqnE954S2yjzbx-vijzVVvXQbarcVVwtVUA2JfDLsrzlQ-kb6oqXeAz5g5i3fNUI3CpuA07dFt9yTk8RvD3gEsrl6QG0j4A-PzPYVmduwAunul8bi4NxDFjAVXk_aoXXDXPCVuncZZ-riZOy1yTJf5CKUvpyQw7aPxxmbEBYRGcgCt-WzwFSwShXMlOAStwsHukUITV0_TwLMH4E5oOqn3Y",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJoznNOYf2K4gROAh3FABb4zs",
+    "plus_code": {
+      "compound_code": "CFRV+8C Kitchener, ON, Canada",
+      "global_code": "86MXCFRV+8C"
+    },
+    "rating": 4.7,
+    "reference": "ChIJoznNOYf2K4gROAh3FABb4zs",
+    "scope": "GOOGLE",
+    "types": [
+      "electronics_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 608,
+    "vicinity": "200 Highland Road West Unit 7B, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46898280000001,
+        "lng": -80.48470929999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47038583029151,
+          "lng": -80.48340061970849
+        },
+        "southwest": {
+          "lat": 43.46768786970851,
+          "lng": -80.4860985802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "We-Lectronics: Cell Phone and Mac Repair",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117676539468048015018\">Marcel Gagne</a>"
+        ],
+        "photo_reference": "AeeoHcIAo7K_z5utZ47kwXHWCCzIAqWSq6lVlIflENc6BifiE_khcTBm0-Is4JFJtGXNKGmfQBAbQIc9p9yOYqV8C8QFv_QhU0fo9cdTQ1yCuHAXLbs7D3tOvC0qQvlFF_8a_qWc3T--oF0hZzy7VQmoJtc36QfWqaU1TC_bx2lfcSVwwLZRvIbqnNiiypbejRT5iH9eVSrxdn-TnAm2UGp5EAFBu2y7NtYu53TNO5WXf12cPfD-stG1xbg88JxJt1dKlB27pkqLciJo6dbcNv_yj4VtRxXQ9LMwlkUmTX-oi_r6YiArS-jbjHkNB8op3MjDlkhyKSCEHK5-QtmJ8nSROfbte5zgpKj1MeFAjcT_KzcWqlDLQAbU9MdQ9bglsBqjoZYDmXE2nv02e7UWDlOkr0reNW-H2t5bITcLaRQ9bbGRf2qtCbi1TSGnM0_8zyLVMhChk4vkfyks5nveWv6PdsST-ynDg3rL-hIlGa3uEwYsGH8AHlIQudj6dPAeLO-DDjk9_89m4IkdSa-0QtBUiFPDzezl4StNx7Wtf4ftTyyCwiLIERW8GeeHPUTVAnNoMQHU5zrv7DOLKUE-B3eflqL-sTik6kdh4Qut8C18TII7FH6LFKT0zSOO72ea7LUUIhb_FQ",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJd8o27kryK4gRUH3uhcXIFOo",
+    "plus_code": {
+      "compound_code": "FG98+H4 Kitchener, ON, Canada",
+      "global_code": "86MXFG98+H4"
+    },
+    "rating": 4.5,
+    "reference": "ChIJd8o27kryK4gRUH3uhcXIFOo",
+    "scope": "GOOGLE",
+    "types": [
+      "electronics_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 162,
+    "vicinity": "309 Lancaster Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4979332,
+        "lng": -80.5265806
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4991377802915,
+          "lng": -80.52455485
+        },
+        "southwest": {
+          "lat": 43.4964398197085,
+          "lng": -80.52725585
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "TELUS",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 949,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112986544655813668120\">Felix Uzkanga</a>"
+        ],
+        "photo_reference": "AeeoHcIo6JQoE4A12B6C68m7-gySl3i2cYB5B7XpHUjfY9qouzkw6BIcMQ0a4Zg9gn-FJzNRfLXrqlkDfeLTB_KBInpWDX_EfIb74FLyT7sa1KfEY7GezKjp0Z6ZOqpmVFmDCrO3izDkzl-jfhUi-UOBfcr8xN81m1lLNHb9fYGcEXCRd0u4EsagAHwMqnEf6ICLYXAbdaz_3pPFbs9M5UkPSOf_Fgdm5xSVAOPzfCuPwLMCbDSYKIwaw-Bqv0-PDe-9vowwYKUMF884jD9Q60uM5vVN66L1h1oxJdFzXYdYp92u9IMzo-c2HryjWe5CCeUtyGSHIcjbl8R8_RBYSgZgLd5pReaOtwiWPo0TnUzngpbltQJsW5XN10v8YK1kSH2WeRdehuGQNm72B_TEJgpO6Pljd_JrZtiS3Q7VQucFPAjyHAyxZt6ip56_Z1wab7SMU-Er6NIYUwOiJ_wY0uFwxMMMLWjahErvrtyUlkRZteQzwvgyXMEHjWkTE5R5gP0fCIq6r6Med7FBRSxCAynLiireH-byT3yYAGllEvaZ4v7OqFDnXB0vZU3iFXMzDWvkGemFbQhLRNhbHMqBHCR7p3RuTPvmrdCOXFh-mdjdXdAbaUQClyMu-YT8KZ2UXCeSzouUYQ",
+        "width": 1265
+      }
+    ],
+    "place_id": "ChIJU5pMC8HzK4gRJEAtClfYh5Y",
+    "plus_code": {
+      "compound_code": "FFXF+59 Waterloo, ON, Canada",
+      "global_code": "86MXFFXF+59"
+    },
+    "rating": 3.5,
+    "reference": "ChIJU5pMC8HzK4gRJEAtClfYh5Y",
+    "scope": "GOOGLE",
+    "types": [
+      "electronics_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 65,
+    "vicinity": "550 King Street North Unit G14A, 550 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.499997,
+        "lng": -80.536979
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5014535302915,
+          "lng": -80.53570736970849
+        },
+        "southwest": {
+          "lat": 43.49875556970851,
+          "lng": -80.5384053302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Slinger Solutions Home Automation Specialists",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1154,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101484308199053276867\">Slinger Solutions Home Automation Specialists</a>"
+        ],
+        "photo_reference": "AeeoHcIE35mm3OgQnVG8PgNcFyvX4tWQ9Txtzm8G1xoqr5OFWoPvlgCJi3A_RizB6EY4Cu-1kwerM8DjA-oFxsCXCY95VAyfBbBWGEXI5dro9Ga7byVyyVYMSuxxDnH7wyyAHcnivHR3VNhocIc-3G4Wn-zWI826Dd4MYJToOuAAZZkEZtb2oPRgh5C2pMRfTf9-fhC2NjrRGJOFRftIWrvK4XyDCziY90c5oMeutiJpg33zYkP1tAHxA8dFphWmKgCikFtfsoy0j-v2wODaP2t-9O-UoKjWUbvPi-G4vP8gnUpVFD7d4Q4SAAP-4APdJnzXaXHDtWshUyw",
+        "width": 1732
+      }
+    ],
+    "place_id": "ChIJe5MnIin0K4gRMlvFT19G6Oc",
+    "plus_code": {
+      "compound_code": "FFX7+X6 Waterloo, ON, Canada",
+      "global_code": "86MXFFX7+X6"
+    },
+    "rating": 4.9,
+    "reference": "ChIJe5MnIin0K4gRMlvFT19G6Oc",
+    "scope": "GOOGLE",
+    "types": [
+      "electronics_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 71,
+    "vicinity": "53 Northfield Drive West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.50316409999999,
+        "lng": -80.5276006
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5045306802915,
+          "lng": -80.5263073197085
+        },
+        "southwest": {
+          "lat": 43.5018327197085,
+          "lng": -80.52900528029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Steeds IT Services",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 290,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110243485235894039965\">Steeds IT Services</a>"
+        ],
+        "photo_reference": "AeeoHcKSA8quRXCD-G5czsTTIciGAZMYDY0n9nkHzv8Kn9ZQEUTIJzXcnPv1SF6Tu28pqNS_rPnXZH6yZfcCzL96qrnjjQzhNlHJ8-6g-7IPGF_VfPBAcrGFwAmJIRLvNBNwugEFRmiTfDBIiPy3JTK0G8_AbOnZABbb9moJYdUAg94Wa653QkADDXZCUiDM25NhuuLvWI3f4cnfJwp9rRr-K3--2YJZxIVgWmM8U3OOWv_9_b6NLck3_VM76VUursfDQMOxXyE928FkhdJjbJDO4O0ZZE1uutad2MoPm3fkX6GTJyB4tYgxZlQsFCnzpHtW40PknDkBGRs",
+        "width": 349
+      }
+    ],
+    "place_id": "ChIJWYEWWXiIK4gRJ6EaHWkZ9L4",
+    "plus_code": {
+      "compound_code": "GF3C+7X Waterloo, ON, Canada",
+      "global_code": "86MXGF3C+7X"
+    },
+    "rating": 5,
+    "reference": "ChIJWYEWWXiIK4gRJ6EaHWkZ9L4",
+    "scope": "GOOGLE",
+    "types": [
+      "electronics_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "55 Northfield Drive East #359, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.50483109999999,
+        "lng": -80.53046599999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5062663802915,
+          "lng": -80.52891686970848
+        },
+        "southwest": {
+          "lat": 43.50356841970851,
+          "lng": -80.53161483029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Computer XS",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117900786649075203690\">Computer XS</a>"
+        ],
+        "photo_reference": "AeeoHcKe-KaqtXsMaPsezOLZnH5br_on3Ey6gzfE5wMCXrQceyHJ5H_Av6wJio18mFafxNV1im8cmJVpamDqv4vDiAHxQ8LT__ARUoSCxw8-_pfgv_6sfIS-7bjnZ1dBjpgTMFGqgHVRYIQF8kPoMM-TxTwjOIULNQEHJ0CY24rLXO-gAeZCAhEg5pXqRfD1rcJToicoKfgluDZf_dAvLEoejzCuk-Ga58pXUQjmNaxti74aOvXnZDKFZi3c44dBq-Z12jRnPmBBFm9uCJ2FyEkpBFe-0Au5jrG5uro0tChCeudA_W4mDnnixWwzU1f8XE6gvGcbrc-VT8c",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJ_9cr18TzK4gRuPKXaXAelq0",
+    "plus_code": {
+      "compound_code": "GF39+WR Waterloo, ON, Canada",
+      "global_code": "86MXGF39+WR"
+    },
+    "rating": 4.3,
+    "reference": "ChIJ_9cr18TzK4gRuPKXaXAelq0",
+    "scope": "GOOGLE",
+    "types": [
+      "electronics_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 105,
+    "vicinity": "100 Frobisher Drive Unit 9-10, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4333601,
+        "lng": -80.5609461
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4346201302915,
+          "lng": -80.55949131970848
+        },
+        "southwest": {
+          "lat": 43.4319221697085,
+          "lng": -80.5621892802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "The Brick",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 615,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113584620609079068354\">The Brick</a>"
+        ],
+        "photo_reference": "AeeoHcIen2k5HQeaMJmbq6HPBqWV020f9EraOluvQHFKEXpKYgIxMJUGigs9JE-wusQ4W5kU5Ha2VUYd2LhYoMdkl6Y_5VAJ52kI5FCbOBd9HmEplasAwrRRbBtwrt4OcTvUNkbhp5CEHIYZC7a3JNZ_LkppxmXqpbvKP_VTbcg2msro60iTI4j-BmpLdwFzCpbgDZ_nJBtGJ5YoEBFOzE9Ar-JZBPPrz8n_OCRGQW9rnadUlxyvAoLQ5DovFFxQ3dpwrnLQuDd_h1FRUGlDHTDMa3feoY4VZ-OFKjtnKSy4NORky10SLc-8CyvTdhaUbuLD0Pp_yh9WLSg",
+        "width": 1094
+      }
+    ],
+    "place_id": "ChIJKbIKc2T2K4gRxQimcNYSqgg",
+    "plus_code": {
+      "compound_code": "CCMQ+8J Kitchener, ON, Canada",
+      "global_code": "86MXCCMQ+8J"
+    },
+    "rating": 4.5,
+    "reference": "ChIJKbIKc2T2K4gRxQimcNYSqgg",
+    "scope": "GOOGLE",
+    "types": [
+      "furniture_store",
+      "electronics_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2321,
+    "vicinity": "125 The Boardwalk, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5054694,
+        "lng": -80.5404746
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5069632302915,
+          "lng": -80.53888291970848
+        },
+        "southwest": {
+          "lat": 43.5042652697085,
+          "lng": -80.5415808802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Q Components",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105193055443334757333\">Jorge Serpa</a>"
+        ],
+        "photo_reference": "AeeoHcJAr_TWkZOw4RY2SplkxNg7zLpB4Pvs5sXJJDIJK6ybN3mAs0fibWjzSlRJrp-wNBcNW6oyTWLuG9OVneffAInFj0wRT2P9eRj4BKRF7qIon-E635vdtbVmAHOeEi1irBJxnlJ02S6qwM7LSZaSs2r4igTYSjfGI-tmNT174pHvabVjj2R4BfFQPB9DZWdrWhwA0e5tkxYKuklGUWv4jADU5FyJIkJ3qCV9fbqzT3emAsggQlVRX195yrapiPIgHHIoXzVfX5DxvczfqhHXavPmm0s9e1F0W5SnWAhwMXYdoWUwK2RBD5P-JVX4DF964Iv1d3NUq-WeFNUtojWnS-1GppGa9FkLVeyi-tSzXGj6EygO9vFaxlFUDiBsXgA8AeGV2rtzrVRlHm1Fin6t5U3E_640q4JbHrAACCd3pxbODZjIuEqA9ekXanfwhyS30wtTX_fjHIWEFaSwKDWzE1VIv42eGfuB6eP-C7QbDyTgvU1JkT93evHt23tjQm7EcJaGs8XK5uGoU_zktT3V-XhXREN_7MKpIxKeU7Z4gla4EQndeTBFTGvgYgvotEcH6bEyFIDFlafSpUqTml1GGqvWDpXXYSJNOdpXMi-cpY3-1sTvSnu8UEbBzwAkSBHK891zxg",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJZ1_TE9fzK4gRrh5fSCr4SLE",
+    "plus_code": {
+      "compound_code": "GF45+5R Waterloo, ON, Canada",
+      "global_code": "86MXGF45+5R"
+    },
+    "rating": 4.6,
+    "reference": "ChIJZ1_TE9fzK4gRrh5fSCr4SLE",
+    "scope": "GOOGLE",
+    "types": [
+      "electronics_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 27,
+    "vicinity": "638 Colby Drive #1, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4243793,
+        "lng": -80.4798131
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4258313802915,
+          "lng": -80.47871996970851
+        },
+        "southwest": {
+          "lat": 43.4231334197085,
+          "lng": -80.48141793029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Harms Security INC",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102001152277870847223\">Harms Security INC</a>"
+        ],
+        "photo_reference": "AeeoHcKh7cdGROSrQ-Ro5T7kWI6nQytJ7kwtBu41VpJ3I_OjaufSBWUHBZbcLC5YXgIOAoMKT8FOjrlEzNGHmrLa8jXumDt9EuI2e8bZEZVMEI_ZM4wW-_fTVtY-uxKYvd79iZGtx4_6Z9S2R9NW8EjPqOUZff5hpvUDLDBmNVtpFMsptblD5qJDYk6ari1kkLNvKJ0iJcxnM_Kd_yheQckwNJdVHFJyvBWX0BO-W_5mEBhGaubSPajiYQhAmDS_BxYXySBcFmBY1yc8wew6Q-Ep-eCNJB5HKZkUW6Xjo_yS4e9rC9WnJKuEO0Wjm19mfHUjXE-YnITCuvg",
+        "width": 1000
+      }
+    ],
+    "place_id": "ChIJL_gFzfL1K4gRS5ndf1VAi5I",
+    "plus_code": {
+      "compound_code": "CGFC+Q3 Kitchener, ON, Canada",
+      "global_code": "86MXCGFC+Q3"
+    },
+    "rating": 3.6,
+    "reference": "ChIJL_gFzfL1K4gRS5ndf1VAi5I",
+    "scope": "GOOGLE",
+    "types": [
+      "locksmith",
+      "electronics_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 14,
+    "vicinity": "80 Alpine Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44876540000001,
+        "lng": -80.45181629999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4502169802915,
+          "lng": -80.4505342697085
+        },
+        "southwest": {
+          "lat": 43.4475190197085,
+          "lng": -80.4532322302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Armor Fire & Safety",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 678,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116523172108749741836\">Armor Fire &amp; Safety</a>"
+        ],
+        "photo_reference": "AeeoHcK9qZHFgJ6iQit8MhZh3Gc2ddU-2OIZuQ55s3tgMH8igS7QvcbtHREUwPn7g3p4fqmsVOGPYTWgEftjaE8sn50hcT0D06QAXxLesIN4rTqg9wE01_J_lcahav6jmlpsfyZ-QhgFl4rALweFkWuqESMGCMJ8cgkg6_OrNTYbvOIGNeFyDkQuW2gNBFhysYRzdTubXZor1BtmLKXh1zd0oScB5tMC5qczcatiholaos-FVkUcQb5CUYoHBKzqmYIY1q_FWw1YBjX8v5DLgVqSZhXoDjIELrRjHlAZEWvi9yfTM7AESG3w3XgAFPcgqXM5chuy488bClk",
+        "width": 900
+      }
+    ],
+    "place_id": "ChIJ2RBhnUqLK4gRJWTpwBZyHwo",
+    "plus_code": {
+      "compound_code": "CGXX+G7 Kitchener, ON, Canada",
+      "global_code": "86MXCGXX+G7"
+    },
+    "rating": 3.9,
+    "reference": "ChIJ2RBhnUqLK4gRJWTpwBZyHwo",
+    "scope": "GOOGLE",
+    "types": [
+      "electronics_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 9,
+    "vicinity": "60 Craig Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4083646,
+        "lng": -80.4757304
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4097444302915,
+          "lng": -80.4741992697085
+        },
+        "southwest": {
+          "lat": 43.4070464697085,
+          "lng": -80.47689723029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Ariatech Computers",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 877,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110262144919034376165\">Ariatech Computers</a>"
+        ],
+        "photo_reference": "AeeoHcIr51Bz3uDpA8c0aITPtVSxv5a3Ez8EvHO2O-VFmO3Hwsi9hy1UiymDC4nbVKSfIdkDPdwBBT-LE9cy9BSPgrdtAGOOF7cEbKDe2A2KuFB9zWiExE21LdP64uhCfsLE4zrgpDuF-pIGEKU1C8CsiNFDBRRfdeFbbeCP1NooSH_PZCFoTbpXKT0tEceYVGDlZidGA7_gCJnFR9j5o3JC5ZcdJIE10ayr9bk_VCOqSFcMiTYbvQ0seJPkfWxWN8HGKRYjsrTwEu680DqlR1kkujsNJsV4GhS2_3vKlZ3gcTi-wtHthL3JlHO6De28Pp_I5vkAxpOUsqM",
+        "width": 1592
+      }
+    ],
+    "place_id": "ChIJv26s8-WIK4gR3N_Dlicnqnk",
+    "plus_code": {
+      "compound_code": "CG5F+8P Kitchener, ON, Canada",
+      "global_code": "86MXCG5F+8P"
+    },
+    "rating": 4.5,
+    "reference": "ChIJv26s8-WIK4gR3N_Dlicnqnk",
+    "scope": "GOOGLE",
+    "types": [
+      "electronics_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 80,
+    "vicinity": "942 Strasburg Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.40710329999999,
+        "lng": -80.4711739
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4084283802915,
+          "lng": -80.46992251970849
+        },
+        "southwest": {
+          "lat": 43.4057304197085,
+          "lng": -80.4726204802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Accurate Business Machines",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111586455621666166812\">Tanya Smith</a>"
+        ],
+        "photo_reference": "AeeoHcLC3c7qSNnBalAfT4QOyhlPnkcG2_HJDnTVLtVUeMR5TElN0EJLFyaGUAPcJflq9p6Vj2OoWSCCBJOsJeEx4tKl3zRoVQpfb2foJTJhP-Ik6ok0N9SA_o5SxBjUQBf-k80T9uUdpq04056uv874GasKB2929xPvAkaz8HM4Hz_Phsc0CFUsr9yNW2lpxtjA_LzRauwk_V9k_Gke7oqd3KeETqGajsMvL8H4eOY9Xm-otSuvSwFSJwQWhavTqLaBADWCg2_5riwy2lbnVG88aE4bNM5lkRQVtTHd0yp158mkrgXQ_Erza3S4837yFklZtUC7Rkyx5cRZIMDo1UcgaId3cHQywsbCoCrMnXhPLqOei59btJ4mSM1iaUK8P2ZOBZOrAoMp0fTphFp5cYZ2BTDR7A4UKVls77iha1e7YzvsHg7vtUH2zVB204N7S0xCZbzzL4oEhvs8r5ckGEXa5IDekpOzzluH65B9NBinsd7796Fs4_sw9LkA0UguO35_VA9BfULuVWz-DjYXFv9zcc_Ym2RutaVCOtO8K_FlZY9XV5ldFpm-VGhbMgCaRrUE-f-fEDZgnggCjww_TIVLpkfNGUOvQvbsV6MKgnXL2hsxozTKoQ7jnenfxHO_aqoima-9FQ",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJd-XgfOD0K4gR1ZO8-g6hMgE",
+    "plus_code": {
+      "compound_code": "CG4H+RG Kitchener, ON, Canada",
+      "global_code": "86MXCG4H+RG"
+    },
+    "rating": 5,
+    "reference": "ChIJd-XgfOD0K4gR1ZO8-g6hMgE",
+    "scope": "GOOGLE",
+    "types": [
+      "electronics_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "88 Shoemaker Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4238433,
+        "lng": -80.43952449999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4249951802915,
+          "lng": -80.43826286970848
+        },
+        "southwest": {
+          "lat": 43.4222972197085,
+          "lng": -80.4409608302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "chatr Mobile",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3036,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113664309233820834071\">Ron Dutton</a>"
+        ],
+        "photo_reference": "AeeoHcL38eJjkNytNHHu3riMRtSHz2iNoHUM3oLl9ki5fUuRNm1ez9FmDN5fU4rVG07-xXUqmgAmXo_OWg9Xnl6qs9N2MtW1Dtmr1frhnZvzeyl-J924vT2OhfEB8Ivt5ug-kVn2lc-i2vpSXP134JYryYWSJYcfa9ADvA18k3_l-fyPrnuc1yvO9ZG50vE--klK3_J9BLS6CqO8H9WMsOBF94SBDJouAD3Pl2B39yyRJPYszL8NW-ibD2IdE_uBv6QVHZQAn2FIxkYTTFNnbqdqsm1yBGLGAJXxDLzCm9IxP21Op8F4Gya5-lYNJt6yYTl18JPyZ67QpavLCy5r6rRBTeTYyOCJRjiqYeJvqNSqyAbfXW6fyRPqXYxq-Arhx-9FdMFcUQYtSy4UqOAEWtaL41qUPwgnQWHdQPx8SVmeaFz0VVg10JvgRmaTXAIegzFG0zRJdDPok9RmTGhL4F4Pp6mpOXF0hvGlXzO2H4MqJGAuTb4vWqz0MFWWSn7ROGLCAWmAVA-Ct4_Gt2AVFeRwS2q3YoNkST03UNdTtioFplaJwZ9YJkgt8GZQitpQo5YK8ZEsW22CjVJdzD3RBu4jDz3EHY5BouAAF4ivP6UO_xws3dbItuY9D7m_HHk0mbYICK9cDCuv",
+        "width": 4048
+      }
+    ],
+    "place_id": "ChIJq6qqVtmKK4gRgYuUYKeDPV8",
+    "plus_code": {
+      "compound_code": "CHF6+G5 Kitchener, ON, Canada",
+      "global_code": "86MXCHF6+G5"
+    },
+    "rating": 4.3,
+    "reference": "ChIJq6qqVtmKK4gRgYuUYKeDPV8",
+    "scope": "GOOGLE",
+    "types": [
+      "electronics_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 161,
+    "vicinity": "2960 Kingsway Drive Unit Z0164, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4240619,
+        "lng": -80.4384915
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.42552038029149,
+          "lng": -80.4366730197085
+        },
+        "southwest": {
+          "lat": 43.4228224197085,
+          "lng": -80.4393709802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Showcase",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101225517914509723576\">Showcase</a>"
+        ],
+        "photo_reference": "AeeoHcLDWvgCMQQvgiEnLpNoSzwzARFpWA3JXR7TS5a1kBcCY34eYIMfDg1DedAGf1LkJB9rz5RFfuJlBy3EkElS7SL_9E_eq6nqvxMRwl4w-YGeXEUgQZAxOmoprDLj8gS3v6rxfFnhb6apQ7oc2uOf0vhIq6X7627bCd9LJwvZDtSTjGMhTHmIxXkeGuZ9pE_DHTtWv_sb00mzQKX7x2ud8C4SwEGxU41K1d4qeH0Z3tqb2nXIAXxZQ04lnYyBwFoBS7uHUXKs2oOaEYzwpeM55HukP4PIXO2AxEErKYpL8yXje-Wmg2OFGIlYnCEcPSSe4HdCqGxM54A",
+        "width": 720
+      }
+    ],
+    "place_id": "ChIJR8nxVdmKK4gRK1N0b1oBAFA",
+    "plus_code": {
+      "compound_code": "CHF6+JJ Kitchener, ON, Canada",
+      "global_code": "86MXCHF6+JJ"
+    },
+    "rating": 3.4,
+    "reference": "ChIJR8nxVdmKK4gRK1N0b1oBAFA",
+    "scope": "GOOGLE",
+    "types": [
+      "home_goods_store",
+      "electronics_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 72,
+    "vicinity": "Fairview Park, 2960 Kingsway Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5420223,
+        "lng": -80.55187070000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.54318533029151,
+          "lng": -80.5505884197085
+        },
+        "southwest": {
+          "lat": 43.54048736970851,
+          "lng": -80.55328638029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "CRV Computer",
+    "photos": [
+      {
+        "height": 1000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116720990921488316644\">CRV Computer</a>"
+        ],
+        "photo_reference": "AeeoHcIUyG8iAoEDcHENS2ZWruRy4RCfAPBgAArc4qyALvbmXe0vpsR9LXegT-vDagnIThBJoWNkhrGiBA6LhBtxo50hjIvQDkyzraip7IcoWD9jfNt4HKLAzPdGuw1LY4JvmLjzKqU2vafU68emHT5d56AKffbpp7_Zz3YZ8ZhUK4kiGmMKtjeZGVlPQFwqt8A1tvG8meEJbONB45iJTqcwpWMuqtH6-tgZxFqFDCk74fTIFTr4YELdhtbl0sFW-qgl1Aln3PEgZ2bR4qWqS92SJsnwht6Pt0A-zcLdC3Vn9-juIo_BNnfOUbpghiem15XuRFyEYVl5iW8",
+        "width": 1000
+      }
+    ],
+    "place_id": "ChIJh01GIv3xK4gRRYQkczMhcKE",
+    "plus_code": {
+      "compound_code": "GCRX+R7 St. Jacobs, ON, Canada",
+      "global_code": "86MXGCRX+R7"
+    },
+    "rating": 5,
+    "reference": "ChIJh01GIv3xK4gRRYQkczMhcKE",
+    "scope": "GOOGLE",
+    "types": [
+      "electronics_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 11,
+    "vicinity": "16 Eby Street, St. Jacobs"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.38281190000001,
+        "lng": -80.4909199
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.38413243029149,
+          "lng": -80.4893433697085
+        },
+        "southwest": {
+          "lat": 43.38143446970849,
+          "lng": -80.4920413302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Tepperman's Furniture Store - Kitchener",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3166,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102038131695333770687\">Tri-Cities360 Scott Rawlings</a>"
+        ],
+        "photo_reference": "AeeoHcIMlBGZZsac21IiIuFFLIw4L53SfH9zkUMzkUcWm08ay9JF8wl4P8zk2o76xTS0xjiFrfhAecdlDKLsdOO6MD_fRrPalXZe8U5-r7WipfqUg9DQJ-uFU79-yapxZtjd_dR6cLwBZVATRjYzpqZZcX1QklpP4PFf2o6RbNmk-dkRIfhlzpriB428XNzlkYWDDyObvqQXkIeW-aUQ4mcxtoIsviYiN-9Uc_9pF4y-XFKzGOVHPfX-rHyu_2mlLOT_J6gtbc8geU7leJZna2mGKkeUuxV6SupLpPZItmBNQchmxEg8TQ59A84KhnUnAuvZTQ7uu6BN9blZVser8fPI4kf-t0ZI9uknhdaojLa0gU8PA5NEgGlP8fCrWFhwtWtc70PUsAfH2E5nej0q5FT6VbOCZTfmOi9s1utOqixZFz2vJqaWzbEJuk_QUR4ultpoPLN05kqL5DVYqbFjD7Za7NtYR1MWJTkpBVgXk5YDRuWz2_dwP6heT1KYH4XCdq5kpscOBP5zOwb1qTnAhtXyOqiwVAXWRF9P6InXdkBdxSeR3A2NSZ9e_Rprk9Dy-E6SgCyUJEXSQmlX5p3wvKmpgmG_atJ5t_V_sZowvAX9qsalzak4Oj3XgbV8ANpP9XLPL1GR12zO",
+        "width": 4750
+      }
+    ],
+    "place_id": "ChIJ_7wXTY4KLIgRtucqcy_ULUA",
+    "plus_code": {
+      "compound_code": "9GM5+4J Kitchener, ON, Canada",
+      "global_code": "86MX9GM5+4J"
+    },
+    "rating": 4.1,
+    "reference": "ChIJ_7wXTY4KLIgRtucqcy_ULUA",
+    "scope": "GOOGLE",
+    "types": [
+      "furniture_store",
+      "electronics_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2998,
+    "vicinity": "1415 Huron Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5055986,
+        "lng": -80.5401876
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.50701558029149,
+          "lng": -80.53872566970848
+        },
+        "southwest": {
+          "lat": 43.50431761970849,
+          "lng": -80.54142363029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "McBride Loud Speaker Source Ltd",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ09iWENfzK4gRYC65uVSO7hw",
+    "plus_code": {
+      "compound_code": "GF45+6W Waterloo, ON, Canada",
+      "global_code": "86MXGF45+6W"
+    },
+    "rating": 4.9,
+    "reference": "ChIJ09iWENfzK4gRYC65uVSO7hw",
+    "scope": "GOOGLE",
+    "types": [
+      "electronics_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 8,
+    "vicinity": "638 Colby Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4156617,
+        "lng": -80.51195539999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4171058302915,
+          "lng": -80.51050021970849
+        },
+        "southwest": {
+          "lat": 43.4144078697085,
+          "lng": -80.5131981802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Microplay",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1566,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117563426666134083207\">Microplay</a>"
+        ],
+        "photo_reference": "AeeoHcJfn08gC92HLg-nfgon_LYbuxSLkyk9t33rmaUzWFvWqlcljvDQr9lRq4iHOSBD1Bz7bmXXU3gQSLj77MyR61OPtJF5RAHVEHdfOv-4dTi6oJB6v_KAR11V0OFaWvtAOSLNk1tENwphRxOKgO1qV4tVapQsOGKvqP4vrWMYz1wAwlVlSmXqY6BGMJ3G4INh-vQ1CdeAHT_T0WgHqGOU4y0JT-iIxjORpVNq0bC_uBmZx1YmdRdtkIr_H829A-o1j_q6URutI1KHfxD7HDkWrfubSmocz27L1k7cG74L2OkFT2RK-xU8PkLY_VdRCqIbHbYbb94xV1M",
+        "width": 2418
+      }
+    ],
+    "place_id": "ChIJ_1Vv_pf1K4gRhVluEi6tIok",
+    "plus_code": {
+      "compound_code": "CF8Q+76 Kitchener, ON, Canada",
+      "global_code": "86MXCF8Q+76"
+    },
+    "rating": 4.5,
+    "reference": "ChIJ_1Vv_pf1K4gRhVluEi6tIok",
+    "scope": "GOOGLE",
+    "types": [
+      "electronics_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 435,
+    "vicinity": "685 Fischer-Hallman Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4547557,
+        "lng": -80.4969754
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4559312302915,
+          "lng": -80.49530076970849
+        },
+        "southwest": {
+          "lat": 43.4532332697085,
+          "lng": -80.4979987302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Battery Junction",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117420271583257687988\">Battery Junction</a>"
+        ],
+        "photo_reference": "AeeoHcJnunnwKtxqOyBWs546UYvFJmfK3A-28_mTeqhzSjEJvYqk_kpbdl3dm-53-HAPyCoyqku6OFeSWlpuH6-HunZb9htHwXFFVDwyuFl4QI3Qntm0uaTgvAidGkCLhBjzoyFfFenxY_pu96YcWwy0F1y9lAUzeo7_7WCG8Cmq86osSQAMnnFHIHsLOlNAAYDeXXyl9N9h8KUshFsTcsMKpYuuJmuWXA1MkBGNP1grhDH9fLBZXx6nE3OJ8hQH8etQLNbqKcFKdM1o1wsuWZovHuE9OTDeZpKqfgDFUySORmZEXXkyzm48WmLgAN7e8B9dhiM1dYnhmps",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJI85z5U70K4gRSSrZBBjDcI4",
+    "plus_code": {
+      "compound_code": "FG33+W6 Kitchener, ON, Canada",
+      "global_code": "86MXFG33+W6"
+    },
+    "rating": 4.5,
+    "reference": "ChIJI85z5U70K4gRSSrZBBjDcI4",
+    "scope": "GOOGLE",
+    "types": [
+      "electronics_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 21,
+    "vicinity": "283 Duke Street West #212, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4616894,
+        "lng": -80.4685222
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4630556302915,
+          "lng": -80.4672335697085
+        },
+        "southwest": {
+          "lat": 43.4603576697085,
+          "lng": -80.4699315302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Smart Choice Sales & Lease Ownership",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104559492363213778610\">Smart Choice Sales &amp; Lease Ownership</a>"
+        ],
+        "photo_reference": "AeeoHcKag6G_TrRLRO_-6XPbTbDc6hLxN3r-v0clUGAHB0HDqIM_b-Gcrl3yEOUOryBCqRST9M5jvsbUXF21ziwD2JTxssj-TAXaTYEvsXEEbt4Dt6M8ncM52KQ8o6n8jk29z18Gd8hOvoJisFuMA18sPWgK7ioLoyyIjMTHuzGpP6XIW4JNDfypJzFKno7Dm14MtIqTZUxcUvcs-k1DTlp8iVs1gUykwg_Gg3kK7ohuWZAz0EeJzVH4iicyEdrBMEEnZfuRlHR6DrLRz3QOZWQ_SfKS6UTfvSgWRbVVwWfltnb4KEOedMf08RLjUaTtXbhHUX4_nYRsKso",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJYURlFV_0K4gRErZLy5j2rxU",
+    "plus_code": {
+      "compound_code": "FG6J+MH Kitchener, ON, Canada",
+      "global_code": "86MXFG6J+MH"
+    },
+    "rating": 4.4,
+    "reference": "ChIJYURlFV_0K4gRErZLy5j2rxU",
+    "scope": "GOOGLE",
+    "types": [
+      "electronics_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 58,
+    "vicinity": "809 Victoria Street North Unit 8, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4609765,
+        "lng": -80.4734132
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4624508802915,
+          "lng": -80.47215656970849
+        },
+        "southwest": {
+          "lat": 43.45975291970851,
+          "lng": -80.47485453029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Natural Sound",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 6656,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103731262496944461152\">Natural Sound</a>"
+        ],
+        "photo_reference": "AeeoHcKAHQ8a6intmWgY4N90tGotZpD_ttS-3TydtB9ejmsSh4z_WTFbGjjy9xlZ2xKeXB3Suul4FRm7kxKlQJg4k2mF6l3U5_c_7rETbowdGR2mhZf24fddubKwV2pVrVdX5WkmDD7_TJUBa70o4eSZtCCGjfiXdFW6-0ZliWS9oT2h30dWx0sLsRi5X8eDCFhkrM3Pu9XcpKop3IHYDMynKxQTN-Ke3s0PIfHPEOdXjT79M1DEeFZn1X3OOBwYRWR6KaiGeUk79-DjAuwXg9oLomLV-5PdMQ0mCcMpA9UYqSA8TqXEhNR3BlQIrXfoGn8G1gzoDm8vp5c",
+        "width": 13312
+      }
+    ],
+    "place_id": "ChIJ-160Y6P0K4gR9gbU-DIf2QI",
+    "plus_code": {
+      "compound_code": "FG6G+9J Kitchener, ON, Canada",
+      "global_code": "86MXFG6G+9J"
+    },
+    "rating": 4.7,
+    "reference": "ChIJ-160Y6P0K4gR9gbU-DIf2QI",
+    "scope": "GOOGLE",
+    "types": [
+      "electronics_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 298,
+    "vicinity": "645 Victoria Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4807595,
+        "lng": -80.5167439
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4821393302915,
+          "lng": -80.51558976970848
+        },
+        "southwest": {
+          "lat": 43.4794413697085,
+          "lng": -80.5182877302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Notebook Galaxy",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2988,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100872684666618074900\">Franki K</a>"
+        ],
+        "photo_reference": "AeeoHcJ93eKYTcTWwycETCC7Gl231rU2R8yUS2gNsTyFpV8uTkLlXa9LiGm9tCwHcTrf6ozFVBvxTEsa8a5XK6Roe7U4uMzfQrsG0XeR8_dLBDEbEROKXqL2b6NEjCLooizgE0VpHUj2GvYuVaMnt36-_Tmq4dEqOInlFsZdr2bhz1zblpIBp8Pte0v8IK8ogPT-pKgz-QlGfXWOoQjuUzDXh8KpqHQF0wBp-F2yS8iEmD4n47BHF7lBEM9L517X3u5MIAzuq1tXrddtVz5QUks1H9OZNWqhUvBt0eHacHP0IC_NCETawgom8s8lk7z_8-JG1tA-cVmHkaYaSUNZdwKbGeKsu1nAzeH-ROX6CXHjSTtj9FAV2WKidrt8ORedpIppUvZj85GJVOQworJ9FFgL1qZSo5QQtPd3steMODssZ91iJpWm_QHerq-pZkbMGtky2dDKbgYnkjjjvMz6KqxJe6XEcfxcoIghfV9S3AOV8bIzdFv8bivbT6YMWor3zMCLtIvHzhyhOcR_YU7H6EAt5sgJatUkfMRgPhsVdX_K3Qvft-5CRcUv7Rw8wPbPJosttcCuWUjhEpopkLGOv3aPbgzUD_XRlYQ_KgxyATqzD8VboMxG9R0eHOEIWnBYl8PwtTdqdQ",
+        "width": 5312
+      }
+    ],
+    "place_id": "ChIJL8tF7vLzK4gRQce5GREuGS8",
+    "plus_code": {
+      "compound_code": "FFJM+88 Waterloo, ON, Canada",
+      "global_code": "86MXFFJM+88"
+    },
+    "rating": 4.7,
+    "reference": "ChIJL8tF7vLzK4gRQce5GREuGS8",
+    "scope": "GOOGLE",
+    "types": [
+      "electronics_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 67,
+    "vicinity": "282 Marsland Drive Unit A, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4602801,
+        "lng": -80.48274669999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4614312302915,
+          "lng": -80.48154001970849
+        },
+        "southwest": {
+          "lat": 43.4587332697085,
+          "lng": -80.4842379802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Orion One",
+    "photos": [
+      {
+        "height": 1836,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102321564248912510950\">Gary Will</a>"
+        ],
+        "photo_reference": "AeeoHcK_pejnOwMfDqQImwAnoWvU5GH9tdlqN9GGGA0afr7V67z-814zOOsvZmuxH9bUtXX7nXqfnRGffhwsbJPtCOBT8buUXtx48KumF3-YbrXyrJLu9WkcAAYZvexKJ0x-gvYwjbxNeAcDyCW-uAmXjKQO8GWqdnGIvSX5ifppf5KVmSFm-Qv5BpX6_C1QWzIRVd5FM8kqnFUNjXn-SrgNAg9xdkiIv5f_YoPRmyVb46fy-GmmB8fiGsOYxnSHqLONfkUO7v33Z8rsyf_25X1hQcD4RlPXmKVH07t_aFDtJtD_pPPhSUFBmmdv46zotjpahiU-jZLHs7EA2QGKO6uJtcQyd8XS7TniOqzR32sEpzbtk-lqUQ-jHBwPgO7s-CBW_ax7JDbvbaLD9LYwsZV9oWa8AjE8CbZ5WPB7V-is8rs7uD9RuF5PjL9vg0EOeJs7JVfhizF4mhV-sACWUYDGNdX6L2Fh91qy-To-IdbZPA8dEySTNI5MDnBk8vAjOd5i5GJn7-TiFWEM68DMRWhSa794UAWikoohMR1qMfqShQrLqwLwllteE4mPTcDMGDW5BCbw_930xTdA4fsQiZgYGYDdfC3PBAwXN63H1gX-hxbqOZL9CUbtLJAYjIC6FFOT",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJFzc_ypD0K4gRszvFCJkU6wQ",
+    "plus_code": {
+      "compound_code": "FG68+4W Kitchener, ON, Canada",
+      "global_code": "86MXFG68+4W"
+    },
+    "rating": 3.9,
+    "reference": "ChIJFzc_ypD0K4gRszvFCJkU6wQ",
+    "scope": "GOOGLE",
+    "types": [
+      "electronics_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 133,
+    "vicinity": "40 Lancaster Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4942793,
+        "lng": -80.53111530000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.49570398029149,
+          "lng": -80.5297113197085
+        },
+        "southwest": {
+          "lat": 43.4930060197085,
+          "lng": -80.5324092802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Eco-Tech Waterloo",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109668641616727122676\">Eco-Tech Waterloo</a>"
+        ],
+        "photo_reference": "AeeoHcKYlFyCiPeEKHl8J2B6yLY51Zk71ep8vUmTeSnz_EzLTmRDweDq5IrXasJuGAstzXFQnivMJny-hZbnoj-8YuTKE587Qul94psFGM7_v8cUPEqGhGMlfZ5jf1fFACDea_V1MqN-RxIZ9rhL5T5btliSdRc0pX6ybJOktmw5vt8AkEh-zxH4XzX7y_OZBLNHMrdWuszLt9g6kGFuF6b9Bo3W1ES6WO-v9YW1Pd7n9j2iXUT4GwzsPOZhbz5jdF7IOUMAjsPmVCcOtJ2ZDL7fzCepaInY7eOoSfEaR7cX-f20NxnPQTVb2L8d3J0jtYjwcz9uBCnNMio",
+        "width": 1280
+      }
+    ],
+    "place_id": "ChIJZ4rzmcLzK4gRyXXT15yMpUg",
+    "plus_code": {
+      "compound_code": "FFV9+PH Waterloo, ON, Canada",
+      "global_code": "86MXFFV9+PH"
+    },
+    "rating": 4.9,
+    "reference": "ChIJZ4rzmcLzK4gRyXXT15yMpUg",
+    "scope": "GOOGLE",
+    "types": [
+      "electronics_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 50,
+    "vicinity": "505 Dotzert Court #2, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4752758,
+        "lng": -80.4403883
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4765570302915,
+          "lng": -80.43891286970849
+        },
+        "southwest": {
+          "lat": 43.4738590697085,
+          "lng": -80.4416108302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Knell's Security Integration",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 399,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117513851548698334538\">Knell&#39;s Security Integration</a>"
+        ],
+        "photo_reference": "AeeoHcIJSBfMNnGaKzSHkCvnbP3bBl1EhS8v7AwCOFWJG5lqhXm7z56ckYaMMS-IusRtTGNa4JpEhCH_r-TqSBafAR8ZBOYTvPPXfAPf52P_BJ8FQqwQMoaDItVwGz29nKwqhzdCpRb7JwGmYPSFtNiHm23PEdPW9B9-HMsxL70FIyZXDxPE86zs4oR865xYPfWb4hAOjuruG_o-uolu7Wv9X7J6Y044y_A0_gsKt36a7jOZGr12YJxsn3ZK3EugK1plYbQw-3IAshHYMbGPotldI-kxv7lbl2qObGdd536K_XWv_T5JSMcXoavpHXSyUEFGrO7wlyIz",
+        "width": 1313
+      }
+    ],
+    "place_id": "ChIJ7zb7VGX0K4gRvM5V66MXcBg",
+    "plus_code": {
+      "compound_code": "FHG5+4R Kitchener, ON, Canada",
+      "global_code": "86MXFHG5+4R"
+    },
+    "rating": 4.7,
+    "reference": "ChIJ7zb7VGX0K4gRvM5V66MXcBg",
+    "scope": "GOOGLE",
+    "types": [
+      "electronics_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 727,
+    "vicinity": "2090 Shirley Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4868458,
+        "lng": -80.517072
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4881376302915,
+          "lng": -80.51590271970849
+        },
+        "southwest": {
+          "lat": 43.48543966970851,
+          "lng": -80.5186006802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Neutron Digital Solutions",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJKb3b65PzK4gRRsv4WiCw3sk",
+    "plus_code": {
+      "compound_code": "FFPM+P5 Waterloo, ON, Canada",
+      "global_code": "86MXFFPM+P5"
+    },
+    "rating": 1,
+    "reference": "ChIJKb3b65PzK4gRRsv4WiCw3sk",
+    "scope": "GOOGLE",
+    "types": [
+      "electronics_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "105 Lexington Road, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.42403350000001,
+        "lng": -80.4392649
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4251196302915,
+          "lng": -80.43785926970848
+        },
+        "southwest": {
+          "lat": 43.4224216697085,
+          "lng": -80.44055723029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "TELUS",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111471692858305405943\">Reza Roodsar</a>"
+        ],
+        "photo_reference": "AeeoHcIxyQCnDWBnO9hdLhktEUu-IPlukvcGD0ua5l-3Zgh8R4QXRRbK-bgwChzVmE7kh5UCqlw86rA_ow-YuPcCQAVM5kZJIMhkko8IR1yxBKRVQlf_7zHll9a7pNUdihe7I5ha2EANQPt1NGxfnn5d3QGrs0yy9ediCmfCZScrBXfG4n1t9ciDvKS2OaZtPHKbfg6gMhglh9bjl9Q3wW9x9-4C9FfTJalhl-H_X76qq9d9REngyo-7AMpSKULqvJFgPDwzU3D6ChYWKG_hcRrrQE4o3NgJl9ID68m4NSw1uft_8S-xdq2SCXydjohyvhzIS5tyJT1_RWP6n8zmP8lzwR6Uv682hRms-nxH2yzB0ONxSCpQh-pHYcppZvFIHnerw4rXmRdJ1wUG-VMOKLG-qM836dbV5AB4sgZ3utukzrV03saU0s2REbGlaPxxsw4BGRlprMQHhHNDkMt6rFZUcRDfYEwFWa77P_RbMh7jy2YlIcYWV4r9FwDxJNuyT-U5j4EQlDkqYETh4wicAENRGBgsjiT_8zXBOFylzaU2guzhddWIl00Y1MZSZv8cGLANRBWQ0m5Jf1vNs842HV_9EjH8XtjpWL5qTj7m3RkLzimCmuqS-iPpHi1tz7iSXRY43ThK3AG4",
+        "width": 1440
+      }
+    ],
+    "place_id": "ChIJTS6cNNmKK4gR7Zr3n2fGtZg",
+    "plus_code": {
+      "compound_code": "CHF6+J7 Kitchener, ON, Canada",
+      "global_code": "86MXCHF6+J7"
+    },
+    "rating": 3.7,
+    "reference": "ChIJTS6cNNmKK4gR7Zr3n2fGtZg",
+    "scope": "GOOGLE",
+    "types": [
+      "electronics_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 102,
+    "vicinity": "2960 Kingsway Drive UNIT C015B, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4304891,
+        "lng": -80.4539242
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4318064802915,
+          "lng": -80.45247156970849
+        },
+        "southwest": {
+          "lat": 43.4291085197085,
+          "lng": -80.4551695302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "KW Smart Home",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106404563152366166501\">Pete Baginski</a>"
+        ],
+        "photo_reference": "AeeoHcLSmFYrlleXHE911uG9S8iyFZlEfLXx4ul5LinzaGYRsb7EoaAbjeSyty-WHcG5PQyTeUkoHJvT_370Tz7G5t6fyJ7geZZTwxsc8uQ6aLPGDlZuK3Lj2gE52qByMeu0GOLFT0-05tcWE6tyNOTXxcfVH2qs8XBukMdF3qXPC8m1N8WuBWi7hSPMshfL6cTP_P-03_Dqrnz3-b-pEt14ZVQU1PjrptUren9xj6UVzH_bdvh2IMkVWIn7Lrh2zsRNLPsSJXUESqtZG0i9DTYVh2tpYFMLewhzia4GQfH1xRNS5X94OG-JPH2VURw9cLehOXPwQmW5kYe-k0hej_j7o7wa13DuMBN-BZJgAq7tGFcwcYGCAas3ED8lw7tlfT4LDuc8FEgkKw9ARTvISVgevmGD5dUXCkZsVFr-yirX-qmxprVf10UnwsqHu2hrKOhZ2X2qOtWZI48853Dhvu4WUbHDS4uBVF7q96Bqvv-uzhnTkb-81YtnSLqeQyJK4zSDxk1rzCOPZ5zkKpJKlT3sdVUeyEq1_kEpqoBLUF49cvAgm4EyrHL2R9JI5RpatSIM9LbfyaqN3h4k0a8PWVbNpBdgBFYkvJwy5KG2IuMDlUFy_HLeBWoFKT-w7S3nkPqdFsyKSeS2",
+        "width": 4160
+      }
+    ],
+    "place_id": "ChIJUcdupCqLK4gRSvgZc4_jpBs",
+    "plus_code": {
+      "compound_code": "CGJW+5C Kitchener, ON, Canada",
+      "global_code": "86MXCGJW+5C"
+    },
+    "reference": "ChIJUcdupCqLK4gRSvgZc4_jpBs",
+    "scope": "GOOGLE",
+    "types": [
+      "electronics_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "156 Fifth Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4448575,
+        "lng": -80.5207982
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44636543029149,
+          "lng": -80.5195434697085
+        },
+        "southwest": {
+          "lat": 43.4436674697085,
+          "lng": -80.5222414302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Duplicom Business Products Ltd",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117886998073004988926\">Adam Hammoud</a>"
+        ],
+        "photo_reference": "AeeoHcIc0UsvVt6UHy2-LU7i3KkLxbtE5uEkmqFfDEhjMZvagjjPpP2e66CclKI1Tq4DXqicJMUMNda1jFOsa0PeNFGIWa0kqddVvHsM2Z-kohF5ZVg0_n-S7gIxZ63TVhSY8nR6ERIYPGW-BB8_rNDHT5znqOltdNXwx0owVD7Iu69CLrOWTNDHsGY9xyyK0sAn78HQ-eDVOtpPzzZoslrb8s2s8UBzcnOb5KZUhv6LC1x16CxqrYPuQRAWgU0yMOWf1psRWVBnqraTEA5qVbHkg_l6dEna74zNN2wtEeyy-IVY0jSh8pAzfF76R9Gp-x4fnbjLQShg_gozsINP7MTWbMMXtwNxi6ES0Mw6knufvK54NMsDwMOPPTcb78fMx2vQ_Aak1nmi2qgKUKcj4cATkYpY6F1b3iVHmQhmfsAW4X353HXhwjN3LMhK2N1M5m0ZhYPwACYXq6-ddsfAomm6jOM8gQ47a0s4faMduwGaCpl36wmgNO4LhneFsCQcCo7qOQMcxGaTpmLT9BwgPQGOuTkCQhwQTdUXAzoYu9fGeFhMI_kVRiqziYmD0wFGvt41QLKowvo1UO5jS1MrZ9mPNouTkz5xX2Dy_KARDISp-vUJ4lAHofEB6soivA-X7BqwlL0YWVm5",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJ450PBkj0K4gR1wD0cYUsEL4",
+    "plus_code": {
+      "compound_code": "CFVH+WM Kitchener, ON, Canada",
+      "global_code": "86MXCFVH+WM"
+    },
+    "rating": 5,
+    "reference": "ChIJ450PBkj0K4gR1wD0cYUsEL4",
+    "scope": "GOOGLE",
+    "types": [
+      "electronics_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "386 Gage Avenue unit 2, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4400306,
+        "lng": -80.5087442
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4412831302915,
+          "lng": -80.50729471970848
+        },
+        "southwest": {
+          "lat": 43.4385851697085,
+          "lng": -80.5099926802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "H & B Security Centre",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1152,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101497629264167221011\">H &amp; B Security Centre</a>"
+        ],
+        "photo_reference": "AeeoHcJ7y_wa58kKPXqDWIvdM32bZomP9j7rvzVeaYQjiyfaQ99CGMfykt-aV0gupgpVHv8Jv0g8Uz3Fra9lO8fa891HwKhyuwArQW3_RhheSitgxIs_uDGHRV0Aiv2KkxBEsV4XALEfFv_L3wP5kZjU3DdNQ3nVe_WAh_SA2RMpVXxK96yziQ1ZNvXsCifHE4v4HPEdMuRf6aWJwmUnGsSJjwrd7nyqWGG-FJFz_hobAA_BEx_PgOi-V24fG0uNfiNjHGq4r8P9jlSmOKryL617bSMvy2BILln54VDbN9w3OQxMoOVoP4nAIbt2bxuFKFCUL_qUIoqm2SI",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJkZI_JFL0K4gRd-hAxrdKPIU",
+    "plus_code": {
+      "compound_code": "CFRR+2G Kitchener, ON, Canada",
+      "global_code": "86MXCFRR+2G"
+    },
+    "rating": 4.5,
+    "reference": "ChIJkZI_JFL0K4gRd-hAxrdKPIU",
+    "scope": "GOOGLE",
+    "types": [
+      "locksmith",
+      "electronics_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 49,
+    "vicinity": "274 Highland Road West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4657602,
+        "lng": -80.52143029999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4671132802915,
+          "lng": -80.52003276970848
+        },
+        "southwest": {
+          "lat": 43.4644153197085,
+          "lng": -80.5227307302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Electronic Emporium 519",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103991328210390431734\">Electronic Emporium 519</a>"
+        ],
+        "photo_reference": "AeeoHcJpo9Z7MlfOaGwpRcTjaU_T2Nmzy5QNdIb91VHzgwETAQCdQCXHhgjS2-3brN_wIwXhP9uX2F5SOMoyVvP4DNk4PK2OwHfelSuZ7sq_MmeMlXGgFct9eNInRjl_h8nTUhbNdhdZO2DaYdy52XaTbJYG8noZ1Sa4LYCkneU-7Hg3HXqYzzj6e8AS8EMm1EZAs7TFtkLRUOA3FiignlHw20_oeGz7uKbmqtZ8VxlpCVtGD4dj0qg7_ISlaN8pvWpSmkT2iX04ltuoiobXT-bhxK0R23nv2l30hplDxMC-Xv9_LA_gj-qr9c6OFG-FzuYLZBxekWKSOcA",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJjXlrUwP1K4gRQHSlEUYc7lA",
+    "plus_code": {
+      "compound_code": "FF8H+8C Waterloo, ON, Canada",
+      "global_code": "86MXFF8H+8C"
+    },
+    "rating": 5,
+    "reference": "ChIJjXlrUwP1K4gRQHSlEUYc7lA",
+    "scope": "GOOGLE",
+    "types": [
+      "electronics_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5,
+    "vicinity": "3 Regina Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46815369999999,
+        "lng": -80.520691
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46942223029149,
+          "lng": -80.5193215197085
+        },
+        "southwest": {
+          "lat": 43.46672426970849,
+          "lng": -80.52201948029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "TechPro",
+    "photos": [
+      {
+        "height": 800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104584570189228294363\">TechPro</a>"
+        ],
+        "photo_reference": "AeeoHcJwIdkI0wY8A0Dnn_QhXA9TAqrFqemSVbzSdV208t_kWAs-0uidQPYti77NCta6GyzbL5zQ2jBwUhBiXhHod7dVw8eWhORZN19PPyT3rTH_R7aDvywBO3tJnhAn8D7f3J2VzacUpOPwC3RUw07ZOVq3izZ6bZKfoSGH2CHDBNb31_YQxCgy5-y0BevcjZv-zAFvYMWsTioxj6uYs3VjEIfFQmBlqB1M2ewaxF2td8IBwyC9V9VkWWh_JyKtCj5J4ND_zjKOJfd5w_ds-E5dZzxEAahxbwAFqW4Yc3vb5Bn5bfOb5gGyWgfFYiEwUTRY71HA88ob5bc",
+        "width": 800
+      }
+    ],
+    "place_id": "ChIJr5v_Ofb1K4gR98cm1OHGClA",
+    "plus_code": {
+      "compound_code": "FF9H+7P Waterloo, ON, Canada",
+      "global_code": "86MXFF9H+7P"
+    },
+    "reference": "ChIJr5v_Ofb1K4gR98cm1OHGClA",
+    "scope": "GOOGLE",
+    "types": [
+      "electronics_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "38 Bridgeport Road East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47028030000001,
+        "lng": -80.5158654
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47130758029149,
+          "lng": -80.51451891970848
+        },
+        "southwest": {
+          "lat": 43.4686096197085,
+          "lng": -80.5172168802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Fido (Available in the Rogers Store)",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJYTXWNKD1K4gRzlSVpbqyflI",
+    "plus_code": {
+      "compound_code": "FFCM+4M Waterloo, ON, Canada",
+      "global_code": "86MXFFCM+4M"
+    },
+    "rating": 3.8,
+    "reference": "ChIJYTXWNKD1K4gRzlSVpbqyflI",
+    "scope": "GOOGLE",
+    "types": [
+      "electronics_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 9,
+    "vicinity": "94 Bridgeport Road East Unit #115, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4703381,
+        "lng": -80.5158871
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47151743029149,
+          "lng": -80.5145939697085
+        },
+        "southwest": {
+          "lat": 43.46881946970849,
+          "lng": -80.5172919302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Walmart Supercentre",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112482415753734225075\">Chung Hsien Lee (Jason)</a>"
+        ],
+        "photo_reference": "AeeoHcLIqJHszjoKNAgmE0wwJ2LSRS8BxlR_qBiaKvmaEfpqjQB7T3eLvJ5rraXAbxGTcEScdrqz2zTSJvzM3wwb4clpqUpb_PToPiwSYRmlkiqw8ww5ZNmX1weGGfw7huWpACJzH7itZKzqcZsSzuf0Q8S1owKdrs1C-pEesU4485blAUc9m-33WFuGxsik0dPVrWTVNjhEd9ZvXyQwoWf3uMvN_igk66Mx1074oBwMJ7I6qbaVEt2EXBywVhXn7XydwLoVtBBdo7OdzzdDZI6QF_olfrMylBh3iXnUFOSuS7Aw6hVIkY_l5bCRlDInek7zPZEsgknVVPQAgXiCOV83YhQxCHPJJ_ICQur2ec08TwH8M8ZkgjQn7h3wG4bFZGOzBZ6gRQ8S2lKPJ1G-d6n59qi8fWRrjY3H-_oi1IjJikZq_lqO01Pjos_772Eehp5TBT3LRXY5qT8Ff0uXw2fYTxauKUaUD1hxgcG8JyeuI7RRmFTWQ4zjfmNKKO3fBEi_P1-XjuiCObi013TJvbZ9UBViWCzXqnJKsxbCSdCRXFYfS6wB9Fr7umMp1FfXcqfMgUjWjvGa-dLScARS1syUtVX23bU2jECPESqnZWHNtXl3o52VM9ImTOEE5QJKvHzht9KpUA",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJre-ZhTz1K4gR3C9ez41TQeQ",
+    "plus_code": {
+      "compound_code": "FFCM+4J Waterloo, ON, Canada",
+      "global_code": "86MXFFCM+4J"
+    },
+    "rating": 3.2,
+    "reference": "ChIJre-ZhTz1K4gR3C9ez41TQeQ",
+    "scope": "GOOGLE",
+    "types": [
+      "department_store",
+      "supermarket",
+      "grocery_or_supermarket",
+      "electronics_store",
+      "clothing_store",
+      "furniture_store",
+      "home_goods_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 739,
+    "vicinity": "70 Bridgeport Road East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4711372,
+        "lng": -80.52793729999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47254808029149,
+          "lng": -80.5266313197085
+        },
+        "southwest": {
+          "lat": 43.4698501197085,
+          "lng": -80.5293292802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Console Zone",
+    "place_id": "ChIJwZIa91H1K4gRXsnNTaGTtWw",
+    "plus_code": {
+      "compound_code": "FFCC+FR Waterloo, ON, Canada",
+      "global_code": "86MXFFCC+FR"
+    },
+    "reference": "ChIJwZIa91H1K4gRXsnNTaGTtWw",
+    "scope": "GOOGLE",
+    "types": [
+      "electronics_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "68 Ezra Avenue, Waterloo"
+  }
+]

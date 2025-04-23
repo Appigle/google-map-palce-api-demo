@@ -1,0 +1,2749 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4311111,
+        "lng": -80.4383333
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.43245528029151,
+          "lng": -80.4370890197085
+        },
+        "southwest": {
+          "lat": 43.42975731970851,
+          "lng": -80.43978698029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "Weber Inn Kitchener",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105667848389916392432\">Anthony Kissoon</a>"
+        ],
+        "photo_reference": "AeeoHcLblhDgJbjftl1Qq8KW-VcnOTDKXDj3n8am_r7JuQUtKaEfs9HznfM9kfJKS1yVGZiMerOovslrVg_E97nQdhXOw-j4UtYfkMJf_WNy6KaC8K6pfPq6xgL6Z8oZRwd3UMwjCPBMAlGOHD_CJPmdVoQSysrQu_eTOvEFcLTHmFDDpnP8VsINHc5qryufoGUUIsn9xsmiIqXd-7ovWKzG4l6j_bBBIh3FETYINhjLi7yEUhl-IX4VhJIHlPShjDF5a1LwR2g1zmuy7sIM_DtR5gmfFZGDJ2GHxuqQYLD69CBWAtK-xR6AiHL2BThhbLE-Y6UVBw660p_EXbgNLqrh9tennmtb6Or3J6ULIe56surbdLcWh3qqP2ORzVqowptkvVIfKwTnFzEHsAXwHnUp6wcCYcDtgb04rhnh0sf7sg5lEsFBDULZHo3fBAydmcRWQP-icBuphE7DbQjlAmKhfIm8pBfXsVGxtbVx7_qfUTKHzdZgk7sCvJwCIpc1waQkZ9hQrZs9LOf5tb-VNLsY5Hvk7H1wCkfYdMPWM7FfqPffhCJRPGqpcFZryWp2hqsxKDNtkG28n0Jma-1ekByhSAaZ7ca2I7f9csqA2PJwB4u8lP_P0XYmWEFDwd3K_HsaWkRiFA",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJfe1yLyeLK4gRRPdabmluQLg",
+    "plus_code": {
+      "compound_code": "CHJ6+CM Kitchener, ON, Canada",
+      "global_code": "86MXCHJ6+CM"
+    },
+    "rating": 2.7,
+    "reference": "ChIJfe1yLyeLK4gRRPdabmluQLg",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 291,
+    "vicinity": "1455 Weber Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4496232,
+        "lng": -80.4893635
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4508958802915,
+          "lng": -80.48808836970849
+        },
+        "southwest": {
+          "lat": 43.44819791970851,
+          "lng": -80.4907863302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "The Walper Hotel - JDV by Hyatt",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1365,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108481344283701681743\">The Walper Hotel - JDV by Hyatt</a>"
+        ],
+        "photo_reference": "AeeoHcLe_LIjT6CLebhOGtpW--ipicQu_pATPTa-d5-w8C5tyFaoU7SS7D8Wr1Lo8G7sHJ3h9-bpBHx7pZwhS71lq1hcXAyipf6ZOn3aVBEb4I3VMO_gJk0A-T31bNSRp8RVEm1g-qefGADaRoNtNVyIRs1QGLiAIWjUT5L0wkavvDeJDkEjs4WpQJcIsCO7oKyT5zABVsUZqHIC46BNgmBw8zM4GaFN0zewqJXD8OgFjU2AqHfnJESx9x2uoWimFylKZqoC3jRE5j4K5mwuir5aOecFW3y2VLbQhjQtvDnvAne1LAMpx9tH0xPyP-aMZaYrwEw7ilmEoUs",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJbcfKifL0K4gR-wHjEF3uXB0",
+    "plus_code": {
+      "compound_code": "CGX6+R7 Kitchener, ON, Canada",
+      "global_code": "86MXCGX6+R7"
+    },
+    "rating": 4.4,
+    "reference": "ChIJbcfKifL0K4gR-wHjEF3uXB0",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1289,
+    "vicinity": "20 Queen Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5091027,
+        "lng": -80.5562973
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5104029802915,
+          "lng": -80.5548614197085
+        },
+        "southwest": {
+          "lat": 43.5077050197085,
+          "lng": -80.55755938029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "Holiday Inn Express & Suites Waterloo - St. Jacobs Area by IHG",
+    "photos": [
+      {
+        "height": 1152,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107328462265270593680\">Holiday Inn Express &amp; Suites Waterloo - St. Jacobs Area by IHG</a>"
+        ],
+        "photo_reference": "AeeoHcI7FuEo2a4mj3g_jzTv0i7M7kS1pvBQxufda0YT-PbYai5PJEzxT2lNkWNPMRPNaPoAkOuaxIfZ0DNMQ4wO89aOgMoCjnZFxBfd90QHlKpHStIM9kLjFnwldF2nphPoc2JyL_uZoNu15CJM91jAf3qtyzOYVkfJSjyHvYpEg1o6WzzLnvQljmqnlPp3i_4UNRplyNOzkAbMKHioBI9XSv5hVR1biLzyD88Z7AB_D389mNIpNK1FaXtHFukmNAlTxnJsYWocgtv4ZrYhDphYp_Mpjl7uIRVehF9myq2uBbgGCu8MMPuJLSeutx_O2uTpwUuMquksUnw",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJY97CmHDxK4gRVr7XfX7H26w",
+    "plus_code": {
+      "compound_code": "GC5V+JF Waterloo, ON, Canada",
+      "global_code": "86MXGC5V+JF"
+    },
+    "rating": 4,
+    "reference": "ChIJY97CmHDxK4gRVr7XfX7H26w",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 648,
+    "vicinity": "14 Benjamin Road, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44869120000001,
+        "lng": -80.4873382
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4501057802915,
+          "lng": -80.48624431970848
+        },
+        "southwest": {
+          "lat": 43.4474078197085,
+          "lng": -80.4889422802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "Crowne Plaza Kitchener-Waterloo by IHG",
+    "photos": [
+      {
+        "height": 2533,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115945215059766050322\">Crowne Plaza Kitchener-Waterloo by IHG</a>"
+        ],
+        "photo_reference": "AeeoHcIM2gcAGoW4Id4aYhImX29X3Iy9cAhMqKO2Cyqcie-r8lbj64DOvk8h9iminTaBbHfYTabQ86cKvYCMflFs6qn5eE0nxFLIGcr5_kHtrdBpTbRP6L4tLEe25pV7i_9bYji0f8bGbanO0xWNTGbKkbQqt-ifj3b2t4YtH_qRxs6QM20kT-LbiK9p8EyR8AOFV7OlU5M9E_kRYbP-5bZPSaKF7Wh8kzeL_6bhwxQ5oLQQFX4QnxypnEBoQbugXEMTQSutW0p3qyPia4WzriK2guy9SZJ4QH9N64KnjZSNp3CEOSv6fLibjGvPSYy07vUJef8vmg6-",
+        "width": 3800
+      }
+    ],
+    "place_id": "ChIJ__fmi-30K4gRNgW5Hzez1F8",
+    "plus_code": {
+      "compound_code": "CGX7+F3 Kitchener, ON, Canada",
+      "global_code": "86MXCGX7+F3"
+    },
+    "rating": 3.9,
+    "reference": "ChIJ__fmi-30K4gRNgW5Hzez1F8",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1913,
+    "vicinity": "105 King Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5064898,
+        "lng": -80.5552836
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5080069802915,
+          "lng": -80.55365011970851
+        },
+        "southwest": {
+          "lat": 43.50530901970851,
+          "lng": -80.55634808029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "Courtyard Waterloo St. Jacobs",
+    "photos": [
+      {
+        "height": 320,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108024970416906411173\">Courtyard Waterloo St. Jacobs</a>"
+        ],
+        "photo_reference": "AeeoHcKkNgkqi2-znYt0uVeEuX-y0dQRO3cdtyz1wfrJPgOotfETtBefGCM3wrnOluoMdpAxQ2DpLVvoTy5E3yDJ2mGKiCwFU8vAPey0coKIHX5zh9wx7rV2JnAoxB_A4-IrpL11SrL-zKLnBaqAQWeHRz3pLMTdhrY2AtPq-Qnh3Gp9oGcAbp9x03NLG9BnaQQZSj03so2zP80Zly0C4gsQ-I24BUNMvL1JHAq_9ftgUzF_AyQCDDJbBUlf8kpvrHpPCXFUunGMI1ONHGnJq4L1I7mdYrfchvazuINSQJx0AIRqqYDMXMRtO-Nu1DWcR2B485IfVgyqGL0",
+        "width": 569
+      }
+    ],
+    "place_id": "ChIJYYRqn3rxK4gRckjUNlrXdEI",
+    "plus_code": {
+      "compound_code": "GC4V+HV Waterloo, ON, Canada",
+      "global_code": "86MXGC4V+HV"
+    },
+    "rating": 4.2,
+    "reference": "ChIJYYRqn3rxK4gRckjUNlrXdEI",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 931,
+    "vicinity": "50 Benjamin Road, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4745585,
+        "lng": -80.5241394
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47598798029149,
+          "lng": -80.5228476197085
+        },
+        "southwest": {
+          "lat": 43.4732900197085,
+          "lng": -80.5255455802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Hotel Laurier - King Street Residence",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 430,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117966454329366745675\">Hotel Laurier - King Street Residence</a>"
+        ],
+        "photo_reference": "AeeoHcK3R7jMptWSIBrfl-UV5dEkVhjPDJtfKPa2KFdyFKYsASMyJVnXPxN3AuGGV5WhTYjMHMVYtBcOwPStaAJpwISBSvyKbPlVqszfLOiyk8hIDaT4OqkLvo0FhcSvBnwXlD7jIFNEuJxMJfbjV8KDXvXYVy8nPMeZSH7dBV2Oa3474BvN39FYSSYNxNKDb2sgSGrFGUxxvzCCmwQTxqj_rJbBGz0hZcS4c0EzcH3KbyVQH0i20auL7aH7XHRV2PzrCLhOpKQsE-uU37OrKbs2YsLC8dYQcnZHRUMDwJTpJSx7t8yScf0IBwo_aJ-mcMwbzo_gIRMxm6M",
+        "width": 890
+      }
+    ],
+    "place_id": "ChIJqRw-fgr0K4gREtfCsZX4s60",
+    "plus_code": {
+      "compound_code": "FFFG+R8 Waterloo, ON, Canada",
+      "global_code": "86MXFFFG+R8"
+    },
+    "rating": 3.8,
+    "reference": "ChIJqRw-fgr0K4gREtfCsZX4s60",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 42,
+    "vicinity": "200 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4287341,
+        "lng": -80.434477
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.43011553029149,
+          "lng": -80.4332446197085
+        },
+        "southwest": {
+          "lat": 43.4274175697085,
+          "lng": -80.43594258029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "Fairway Inn & Suites",
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113883520589450403749\">Christina Nemeth</a>"
+        ],
+        "photo_reference": "AeeoHcI749uLY1ua22EuO5AoIuaqb4Ol7ProSZOgWoWNbUep_mXQ4H5G1SoLyP4EDpmtGGGTPih9dngRDDj3j1qF4cp0UYd8KrSxDzya6vVN6nnPd_bjKaE_9xJip0HxeuXr0PAByVdmKZWtsEVaQbBmWWKwVBeFmKk2IMHk4XE3OwWMJsjq7DOzsIj5feYLaRLS_N4g-XKH5RFGVTYQLgt_VJsPvgq8zAyB7QbJFctWMAs50MLeuUmcqKQFrmxoeNYmccR44_2JtC-LGc91EC5twXFlmNWEBjwFLiF3_82vSdC561KBCak2JbN3uxtfSi0xoeD3jzfw6LujS1SIA7yxyO2ZKnBFuv521kCo6eL35RW8FIT-TmE-5_9d_9Pn025LWWj2qJEwf_NAgLiqOp3BEkrJeyRVgOdqGlOX6UewfdL62NwOUE9MXGxyAnpvW-TkgU9rBnqxENWpxAu8mYlwZQou5Jr6MPkjvWmXnbfEH_64_bKt1kRtuDJ-CzTNB226oFMRx9hmntiAtpZVY-PqH_RukD8AAI_y7hJ8LfacOlk8gz85Bga_s3s-00C590MGt5HBajFTx7RjOlXG1tcknGa2Wi_MCkHtKOg-vLjuIGck6oq2xx2UX7lNa9_mB3T5pgCR5Q",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJW8UAbyCLK4gRKWkaIlWzzPI",
+    "plus_code": {
+      "compound_code": "CHH8+F6 Kitchener, ON, Canada",
+      "global_code": "86MXCHH8+F6"
+    },
+    "rating": 2.9,
+    "reference": "ChIJW8UAbyCLK4gRKWkaIlWzzPI",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 196,
+    "vicinity": "2933 King Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4717559,
+        "lng": -80.44018799999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4731015802915,
+          "lng": -80.4389285697085
+        },
+        "southwest": {
+          "lat": 43.4704036197085,
+          "lng": -80.4416265302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "Kitchener Motel",
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111151928515105588744\">Kitchener Motel</a>"
+        ],
+        "photo_reference": "AeeoHcLM4iOnUX2Yvq5nIBPH_m4NAgGOoU44yHBxti4nXjwpqVbhdHv2GD_G5sDOWVOOS3iWNnn3s_-N-uxHvtnDZdrfdGJRo0h_XjGlnqxiK0NupZ0LDW1_L6u2w8paekafDDvwVmw_gXH5tX2ONOBvFfsD8KEL1qow4CzCyOSDBEnva5nll9zLE6H7dY81N_LA9quObcGwk25WfakGUv3sTPUrurQtUjlEzRfAcPkYuV9wc9eLdr284duRYaTydChtBoI-VQ3aFaJBBA-UYNIJ80GrqMWUztvY5h6mgvEqWrhIz96c0qinci-uG62oJSykU-fijQ7tiSA",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJn5N4gqaMK4gR7vz9rXZhRGQ",
+    "plus_code": {
+      "compound_code": "FHC5+PW Kitchener, ON, Canada",
+      "global_code": "86MXFHC5+PW"
+    },
+    "rating": 3.5,
+    "reference": "ChIJn5N4gqaMK4gR7vz9rXZhRGQ",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 174,
+    "vicinity": "1485 Victoria Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4633637,
+        "lng": -80.52844859999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46479488029149,
+          "lng": -80.52682131970849
+        },
+        "southwest": {
+          "lat": 43.4620969197085,
+          "lng": -80.52951928029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "Delta Hotels Waterloo",
+    "photos": [
+      {
+        "height": 810,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102742438568736832463\">Delta Hotels Waterloo</a>"
+        ],
+        "photo_reference": "AeeoHcI-H2r-jFDLa-ZrS-T68vePyqOWjunEwLLNZkBfYDiBJXTg69qnp9b0DdhpArkBjpNLCep9yjAtwYew5NrbINQtlURQgHGevUP3k3kDBIyawO3U183ZtS7yhwlcGYJeP6lBFjci5DklNcdwE4yeqd4Lm4xTODcLKb_UJE9mAtpnZOUn00aBd8uuFOtx7JDZ4hBRoOJMRWmp2qQWGPK67TIeOOGgcDFYc5HXi7JGdotBtgSSGi5kiBRxvsj9tfJI1CCkLlOYbW-4SkeHRvyVigXGd0syA9Qr7tEoWkD6a0rhE3NG0fZqt4kBR021P5SBXOnxkG6NaNQ",
+        "width": 1440
+      }
+    ],
+    "place_id": "ChIJR2J5oRH0K4gRw2u4mY3VDlQ",
+    "plus_code": {
+      "compound_code": "FF7C+8J Waterloo, ON, Canada",
+      "global_code": "86MXFF7C+8J"
+    },
+    "rating": 4.4,
+    "reference": "ChIJR2J5oRH0K4gRw2u4mY3VDlQ",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1688,
+    "vicinity": "110 Erb Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4735004,
+        "lng": -80.4500826
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4751583302915,
+          "lng": -80.44931665000001
+        },
+        "southwest": {
+          "lat": 43.4724603697085,
+          "lng": -80.45238044999999
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Bingemans",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2656,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108908011889920527735\">Bingemans Camping Resort</a>"
+        ],
+        "photo_reference": "AeeoHcK3l9INnUfU2twXRtoldTmkJQqPfwrMPUiJ03_BQAOWdiOZZmBqQKVvEMMQdYD70msyjLY_95ifhaN_tL6JiN-IsmMzB6h3w87b29MsGOC49GDgCvzy18xPtvf-mga4H2wIiAlN3hyy9iEwBD_xqcsJVJa9VPpdMvpnEvnwvbD-NLY1ePx0K6gG-Bzk-YzDr5QXI-OsQW68-74z23WuGeWVAQZT5V-biX6lYgr9nD1c-5eRJHnPbnUNdscmAigKNPx9tWc1Sa44r5P6ZJcd7fbDWBXROAtm_PncXaGZaJQjMtOpUheFN6llVWaFDXVtUtRLiT1AOb0",
+        "width": 4360
+      }
+    ],
+    "place_id": "ChIJ1V_snq6MK4gRA8suIZwOe_4",
+    "plus_code": {
+      "compound_code": "FGFX+CX Kitchener, ON, Canada",
+      "global_code": "86MXFGFX+CX"
+    },
+    "rating": 4.1,
+    "reference": "ChIJ1V_snq6MK4gRA8suIZwOe_4",
+    "scope": "GOOGLE",
+    "types": [
+      "campground",
+      "amusement_park",
+      "movie_theater",
+      "bowling_alley",
+      "park",
+      "lodging",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6106,
+    "vicinity": "425 Bingemans Centre Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46964849999999,
+        "lng": -80.51767939999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4708504802915,
+          "lng": -80.5162409197085
+        },
+        "southwest": {
+          "lat": 43.4681525197085,
+          "lng": -80.51893888029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "Uptown Waterloo Furnished Rooms",
+    "place_id": "ChIJqYBDbHT0K4gRgzX1mOkBmco",
+    "plus_code": {
+      "compound_code": "FF9J+VW Waterloo, ON, Canada",
+      "global_code": "86MXFF9J+VW"
+    },
+    "rating": 4.5,
+    "reference": "ChIJqYBDbHT0K4gRgzX1mOkBmco",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "58 Bridgeport Road East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.50757120000001,
+        "lng": -80.5540348
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5088225302915,
+          "lng": -80.5527849697085
+        },
+        "southwest": {
+          "lat": 43.5061245697085,
+          "lng": -80.5554829302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "Homewood Suites by Hilton Waterloo/St. Jacobs, Ontario, Canada",
+    "photos": [
+      {
+        "height": 682,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116097857146179644555\">Homewood Suites by Hilton Waterloo/St. Jacobs, Ontario, Canada</a>"
+        ],
+        "photo_reference": "AeeoHcIn3IMWNu4o8ZBEsDB3fnkvs94L4PwCiCQSt1DxdlrqCsXGU5mbU7jxnHKkqAAhiWzwAeNE_SiBhSk2hCBdCW4OoQ1GFVHvqx5QqnH_bcKTAqw2FZ8YoTiNdf-fPmAR472ML3vwaAmiVGWSYwcgpLUE_dcL7cAiChfsMS7c0Q_-EwILW5yGq9Du-1pbtAuKyXw5ueeLPzdWksz7roQxqfi80jDGlwMWqHswj0E1IyloyKvgm3jG9KOicaJu7gjZ6wNxRRPZ2aYVBklKrplxqHEX00uiX9SQJTDl3nF3DYt1jWNCFYWOIQpC7UjuycLZDuQqRJwn7eQ",
+        "width": 1023
+      }
+    ],
+    "place_id": "ChIJKUQtiXrxK4gRFK9a82Mj4Ck",
+    "plus_code": {
+      "compound_code": "GC5W+29 Waterloo, ON, Canada",
+      "global_code": "86MXGC5W+29"
+    },
+    "rating": 4.4,
+    "reference": "ChIJKUQtiXrxK4gRFK9a82Mj4Ck",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 920,
+    "vicinity": "45 Benjamin Road, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4535832,
+        "lng": -80.5834287
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45493938029149,
+          "lng": -80.58197286970851
+        },
+        "southwest": {
+          "lat": 43.4522414197085,
+          "lng": -80.58467083029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Envisionmatrix Solar",
+    "photos": [
+      {
+        "height": 1712,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102277746318266599157\">Envisionmatrix Solar</a>"
+        ],
+        "photo_reference": "AeeoHcLZxNhrr-FjJTojwklG08guEPAMTKbZQczcfMX1Qb9l5tdZrbCA_w4SugMDKSzOdmxJi6BeBGl-5r-rlLnFqEYt1jfrkFtZHlFsbVdo-SQltcWl1QEKmbpYlZR4yTscNy60vK5ZG7cCS-HWEF0P6fx1qT8QCtoVVvmg8Z1DcNJvh4S1mRcOVvvWY016ZxXQBhj-v5H-BbUrO3izSdwELejO3XNHq--aIq-CENboQj0idNbkq2ac8Mbk_uyCO2cZES5jjTyIyY59oSrpJpqMgUUWucTfpTkNl1ESeLvSwVbn-ryDOORchOUM0Wn2NXbdfMBC_M5UcLc",
+        "width": 2288
+      }
+    ],
+    "place_id": "ChIJFer_3hXxK4gR6MiGoktBVag",
+    "plus_code": {
+      "compound_code": "FC38+CJ Waterloo, ON, Canada",
+      "global_code": "86MXFC38+CJ"
+    },
+    "rating": 4.8,
+    "reference": "ChIJFer_3hXxK4gR6MiGoktBVag",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 25,
+    "vicinity": "638 Interlaken Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4723522,
+        "lng": -80.5360449
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4736914302915,
+          "lng": -80.53450591970848
+        },
+        "southwest": {
+          "lat": 43.4709934697085,
+          "lng": -80.5372038802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Accommod8u",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2136,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100913885761569017324\">Accommod8u</a>"
+        ],
+        "photo_reference": "AeeoHcJ_pA_BjaDDPx9xFDvdb2Vy183F-lI53xtyUH_PKVtcuK6Nsf8XE88QlXnWb4aFThfKg544AvUK55zG7ij-UQyc1VtLiDiFjDDd5UE1VQE5wEfysOJ-4JEy-5weZ5XKxYAWzFKm_uRIncVOtLz1j35EEJTr7MsdHLV6vdo4iqgUw02w3gF9dw8gCDcmFnSvB9bU7YezAPnf5bxoQk36djF3S9omhHyoE3F97fqDQ1aYfav7Vg4ZzIOnPRhpDc_KL3yIIy3Jk_E5B-kb3iCDegB3YXF1DEdOkhyt9fSfO6Z3uv5vSoShEoeYd20MY7e7X4ZtDJsI2CA",
+        "width": 3456
+      }
+    ],
+    "place_id": "ChIJjxSY-wb0K4gRhCn7BfxzYlY",
+    "plus_code": {
+      "compound_code": "FFC7+WH Waterloo, ON, Canada",
+      "global_code": "86MXFFC7+WH"
+    },
+    "rating": 2.5,
+    "reference": "ChIJjxSY-wb0K4gRhCn7BfxzYlY",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "finance",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1008,
+    "vicinity": "150 University Avenue West #4, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4702515,
+        "lng": -80.5539937
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47152388029149,
+          "lng": -80.5525186197085
+        },
+        "southwest": {
+          "lat": 43.46882591970849,
+          "lng": -80.5552165802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "University of Waterloo Summer Accommodation",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114081929372611116186\">University of Waterloo Summer Accommodation</a>"
+        ],
+        "photo_reference": "AeeoHcL_IWYfJkoF8cAFZhJL6ad2udPhwfJ87MCN8uFPGTaXkm-A1DVR65SgTFa_ik4q86_8HNdIEfLjNNcNGtvrH05m_pDFFTZE28PojUkdJ--5biYGHyZbTXAAcICGIMAddAx95DPoSjaG7WbMMuwJSdTFjtPtbK3gNA2shqax0PtfybL02XGs7Aj60WgML4LiTaCuiWjbiV1_s5Hqry8ULXlp1eMkPTY_EA5K-fWbwKsvfbO1m7YTl2mM2qAd0o2h5bZKPFrIHaQk4iX-9Liuv69BVDH6SivgTl2wX76WUepbdQODaab_-WTzVVtNKzl0Fu4kgbczye8",
+        "width": 3008
+      }
+    ],
+    "place_id": "ChIJ15fJO672K4gRMgs0gIlCDqM",
+    "plus_code": {
+      "compound_code": "FCCW+4C Waterloo, ON, Canada",
+      "global_code": "86MXFCCW+4C"
+    },
+    "rating": 3.7,
+    "reference": "ChIJ15fJO672K4gRMgs0gIlCDqM",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 68,
+    "vicinity": "Ron Eydt Village, 200 University Avenue West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.499122,
+        "lng": -80.53174589999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5003794302915,
+          "lng": -80.53009111970847
+        },
+        "southwest": {
+          "lat": 43.4976814697085,
+          "lng": -80.5327890802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "Waterloo Suites Hotel",
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101796861450595894540\">Waterloo</a>"
+        ],
+        "photo_reference": "AeeoHcKYuNioPG5W_GtmqCWwVGGEwoQA8yWSxm7KK63x5jPjZaqB60QaaQCBQwfbotQWq2Ib7HsYfHOfCkig77oAPEnHnRmyVIr0xjjihqvswC3Hn0gIZKzWlGHWhcaSX2Zi_-z7E6TeTqdZVLNgVfZ0F26HTuWen4sNAUUbMiKJGpW3qJJBzMfF5PWULEDABd54u9HuC_Vy-ECCXsgxERUQhFBVR0r82BZErX-lbGUlSErg_5pWiyl1kbkbXC-KC8n1OOZOkEtoxBO728TzPtphBPdUVVUi6Ul-Y8HGHvQBejBVA22h00qmipyxeVnUrMefKnIfzvwN__w",
+        "width": 5184
+      }
+    ],
+    "place_id": "ChIJTWL2pMTzK4gRN-3b3dzfBXs",
+    "plus_code": {
+      "compound_code": "FFX9+J8 Waterloo, ON, Canada",
+      "global_code": "86MXFFX9+J8"
+    },
+    "rating": 3.8,
+    "reference": "ChIJTWL2pMTzK4gRN-3b3dzfBXs",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 538,
+    "vicinity": "547 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.43795980000001,
+        "lng": -80.55625069999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4392463302915,
+          "lng": -80.55485911970848
+        },
+        "southwest": {
+          "lat": 43.4365483697085,
+          "lng": -80.5575570802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Premiere Suites",
+    "photos": [
+      {
+        "height": 700,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113703699068848242634\">Premiere Suites</a>"
+        ],
+        "photo_reference": "AeeoHcK9nvEvuB4Xf21UgDNeOADSlPEAVwvyX5rm32TUPCsLamufrEJLhSBGCu1sT4ejwaOpS2TztKAZMvN-RvHsDaKV0l6glcR_m1G5i8gfyY-RQ5mW18-z_-fmyvaikfNZLRg3j503Lb6OJU4HcX-xKpMUR6BMWnyK0IK8a6fcA_x8mKeIjCTDbNeiq910WsNSygY8b_Sj6lIt5aTrIxUmcqar7-dzUwUMJjqEU2w6-9rnwk9uhPR4H-E9czhLHh2c_PNopU3LV2-qLBjtJ7YG0mulDelNg0jyv89L_qUB_qc1CfMrrDLHVNDJK4CEYx5eGAm1-c4LuiM",
+        "width": 1100
+      }
+    ],
+    "place_id": "ChIJS2Mc6Kr0K4gRQ70Ip3Xu8tI",
+    "plus_code": {
+      "compound_code": "CCQV+5F Kitchener, ON, Canada",
+      "global_code": "86MXCCQV+5F"
+    },
+    "reference": "ChIJS2Mc6Kr0K4gRQ70Ip3Xu8tI",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Iron Gate Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5010418,
+        "lng": -80.5071584
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.50247093029151,
+          "lng": -80.50566526970849
+        },
+        "southwest": {
+          "lat": 43.49977296970851,
+          "lng": -80.50836323029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "Colonial Creekside Grand Guest House",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4618,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110047616187966854020\">Colonial Creekside Grand Guest House</a>"
+        ],
+        "photo_reference": "AeeoHcIKWyxjufwuBkJ5xjEdacLEWCZVw1wyUvB36KJSFlEK8ZcOjJzZ7dLRsNr1MzTTDVjzwbvou9IHJB8LhNhuyjryg7Gse5UMtczD01M1TB9QBgHocV4ALUnxZhTfQEdH3KS7QOv6rEQ0FBtFIuFtcRYmKqOmdlMiJJZ3y-fWCfq1y6Rg3Lq-Mdumi3TwMH6Jk6SCchfrH3JMTuryCVxoFP4EGFA6BBJaqOwH7MfLL_piyxcUACWW2LwbBWRmcB5PV3B7tGbKZL4VoW5_s7jpZktNZeztGxcSQNBgZq4z50ooTynQtu-vXopAMNpLrbEtMSIgGY7qWZ8",
+        "width": 3464
+      }
+    ],
+    "place_id": "ChIJ2VLQiKXzK4gRA-uEiYHaiCE",
+    "plus_code": {
+      "compound_code": "GF2V+C4 Waterloo, ON, Canada",
+      "global_code": "86MXGF2V+C4"
+    },
+    "rating": 5,
+    "reference": "ChIJ2VLQiKXzK4gRA-uEiYHaiCE",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 22,
+    "vicinity": "485 Bridge Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5387004,
+        "lng": -80.55570449999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.54015083029149,
+          "lng": -80.5543387697085
+        },
+        "southwest": {
+          "lat": 43.5374528697085,
+          "lng": -80.5570367302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "Baumann Haus Bed & Breakfast",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103918674631195848521\">Susan Rasmussen</a>"
+        ],
+        "photo_reference": "AeeoHcICidBFmbvx17TGFJyA7aOzGgxlU92qil3SMc3iHm73Fmw4dlpT9AGHQRdmNP39RqUMND-TjpqjE29rPQ2j0m6338hQreJvujU4nW6btC0v8OkP2TrX4XcPHmcvAKCDKmlbhVeZo5D9R11jLIUd1b6eV6NnYR_-kwKXNQCoTHGKyvRtjHyAED-7F-PgrFgfMX1zmAw4T5VC_4YkTxV7GBpcsuybsaJH7Tz7byXHg63paAbobfAiB1uC6ajFTvB4RWEgT-4Z3noxg07H2PxykPDnk2Z95syZTL8ZjWpkKOiXUobZSQU5KS85hu2s37EbxdsVvqg9i-Dq_KxDOEc88NSeJJcIPMyK9wBaIMaF2SH_t32ov9Lg5pOPvlZG31za9VNMe9PKzcDR2K9Uol9h4_OsuCir6C_MEc-UFl1MoAg_a2PY7vzvw7zgKoBZ1-3KO8cVWRkpDhyx8ImBhA8zkxQalyI_JhumitSEGs92XGwy1b7DVrWqvZXLaXOLeTukUQld3xYJf1TjPGBfvVTciiXaM-hXtRuwfc2G5z7phrWTeHfw4YMMr0fUxGr6L03ur956gORUmN2uLkCCSG9drpJPdh-cl-bvo6ulsUcvikMNpH20qArsP9xyxuxPhnJIUainCA",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJFYjp_O3xK4gRjAcncm8X0cc",
+    "plus_code": {
+      "compound_code": "GCQV+FP St. Jacobs, ON, Canada",
+      "global_code": "86MXGCQV+FP"
+    },
+    "rating": 4.6,
+    "reference": "ChIJFYjp_O3xK4gRjAcncm8X0cc",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 15,
+    "vicinity": "25 Spring Street, St. Jacobs"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5410451,
+        "lng": -80.5015293
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.54233883029149,
+          "lng": -80.5001894697085
+        },
+        "southwest": {
+          "lat": 43.53964086970849,
+          "lng": -80.50288743029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "1842 Bed & Breakfast",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2592,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116121660556929132562\">1842 Bed &amp; Breakfast</a>"
+        ],
+        "photo_reference": "AeeoHcL9mNUKVrcAg1SZ7nB1Rp0zQsg6g8gejPZzbqZlBIrj9XGs1gqqkGRjl8LkJ0KsrLJf9NSwXE_OAacNodC91xTd1a-M6FHe21tZk7R7gAEg9cju4UbJAGAe1fcCmQvAcMBN8o6Kz37cxVdy7AogckFdXDSxtt2X4q4CZZReCm1F22liVc1h3eshCvutiK7G6SDuRkUtiw9ruOHmaQnYirZ66XNRIttvzM8kDtcD1ApVCZA26lRavs6ZV0tYB9IOmslcbi_xca5dPd3ktEq4ALVuu3BYaBIgt-p6B8rPn5PhbABtCMbUR9A2kK-lGmn7Evs_RqwGR8o",
+        "width": 3888
+      }
+    ],
+    "place_id": "ChIJAcGTBX3yK4gRNbshsv0HR7M",
+    "plus_code": {
+      "compound_code": "GFRX+C9 Conestogo, ON, Canada",
+      "global_code": "86MXGFRX+C9"
+    },
+    "rating": 4.8,
+    "reference": "ChIJAcGTBX3yK4gRNbshsv0HR7M",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 32,
+    "vicinity": "1842 Sawmill Road, Conestogo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4670735,
+        "lng": -80.4534496
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46849668029149,
+          "lng": -80.45196686970849
+        },
+        "southwest": {
+          "lat": 43.46579871970849,
+          "lng": -80.4546648302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "Mayflower Motel",
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118141292848437638476\">Marta Borowska</a>"
+        ],
+        "photo_reference": "AeeoHcKr8mVbpns77z-LSUwQiIVF0Lu1eucwzCH60GCysWbkAtGpM1150jLpJHOYQnN2V87SLNdPLkqopRLoPGpGukAcqG_Re431gsRp3zKJjr9cPnQEfMn72fWaGyVA-xbAXqi1DbssWP5m900fUCd0tMKg_cz5OYZb20sVxhM4hMCWIA4Fkjxn_29sy9WmVH8XZGlhCNoH8YOgtZpz8k3dTAIGQVqnw1bJeJvRhBPnhPTzcByPIiBzbwYpyrXf-8i9UzgJMLaS7a2S393P0nPdpqVrRURqkmjKapqoXZ5fuVJ79zSvtVRQLJQUHN3u6t2A2hUCFSWmIN-zrhcKJW9_aM4xJETjqtuLGt3xtdH6cuMHm9qrXGiY6j3MgPpcOqkdjC8Uj80Cgb-EoQ-ldsDDTPFZ0-vvAJ3QLbnvedDZKekNJWhJmkkLW_hBMF9gcXOS8k4zabHyjhNkKttDYf7zmetvcn7H2NSrFAtISmg4rGmR4qCWEXtitSnuN5fjk_EVBqjGCYB4qycytQ4CJ1rr0tKyiERvYfjSHwostbsgqtNwkQ0TmCuZLDrnABpBfEdZp7M00UJ22F5EoyRGcT7dfuRtji7s-FaIYpr73bZ4ZiH4SKyCRfEAyo9CdMv0wU7AiFAexe0z",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJxytVOVWLK4gRva5Cm983-9w",
+    "plus_code": {
+      "compound_code": "FG8W+RJ Kitchener, ON, Canada",
+      "global_code": "86MXFG8W+RJ"
+    },
+    "rating": 2.9,
+    "reference": "ChIJxytVOVWLK4gRva5Cm983-9w",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 154,
+    "vicinity": "1189 Victoria Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.3843407,
+        "lng": -80.5446504
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.38565983029151,
+          "lng": -80.54328291970849
+        },
+        "southwest": {
+          "lat": 43.38296186970851,
+          "lng": -80.54598088029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/camping-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/camping_pinlet",
+    "name": "Landings Campground",
+    "photos": [
+      {
+        "height": 9000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105596701821279576502\">Jeff Glaves</a>"
+        ],
+        "photo_reference": "AeeoHcICnivqp73jcEuHkI3CHtq4lQjPzzjYKWHJ8LVkbCfi9kpWkiDLzbB3y4teC7lYMdztT41MjBr_EPy53dXCaw68q6fLupdO4-lQ64imwOfHOspv1_aMINVGj3bQ2IRZgKFKJRsfL3TgnZUpz3ohnGlUIIeUWcK9sZF9f7aikOr7ScXAUq14rge--4qwBHsy1dOCjNT9LhFaH4OhfoTfkqjdIVOHT2rrSMa1ta2GEzjyaM8thOx-mJkmBQeeWpK0w_Lh8LpQIYVgrwHo_Rn3p30sKDsb-6LQPLXwYdM8XRXhduosznB-43EfBOWjca8FdEWORxeQoNGoqpCWSl_JiPS8-qVu4frz5rBQqppRbp7LTI3JwxOZYwx8S7dqDoxoAYazBNYSW37N3P0r2yVPDRaUl7-snYDgQcez2T-9vRzLIH7jG4ZGSCss2N8IMZv_M0vRBESE57dqXop9a_lif1CTNrFcKlAKumDW9nWVDTDV2TT1Q0WjSdkllIACxOZCia9WI8hqZNYAxJ0VQnIAKMI_DdaFV_qE-dsOuDrL9NGwNkSYilzB0EaMQW4oMRtT_e3T2oI1ddNVTR-VcHYa6yDEhBJ3thEjBwxw_Ys_6rpYyLzDsXjlRZ__cSBNP92Wfn1wJkY7",
+        "width": 12000
+      }
+    ],
+    "place_id": "ChIJn-A_c1EZWkARaSRUlQTP-08",
+    "plus_code": {
+      "compound_code": "9FM4+P4 Petersburg, ON, Canada",
+      "global_code": "86MX9FM4+P4"
+    },
+    "rating": 4.5,
+    "reference": "ChIJn-A_c1EZWkARaSRUlQTP-08",
+    "scope": "GOOGLE",
+    "types": [
+      "campground",
+      "rv_park",
+      "park",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 197,
+    "vicinity": "1073 Witmer Road, Petersburg"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4574715,
+        "lng": -80.4825757
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45888358029149,
+          "lng": -80.48137676970849
+        },
+        "southwest": {
+          "lat": 43.45618561970849,
+          "lng": -80.48407473029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "Green Gables Guest House",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 368,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107397969221272107103\">Green Gables Guest House</a>"
+        ],
+        "photo_reference": "AeeoHcLMVKs3A6gp2bURr__hCEfJam3vUiRL3Yo1B7y-ne3o4ExJqecudqpBddDK_SWJo63KVL6K9NZMh_ly0_fVLVSRE881kDyoq3Kc_kxuY4q4P18S6AS2-uK2jihrFy-odXmwMdgb6wdmw1kKQD5sSZWH97lL0bXH04EDDqNirJ3oHpk9DIBRcXGkP0naHmtkvS6vpmVGLuaMvkW9WWDqhynmAB06Gk1hoDirCoGrQuvpww28Og-WvTy4tAUkBU_G2yW-ItptFTVNXmpZ9xwxSjlxyJ99VDbPBW1-1C1jPv2EuJCmTTiW0pIkKHtgHU0yLhOUplNCBE8",
+        "width": 550
+      }
+    ],
+    "place_id": "ChIJPfx2y5b0K4gR53sRBMNO99c",
+    "plus_code": {
+      "compound_code": "FG48+XX Kitchener, ON, Canada",
+      "global_code": "86MXFG48+XX"
+    },
+    "rating": 4.8,
+    "reference": "ChIJPfx2y5b0K4gR53sRBMNO99c",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 19,
+    "vicinity": "189 Queen Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4304914,
+        "lng": -80.503817
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.43173348029149,
+          "lng": -80.50256561970848
+        },
+        "southwest": {
+          "lat": 43.4290355197085,
+          "lng": -80.5052635802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "Forest Hill Bed and Breakfast",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 980,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110967072300322326660\">Forest Hill Bed and Breakfast</a>"
+        ],
+        "photo_reference": "AeeoHcIvJsRq2PCqy5CB9U9y1IxmlB40KlsEXRkY9FrzQQKOBWNj21ZhP1FaNH-TKUtqCcC6s2EvrHeEzffJqJ5t_RlkE1kNyH9vgQCcCuIYtF_BEksN7nd4fSvaE-uXtNPRwX40ACas4n8A135Tv067RG9OaH7BW1oYwRme_6reofPiTdiYVW10oLU06vWV9E9OmcuLbSDEm4-3myeWEHTyX3p7FabTjW200mSMVbaZ_MtGQMvk1PZsRIZUy8If84Od9n90nWujIOQWzC_4j6P1qpwQhVCmBHJ2GkkYD5nrclD-ESDmWGt7AB23zeAk9_vVK0CjIbYUzZI",
+        "width": 2016
+      }
+    ],
+    "place_id": "ChIJ6ePW6Kv1K4gRV8bVnU9Ql7A",
+    "plus_code": {
+      "compound_code": "CFJW+5F Kitchener, ON, Canada",
+      "global_code": "86MXCFJW+5F"
+    },
+    "rating": 4.6,
+    "reference": "ChIJ6ePW6Kv1K4gRV8bVnU9Ql7A",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 102,
+    "vicinity": "78 Forest Hill Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4306853,
+        "lng": -80.4382692
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4320404302915,
+          "lng": -80.43693676970848
+        },
+        "southwest": {
+          "lat": 43.4293424697085,
+          "lng": -80.4396347302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "Sherwood Motel",
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117855474886450742692\">Aaron N</a>"
+        ],
+        "photo_reference": "AeeoHcILYNrwMdoQOKGBWWfah0nbyYBmSsNqdeJ17BCMROQjyv65bnQXd6SbscfnLHSC0ifZq-uGLDWL0TPK1TeWEhsMzEwwfCps_SAuBLExfs0HY9I1ZHWT2-wntZdQF-JIprIsN5YWZCbx8FrWa9Dg0s8yMNPZA9HCxcTjmIEa0V5cA1J5Ej9bQvCqGlsGQaznhYYrEUES_uoZH8KKFFwuaKmHcUm4moIA4REHYMOdIsMhrsYbyuZ1lWs4El1s5ZM6nDmSTN4zbWS4yv5icPqzMpxftflqtdFm9iQTM8j3anZGwaDLDNsc6AAODr_0b1XZnZ1aR6aE6DzLb2tsiiEkoDpWosJqs622bIPIv8DuqYBKR7FVFjd_MX4PI0OwaENdpkPFewa3QW8oSYH3gcIHW7XSliQUKeSna3CGNf8X-GHyxwUgDELfsGoDBrdklYEfo0XXU1YbEG_6uXq7yT5RD-OYZGRzK9iegvp6Dm89f2mu53D4MVji5aUw7-P-pW5UuB0KDCHm-8v9oEzp05uxa5qeN-2S1sddVkAbi8UlZrYQKSq5ic3oBn8fG3MHKmwyvcKzhYDZmP-kysV9yJJ4qG_hfIic_UFxPg4MjIQWlOJ1zYaGk_DFMuWjZPtw2788",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJQ4mjKiGLK4gRvhaSiF8FrYk",
+    "plus_code": {
+      "compound_code": "CHJ6+7M Kitchener, ON, Canada",
+      "global_code": "86MXCHJ6+7M"
+    },
+    "rating": 2.7,
+    "reference": "ChIJQ4mjKiGLK4gRvhaSiF8FrYk",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 76,
+    "vicinity": "2840 King Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4670125,
+        "lng": -80.4539709
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4685475802915,
+          "lng": -80.45273511970849
+        },
+        "southwest": {
+          "lat": 43.4658496197085,
+          "lng": -80.4554330802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "Victoria Motel",
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118141292848437638476\">Marta Borowska</a>"
+        ],
+        "photo_reference": "AeeoHcJxQSP_U5djogExTmt_lzNNMDWxhJc15blBjaZWP8Xxf5h6UId8ioboPaVECFseYptUnIeq54eTX61CYZHphpd1ga5XbOmhGrJ88ruWTDG3FdBMi-22n61EEM8Ro1RBfGGHggnkPWvRGT9hs8O9SVq22Qfu2ZTzpuLDia8kKFaLYlng_8cuNSiMzOi-_2YQ7pPXfZ_rG6fYCBRFaMuuboF5n9hOd0UcEUyo9MG9zn4kSkBGpgi7NWBRQCwk_vwVz9OfjywNJINmLR0EpofwVPmyyUtyK3stTzGcF0td-8mUM50YUbJcbmOYdI79T5uVF1smYZoGtQP9nNdFYb9GVFMo7YAn2yBQSqk-vSK7Qvyj9pBMUxAmy7tqtt9Tf1uoQrl4HAYbZWkZn0ZXY4wfTGoFnqIZTuuo8ZkxSTo1jAlTP-6G_kJrerYGSwPddiuZbhSvoZXw_hh7Ag9LHgKokOQOjQFnfc5l8Q8Hu0tKgaZJ8qe2bav6IyaXVKKKE9hIgXHDtUc-UHFDTOXUMj2Li8wpnc5VyKDuNKpb6L7Ioa6P8GE2IL2lzPCC_Eb1uCKNHf75cZBEwZhxpBBgM6RIkg2QrswZtbghgiYBXzOUklwxdsQ26Md-r5XQ0iZsbEJK",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJU4D8SlWLK4gR24HvgVsr2Es",
+    "plus_code": {
+      "compound_code": "FG8W+RC Kitchener, ON, Canada",
+      "global_code": "86MXFG8W+RC"
+    },
+    "rating": 2.4,
+    "reference": "ChIJU4D8SlWLK4gR24HvgVsr2Es",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 129,
+    "vicinity": "1175 Victoria Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.485512,
+        "lng": -80.589759
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4868214802915,
+          "lng": -80.5884677697085
+        },
+        "southwest": {
+          "lat": 43.4841235197085,
+          "lng": -80.59116573029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/camping-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/camping_pinlet",
+    "name": "Green Acre Park",
+    "photos": [
+      {
+        "height": 12000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100621103929482204230\">Kevin Prouty</a>"
+        ],
+        "photo_reference": "AeeoHcKMRDx7dPZ1Hi61LTtSxGsN_ybh26kmk2NIVIXoNcO3eZnvk9Sp2VzBR8plRq0Ctj4vKIYhKMM9_DdU6TxcK595qCCnHvKYqpWkCAGzHrUbqaSyswIYlI7-WjC5pgYHsFa420pNf9yUCHOH2_bf9XUiL9z6elkVFmZ5nPfP6InY2m9iVEN4GHXn3_ICL5Y2j0Odbn_5PUvhqEU7yPb7EdMJMbircjOtOYydS_uqorHhqcsdSf9zTx1bKnChciBrVIoYWJQOzNk-rbDNRrcYHzB3u_K8rIPKC14LYL9dKrfTBNkYcRnMJlTx9XNfM6oUw5iNEOIFvTEAhcSDPLj2Qy7ULXRCGKzTcI5jtVDW1kxQmSUMqR1niyI2jo5MmabsdzBv3C6s-DBrFMidvkwcdJTEZBbpvG3E0ZweScZR9P9wsJ8nGTP8jEdJlVVUtcbiWF37srqOMhtHS2ce87IJkadalyrOPTI3C7BKxYqXsqg-4uLFwPX1Jtp13-jClX32m1GrU37z_s_AvaUHPS8gU0h1FMl9mMX44bVsFcF6LI0rcCJ0qDS4cHqIOEC3l8raqJ4J4Fxzkz3QzP-wZScgHkoHEanX20PNKpOvwRob2ddEge0EOjVsQFoKB3QZqsyp",
+        "width": 9000
+      }
+    ],
+    "place_id": "ChIJVw35CdH2K4gRVg__2TV8cds",
+    "plus_code": {
+      "compound_code": "FCP6+63 Waterloo, ON, Canada",
+      "global_code": "86MXFCP6+63"
+    },
+    "rating": 4.6,
+    "reference": "ChIJVw35CdH2K4gRVg__2TV8cds",
+    "scope": "GOOGLE",
+    "types": [
+      "campground",
+      "park",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 397,
+    "vicinity": "580 Beaver Creek Road, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4603811,
+        "lng": -80.520197
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46180203029149,
+          "lng": -80.51897171970849
+        },
+        "southwest": {
+          "lat": 43.45910406970849,
+          "lng": -80.5216696802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "The Laundry Rooms - Waterloo",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1030,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106195889233764840361\">The Laundry Rooms - Waterloo</a>"
+        ],
+        "photo_reference": "AeeoHcLSOVo5cM0PrlZhH1xPajASQhK4SnsXpRhTCGkbLi_s5SFeQ36HvC5zvNlbW4DmUzx2buexpg7Kw25wBpxLrp1-hfgf00CCA3zXf4Gsf94bz407XXXe-X07pLCSZJkbdSXTjgle3U3DZkYIu_aCc6j1twUWCH8Dw4yCLhY0iN8W_velYhJVaJefo7Q1YuyZz3SmTLQCPcyKlD32wnjH0nxhjvON4skn-U80J4QErwD4macTZBnAMkFIMmw_hvXW3IYZkcNmTfOXlmbBTheIWxkfyKJtd6daGONdVAZ0rfTdhJJ4x0ziLricMZmEpvR9vWIYYeWrWMo",
+        "width": 1400
+      }
+    ],
+    "place_id": "ChIJ-Y8E5sb1K4gR79ACYjgQJ-o",
+    "plus_code": {
+      "compound_code": "FF6H+5W Waterloo, ON, Canada",
+      "global_code": "86MXFF6H+5W"
+    },
+    "rating": 4.8,
+    "reference": "ChIJ-Y8E5sb1K4gR79ACYjgQJ-o",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 166,
+    "vicinity": "181 King Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4601197,
+        "lng": -80.5185034
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4615749802915,
+          "lng": -80.5173658197085
+        },
+        "southwest": {
+          "lat": 43.4588770197085,
+          "lng": -80.52006378029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "RED Condominiums",
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101038344528051208666\">Jeff Mulder</a>"
+        ],
+        "photo_reference": "AeeoHcLRRrYbazJeHWO9KKzbpdPQGl3t-lPLlatW-2ITFPM8E5kJL3TyB90szoHSSZXlrlvn2WGim3c_ssGY7Fut3mExnF5DU2dDOTOSq0rHktvjUKjSSdJcQSnLMdsM_TxXWnOFTJ6YzVJSLLC_av6eXn7jeH8z7bdd__Z53bgWP29bjQtlSiuhFC3CpFJxmGtgXh4QBjAFPfg0jWF6tTgKwjbJElOyhy3NlyURFtQ05gtjCXadmKnSvnkEensqhxZ0RtTV__3iMoln2r9qAFo261RBz7xK337OwpxqHer1QxP_8AXUDlo7iiFQbcSM7Fjc8bNoQqD3EWAbyzE_N4KznFZI2gehme5j-BYAZewKTtxbqOVxLcyplJ5N7QxicDnD3IUFm0IRYtTyb61ZtvNDq05ZkIQay5rxAFd1ThwKQLpHMjPo4tO5Hj2RDwMkgLDEn7BjkAnm70ZrDkJgx41cGXw94lbWOFHwtZwuCKvBSxHIHqIOZ4S1f3A48n2od43BWjYwPrBMMi331Th3jxTRw3z1G-Rm8gei17-vUk6SXyN2RX0tQj6lyhtLVzVRNWPHucJTGBQ01J7WVR4IoG9RQeddNJkqSqKf49seZLLPBdekjapitJopZMex5iNZxpcG",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ00gviGz0K4gR7Cbhx8PXLSc",
+    "plus_code": {
+      "compound_code": "FF6J+2H Waterloo, ON, Canada",
+      "global_code": "86MXFF6J+2H"
+    },
+    "rating": 3.6,
+    "reference": "ChIJ00gviGz0K4gR7Cbhx8PXLSc",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 13,
+    "vicinity": "188 King Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4687866,
+        "lng": -80.52261
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4700277802915,
+          "lng": -80.5212321697085
+        },
+        "southwest": {
+          "lat": 43.4673298197085,
+          "lng": -80.5239301302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "Residence in Waterloo",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 722,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107257309909691818659\">Residence in Waterloo</a>"
+        ],
+        "photo_reference": "AeeoHcJWUHISNd4HdGdNCg8f44Tk2uwSlQu5Vi74SkXeW_LjcCnE98dHEZdQu3-n2KaaBaBXarLp-UsRhiK4WORh5pIKCM7O9XEqxk5VX9ghm6vHmicH4ZHD7tb6OseyNC8HAUXP6Twjylqr4Cc2lKtQdLbhNv0Liuk0lsbeVLsZGYepbj6Ha0ovqpyTJD8N3y9LFRiKi8MnlaxJsiz_S0lMYu2ZvN9qMDJ6Jh6Dtg5PysCmPHBKj0aby_fDcYoEB3bVX4khzbfzuPNwtUiLX75tCInTpM2Mpf637DnGRzx0YJgpX_nqKozqRJdFuLJoQZXgeSKZKwbF7eo",
+        "width": 1600
+      }
+    ],
+    "place_id": "ChIJT_6OpAz0K4gR3es-qtgj9SE",
+    "plus_code": {
+      "compound_code": "FF9G+GX Waterloo, ON, Canada",
+      "global_code": "86MXFF9G+GX"
+    },
+    "rating": 5,
+    "reference": "ChIJT_6OpAz0K4gR3es-qtgj9SE",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "10 Young Street East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4604981,
+        "lng": -80.5158652
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4619306302915,
+          "lng": -80.5146608197085
+        },
+        "southwest": {
+          "lat": 43.45923266970851,
+          "lng": -80.5173587802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "123 Bed and Breakfast",
+    "place_id": "ChIJM9HpDiH1K4gRmMN9_OCridU",
+    "plus_code": {
+      "compound_code": "FF6M+5M Waterloo, ON, Canada",
+      "global_code": "86MXFF6M+5M"
+    },
+    "reference": "ChIJM9HpDiH1K4gRmMN9_OCridU",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "31 John Street East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4696717,
+        "lng": -80.520372
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4710354802915,
+          "lng": -80.51892126970849
+        },
+        "southwest": {
+          "lat": 43.4683375197085,
+          "lng": -80.5216192302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "Peppler Palace",
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100920908073793351115\">Rohit Rohit</a>"
+        ],
+        "photo_reference": "AeeoHcIqeHJTRnC529aW_UAwL7Ybm7aDOO5MHRrroBWH3FfHVM16fDCXNWuZx9n94K9b9iuCzpqY8IJyxIrd4assJzpMv-NqGW_yFoafUIXcxglLwqZYWfO1sR7dv3WlCCfdcqP3D5fnLWtBuSpOZZo2I_eVYE-a0bbUpEHfORLI1NrcHswxpTe-FW8qOLtTaiyqsSaLfX0B5MlbSmqUiM3TlU5hVPPWOvlrm1X0O30I1UnEM345ajDr7NyKrmOpYKC_zLG-7PgfoM6j7lpV2xnpuDoCMapanlJtmi8J3nw5l628OjXpA0_7L0uFzWaBnf7OdTKqC-Ffk7Wo0qUry506A81UGe7Donx3tZYJLgG0DlRi1oF8yotbpmAa64Gdf0H_AiqV7dv2ONr2rO6G14NAELaGlVGiaj44j2uso1tszPwsdR_wBR0kHRbQq0RQJGWHr98-DGPVXB_4ukSvdEL4S15ulZmmyQJs-8s0HdEV9jUETkDsxZHYnfmAjX46O_rKuT3ZjsU051JYwS2WebCSKirulTgiIDP8Evb3_QhI5jzAPpys8ZaC6ToUHemqkCJPQHkuW5oegyZckWkTslHdqzlOCi5yTahf1MYU443dOM6CrK-gx9-n4PHmFeLlnSMj3m3HYg",
+        "width": 2268
+      }
+    ],
+    "place_id": "ChIJHxSmuxf1K4gRjIup_1pzxFM",
+    "plus_code": {
+      "compound_code": "FF9H+VV Waterloo, ON, Canada",
+      "global_code": "86MXFF9H+VV"
+    },
+    "rating": 5,
+    "reference": "ChIJHxSmuxf1K4gRjIup_1pzxFM",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 8,
+    "vicinity": "77 Peppler Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4696401,
+        "lng": -80.52213359999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4709729302915,
+          "lng": -80.52088351970849
+        },
+        "southwest": {
+          "lat": 43.4682749697085,
+          "lng": -80.52358148029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "Suite 76",
+    "place_id": "ChIJbeH9UAv0K4gRXigt69nNXR8",
+    "plus_code": {
+      "compound_code": "FF9H+V4 Waterloo, ON, Canada",
+      "global_code": "86MXFF9H+V4"
+    },
+    "reference": "ChIJbeH9UAv0K4gRXigt69nNXR8",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "76 Regina Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.472824,
+        "lng": -80.524593
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4741459302915,
+          "lng": -80.52308351970849
+        },
+        "southwest": {
+          "lat": 43.4714479697085,
+          "lng": -80.5257814802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Maison Canada",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115630165309783790483\">Maison Canada</a>"
+        ],
+        "photo_reference": "AeeoHcKGZF2jTs4a5IT_JSRh0fmgq43tXN4lzyWGaTXP4RChHLaKmGsKiFvVVp8pxnZOeFCE4d9wFQXxEhvrDJ2D9_7FpuZ4fLZF7KkPaxHjJdNGYoWuOV81Qt4d08mTjPsZO6N0nGpqLzDMwo2xhtSz_-I9RNODC2WQuCUIFE-40-fsT_L2l_zrwDMOYg0DDWFyg9K5TYfsZNKU4xrsxn52ubWwjUtFKedk4OTo9tDO1oKKp1P89G5KYArcKiu76zU3ghVNav8JakSm-keMKzJM1toL72OlHw9husfb94_utwQu88-JXdHna5bV3iNqhM55CNR-AA-vtYE",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJA337Xgr0K4gRmb0JqLoQqnw",
+    "plus_code": {
+      "compound_code": "FFFG+45 Waterloo, ON, Canada",
+      "global_code": "86MXFFFG+45"
+    },
+    "rating": 3,
+    "reference": "ChIJA337Xgr0K4gRmb0JqLoQqnw",
+    "scope": "GOOGLE",
+    "types": [
+      "local_government_office",
+      "real_estate_agency",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 68,
+    "vicinity": "185 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47441209999999,
+        "lng": -80.5242645
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47574333029149,
+          "lng": -80.52308031970848
+        },
+        "southwest": {
+          "lat": 43.47304536970849,
+          "lng": -80.52577828029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "Backpacker Student @ Wilfrid Laurier University - Private Single Room",
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107084617862330119926\">Ruslan Melnyk</a>"
+        ],
+        "photo_reference": "AeeoHcLfZsvxwfF31_U4EzikNcYFc1vdY1dsEsEWpOTQbt63CDNpxbHk3gr4kxCb2UjHzcEhTQaGKkaz6nonbwkLn9x5i8Cl_li5_HT_9Uy9rFFf96pBPttxQaW3C0j8VylMzBlmeJ8mf9Gv6Vz1pjzogaUlDZFXzbQ5nJ05FTRFe1Rlh9wW8OM4U4mxdZpNj2gptbXNYA6cubJUURrGQO12i2L39tPR_z2SAvVZ9BaesZgtHc45ubMRGkVJQ7SwsbTM-rx5whJhzC_aIfLqVIsaM7cOeWYbUubSCkHlLq6Hyqm9NpknZyIEImisi2L7PzRR0weQ8g6m-HmTwOBTxNwBy-zU5N9rLQE_3weo8o0gBA0IuHaTj7GDnMZKf3CWiM4VqJ0FPiOLZGy6gBNX4EsGzBjr1PVDEuagQDzRufzai9dG9GXbrynBjR1oWDAKt_ksBUcXjZVcaxXN8z-vcLxxUQd23X7BlaosxHWARLc0843MWNsiAkS4ib6oXHGeG3lW3FKkZnMksJQhxKA1xvJog7s2YRWhRNgUARphOVWQ2b3kVASYoWbgAUXOp1k-AUf0_itbqR9cj0ymPK1plI9qArd1Mf0SloHNtcddHbEY34yEupz2OKiTvbtnhSFFKyU2RU0jAIRw",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJIyYTefXzK4gRhCqBNeXJOyQ",
+    "plus_code": {
+      "compound_code": "FFFG+Q7 Waterloo, ON, Canada",
+      "global_code": "86MXFFFG+Q7"
+    },
+    "rating": 5,
+    "reference": "ChIJIyYTefXzK4gRhCqBNeXJOyQ",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "King Street North #200, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4638357,
+        "lng": -80.5354239
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4651532802915,
+          "lng": -80.53415751970849
+        },
+        "southwest": {
+          "lat": 43.4624553197085,
+          "lng": -80.5368554802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/camping-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/camping_pinlet",
+    "name": "Scott Street Stayner Ontario Canada",
+    "place_id": "ChIJnWGuEQD1K4gR_O_gL79kmoM",
+    "plus_code": {
+      "compound_code": "FF77+GR Waterloo, ON, Canada",
+      "global_code": "86MXFF77+GR"
+    },
+    "reference": "ChIJnWGuEQD1K4gR_O_gL79kmoM",
+    "scope": "GOOGLE",
+    "types": [
+      "campground",
+      "park",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "139 Father David Bauer Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4654175,
+        "lng": -80.50386379999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4668222302915,
+          "lng": -80.5023705197085
+        },
+        "southwest": {
+          "lat": 43.4641242697085,
+          "lng": -80.50506848029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "Maison louée",
+    "place_id": "ChIJwcji6-f1K4gRU1LR08qwxAg",
+    "plus_code": {
+      "compound_code": "FF8W+5F Waterloo, ON, Canada",
+      "global_code": "86MXFF8W+5F"
+    },
+    "rating": 5,
+    "reference": "ChIJwcji6-f1K4gRU1LR08qwxAg",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "137 Oriole Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4715257,
+        "lng": -80.50698539999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47284113029151,
+          "lng": -80.50577891970849
+        },
+        "southwest": {
+          "lat": 43.47014316970851,
+          "lng": -80.50847688029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "ONpoint Rentals",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117205224107216376611\">ONpoint Rentals</a>"
+        ],
+        "photo_reference": "AeeoHcJvGbFxsIt26JtL3HfJLOYrGTnYBYMGNn-mX1pmGR_mSlAjlb50jOtYZBvLV0Gv4Jyt51u0M_6xrj_DrVsxyzP0HpuV_SzuwUSBO0uH4DZXbZMZYMV1bR4_6RzqXKNdlDl75uRO50YDivT9QDBVSIQpk7E4Ywh6gunn7JfeqWKz4CGitdVaY5nQGg1tDIrlCzety--R3U6UZGTW-v7D8MB25UOe9lb7ywufRdPbcvRhJT964Y77lB1KWb1an_S9z9KprX6-64YBti-04LRa2apKbZzLiTtjZ2aujlySab3NotIj6N_2hHmGWOTzNkJsLVj_WPrKeG8",
+        "width": 2880
+      }
+    ],
+    "place_id": "ChIJvVpK7Xj0K4gRRH1ak-s1L1Y",
+    "plus_code": {
+      "compound_code": "FFCV+J6 Waterloo, ON, Canada",
+      "global_code": "86MXFFCV+J6"
+    },
+    "rating": 4.5,
+    "reference": "ChIJvVpK7Xj0K4gRRH1ak-s1L1Y",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 17,
+    "vicinity": "26 Ellis Crescent North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47702519999999,
+        "lng": -80.5316091
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47844893029149,
+          "lng": -80.5300676697085
+        },
+        "southwest": {
+          "lat": 43.4757509697085,
+          "lng": -80.53276563029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "Larch St Buildings",
+    "photos": [
+      {
+        "height": 683,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100269467313438378625\">Rami Kakony</a>"
+        ],
+        "photo_reference": "AeeoHcLY9zBOdUcv0TSPGzlvOU20885VaSprau45nJxbqX12Tzr2PrOUgF3WTsm5-HX5awb4NbSopCj9LuS6eKng9okhvoGvet7Xcb7ZFImSKROBRv9rcaf6GMQflWo61DB0vqzZCFNWbjQ0UrNQBQMR7XaI0YR4QW6I8GujATEnEu2kuHeuqKcmtrt03zjdUukCn71tlWdIJ8r19EQbqEq30Y5aySM6WjZ5QwLxFmqkJKnVfMEhh4HAXCQrecGZFeMR4tuqBanMI4UL279SiwN_UB0plr4gBbhNbZE6UIAfQKQp0MYLSg_zMaze5mrC8RKAQisTV32VOI-orjUf7iEbjrR2CFPvm-5iTr7N-RbSjsVWEVN2GXYYY8YwXkcULgvHuvRoWIGkAjOBMEtDqZNX1Cc991xkUjdJUpC1RTTCvHm7tA-BqymCQYkbGE-RyyTkp4hMDDX5jJ7m3QA0kCtTrfUjW-4_nyvnbjl8HlCabSkORkWa33eQwMkg65tZ1lAsR-DfsaZAOaDdY5a3hRDtI8XdBluIn4sGSOa4R7tjlfoveS8LL7weMQNmlCXlpGJRIpno3RhwnxIKP7AX9X6kihJ2aTrK1WDWQreohAIdihqYLVCdKg0943AS0AmaUB5_N6oPyg",
+        "width": 908
+      }
+    ],
+    "place_id": "ChIJseGSNUPzK4gRfALJ9iUjCqM",
+    "plus_code": {
+      "compound_code": "FFG9+R9 Waterloo, ON, Canada",
+      "global_code": "86MXFFG9+R9"
+    },
+    "rating": 3.3,
+    "reference": "ChIJseGSNUPzK4gRfALJ9iUjCqM",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6,
+    "vicinity": "275G Larch Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45399370000001,
+        "lng": -80.50312079999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4552859802915,
+          "lng": -80.5018057697085
+        },
+        "southwest": {
+          "lat": 43.4525880197085,
+          "lng": -80.5045037302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "The Laundry Rooms - Kitchener",
+    "photos": [
+      {
+        "height": 3468,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107989751902967586958\">Richard Chong</a>"
+        ],
+        "photo_reference": "AeeoHcIX5pte9dpsdw4htRvsGU97eYWrD2PLhDinCIPwsBvkqISZJG0afT9Rr-oS2xnWx8lm3dIr6wTGZlOZPhOflOUbFLsi8pd0Y3CsjHp9jHByCXF_vnwD_TeUFG7umUenAIlFWxVKFRPf0M9RKdpASVsI2JGzFkTJsJnEdqTuaD4snz8p8zWt4l0BiZW_WXlBJzMlwJxd8PnxTuxWqMEg2i-YyieG_rV1KXYF1Y9mpzNMD2Tp49_s-uNMMftkUwORXjjnht-s9YztzvKan-IPbyMPD03Bga2Bnsl8AWn5nTZDoJO8eCxSMD2ii7g7D8PF1mXJOeHktIZfp_eyXd86Ho3l6sLtJUqMPBLcHiPQA9Mpzcr1glEpcSrttVdCb4Mbv1KG1OFfmNEe5F-_WbFjURudDpQar1rMTKrfeesTwljktE3S2GMKNdzzj1NRAgNuTy-PWltinejFxQ_ZYeq8xOZQC0nDyoLpexEXdg2692y6dlC-gLfgATc98RJHHya1wklek5P84PmBJYWdaJpTYJtRtBMM8OOqZ7A1DUKSopKdYhFkFyigUZOtuC4IZRoupSnxCJ8cgCtZWUmKY68T96KYQawdlC7NeoREE1d6XhM-Z--nsJWMfeD6SA19awgfp-M56g",
+        "width": 4624
+      }
+    ],
+    "place_id": "ChIJb4N4NG71K4gRewXn7wmb7k4",
+    "plus_code": {
+      "compound_code": "FF3W+HQ Kitchener, ON, Canada",
+      "global_code": "86MXFF3W+HQ"
+    },
+    "rating": 4.7,
+    "reference": "ChIJb4N4NG71K4gRewXn7wmb7k4",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 112,
+    "vicinity": "5 Wellington Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4541999,
+        "lng": -80.5025368
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4555198802915,
+          "lng": -80.5012043197085
+        },
+        "southwest": {
+          "lat": 43.45282191970851,
+          "lng": -80.50390228029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "Mobile Head1/4ers : Barbering",
+    "place_id": "ChIJL8i9p0n1K4gRlENw3TxdijQ",
+    "plus_code": {
+      "compound_code": "FF3W+MX Kitchener, ON, Canada",
+      "global_code": "86MXFF3W+MX"
+    },
+    "reference": "ChIJL8i9p0n1K4gRlENw3TxdijQ",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "King Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4535945,
+        "lng": -80.5031619
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4549460302915,
+          "lng": -80.50182031970849
+        },
+        "southwest": {
+          "lat": 43.4522480697085,
+          "lng": -80.5045182802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "The Union B24",
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110885841915898061825\">Norman C</a>"
+        ],
+        "photo_reference": "AeeoHcJ2JXmfJGfsj66xPs2nCai9ip50dBnUYpe47-3C4EHDpmpTFeFLpPuhCqIO1NBs8xyTjdqPPz9rVXpZvnUjIB1jRkhl_pt44lGvbkJJ2w-nFdbBJEiZ1zjR9fzApZESrHArDyH3jHcuEnZLeAzUc99ykFUU-FCZVFh-e8irj6wJZFTvnDPBRqFs66t1RTOLT49RPKfKLM5no4AKmYa1ddKQSC7THkRxMBd4lpB4f88vAlBXpaBX6gvVbTG8qQquT9mjs7Mz9T0FgtSSWUTQD5ygfuku4Ql_oCEp0afPZ1DvqcegTLEAfrL-XBN__BmI3xn4cHSNAww16_PbXDnSdPXSYSEUgakFnC05p8xapyJ--h7-xTG0qkYXWW5qZqHk_okr8iebLQmJTfWef7x_Z87aejipUMLtiEm0ZUjvS0JuVWpm8Gs10nAhpbl1gu3iBFp_MgBLHqNIMFQNW-yTTMQrofU-xjBdYYYUHsvNG2E89JsXA_LLo-HQiqCdaqflEenEO34nhd6F47IBb-zO-mHqc5FBp4gxuBGzTorkTEA9osIViX4QZpOQmwN2tRyyFazzUFCAoNbL2QVE93rFQMVmsahMrHRtBsj1a6ZE0ILCQ5essrR_arLAQvsxpalmGqj7ag",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJFwMqHk31K4gRk0_V0_m71P0",
+    "plus_code": {
+      "compound_code": "FF3W+CP Kitchener, ON, Canada",
+      "global_code": "86MXFF3W+CP"
+    },
+    "rating": 3,
+    "reference": "ChIJFwMqHk31K4gRk0_V0_m71P0",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "15 Wellington Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45468229999999,
+        "lng": -80.49909199999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45596043029149,
+          "lng": -80.49769971970849
+        },
+        "southwest": {
+          "lat": 43.45326246970849,
+          "lng": -80.50039768029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "ONpoint Rentals",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2117,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108825899881786939927\">ONpoint Rentals</a>"
+        ],
+        "photo_reference": "AeeoHcIo6zUJonWyOrmYCgJ44xgH5Oj6Ca3nbYsupa3dv3dY3AEhXFazL4fBRUTyoObFDdVgDOuQiUe9CuSmJcAmH6C325C1K_57OVGPCariITg6F71ez4zvfS0gaFCyMxmrMvtLZFW31IP1pJC1tFda9P_1z1Z5zF7x7tlmNhqM-6-qthG3cbWV0QyMFGgC16uin0sd8RwrlE2B2HfRImiFTMCESPC9C5yn5NoUSR71jVHqKqKd-y7fPgOoXQ83hwOJnuKABTwJqoSiwlfxM9hZV4WGUnVBrzSYOIK7M_4-DV4NjD32R2CqBnP346_-CPaBHprqAoRvBxo",
+        "width": 3176
+      }
+    ],
+    "place_id": "ChIJWRzvaWb1K4gR2XlSGDYfZ5M",
+    "plus_code": {
+      "compound_code": "FG32+V9 Kitchener, ON, Canada",
+      "global_code": "86MXFG32+V9"
+    },
+    "rating": 5,
+    "reference": "ChIJWRzvaWb1K4gR2XlSGDYfZ5M",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "44 Breithaupt Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.468155,
+        "lng": -80.5459806
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46944318029151,
+          "lng": -80.54493921970848
+        },
+        "southwest": {
+          "lat": 43.46674521970851,
+          "lng": -80.54763718029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "United College Graduate Apartments",
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106263480560784230456\">MT DXB</a>"
+        ],
+        "photo_reference": "AeeoHcLbKyCZ3V-7qZ_cPOe7E3KGCZGzU1K4eqcC_HyWtYnN5H4sB2OuZy7Jx9yFdCD-vT3-oSfJGgoqS3DXIJjkhrq2P0tJ37hrNq7V6tHNmZt2gl_2SpuY32Z_oKmzH0TgMz5vs_4y5d6P9iKoejI0e_hPHWMJlkX9YykKVIoGKX-ouucj0oxtP1xHfV3pJdvUAO8nqfmrADihkjbhEKdG-xAyvTtLKwN2bar1Xz5QM-mO9BsXHDClUjVCP3nVK8k6Vxij5i9PrO1MgtBtJQHOb5evyijHv7YXA7K1wP7uQnAz-dwHGCH_fSBgeg4whEIoH2T1teZygu6OFU1b6cm8AXfFqJAplyVwHcWCUh4Riln-Pm49YzFa18l_OQqkigUafVFvf4cqVeBhaKdhgPwMg9LxEuWapkOHmPkgGKd_iN8U_99BbcGVtg2o6Imv1U0vrpOcwy-sJWr89vJdfbNGWx-Kz9cYOdPUJBeiQGanQq_UDDChrK9yTDlHsSlCT45kN2iBzEjlL9s2tBGxzjVaK5x_l_QS80ZI0e3NML_1XuHGXrdH9dx81o8SMKxUbcqwzmwSsZ5oKH3ESqLTUZQij1GCAZTk1ADL1yUKsnkrKSkMpTBaVEgybuS18O5aTtn0G8b0kw",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJN29PRaj2K4gRpL1H-ttw5hg",
+    "plus_code": {
+      "compound_code": "FF93+7J Waterloo, ON, Canada",
+      "global_code": "86MXFF93+7J"
+    },
+    "rating": 4.2,
+    "reference": "ChIJN29PRaj2K4gRpL1H-ttw5hg",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 46,
+    "vicinity": "196 Westmount Road North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45214989999999,
+        "lng": -80.4941845
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45349333029149,
+          "lng": -80.49289681970849
+        },
+        "southwest": {
+          "lat": 43.45079536970849,
+          "lng": -80.4955947802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "Housing",
+    "place_id": "ChIJ9S55LwD1K4gR-BG9vLDfB9Y",
+    "plus_code": {
+      "compound_code": "FG24+V8 Kitchener, ON, Canada",
+      "global_code": "86MXFG24+V8"
+    },
+    "reference": "ChIJ9S55LwD1K4gR-BG9vLDfB9Y",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "11 Water Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4509036,
+        "lng": -80.4947153
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4522893802915,
+          "lng": -80.49349091970849
+        },
+        "southwest": {
+          "lat": 43.4495914197085,
+          "lng": -80.4961888802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "ZNAPT LPOTO",
+    "place_id": "ChIJ91YrFwD1K4gRSrTQ1tb-N4s",
+    "plus_code": {
+      "compound_code": "FG24+94 Kitchener, ON, Canada",
+      "global_code": "86MXFG24+94"
+    },
+    "reference": "ChIJ91YrFwD1K4gRSrTQ1tb-N4s",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "25 Water Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45175220000001,
+        "lng": -80.49252369999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45339053029151,
+          "lng": -80.4910246197085
+        },
+        "southwest": {
+          "lat": 43.45069256970851,
+          "lng": -80.4937225802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "Hahahah",
+    "place_id": "ChIJddy2cAD1K4gRxfAOZ4gggfc",
+    "plus_code": {
+      "compound_code": "FG24+PX Kitchener, ON, Canada",
+      "global_code": "86MXFG24+PX"
+    },
+    "reference": "ChIJddy2cAD1K4gRxfAOZ4gggfc",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "200 King Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4402597,
+        "lng": -80.5305759
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4415225802915,
+          "lng": -80.5291689697085
+        },
+        "southwest": {
+          "lat": 43.4388246197085,
+          "lng": -80.53186693029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "Opulent Excursions",
+    "place_id": "ChIJ52mr8Af1K4gRhdvnUBYhlRU",
+    "plus_code": {
+      "compound_code": "CFR9+4Q Kitchener, ON, Canada",
+      "global_code": "86MXCFR9+4Q"
+    },
+    "reference": "ChIJ52mr8Af1K4gRhdvnUBYhlRU",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "32 Ingleside Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4710748,
+        "lng": -80.485205
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4725101802915,
+          "lng": -80.4838567697085
+        },
+        "southwest": {
+          "lat": 43.4698122197085,
+          "lng": -80.4865547302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "ONpoint Rentals",
+    "photos": [
+      {
+        "height": 2800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100193898285146457242\">ONpoint Rentals</a>"
+        ],
+        "photo_reference": "AeeoHcLmldLguh7LaaNo_cFyyLbz80rHK3tqoCZjJGHOZOGL_rBHVfgm-IYcHCnkrs4M_533tsXmFfuHt6WNxxDn_Jn59JK0czcjNIjChnfMiZyNnF3rjt7IBUdnV92qw03joV2WENUc4EBgDi2-IDtpM3yA20qCJ3hwgtqGh5hNR2oXkEQXLE-zv1qnbbGod_EsoSgbO-Hz_xW-QfBKm5qNNFPoG8RYJGWgXzW6UGb67_AQcovl09dHAv12VhbPJDaPMqulawfFORjAunRxS6LuUEZRiSz4faVSHYfOcHWOUIFiCh9pP0JonrBh2fOIivSLZms48K6KhXg",
+        "width": 4200
+      }
+    ],
+    "place_id": "ChIJL28o_jHzK4gRp267hQAgBrg",
+    "plus_code": {
+      "compound_code": "FGC7+CW Kitchener, ON, Canada",
+      "global_code": "86MXFGC7+CW"
+    },
+    "rating": 3.7,
+    "reference": "ChIJL28o_jHzK4gRp267hQAgBrg",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 11,
+    "vicinity": "1105 Union Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4908839,
+        "lng": -80.5180891
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4923483302915,
+          "lng": -80.51674801970849
+        },
+        "southwest": {
+          "lat": 43.4896503697085,
+          "lng": -80.51944598029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "HB GUEST HOME INC.",
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104874172903688418116\">Steven Warin</a>"
+        ],
+        "photo_reference": "AeeoHcJY2npn6e1qkXUCUwt-ibtcvLMphtRn6YKwHNemV5g_UXNR56fw_EURC7EqcSzBGcPImGft4LoGKRiaXLQqHSSPm_cIXNbIp8WAFcBKR3yNE-wVeUiFL7zP7-Gx2wm4UVAcH7Zb1PIKHUhCGHAvvsjPj97osUuRZt2A_Y3IV6SnMhLumGZ1WhNDup8z7ZdiudmXlOe584FO_4Ey1EiYhXvi8xtT2Q0SamqKTd1KvQ4Tr1JSNYRREpL3oR2UPadMEpUdoJnkp6XemTHR5sxnFnAfVQT-yeyKo3HRcOx8T4MZ0XmhhpFY0yvKTv7k-XHi0BnAVVaH1xYTcjoHThLSy2HV7euBRVjuHk2qRF3t3Jy0mxj3di3pBfgHt9SGSt2T_zUvi4zZaCxUE-RcUyUilWF2DrjykX3TGbUOg-Ms7GkLTtAjLnDd3Cis8FlAIvx2o9oQxim-tipKnMskuu7uNuYaGnv61YBB58IXbRVH723PU1gX3L37fgJYgywsFlPivFoDEExG3qkJ3iCjjLCL76ZW1ciPXdspOwVblTxNMtVK5IA9678hhSLOuazQYtk5jmG8md34Zqstz-EkX9QKRqg8Mlcpcqtc3sG4hXky4PsHCdWV2iFTVKvRjPv2Zl1OLoEuKtiZ",
+        "width": 2268
+      }
+    ],
+    "place_id": "ChIJTcB08-3zK4gR-oUmO2xPIqM",
+    "plus_code": {
+      "compound_code": "FFRJ+9Q Waterloo, ON, Canada",
+      "global_code": "86MXFFRJ+9Q"
+    },
+    "rating": 2.5,
+    "reference": "ChIJTcB08-3zK4gR-oUmO2xPIqM",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 13,
+    "vicinity": "315 Dearborn Boulevard, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4486055,
+        "lng": -80.4859
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4498931302915,
+          "lng": -80.4845996697085
+        },
+        "southwest": {
+          "lat": 43.44719516970851,
+          "lng": -80.48729763029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "Toiture Expert 2000",
+    "place_id": "ChIJL7MF2bj1K4gRNlYTgp0JfAk",
+    "plus_code": {
+      "compound_code": "CGX7+CJ Kitchener, ON, Canada",
+      "global_code": "86MXCGX7+CJ"
+    },
+    "reference": "ChIJL7MF2bj1K4gRNlYTgp0JfAk",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "200 King Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4478784,
+        "lng": -80.48414269999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4492562302915,
+          "lng": -80.48293616970848
+        },
+        "southwest": {
+          "lat": 43.4465582697085,
+          "lng": -80.48563413029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "Hale community",
+    "place_id": "ChIJU_oPPuz0K4gRR9sYJETLwjg",
+    "plus_code": {
+      "compound_code": "CGX8+58 Kitchener, ON, Canada",
+      "global_code": "86MXCGX8+58"
+    },
+    "reference": "ChIJU_oPPuz0K4gRR9sYJETLwjg",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "290 King Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4484169,
+        "lng": -80.48296169999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4499026802915,
+          "lng": -80.48168581970849
+        },
+        "southwest": {
+          "lat": 43.4472047197085,
+          "lng": -80.4843837802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Nest Suite Living",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113527938667970634000\">Nest Suite Living</a>"
+        ],
+        "photo_reference": "AeeoHcJxpNUidzVKPM--95_kIcrLXdR1tJT2WyW1O4V2TvOpLLKosAv4xQP7v6UZcva2bRX54gvpoTe18L1MWqvQYktLAJmqqhGmUMmhYDYK1Y9b35Ed1qA20OLoctBTqurlPF8CD6jjB8u9TttVYvO34laIHJpa9OfkjVXuTIIK8Hh5EqYD_nMT2edjkaGQ1_iUh5j1DnopSw0YPw3BBPVhlbUg8cYTBqjtHCMmiodaWY9yNYBInvoneck0dtydaU8wzcXhzm6XIv5qTWpzJS9ZyHq_BTURkG-YBWP622qJLOEOEKiA1lq5EkqB8XTcT1AhqrVjh0WrjcA",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJ_SRV93f1K4gRJIo7pOxDq_w",
+    "plus_code": {
+      "compound_code": "CGX8+9R Kitchener, ON, Canada",
+      "global_code": "86MXCGX8+9R"
+    },
+    "reference": "ChIJ_SRV93f1K4gRJIo7pOxDq_w",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "lodging",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "165 Duke Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44532969999999,
+        "lng": -80.5557738
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44656783029149,
+          "lng": -80.55440056970848
+        },
+        "southwest": {
+          "lat": 43.44386986970849,
+          "lng": -80.5570985302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "滑铁卢男人之家",
+    "place_id": "ChIJp0T9AAD3K4gRP_Imfj5DzVQ",
+    "plus_code": {
+      "compound_code": "CCWV+4M Waterloo, ON, Canada",
+      "global_code": "86MXCCWV+4M"
+    },
+    "rating": 5,
+    "reference": "ChIJp0T9AAD3K4gRP_Imfj5DzVQ",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "504 Thorndale Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.49076529999999,
+        "lng": -80.54550619999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.49201813029149,
+          "lng": -80.54424001970848
+        },
+        "southwest": {
+          "lat": 43.48932016970849,
+          "lng": -80.5469379802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "ONpoint Rentals",
+    "place_id": "ChIJ5ea6O8rxK4gRhEX56ez04UM",
+    "plus_code": {
+      "compound_code": "FFR3+8Q Waterloo, ON, Canada",
+      "global_code": "86MXFFR3+8Q"
+    },
+    "reference": "ChIJ5ea6O8rxK4gRhEX56ez04UM",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "523 Parkside Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4377234,
+        "lng": -80.55780829999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4391221302915,
+          "lng": -80.5564935697085
+        },
+        "southwest": {
+          "lat": 43.4364241697085,
+          "lng": -80.5591915302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "Boardwalk Homes Executive Guest Houses",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJGZeCHpj1K4gRAyEr6Zuktes",
+    "plus_code": {
+      "compound_code": "CCQR+3V Kitchener, ON, Canada",
+      "global_code": "86MXCCQR+3V"
+    },
+    "rating": 3.2,
+    "reference": "ChIJGZeCHpj1K4gRAyEr6Zuktes",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 18,
+    "vicinity": "Fischer-Hallman Rd &, University Avenue West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4974087,
+        "lng": -80.5471963
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4989256302915,
+          "lng": -80.5459261697085
+        },
+        "southwest": {
+          "lat": 43.4962276697085,
+          "lng": -80.5486241302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "UNIT 4 1st floor",
+    "place_id": "ChIJE-H4q27xK4gR4haPyHFfaj8",
+    "plus_code": {
+      "compound_code": "FFW3+X4 Waterloo, ON, Canada",
+      "global_code": "86MXFFW3+X4"
+    },
+    "rating": 5,
+    "reference": "ChIJE-H4q27xK4gR4haPyHFfaj8",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "180 Northfield Drive West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.497852,
+        "lng": -80.56135730000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4992391302915,
+          "lng": -80.5598633197085
+        },
+        "southwest": {
+          "lat": 43.4965411697085,
+          "lng": -80.5625612802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "Park's Edge",
+    "place_id": "ChIJT9rngdbxK4gRqqlQdG_Ds4I",
+    "plus_code": {
+      "compound_code": "FCXQ+4F Waterloo, ON, Canada",
+      "global_code": "86MXFCXQ+4F"
+    },
+    "reference": "ChIJT9rngdbxK4gRqqlQdG_Ds4I",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "645 Sprucehurst Crescent, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.495023,
+        "lng": -80.572476
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4964756802915,
+          "lng": -80.5711962197085
+        },
+        "southwest": {
+          "lat": 43.4937777197085,
+          "lng": -80.5738941802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "Hb Guest Home 3",
+    "place_id": "ChIJ8fQAzT3xK4gR8wExdBm4xh8",
+    "plus_code": {
+      "compound_code": "FCWH+22 Waterloo, ON, Canada",
+      "global_code": "86MXFCWH+22"
+    },
+    "rating": 2.3,
+    "reference": "ChIJ8fQAzT3xK4gR8wExdBm4xh8",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6,
+    "vicinity": "236 Inverhuron Crescent, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5067042,
+        "lng": -80.55405689999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5082712302915,
+          "lng": -80.55259856970851
+        },
+        "southwest": {
+          "lat": 43.5055732697085,
+          "lng": -80.55529653029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "Hampton Inn & Suites by Hilton Waterloo St. Jacobs",
+    "photos": [
+      {
+        "height": 748,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105884120064142482246\">Hampton Inn &amp; Suites by Hilton Waterloo St. Jacobs</a>"
+        ],
+        "photo_reference": "AeeoHcKc3FcF9u25otAZjzjBuabtKRo6T6MvP8qGbyB3CH7vCZTYgULjxgy-wVHNFdHdPiCDVI-Iu-Q92LnW0imCKAG6G50GwTGDoiB7ruOl-VcxuQNqUYjxvWD01-KNY8LgEsgopemPkFXp1AG2R4whmNaLDOq4JvYV_n5OcTHv8MuDUW2kV2_j5DDNiwJ7HcEGMTUhIKR2la5xukQKttcuALJr3gUH76d6Y-4DZT5tJ0-1_0xvYnJyz60covQXP7yvOQhcJ1YHREsqiMQomtfHiqRDXto1t5E6lz4UX5yA7zvGo_JVsxv1xG5ks-4Sb5gtKR4KuFRqPXI",
+        "width": 1127
+      }
+    ],
+    "place_id": "ChIJb07SlnrxK4gR4M5rv_QGRAc",
+    "plus_code": {
+      "compound_code": "GC4W+M9 Waterloo, ON, Canada",
+      "global_code": "86MXGC4W+M9"
+    },
+    "rating": 4.2,
+    "reference": "ChIJb07SlnrxK4gR4M5rv_QGRAc",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 498,
+    "vicinity": "55 Benjamin Road, Waterloo"
+  }
+]

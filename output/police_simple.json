@@ -1,0 +1,100 @@
+[
+  {
+    "name": "WLU Campus Police",
+    "coordinates": {
+      "lat": 43.4753143,
+      "lng": -80.5244582
+    },
+    "longitude": -80.5244582,
+    "latitude": 43.4753143,
+    "types": [
+      "police",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Waterloo Regional Police Central Division",
+    "coordinates": {
+      "lat": 43.4538534,
+      "lng": -80.4828819
+    },
+    "longitude": -80.4828819,
+    "latitude": 43.4538534,
+    "types": [
+      "police",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Waterloo Regional Police North Division",
+    "coordinates": {
+      "lat": 43.4824095,
+      "lng": -80.5230335
+    },
+    "longitude": -80.5230335,
+    "latitude": 43.4824095,
+    "types": [
+      "police",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Police Collision Reporting Centre",
+    "coordinates": {
+      "lat": 43.4824095,
+      "lng": -80.5230335
+    },
+    "longitude": -80.5230335,
+    "latitude": 43.4824095,
+    "types": [
+      "police",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "University of Waterloo Special Constable Services",
+    "coordinates": {
+      "lat": 43.4743378,
+      "lng": -80.5427595
+    },
+    "longitude": -80.5427595,
+    "latitude": 43.4743378,
+    "types": [
+      "police",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Red Light Camera",
+    "coordinates": {
+      "lat": 43.41503859999999,
+      "lng": -80.51315799999999
+    },
+    "longitude": -80.51315799999999,
+    "latitude": 43.41503859999999,
+    "types": [
+      "police",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Police",
+    "coordinates": {
+      "lat": 43.5141526,
+      "lng": -80.4979997
+    },
+    "longitude": -80.4979997,
+    "latitude": 43.5141526,
+    "types": [
+      "police",
+      "point_of_interest",
+      "establishment"
+    ]
+  }
+]

@@ -1,0 +1,105 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.3843407,
+        "lng": -80.5446504
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.38565983029151,
+          "lng": -80.54328291970849
+        },
+        "southwest": {
+          "lat": 43.38296186970851,
+          "lng": -80.54598088029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/camping-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/camping_pinlet",
+    "name": "Landings Campground",
+    "photos": [
+      {
+        "height": 9000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105596701821279576502\">Jeff Glaves</a>"
+        ],
+        "photo_reference": "AeeoHcInOukCpW3I3jNZ1x9TjZVixGCfODUMwpqn35Yut-F62c0VwfUCMN2E1Cfxeos0RkxYLj2selBgyjNYwqdGdFwkf3zz8sdPUifcgnbSJbBzjoSmIAl8q0XcUAyQMrwRrJ4UMyW-fM9ZBfDOoTOrOspU6Oy2NT9_ErUw3yy9anEgcqugg09v6tcTPLHWrbfL5oOCIndB5iyZw6-04flE-ORPJ2W1umYbO7NOzpHR2HIPggWLwGDMNyt6D2Mc1qRllerPlu_E1lO22hyRTCYao5jyG4hJMybRtlZ5NICFy0KiLKuif291bVMobvfnyJEryx_Xfvj9kdGFKpc8a9VsOeB1f-pNin_TXN4_zz6Bi4xX_ZsB2Tqw2pz8HSqOO1ap2yrlkJ2Pfyt67djh7dkoMCAns5gXkrFb0PRM4ukqyvb-XdGtAuX-UBU_lD3wXGX2CWJLgS3cQUqIvUZBZKtLABXUAFOZnZzN7pX4RL5GPGF2qGYs1xLSJZV9_HJx44043mHjIW-6Dmi8V96HnkX2rQCHtcanQYiZPtp_tlHs6aMjK1AqSLsCwXnqB-FUKdP_2RBkFQcCD22muF8EYeaZGsneEmRcFzmzhrr92jphRf8700pDuryF8kgM1L3pgfHBhEFmRWbl",
+        "width": 12000
+      }
+    ],
+    "place_id": "ChIJn-A_c1EZWkARaSRUlQTP-08",
+    "plus_code": {
+      "compound_code": "9FM4+P4 Petersburg, ON, Canada",
+      "global_code": "86MX9FM4+P4"
+    },
+    "rating": 4.5,
+    "reference": "ChIJn-A_c1EZWkARaSRUlQTP-08",
+    "scope": "GOOGLE",
+    "types": [
+      "campground",
+      "rv_park",
+      "park",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 197,
+    "vicinity": "1073 Witmer Road, Petersburg"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45266720000001,
+        "lng": -80.6103668
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45383580000002,
+          "lng": -80.6086659697085
+        },
+        "southwest": {
+          "lat": 43.44916139999999,
+          "lng": -80.6113639302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "50 Small Park Resort",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1134,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106181816879303643266\">50 Small park resort</a>"
+        ],
+        "photo_reference": "AeeoHcIsyQmGJwUPc8DsGi5UN6UoqXn5Jl_ln7-T_GT0_4ksYrddfflcx_IZf9KXqGEH5wI4JaajsXpWHz1YiXh8iab2K9Cmru4bDpt2CI1gKDjFxDJm17N1uBTcYZJwU57P4M-uY-3pQYkom5Bficitn3YlDR5liA6Ju5noIeZEBCBxip37DcZtDHO4PJADHJ9Nlc33MBzbmKKadio6VlAGbl9oo5SjxfOLiMXTVvb1IFvnIlxepoZ1JOmZuD0AaoWILkQ3GeaRooFRWCXu_TMuZOfh2lSOisCWGijgI5ptNp181D_MxYYLNMLgx_67joQaEeadGyHWZ7g",
+        "width": 2016
+      }
+    ],
+    "place_id": "ChIJ_X3rfsD3K4gRblooGi7NrFk",
+    "plus_code": {
+      "compound_code": "F93Q+3V Saint Agatha, ON, Canada",
+      "global_code": "86MXF93Q+3V"
+    },
+    "rating": 4.8,
+    "reference": "ChIJ_X3rfsD3K4gRblooGi7NrFk",
+    "scope": "GOOGLE",
+    "types": [
+      "rv_park",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 32,
+    "vicinity": "1174 Wilby Road, Saint Agatha"
+  }
+]

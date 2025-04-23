@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Tangam Systems",
+    "coordinates": {
+      "lat": 43.4638776,
+      "lng": -80.5251785
+    },
+    "longitude": -80.5251785,
+    "latitude": 43.4638776,
+    "types": [
+      "casino",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Online Bingo Canada",
+    "coordinates": {
+      "lat": 43.4534005,
+      "lng": -80.5534804
+    },
+    "longitude": -80.5534804,
+    "latitude": 43.4534005,
+    "types": [
+      "casino",
+      "point_of_interest",
+      "establishment"
+    ]
+  }
+]

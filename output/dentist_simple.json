@@ -1,0 +1,908 @@
+[
+  {
+    "name": "Applewood Dental Centre",
+    "coordinates": {
+      "lat": 43.4694716,
+      "lng": -80.5231858
+    },
+    "longitude": -80.5231858,
+    "latitude": 43.4694716,
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Waterloo Dental Centre",
+    "coordinates": {
+      "lat": 43.4688158,
+      "lng": -80.5172798
+    },
+    "longitude": -80.5172798,
+    "latitude": 43.4688158,
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Dr. Goran Rakita , Rakita Family Dentistry",
+    "coordinates": {
+      "lat": 43.447584,
+      "lng": -80.484247
+    },
+    "longitude": -80.484247,
+    "latitude": 43.447584,
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Carere Vincent P Dr",
+    "coordinates": {
+      "lat": 43.4523666,
+      "lng": -80.5556122
+    },
+    "longitude": -80.5556122,
+    "latitude": 43.4523666,
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Westheights Dental Centre",
+    "coordinates": {
+      "lat": 43.42933980000001,
+      "lng": -80.53094050000001
+    },
+    "longitude": -80.53094050000001,
+    "latitude": 43.42933980000001,
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Waterloo Dental (formerly Northfield Dental)",
+    "coordinates": {
+      "lat": 43.4961134,
+      "lng": -80.55070839999999
+    },
+    "longitude": -80.55070839999999,
+    "latitude": 43.4961134,
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Tao's Dentistry",
+    "coordinates": {
+      "lat": 43.45953590000001,
+      "lng": -80.4700632
+    },
+    "longitude": -80.4700632,
+    "latitude": 43.45953590000001,
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Winter Patrick J Dr",
+    "coordinates": {
+      "lat": 43.4263387,
+      "lng": -80.5451059
+    },
+    "longitude": -80.5451059,
+    "latitude": 43.4263387,
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Barth Dental Laboratory",
+    "coordinates": {
+      "lat": 43.5062054,
+      "lng": -80.5413124
+    },
+    "longitude": -80.5413124,
+    "latitude": 43.5062054,
+    "types": [
+      "dentist",
+      "health",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Chiu Dental",
+    "coordinates": {
+      "lat": 43.462431,
+      "lng": -80.5254561
+    },
+    "longitude": -80.5254561,
+    "latitude": 43.462431,
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Greenbrook Dentistry",
+    "coordinates": {
+      "lat": 43.4249987,
+      "lng": -80.5108502
+    },
+    "longitude": -80.5108502,
+    "latitude": 43.4249987,
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Dentistry Plus",
+    "coordinates": {
+      "lat": 43.4468529,
+      "lng": -80.5706439
+    },
+    "longitude": -80.5706439,
+    "latitude": 43.4468529,
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "King East Dental Care",
+    "coordinates": {
+      "lat": 43.43760149999999,
+      "lng": -80.4595051
+    },
+    "longitude": -80.4595051,
+    "latitude": 43.43760149999999,
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Dr. Arnold Fleming",
+    "coordinates": {
+      "lat": 43.4522343,
+      "lng": -80.51759109999999
+    },
+    "longitude": -80.51759109999999,
+    "latitude": 43.4522343,
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Waterloo Dental Clinic",
+    "coordinates": {
+      "lat": 43.4770981,
+      "lng": -80.5256898
+    },
+    "longitude": -80.5256898,
+    "latitude": 43.4770981,
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Bridge West Dental Office",
+    "coordinates": {
+      "lat": 43.4953651,
+      "lng": -80.5009918
+    },
+    "longitude": -80.5009918,
+    "latitude": 43.4953651,
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Dr. Huay-Leng Lee Dentistry",
+    "coordinates": {
+      "lat": 43.4626184,
+      "lng": -80.5288346
+    },
+    "longitude": -80.5288346,
+    "latitude": 43.4626184,
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Tucakov Ivan Dr",
+    "coordinates": {
+      "lat": 43.45129600000001,
+      "lng": -80.4899435
+    },
+    "longitude": -80.4899435,
+    "latitude": 43.45129600000001,
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Dentistry On King",
+    "coordinates": {
+      "lat": 43.4546467,
+      "lng": -80.50449440000001
+    },
+    "longitude": -80.50449440000001,
+    "latitude": 43.4546467,
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Dental Solutions - Dr. J. Gangwani & Dr. Mike Narayansingh (Orthodontics, Cosmetic, General, Emergency)",
+    "coordinates": {
+      "lat": 43.4511487,
+      "lng": -80.486037
+    },
+    "longitude": -80.486037,
+    "latitude": 43.4511487,
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "King & Scott Denture Clinic",
+    "coordinates": {
+      "lat": 43.4489078,
+      "lng": -80.48561269999999
+    },
+    "longitude": -80.48561269999999,
+    "latitude": 43.4489078,
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Lackner Woods Family Dentistry",
+    "coordinates": {
+      "lat": 43.44248,
+      "lng": -80.41497
+    },
+    "longitude": -80.41497,
+    "latitude": 43.44248,
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Roth Valerie Dr",
+    "coordinates": {
+      "lat": 43.4540819,
+      "lng": -80.5542956
+    },
+    "longitude": -80.5542956,
+    "latitude": 43.4540819,
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Haley Blair Dr",
+    "coordinates": {
+      "lat": 43.442063,
+      "lng": -80.54372149999999
+    },
+    "longitude": -80.54372149999999,
+    "latitude": 43.442063,
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Iris Dentistry",
+    "coordinates": {
+      "lat": 43.495152,
+      "lng": -80.54792499999999
+    },
+    "longitude": -80.54792499999999,
+    "latitude": 43.495152,
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Kitchener East Family Dental",
+    "coordinates": {
+      "lat": 43.45496299999999,
+      "lng": -80.4747174
+    },
+    "longitude": -80.4747174,
+    "latitude": 43.45496299999999,
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "TriCity Orthodontics",
+    "coordinates": {
+      "lat": 43.4205632,
+      "lng": -80.4480354
+    },
+    "longitude": -80.4480354,
+    "latitude": 43.4205632,
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Sunrise Dental Arts",
+    "coordinates": {
+      "lat": 43.41533,
+      "lng": -80.5136799
+    },
+    "longitude": -80.5136799,
+    "latitude": 43.41533,
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Forest Hill Family Dental",
+    "coordinates": {
+      "lat": 43.426027,
+      "lng": -80.5108719
+    },
+    "longitude": -80.5108719,
+    "latitude": 43.426027,
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Dr George Ho",
+    "coordinates": {
+      "lat": 43.4378629,
+      "lng": -80.56003369999999
+    },
+    "longitude": -80.56003369999999,
+    "latitude": 43.4378629,
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Aura Dentistry",
+    "coordinates": {
+      "lat": 43.4634857,
+      "lng": -80.5097122
+    },
+    "longitude": -80.5097122,
+    "latitude": 43.4634857,
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "mujalcareredental",
+    "coordinates": {
+      "lat": 43.4533713,
+      "lng": -80.5558241
+    },
+    "longitude": -80.5558241,
+    "latitude": 43.4533713,
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Rockway Dentistry",
+    "coordinates": {
+      "lat": 43.4379705,
+      "lng": -80.4589639
+    },
+    "longitude": -80.4589639,
+    "latitude": 43.4379705,
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Advance Dental Care",
+    "coordinates": {
+      "lat": 43.4665303,
+      "lng": -80.5207902
+    },
+    "longitude": -80.5207902,
+    "latitude": 43.4665303,
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Kevin Patrick McSweeny Orthodontist",
+    "coordinates": {
+      "lat": 43.45827,
+      "lng": -80.5142147
+    },
+    "longitude": -80.5142147,
+    "latitude": 43.45827,
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Park Street Family Dental",
+    "coordinates": {
+      "lat": 43.4562781,
+      "lng": -80.51565289999999
+    },
+    "longitude": -80.51565289999999,
+    "latitude": 43.4562781,
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Twincity Dental",
+    "coordinates": {
+      "lat": 43.4720826,
+      "lng": -80.5143106
+    },
+    "longitude": -80.5143106,
+    "latitude": 43.4720826,
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Jahandari Vinolea",
+    "coordinates": {
+      "lat": 43.4721992,
+      "lng": -80.5144426
+    },
+    "longitude": -80.5144426,
+    "latitude": 43.4721992,
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "KW Periodontics and Dental Implants",
+    "coordinates": {
+      "lat": 43.4522403,
+      "lng": -80.51761719999999
+    },
+    "longitude": -80.51761719999999,
+    "latitude": 43.4522403,
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Waterloo Dental Centre",
+    "coordinates": {
+      "lat": 43.476853,
+      "lng": -80.5247043
+    },
+    "longitude": -80.5247043,
+    "latitude": 43.476853,
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Western Dental Care",
+    "coordinates": {
+      "lat": 43.4502753,
+      "lng": -80.51566059999999
+    },
+    "longitude": -80.51566059999999,
+    "latitude": 43.4502753,
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "City Smiles Dentistry",
+    "coordinates": {
+      "lat": 43.4543741,
+      "lng": -80.50369839999999
+    },
+    "longitude": -80.50369839999999,
+    "latitude": 43.4543741,
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Dr. Liana Cardieri Family and Cosmetic Dentistry",
+    "coordinates": {
+      "lat": 43.4417888,
+      "lng": -80.5137342
+    },
+    "longitude": -80.5137342,
+    "latitude": 43.4417888,
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Midgley Dental",
+    "coordinates": {
+      "lat": 43.4424806,
+      "lng": -80.5433106
+    },
+    "longitude": -80.5433106,
+    "latitude": 43.4424806,
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Dr. Ajay Munjal",
+    "coordinates": {
+      "lat": 43.4523765,
+      "lng": -80.5556081
+    },
+    "longitude": -80.5556081,
+    "latitude": 43.4523765,
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Monarch Dentistry at Benton Medical Centre",
+    "coordinates": {
+      "lat": 43.44755019999999,
+      "lng": -80.488571
+    },
+    "longitude": -80.488571,
+    "latitude": 43.44755019999999,
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Dr. Jitendra Gangwani",
+    "coordinates": {
+      "lat": 43.45496299999999,
+      "lng": -80.4747174
+    },
+    "longitude": -80.4747174,
+    "latitude": 43.45496299999999,
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Deer Ridge Periodontics",
+    "coordinates": {
+      "lat": 43.4352226,
+      "lng": -80.49011829999999
+    },
+    "longitude": -80.49011829999999,
+    "latitude": 43.4352226,
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "KW Dentistry",
+    "coordinates": {
+      "lat": 43.4593758,
+      "lng": -80.470371
+    },
+    "longitude": -80.470371,
+    "latitude": 43.4593758,
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Toothworks The Boardwalk Dental",
+    "coordinates": {
+      "lat": 43.4402508,
+      "lng": -80.564961
+    },
+    "longitude": -80.564961,
+    "latitude": 43.4402508,
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Dr Krebs Ralph",
+    "coordinates": {
+      "lat": 43.5042883,
+      "lng": -80.5090195
+    },
+    "longitude": -80.5090195,
+    "latitude": 43.5042883,
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Kitchener Dentist Sherwood Dental",
+    "coordinates": {
+      "lat": 43.4560592,
+      "lng": -80.46099840000001
+    },
+    "longitude": -80.46099840000001,
+    "latitude": 43.4560592,
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "DAWSON DENTAL CENTRE-KITCHENER",
+    "coordinates": {
+      "lat": 43.4243973,
+      "lng": -80.5534596
+    },
+    "longitude": -80.5534596,
+    "latitude": 43.4243973,
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Country Hills Dentistry",
+    "coordinates": {
+      "lat": 43.4135459,
+      "lng": -80.47218319999999
+    },
+    "longitude": -80.47218319999999,
+    "latitude": 43.4135459,
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "STANLEY PARK DENTAL CARE",
+    "coordinates": {
+      "lat": 43.4494707,
+      "lng": -80.44553429999999
+    },
+    "longitude": -80.44553429999999,
+    "latitude": 43.4494707,
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Dr. Sorin Mitrana",
+    "coordinates": {
+      "lat": 43.419066,
+      "lng": -80.46917169999999
+    },
+    "longitude": -80.46917169999999,
+    "latitude": 43.419066,
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Solar Dental",
+    "coordinates": {
+      "lat": 43.418924,
+      "lng": -80.450133
+    },
+    "longitude": -80.450133,
+    "latitude": 43.418924,
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Toothworks Fairview Park Dental",
+    "coordinates": {
+      "lat": 43.423933,
+      "lng": -80.44028399999999
+    },
+    "longitude": -80.44028399999999,
+    "latitude": 43.423933,
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Kitchener Dentist Fairway Dental",
+    "coordinates": {
+      "lat": 43.4199106,
+      "lng": -80.44075839999999
+    },
+    "longitude": -80.44075839999999,
+    "latitude": 43.4199106,
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "River Family Dentistry",
+    "coordinates": {
+      "lat": 43.433415,
+      "lng": -80.4273688
+    },
+    "longitude": -80.4273688,
+    "latitude": 43.433415,
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  }
+]

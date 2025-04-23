@@ -1,0 +1,38 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4528666,
+        "lng": -80.5036913
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4541528302915,
+          "lng": -80.50245641970848
+        },
+        "southwest": {
+          "lat": 43.4514548697085,
+          "lng": -80.5051543802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/airport-71.png",
+    "icon_background_color": "#10BDFF",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/airport_pinlet",
+    "name": "Kitchener Heliport",
+    "place_id": "ChIJ5WRwQqv1K4gRbtbOWy_1HAI",
+    "plus_code": {
+      "compound_code": "FF3W+4G Kitchener, ON, Canada",
+      "global_code": "86MXFF3W+4G"
+    },
+    "reference": "ChIJ5WRwQqv1K4gRbtbOWy_1HAI",
+    "scope": "GOOGLE",
+    "types": [
+      "airport",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Kitchener"
+  }
+]

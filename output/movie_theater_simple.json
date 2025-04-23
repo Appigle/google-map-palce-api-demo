@@ -1,0 +1,106 @@
+[
+  {
+    "name": "Galaxy Cinemas Waterloo",
+    "coordinates": {
+      "lat": 43.4964009,
+      "lng": -80.52579449999999
+    },
+    "longitude": -80.52579449999999,
+    "latitude": 43.4964009,
+    "types": [
+      "movie_theater",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Landmark Cinemas Waterloo",
+    "coordinates": {
+      "lat": 43.4388932,
+      "lng": -80.5667885
+    },
+    "longitude": -80.5667885,
+    "latitude": 43.4388932,
+    "types": [
+      "movie_theater",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Bingemans",
+    "coordinates": {
+      "lat": 43.4735004,
+      "lng": -80.4500826
+    },
+    "longitude": -80.4500826,
+    "latitude": 43.4735004,
+    "types": [
+      "campground",
+      "bowling_alley",
+      "amusement_park",
+      "movie_theater",
+      "lodging",
+      "food",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "The Princess Original Cinema",
+    "coordinates": {
+      "lat": 43.4668471,
+      "lng": -80.5233265
+    },
+    "longitude": -80.5233265,
+    "latitude": 43.4668471,
+    "types": [
+      "movie_theater",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Apollo Cinema",
+    "coordinates": {
+      "lat": 43.45177839999999,
+      "lng": -80.4888763
+    },
+    "longitude": -80.4888763,
+    "latitude": 43.45177839999999,
+    "types": [
+      "movie_theater",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Cineplex Cinemas Kitchener and VIP",
+    "coordinates": {
+      "lat": 43.42027889999999,
+      "lng": -80.4388894
+    },
+    "longitude": -80.4388894,
+    "latitude": 43.42027889999999,
+    "types": [
+      "movie_theater",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Princess Twin Cinemas",
+    "coordinates": {
+      "lat": 43.4665644,
+      "lng": -80.52241599999999
+    },
+    "longitude": -80.52241599999999,
+    "latitude": 43.4665644,
+    "types": [
+      "movie_theater",
+      "point_of_interest",
+      "establishment"
+    ]
+  }
+]

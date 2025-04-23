@@ -1,0 +1,2615 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47343889999999,
+        "lng": -80.5240063
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4748718802915,
+          "lng": -80.5228523697085
+        },
+        "southwest": {
+          "lat": 43.4721739197085,
+          "lng": -80.52555033029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "WLU 24Hr Residence Parking (Green) Lot 5",
+    "place_id": "ChIJYRIVjwr0K4gRU5XcZQYhGWM",
+    "plus_code": {
+      "compound_code": "FFFG+99 Waterloo, ON, Canada",
+      "global_code": "86MXFFFG+99"
+    },
+    "rating": 3.5,
+    "reference": "ChIJYRIVjwr0K4gRU5XcZQYhGWM",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "Lodge Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4726127,
+        "lng": -80.5319944
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47399618029149,
+          "lng": -80.53062366970849
+        },
+        "southwest": {
+          "lat": 43.47129821970849,
+          "lng": -80.53332163029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "WLU 24Hr Residence Parking (Red) Lot 31",
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103333544959601481390\">Harv G</a>"
+        ],
+        "photo_reference": "AeeoHcIPE5-2fLQ0bEWyGJv68cYvdnfxoldlgcMVdNubNfV_93EgBB96h0YSwNKpVPqp95oOuBVcYRekgbR8-6IHq3QWwCQdxy0DZenswDiE929wWySZjpBuk-XU3GpJUFq8qp6_UlJ2C-l9Tzrxz5HM1IFLDKmaT2D3PmX7n-9OxQ3n4TQlh070bNRhAyW90LdKaXimg9vo7C_UYyBJDnZ_JR0Gmi0ZL2qwfbKE87iaFnTEuU5CS0TCwgdv6xMkRa4LVpH6yNr15f26wt_1ldnADzwQ5HEaxVI4_9t9WI9xSw3QnFSChXADFHRn6sGGTi6NbXNCZhh8GQDuS-6oJA57CXLhHN2a4xj646wBVUtfx9pSojz_OwjaFUIpyas1qFgkS8GIvQ1NmTGPej4Lgy7G_Tv38W-KteL6IYmcN_n8O8ZWnzXiLnOvuejtHct9QU0I5bJlUD40-4PbiGY08m4YyiouHXZI0NmLAmKtSlTCxHKDeYlQc_Vcsjdp5D66wQ0lPmYQM7fcvvD8j8Edwq974PcwxEU--eRE2RTE2tXCLrbztoD83sAIy4Uu81b2rgdyVMEfc9e-_EBFGRXgk8Lh-HH-DTUXX5NojWl4WsiDIyJFqWV4_OvIwAx1AnRseQwQK82USc6r",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJC7aOiQj0K4gRbfX2PabSX7g",
+    "plus_code": {
+      "compound_code": "FFF9+26 Waterloo, ON, Canada",
+      "global_code": "86MXFFF9+26"
+    },
+    "rating": 5,
+    "reference": "ChIJC7aOiQj0K4gRbfX2PabSX7g",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "196 Sunview Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4718026,
+        "lng": -80.55321090000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4731492302915,
+          "lng": -80.55186036970849
+        },
+        "southwest": {
+          "lat": 43.4704512697085,
+          "lng": -80.5545583302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "Parking Lot S (S Lot)",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109078186295250826368\">Connor Hammond</a>"
+        ],
+        "photo_reference": "AeeoHcK9mAftlW1FQtf_J-yRbU5gXoXxIuOxFtVDwhxIg62BfTIUSPOcpvEnk-33lmvGXU2p9hGc4sPtNFzDrjG7EO3DZaX0FNsUDd_pM4KY4WwRHxoCxDHrLPwyRdk6rLL5hrseJJW20CfPRH63RY-x_xHezBnkPH6OrohLjLWED6PkGyKOmliMlyc_8UHTEu-zLOKCB-mwfgoKKSmS3M-sBt6s5wRVTJ5tjNv6MXusgU2FT6T41qYN0lpVayMnasfE3DVqoGradrA5yLdNpGq4D5BbDsLdmoV0djqrMRYW-WoHFk63V0g_1KHN2gA5VZjk_PllGBWfhx2mwhAh8CKUiozl09zmvLAxZeSzGb7HQ_vNJTGMIUOlayPcu6Y2M3cgddpgV4BnldjxL5mE4_uHsp0OKDYFqf02bpf16_xPa9XmxKz_VAf79bvQLeoNaWaPs7_LJtojZoEKb4ydXoCfj7LGa_W-Nsq5oP2hf7YR4l9Sr1ddg7E7z5bQl6sEUtv1Z_r1xkfUJpkyAOLkWenhTlaD979ktVH1y-_Snsjfsgo1v0u6WJBRNAQLF82MtilEIh5wcYr1CQz_QChYkatOgIl0VhT2x9MSnohr3MernQsHaf8-jKLFu-hHoACC4-t4tpU7pTUR",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJNSj3da72K4gRppYXrV2mKPE",
+    "plus_code": {
+      "compound_code": "FCCW+PP Waterloo, ON, Canada",
+      "global_code": "86MXFCCW+PP"
+    },
+    "rating": 5,
+    "reference": "ChIJNSj3da72K4gRppYXrV2mKPE",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "200 Columbia Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.474021,
+        "lng": -80.52383259999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4752443802915,
+          "lng": -80.5224649697085
+        },
+        "southwest": {
+          "lat": 43.4725464197085,
+          "lng": -80.5251629302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "WLU Staff & Faculty Parking (Gold) Lot 40",
+    "place_id": "ChIJPf_5ggr0K4gRRevJ7GtlZQs",
+    "plus_code": {
+      "compound_code": "FFFG+JF Waterloo, ON, Canada",
+      "global_code": "86MXFFFG+JF"
+    },
+    "reference": "ChIJPf_5ggr0K4gRRevJ7GtlZQs",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "12 Lodge Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47222299999999,
+        "lng": -80.53268899999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47351113029149,
+          "lng": -80.5315006197085
+        },
+        "southwest": {
+          "lat": 43.4708131697085,
+          "lng": -80.5341985802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "WLU 24Hr Residence Parking (Red) Lot 31b",
+    "place_id": "ChIJMWX9gQj0K4gRghaPFu2JL50",
+    "plus_code": {
+      "compound_code": "FFC8+VW Waterloo, ON, Canada",
+      "global_code": "86MXFFC8+VW"
+    },
+    "reference": "ChIJMWX9gQj0K4gRghaPFu2JL50",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "204 Lester Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4717249,
+        "lng": -80.5320813
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4729823802915,
+          "lng": -80.53089006970849
+        },
+        "southwest": {
+          "lat": 43.4702844197085,
+          "lng": -80.53358803029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "WLU 24Hr Residence Parking (Red) Lot 31c",
+    "place_id": "ChIJ47aKmgj0K4gRpIVo8j8Btc4",
+    "plus_code": {
+      "compound_code": "FFC9+M5 Waterloo, ON, Canada",
+      "global_code": "86MXFFC9+M5"
+    },
+    "rating": 5,
+    "reference": "ChIJ47aKmgj0K4gRpIVo8j8Btc4",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "201 Lester Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4739734,
+        "lng": -80.52639409999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4753059302915,
+          "lng": -80.52508486970848
+        },
+        "southwest": {
+          "lat": 43.4726079697085,
+          "lng": -80.5277828302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "WLU Staff, Faculty & Student Parking (Gold & White) Lot 3A & 3B",
+    "place_id": "ChIJS8qYDwr0K4gRk1pFkP_Euno",
+    "plus_code": {
+      "compound_code": "FFFF+HC Waterloo, ON, Canada",
+      "global_code": "86MXFFFF+HC"
+    },
+    "rating": 4,
+    "reference": "ChIJS8qYDwr0K4gRk1pFkP_Euno",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4754535,
+        "lng": -80.5239387
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4768023802915,
+          "lng": -80.5229659697085
+        },
+        "southwest": {
+          "lat": 43.4741044197085,
+          "lng": -80.52566393029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "WLU Staff & Faculty Parking (Gold) Lot 22",
+    "place_id": "ChIJx_67DfXzK4gRPkel3VG_kBk",
+    "plus_code": {
+      "compound_code": "FFGG+5C Waterloo, ON, Canada",
+      "global_code": "86MXFFGG+5C"
+    },
+    "reference": "ChIJx_67DfXzK4gRPkel3VG_kBk",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "232 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4777513,
+        "lng": -80.5319076
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4789497302915,
+          "lng": -80.5301100697085
+        },
+        "southwest": {
+          "lat": 43.4762517697085,
+          "lng": -80.53280803029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "WLU Student Parking (White) Lot 37",
+    "place_id": "ChIJKd8tcPfzK4gRNLcmpirx89M",
+    "plus_code": {
+      "compound_code": "FFH9+46 Waterloo, ON, Canada",
+      "global_code": "86MXFFH9+46"
+    },
+    "rating": 5,
+    "reference": "ChIJKd8tcPfzK4gRNLcmpirx89M",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4744164,
+        "lng": -80.5281307
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4759241802915,
+          "lng": -80.52669636970849
+        },
+        "southwest": {
+          "lat": 43.4732262197085,
+          "lng": -80.52939433029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "WLU Residence Life Staff Parking (Orange) Lot 19A",
+    "place_id": "ChIJ-YPR5PXzK4gRIUGHMKO34FE",
+    "plus_code": {
+      "compound_code": "FFFC+QP Waterloo, ON, Canada",
+      "global_code": "86MXFFFC+QP"
+    },
+    "rating": 4,
+    "reference": "ChIJ-YPR5PXzK4gRIUGHMKO34FE",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "75 University Avenue West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4692491,
+        "lng": -80.5374563
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4706095802915,
+          "lng": -80.5361485697085
+        },
+        "southwest": {
+          "lat": 43.4679116197085,
+          "lng": -80.53884653029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "Parking Lot A, University of Waterloo",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118141292848437638476\">Marta Borowska</a>"
+        ],
+        "photo_reference": "AeeoHcLdQDB68eW_7lMjrVIG8yMyWuQ1nvt3f3jIPlIdvoHGjFT-T08DUCyNvmjmd16o8N2VYZpnt13S_Ggb6Had_0DNFTDnd8ss8XiYUofJ9JOdSSZ58Yx0Gq_xUC7WXnSVKdDsTx8Civ89MJ16NhW8bZhlP53XYHrblm1jFZ37cW_qz8Nwg_TUujFPi2tW5La8GgNhmYQMFkVH6Myy_yoGrT5_jPNIixRQKj7IcZEdXWdmqbXTRwtXMfspprJGK4x-CjKp6YuXCjzQ9txt_m0ZGtbEjp5DgFGVgvH5ibLj2ozPWyW7MfmDl4HJ1WU0Y_JkN8FP3bwUV8yMKtiLe8dkHRl3QRTaGg7GbrBV2lO8OGyVv1Y6zSgJH4upBgXqEFtJRxHY0eD3XhfrThM3Z33uOnux1wH9MkwjAe9RpAEYl47wvI-N-kT1GYqni0VzyGgevaHHZAGBcBBRo6rliv3oar4N7YuWOAaqWryzD-QxjIEic45swJtOhfemY4xdsyYCdsYE3fUwFYeAYB-p0i5wjktDiqYxYwdSUPT7DkztTxN4Fb59UqdOfh87BDjkc32V0I67ljtD8RxcAMY3iyP3HSn_eSuQR3F0mEm1hPluFr2LYVGqpupbLxQDtCamCbTSPCMS_Q",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJjZIkbQT0K4gRxr67Ctn48IE",
+    "plus_code": {
+      "compound_code": "FF97+M2 Waterloo, ON, Canada",
+      "global_code": "86MXFF97+M2"
+    },
+    "rating": 2.8,
+    "reference": "ChIJjZIkbQT0K4gRxr67Ctn48IE",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5,
+    "vicinity": "200 University Avenue West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4675796,
+        "lng": -80.5384941
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46893963029149,
+          "lng": -80.53718556970848
+        },
+        "southwest": {
+          "lat": 43.4662416697085,
+          "lng": -80.5398835302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "Parking Lot C, University of Waterloo",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113866978035699442176\">Damian Simon Peter</a>"
+        ],
+        "photo_reference": "AeeoHcIf-Qx0eSDy73KWpX01scMQTBGm6AO4h7YFo7kRtHEwIqpKR2GMqeeKeAW6LobmcIpQV70XSAdaMKqKzP3G7CI9aslUHE2gCNUl0KLKjkslk0o3vFhKbsG3AJ2YdSmkSHoJf2JvwG-qNyPTp6nwv4R37R1vsSnZRYIhVPMSXafZbMojANEnttohDEwWD4k863I8U-F73YGDUAFnS5QIG5MzRv4iENAGWPmMLQt2vZB2fH-2T07kRRMN8T48ORD91gr4KBNCPzdUUaFz7by_dAcnkzYFFlWbFpfGV-FKZfAkdU-Dc2iKDlIq7tv6Gxsp9PRzSN2JasMXR-sBZZaxIJcUoq4iJk7sXDpI9g9UgRJocyEa8xvZuRYQYJ3aOe0cbSgBdv_p2WVp7I_1IvX3mqfSeJp6IK4fOp55FFGvI5k8ist68smS-WqcEmI_JJki5ThdoOhhiYdQzlX0e8S7Pa_kmyPtG94dZ-BXsRq1vbyx6XvlIj7hLX_UZyraTfguCJaEZdm_f0BUqZm2T5oJoPYNwMEfbC-dN4jWc2FDpQ81UqU_vT4njP1E_xC1YmuJPA2a9SClX-eLhXFuTGLDoHBg-xsziYNgAHbJBPwyrqGLUKqRyk8Mk6YU2XtaOvN8x42Ljg",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJRRTIfQP0K4gRW5ikpuspNR8",
+    "plus_code": {
+      "compound_code": "FF96+2J Waterloo, ON, Canada",
+      "global_code": "86MXFF96+2J"
+    },
+    "rating": 4.3,
+    "reference": "ChIJRRTIfQP0K4gRW5ikpuspNR8",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 32,
+    "vicinity": "Seagram Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4503239,
+        "lng": -80.5154886
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4515598802915,
+          "lng": -80.5143031697085
+        },
+        "southwest": {
+          "lat": 43.4488619197085,
+          "lng": -80.5170011302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "Standard Parking",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114622986187328897792\">Erico da Silva</a>"
+        ],
+        "photo_reference": "AeeoHcLi8IbCogXAYZQvNqWtIJj9Ehy_MBgsstLngthTNLE0_Wdgxa9wDkNwgv2rfsq9QsNZJ6BN4w8_KQ_K9LemHlXeMSVoaar9WF9eLU6SVLQrYWxwFWtJM9mdkFJeCgvjCL8vr3QX8HbyVw_i3LWFh9j22nKq2V-YIMuv7Qg0MHNjC4zdKxnI6fx7U32KQffjB_qAus4j9f1wVkwgsynhlKL01ayWP1Q_7jkziqJcuKueLG7Le8hblPftq68HZiKg-q4xreg-0ldzbW6Sl5n5A4gz21L4RO6Z7VIdG1MNdXCMx_9X-NmgkL599Zm9HgE-PE4eqGytF3QgJebVd1j9GmUU6FehMG8gofs88MjVzW0QLtv8aet8D6PlBVbJMkFg9q7rVrXaD9PdUSY4Sq8tyxjrECwRMM2HulxtNFCXEZd8zruDlFQuICVQ37PDNwAkVwUuAoQuBMgTPfsJ3DVZj4Ck8Wt3yG0m8C7MFsnkvqkUG8q7L3dM1tC4DuvxEdF-8phm8FCKHnjCkPYagQbZjK-j725L2d2kBbosj0clFd6eiHP6K-K2OBnldhDhTbmMeEfNR2F92lC3AY_pTDnkOvadZ2UsgPd6Pk6gIJvzFc_elzWPs39BKYyOwDvoLP1OdP1Dvw",
+        "width": 3000
+      }
+    ],
+    "place_id": "ChIJu0-m5UP0K4gRswsULlob_sU",
+    "plus_code": {
+      "compound_code": "FF2M+4R Kitchener, ON, Canada",
+      "global_code": "86MXFF2M+4R"
+    },
+    "rating": 2.8,
+    "reference": "ChIJu0-m5UP0K4gRswsULlob_sU",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "564 Belmont Avenue West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4500651,
+        "lng": -80.50333239999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4514401302915,
+          "lng": -80.50203041970848
+        },
+        "southwest": {
+          "lat": 43.4487421697085,
+          "lng": -80.5047283802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "Bramm St. Yards Parking",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1210,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109478276709859866090\">Bramm St. Yards Parking - City of Kitchener</a>"
+        ],
+        "photo_reference": "AeeoHcKF9pg76lpC3qLOFXMophGkhuDY5e08mpAU7nzoVVQ4Rnmmcj_DhWtgJtxiwctDRhZ49EP51aoZjKwB2H7ds0NyF-rzhgbZ5xFtrCi0KhEybx17kofUR4XCug8-3jKsy98NY8v6S4RFcgllgoIBH_NNLlthBnlkXjtuj5WDEX4yVs1Mq5OWd5t7lOXzdOXiQ4AhQzyLPnfDCKcVlkquPXjvFysu6ktBfzjDZCkbl0i1AMoVGr07Ba5GzzQIxjQwylmIM9j0-kKStp9CI80V_-SgSV6Qy5XjAGw6TfrNvA6CvofYOTmwgWPIajyktd-dKLkIM03O4TE",
+        "width": 1613
+      }
+    ],
+    "place_id": "ChIJy7lm5V70K4gRpS7nw-7r6i4",
+    "plus_code": {
+      "compound_code": "FF2W+2M Kitchener, ON, Canada",
+      "global_code": "86MXFF2W+2M"
+    },
+    "rating": 3,
+    "reference": "ChIJy7lm5V70K4gRpS7nw-7r6i4",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 11,
+    "vicinity": "55 Bramm Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47617899999999,
+        "lng": -80.5439318
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47752778029149,
+          "lng": -80.54258271970849
+        },
+        "southwest": {
+          "lat": 43.47482981970849,
+          "lng": -80.5452806802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "Parking Lot OV",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104607390712034938536\">Varadharajan Jayakumar</a>"
+        ],
+        "photo_reference": "AeeoHcLgyvYg8hvZAgI3g0bRRt2qy96ibH8NA_c-01chhM4A52pirn6vzLSJUktvKgu3uolv8WGMk7SPPc90J1bGtn5QlC0Qk6EFIxOhTB4rdthL0nupbIiB3WuK2e_-3elXK0PeIRPnyAg4Hr9yZJ6-5xZ_ozxXmv5Fz0Ja3JzDSq0r8YLtB1nhlx9rZcG8XoYQitBsOHYxJKIxnihcnjXlOX8pNuFgdHQ8-uo96X2VUWvTATX-sC8A54Kz2i5xDF5uK1Mc7sadM-kFMOSp-iiECvsMyr0i9F5EhyFLOfhpNXCpmimr6KH7j3CtqBC2xc2D6w9JVOX1R8bdovqlRZHeu2VDjtPYPtBkt5JjAPqYyEHZfGoM8teKtnet68CZKMp4St5Hih9i4vUwEoZ6ZPSvya66S3OeammOapBtYJr4d-yvqm9EBHxh6nnbDX7IJImfsFMHyPbaQjbfXtUYXw5txxqigM4znPfYGQYPtyYJZqI3AnH0ihFUexbScg90fq1PYeE5IgyTvXYTYj3trKaZL3s9fjwPWSiRTojVQA-MeLVvbJwwIp0uSZnjWoCmeWYlI1MGaSjkCOpsqcgKdavBJjNXRhL3nNAVHEw2ZM1xUAvwo8yFowZpm-OklI0gZifDUOhqX3D7",
+        "width": 4160
+      }
+    ],
+    "place_id": "ChIJfSXpVVXxK4gRlCCPjYjroDE",
+    "plus_code": {
+      "compound_code": "FFG4+FC Waterloo, ON, Canada",
+      "global_code": "86MXFFG4+FC"
+    },
+    "rating": 5,
+    "reference": "ChIJfSXpVVXxK4gRlCCPjYjroDE",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "University of Waterloo, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47683399999999,
+        "lng": -80.54685119999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4781671302915,
+          "lng": -80.54549171970848
+        },
+        "southwest": {
+          "lat": 43.4754691697085,
+          "lng": -80.54818968029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "Parking Lot X",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118141292848437638476\">Marta Borowska</a>"
+        ],
+        "photo_reference": "AeeoHcKywfkRgQsUUcXmBqrsTvSviHAygyIDMjYWgCEifn5FmVW0U2UaS1InXyW8SVzU311gs92iNpkT5oLCRYsxhKbZ1LsWbVyjC9yigLMZrnIUcUoGhGuKG01EwjDC8518P4a4ebugu3F2VCnoRSkoD2y2If5JKtbB5yPfRqRd1wrgsm_2gjji8inBcCV0ilabKB9tl5fdf84iFagYAr-TOaehuf1N_v7bmtwYOTXyUfdGOuTQ8CVyZDUtposPmDu7UDWxSpfaSBXdSnYZsvaV4Q2SdxAYi47vmpcJQbktv8OTWpSNglVPBE-gy6swOXVhW2wWB5cxc9jA7POVR9rwxlOVxG3XIuxiWckHcYiEyTQgL7TfmETtzbklJoCcf2zwpdaO1wUg-Elzd7TCGdYU10TYZ9_lp8Y1KxJnqPh8rWXm83j1M7vXpuUiiWZXLQdh7p1SiSUQPg7zukloMEF00MI8wa9Fx7QJ7vO7qoCGbq1hg7XcpfuupT9nj0npet133mRuzaoRPSLExbXDnxPDs48IP5hyr7oo9BvZCAPaQ_TAYBMxGzTcBf6_fVwG3HGcuGO0CGham1hKgpMUoUCEuKnpFcATIGDovUcTy_1a9OMdigi3SPnZA15tdi0gomyvS75CfA",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ61ABugP0K4gR6wy3M80RkB4",
+    "plus_code": {
+      "compound_code": "FFG3+P7 Waterloo, ON, Canada",
+      "global_code": "86MXFFG3+P7"
+    },
+    "rating": 4.4,
+    "reference": "ChIJ61ABugP0K4gR6wy3M80RkB4",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 17,
+    "vicinity": "Optometry, Hagey Boulevard, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44951520000001,
+        "lng": -80.4904717
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4509284302915,
+          "lng": -80.48932531970848
+        },
+        "southwest": {
+          "lat": 43.44823046970851,
+          "lng": -80.4920232802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "TD Centre",
+    "place_id": "ChIJa_XEUPL0K4gRyPv28visvbg",
+    "plus_code": {
+      "compound_code": "CGX5+RR Kitchener, ON, Canada",
+      "global_code": "86MXCGX5+RR"
+    },
+    "rating": 1,
+    "reference": "ChIJa_XEUPL0K4gRyPv28visvbg",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "63 Ontario Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45174449999999,
+        "lng": -80.4882003
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45299918029149,
+          "lng": -80.4866247697085
+        },
+        "southwest": {
+          "lat": 43.45030121970849,
+          "lng": -80.4893227302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "Standard Parking",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 680,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108565797560660960541\">Standard Parking</a>"
+        ],
+        "photo_reference": "AeeoHcLtL-fQmwhDl33lscpY_XZB0-IBvwGdWaFZNxxJNvTH17ZcA8ce3t9M2Q2YNmutnPGVmv1pYig3UsrO9R2BGR13tpVGB3ZYSdZMvthEbWajj52jLxoZtjDcSjGfmACn7xSXp365DrGMsAI-FHyRqGYc-q2dk2yH5zZsUi00cExC9oI_hZ25Iv_Xi9-ir0LQzPuqrBEKQlgljsVpiAZv02wwRwglQCMptST-ngWWOmlluwDeJY5jX2P5AVvKbUb8I3w1ejflfxyZnNU9v4dpYPByq-oRpiNKHqRFfJ6c-RSBw9nar7B5Zu_oqRp5mYmJuEWNxRShrpk",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJ06gKVO30K4gRk82oiatSAaM",
+    "plus_code": {
+      "compound_code": "FG26+MP Kitchener, ON, Canada",
+      "global_code": "86MXFG26+MP"
+    },
+    "rating": 5,
+    "reference": "ChIJ06gKVO30K4gRk82oiatSAaM",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "50 Queen Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45011819999999,
+        "lng": -80.4880266
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4514451802915,
+          "lng": -80.48676896970849
+        },
+        "southwest": {
+          "lat": 43.4487472197085,
+          "lng": -80.4894669302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "Standard Parking",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 680,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117645483069085236394\">Standard Parking</a>"
+        ],
+        "photo_reference": "AeeoHcJiSFM3ZswCoY1g8478DI-3g6aHHSPDZcmtndrmiqFiTeEWTrnx7LsttqMhxQfWlOP5cCY-jb27g6AGk-nFp-HsIIuTiMHASK21UcgoI4Z-mgZP49EsxGdO0yNynnz-T0ScBytHQQOZHjRkPeayXmxfCu2VF--Er_lN2UI0uwN__A_4nW2HPMDJ__F6Dspj4yjvuGVs_aU7K-7nxlJ1SL1_IK4brt0OHDGjLowEu5YjxXPOaF13SrvfxLkxXhM12nfbBFVTcXIFAiK4MJzvLBhBNDjH5DigWnk9mLlJaZBTN3zQrbLmhA2-HG7FbNwNGmo0-eYFLr0",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJFU7PcO30K4gRfrbEX-SaoYc",
+    "plus_code": {
+      "compound_code": "FG26+2Q Kitchener, ON, Canada",
+      "global_code": "86MXFG26+2Q"
+    },
+    "rating": 4,
+    "reference": "ChIJFU7PcO30K4gRfrbEX-SaoYc",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "22 Frederick Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4528307,
+        "lng": -80.4838542
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4541061802915,
+          "lng": -80.4824558697085
+        },
+        "southwest": {
+          "lat": 43.4514082197085,
+          "lng": -80.48515383029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "CANADA REVENUE AGENCY - Lot #114",
+    "photos": [
+      {
+        "height": 1000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110293300541200318525\">CANADA REVENUE AGENCY - Lot #114</a>"
+        ],
+        "photo_reference": "AeeoHcI6Sydiz28mjPJGClb30ApL9nTv8QvHQYqoNVtYSEDDBgMVrwuHZfrwvTqJWE36bRbAZXncKVVlmI0PX4Zmf5UdbaOgHT5fvhRF0DfDILijYuInjBIid9WZl78Tn5k0PJDchtu3oIK2ji-nwqX9xRktds7L-74Jl3KJ9KQfQKI2u4nz0-BzWhN811Qeg6X7vrfAyjYe2xwNLtFo6B4f4pdHyYNYVeC8vwL1t-AI0Ptp7ljd0neY5KhbMEGQvgEe-_oyjJ7CAos8erMCSorBoYpgtBMIL4aLDmPHmq_dX5LmzekNvv_kaHYE5asq0K72ZVt2mq7quU8",
+        "width": 1000
+      }
+    ],
+    "place_id": "ChIJE4ElR5P0K4gRjZuiY6OVyFI",
+    "plus_code": {
+      "compound_code": "FG38+4F Kitchener, ON, Canada",
+      "global_code": "86MXFG38+4F"
+    },
+    "reference": "ChIJE4ElR5P0K4gRjZuiY6OVyFI",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "166 Frederick Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.451108,
+        "lng": -80.48488259999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4523345302915,
+          "lng": -80.48364061970848
+        },
+        "southwest": {
+          "lat": 43.4496365697085,
+          "lng": -80.48633858029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "Standard Parking",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 680,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111653209886435712744\">Standard Parking</a>"
+        ],
+        "photo_reference": "AeeoHcKGP5-CQQdMrEt1rU80iI-stgNnn8EMVj_OmQw3VPnxDgfR7KfqpIM6Q3q1CFEWaO5Jr5TWW9AmfTbi_J2cs3rXJ7oya9eqZokz0VkBcsVR15fBhfkmMMDFnRroleOpGZmmEznRk4Pg6OF4HsrY8fkP7B1YU5EP_SWWvkIS5_Zizma-DOlRk7XBWN9a3LrUPxjUGHWpoOJ1Ia4d8l6O4dxgdsLAlVGqgC4VvqjGQ2Tk3z83vDD_dmCY92C9Acxmdj_FhXyhpKI9c_qLroXU2O993kZiPeW074B0tgiWNFwf2Cet3viEzeZe8yYBoGx2XztFjqvl3z4",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJ_QZ2Ke30K4gRh78qIo9WjjQ",
+    "plus_code": {
+      "compound_code": "FG28+C2 Kitchener, ON, Canada",
+      "global_code": "86MXFG28+C2"
+    },
+    "rating": 3,
+    "reference": "ChIJ_QZ2Ke30K4gRh78qIo9WjjQ",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "101 Frederick Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4488028,
+        "lng": -80.4865787
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45076433029149,
+          "lng": -80.4850265697085
+        },
+        "southwest": {
+          "lat": 43.4480663697085,
+          "lng": -80.4877245302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "Standard Parking",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 680,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110239136533358207703\">Standard Parking</a>"
+        ],
+        "photo_reference": "AeeoHcLQhJ9tcJ_rDcCkL7Wro1qNocwzyyI42dFXnUtLvmOlpLLUwvWxPpHwSbZ5LLYSAGvfFTXYUgjSIWci6BR3dtVfj6yoFeFSOjO6bPy5aPGb2iPxQYVl11azjJBSi0jj9oBmtOKlyYWlgEmYbEHddO4n235fMPYr8lMFYRUgOcAYZmlaHtWS5Vu0v2_DNBM-t4fw4flg7K1plBRPioruD9SlpXQm6knDHmFbX69vplXerf37V08pDChbSBo7LGNYr4PKP3JWAnmHx4BqGx7RL9ieEQ0dgIj06AQgJN8A2Z1yI0HdQ9YGJuObvm5R6l6BgrF2wt4QbuI",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJcyzNme30K4gRr-o8VRRRvws",
+    "plus_code": {
+      "compound_code": "CGX7+G9 Kitchener, ON, Canada",
+      "global_code": "86MXCGX7+G9"
+    },
+    "rating": 2.3,
+    "reference": "ChIJcyzNme30K4gRr-o8VRRRvws",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "25 Frederick Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4479133,
+        "lng": -80.4857184
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4494125302915,
+          "lng": -80.48419536970849
+        },
+        "southwest": {
+          "lat": 43.4467145697085,
+          "lng": -80.48689333029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "Standard Parking",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 680,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116993109718811400630\">Standard Parking</a>"
+        ],
+        "photo_reference": "AeeoHcJ2pRHu02ReUcFIbkdqb83y2u6fhlZxZcazlJlndG0GxmOBz4SWLBdsX7tugnJgQ0sONGQaHnMeJ6W0wRr8ZEzT0Nf8VN9zMHTCs_Qm74-4KD1qQpTJ5i60As9-n7DkvUDsrQw5Nj4lsbqu6fkHcsCIrvYFtGWh2xOLzruWUjRZsGkcnPG7t7h9JREyBRAvNKlyMUBIq3etoXdLjMoB02wgoeUfFLQPnxzuMJLz6_DFpiLTfqgXM_NxJNTLqPR_Gn2BmJqxA-RA3rYIg_kf2Ers6xUcjTiNU14tKuVHgseeAwaaUi_QUpNCf-cy03HsTBS0phmCz9o",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJne3QNOz0K4gRPuUxWZmEuiA",
+    "plus_code": {
+      "compound_code": "CGX7+5P Kitchener, ON, Canada",
+      "global_code": "86MXCGX7+5P"
+    },
+    "rating": 5,
+    "reference": "ChIJne3QNOz0K4gRPuUxWZmEuiA",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "235 King Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4510999,
+        "lng": -80.48929489999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4524102802915,
+          "lng": -80.48787081970849
+        },
+        "southwest": {
+          "lat": 43.4497123197085,
+          "lng": -80.4905687802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "Duke St. Parking Garage",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112666998618423527244\">Mavin Patel</a>"
+        ],
+        "photo_reference": "AeeoHcKZ6pAI3QjzTlF8rEMGDykRjfI0nEmLDQydE27L6u76zM4hSclBwNm4f_SFGWRIjPaC9rt313DIf8j9vUeJko-6SukR0K-BGfg5Q6D3Eqax4rjuC3hI23W4PAIBEPLMlxScJyWZ_HHCTPNlSeqao1vvY3HVE3lDLPfj7qqejLmV89zqtHdjSPvwbnpJPGCdrUfGB7BjwghEwhDafebLcCP1cJV-tURNbey1SeD6SHH71wyqAFDlatJvWi4iVi8BUgZrSewrtBaXlEXz_aZVD3TFSfb6laQU_rMk_hi4ol_1pgZLJFVxz50_VApcDGCPi0mSrdNfM7rFFGwQtSCCDDT3XFo02z6IyoUx2DBICzkXqPAp6s_wqqw0QY0QOYMv2xVzyWWRa4yAPExf9wHCwVCzmDkyG_SEkd6kI55PK_liuvEc1gmzzsMTr2sWNGTjS41dJ051Lz0vGgSG2AbdNpSCiRoZcZdD6t2mw4XmIbTIaUcCqOG67VwMfdcAoaM8cQtt1olN1LzcUfarUYC7njbLDkRGvvyn62jYAMcd6Puv6-99yhbywny3DdemXNr7jT14GDsJkzrLYUbe_q7_Ds55r9b6Jurw6Pk4hbVBuyedLk_XYjzozaB-Fk2Lz6eMPpwJBTRu",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJSWplvvL0K4gRsj9__ZG1F1Y",
+    "plus_code": {
+      "compound_code": "FG26+C7 Kitchener, ON, Canada",
+      "global_code": "86MXFG26+C7"
+    },
+    "rating": 3.9,
+    "reference": "ChIJSWplvvL0K4gRsj9__ZG1F1Y",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 34,
+    "vicinity": "41 Duke Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47353849999999,
+        "lng": -80.5426742
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47494593029148,
+          "lng": -80.54144871970848
+        },
+        "southwest": {
+          "lat": 43.47224796970849,
+          "lng": -80.54414668029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "UW Parking Services",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 624,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111166518812247554114\">UW Parking Services</a>"
+        ],
+        "photo_reference": "AeeoHcJOkyjjULBrvWewTvirtqLGqh4Jipan2vQSFqj2QJnQE-WmRhoDVDmeJBKdREot_aGBukfV3TgkdV92uWN7aSCK1zGsAsNZ7yePW4C1jl6eb7KpmhBopf8JOL6sVTmXWoWl3nAq_vwIjSpQPm5eqfZk91HbMGeYSzLkmwrPNgnP2cs6Ukpk_JxBAYg7hAbpNYR4RGax3MWAAMvfAzIsg8ajhMprdkGFgKDc5uMTPPnsufPfoAClNIPUs6ZFcbXIz14eEu46u88rEFlAlMS73WzQidU94iH6aqtKRvEJdSC1u_w7ZrPKTORXjU0IJ52bhGm1N72JQSs",
+        "width": 1000
+      }
+    ],
+    "place_id": "ChIJLxH9PgD0K4gR4xOvz8dgPD0",
+    "plus_code": {
+      "compound_code": "FFF4+CW Waterloo, ON, Canada",
+      "global_code": "86MXFFF4+CW"
+    },
+    "rating": 1.7,
+    "reference": "ChIJLxH9PgD0K4gR4xOvz8dgPD0",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 83,
+    "vicinity": "200 University Avenue West GSC 1112, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45276759999999,
+        "lng": -80.4921762
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4541667302915,
+          "lng": -80.4909653197085
+        },
+        "southwest": {
+          "lat": 43.4514687697085,
+          "lng": -80.49366328029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "WLU - Kitchener Campus",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115457270505428464666\">ZAIN PHYO</a>"
+        ],
+        "photo_reference": "AeeoHcI9ufxOUczRONIImvPazGd-OkatLvNYY8fYu15UrgXfXR-XIFqC9DoPRUCkKWaOi3CASYoAoIpvrNCcgeQNPnHV2QQSjxGDrnzU8QbLZ9sCoNHDNANJ9sDAXe1nWFvOLN4YM-yLRW3f9WzS4JzvZW9WMoKzpKQiEIMxsBh5byFIfkkyYnvHhLMf5ysH7XzQBPWiFCPJ8SqRRcHwYyUzTXqb2nA8EUD1Kz4-nxL4lTpdln1_DqOMTzsi13utvl0hq1Z3L2PdBAPR5W2rw-5_BaCs0BmmJvLqujwv9q2a1aw1yUWjkqG1uTrEdHbfRGmmGIFcwAI998mfUb5vZP39KZv9MNYP7Y26SLQT6_aX6Q3GFoKIyFz5d1q5EIxzvtBtV5SxP7ZdgoYAEaYW5szj6TxTPnC4Y0cHQvg1TzgVK4xYwtH5yXi0tvz9oqKWghuQIQxoFYoeJ9OGmAyojlE7iggzBL7EppY0Luwn8XLAqRQv7DD-uN9QyBikC3SeFndI-kWjMKQnYInKB48yP5Fvh9x4xPun0Z4Gia40iv5Lg6ynuOBo16ZpNB2zfj0qq_WJrHi5CJrQ2uUEn-jgzMhHB5kO5PN2DZQsT1olRB5hxVOPVzPXjc5EZfsLK67fBwRxBzQ44A",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJrTsAyYz0K4gRO-IuMXnmgRQ",
+    "plus_code": {
+      "compound_code": "FG35+44 Kitchener, ON, Canada",
+      "global_code": "86MXFG35+44"
+    },
+    "rating": 3,
+    "reference": "ChIJrTsAyYz0K4gRO-IuMXnmgRQ",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "College Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4736726,
+        "lng": -80.5214988
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4749429302915,
+          "lng": -80.5200972697085
+        },
+        "southwest": {
+          "lat": 43.4722449697085,
+          "lng": -80.5227952302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "WLU 24Hr Residence Parking (Green) Lot 47",
+    "photos": [
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100891758167189166074\">Regina Gonzalez</a>"
+        ],
+        "photo_reference": "AeeoHcI68gBJF7mGmXMmDMVAwNoO3Jd3_XhcYBsMicevV0mgnkeJy1GWEGWdSDHlzVwU3njpo84v2OEHYEl3gT28yxtn7sRK4tkt4SIxBhxtZknM7-hIg_8Jtd-uc-7JXjK-9MCaxG7rhdflQSO5XnddpSOADAQD_ZelYBvm5GYmmp2xcNfE2w7oOoccEzNR_0az4F9Fj6rx2omqhEcsANJqPIiSu3eqQ7ZGyuSxqUeMa-DKqah00ordx4CjMQhtg76zUps3N3i4NQJ14ef9IRKKexAb91WXgiNFeX9iQHYNnJXvNL4FicMyY6GEUjbIxJ4iE6g52tstQZVwWP4yFOygHyEe5NvpartkRSwxWkXkg5DFY7Bs8cpGK27dU2HryDwLxV6sEvayntlgUP98QvGdqDZeUeR5TCY1QHRV4fezw5rU7QsIDSJyZ7p4ZHOvLFut0bab9zf2S-U9gm0zfjE92rSEL1bdjGIfvu4G8uUTLRtfoGK4Ayjv-0iL5KWSShU4jAw4aL99b7NJckQawCmIVma6HZ51q0h0nDZnm7964zyNmy8sNFxFJIPP7NNSqraXaNs0osG7cj5MpjWb2tB4Fnabrw2T55QlFFmB0OA9O3ef2V_7JLdXiVWvHIc5NoPLr4pGzJAG",
+        "width": 3120
+      }
+    ],
+    "place_id": "ChIJlaCuVHX0K4gRnwuWAN3Rzpo",
+    "plus_code": {
+      "compound_code": "FFFH+FC Waterloo, ON, Canada",
+      "global_code": "86MXFFFH+FC"
+    },
+    "rating": 4.5,
+    "reference": "ChIJlaCuVHX0K4gRnwuWAN3Rzpo",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "46 Marshall Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4744164,
+        "lng": -80.5281307
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4759241802915,
+          "lng": -80.52669636970849
+        },
+        "southwest": {
+          "lat": 43.4732262197085,
+          "lng": -80.52939433029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "WLU Staff & Faculty Parking (Gold) Lot 15",
+    "place_id": "ChIJy2pQKAr0K4gRUNPs0D3ljG4",
+    "plus_code": {
+      "compound_code": "FFFC+QP Waterloo, ON, Canada",
+      "global_code": "86MXFFFC+QP"
+    },
+    "reference": "ChIJy2pQKAr0K4gRUNPs0D3ljG4",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "75 University Avenue West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.473876,
+        "lng": -80.5271123
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4756539802915,
+          "lng": -80.5262313197085
+        },
+        "southwest": {
+          "lat": 43.4729560197085,
+          "lng": -80.5289292802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "WLU Parking Lot 4",
+    "place_id": "ChIJY9G9Agr0K4gRG6D-TXn00R4",
+    "plus_code": {
+      "compound_code": "FFFF+H5 Waterloo, ON, Canada",
+      "global_code": "86MXFFFF+H5"
+    },
+    "reference": "ChIJY9G9Agr0K4gRG6D-TXn00R4",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4729301,
+        "lng": -80.48000979999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4742746302915,
+          "lng": -80.47876961970849
+        },
+        "southwest": {
+          "lat": 43.4715766697085,
+          "lng": -80.4814675802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Moser Landscape Group Inc",
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105880276751912042437\">Aaron Duncan</a>"
+        ],
+        "photo_reference": "AeeoHcJpbYQj05uIO8uJ2T0iiXGKwStkD7rh0Y6KqWld4ieq01Kde1b67j56duk0i1in-4Tf2dBGqkhPZO4VFSsy5AHLeNDDKAvnx_J1H8tj4A4Z5M9r7BDocFujk9Xb_bmgUuxAzRzSsZNWcG_Bk0JNJoOdMreNibQZPnWbme657_US11S1z7KPml0hGnlnXMRBS0xZ9Y7y6nXGsx6krWhaonrsY_4UM7TzKSb5tzaBPnUiKWu6NUh8HAjKx1X_xg1DxUK4EPhTd2rQvvcv9ccd8rlQ2hh7kQ0pcM1toM0Q_gjhfzAB9rEuqvW1XCm-6_RZGKN0v4jjfARZBcDDXAkAdX3cKpeGresC05jsLM8G-MpBk8I_PXYs2_SPSZusc2UiDhi7RZq4cL6Tn_7TI_aTX1FecVb2CwEYzaOtHLrU0ptfeYQgZrpzifHeXzHqINe1_GyfsxAXaKTDU6j4KXojIjnHP1trqEVoSIQ4ox7-LSpIZuss9NqVc-nUasGYy_x-ZucF-Q9EtaeIKPa9tArQoa2VpXr__0IH3n5pe39jj-fT3Q-gTnZiWj4KFQxesVHyRyVX4YSXj24xwqz1rDnN_mLw8vjLvgtXwOhVIK548uSPCJo3Vdskvs2wHNdMzkypbomUU-6-",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJ4yYdjsLzK4gRMqMLZPgB0Cc",
+    "plus_code": {
+      "compound_code": "FGF9+5X Kitchener, ON, Canada",
+      "global_code": "86MXFGF9+5X"
+    },
+    "rating": 2.9,
+    "reference": "ChIJ4yYdjsLzK4gRMqMLZPgB0Cc",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "general_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 27,
+    "vicinity": "1254 Union Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4646219,
+        "lng": -80.5206911
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4659607802915,
+          "lng": -80.51948806970849
+        },
+        "southwest": {
+          "lat": 43.4632628197085,
+          "lng": -80.5221860302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "Regina Parking Lot",
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108883283690898705720\">Priyeadarshi Khajuria</a>"
+        ],
+        "photo_reference": "AeeoHcLQzTkyrLOPQfd34KzOiLw_4yA30B-E-hJn9IWsuD9Fihoz1OU4UZUum9Mz7B3v3Fmy4eE_cwQBWS1KVCFZAx0VT_-1zS3IW9-fsLeaqtHwrkMJvjxJROV9TveUvgldqMWw7r0Rn4ox1oK232g3BIMrlGLImSFt5d0wWPnHK1HCcEw7ZTyG7IZpyUiMSvTGif8E1VgUAZ7UlDJ9G3q5iGHjwtGoI4-tT2Abxr9D38kxJORszMWf00roBQBdImokQLFYo2-j7AYtcsBDT95hqZf2UASwF3oKII1B9sGUjnHIis2DFjaGBdIyoj2XzhGUR62dA2ZFmNT8KSiqUSmkn-FPc0-9kRI_X-c15q1t69FaePxzawaLT4F7OAhQwc2nz9FdECtKpih0elC77EtetOWA7YGkcxO4Kf38OSOagc8K_d4M1vOrhAYtnCZsfysi5cETBzQC-dybEDTgVjwyRUJr3ffyQah4N8P0H4UwkdHrruKukpQ_iFdZTQcU0sKM52Ti3647hIgsaVzAQOFkKZr3BPhCLklu7UOc3ZXW5KJEwUJ8K3t903u5CH1zy4Fr043vfYsSeZ3B_3mxvod93gZO7ZqZu8Pipgwb5ote2A3u-EflTm2GdzifR0mnZKuTrqjQjw",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ6T59X230K4gRts-r7HLZtsU",
+    "plus_code": {
+      "compound_code": "FF7H+RP Waterloo, ON, Canada",
+      "global_code": "86MXFF7H+RP"
+    },
+    "rating": 4.6,
+    "reference": "ChIJ6T59X230K4gRts-r7HLZtsU",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5,
+    "vicinity": "20 Regina Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4649005,
+        "lng": -80.5204146
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4662249302915,
+          "lng": -80.51921811970848
+        },
+        "southwest": {
+          "lat": 43.46352696970851,
+          "lng": -80.5219160802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "Station Lot",
+    "place_id": "ChIJl9nUvHL0K4gRhNWtBiixbPE",
+    "plus_code": {
+      "compound_code": "FF7H+XR Waterloo, ON, Canada",
+      "global_code": "86MXFF7H+XR"
+    },
+    "rating": 4,
+    "reference": "ChIJl9nUvHL0K4gRhNWtBiixbPE",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "13 Regina Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4649382,
+        "lng": -80.5203817
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4662249302915,
+          "lng": -80.51921811970848
+        },
+        "southwest": {
+          "lat": 43.46352696970851,
+          "lng": -80.5219160802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "Gillen St Parking",
+    "place_id": "ChIJgXYmvXL0K4gRGqUzthuqJkM",
+    "plus_code": {
+      "compound_code": "FF7H+XR Waterloo, ON, Canada",
+      "global_code": "86MXFF7H+XR"
+    },
+    "rating": 5,
+    "reference": "ChIJgXYmvXL0K4gRGqUzthuqJkM",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Gillen Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4645685,
+        "lng": -80.5213843
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4659026302915,
+          "lng": -80.52012996970849
+        },
+        "southwest": {
+          "lat": 43.4632046697085,
+          "lng": -80.52282793029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "Hughes Ln Parking",
+    "photos": [
+      {
+        "height": 8064,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112511257140372666100\">ADITYA GULERIA</a>"
+        ],
+        "photo_reference": "AeeoHcLMP3u15scHhvoG8tY7yWBqfmjy6b8zXE6L3xnLi-8a3Jodk1osQ3z8DDz4hlHjlVZNvu2yXMDCFPuuDBd7oj6FOjPvptD1LyPVeRStP3szobMP7FS-FuZD9vpV3zwP3ZAKEw16Coenud7Fz8_JwsV_sllilsSiZpZW7f5jCMHRcTqCTqFdIbzKLyQBHBBBLhwl8GNsyWOrwDuLZ-P4J8naHXg5ANwUGgtdDFK1-SNcbGs5ciJ5Nn5Q6g-Ak7E0VtUC9Tn1P_Acqr3AVCOu6RG6cyQQ8nYGqk7pVHKQXZbXiWgfdkMULQwj-nsmQksAcfNhta847tvkaZDjEbD5MNmVh3jtFwbuoj0VMIxnRK282Pb28XEqISenzKcpOz7JT6-4YqkoHvzZEGxtiIScGfxXLxCWO6YmiFK6xgLwwl92YmFg5v5JY-w_Jf_j2C3va8CBqlVbL-mE8dq1ENwXOXShJeNOi52lks9Zsl55KKYXQ5n8p2A1rfLJ1agfEcQcThghQr3iL07iCf2Kg7SDxWEcdAuc4OOMV4qPBntbrQuoCWEOKpsqYQTw1pntYkgnX0Gm1xL1fI_UQJq0fghwBbirj22oARqJROoK7VeWqzi_QvejJ731GeB-AvRISglpZMX0JosK",
+        "width": 6048
+      }
+    ],
+    "place_id": "ChIJfQq6q3L0K4gRmlvFGjv77hM",
+    "plus_code": {
+      "compound_code": "FF7H+RC Waterloo, ON, Canada",
+      "global_code": "86MXFF7H+RC"
+    },
+    "rating": 4.7,
+    "reference": "ChIJfQq6q3L0K4gRmlvFGjv77hM",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "Hughes Lane, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4641575,
+        "lng": -80.51924939999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46524513029149,
+          "lng": -80.51797976970849
+        },
+        "southwest": {
+          "lat": 43.46254716970849,
+          "lng": -80.5206777302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "City Centre Lot",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108724181586263211701\">Randall Culp</a>"
+        ],
+        "photo_reference": "AeeoHcLUj7E0ZOzI3ZXZ_ANjbjTdBN44Mx9x2LtM1U9-Cgq9MczJSC3WyhlQFcABfSbeIXClOyVt65RuiTIi_fdojHcUyo9u3i3QHcXOxeAqVxC-yQ6q9XaV5tSpimKSmZUpuZv4uQ9j0CgVv6_ANszmgZfc_E4daAr5rVDwWMYYFM_tpZQV9FmuDdhzUtjJYDA00TUGiWkfSndOGIJUbeqSEs2AEOZytc2OICdet69u_ej-xIRnxsFezgn-1l9lx7psLGFLuJ6fL6PcKJS3WkfdaSrpwxdvaQw7AzqfZLYFomv6jNTCiMfeqqcbD6Mp64GwcvzjvrMsU4Yh2fv0NQ8PbuuroqsZ3twwH0Bt8sw8RzMNnVF-a8wPWFvkdkR9_At9bV1Ncnp0lnqmyEEYtp_yHWsG-ZEiYd2iBwSP-_pbMRM3L-ycTqWGdKnxmBvaXIteqWwouvUw6J4VezeJQ2QxqYl_NvCuf8Sz4wNVmQWRv9cXfcnIfKWPlMAxlDtutCTs3wI4ywCBxh0iSNdKY-LZXFzoyVD2H0VVBqONcZI0Cu4dcCKh3v6gL-D5YkJspPFTj4u0QK139EAe_PZtjftHkJFykL-hkPB1u5QYcDoLNROLk7ijqxugSVo_yXY6cGzfnQGstQ",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJTX3ufW30K4gRqrudgg_rAyw",
+    "plus_code": {
+      "compound_code": "FF7J+M8 Waterloo, ON, Canada",
+      "global_code": "86MXFF7J+M8"
+    },
+    "rating": 4.3,
+    "reference": "ChIJTX3ufW30K4gRqrudgg_rAyw",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 9,
+    "vicinity": "42-58 William St E, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46388079999999,
+        "lng": -80.5216631
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46529148029149,
+          "lng": -80.51988731970849
+        },
+        "southwest": {
+          "lat": 43.46259351970849,
+          "lng": -80.52258528029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "Uptown Parkade",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101273565721101313632\">Hardik Gossain</a>"
+        ],
+        "photo_reference": "AeeoHcKk70bg3FiMVWZQxPTrXV5QVUCemXH15aasHAiPbP1NEA2fOHn3Fna3TcyYTA23LavtiTybh0VjCE5ztfUR8mbCB9fYVOM0_hljkrjBotSh2gSa01P4JQUbSYNAA5-goIZcPmCnZmQ9utw7omgPMeFvGvy2WJrx-J_floS9N8B7tffHAjRVlDCmg36bcOZ4eJ-L00g-zm1zteUhXZLyWEMmcW2FHin5RGa8PnHenoAso3TX12EsmfUdw60Bf6J-7eVgvVIhuhpzlqgqf7zeMZX0XaAfptzMRNVJBBG-xuhcsRu7J9tGuGqu8EYfT1E_Nh7JQIMYE28iaJkuy4NtWca0_YWu8SKcNBiiZI6mYQqmmYPJ4ZYuX2RA-hqO6YS8BM2GEKFjN5ICRL9WlAQzOmazOSXqt6eTyeqt2OqrcXqNhlqnxO13QPPr8HuiGftJ3NfQYK3mtFfHCynmwUB3nvZhlVd7WO_MC1JczxgLLh1WcQhClhdqwtOYdu9eKdAGaTzOLRM4SW-WXalWiUrttpQKAK0QTEx4la5QjCwDKSyK4ggM1nmxrkUVBmHMMMzIkRw5xI55TZN7a-vgklXAk6zp0tu_a-mrANUWQYc_Wdp6hWIh4vMBG5a3v8h5j9zrKFhaRQ",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJQaVxU230K4gRjD7kYeAyuaw",
+    "plus_code": {
+      "compound_code": "FF7H+H8 Waterloo, ON, Canada",
+      "global_code": "86MXFF7H+H8"
+    },
+    "rating": 3.9,
+    "reference": "ChIJQaVxU230K4gRjD7kYeAyuaw",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 11,
+    "vicinity": "60 King Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.463094,
+        "lng": -80.5195533
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46442893029149,
+          "lng": -80.5183424197085
+        },
+        "southwest": {
+          "lat": 43.46173096970849,
+          "lng": -80.52104038029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "Herbert Parking Lot",
+    "place_id": "ChIJAbBebW30K4gRG2FLMbWWTmk",
+    "plus_code": {
+      "compound_code": "FF7J+65 Waterloo, ON, Canada",
+      "global_code": "86MXFF7J+65"
+    },
+    "reference": "ChIJAbBebW30K4gRG2FLMbWWTmk",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "19 William Street East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4627518,
+        "lng": -80.519502
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4642339802915,
+          "lng": -80.5183606197085
+        },
+        "southwest": {
+          "lat": 43.4615360197085,
+          "lng": -80.52105858029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "William Parking Lot",
+    "place_id": "ChIJCYD7DW30K4gRJAjfilv2ioU",
+    "plus_code": {
+      "compound_code": "FF7J+45 Waterloo, ON, Canada",
+      "global_code": "86MXFF7J+45"
+    },
+    "reference": "ChIJCYD7DW30K4gRJAjfilv2ioU",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "32 William Street East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4646815,
+        "lng": -80.5178353
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4660540802915,
+          "lng": -80.5163627197085
+        },
+        "southwest": {
+          "lat": 43.4633561197085,
+          "lng": -80.5190606802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "21 Willow St Parking",
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111945997059265620087\">Jennifer</a>"
+        ],
+        "photo_reference": "AeeoHcJwFDDwyk0WwkgkeP_CuMhdQUX-FwHUeu_L4kOn9-tRttrSuroqdeBd3FeV4WvlCrYZz4Pl6nN6pNB3YhFwgsHs6aToQb59umaAnd1JbUM6spyi32Ugze6Qr3LyRFq7nVFexLGPRTJs9qPUwvlN0xCANNZwqEiGQkZBget5iPavBGPtX_NovzzUCaW831xL7EajdqlNEkNlQDxMGRK5FI24dPqzmnPZM00sGjTeSTAV6qrO5kVLgQYj1DvB3r8oMDV_saIV4o7PA9MAOX9RrEI263RwVLM1P3kDye_VxUbgVOcSztkT74gof_FD3K-S6cQd-ItjUz56ZFPn8XgIxOGluQc3fz5cPMT0tsGCCJSa44Oy2PbzFh62TWGLOzkKboIHpGpMPA9Q0aEsNOPxkA6fd2mI2A4f9928sP7GkQfCoqA02lwrR_gib3YYH_a49oJMLte5Wv3kPBxidxzvg2Ybf4E1DLOAYtgExU9g6XykRBiUCb0dPKK7VODI7WFl817k44pt4Z3N1z2oQUsQQB8PS63Vgh2kZbrDmCkIC8qnHw_jAgdUwyVI9mJQyOG07qbkOBY7tPk6FfzTZaGcXQgcROjVr8B3dpVeGXBgNFfsvC1JrftmmoO0ULj8Te5_FzFycw",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJT2f9cXL0K4gR9wiAYUWfyGQ",
+    "plus_code": {
+      "compound_code": "FF7J+VV Waterloo, ON, Canada",
+      "global_code": "86MXFF7J+VV"
+    },
+    "rating": 3,
+    "reference": "ChIJT2f9cXL0K4gR9wiAYUWfyGQ",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "21 Willow Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4643718,
+        "lng": -80.5235879
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4657522302915,
+          "lng": -80.52224106970849
+        },
+        "southwest": {
+          "lat": 43.4630542697085,
+          "lng": -80.52493903029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "Waterloo Town Square Parking Lot North",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110645329527937072282\">Gheorghe Curelet-Balan</a>"
+        ],
+        "photo_reference": "AeeoHcJQwoNBJ5d86NTLyFcJ7p_RyWba2ubPnR3sr30NccvpODI2vRvGTzbbIEz4r3QWnhPIDATmZIIyVJrxvnshFO9UJpbmKN97oM88Y7y3BYvyaW19S4sdsIZkAB39FGtjocU9HT-2r2eGrgBz0KuQhTdBHsSFGyrzmfSF_SilPU1_D2Wv7goUWfcIxmW-l80HjnSSoPMHADeYO1WpBv5odnl5KyMKEmHPyNIjadzYkr8EH6I4L3YS_NgTejLQ4eOxUvaQcjlZt_u49HeatrESIEHG1gf36apybhXdbaaBZVP1DcGR-aZSGF9a0JJUTkPC2VUNA8qL2V-0qbAdSWRwigv15rxfcJjnu8ozBl-CuYf1KlWv_-j6FhOJblwsPvW_RgzrPF2ingdyIXxkf6IDPVT8nUlCTdPQ-e9HGfRMLpEBSFeThfKm0dQV2hsnRasBwzVXkLhus26InZrzkToPxqn9Nupet5J1qJkrUXw22vVdbL9-z64bztudfjy8qQGXAl8YDclj_8GV5__CtnNFaKkUzYTc3uU5Ak2PwjiskG9TN_tf0i-5xLA4-06sZdXCdYBgtMDTx3ilggBpba2KXCeyFzFfmBB2ffZnwPoA1_nEZ8PHYC1APTTnj6gJRWYq26ZCzQ",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJf_l_yIz1K4gR3VBNodhJ3h8",
+    "plus_code": {
+      "compound_code": "FF7G+PH Waterloo, ON, Canada",
+      "global_code": "86MXFF7G+PH"
+    },
+    "rating": 4.4,
+    "reference": "ChIJf_l_yIz1K4gR3VBNodhJ3h8",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 19,
+    "vicinity": "Unnamed Road"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4625942,
+        "lng": -80.5233049
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4640570802915,
+          "lng": -80.5216906197085
+        },
+        "southwest": {
+          "lat": 43.4613591197085,
+          "lng": -80.5243885802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "Waterloo Town Square Parking Lot South",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117104881274191494032\">DjPlaYZz</a>"
+        ],
+        "photo_reference": "AeeoHcIG5120yNyIb55fSw5T8JAjNldwUtwHxbQbH2x0_DPNlAsaarUTZzY1vhJmMTILuxRABbv92n38FF3vfoBtrT03R-Ch5GhIEGt9ZLeiYMQ0FRq9JIqhyTrbsX1JEvsyODZkYSb1_CXO3N-fhbAIexkEMbSNjemIugERNB2kLf0VDY-NpFBdEr7mZSz6xqvaJGCUgkwQUFi9Ym1iDlxWDOeY86d2nJ9Y4u0YhMs5TLXJhspa3E5oItygjaJSV6olNZfiz8mtnmAzsoNUPGvKCD5LKG6yB7xVuWWGm34S4rqlsxFOVUwtUWNnSlv4Ma3nAoXERB0SzIA0O_xco_rPWfOFqn-J0XdYsYO5dAxXuYt0b7zBZ4xWb0RmynQW4yd9OssIQxCA30ty7s5Fe0pvnV5VKQoAZ2Tl_LUG9r4NgCUcMKof6ZV2YJwEyPtliPmkWOHLGSFi26BNyXD5Id30barljMFuBQDw79Q8KcWTDSu0Tue-VBzAs4MnrwLiW4KUmP4exQ3gAPDSMbgQMr0_LtpgMtM8Sd99DmRA5KLIt38R62KI7S_7sYGjxAh66hHhH_4GOGNwWVKiQi_-FWMWfkymuu2veMgiPv5WIp4UHDxuXYsQBoPg-Zr53bBoVmcdIfyZ5Q",
+        "width": 4080
+      }
+    ],
+    "place_id": "ChIJWwN-3hL0K4gRFnCHNarTPw0",
+    "plus_code": {
+      "compound_code": "FF7G+2M Waterloo, ON, Canada",
+      "global_code": "86MXFF7G+2M"
+    },
+    "rating": 3.7,
+    "reference": "ChIJWwN-3hL0K4gRFnCHNarTPw0",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 16,
+    "vicinity": "35 Alexandra Avenue, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46531090000001,
+        "lng": -80.5239163
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4663154802915,
+          "lng": -80.5226678197085
+        },
+        "southwest": {
+          "lat": 43.4636175197085,
+          "lng": -80.52536578029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "20 Erb St W Parking",
+    "place_id": "ChIJYQlxnRL0K4gR3ymZEMNv8hA",
+    "plus_code": {
+      "compound_code": "FF8G+4C Waterloo, ON, Canada",
+      "global_code": "86MXFF8G+4C"
+    },
+    "reference": "ChIJYQlxnRL0K4gR3ymZEMNv8hA",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "20 Erb Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4657342,
+        "lng": -80.523958
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46706388029151,
+          "lng": -80.5226497697085
+        },
+        "southwest": {
+          "lat": 43.46436591970851,
+          "lng": -80.5253477302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "Marsland Centre Parking Lot - Pay & Display",
+    "place_id": "ChIJj16962b1K4gRcw2Ox7xd7y4",
+    "plus_code": {
+      "compound_code": "FF8G+7C Waterloo, ON, Canada",
+      "global_code": "86MXFF8G+7C"
+    },
+    "reference": "ChIJj16962b1K4gRcw2Ox7xd7y4",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.462535,
+        "lng": -80.5237928
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46385513029149,
+          "lng": -80.52250931970849
+        },
+        "southwest": {
+          "lat": 43.46115716970849,
+          "lng": -80.5252072802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "Caroline North Lot",
+    "place_id": "ChIJJy9qgLH1K4gRgNJlMfVq8mU",
+    "plus_code": {
+      "compound_code": "FF7G+2F Waterloo, ON, Canada",
+      "global_code": "86MXFF7G+2F"
+    },
+    "reference": "ChIJJy9qgLH1K4gRgNJlMfVq8mU",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "35 Alexandra Avenue, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46164270000001,
+        "lng": -80.5235112
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4629635302915,
+          "lng": -80.52187476970849
+        },
+        "southwest": {
+          "lat": 43.4602655697085,
+          "lng": -80.5245727302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "Caroline South Parking Lot",
+    "place_id": "ChIJmdxgGhP0K4gRJWBubLWdh64",
+    "plus_code": {
+      "compound_code": "FF6G+MH Waterloo, ON, Canada",
+      "global_code": "86MXFF6G+MH"
+    },
+    "rating": 4,
+    "reference": "ChIJmdxgGhP0K4gRJWBubLWdh64",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "34 Alexandra Avenue, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4663586,
+        "lng": -80.5247253
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46779678029149,
+          "lng": -80.52341936970849
+        },
+        "southwest": {
+          "lat": 43.46509881970849,
+          "lng": -80.5261173302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "Library Lot",
+    "place_id": "ChIJmc51pg30K4gRK8qE2jw8f9o",
+    "plus_code": {
+      "compound_code": "FF8G+G4 Waterloo, ON, Canada",
+      "global_code": "86MXFF8G+G4"
+    },
+    "rating": 5,
+    "reference": "ChIJmc51pg30K4gRK8qE2jw8f9o",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "35 Albert Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46564029999999,
+        "lng": -80.52524749999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4668785302915,
+          "lng": -80.52358851970848
+        },
+        "southwest": {
+          "lat": 43.4641805697085,
+          "lng": -80.52628648029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "Dupont Parking Lot",
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110668202299201313948\">Mo Abiodun</a>"
+        ],
+        "photo_reference": "AeeoHcKL7TSyWcIf2rvZ_WF_dYbkaQlZq3vy9T6SCuo8gkdaEnCQsMvtll5dZqpWuEX--Z3Hv9jfL1nefGTF88kdKMJGSezqO-ZgZwYAjxVClAx9DdyZWC1w5PuKlggj03Xp2x8mOVuWnH4HIt-jl2Sk5WsOvVDb9THFQs0_gNi0IsAXNUB7JIh1y0i43HeE_WenZnuV1WhTPf_nqv75VwUqO_WO0Kc0vz98KYejSJB1kcT6AkSYLyYbfnuR99VmSqEtvzUcEfiNwaP2RepQZTFnevDwoV_EFeiVTEnnI0fwpN-RnUWrh3oO8nWKNcNfHGPsmAew8jxKgLvRJAarqJGe1HEyi9Les2XE53IS758Y0k70tkk7mCzd5uhYw62H8DNN4WJmdkxoqZOlAob1mIBFXpcAHCiK45SbdrSX6t1OZetLcdtffHfnkJ9MJOpnb1yywjqnhlUDXDKwVXKHPav28Fud2PtIUpsMn8-a7L1vYVnJQOSbPjX0MprG1aLq4WonHKEiY6wtIJEiszE-nxf50Y906fy6IuceRKM22OSCX3bBrd_0y_biWCVK1LW1c1AvONk1Eg6Tj9Jwgl-x7WGrLd-YAO_ZwOh-lyjwbDqyatrJuuvjdB-DQ7-Zq-tOGV6r",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJGacalw30K4gRvRssPYGUqto",
+    "plus_code": {
+      "compound_code": "FF8F+7W Waterloo, ON, Canada",
+      "global_code": "86MXFF8F+7W"
+    },
+    "rating": 1,
+    "reference": "ChIJGacalw30K4gRvRssPYGUqto",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Dupont Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.464175,
+        "lng": -80.526811
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46553753029149,
+          "lng": -80.52547296970849
+        },
+        "southwest": {
+          "lat": 43.4628395697085,
+          "lng": -80.5281709302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "Museum Lot at Waterloo Park",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116188509482185402379\">Kanhai Doshi (CA)</a>"
+        ],
+        "photo_reference": "AeeoHcLuM38fm2vsBE-bKnhLqD0_polTZhTb13xffbDwmo8iMfX_JhxuCkLr2-WLvOyxcJ5xJregHv1RNsIVXYxhvwzLxY-A4zv6TCvcXMl1NvslgxASMHoJ0KdVm6bnWOAHbYUsSKNHO1KYz2mA70PwG8ZqfSWsJBi2rgGECRLUO8F3CNgx5uFwOq0tonYWtRe7G8BUYAu2CJ8E3uN-9TNNwU-DR4ESVIEAhd8GO6TLP9M6mtxLG_BaSjt1q_anFf4Z0-XLu-00O2xghdbqhfxc4v-5kDb1b28TddhrD0a4c9hF0DmswbFhR1zETwO5T67mSjn5Y7t_h6qqwHVHV286Wa0Vv8LuOOX7lPC5PTf3u4VOFLzVHYqupE6HS2LQoIcU9J5uIcJ_QVqyLbZds23Y1ELW_5Y2TRj5IDTa2LrOx3ZnXnn64xNQTmxg1wlfJFeKjxPNhuVKOhBpCClYKgfmG9tB_zNAV5sfCpcR-Nh4gQ_lKajR5vrpFfyKN0Oq7fcJw5w0_lJ8Dz13wxvKnhdEffn_FklwwAZBWWBL9AQHPWoZUk3usIiWiZ_WeuNc_HAMC3jg0RjI1oYxigRUD5Ke8Lt0cDsqKx7vGB2g5B8BA82_h5RwPw2uRjuJqfYC6KJy0pUzjQ",
+        "width": 3072
+      }
+    ],
+    "place_id": "ChIJS5JeGxL0K4gR0KJ7DZ73yjU",
+    "plus_code": {
+      "compound_code": "FF7F+M7 Waterloo, ON, Canada",
+      "global_code": "86MXFF7F+M7"
+    },
+    "rating": 5,
+    "reference": "ChIJS5JeGxL0K4gR0KJ7DZ73yjU",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "83 Erb Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46521140000001,
+        "lng": -80.5267865
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4665924302915,
+          "lng": -80.5253215197085
+        },
+        "southwest": {
+          "lat": 43.4638944697085,
+          "lng": -80.5280194802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "Perimeter Lot",
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117413893616062610339\">Ghada Hammouda</a>"
+        ],
+        "photo_reference": "AeeoHcIpKWVbjX6PjULXPOFRiJtUR6jwGo54iQClYThwi8519E_UEu1YRUVHlV3EeSVYRYirbJnPlGBp7wVNOUPCBgacntGP9pL8sOQtzg8m19Uhp51NvXxW0tD6MCSCUC-x9AXkZQxCnoOrszkqzf7HGrmf1s5SHMCpCESt9nWlp-_6yw3PfwInd8tnGMjLdOZE3NUw6xgTkrqTi6Y01rdN9tIccrby_dGYn4yIsk22f9v_C7NPBTU9b-hxP9XLuVcHayPyaerd4dHgg1B-jrfQqwc4JE8ZNopgsFDDncghIM3Nguh7n0uaOcPfJJ1WdkJM78UmJYarXLnNEEBs9xZNpWnBe0G2HIbUY02iYtkMyM91eR5h5PMblpY-yLYyKJOOqaFg0NDETPr67qRVNVZt38b5krFO97ImS244yeK-PZctEfvmdjHC0RbJ7yJvBIie4D5D4CC3lQICQuiNhY-LN51F6-DMVS76X2pZlx2HYiIKLhNT46C73qRXC-u8NdqOYMwxuU0vrdgGWj8a5WD-Z2FLBxvbPVGY5jJucMzECRlqe6BUIPcz6LfAlW9Rx7H4o4I54x6IMVijWnKW22YZWKuTItbjDPyxIUn-AHhfTMgdM6W1y51ihQ_aLK3QfyrPHPJHyoRh",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJYWSN-w30K4gRHtiUsAh9__Q",
+    "plus_code": {
+      "compound_code": "FF8F+37 Waterloo, ON, Canada",
+      "global_code": "86MXFF8F+37"
+    },
+    "rating": 5,
+    "reference": "ChIJYWSN-w30K4gRHtiUsAh9__Q",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "25 Caroline Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45849210000001,
+        "lng": -80.5189369
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4598987302915,
+          "lng": -80.5173989697085
+        },
+        "southwest": {
+          "lat": 43.4572007697085,
+          "lng": -80.52009693029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "20-32 John St W Garage",
+    "place_id": "ChIJUdLZdWv0K4gR-uB500TKP2I",
+    "plus_code": {
+      "compound_code": "FF5J+9C Waterloo, ON, Canada",
+      "global_code": "86MXFF5J+9C"
+    },
+    "rating": 4.8,
+    "reference": "ChIJUdLZdWv0K4gR-uB500TKP2I",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "32 John Street West #20, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4633259,
+        "lng": -80.52845119999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4648511802915,
+          "lng": -80.52697016970849
+        },
+        "southwest": {
+          "lat": 43.4621532197085,
+          "lng": -80.5296681302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "Parking Indigo Toronto - Delta Waterloo Hotel",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJPdiRawD1K4gRRl70yHpf9dc",
+    "plus_code": {
+      "compound_code": "FF7C+8J Waterloo, ON, Canada",
+      "global_code": "86MXFF7C+8J"
+    },
+    "reference": "ChIJPdiRawD1K4gRRl70yHpf9dc",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "110 Erb Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46638,
+        "lng": -80.5299307
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46794433029149,
+          "lng": -80.52868506970849
+        },
+        "southwest": {
+          "lat": 43.4652463697085,
+          "lng": -80.53138303029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "Parking bike",
+    "place_id": "ChIJ1ffpTgD1K4gR1D7Ee9Gpx0c",
+    "plus_code": {
+      "compound_code": "FF8C+H2 Waterloo, ON, Canada",
+      "global_code": "86MXFF8C+H2"
+    },
+    "reference": "ChIJ1ffpTgD1K4gR1D7Ee9Gpx0c",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "50 Young Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45737889999999,
+        "lng": -80.5130295
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4583640302915,
+          "lng": -80.51033545
+        },
+        "southwest": {
+          "lat": 43.45566606970851,
+          "lng": -80.51510484999999
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "KW Campus",
+    "place_id": "ChIJ09rC42j0K4gRVSkt12CriiA",
+    "plus_code": {
+      "compound_code": "FF4P+XQ Kitchener, ON, Canada",
+      "global_code": "86MXFF4P+XQ"
+    },
+    "reference": "ChIJ09rC42j0K4gRVSkt12CriiA",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "835 King Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46514270000001,
+        "lng": -80.53247019999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46646043029151,
+          "lng": -80.53111576970849
+        },
+        "southwest": {
+          "lat": 43.46376246970851,
+          "lng": -80.5338137302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "Bauer Lot Parking",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106570983321269852337\">Herman Anker</a>"
+        ],
+        "photo_reference": "AeeoHcIhtqFKeFceRHyP7TU2R-NKj5vwDwQNA-g4Ni9J8rzLPM0oOny23uQ_9G_dG_z_iz4Tr7_AqAhQo4zUI4FH35p5SHy3vJ3pqFmbTkBpKtfbYC5T1ijM1gqIup6Y0QNaNG4CUE6OvtKJf21HIWXwdGs-IPq8fqnui4lzyf-GuFYRFYU0-Bml98kW4yYY6jQLNPuusSWl7G01e1w51392fUi1N4zhvCATEnsSZaXKBLzzaEvPXBy5kjaaEpMtQS66iU9qZ3nM1Jy1qs8qFaWjCiaOm0oiuD3LOplt5ad2IbwFI5SOWpF5ouO983HY_pqfQYucSoJP-dI5MSk-jkVsqDxpmXEgvKos5rKberMhHFtjcBuOqb08guLLTTt1_jdvMFwyaMsCezGQxgHYgKHh9ltM4-Hby9l5EGSSdOS5aHLyvoCFI3nYZseJFFJDCZOug7lBRijPFD-o1NEkTFw2pjtnGIoyXuBsw2f_QbOxBZ2rv_7inrQJlYybQgrguBf3wtCsChyGmGvYmwqoZ-Nfcb7m4J_L3v12soPDfJwFDXJlW8jWcjpW8fTtPFwTkJ3hacHjO6Z0g0agubd9j84M_D_HXXRWzSwg6MtHfqx_nkiFLiG1bYuW9nL3920ldrdUB7oi7Se9",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJmRXhpyj1K4gRzHqck_Tzu3o",
+    "plus_code": {
+      "compound_code": "FF89+32 Waterloo, ON, Canada",
+      "global_code": "86MXFF89+32"
+    },
+    "reference": "ChIJmRXhpyj1K4gRzHqck_Tzu3o",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "46 Father David Bauer Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4568412,
+        "lng": -80.51379519999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4582025302915,
+          "lng": -80.51248591970848
+        },
+        "southwest": {
+          "lat": 43.4555045697085,
+          "lng": -80.5151838802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "Sun Life Parking",
+    "place_id": "ChIJ__prbgD1K4gRD8KM55tI2xU",
+    "plus_code": {
+      "compound_code": "FF4P+PF Kitchener, ON, Canada",
+      "global_code": "86MXFF4P+PF"
+    },
+    "reference": "ChIJ__prbgD1K4gRD8KM55tI2xU",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Mount Hope Street, Mutual Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4719935,
+        "lng": -80.5286055
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4732521302915,
+          "lng": -80.52716756970848
+        },
+        "southwest": {
+          "lat": 43.4705541697085,
+          "lng": -80.52986553029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "WLU Reserved parking 13",
+    "place_id": "ChIJp63adAn0K4gRf1vO3idVQ50",
+    "plus_code": {
+      "compound_code": "FFCC+QH Waterloo, ON, Canada",
+      "global_code": "86MXFFCC+QH"
+    },
+    "reference": "ChIJp63adAn0K4gRf1vO3idVQ50",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4704723,
+        "lng": -80.53118160000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47181748029149,
+          "lng": -80.5298405697085
+        },
+        "southwest": {
+          "lat": 43.46911951970849,
+          "lng": -80.5325385302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "University Stadium Parking",
+    "place_id": "ChIJ20dtRQD1K4gRztbhWN1ZYo4",
+    "plus_code": {
+      "compound_code": "FFC9+5G Waterloo, ON, Canada",
+      "global_code": "86MXFFC9+5G"
+    },
+    "reference": "ChIJ20dtRQD1K4gRztbhWN1ZYo4",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "81 Seagram Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4737141,
+        "lng": -80.5252988
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4750781802915,
+          "lng": -80.5238287697085
+        },
+        "southwest": {
+          "lat": 43.4723802197085,
+          "lng": -80.52652673029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "Lot 24",
+    "place_id": "ChIJPSvPcQr0K4gR7vlatBd4blM",
+    "plus_code": {
+      "compound_code": "FFFF+FV Waterloo, ON, Canada",
+      "global_code": "86MXFFFF+FV"
+    },
+    "reference": "ChIJPSvPcQr0K4gR7vlatBd4blM",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "200 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.456209,
+        "lng": -80.5120152
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4576285802915,
+          "lng": -80.51055626970849
+        },
+        "southwest": {
+          "lat": 43.4549306197085,
+          "lng": -80.51325423029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "Grand River Hospital Campus Parking - Precise ParkLink",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJQTeAqaf1K4gRuvaRwecgpNg",
+    "plus_code": {
+      "compound_code": "FF4Q+F5 Kitchener, ON, Canada",
+      "global_code": "86MXFF4Q+F5"
+    },
+    "rating": 1,
+    "reference": "ChIJQTeAqaf1K4gRuvaRwecgpNg",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "835 King Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4539327,
+        "lng": -80.5190099
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4552769302915,
+          "lng": -80.5176749197085
+        },
+        "southwest": {
+          "lat": 43.4525789697085,
+          "lng": -80.5203728802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "Belmont Village Parking",
+    "place_id": "ChIJaeI4yDz1K4gRyobPisEx6fY",
+    "plus_code": {
+      "compound_code": "FF3J+H9 Kitchener, ON, Canada",
+      "global_code": "86MXFF3J+H9"
+    },
+    "rating": 5,
+    "reference": "ChIJaeI4yDz1K4gRyobPisEx6fY",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Belmont Avenue West, Kitchener"
+  }
+]

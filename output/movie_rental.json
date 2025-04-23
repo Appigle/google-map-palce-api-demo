@@ -1,0 +1,158 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.48186909999999,
+        "lng": -80.52357930000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.48327993029149,
+          "lng": -80.52206591970851
+        },
+        "southwest": {
+          "lat": 43.4805819697085,
+          "lng": -80.52476388029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Beat Goes On",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114224073212879076999\">Nick Stanley</a>"
+        ],
+        "photo_reference": "AeeoHcJVcBXdMrJH0pB6r6y5c1rax0GMJPRGib0G8wVeLQPSPvSPdxTp5gDxxXI6ELZ8xWcp9awrYNTJZlIQPQ0JfyxsDzyPwmiTkh_wrcWuUYsruwUvogCqEeudv8f4xQnt2seKUhZbR2Vy7HvzwG6A3Uwz-mC63EGmHcRGjeN0RoSJrHKJu8ipDOt5NzVkWk_3dPtjlvuA4t8EcyJxiXJ_YQLtm5fw5Weu4LFImBTd8VyqIiY8DcOoia1QA9XUuQFY6NPyyFfKE34Dsq2AMmVHJw7pg3r9P79ptMgVBN1XNA43mqE5HbgcXLGuQyRTZ2MJK9z4Na5QdrtTkc5GSlf6RN-PeNIbBckrr0vgeOKtGftZ9RH2miz613VwUhRgUvggBQteEgpdflKjiOXZ3YkNCMma0aLBisV6mjiAxXfDY-4R6KFtJeMBiG6uTAjvjRs0b7C-fBrx4JY-ond7kV95Oz-AWhtUcm2XQ4HD-vyXhEMAl1oXLvA5LNe2hTPm2KWnGBhJj6ebW4gUYNpRNVrbXi8lXKPX51lCCtW5S_arHNS0Qi5wMWRw36XP7XsMuP7kmaQmUOxpqSngcGvjdKu-UpBHe3nQTTHxm3N9CCFBxNUw7FgMVEYk46yRsmObztpR0PWJcw",
+        "width": 3000
+      }
+    ],
+    "place_id": "ChIJ94IZ5-3zK4gRnK1N_fjamtA",
+    "plus_code": {
+      "compound_code": "FFJG+PH Waterloo, ON, Canada",
+      "global_code": "86MXFFJG+PH"
+    },
+    "rating": 4.6,
+    "reference": "ChIJ94IZ5-3zK4gRnK1N_fjamtA",
+    "scope": "GOOGLE",
+    "types": [
+      "movie_rental",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 286,
+    "vicinity": "341 Weber Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.42029849999999,
+        "lng": -80.4403583
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4216193802915,
+          "lng": -80.43914516970851
+        },
+        "southwest": {
+          "lat": 43.4189214197085,
+          "lng": -80.44184313029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Beat Goes On",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 519,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103095680921965583856\">The Beat Goes On</a>"
+        ],
+        "photo_reference": "AeeoHcL0O4M47xipICu3Uui3clXn10eqHB8M4DWxyQH7o1vo5Ubn5tfTA2prBSrBaLU3eGLid8QOR8Xe7pO0NdpzlGejrCFyfleB78JDq_JYRq4KFfCYKmBhs_54wLcS_jXhJFwRs-ujlcnPxPmozArGjNkMo_KdyUxgOIIXyDEgywYF8nliaxQZEizBI7uuuotnlLsStjzvqsnHyM4pBzigGyZefoqJsYav0i_ilsmjRvcVeuUO3rhjd1rk1YwiYvQ276lD3zNVMqj-yAsVxCKBvk0RxLuNvEeb4gTXqMgn6vas_by0EcQ57ISeyULpJxvUJQpk9k6pcek",
+        "width": 581
+      }
+    ],
+    "place_id": "ChIJ85Hu1tqKK4gRkJObXrO6EJc",
+    "plus_code": {
+      "compound_code": "CHC5+4V Kitchener, ON, Canada",
+      "global_code": "86MXCHC5+4V"
+    },
+    "rating": 4.4,
+    "reference": "ChIJ85Hu1tqKK4gRkJObXrO6EJc",
+    "scope": "GOOGLE",
+    "types": [
+      "movie_rental",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 353,
+    "vicinity": "385 Fairway Road South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.498217,
+        "lng": -80.5268773
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4992270802915,
+          "lng": -80.52440650000001
+        },
+        "southwest": {
+          "lat": 43.49652911970851,
+          "lng": -80.5277009
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Sunrise Records",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116992612198728049857\">Aquib Wahab Ali</a>"
+        ],
+        "photo_reference": "AeeoHcLIp4WWv-6nt1rEyFJM6OQR2uTBEUZV0BWP21NZ9Ei9lASVSgbQvWBXxQOifHhog2vlG9j_n-Djy-m6ZxNfITAqL7sSJE1P3LMl3anGi-KQin7mKykZhJKxkp22K1W90sQyn7TSwCkjPZueRGbk7m6AeFgiqMTJc_YliyLwijNsmkLhpvj90a-qnzSfFcdXIQTMRFHNiG09gjXq_6pMpTd1Je4Lvge0Cd_a2K795teukAMXFMVLxjrTC8BnXxIYGEA22vUHrE_1A_n4jNb5aLlXF1ds93abRyxfl2rblU60hs9DwC7BRq8D4UF7oc5AGa_nczNqtJ6m4bihQXmI9Dhrv9B5IyOXzEPqw7UrbfcUKM1uRQwmSivmK9YT9T3MnAKb-y1oRy6VkWJ1o8OpSKv0FqTl_TkFE9c2xmIBritL-MfYHD2qQ4pm1GaOICSUTl2WSoVPLkos3bf_SXwGv8k4jPE9o7uGy0ompB5Xt_KwIKrXwGGBRfwoqO1ATexv4sPZnFIvUOUKVr6F5nUK65CjFCwZ92K7-MbHCLDp7aHb0jBd2M9Iq8mYJobL8f64RqKT7Ozfj5Jbzw87X7I1KvEev-QHT5RbKlAlEbw2C77uZA-M8FY8u5LZwnrnVFaJALxqCQ",
+        "width": 3000
+      }
+    ],
+    "place_id": "ChIJcdhLnnPzK4gRUFaxZki_FPU",
+    "plus_code": {
+      "compound_code": "FFXF+76 Waterloo, ON, Canada",
+      "global_code": "86MXFFXF+76"
+    },
+    "rating": 3.7,
+    "reference": "ChIJcdhLnnPzK4gRUFaxZki_FPU",
+    "scope": "GOOGLE",
+    "types": [
+      "movie_rental",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 49,
+    "vicinity": "550 King Street North, Waterloo"
+  }
+]

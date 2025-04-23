@@ -1,0 +1,986 @@
+[
+  {
+    "name": "Canadian Tire",
+    "coordinates": {
+      "lat": 43.4852414,
+      "lng": -80.5226235
+    },
+    "longitude": -80.5226235,
+    "latitude": 43.4852414,
+    "types": [
+      "department_store",
+      "home_goods_store",
+      "car_repair",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "The Home Depot",
+    "coordinates": {
+      "lat": 43.4141612,
+      "lng": -80.5163919
+    },
+    "longitude": -80.5163919,
+    "latitude": 43.4141612,
+    "types": [
+      "hardware_store",
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Canadian Tire",
+    "coordinates": {
+      "lat": 43.4484988,
+      "lng": -80.4449983
+    },
+    "longitude": -80.4449983,
+    "latitude": 43.4484988,
+    "types": [
+      "department_store",
+      "home_goods_store",
+      "car_repair",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "The Home Depot",
+    "coordinates": {
+      "lat": 43.5029945,
+      "lng": -80.5335083
+    },
+    "longitude": -80.5335083,
+    "latitude": 43.5029945,
+    "types": [
+      "hardware_store",
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Canadian Tire",
+    "coordinates": {
+      "lat": 43.419701,
+      "lng": -80.44115049999999
+    },
+    "longitude": -80.44115049999999,
+    "latitude": 43.419701,
+    "types": [
+      "department_store",
+      "home_goods_store",
+      "car_repair",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "HomeSense",
+    "coordinates": {
+      "lat": 43.5007797,
+      "lng": -80.5305952
+    },
+    "longitude": -80.5305952,
+    "latitude": 43.5007797,
+    "types": [
+      "department_store",
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Value Village",
+    "coordinates": {
+      "lat": 43.44408000000001,
+      "lng": -80.46925139999999
+    },
+    "longitude": -80.46925139999999,
+    "latitude": 43.44408000000001,
+    "types": [
+      "book_store",
+      "furniture_store",
+      "home_goods_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "RONA+ Waterloo West",
+    "coordinates": {
+      "lat": 43.4372793,
+      "lng": -80.5647118
+    },
+    "longitude": -80.5647118,
+    "latitude": 43.4372793,
+    "types": [
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "TA Appliances & Barbecues",
+    "coordinates": {
+      "lat": 43.4647903,
+      "lng": -80.46419519999999
+    },
+    "longitude": -80.46419519999999,
+    "latitude": 43.4647903,
+    "types": [
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Canadian Tire",
+    "coordinates": {
+      "lat": 43.4475553,
+      "lng": -80.5737841
+    },
+    "longitude": -80.5737841,
+    "latitude": 43.4475553,
+    "types": [
+      "department_store",
+      "home_goods_store",
+      "car_repair",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Michaels",
+    "coordinates": {
+      "lat": 43.4607869,
+      "lng": -80.5366902
+    },
+    "longitude": -80.5366902,
+    "latitude": 43.4607869,
+    "types": [
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Canadian Tire",
+    "coordinates": {
+      "lat": 43.4168731,
+      "lng": -80.51328149999999
+    },
+    "longitude": -80.51328149999999,
+    "latitude": 43.4168731,
+    "types": [
+      "department_store",
+      "home_goods_store",
+      "car_repair",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Best Buy",
+    "coordinates": {
+      "lat": 43.5015112,
+      "lng": -80.53219910000001
+    },
+    "longitude": -80.53219910000001,
+    "latitude": 43.5015112,
+    "types": [
+      "electronics_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Walmart",
+    "coordinates": {
+      "lat": 43.425524,
+      "lng": -80.43790140000002
+    },
+    "longitude": -80.43790140000002,
+    "latitude": 43.425524,
+    "types": [
+      "department_store",
+      "electronics_store",
+      "supermarket",
+      "grocery_or_supermarket",
+      "furniture_store",
+      "home_goods_store",
+      "food",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Best Buy",
+    "coordinates": {
+      "lat": 43.42126890000001,
+      "lng": -80.4372013
+    },
+    "longitude": -80.4372013,
+    "latitude": 43.42126890000001,
+    "types": [
+      "electronics_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Walmart Supercentre",
+    "coordinates": {
+      "lat": 43.416022,
+      "lng": -80.5190083
+    },
+    "longitude": -80.5190083,
+    "latitude": 43.416022,
+    "types": [
+      "department_store",
+      "electronics_store",
+      "supermarket",
+      "grocery_or_supermarket",
+      "furniture_store",
+      "home_goods_store",
+      "food",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Staples",
+    "coordinates": {
+      "lat": 43.4263509,
+      "lng": -80.4870785
+    },
+    "longitude": -80.4870785,
+    "latitude": 43.4263509,
+    "types": [
+      "electronics_store",
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Staples",
+    "coordinates": {
+      "lat": 43.5047349,
+      "lng": -80.5352089
+    },
+    "longitude": -80.5352089,
+    "latitude": 43.5047349,
+    "types": [
+      "electronics_store",
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Len's Mill Store",
+    "coordinates": {
+      "lat": 43.4629767,
+      "lng": -80.5094912
+    },
+    "longitude": -80.5094912,
+    "latitude": 43.4629767,
+    "types": [
+      "home_goods_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Swanson's Home Hardware Building Centre",
+    "coordinates": {
+      "lat": 43.45067479999999,
+      "lng": -80.5045715
+    },
+    "longitude": -80.5045715,
+    "latitude": 43.45067479999999,
+    "types": [
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Party City",
+    "coordinates": {
+      "lat": 43.4200576,
+      "lng": -80.43903859999999
+    },
+    "longitude": -80.43903859999999,
+    "latitude": 43.4200576,
+    "types": [
+      "clothing_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Staples",
+    "coordinates": {
+      "lat": 43.4349821,
+      "lng": -80.5626831
+    },
+    "longitude": -80.5626831,
+    "latitude": 43.4349821,
+    "types": [
+      "electronics_store",
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Snugglers Furniture",
+    "coordinates": {
+      "lat": 43.4697928,
+      "lng": -80.5119088
+    },
+    "longitude": -80.5119088,
+    "latitude": 43.4697928,
+    "types": [
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Lee Valley",
+    "coordinates": {
+      "lat": 43.5044517,
+      "lng": -80.5286883
+    },
+    "longitude": -80.5286883,
+    "latitude": 43.5044517,
+    "types": [
+      "hardware_store",
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "easyhome Lease to Own",
+    "coordinates": {
+      "lat": 43.43470079999999,
+      "lng": -80.5150791
+    },
+    "longitude": -80.5150791,
+    "latitude": 43.43470079999999,
+    "types": [
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "International Home Interiors",
+    "coordinates": {
+      "lat": 43.4691123,
+      "lng": -80.4468536
+    },
+    "longitude": -80.4468536,
+    "latitude": 43.4691123,
+    "types": [
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "JYSK Kitchener - Highland Hills Mall",
+    "coordinates": {
+      "lat": 43.4284045,
+      "lng": -80.52626210000001
+    },
+    "longitude": -80.52626210000001,
+    "latitude": 43.4284045,
+    "types": [
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "St. Jacobs Furniture House",
+    "coordinates": {
+      "lat": 43.5075568,
+      "lng": -80.5559876
+    },
+    "longitude": -80.5559876,
+    "latitude": 43.5075568,
+    "types": [
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Goodwill Community Store",
+    "coordinates": {
+      "lat": 43.43372299999999,
+      "lng": -80.4402087
+    },
+    "longitude": -80.4402087,
+    "latitude": 43.43372299999999,
+    "types": [
+      "shoe_store",
+      "book_store",
+      "clothing_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Gibson Sound & Vision",
+    "coordinates": {
+      "lat": 43.4822896,
+      "lng": -80.5246231
+    },
+    "longitude": -80.5246231,
+    "latitude": 43.4822896,
+    "types": [
+      "electronics_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "St. Jacobs Furnishings",
+    "coordinates": {
+      "lat": 43.5115582,
+      "lng": -80.5536501
+    },
+    "longitude": -80.5536501,
+    "latitude": 43.5115582,
+    "types": [
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "St. Jacobs Outlets",
+    "coordinates": {
+      "lat": 43.5095311,
+      "lng": -80.55454019999999
+    },
+    "longitude": -80.55454019999999,
+    "latitude": 43.5095311,
+    "types": [
+      "shoe_store",
+      "shopping_mall",
+      "clothing_store",
+      "home_goods_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Old Goat Books",
+    "coordinates": {
+      "lat": 43.4661082,
+      "lng": -80.5228867
+    },
+    "longitude": -80.5228867,
+    "latitude": 43.4661082,
+    "types": [
+      "book_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Waterloo Appliance Service Ltd",
+    "coordinates": {
+      "lat": 43.504499,
+      "lng": -80.5312227
+    },
+    "longitude": -80.5312227,
+    "latitude": 43.504499,
+    "types": [
+      "electronics_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Natural Stone City",
+    "coordinates": {
+      "lat": 43.47669500000001,
+      "lng": -80.4363095
+    },
+    "longitude": -80.4363095,
+    "latitude": 43.47669500000001,
+    "types": [
+      "home_goods_store",
+      "general_contractor",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "JC Waterworks Plumbing",
+    "coordinates": {
+      "lat": 43.4664605,
+      "lng": -80.4791456
+    },
+    "longitude": -80.4791456,
+    "latitude": 43.4664605,
+    "types": [
+      "plumber",
+      "home_goods_store",
+      "general_contractor",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Heer's Paint & Decor",
+    "coordinates": {
+      "lat": 43.44476480000001,
+      "lng": -80.52245289999999
+    },
+    "longitude": -80.52245289999999,
+    "latitude": 43.44476480000001,
+    "types": [
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Fine Line Gas Fireplaces Ltd",
+    "coordinates": {
+      "lat": 43.49874069999999,
+      "lng": -80.535342
+    },
+    "longitude": -80.535342,
+    "latitude": 43.49874069999999,
+    "types": [
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Hauser Company Stores",
+    "coordinates": {
+      "lat": 43.4817839,
+      "lng": -80.5219156
+    },
+    "longitude": -80.5219156,
+    "latitude": 43.4817839,
+    "types": [
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Sleep Ezzz Mattress Express",
+    "coordinates": {
+      "lat": 43.4814667,
+      "lng": -80.5254824
+    },
+    "longitude": -80.5254824,
+    "latitude": 43.4814667,
+    "types": [
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Westex Coatings Inc",
+    "coordinates": {
+      "lat": 43.5056247,
+      "lng": -80.53918709999999
+    },
+    "longitude": -80.53918709999999,
+    "latitude": 43.5056247,
+    "types": [
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Rowa Auto Collision Repair",
+    "coordinates": {
+      "lat": 43.48095289999999,
+      "lng": -80.473934
+    },
+    "longitude": -80.473934,
+    "latitude": 43.48095289999999,
+    "types": [
+      "car_repair",
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "D M W Upholstery",
+    "coordinates": {
+      "lat": 43.4666313,
+      "lng": -80.4786793
+    },
+    "longitude": -80.4786793,
+    "latitude": 43.4666313,
+    "types": [
+      "furniture_store",
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "BJ Photo Labs Limited",
+    "coordinates": {
+      "lat": 43.4839391,
+      "lng": -80.5401727
+    },
+    "longitude": -80.5401727,
+    "latitude": 43.4839391,
+    "types": [
+      "electronics_store",
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Tiger Plumbing",
+    "coordinates": {
+      "lat": 43.4583549,
+      "lng": -80.4884098
+    },
+    "longitude": -80.4884098,
+    "latitude": 43.4583549,
+    "types": [
+      "plumber",
+      "general_contractor",
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Beatties Basics Office Products (By appointment only)",
+    "coordinates": {
+      "lat": 43.49743309999999,
+      "lng": -80.547174
+    },
+    "longitude": -80.547174,
+    "latitude": 43.49743309999999,
+    "types": [
+      "furniture_store",
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Dulux Paints",
+    "coordinates": {
+      "lat": 43.4293906,
+      "lng": -80.524986
+    },
+    "longitude": -80.524986,
+    "latitude": 43.4293906,
+    "types": [
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Rich-Craft Interiors Inc",
+    "coordinates": {
+      "lat": 43.48052790000001,
+      "lng": -80.5165652
+    },
+    "longitude": -80.5165652,
+    "latitude": 43.48052790000001,
+    "types": [
+      "general_contractor",
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "WUSA Bike Centre",
+    "coordinates": {
+      "lat": 43.4718576,
+      "lng": -80.5458742
+    },
+    "longitude": -80.5458742,
+    "latitude": 43.4718576,
+    "types": [
+      "bicycle_store",
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "The Fireplace Loft",
+    "coordinates": {
+      "lat": 43.50591189999999,
+      "lng": -80.5405436
+    },
+    "longitude": -80.5405436,
+    "latitude": 43.50591189999999,
+    "types": [
+      "furniture_store",
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Relish Cooking Studio",
+    "coordinates": {
+      "lat": 43.4547331,
+      "lng": -80.4956073
+    },
+    "longitude": -80.4956073,
+    "latitude": 43.4547331,
+    "types": [
+      "grocery_or_supermarket",
+      "furniture_store",
+      "home_goods_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Robert Thompson Contracting",
+    "coordinates": {
+      "lat": 43.5083958,
+      "lng": -80.54373129999999
+    },
+    "longitude": -80.54373129999999,
+    "latitude": 43.5083958,
+    "types": [
+      "general_contractor",
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Dulux Paints",
+    "coordinates": {
+      "lat": 43.4848897,
+      "lng": -80.5258583
+    },
+    "longitude": -80.5258583,
+    "latitude": 43.4848897,
+    "types": [
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Focus Renovation Consultants",
+    "coordinates": {
+      "lat": 43.4584856,
+      "lng": -80.4611187
+    },
+    "longitude": -80.4611187,
+    "latitude": 43.4584856,
+    "types": [
+      "general_contractor",
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "K-w Appliance Plus Inc",
+    "coordinates": {
+      "lat": 43.46412340000001,
+      "lng": -80.46654699999999
+    },
+    "longitude": -80.46654699999999,
+    "latitude": 43.46412340000001,
+    "types": [
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "HUDEL Construction Inc",
+    "coordinates": {
+      "lat": 43.5035344,
+      "lng": -80.51961460000001
+    },
+    "longitude": -80.51961460000001,
+    "latitude": 43.5035344,
+    "types": [
+      "general_contractor",
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Hidden Suites",
+    "coordinates": {
+      "lat": 43.4717897,
+      "lng": -80.4471623
+    },
+    "longitude": -80.4471623,
+    "latitude": 43.4717897,
+    "types": [
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Menno S Martin Contractor Limited",
+    "coordinates": {
+      "lat": 43.5107213,
+      "lng": -80.5334626
+    },
+    "longitude": -80.5334626,
+    "latitude": 43.5107213,
+    "types": [
+      "general_contractor",
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "S B Leather (Venture Seating)",
+    "coordinates": {
+      "lat": 43.4405694,
+      "lng": -80.4879
+    },
+    "longitude": -80.4879,
+    "latitude": 43.4405694,
+    "types": [
+      "furniture_store",
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Smoak Design",
+    "coordinates": {
+      "lat": 43.4369227,
+      "lng": -80.45523340000001
+    },
+    "longitude": -80.45523340000001,
+    "latitude": 43.4369227,
+    "types": [
+      "furniture_store",
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  }
+]

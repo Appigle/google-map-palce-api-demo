@@ -1,0 +1,2201 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4556359,
+        "lng": -80.4931737
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45693833029149,
+          "lng": -80.4917916697085
+        },
+        "southwest": {
+          "lat": 43.45424036970849,
+          "lng": -80.49448963029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Kitchener GO",
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115980301652166350545\">Pavithra Vijayan</a>"
+        ],
+        "photo_reference": "AeeoHcKML1S3y3y2cu7wnySdpaJd8NWhyGszuuGrkLrB9N7LtbTdKwGcyB8gCF5DnsuxecpZGYDB9t1egiStDUQm_gmmGVL67vQrQC8r2Rj4LiZhd2v_AbR62p5F7l48UnXx3CirWUupXQIVeAWIHNF_ovC64jiNomtpAng_lP10XOC4gvdecjZAGw_6VNx2tpZMXrrFZY0BNTC1pgTplR98HhqQgfbrbUZers0gWAv3RAs-_yJP5-JpqkbKL6VEL7o_jb36e6vcSGAVYQEEcxSdptzqk9olCd15WTxoI8gM-CiCHyWQv9TXyhensUTewo5_owvMX8RwDdQk5RuIH1ZlhombkPJy4tczn05P1Dq5MYHXjwLpGy7YoliInRqjV85g15gExRC59svRjc1xjTorA6HdxlSsmPQeXwGvgASwCLHcUNOfU0tHTjt1J7QwwKjC1xT9ZzKvw_KPcdWPcWFjaM4zrAWNfSzSBayy-ipCgIoSsaGl6BgUtR4zJNSSi2-AUayGbqDmzzgVVQfzx1O6gO3zimH9hZpBvsgrAfFMWIofVBJbkd89gpigCjXTU5FTUAZGA-uuR_U4GzRwIuBrvCTWePD-5naz6G1_XUu_EhMDhBU89NgGec-OMlzW2vgOpRMWGdLy",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJH9fmhYv0K4gRZ3kbqUDsXN4",
+    "plus_code": {
+      "compound_code": "FG44+7P Kitchener, ON, Canada",
+      "global_code": "86MXFG44+7P"
+    },
+    "rating": 3.3,
+    "reference": "ChIJH9fmhYv0K4gRZ3kbqUDsXN4",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "train_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 159,
+    "vicinity": "126 Weber Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4642655,
+        "lng": -80.52261399999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4655589802915,
+          "lng": -80.52101286970849
+        },
+        "southwest": {
+          "lat": 43.4628610197085,
+          "lng": -80.5237108302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Waterloo Public Square Station",
+    "photos": [
+      {
+        "height": 5712,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107293065860994466163\">Marina</a>"
+        ],
+        "photo_reference": "AeeoHcLB1P_n-TZXJlej6XNuRIP1klxb9XT1N41SlY4Ya_W5Bqaib5kSeWxdMvrX1ZzeaVsCbVcrzaKPw7B8N6WyhgkWfhGcTLK-Pn0hx2S5VbULMmAGjAqpSOlb3wXCo77MWyOXES4zrEgcGPAPIA0c0SP-IY-GOAfq87xSaj9BHGPDBAmXOHG28FUNLQAB2m_Qw76SWA0EH7YfhhvLYTiA0jqkFWe3budb2t9vu9vvfOeTjarMNCbGgVhPXl0vqjyDYZK0xqkeDpD4drYyVwZYYpM5On_oGyPOeXExrUqGwUFyycOOb5Z7g0r1NxkWe_pp7aSagemQjRogVBZra-YU6NZWtqQXbEjVBW4u-tVsrJikTGQKRbcaJ59CFiYUfo3nehMzKZtLvQSGsGN5RzIYek0ordQo5jRiG0up1dX0vJUehre428xxUu-MwDPx1Mm8lN8Iz5o_83Jz18SOAxz2XYrKZOt3v2JoVsuW19wBkPbb03fjVBE1x_qvUdNO7Fu6GAail87_ZX5BB0AkivqY9784vfiTqEJh8E8PxuU8gBjh0r5hZlk9apMl0CsaMLJzqxYurvjqNRY7kJyNCFO28hEtYf8hwDxW5NN5DSySLn6FRUwYdcQ0N73U4Ehlay-Z",
+        "width": 4284
+      }
+    ],
+    "place_id": "ChIJu8LHphL0K4gR2X1E20E-sWE",
+    "plus_code": {
+      "compound_code": "FF7G+PX Waterloo, ON, Canada",
+      "global_code": "86MXFF7G+PX"
+    },
+    "rating": 4,
+    "reference": "ChIJu8LHphL0K4gR2X1E20E-sWE",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.462844,
+        "lng": -80.51213299999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4641759802915,
+          "lng": -80.51076511970848
+        },
+        "southwest": {
+          "lat": 43.4614780197085,
+          "lng": -80.5134630802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Union / Lucan",
+    "place_id": "ChIJTfqjw2_0K4gRo2Xn8WQu_Zs",
+    "plus_code": {
+      "compound_code": "FF7Q+44 Waterloo, ON, Canada",
+      "global_code": "86MXFF7Q+44"
+    },
+    "reference": "ChIJTfqjw2_0K4gRo2Xn8WQu_Zs",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.462369,
+        "lng": -80.529888
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4637418802915,
+          "lng": -80.5285573697085
+        },
+        "southwest": {
+          "lat": 43.4610439197085,
+          "lng": -80.5312553302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Erb / Avondale",
+    "place_id": "ChIJN_kZAhH0K4gR4mUbQCkptiQ",
+    "plus_code": {
+      "compound_code": "FF6C+W2 Waterloo, ON, Canada",
+      "global_code": "86MXFF6C+W2"
+    },
+    "reference": "ChIJN_kZAhH0K4gR4mUbQCkptiQ",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46863249999999,
+        "lng": -80.5107945
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47001213029149,
+          "lng": -80.5094646697085
+        },
+        "southwest": {
+          "lat": 43.46731416970849,
+          "lng": -80.51216263029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Weber / Erb",
+    "place_id": "ChIJqw65Vnf0K4gRO7wIFVlXGzc",
+    "plus_code": {
+      "compound_code": "FF9Q+FM Waterloo, ON, Canada",
+      "global_code": "86MXFF9Q+FM"
+    },
+    "reference": "ChIJqw65Vnf0K4gRO7wIFVlXGzc",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4571875,
+        "lng": -80.5115733
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4585298802915,
+          "lng": -80.51022841970848
+        },
+        "southwest": {
+          "lat": 43.4558319197085,
+          "lng": -80.51292638029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Grand River Hospital Station",
+    "place_id": "ChIJJXLak2j0K4gRv7XtAxKVND4",
+    "plus_code": {
+      "compound_code": "FF4Q+V9 Kitchener, ON, Canada",
+      "global_code": "86MXFF4Q+V9"
+    },
+    "reference": "ChIJJXLak2j0K4gRv7XtAxKVND4",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.465287,
+        "lng": -80.5054565
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4666456802915,
+          "lng": -80.5041137697085
+        },
+        "southwest": {
+          "lat": 43.4639477197085,
+          "lng": -80.5068117302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Union / Weber",
+    "place_id": "ChIJwzYAeXv0K4gR6AcSN6lilyE",
+    "plus_code": {
+      "compound_code": "FF8V+4R Waterloo, ON, Canada",
+      "global_code": "86MXFF8V+4R"
+    },
+    "reference": "ChIJwzYAeXv0K4gR6AcSN6lilyE",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.460429,
+        "lng": -80.53437799999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4617944302915,
+          "lng": -80.5330425197085
+        },
+        "southwest": {
+          "lat": 43.4590964697085,
+          "lng": -80.53574048029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Erb / Dietz",
+    "place_id": "ChIJq1iNixn0K4gRXDctysPhWIg",
+    "plus_code": {
+      "compound_code": "FF68+56 Waterloo, ON, Canada",
+      "global_code": "86MXFF68+56"
+    },
+    "reference": "ChIJq1iNixn0K4gRXDctysPhWIg",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4750244,
+        "lng": -80.5172346
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4763848302915,
+          "lng": -80.5158937197085
+        },
+        "southwest": {
+          "lat": 43.4736868697085,
+          "lng": -80.51859168029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Marshall / Weber",
+    "place_id": "ChIJUTHbPorzK4gR1Zvpic6_O4s",
+    "plus_code": {
+      "compound_code": "FFGM+24 Waterloo, ON, Canada",
+      "global_code": "86MXFFGM+24"
+    },
+    "reference": "ChIJUTHbPorzK4gR1Zvpic6_O4s",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47587350000001,
+        "lng": -80.525579
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4772518302915,
+          "lng": -80.5242496197085
+        },
+        "southwest": {
+          "lat": 43.4745538697085,
+          "lng": -80.5269475802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "King / University",
+    "place_id": "ChIJvf4aufXzK4gRlMAcHQsDloE",
+    "plus_code": {
+      "compound_code": "FFGF+8Q Waterloo, ON, Canada",
+      "global_code": "86MXFFGF+8Q"
+    },
+    "reference": "ChIJvf4aufXzK4gRlMAcHQsDloE",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.453125,
+        "lng": -80.513527
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4544547302915,
+          "lng": -80.5121644697085
+        },
+        "southwest": {
+          "lat": 43.4517567697085,
+          "lng": -80.51486243029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Glasgow / York",
+    "place_id": "ChIJbaHhYEL0K4gRmN78YwgSTvs",
+    "plus_code": {
+      "compound_code": "FF3P+6H Kitchener, ON, Canada",
+      "global_code": "86MXFF3P+6H"
+    },
+    "reference": "ChIJbaHhYEL0K4gRmN78YwgSTvs",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.475373,
+        "lng": -80.528081
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4765633302915,
+          "lng": -80.5267038697085
+        },
+        "southwest": {
+          "lat": 43.4738653697085,
+          "lng": -80.5294018302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Laurier",
+    "place_id": "ChIJWR59EfbzK4gREG-Ea272ucM",
+    "plus_code": {
+      "compound_code": "FFGC+4Q Waterloo, ON, Canada",
+      "global_code": "86MXFFGC+4Q"
+    },
+    "reference": "ChIJWR59EfbzK4gREG-Ea272ucM",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45751,
+        "lng": -80.535
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45886403029149,
+          "lng": -80.5336469197085
+        },
+        "southwest": {
+          "lat": 43.45616606970849,
+          "lng": -80.53634488029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Westmount / Lourdes",
+    "place_id": "ChIJ-bSdWxj0K4gRDlH_JadVbXg",
+    "plus_code": {
+      "compound_code": "FF58+22 Waterloo, ON, Canada",
+      "global_code": "86MXFF58+22"
+    },
+    "reference": "ChIJ-bSdWxj0K4gRDlH_JadVbXg",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4519065,
+        "lng": -80.51689
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4532430802915,
+          "lng": -80.51553256970851
+        },
+        "southwest": {
+          "lat": 43.4505451197085,
+          "lng": -80.51823053029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Glasgow / Belmont",
+    "place_id": "ChIJ8RMGd0H0K4gRrIla2kO_oZk",
+    "plus_code": {
+      "compound_code": "FF2M+Q6 Kitchener, ON, Canada",
+      "global_code": "86MXFF2M+Q6"
+    },
+    "reference": "ChIJ8RMGd0H0K4gRrIla2kO_oZk",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45208650000001,
+        "lng": -80.525325
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4534419302915,
+          "lng": -80.52398261970849
+        },
+        "southwest": {
+          "lat": 43.4507439697085,
+          "lng": -80.5266805802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Westmount / Union",
+    "place_id": "ChIJ4ZdG7j70K4gRVrpIP4_4MqY",
+    "plus_code": {
+      "compound_code": "FF2F+RV Kitchener, ON, Canada",
+      "global_code": "86MXFF2F+RV"
+    },
+    "reference": "ChIJ4ZdG7j70K4gRVrpIP4_4MqY",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4661945,
+        "lng": -80.50289599999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4675732802915,
+          "lng": -80.5015686197085
+        },
+        "southwest": {
+          "lat": 43.4648753197085,
+          "lng": -80.5042665802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Union / Ellis",
+    "place_id": "ChIJKXEYRnz0K4gRcYpVfvBeqqA",
+    "plus_code": {
+      "compound_code": "FF8W+FR Waterloo, ON, Canada",
+      "global_code": "86MXFF8W+FR"
+    },
+    "reference": "ChIJKXEYRnz0K4gRcYpVfvBeqqA",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45935649999999,
+        "lng": -80.53702
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4606883802915,
+          "lng": -80.53570791970849
+        },
+        "southwest": {
+          "lat": 43.4579904197085,
+          "lng": -80.5384058802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Erb / Westmount",
+    "place_id": "ChIJ3V7GPRn0K4gRQTZmoaENS5s",
+    "plus_code": {
+      "compound_code": "FF57+P5 Waterloo, ON, Canada",
+      "global_code": "86MXFF57+P5"
+    },
+    "reference": "ChIJ3V7GPRn0K4gRQTZmoaENS5s",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4780355,
+        "lng": -80.5254155
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47938368029151,
+          "lng": -80.5240734697085
+        },
+        "southwest": {
+          "lat": 43.47668571970851,
+          "lng": -80.5267714302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "King / Hickory",
+    "place_id": "ChIJd6JkafTzK4gRvOgkYVks6dA",
+    "plus_code": {
+      "compound_code": "FFHF+6R Waterloo, ON, Canada",
+      "global_code": "86MXFFHF+6R"
+    },
+    "reference": "ChIJd6JkafTzK4gRvOgkYVks6dA",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46884850000001,
+        "lng": -80.5390175
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47019128029151,
+          "lng": -80.53764556970849
+        },
+        "southwest": {
+          "lat": 43.46749331970851,
+          "lng": -80.5403435302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "University / Seagram",
+    "place_id": "ChIJL2cGkAP0K4gR-yJXREuPBHA",
+    "plus_code": {
+      "compound_code": "FF96+G9 Waterloo, ON, Canada",
+      "global_code": "86MXFF96+G9"
+    },
+    "reference": "ChIJL2cGkAP0K4gR-yJXREuPBHA",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.464175,
+        "lng": -80.541043
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46553538029151,
+          "lng": -80.5396873197085
+        },
+        "southwest": {
+          "lat": 43.46283741970851,
+          "lng": -80.54238528029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Westmount / University",
+    "place_id": "ChIJy_pb_Rz0K4gR0AVH942Jcyo",
+    "plus_code": {
+      "compound_code": "FF75+MH Waterloo, ON, Canada",
+      "global_code": "86MXFF75+MH"
+    },
+    "reference": "ChIJy_pb_Rz0K4gR0AVH942Jcyo",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47925499999999,
+        "lng": -80.5165325
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.48062748029151,
+          "lng": -80.5152048697085
+        },
+        "southwest": {
+          "lat": 43.47792951970851,
+          "lng": -80.51790283029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Conestoga College",
+    "place_id": "ChIJxaJtGYzzK4gRaBK09PcCNo8",
+    "plus_code": {
+      "compound_code": "FFHM+P9 Waterloo, ON, Canada",
+      "global_code": "86MXFFHM+P9"
+    },
+    "reference": "ChIJxaJtGYzzK4gRaBK09PcCNo8",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.461363,
+        "lng": -80.49969
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4627143302915,
+          "lng": -80.4983366697085
+        },
+        "southwest": {
+          "lat": 43.4600163697085,
+          "lng": -80.50103463029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Weber / Guelph",
+    "place_id": "ChIJQ19Xn2L0K4gR5Q2e6fH4TL8",
+    "plus_code": {
+      "compound_code": "FG62+G4 Kitchener, ON, Canada",
+      "global_code": "86MXFG62+G4"
+    },
+    "reference": "ChIJQ19Xn2L0K4gR5Q2e6fH4TL8",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.448427,
+        "lng": -80.5269185
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44980048029149,
+          "lng": -80.5255859697085
+        },
+        "southwest": {
+          "lat": 43.4471025197085,
+          "lng": -80.52828393029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Glasgow / Aberdeen",
+    "place_id": "ChIJ-e6ffjn0K4gRcS4YoqNlJs0",
+    "plus_code": {
+      "compound_code": "CFXF+96 Kitchener, ON, Canada",
+      "global_code": "86MXCFXF+96"
+    },
+    "reference": "ChIJ-e6ffjn0K4gRcS4YoqNlJs0",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4569985,
+        "lng": -80.541184
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4583493802915,
+          "lng": -80.5398368697085
+        },
+        "southwest": {
+          "lat": 43.4556514197085,
+          "lng": -80.5425348302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Erb / Mcdougall",
+    "place_id": "ChIJQbfpgh_0K4gRVVYO_VPlovc",
+    "plus_code": {
+      "compound_code": "FF45+QG Waterloo, ON, Canada",
+      "global_code": "86MXFF45+QG"
+    },
+    "reference": "ChIJQbfpgh_0K4gRVVYO_VPlovc",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4794335,
+        "lng": -80.5313695
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4807749302915,
+          "lng": -80.5300387697085
+        },
+        "southwest": {
+          "lat": 43.4780769697085,
+          "lng": -80.5327367302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Waterloo C.I.",
+    "place_id": "ChIJb5ebSvfzK4gR8fyWbR3qVfA",
+    "plus_code": {
+      "compound_code": "FFH9+QF Waterloo, ON, Canada",
+      "global_code": "86MXFFH9+QF"
+    },
+    "reference": "ChIJb5ebSvfzK4gR8fyWbR3qVfA",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4807405,
+        "lng": -80.52938050000002
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4820703802915,
+          "lng": -80.5280193197085
+        },
+        "southwest": {
+          "lat": 43.4793724197085,
+          "lng": -80.53071728029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Columbia / Holly",
+    "place_id": "ChIJC1qwGfHzK4gRd8Q4brrnIo4",
+    "plus_code": {
+      "compound_code": "FFJC+76 Waterloo, ON, Canada",
+      "global_code": "86MXFFJC+76"
+    },
+    "reference": "ChIJC1qwGfHzK4gRd8Q4brrnIo4",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4794695,
+        "lng": -80.507699
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.48081458029149,
+          "lng": -80.5063392197085
+        },
+        "southwest": {
+          "lat": 43.47811661970849,
+          "lng": -80.5090371802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Lincoln / Mayfield",
+    "place_id": "ChIJW5vRUoTzK4gRaBXVIzTZrw8",
+    "plus_code": {
+      "compound_code": "FFHR+QW Waterloo, ON, Canada",
+      "global_code": "86MXFFHR+QW"
+    },
+    "reference": "ChIJW5vRUoTzK4gRaBXVIzTZrw8",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.446592,
+        "lng": -80.523034
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4479368302915,
+          "lng": -80.52168446970849
+        },
+        "southwest": {
+          "lat": 43.4452388697085,
+          "lng": -80.5243824302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Westmount / Westwood",
+    "place_id": "ChIJcen7Pzj0K4gR-TDML5i212s",
+    "plus_code": {
+      "compound_code": "CFWG+JQ Kitchener, ON, Canada",
+      "global_code": "86MXCFWG+JQ"
+    },
+    "reference": "ChIJcen7Pzj0K4gR-TDML5i212s",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45891949999999,
+        "lng": -80.49694149999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4602587302915,
+          "lng": -80.49560336970849
+        },
+        "southwest": {
+          "lat": 43.4575607697085,
+          "lng": -80.4983013302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Weber / Wilhelm",
+    "place_id": "ChIJ9wF_oYn0K4gRCjRs82UDLds",
+    "plus_code": {
+      "compound_code": "FG53+H6 Kitchener, ON, Canada",
+      "global_code": "86MXFG53+H6"
+    },
+    "reference": "ChIJ9wF_oYn0K4gRCjRs82UDLds",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47866200000001,
+        "lng": -80.535184
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47999688029149,
+          "lng": -80.5338245197085
+        },
+        "southwest": {
+          "lat": 43.4772989197085,
+          "lng": -80.53652248029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Columbia / Albert",
+    "place_id": "ChIJJ-FVn_nzK4gRZiynhW5GPMs",
+    "plus_code": {
+      "compound_code": "FFH7+FW Waterloo, ON, Canada",
+      "global_code": "86MXFFH7+FW"
+    },
+    "reference": "ChIJJ-FVn_nzK4gRZiynhW5GPMs",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4613685,
+        "lng": -80.545193
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4627127802915,
+          "lng": -80.5438395197085
+        },
+        "southwest": {
+          "lat": 43.4600148197085,
+          "lng": -80.5465374802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Keats Way / Mcdougall",
+    "place_id": "ChIJo1qNtaD2K4gRohR6ReDXj7c",
+    "plus_code": {
+      "compound_code": "FF63+GW Waterloo, ON, Canada",
+      "global_code": "86MXFF63+GW"
+    },
+    "reference": "ChIJo1qNtaD2K4gRohR6ReDXj7c",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4820115,
+        "lng": -80.5267195
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.48336763029149,
+          "lng": -80.52538446970848
+        },
+        "southwest": {
+          "lat": 43.4806696697085,
+          "lng": -80.52808243029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Columbia / King",
+    "place_id": "ChIJuyAaL_LzK4gR5fxCEoQfRn4",
+    "plus_code": {
+      "compound_code": "FFJF+R8 Waterloo, ON, Canada",
+      "global_code": "86MXFFJF+R8"
+    },
+    "reference": "ChIJuyAaL_LzK4gR5fxCEoQfRn4",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4831295,
+        "lng": -80.52304000000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4844659302915,
+          "lng": -80.52172351970849
+        },
+        "southwest": {
+          "lat": 43.4817679697085,
+          "lng": -80.5244214802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Columbia / Weber",
+    "place_id": "ChIJSX16mPLzK4gRdpqiA3RLgeU",
+    "plus_code": {
+      "compound_code": "FFMG+7Q Waterloo, ON, Canada",
+      "global_code": "86MXFFMG+7Q"
+    },
+    "reference": "ChIJSX16mPLzK4gRdpqiA3RLgeU",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46318,
+        "lng": -80.494267
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4645125302915,
+          "lng": -80.4929467697085
+        },
+        "southwest": {
+          "lat": 43.4618145697085,
+          "lng": -80.4956447302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Margaret / Guelph",
+    "place_id": "ChIJKZ_0DIb0K4gRDRH7nxf_-g8",
+    "plus_code": {
+      "compound_code": "FG74+77 Kitchener, ON, Canada",
+      "global_code": "86MXFG74+77"
+    },
+    "reference": "ChIJKZ_0DIb0K4gRDRH7nxf_-g8",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4767983,
+        "lng": -80.5405225
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4781769802915,
+          "lng": -80.53919461970848
+        },
+        "southwest": {
+          "lat": 43.4754790197085,
+          "lng": -80.54189258029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Columbia / Phillip",
+    "place_id": "ChIJI9EYDf_zK4gRDD7Oq0k6x1E",
+    "plus_code": {
+      "compound_code": "FFG5+PQ Waterloo, ON, Canada",
+      "global_code": "86MXFFG5+PQ"
+    },
+    "reference": "ChIJI9EYDf_zK4gRDD7Oq0k6x1E",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4453445,
+        "lng": -80.52721450000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44669218029149,
+          "lng": -80.5258646697085
+        },
+        "southwest": {
+          "lat": 43.44399421970849,
+          "lng": -80.5285626302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Westwood / Inwood",
+    "place_id": "ChIJs5XQrDD0K4gRMMrWEGk7dYo",
+    "plus_code": {
+      "compound_code": "CFWF+44 Kitchener, ON, Canada",
+      "global_code": "86MXCFWF+44"
+    },
+    "reference": "ChIJs5XQrDD0K4gRMMrWEGk7dYo",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4570485,
+        "lng": -80.4950582
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4584246302915,
+          "lng": -80.4937252197085
+        },
+        "southwest": {
+          "lat": 43.4557266697085,
+          "lng": -80.4964231802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Weber / Wellington",
+    "place_id": "ChIJow0h54v0K4gRWZL7lm8QbrU",
+    "plus_code": {
+      "compound_code": "FG43+RX Kitchener, ON, Canada",
+      "global_code": "86MXFG43+RX"
+    },
+    "reference": "ChIJow0h54v0K4gRWZL7lm8QbrU",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4507155,
+        "lng": -80.499978
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4520456802915,
+          "lng": -80.49859646970849
+        },
+        "southwest": {
+          "lat": 43.44934771970851,
+          "lng": -80.5012944302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Victoria / Joseph",
+    "place_id": "ChIJXSCUgl_0K4gRzn_jkjoOX7A",
+    "plus_code": {
+      "compound_code": "FG22+72 Kitchener, ON, Canada",
+      "global_code": "86MXFG22+72"
+    },
+    "reference": "ChIJXSCUgl_0K4gRzn_jkjoOX7A",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.48447050000001,
+        "lng": -80.52670549999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4857960802915,
+          "lng": -80.5253482197085
+        },
+        "southwest": {
+          "lat": 43.4830981197085,
+          "lng": -80.52804618029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "King / Weber",
+    "place_id": "ChIJYe46--3zK4gR12i_LSmrkcM",
+    "plus_code": {
+      "compound_code": "FFMF+Q8 Waterloo, ON, Canada",
+      "global_code": "86MXFFMF+Q8"
+    },
+    "reference": "ChIJYe46--3zK4gR12i_LSmrkcM",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4823,
+        "lng": -80.506288
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.48368163029149,
+          "lng": -80.5049047197085
+        },
+        "southwest": {
+          "lat": 43.48098366970849,
+          "lng": -80.50760268029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Lincoln / Bluevale",
+    "place_id": "ChIJf3qXSpvzK4gROmW7Tl9ZOhU",
+    "plus_code": {
+      "compound_code": "FFJV+WF Waterloo, ON, Canada",
+      "global_code": "86MXFFJV+WF"
+    },
+    "reference": "ChIJf3qXSpvzK4gROmW7Tl9ZOhU",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.48341149999999,
+        "lng": -80.50791699999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.48475868029149,
+          "lng": -80.5065666197085
+        },
+        "southwest": {
+          "lat": 43.48206071970849,
+          "lng": -80.50926458029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "University / Lincoln",
+    "place_id": "ChIJtQVU3przK4gRuwE_Y8EZBhQ",
+    "plus_code": {
+      "compound_code": "FFMR+9R Waterloo, ON, Canada",
+      "global_code": "86MXFFMR+9R"
+    },
+    "reference": "ChIJtQVU3przK4gRuwE_Y8EZBhQ",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.443228,
+        "lng": -80.5228625
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44450458029151,
+          "lng": -80.5215522697085
+        },
+        "southwest": {
+          "lat": 43.44180661970851,
+          "lng": -80.5242502302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Chopin / Westmount",
+    "place_id": "ChIJ4RVJyjf0K4gR1lgkQkXvvss",
+    "plus_code": {
+      "compound_code": "CFVG+7V Kitchener, ON, Canada",
+      "global_code": "86MXCFVG+7V"
+    },
+    "rating": 3,
+    "reference": "ChIJ4RVJyjf0K4gR1lgkQkXvvss",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.458769,
+        "lng": -80.54876
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4601051802915,
+          "lng": -80.5473936197085
+        },
+        "southwest": {
+          "lat": 43.4574072197085,
+          "lng": -80.55009158029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Keats Way / Amos",
+    "place_id": "ChIJD83Nj6H2K4gRHdCXZEmpRns",
+    "plus_code": {
+      "compound_code": "FF52+GF Waterloo, ON, Canada",
+      "global_code": "86MXFF52+GF"
+    },
+    "reference": "ChIJD83Nj6H2K4gRHdCXZEmpRns",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.474789,
+        "lng": -80.546286
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47615013029151,
+          "lng": -80.54490331970851
+        },
+        "southwest": {
+          "lat": 43.47345216970851,
+          "lng": -80.54760128029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Columbia / U.W.",
+    "place_id": "ChIJ24Cs4Kr2K4gRwaK4P_zoyzY",
+    "plus_code": {
+      "compound_code": "FFF3+WF Waterloo, ON, Canada",
+      "global_code": "86MXFFF3+WF"
+    },
+    "reference": "ChIJ24Cs4Kr2K4gRwaK4P_zoyzY",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4547855,
+        "lng": -80.49372579999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45612543029149,
+          "lng": -80.49239071970848
+        },
+        "southwest": {
+          "lat": 43.45342746970849,
+          "lng": -80.4950886802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Victoria / Weber",
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114295412911213537036\">Premkumar S</a>"
+        ],
+        "photo_reference": "AeeoHcLSq3xyrOAmMtn-LLyWxdUMH1rMG502VQyAEw4iGJKUVR495TuVx4DaEb8D_whU-zdXmbKlEyaw-uVDNhrCb7p6YbQ3088EA0e_1qp9T3fTrCqFbDXJCWhBv5vT66xDlUDJuEObnrGzLUaECsK6sF8OtS04rmNPppPy6GDVH3gLPAu0vVOK9WrlukegqZUzVuygwYBBrMG5Je5ZrrIps5rzmt4b-o7-A_hK9-7O6BUosOop2yoLfR6C9MAbpgVX02E-72Uu8kRTT4hYuaZs1dZ5IY3wiOCaYXZ4wKQmkmBprm-FgGeBLJ88L1BLVrZBs2qbYIb9tL50eBwltpqXlnw2uteRmLfhn_8SXYfjJbBFyfN5P5BbGBEhD25ZTPw6ccwFDgSDTNT43BrNcoKlRul9h0_J9x-8kBBTwt7DpJkDd-xtAfzWtGIZCynBQwSSWLnZUzI4z3U0IxBi5THhKDY0zPAq0e78u3YWPjduzyos0gmidUHnZiM26yPFzRr823JA77BsfZdie7ycntzGFve-s5Xzzrez96xnk-SUMXByaSZ1Cqoc35hND4x-kUKKll-MB5xsCL1tNKTPmlwiVir01_vkTWpADU2zKMhzfsEQYRkgBP_b2vzX8MCaTEWHyXsJTA",
+        "width": 2268
+      }
+    ],
+    "place_id": "ChIJN21JgIz0K4gRV5d8sH-q8c0",
+    "plus_code": {
+      "compound_code": "FG34+WG Kitchener, ON, Canada",
+      "global_code": "86MXFG34+WG"
+    },
+    "reference": "ChIJN21JgIz0K4gRV5d8sH-q8c0",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4443335,
+        "lng": -80.508494
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44569523029149,
+          "lng": -80.50715336970849
+        },
+        "southwest": {
+          "lat": 43.44299726970849,
+          "lng": -80.5098513302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Victoria / Patricia",
+    "place_id": "ChIJk8ojnVr0K4gRC9Q-9_IcquA",
+    "plus_code": {
+      "compound_code": "CFVR+PJ Kitchener, ON, Canada",
+      "global_code": "86MXCFVR+PJ"
+    },
+    "rating": 4,
+    "reference": "ChIJk8ojnVr0K4gRC9Q-9_IcquA",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.443383,
+        "lng": -80.511597
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4446637302915,
+          "lng": -80.51020176970849
+        },
+        "southwest": {
+          "lat": 43.4419657697085,
+          "lng": -80.51289973029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Belmont / Victoria",
+    "place_id": "ChIJm4Q66k_0K4gRL_1ja9xai7I",
+    "plus_code": {
+      "compound_code": "CFVQ+99 Kitchener, ON, Canada",
+      "global_code": "86MXCFVQ+99"
+    },
+    "reference": "ChIJm4Q66k_0K4gRL_1ja9xai7I",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4588415,
+        "lng": -80.490459
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4601721802915,
+          "lng": -80.4891668697085
+        },
+        "southwest": {
+          "lat": 43.4574742197085,
+          "lng": -80.4918648302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Wellington / Margaret",
+    "place_id": "ChIJDdpzUI70K4gR9PhwJF8lYg0",
+    "plus_code": {
+      "compound_code": "FG55+GR Kitchener, ON, Canada",
+      "global_code": "86MXFG55+GR"
+    },
+    "reference": "ChIJDdpzUI70K4gR9PhwJF8lYg0",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4515518,
+        "lng": -80.494709
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4528963302915,
+          "lng": -80.49334486970851
+        },
+        "southwest": {
+          "lat": 43.4501983697085,
+          "lng": -80.49604283029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "King / Water",
+    "place_id": "ChIJJaarvfT0K4gRBOn-whie3hw",
+    "plus_code": {
+      "compound_code": "FG24+J4 Kitchener, ON, Canada",
+      "global_code": "86MXFG24+J4"
+    },
+    "reference": "ChIJJaarvfT0K4gRBOn-whie3hw",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.487281,
+        "lng": -80.5183545
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.48862948029149,
+          "lng": -80.51705216970849
+        },
+        "southwest": {
+          "lat": 43.48593151970849,
+          "lng": -80.51975013029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Lexington / Dearborn",
+    "place_id": "ChIJ9zwFm5PzK4gRuGdlFRUFIqw",
+    "plus_code": {
+      "compound_code": "FFPJ+WM Waterloo, ON, Canada",
+      "global_code": "86MXFFPJ+WM"
+    },
+    "reference": "ChIJ9zwFm5PzK4gRuGdlFRUFIqw",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4731595,
+        "lng": -80.5507365
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4745269302915,
+          "lng": -80.54940021970849
+        },
+        "southwest": {
+          "lat": 43.4718289697085,
+          "lng": -80.5520981802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Columbia / Village 1",
+    "place_id": "ChIJz0voaaz2K4gRIQVZRuDHxRM",
+    "plus_code": {
+      "compound_code": "FCFX+7P Waterloo, ON, Canada",
+      "global_code": "86MXFCFX+7P"
+    },
+    "reference": "ChIJz0voaaz2K4gRIQVZRuDHxRM",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45637199999999,
+        "lng": -80.48897149999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45771778029149,
+          "lng": -80.4876203697085
+        },
+        "southwest": {
+          "lat": 43.45501981970849,
+          "lng": -80.49031833029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Margaret / Victoria",
+    "place_id": "ChIJqfBK5Y30K4gRoly-S4uf_ew",
+    "plus_code": {
+      "compound_code": "FG46+GC Kitchener, ON, Canada",
+      "global_code": "86MXFG46+GC"
+    },
+    "reference": "ChIJqfBK5Y30K4gRoly-S4uf_ew",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44028199999999,
+        "lng": -80.52646399999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4416486302915,
+          "lng": -80.5250925197085
+        },
+        "southwest": {
+          "lat": 43.4389506697085,
+          "lng": -80.52779048029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Chopin / Hazelglen",
+    "place_id": "ChIJ_WocEDT0K4gRMmAakt_HuQY",
+    "plus_code": {
+      "compound_code": "CFRF+4C Kitchener, ON, Canada",
+      "global_code": "86MXCFRF+4C"
+    },
+    "reference": "ChIJ_WocEDT0K4gRMmAakt_HuQY",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4423845,
+        "lng": -80.53542449999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4437140802915,
+          "lng": -80.53406446970851
+        },
+        "southwest": {
+          "lat": 43.4410161197085,
+          "lng": -80.53676243029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Westwood / Gallarno",
+    "place_id": "ChIJ-aqSYi70K4gRg6QHluwYg5k",
+    "plus_code": {
+      "compound_code": "CFR7+XR Kitchener, ON, Canada",
+      "global_code": "86MXCFR7+XR"
+    },
+    "reference": "ChIJ-aqSYi70K4gRg6QHluwYg5k",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4394925,
+        "lng": -80.5206905
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44085478029149,
+          "lng": -80.5193497197085
+        },
+        "southwest": {
+          "lat": 43.4381568197085,
+          "lng": -80.52204768029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Westmount / Victoria",
+    "place_id": "ChIJs-rGE0r0K4gRk9RG3PMStNQ",
+    "plus_code": {
+      "compound_code": "CFQH+QP Kitchener, ON, Canada",
+      "global_code": "86MXCFQH+QP"
+    },
+    "reference": "ChIJs-rGE0r0K4gRk9RG3PMStNQ",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4791055,
+        "lng": -80.549314
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4804649802915,
+          "lng": -80.54793976970849
+        },
+        "southwest": {
+          "lat": 43.4777670197085,
+          "lng": -80.5506377302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "R&T Park",
+    "place_id": "ChIJf6pgeFTxK4gRP26Hw_5HLsI",
+    "plus_code": {
+      "compound_code": "FFH2+J7 Waterloo, ON, Canada",
+      "global_code": "86MXFFH2+J7"
+    },
+    "reference": "ChIJf6pgeFTxK4gRP26Hw_5HLsI",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.490232,
+        "lng": -80.51669849999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4915671302915,
+          "lng": -80.51533206970849
+        },
+        "southwest": {
+          "lat": 43.4888691697085,
+          "lng": -80.5180300302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Lexington / Dearborn",
+    "place_id": "ChIJgfdMLZTzK4gR2Y-VXIHGX68",
+    "plus_code": {
+      "compound_code": "FFRM+38 Waterloo, ON, Canada",
+      "global_code": "86MXFFRM+38"
+    },
+    "reference": "ChIJgfdMLZTzK4gR2Y-VXIHGX68",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.452625,
+        "lng": -80.55349
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4539556302915,
+          "lng": -80.5521785697085
+        },
+        "southwest": {
+          "lat": 43.4512576697085,
+          "lng": -80.55487653029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Fischer-Hallman / Erb",
+    "place_id": "ChIJHVI4IJr2K4gRmm7rvoYsorw",
+    "plus_code": {
+      "compound_code": "FC3W+3J Waterloo, ON, Canada",
+      "global_code": "86MXFC3W+3J"
+    },
+    "reference": "ChIJHVI4IJr2K4gRmm7rvoYsorw",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.443963,
+        "lng": -80.545194
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4453230802915,
+          "lng": -80.54383416970849
+        },
+        "southwest": {
+          "lat": 43.4426251197085,
+          "lng": -80.54653213029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Fischer-Hallman / University",
+    "place_id": "ChIJ91gDaoL2K4gRUFBjAcCBUCc",
+    "plus_code": {
+      "compound_code": "CFV3+HW Kitchener, ON, Canada",
+      "global_code": "86MXCFV3+HW"
+    },
+    "reference": "ChIJ91gDaoL2K4gRUFBjAcCBUCc",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.457947,
+        "lng": -80.55758399999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4592806802915,
+          "lng": -80.55627581970849
+        },
+        "southwest": {
+          "lat": 43.4565827197085,
+          "lng": -80.5589737802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Keats Way / Fischer-Hallman",
+    "place_id": "ChIJRXixf732K4gRUmJOqeNIfVE",
+    "plus_code": {
+      "compound_code": "FC5R+5X Waterloo, ON, Canada",
+      "global_code": "86MXFC5R+5X"
+    },
+    "reference": "ChIJRXixf732K4gRUmJOqeNIfVE",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  }
+]

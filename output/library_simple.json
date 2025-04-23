@@ -1,0 +1,508 @@
+[
+  {
+    "name": "Kitchener Public Library",
+    "coordinates": {
+      "lat": 43.45268799999999,
+      "lng": -80.4862967
+    },
+    "longitude": -80.4862967,
+    "latitude": 43.45268799999999,
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Waterloo Public Library - Main Library",
+    "coordinates": {
+      "lat": 43.4660002,
+      "lng": -80.52451719999999
+    },
+    "longitude": -80.52451719999999,
+    "latitude": 43.4660002,
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "University of Waterloo Davis Centre Library",
+    "coordinates": {
+      "lat": 43.4729293,
+      "lng": -80.542001
+    },
+    "longitude": -80.542001,
+    "latitude": 43.4729293,
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "University of Waterloo Dana Porter Library",
+    "coordinates": {
+      "lat": 43.4697504,
+      "lng": -80.5423533
+    },
+    "longitude": -80.5423533,
+    "latitude": 43.4697504,
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Waterloo Region Law Association",
+    "coordinates": {
+      "lat": 43.4505132,
+      "lng": -80.4856471
+    },
+    "longitude": -80.4856471,
+    "latitude": 43.4505132,
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Waterloo Public Library - McCormick Branch",
+    "coordinates": {
+      "lat": 43.4892119,
+      "lng": -80.5441793
+    },
+    "longitude": -80.5441793,
+    "latitude": 43.4892119,
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Islamic Humanitarian Service",
+    "coordinates": {
+      "lat": 43.48065039999999,
+      "lng": -80.46259580000002
+    },
+    "longitude": -80.46259580000002,
+    "latitude": 43.48065039999999,
+    "types": [
+      "library",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Bloomingdale Branch — Region of Waterloo Library",
+    "coordinates": {
+      "lat": 43.5104814,
+      "lng": -80.4625928
+    },
+    "longitude": -80.4625928,
+    "latitude": 43.5104814,
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Geospatial Centre",
+    "coordinates": {
+      "lat": 43.46993620000001,
+      "lng": -80.542193
+    },
+    "longitude": -80.542193,
+    "latitude": 43.46993620000001,
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "St. Jerome’s University Library",
+    "coordinates": {
+      "lat": 43.46874,
+      "lng": -80.5458481
+    },
+    "longitude": -80.5458481,
+    "latitude": 43.46874,
+    "types": [
+      "university",
+      "library",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Lusi Wong Library",
+    "coordinates": {
+      "lat": 43.46904670000001,
+      "lng": -80.5473
+    },
+    "longitude": -80.5473,
+    "latitude": 43.46904670000001,
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Wilfrid Laurier University Library - Kitchener",
+    "coordinates": {
+      "lat": 43.4525121,
+      "lng": -80.49231809999999
+    },
+    "longitude": -80.49231809999999,
+    "latitude": 43.4525121,
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Little Free Library",
+    "coordinates": {
+      "lat": 43.4567314,
+      "lng": -80.4795631
+    },
+    "longitude": -80.4795631,
+    "latitude": 43.4567314,
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Forest Heights Library",
+    "coordinates": {
+      "lat": 43.4261232,
+      "lng": -80.5232292
+    },
+    "longitude": -80.5232292,
+    "latitude": 43.4261232,
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Little Free Library",
+    "coordinates": {
+      "lat": 43.4970586,
+      "lng": -80.5727311
+    },
+    "longitude": -80.5727311,
+    "latitude": 43.4970586,
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Grand River Stanley Park Library",
+    "coordinates": {
+      "lat": 43.4578357,
+      "lng": -80.4365809
+    },
+    "longitude": -80.4365809,
+    "latitude": 43.4578357,
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Country Hills Library",
+    "coordinates": {
+      "lat": 43.4199703,
+      "lng": -80.46760669999999
+    },
+    "longitude": -80.46760669999999,
+    "latitude": 43.4199703,
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Wilfrid Laurier University Library - Waterloo",
+    "coordinates": {
+      "lat": 43.47286099999999,
+      "lng": -80.52999899999999
+    },
+    "longitude": -80.52999899999999,
+    "latitude": 43.47286099999999,
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Waterloo Public Library - John M. Harper Branch",
+    "coordinates": {
+      "lat": 43.4740191,
+      "lng": -80.5710764
+    },
+    "longitude": -80.5710764,
+    "latitude": 43.4740191,
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Little Free Library",
+    "coordinates": {
+      "lat": 43.4643941,
+      "lng": -80.5210974
+    },
+    "longitude": -80.5210974,
+    "latitude": 43.4643941,
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "First United Church Library",
+    "coordinates": {
+      "lat": 43.4614267,
+      "lng": -80.5218539
+    },
+    "longitude": -80.5218539,
+    "latitude": 43.4614267,
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "take a book leave a book",
+    "coordinates": {
+      "lat": 43.472531,
+      "lng": -80.51488359999999
+    },
+    "longitude": -80.51488359999999,
+    "latitude": 43.472531,
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Eric Davison Memorial Library",
+    "coordinates": {
+      "lat": 43.4725311,
+      "lng": -80.51488379999999
+    },
+    "longitude": -80.51488379999999,
+    "latitude": 43.4725311,
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Kitchener-Waterloo Library of Things",
+    "coordinates": {
+      "lat": 43.4579287,
+      "lng": -80.5034022
+    },
+    "longitude": -80.5034022,
+    "latitude": 43.4579287,
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Waterloo Campus Library",
+    "coordinates": {
+      "lat": 43.4791953,
+      "lng": -80.5179017
+    },
+    "longitude": -80.5179017,
+    "latitude": 43.4791953,
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Bookplex",
+    "coordinates": {
+      "lat": 43.47667269999999,
+      "lng": -80.53646320000001
+    },
+    "longitude": -80.53646320000001,
+    "latitude": 43.47667269999999,
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "103 Boehmer St Shade Tree Library",
+    "coordinates": {
+      "lat": 43.4694289,
+      "lng": -80.4898839
+    },
+    "longitude": -80.4898839,
+    "latitude": 43.4694289,
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Little Free Library",
+    "coordinates": {
+      "lat": 43.4524534,
+      "lng": -80.4819345
+    },
+    "longitude": -80.4819345,
+    "latitude": 43.4524534,
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Little Free Library",
+    "coordinates": {
+      "lat": 43.4544483,
+      "lng": -80.45631360000002
+    },
+    "longitude": -80.45631360000002,
+    "latitude": 43.4544483,
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Waterloo Public Library - Eastside Branch",
+    "coordinates": {
+      "lat": 43.5193421,
+      "lng": -80.50064789999999
+    },
+    "longitude": -80.50064789999999,
+    "latitude": 43.5193421,
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Bee House Activity",
+    "coordinates": {
+      "lat": 43.41195909999999,
+      "lng": -80.47513970000001
+    },
+    "longitude": -80.47513970000001,
+    "latitude": 43.41195909999999,
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Waterloo Regional Library (HDQTRS)",
+    "coordinates": {
+      "lat": 43.5104039,
+      "lng": -80.46261659999999
+    },
+    "longitude": -80.46261659999999,
+    "latitude": 43.5104039,
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Southwest Community Library",
+    "coordinates": {
+      "lat": 43.3959053,
+      "lng": -80.49908020000001
+    },
+    "longitude": -80.49908020000001,
+    "latitude": 43.3959053,
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Breslau Branch — Region of Waterloo Library",
+    "coordinates": {
+      "lat": 43.47204079999999,
+      "lng": -80.4165991
+    },
+    "longitude": -80.4165991,
+    "latitude": 43.47204079999999,
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "St. Jacobs Branch — Region of Waterloo Library",
+    "coordinates": {
+      "lat": 43.53917999999999,
+      "lng": -80.55462039999999
+    },
+    "longitude": -80.55462039999999,
+    "latitude": 43.53917999999999,
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Tremaine Park Little Library",
+    "coordinates": {
+      "lat": 43.4410351,
+      "lng": -80.4113359
+    },
+    "longitude": -80.4113359,
+    "latitude": 43.4410351,
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ]
+  }
+]

@@ -1,0 +1,1145 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4184659,
+        "lng": -80.4928896
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.41981873029149,
+          "lng": -80.49198411970849
+        },
+        "southwest": {
+          "lat": 43.41712076970849,
+          "lng": -80.49468208029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Monsignor Haller Catholic Elementary School",
+    "place_id": "ChIJkeolGgz1K4gRKp8KqoM0V-U",
+    "plus_code": {
+      "compound_code": "CG94+9R Kitchener, ON, Canada",
+      "global_code": "86MXCG94+9R"
+    },
+    "rating": 4.1,
+    "reference": "ChIJkeolGgz1K4gRKp8KqoM0V-U",
+    "scope": "GOOGLE",
+    "types": [
+      "primary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 28,
+    "vicinity": "118 Shea Crescent, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4736698,
+        "lng": -80.502275
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47485733029149,
+          "lng": -80.50112821970848
+        },
+        "southwest": {
+          "lat": 43.4721593697085,
+          "lng": -80.5038261802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "St. Agnes Catholic Elementary School",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJraaAWYDzK4gRa3aRR7x-djk",
+    "plus_code": {
+      "compound_code": "FFFX+F3 Waterloo, ON, Canada",
+      "global_code": "86MXFFFX+F3"
+    },
+    "rating": 3.7,
+    "reference": "ChIJraaAWYDzK4gRa3aRR7x-djk",
+    "scope": "GOOGLE",
+    "types": [
+      "primary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 15,
+    "vicinity": "254 Neilson Avenue, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4491171,
+        "lng": -80.5088494
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4503420802915,
+          "lng": -80.5073670697085
+        },
+        "southwest": {
+          "lat": 43.4476441197085,
+          "lng": -80.51006503029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "St.Johns Catholic School",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4117,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104234526685206671969\">St.Johns Catholic School</a>"
+        ],
+        "photo_reference": "AeeoHcJAE0NdruC1BX1zx9VpNGU31rU0qoLucT4tNjLvwa1lbtkbw7ByO6sbv5t0mYJ3Ujp1Ui5dG8WI4Kf8j77-5zddSoX36VkfD26GcsTZ9G_Xj1-au1JFT37ByI2orQcmUb3-AVAI1mYZcP_NwQt-8qDs0b2gVRzpipzK6EzNCO1UEI03DkEjeqi5NODw-9DET3Es77p1nvMyYF66dcFNHXK8Ug7ym05eFe1MF2ognls69cyLuqXEdVMIJZn2c1DSnnRf57PDiMwlbLA68AoPbKLW_cC3Q6HoLX4JK7l49qpO2W7jBw7aFjldWFurN82KmN-uSecFw4E",
+        "width": 6006
+      }
+    ],
+    "place_id": "ChIJJ48jnVz0K4gRPDGZAsQfUac",
+    "plus_code": {
+      "compound_code": "CFXR+JF Kitchener, ON, Canada",
+      "global_code": "86MXCFXR+JF"
+    },
+    "rating": 2.7,
+    "reference": "ChIJJ48jnVz0K4gRPDGZAsQfUac",
+    "scope": "GOOGLE",
+    "types": [
+      "primary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 63,
+    "vicinity": "99 Strange Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4509439,
+        "lng": -80.4706477
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4521928302915,
+          "lng": -80.46958146970849
+        },
+        "southwest": {
+          "lat": 43.4494948697085,
+          "lng": -80.47227943029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "St. Annes Catholic School, Kitchener, On",
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102945313977464214613\">Lori South</a>"
+        ],
+        "photo_reference": "AeeoHcICNln9DtNmPNH_-T3JYv1YcketHdwOj5GE4IFYFq-GASkGrMKCdiV5cDowO8sr8pYCeT0i-IFeOhv3mFgQBRoHVxM6ZxhMMF3C9DfnGSDPtkRI5QTvP5WfeY2HSxZg16XGdSFx2VDWjVQy9rYR3VLF9zvlkYmFVns5mmUyPdJqQSHp-iw0-lOjssg7vYdjUcy7PZ4R81cLTPqZGjkTUOi6SWAOC0K4b6xOoe1bzmQqx0B1D9nKSynMtqmIiSln8dTu4vGKs6oZaOf2FAK3CZ4Ht6_DqpVerYJ2SxDgNKekvoaHFnYdOL3TJS2_E-JOnhxcmc18P8cAmwi4cD3y4EqkcL21IvrF4LwnQqJyzU254hL5swW490sq_x8eKIkX5lnfHrN9P423dTJSzGkwmuCeFX34aLSy3_lzA5FHAoIkoE-1R8HK-9swvBerWtz3O2p-rClLkWr2tVCCnyNbChiTW7VfQ8phvTPraxk75tUzkRPhCq8x08rAJE3KIDPPjSBUFQ50NvOqkfm2ABE2-ZcGjMCxuAme04RWID7iCWogS7aXOLBzskMqzSaA7vZr5xBASQ4RFqKZNIJ2jDCV4yYtH7-IiHIT8aMHhjMcrUiw3Zh4-HfZKCmQOsU-QCw6zZuNThnq",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJo0FEpLj0K4gRebgvDjoA-zE",
+    "plus_code": {
+      "compound_code": "FG2H+9P Kitchener, ON, Canada",
+      "global_code": "86MXFG2H+9P"
+    },
+    "rating": 3.9,
+    "reference": "ChIJo0FEpLj0K4gRebgvDjoA-zE",
+    "scope": "GOOGLE",
+    "types": [
+      "primary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 16,
+    "vicinity": "250 East Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4253434,
+        "lng": -80.5163472
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4268848302915,
+          "lng": -80.5147007697085
+        },
+        "southwest": {
+          "lat": 43.4241868697085,
+          "lng": -80.5173987302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "St. Paul Catholic Elementary School",
+    "place_id": "ChIJw7MPamTzK4gRguNu5QdvYR4",
+    "plus_code": {
+      "compound_code": "CFGM+4F Kitchener, ON, Canada",
+      "global_code": "86MXCFGM+4F"
+    },
+    "rating": 3.8,
+    "reference": "ChIJw7MPamTzK4gRguNu5QdvYR4",
+    "scope": "GOOGLE",
+    "types": [
+      "primary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 13,
+    "vicinity": "45 Birchcliff Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4615665,
+        "lng": -80.4463718
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46291058029149,
+          "lng": -80.44481156970849
+        },
+        "southwest": {
+          "lat": 43.4602126197085,
+          "lng": -80.4475095302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Canadian Martyrs Catholic Elementary School",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJSxqX31CLK4gRLch6BsbtbmI",
+    "plus_code": {
+      "compound_code": "FH63+JF Kitchener, ON, Canada",
+      "global_code": "86MXFH63+JF"
+    },
+    "rating": 3.3,
+    "reference": "ChIJSxqX31CLK4gRLch6BsbtbmI",
+    "scope": "GOOGLE",
+    "types": [
+      "primary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 22,
+    "vicinity": "50 Confederation Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4485555,
+        "lng": -80.4480049
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4500302302915,
+          "lng": -80.4467064697085
+        },
+        "southwest": {
+          "lat": 43.4473322697085,
+          "lng": -80.44940443029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "St. Daniel Catholic Elementary School",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4128,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117073543223114504421\">Darihana Nieto</a>"
+        ],
+        "photo_reference": "AeeoHcKB4pSqEOkuqDfQc7ou5qsJ7D6Of2TwPyIToR1iseCD1h0i8sirqZDFMd8LuRDEMrDCPsMQeWGIJT4Bh7LY1mz0xHe0wpj5MDBJi7Q4vQK_1HgLnx9beknSADwcPlq_A0SatnckBLmIZzhMFN9c5CLJ2FfImXPdGYfMaHzTTPE-g70llDChZ5FXmHENMDpzSgmu4yajW-jjdbxCZ1tIytCwO5_NCP9rD5s_qEIwzHSAlkSQORlYRue0RQ-PrEMMeIFqGqv9kg1qAx2La4aD-j19PCaQeEwBv9EeH7nnjtBicaSbgvphcu3PPspa7qYmGuUsLhfgyhIqnyClP53HOSYq22EJorNw9JgwvCSvRzSkHO7iqrlotGRMZATfVOtO5KQBXdib4jRqBtktbXxQWYPVXc_QqSZioHBS1okyF5JJOqDNxL91AGp0UmeOp6FFyjVy2Fecod5KUQDQrSZ5V1ZQIXmK-IZRx09eYIKZn5rAOrRQsSXqhrO4qfDC1CvhNI1cnAj4VgeHbBvbb5jlfCG9ehzTlYKpi9bLhdnk3p_QEoQEmpRKuqR8E7MZelrcDapqjPfVyYrepxVBaVqEu-NJqbEZAK_JmonbpRFbXabhoLpjLzXrb6r5SihP-K_m",
+        "width": 2322
+      }
+    ],
+    "place_id": "ChIJDSr2GzaLK4gRDzWgpbGo3Lo",
+    "plus_code": {
+      "compound_code": "CHX2+CQ Kitchener, ON, Canada",
+      "global_code": "86MXCHX2+CQ"
+    },
+    "rating": 3.4,
+    "reference": "ChIJDSr2GzaLK4gRDzWgpbGo3Lo",
+    "scope": "GOOGLE",
+    "types": [
+      "primary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 36,
+    "vicinity": "39 Midland Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.40750399999999,
+        "lng": -80.512343
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.40885093029151,
+          "lng": -80.51090196970851
+        },
+        "southwest": {
+          "lat": 43.40615296970851,
+          "lng": -80.51359993029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "John Sweeney Catholic Elementary School",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4680,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118141292848437638476\">Marta Borowska</a>"
+        ],
+        "photo_reference": "AeeoHcKe2_be6WPWd6K8Cd42CT4DMxGAUY3qoDngd2iZYTK17CLJqert7Bvu7mCCWmFHIZ9B3uv24PPHglXn1gLvKhWjeI_Tqt9Ecav9MoEzhyY-9qUm5hY_f3r7eHGuVLYygemAzRMoXQ2lpcLTg19MRbEpEQf349u62jnzzN9kjVKQfOi64D4OSRJfdF6eaFAFBr7Q34MUhZn-kHGaoDf_ENcENRfuwfqHwcJrH_M6eSW_P4FfkK5T5HHtEvfA_oqwA8Ap6CXoDLEySKwijzMttgzsHYP3zA54K_RcxTH7CLaYNutavq-Agy5RPe4sqC5kb1ioSF32rauR0h9SIi1x5SsR-XGZcAg1mAzkMZbFXdezQok2smtw_aUN4Sj9DYGdL7Df9SgomllTYqDsnOuWvSv8pLyX3IDfdT0BICYVXU6rPTrkThTsn1yLOiIZsUPW6cLUG9XO2-uSWgtl2k9uyI9uNMfNFgupIztFe9ulM1XmR54Z4Fic_xs3ZghEp9o8ErUPCkPqtzLCBSiArbq-DgxDYOCR0osO26U0sZptIP2DM2LtuqmZcXSH4vLrT7tG79ufoZCrPPdWZ1MjveyS_wVC8yvNJNOCaigrZl2Hx40SpqCKmFJEsBRIqZKuENSKDzVc1Q",
+        "width": 3510
+      }
+    ],
+    "place_id": "ChIJ7x0HPpD1K4gR24tx22IlxUY",
+    "plus_code": {
+      "compound_code": "CF5Q+23 Kitchener, ON, Canada",
+      "global_code": "86MXCF5Q+23"
+    },
+    "rating": 3,
+    "reference": "ChIJ7x0HPpD1K4gR24tx22IlxUY",
+    "scope": "GOOGLE",
+    "types": [
+      "primary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 52,
+    "vicinity": "185 Activa Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5108222,
+        "lng": -80.46156380000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5121456802915,
+          "lng": -80.4601021197085
+        },
+        "southwest": {
+          "lat": 43.5094477197085,
+          "lng": -80.46280008029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Koinonia Christian Academy",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJz4eWldbyK4gRd8HRk79Ujxw",
+    "plus_code": {
+      "compound_code": "GG6Q+89 Bloomingdale, ON, Canada",
+      "global_code": "86MXGG6Q+89"
+    },
+    "rating": 5,
+    "reference": "ChIJz4eWldbyK4gRd8HRk79Ujxw",
+    "scope": "GOOGLE",
+    "types": [
+      "primary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 7,
+    "vicinity": "850 Sawmill Road, Bloomingdale"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.407228,
+        "lng": -80.483457
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4083489802915,
+          "lng": -80.4820351697085
+        },
+        "southwest": {
+          "lat": 43.4056510197085,
+          "lng": -80.4847331302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Blessed Sacrament Catholic Elementary School",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJdaEi0W71K4gR_TWwgQIeZLM",
+    "plus_code": {
+      "compound_code": "CG48+VJ Kitchener, ON, Canada",
+      "global_code": "86MXCG48+VJ"
+    },
+    "rating": 3.9,
+    "reference": "ChIJdaEi0W71K4gR_TWwgQIeZLM",
+    "scope": "GOOGLE",
+    "types": [
+      "primary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 18,
+    "vicinity": "367 The Country Way, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.43397770000001,
+        "lng": -80.49222569999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4352917302915,
+          "lng": -80.49096606970849
+        },
+        "southwest": {
+          "lat": 43.4325937697085,
+          "lng": -80.4936640302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "St. Bernadette Catholic School",
+    "place_id": "ChIJ4R-U7v30K4gRc2FcjlIn9jA",
+    "plus_code": {
+      "compound_code": "CGM5+H4 Kitchener, ON, Canada",
+      "global_code": "86MXCGM5+H4"
+    },
+    "rating": 3.9,
+    "reference": "ChIJ4R-U7v30K4gRc2FcjlIn9jA",
+    "scope": "GOOGLE",
+    "types": [
+      "primary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 13,
+    "vicinity": "245 Lorne Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4326971,
+        "lng": -80.5437226
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4339626802915,
+          "lng": -80.5420987697085
+        },
+        "southwest": {
+          "lat": 43.4312647197085,
+          "lng": -80.54479673029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Sandhills Public School",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJqzltd9b1K4gROB0Qry4ufQY",
+    "plus_code": {
+      "compound_code": "CFM4+3G Kitchener, ON, Canada",
+      "global_code": "86MXCFM4+3G"
+    },
+    "rating": 3.2,
+    "reference": "ChIJqzltd9b1K4gROB0Qry4ufQY",
+    "scope": "GOOGLE",
+    "types": [
+      "primary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 40,
+    "vicinity": "1250 Victoria Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4300287,
+        "lng": -80.4649388
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4314541302915,
+          "lng": -80.46338156970849
+        },
+        "southwest": {
+          "lat": 43.4287561697085,
+          "lng": -80.46607953029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Sunshine Montessori School (SMS)",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105527580589949684232\">Saner Media Chris Soehner (Saner Media)</a>"
+        ],
+        "photo_reference": "AeeoHcLtkqJb73LKdEFqOuXPOhtRByHMHv7_DbT9plnsVkdbzI3mTAybLKbzhPWxM-3Sbwy8QL82F2DsxHCJ6YA1KbjmtVrjttjfxgGP61PwI60z8l8k6zL8rt4kiExbCvcWVomQ_SaShdtSDdxJ3nKXCR1PJ1J0yz4tyahpEVHS5WmB6nfLfdEyI_v9UrE1OEwUf0Xh-1PDRlnDtGr3bBav-s6tM4LOrLyKeF9jlfz4y_WzePXTjDlY0Ojmt5O9WlOH8YhW-HqAlwmDNZGOFxNvG6vBdAUtgmIhYOrrhXEWejHQZgQKe0mtBFkykiSRZsTJIb0gj63BikC0IO5sNhGGDfz0I_9eOZIOrasM-k34LMTfIgSpVV3PZF99VaTUPGTEYa4kNfBliIgqT8vk24IhPKp2_GJYloZBfVOcrzvtoRdAXrw7SoL1GeEc4FtxwL745WOivn28D5c6-lErC3o2cOmASPdqXpQ2VUwtSkPfjSoYzQs-DDtiypHtIIoDZCS2ijqUjrMWu34tb2UuGJH7vq5JKJmchzJcN3lqsa-puza8ePWnx1KIuFrPON7Z-khmfABj1Jt_Ft8TiqJkJLi6fPbeV4O1qaMN5jCvNQi7JcAsdgFugWXmkPlciVIqQE2q87UUtfve",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJf0CCbCj1K4gRswd9-eIJXLc",
+    "plus_code": {
+      "compound_code": "CGJP+22 Kitchener, ON, Canada",
+      "global_code": "86MXCGJP+22"
+    },
+    "rating": 4.2,
+    "reference": "ChIJf0CCbCj1K4gRswd9-eIJXLc",
+    "scope": "GOOGLE",
+    "types": [
+      "primary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 19,
+    "vicinity": "10 Boniface Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4954767,
+        "lng": -80.4938756
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4968497802915,
+          "lng": -80.49245376970849
+        },
+        "southwest": {
+          "lat": 43.4941518197085,
+          "lng": -80.4951517302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "St Matthew Catholic Elementary School",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJZz9EHQzzK4gRVPDBhuVWc4k",
+    "plus_code": {
+      "compound_code": "FGW4+5C Waterloo, ON, Canada",
+      "global_code": "86MXFGW4+5C"
+    },
+    "rating": 3.6,
+    "reference": "ChIJZz9EHQzzK4gRVPDBhuVWc4k",
+    "scope": "GOOGLE",
+    "types": [
+      "primary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 14,
+    "vicinity": "405 Pastern Trail, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4721797,
+        "lng": -80.5876396
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4737641302915,
+          "lng": -80.58648381970849
+        },
+        "southwest": {
+          "lat": 43.47106616970851,
+          "lng": -80.5891817802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "St. Nicholas Catholic Elementary School",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112078987330468870539\">Amy Savage</a>"
+        ],
+        "photo_reference": "AeeoHcK_j77BB_eL1-sKYBg-ytLt0MFCq2lsZXNYmLooGMoDfN2OXS0BWIczTlausUHl0V1pORUOncX605dmP5F_dUdd0BScTMrOMXTNltdgraaJlqbsvp-fCxtYdiPEoVkQUJH_F6_rLTTOOmK6m7HlB-Cq5PewjhMGLP60_0msL4j8ssOsMZiIK8eHRAc63CxeWy1KD6KhgMGVcelrn69VvG-uqv4JY8zO6aPKQH9VKh-gDEXe99uJTKdV1xcWgR708p-z_mUg295fRNncm5fvjllZGBIq3haCUGZaPkfz81lPGSTvSod1CNfcyMOFiWWRPR5tZDCtp1GB4nzbCl2YUlDaOfvXAsTA6B5FYmLYPUuD3Uz_k5Mk8BS7FXm-tQbYAu8Dqju33SOZPunPFL5-DWvhLKaEEq-rDdODiWQlsGkG1utBBh6F4x8Mp5zI2iZ-2ajU0iQF7pI01tflWaPkzDELrqANxErTrqNpyqNLkDMHvs47q1jVTRcT5srrfIghy1KzikmWQEV6769hZoXt8Oi_ILKU2Jge8zpOPqe0P8SKGOKTTgJb33aSJ7wXngO5wnsanNDjCKWLPYBMoYxrqVbifqVhTgUiCGIZdbPG2VA5xobEBVH8Milt5rTEnqFujlUa0yqH",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJnUK90tf2K4gRLOFZOtmm-vQ",
+    "plus_code": {
+      "compound_code": "FCC6+VW Waterloo, ON, Canada",
+      "global_code": "86MXFCC6+VW"
+    },
+    "rating": 3.4,
+    "reference": "ChIJnUK90tf2K4gRLOFZOtmm-vQ",
+    "scope": "GOOGLE",
+    "types": [
+      "primary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 24,
+    "vicinity": "525 Laurelwood Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4915782,
+        "lng": -80.5542617
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.49316913029151,
+          "lng": -80.5530413697085
+        },
+        "southwest": {
+          "lat": 43.49047116970851,
+          "lng": -80.5557393302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Sir Edgar Bauer Catholic Elementary School",
+    "place_id": "ChIJLY1prlzxK4gRnCUN6dcPI2o",
+    "plus_code": {
+      "compound_code": "FCRW+J7 Waterloo, ON, Canada",
+      "global_code": "86MXFCRW+J7"
+    },
+    "rating": 4.4,
+    "reference": "ChIJLY1prlzxK4gRnCUN6dcPI2o",
+    "scope": "GOOGLE",
+    "types": [
+      "primary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 15,
+    "vicinity": "660 Glen Forrest Boulevard, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4589878,
+        "lng": -80.5302619
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4604081302915,
+          "lng": -80.52876426970849
+        },
+        "southwest": {
+          "lat": 43.45771016970851,
+          "lng": -80.53146223029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Our Lady of Lourdes School",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ0yKB9hb0K4gRAlSx_qJip3Q",
+    "plus_code": {
+      "compound_code": "FF59+HV Waterloo, ON, Canada",
+      "global_code": "86MXFF59+HV"
+    },
+    "rating": 4.6,
+    "reference": "ChIJ0yKB9hb0K4gRAlSx_qJip3Q",
+    "scope": "GOOGLE",
+    "types": [
+      "primary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 16,
+    "vicinity": "55 Roslin Avenue South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4723857,
+        "lng": -80.5086226
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4736723802915,
+          "lng": -80.5071122197085
+        },
+        "southwest": {
+          "lat": 43.4709744197085,
+          "lng": -80.50981018029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Elementary School L'harmonie",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 768,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112089190477502980089\">École élémentaire L&#39;Harmonie</a>"
+        ],
+        "photo_reference": "AeeoHcL_V3DdD3ZMmT4MDeKgv50nAWzxrkeZKKqujLb2uxsnbmJJ0dF8RwgHA_kaCR7U-WWzx0WysEesG3PC6VWtxKM_oYnDhHR2jqCucWgQGWyblxx1UGhNUL6wtNxUJJL11JvVHFuQF9e6--jffpSQAkxvDQ5jpizqKC2hRQ0RTlLzL3AfQjdh7ZV2oDUCG69G-x4P_TqtjycwQ0F3fPnCK6_9rLzZwar0wniyVh3X4IQSb_uZdsmrxY9UfJ7JS7pALVGvuKjTbAc206WQNVwZm5Sy9cqCVsBUuQLIQ9BprVG3nUSYlrIsgydC598RWEIuBCPksdb6TRM",
+        "width": 1024
+      }
+    ],
+    "place_id": "ChIJO49VZ3j0K4gRFBo2KpLdlFI",
+    "plus_code": {
+      "compound_code": "FFCR+XH Waterloo, ON, Canada",
+      "global_code": "86MXFFCR+XH"
+    },
+    "rating": 3.1,
+    "reference": "ChIJO49VZ3j0K4gRFBo2KpLdlFI",
+    "scope": "GOOGLE",
+    "types": [
+      "primary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 42,
+    "vicinity": "158 Bridgeport Road East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4485834,
+        "lng": -80.4992943
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45005413029151,
+          "lng": -80.4978753697085
+        },
+        "southwest": {
+          "lat": 43.44735616970851,
+          "lng": -80.5005733302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "InnovOak School",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 733,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112004444165204380026\">InnovOak School</a>"
+        ],
+        "photo_reference": "AeeoHcIEBnNVQP90pMkEJz_ufm6SKjaACA2KyYPna_Edt-PX8bvC_Bj_b1R8ikeruYr41bUODf9Im_FXeG8ltVFH-Mfwdlox_DLKMK8kByWtQHXNqKYP1tvzbfqiUlIAjLYKohLzEHS2P49m5cnPrJZA8bl4q1nO7H7L2qYfVI4qW2HW5nIIAeiEiF4zk2H4OLv9DMVpAXu5PKL4Pfplys2SATYI_ujLCMiboc8FKy3JUH_0tzeBcbMymyd_XJuI3VdRKExMdm9bO92-do_l6ppb6ggKloqyFXxuZYHo8Q2im1byEYjoCuLaIQ0RFV6iH_pC8E0sU4ODjz0",
+        "width": 1100
+      }
+    ],
+    "place_id": "ChIJ1ZWN_YH1K4gRPM-5cicXuNo",
+    "plus_code": {
+      "compound_code": "CGX2+C7 Kitchener, ON, Canada",
+      "global_code": "86MXCGX2+C7"
+    },
+    "rating": 5,
+    "reference": "ChIJ1ZWN_YH1K4gRPM-5cicXuNo",
+    "scope": "GOOGLE",
+    "types": [
+      "primary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 11,
+    "vicinity": "5 Michael Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4877532,
+        "lng": -80.5289021
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4891388302915,
+          "lng": -80.5275816697085
+        },
+        "southwest": {
+          "lat": 43.4864408697085,
+          "lng": -80.5302796302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Tayba Elementary School",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106940876810860685173\">Tayba Elementary School</a>"
+        ],
+        "photo_reference": "AeeoHcJST28T-063PWVq89mI6FmDmeU7SKbsKL5tI3JoovQ-MW5Vavz51MEpOnQyrpg-QkHkb7glPhbcBVyJ72FzGQyulkBrw_wXtIRsd8jIYwdZKOukk4mdnQ6e8T0yKFGZguodfsIDbTr1QRKnnoUd6TV8WURa5g0ummhiFbEBK9lwsCCiW3io2SUmgcUwo28qLmAh4qfpY7QbKDPqQYkBoD7dSnw_kzTR3mmSu8zp7wPwLdiR5buhQKxr2PluYokIWvYjBe4jzWgU6APQyILbtrd500E9EbiJbjSO2N2qu8-lkr6oJOuUNqhZxwyGu3YWWEZ3ThD_GyI",
+        "width": 720
+      }
+    ],
+    "place_id": "ChIJ3xa4VyD3K4gR3W1fZ4M9tCM",
+    "plus_code": {
+      "compound_code": "FFQC+4C Waterloo, ON, Canada",
+      "global_code": "86MXFFQC+4C"
+    },
+    "rating": 4.8,
+    "reference": "ChIJ3xa4VyD3K4gR3W1fZ4M9tCM",
+    "scope": "GOOGLE",
+    "types": [
+      "primary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 39,
+    "vicinity": "435 King Street North #2, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5165302,
+        "lng": -80.5683999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5179593302915,
+          "lng": -80.56751475
+        },
+        "southwest": {
+          "lat": 43.5152613697085,
+          "lng": -80.57105535
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "King Alfred Academy",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109209271928732643154\">King Alfred Academy</a>"
+        ],
+        "photo_reference": "AeeoHcIgSjnkFkveZohIgmRL9_acIVWAyvIbPI-OoJAjpcPMs0-IhRX2xDQKtkJqpxVMkpcuiPIluUHX_4MKCW1fEWUdoVB30UpuVmzxScWkFu974xjzP8Vre1i7fWrwB5GG7VKyM06j5ABsVsVotiaZcGp6osbK2D_zfL45fJQ4wRvLFZdsPi783yb9KhNg94lnV7zlpEEyeGCUNuIfV1jMbVQEQ7oM41EtDM8HlDNlAZ36q3_dAsNyaNkSZlboVJ-lzG6kFPJSgt2Tgi7KrLqog9p_bBT7ydqTSz1F2dw8ieAtrLZWowS_-ff5bjR_HIKaKXYSB7w_Rwg",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ78KWDsjxK4gRirV0FbrhsgU",
+    "plus_code": {
+      "compound_code": "GC8J+JJ Waterloo, ON, Canada",
+      "global_code": "86MXGC8J+JJ"
+    },
+    "rating": 5,
+    "reference": "ChIJ78KWDsjxK4gRirV0FbrhsgU",
+    "scope": "GOOGLE",
+    "types": [
+      "primary_school",
+      "secondary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "1373 Lobsinger Line, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.42846369999999,
+        "lng": -80.4451627
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4296972802915,
+          "lng": -80.4438798697085
+        },
+        "southwest": {
+          "lat": 43.42699931970851,
+          "lng": -80.4465778302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "St Aloysius Catholic Elementary School",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ0xDn79eKK4gRUGBbRjw_IR4",
+    "plus_code": {
+      "compound_code": "CHH3+9W Kitchener, ON, Canada",
+      "global_code": "86MXCHH3+9W"
+    },
+    "rating": 3.9,
+    "reference": "ChIJ0xDn79eKK4gRUGBbRjw_IR4",
+    "scope": "GOOGLE",
+    "types": [
+      "primary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 29,
+    "vicinity": "504 Connaught Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44916980000001,
+        "lng": -80.4113138
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4505090802915,
+          "lng": -80.40986331970849
+        },
+        "southwest": {
+          "lat": 43.4478111197085,
+          "lng": -80.41256128029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Saint John Paul II School",
+    "photos": [
+      {
+        "height": 2592,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113777501867583386998\">Gordie Hanna</a>"
+        ],
+        "photo_reference": "AeeoHcKS-xzTB1zWeXEN_bRG0vCOxb2f1MHatB9ONAaXZM7M9AAyzocN66YtfyTChX545wXbAjzTKs1uXVrnhUu7N7doZ-qL4MS96HwHPdQCZELExSYgxL4wzEDs3NrrQQUyLMVPxMXk4l2GykTJW7x3pOhWNZ8GMOlF2zzYlMe5rshtKqM3kPMv3zU7JI-lxRAJJcLX5jWGORlxW0xTvitnK5AgjJy0EIMhroPpPi1_iUI8beT2WuHWEPQzukr7G6MXg-rPkpXd6XdLkH-aOieXSsvF2C1eCT5BtQ3dwFSbcgflNtPSlMFGYTm0a4vTWdR0Ifuh2eeLfhHMy1_WM3wHNe04CspgL_dWmXgGwwkpuiSVT-nnY5EfZyc4mBBnlLf6DUoykARXZ9ppF4cBPZWFCHLEPwTOw4hWoaAE8X3bMPnBtvH1pHgcPkwxbYGoDbnmgBJNZPOhdjIBfAgSR7-h6NEXbh1fD-U87SxhEA2VCrVjMC8cFeO5DBBAa29yPl25P3A_XyMuHARlJa4k48lpWglKndjRadAxBPoRwRJ8moUXbjsRDDmuJeNXHuLEKATYq-a8mrjRQz_PLxGYdrZc9XNKY7AnkUri2qXm6-HKV0yWeSCpUmj54AcMH1owCQAszGG0Iy3_",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJ-8kAjnWLK4gRum4B8EOxX4U",
+    "plus_code": {
+      "compound_code": "CHXQ+MF Kitchener, ON, Canada",
+      "global_code": "86MXCHXQ+MF"
+    },
+    "rating": 3,
+    "reference": "ChIJ-8kAjnWLK4gRum4B8EOxX4U",
+    "scope": "GOOGLE",
+    "types": [
+      "primary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 30,
+    "vicinity": "75 Pebblecreek Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.3821909,
+        "lng": -80.48211270000002
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.3834207302915,
+          "lng": -80.4809236697085
+        },
+        "southwest": {
+          "lat": 43.38072276970851,
+          "lng": -80.48362163029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "St. Josephine Bakhita Catholic Elementary School",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJVaPTpRgLLIgRLdg6T5rRe64",
+    "plus_code": {
+      "compound_code": "9GJ9+V5 Kitchener, ON, Canada",
+      "global_code": "86MX9GJ9+V5"
+    },
+    "rating": 5,
+    "reference": "ChIJVaPTpRgLLIgRLdg6T5rRe64",
+    "scope": "GOOGLE",
+    "types": [
+      "primary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6,
+    "vicinity": "25 Beckview Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.39335889999999,
+        "lng": -80.4500164
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.3946703302915,
+          "lng": -80.4485013697085
+        },
+        "southwest": {
+          "lat": 43.3919723697085,
+          "lng": -80.45119933029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "St. Kateri Tekakwitha Catholic Elementary School",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJLVFQIqqKK4gR2Aeys6LPPPk",
+    "plus_code": {
+      "compound_code": "9GVX+8X Kitchener, ON, Canada",
+      "global_code": "86MX9GVX+8X"
+    },
+    "rating": 4,
+    "reference": "ChIJLVFQIqqKK4gR2Aeys6LPPPk",
+    "scope": "GOOGLE",
+    "types": [
+      "primary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 19,
+    "vicinity": "560 Pioneer Drive, Kitchener"
+  }
+]

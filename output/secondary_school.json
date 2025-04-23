@@ -1,0 +1,993 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4445162,
+        "lng": -80.4818386
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44571998029149,
+          "lng": -80.4806253697085
+        },
+        "southwest": {
+          "lat": 43.44302201970849,
+          "lng": -80.48332333029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Cameron Heights Collegiate Institute",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2736,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104426476382814523519\">Megan Eby</a>"
+        ],
+        "photo_reference": "AeeoHcKp8Sk6FF_Wl4XfZUsSDwiQBQbGNdUr-qXXWMoFwOPqnYouR1lfTq5rlyDPTlOvVR0DRfbZCoAHZwzmucJHDambctdwVCzVO60li8bsvOoaJPc67I3oovj9I76q5z1LcPztSLJvEpSjOa37YIiMJhNIslNnjJ6PjLfV4uKkh4n3fokT7LWuC293AtNKuXT10qmgMK8p0GEN0JQccjZ58URreNkmHzoJm3hhzCYRsY96UszCJ4HFIBd0Eu2YeHT07zAUZBoAUhlkUaKy2d3LypSQUo2ONci7wgli5oSt54kAGvTtYytpNW3WqXhL2pq9Gv5vCDegNp-ilHSy8JfzMorkUz6AoN2W4iCM8aamdnxAJTTmXWXtpcD_rHWpmO5S0ZYk8psa0Gt_7UhEYMAzfZATHIag0I3FOhg6sxGf0IGuQrkTXDSCC1p01_5KhNuBvlaCO2P1dVr7t6HhvysLKHpluRHL5_MBAotOCWVqnJeuwAPdpsqMXX-VZaqKRZPihwRh5cS2_2y5PhVl3lsn9x7FFJgFHkV-oyGPmXOmoVB9Or76CU_n0IMFLRqWE_2guKK-UuF0unrNAgLzv2qUtqIIzYOur1RR3rusQS4eZKL6SOyQ-u8Cbf5li0RYmR_KBX9WVA",
+        "width": 3648
+      }
+    ],
+    "place_id": "ChIJJzLJJen0K4gR2n_DmeX87GE",
+    "plus_code": {
+      "compound_code": "CGV9+R7 Kitchener, ON, Canada",
+      "global_code": "86MXCGV9+R7"
+    },
+    "rating": 3.7,
+    "reference": "ChIJJzLJJen0K4gR2n_DmeX87GE",
+    "scope": "GOOGLE",
+    "types": [
+      "secondary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 76,
+    "vicinity": "301 Charles Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.42588659999999,
+        "lng": -80.5219633
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4273414302915,
+          "lng": -80.5204832197085
+        },
+        "southwest": {
+          "lat": 43.4246434697085,
+          "lng": -80.52318118029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Forest Heights Collegiate Institute",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 786,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116545651063247135952\">Bryanna Gevaert (CrazyG)</a>"
+        ],
+        "photo_reference": "AeeoHcIqDXw2J17_lAYVP_6faLx43i1XW3NHt_9cwHmuBERqw0Bq96urRf67BONdgjGBSPM4Lx024so0-pOS6qVsZO3A_slLT_wLuS-ndb_Q8QI-rYq0DN6ZmB4NnVM2QmjxZNcHDuKYyX0vZh9T6-SszoQsF4RV-3HOocgVynjmuW0VhdQzcetqolIY0gixx5e_oe4AtCgGnZPVgyMtaSIKuffZ5Rw8L-dWpMO3vqB0rLW9GoC2JkKJjRTlFyeq_tGQATylw0OfXwLXXQA_vTUh1BlFFrTyAUFQn0CFwueQXXnVsLjKoceYeP_L2pgmmYVJcrdtL9rUm6bfFxIuOF5002cocUjJ7ZqaCM9sD3iPRQaJdZccZimeOIlArFjhgxrZiEOiR5pmJf727UvM-ZztPMv_TIeQbwewYpyaT5XrxN2Aamnao-5jnY1KMZTz71C2gCErtn7Ouvpd4AIY5oIYfreUEc3BKsdj_Q5zzD7H4hxgo7iHka9ygT88DKrAabeoTnFtTqhKqJ53EfYj2MFP4z_VUqXPeEzzRzNwEaxP6TebIVHeayTQCz0pl1Bo86YfKZVpjMR2j3--C80GwhXMu8fBPqvDPi4-dZqKvSQBQoNeu4lBErNoAgxT5tOyt-iPJIJNdw",
+        "width": 1024
+      }
+    ],
+    "place_id": "ChIJrTqO_8f1K4gRJORFY6cYTaM",
+    "plus_code": {
+      "compound_code": "CFGH+96 Kitchener, ON, Canada",
+      "global_code": "86MXCFGH+96"
+    },
+    "rating": 3.3,
+    "reference": "ChIJrTqO_8f1K4gRJORFY6cYTaM",
+    "scope": "GOOGLE",
+    "types": [
+      "school",
+      "secondary_school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 52,
+    "vicinity": "255 Fischer-Hallman Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4392483,
+        "lng": -80.4612447
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4408905302915,
+          "lng": -80.45986496970848
+        },
+        "southwest": {
+          "lat": 43.43819256970851,
+          "lng": -80.4625629302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Eastwood Collegiate Institute",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112506956958142931939\">Yury Goldaev</a>"
+        ],
+        "photo_reference": "AeeoHcJZOUOArWUKA2lSrfWbCS6AHSiLfIHJVSDPA_aFVyOykseKY29XaNdyvO9CGU04u_avM6BtyLsI7cHIIHrTqBVSG7kQ6geGdW-aKMRAyDXpVrILJDAhPZDYUOa8ZnqUeaXVcMWZI_OavgLHCkaUOnzM4M8mX8FIrxJ7ET3BHYHGukGKC2dNs8fdR8WklDGWEBhCsxd5MiVXBlCloLuBI_938GzyiuhG4m7WNNdaJu2dqfDPiwWTuUmbVhp9pnJhemTIL8tY8Xct5pOqWCtpc6c_ezXE7q7K_Lw28qJfUsibxYZIjV7YcIg7eALpR_OTIGO9WrJDqRfLaKfLdK3Rgc5kST2-ukaylD1GxQxO-8Iba7CiyhOtmwtTDvW5KGHBuyw3iOtd8g8uWXPHDeGoNIFmHN0BRupC_sGQDdRCuu_7JR9OOiXSZAV_NAAN_7pqCKQ4GzL5mKP7_RSivihUmoLNN-yMKMR200sceOg76iDF6vpirfqf-IBTLp_o7QWfMdr4j_M9b-_6b9IDtQgvMKqB_ylOwC6WeMJazSVKJwLGviCCYq-xWI8O45adp1vZkJDZROW9SdC0gcLV_uLl8ObE-qYWwuYE2ph-FRebpXYWhBFERH3SRihMbeYakNmQtikmPA",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJWYO07tH0K4gR8TV-XLBI9MQ",
+    "plus_code": {
+      "compound_code": "CGQQ+MG Kitchener, ON, Canada",
+      "global_code": "86MXCGQQ+MG"
+    },
+    "rating": 3.6,
+    "reference": "ChIJWYO07tH0K4gR8TV-XLBI9MQ",
+    "scope": "GOOGLE",
+    "types": [
+      "school",
+      "secondary_school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 80,
+    "vicinity": "760 Weber Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4789273,
+        "lng": -80.5304798
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4802239302915,
+          "lng": -80.52930016970849
+        },
+        "southwest": {
+          "lat": 43.47752596970851,
+          "lng": -80.5319981302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Waterloo Collegiate Institute",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108883283690898705720\">Priyeadarshi Khajuria</a>"
+        ],
+        "photo_reference": "AeeoHcIVLoiv7xFHZvg65xCSOIQz95QTv5wshHA-bnkCq9cezvLbudICxLhqMtDbMNbWDk5TPIS9tSli6aYy7-dkXPVSQnJZkBwp5eT8emHZ62RnoHv3I-c29A3rJ7sfSnIEGJmR8WUgru1jQPeMIMgF4Z5MEtUS36u7npuVH5MLewweJ8ehFx57Xt1NGirrKxm7_KHxpVkQ_xhRMyoJfyb_rjUpI372U2UVUymupV4NbM3foS7DQkTUxFitJGrqwolmK948IZOHUR6OlU7WcWGfOeV82LP32_AJp_lgD9UTnmg8ZQuqoeW9O_2D4ioSlxwL6naTaEFUIq-vCcWRmO9pDeZKLWVhG8qM5iMo9kyTCYYYbUSNK7HeDN7VMXW1xltE9yfuUQmCaBJnQdVqufSeWpkoO8oPEuRecjeZ-MuIqpQ20gz7G4JK4M9SqR146CQLxfg5nNsjvVaLGOwtapFDRdHyOs8i5L9ENyH-zAMhI6EV_aAQxo4vKbrWqrK7-l_hqeypp3mxMHZYHbUq_bKzxvrKf2q3qTl8qqVRZs5WcGGeHZvm7drrzioXV5Kkl6zlTMMR5dXZYEulFVhP7I7jIj_Hn4v9p3i8mAQxd9n_iBSMFB5GzPdGuglBbxJ3dKwB-mswFw",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJWVLtKvfzK4gRgHGcJ08993Q",
+    "plus_code": {
+      "compound_code": "FFH9+HR Waterloo, ON, Canada",
+      "global_code": "86MXFFH9+HR"
+    },
+    "rating": 3.6,
+    "reference": "ChIJWVLtKvfzK4gRgHGcJ08993Q",
+    "scope": "GOOGLE",
+    "types": [
+      "school",
+      "secondary_school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 67,
+    "vicinity": "300 Hazel Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44814239999999,
+        "lng": -80.4901694
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44955623029149,
+          "lng": -80.4887475697085
+        },
+        "southwest": {
+          "lat": 43.44685826970849,
+          "lng": -80.49144553029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Stanford Academy",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108168191113890341670\">Stanford Academy</a>"
+        ],
+        "photo_reference": "AeeoHcKAhlk9uKaEWQUFbH5VVueaiQnBlrvS10fofuKxx4VA28EZML7LoRz1AWqEgLhAqfQZnpolNUFiddmeJ9iXZiePFU7BSVNvTQ3crUMBAINeYj7u3uEhmxzfx88zj6VUXJujs4E4_Ozjn4HqCzM_7UB74g9BjGQE6oemhvpz5tqFlrQNOzYqFcuzyluqaeEgBPMViGmsxvkM3B_Y2DbTePcbainYr9DoC0MOEe0lFSM1ES7VEuaFNlvQCqjUW3ngvZgza_m07btcg9i076BZd-R85GB-eXCdWMkR9VepkuuYh0JhVVRpdQumxDhhgxUGYy67EjXeynA",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJ42cH0DGLK4gRpaWia-4oRC0",
+    "plus_code": {
+      "compound_code": "CGX5+7W Kitchener, ON, Canada",
+      "global_code": "86MXCGX5+7W"
+    },
+    "rating": 3.7,
+    "reference": "ChIJ42cH0DGLK4gRpaWia-4oRC0",
+    "scope": "GOOGLE",
+    "types": [
+      "secondary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 7,
+    "vicinity": "137 Queen Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4407962,
+        "lng": -80.54690889999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4419279302915,
+          "lng": -80.54548011970849
+        },
+        "southwest": {
+          "lat": 43.4392299697085,
+          "lng": -80.54817808029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Resurrection Catholic Secondary School",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2988,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110357473811651157772\">Sarah Ghassan</a>"
+        ],
+        "photo_reference": "AeeoHcK5G-WWB3CAW3DRZMDiD1mUbHlCtxmplUhqNE4tdWZOgLwFneoTsOijOWUnIHAJeVx2NdFvW44KSnRCUerRcqbzlFRUuVFZoFtM9v-VF9ze7O-qPnPS8qmCcjVJmN0dL_i8uVzq80HKwvUfYWJWrgI0XCur3JxP7FpPvgAD1fJxEw4PYd2NlFJNuh6o-T0b76uDUgEDaSmG4OlxjRvCHwtbZJ2lTmTGV0l_Lu8bjeSE4av2y9bNcXiOIEm8p1_odrKvATpt-i63jUsA2sxFj9l9wyc9XSJt9JjOTCRwBJq0Bfj3yryqI0GjPkdp-h_kEd3uLLFce0s7kv18twcx2M3CHyRP2sqlC4k_WYQ43h67h7t3IGjOpDo1gp73ylvT0BhnykO7RAeChS1Fv8x9p2jJTeEW-bxBVlEtOvNkQTS7IsEsYtJuYw2q7kMkbvAd7HWK-mI4w8cl9hXACqM8oHJuEou8vFP1ImrXxuoNnwr7vTy-Ot4uAxp7Vdo-9820l9eYcQiA59luuKHX6EbR5GAc-K0Fk7J4xc-Ahk-3cu21NGTJ_SgMe2zHppv-Ky6a8nIuj5VYyh--rdvCXHtzt-a_Z2kJ4svCLni6zJ-A3sB3647-Jh_dsiMmDnr_3Wi86kvEEZt_",
+        "width": 5312
+      }
+    ],
+    "place_id": "ChIJCSwICIH2K4gRJVBT5xq6FZ0",
+    "plus_code": {
+      "compound_code": "CFR3+86 Kitchener, ON, Canada",
+      "global_code": "86MXCFR3+86"
+    },
+    "rating": 3.9,
+    "reference": "ChIJCSwICIH2K4gRJVBT5xq6FZ0",
+    "scope": "GOOGLE",
+    "types": [
+      "secondary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 79,
+    "vicinity": "455 University Avenue West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.48422799999999,
+        "lng": -80.5294301
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4858795302915,
+          "lng": -80.52786116970849
+        },
+        "southwest": {
+          "lat": 43.4831815697085,
+          "lng": -80.5305591302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "St. David Catholic Secondary School",
+    "photos": [
+      {
+        "height": 1500,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117294249137218827199\">Darcy Davis</a>"
+        ],
+        "photo_reference": "AeeoHcKRHa2N0ZBCtZeP9ff07aI_lbpnG_LGmg-c1iCIFds0x_fqNaeXQBpmFJLDQXcPMN237X4eYkj4flxkXj0nA_gU1vvPHRZdxlsmrfIzmIeIeLwDrkM8aEhMZFat-f7xpzMvJBPaGuHAwTVOZ0NL_qnTghVznBVNXrVaW1IElR9ECFgPRI-U4_KMP692m--GteFhTeELacVULHqmidBaD2ovPGNW3XbuIdUx74pGYsfz5h-hpHGdovmONP3OTw0m7CSNeqKXCZQkRt3XBWn7CKz1TkpvMYUK4zQqV1nLSCzwLzm_NZ739gf-Aeub1_4gKkrwtNWc_I9stqWL1_lsfdxf986Iaa2Q7bYGjqbTjL9Ds0iluDqDKXdvCfsiC_nv-odoe-77erl1I8B6Ms8CdtRxrKlzi63ONcMzCk4ru-1F8X1azwLtqy25p-B7i2dHKvWHKHBZpHb8jwBJmmih7icuIOFVsZMPsxF0HYirJaLJoP_4wKluD-s5MVVSVlxtw6Gp2rFXezCd6lc9HA6kqFeRYyX53N7JaLyPoeQD22-maiF5ZZmApM_0dh16f0mBwxeCJdJOfXATuE2r3gPM5I27x0HtKVUKGUbnMtkZgvRlRsiP2DArhMqRe7RSxB8fJ57JSSK8",
+        "width": 2100
+      }
+    ],
+    "place_id": "ChIJs97w2PHzK4gR75ny5O6QjPc",
+    "plus_code": {
+      "compound_code": "FFMC+M6 Waterloo, ON, Canada",
+      "global_code": "86MXFFMC+M6"
+    },
+    "rating": 3.8,
+    "reference": "ChIJs97w2PHzK4gR75ny5O6QjPc",
+    "scope": "GOOGLE",
+    "types": [
+      "secondary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 54,
+    "vicinity": "4 High Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.455668,
+        "lng": -80.50902599999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45686128029149,
+          "lng": -80.50775201970849
+        },
+        "southwest": {
+          "lat": 43.4541633197085,
+          "lng": -80.51044998029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Kitchener Waterloo Collegiate and Vocational School",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2250,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114224073212879076999\">Nick Stanley</a>"
+        ],
+        "photo_reference": "AeeoHcJTxYknSqacI85eUw-6LXVlVVhORFVnXecQQyk7z9BPrcwQjMO6y08YEkjP6Fy_7sHwZXY5c8Cl55Ww6CvFETwGSs8G3bmjKqhxb1omFH1yFtpgl8fnihkCYDed9_YsiUGTQQWE8vb5Yf82j5LGwqCNtui5TPFspPtEVVhIsuK3zuPKJb72dflU7z7qXwGhWjL-CU3xCbEnNvIPYBCFJf9UlmThT6CGuL7Nvb5djaiJ7Iu-YrSh5IBoE69Z_7ewv5KZ8k4Mm4iBOhetcPF__KXsUgHLJ0rMX-fUsWGsMk8UlEllnxYLcQcRrGj2GYMoBQrJXJyKf3DpOH3sZJ8xbp1H76EBCE5bLmEqlWs-6xWLcbxb8_5qlIrkGpbWEAB5ZDOKYWhWMTMqCRB6AxEn4oxBpiIGX8VinEV3LdMmKJblVche-06COBwOUFfxw9PlYatiGDaf-14zgAgy5rgeMb0hwhHK4xI8ki07htQKXLerHwGehjg61yYh2vSampj0CLxfLeh1Mpyrt0QYtIkQNc2EvzyidnkLaE7HO7mnal6agAbkzUXGTQSLrc1qQLm37NQSCrghnhdQUkyVf25kUso0fp7y1lLQOLg7OghWgtft41bfQKXsdukJVHGYoDBhWcQ8CA",
+        "width": 3000
+      }
+    ],
+    "place_id": "ChIJo9P7yWf0K4gRIlXOBF8ZrY4",
+    "plus_code": {
+      "compound_code": "FF4R+79 Kitchener, ON, Canada",
+      "global_code": "86MXFF4R+79"
+    },
+    "rating": 3.4,
+    "reference": "ChIJo9P7yWf0K4gRIlXOBF8ZrY4",
+    "scope": "GOOGLE",
+    "types": [
+      "secondary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 73,
+    "vicinity": "787 King Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4199388,
+        "lng": -80.4670039
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4212451802915,
+          "lng": -80.4654699697085
+        },
+        "southwest": {
+          "lat": 43.4185472197085,
+          "lng": -80.4681679302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "St. Mary's High School",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110645329527937072282\">Gheorghe Curelet-Balan</a>"
+        ],
+        "photo_reference": "AeeoHcJGBBbi6GZkLFsOas8mJ66dl0AhEo1RyQBnDA-MZ-WwKTALAlzow0n28S0-x9F8oqAyHs_FDH_lBM166fPsYGeeOj8Ycailovl6WyJ8rfu1bAMwOKR_5_RMqPeiywuiqE7I-GoxwQODz6uWowu-Qxu8w61KnBPEjIhS8Qy8i_-yMGSjp1XZdZXpruDAoLBqEON7ZUslJJlz61etroXPcVqzhAZIDx3yGbeenTBO97SymMa109PNAOCbpcY8L5t3-ZKYI6G-BOO2RLJw3eHszjnDxbxqXYUHyz200bbAYyRHs1PEYGJ8-bImpHScppxuRrmnhSWuBEXagIGf6HDJm2sVU_Sy0KrcY57BF2VIbWY8YYDoU6d4ohgXqHhdQTitWOedCuEDZpXsP7MfnGGS_SMDVyQn49XlTdFVFb4cjUvgiOfsbW7JBfne5h6NY07X0v-BWywuB76eCMEHgK8iSGg0dSSKAf4zaDMMugZTBbC0wsSr77PoU0uJeVMGIFTWqqGHwfuqUC4d2-z1ZxAH2VbWLYXeUWmszYqrKRgOFdDl4ldHLs2OIdQOpg6FxS9ZN3sRhgDv46XpMXmCkUGqOLjC0qibxpu7Fnq37LWbp5lISwu-G5wG-A6yL8eV7BSXlPy1yw",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJc7LamTr1K4gR-Wc57v6emho",
+    "plus_code": {
+      "compound_code": "CG9M+X5 Kitchener, ON, Canada",
+      "global_code": "86MXCG9M+X5"
+    },
+    "rating": 3,
+    "reference": "ChIJc7LamTr1K4gR-Wc57v6emho",
+    "scope": "GOOGLE",
+    "types": [
+      "secondary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 100,
+    "vicinity": "1500 Block Line Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.39485680000001,
+        "lng": -80.4661607
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.3960389302915,
+          "lng": -80.4648442697085
+        },
+        "southwest": {
+          "lat": 43.3933409697085,
+          "lng": -80.4675422302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Huron Heights Secondary School",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2988,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110660454719466484892\">정민호</a>"
+        ],
+        "photo_reference": "AeeoHcKS_dPkw2pyj8lXgFXwRR7WJLyfPvhZ1L5d4p_MKBZn8LeaPoIG8zCWKIqJVqRLPBfc7QAQW-O9weeMnKERDsMyDfdjorTdjA4jrv2jqBTINZzrpyUYZKoMfEjE4h51dYCVxR4sSky1wrGc6nPiWsAkeFFhLJBaroSHoOCfx59PB2vFlejdXC_Ote9I-SUKqo5uXMbwkWpJ8tWcpBqfiubFhHMw844pXzQrYwwsrW9BpWy93pAR3_uYd072lHoe4DIJWmM1NcHDCI_UcpCyF4IxICvv5sAB2SkCCTSvURobm5pRs5WC7blqSJ_BioxGd2t14aSZzvNK0ebq00s1M-kzaJmahaH7Z0oVSJB30AP9m8J173e3XplZ6nu5wIzeNQM4jtq137r6oGhHr40EdkOiV5OF5pmR6ldEzcpbrNBtQz6P_8Mk7XiOdSH6cmIJ6BGI6bN6-0nTI7RpXmfhjW6zG1KXMDGEOgy1DkCRgVBJLoveTK5Mghg9CWL-jF2PO-_3TxaHRwHpiueZ76C3vqN-z1stj5MQWYGCvuBaSUVs5D6JcMGcyXqn632AVs5nA0rr0xkYYeC9tYOXiVYb79dzD8-CsuCRhUvSIYkbu-pCBIrdNZHM7hpuRM_GxjR4-l7s3A",
+        "width": 5312
+      }
+    ],
+    "place_id": "ChIJuWvq_KcKLIgRoRU1-AaZMGU",
+    "plus_code": {
+      "compound_code": "9GVM+WG Kitchener, ON, Canada",
+      "global_code": "86MX9GVM+WG"
+    },
+    "rating": 2.7,
+    "reference": "ChIJuWvq_KcKLIgRoRU1-AaZMGU",
+    "scope": "GOOGLE",
+    "types": [
+      "secondary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 65,
+    "vicinity": "1825 Strasburg Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.477289,
+        "lng": -80.5257312
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47863073029149,
+          "lng": -80.5244129697085
+        },
+        "southwest": {
+          "lat": 43.47593276970849,
+          "lng": -80.52711093029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Vanguard High School",
+    "place_id": "ChIJ7Z7jR_TzK4gRUaY5QblfSgY",
+    "plus_code": {
+      "compound_code": "FFGF+WP Waterloo, ON, Canada",
+      "global_code": "86MXFFGF+WP"
+    },
+    "reference": "ChIJ7Z7jR_TzK4gRUaY5QblfSgY",
+    "scope": "GOOGLE",
+    "types": [
+      "secondary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "255 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4790797,
+        "lng": -80.5163432
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.48040848029149,
+          "lng": -80.51503281970848
+        },
+        "southwest": {
+          "lat": 43.47771051970849,
+          "lng": -80.5177307802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Vanguard Online Academy",
+    "place_id": "ChIJObNuHIzzK4gR5kWkM2mhgG0",
+    "plus_code": {
+      "compound_code": "FFHM+JF Waterloo, ON, Canada",
+      "global_code": "86MXFFHM+JF"
+    },
+    "reference": "ChIJObNuHIzzK4gR5kWkM2mhgG0",
+    "scope": "GOOGLE",
+    "types": [
+      "secondary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "119 University Avenue East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45109040000001,
+        "lng": -80.4928929
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45248523029151,
+          "lng": -80.4915181697085
+        },
+        "southwest": {
+          "lat": 43.44978726970851,
+          "lng": -80.4942161302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Maple International College of Secondary Studies",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1837,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112623181590174332478\">Maple International College of Secondary Studies</a>"
+        ],
+        "photo_reference": "AeeoHcKyn5SAHse6k-LdQ5cc10kAy3JyorI8WRhjdhxVLl_2-srtefc0d_084AawfjJBpRKPYrAfBruNVbCDYrIr0JMM7t6VP6akF1S7wbDDVK8EG1w3mOd-9_KifXJnyaSlkAl3D1amOYlP6G2nslUgVHBXoMtnfXL0OZLNR5j7689u83Ko4L4NrNvMLaMH0fdLuJdYTfEzFOBOYoDTZq9fRzpsZmQMwxGJmF9jfb9YhInpC8oDZmELzo32YPCWuMnmb8KfMHWIMDkttmvF4xDcr-ILQWg34koEcO3YAGH0JHFsZ2EhVKsbpQEVbLz4jobed1K0J9F02fs",
+        "width": 1897
+      }
+    ],
+    "place_id": "ChIJOYk7r7r1K4gRiJtj7Gk-MI8",
+    "plus_code": {
+      "compound_code": "FG24+CR Kitchener, ON, Canada",
+      "global_code": "86MXFG24+CR"
+    },
+    "reference": "ChIJOYk7r7r1K4gRiJtj7Gk-MI8",
+    "scope": "GOOGLE",
+    "types": [
+      "secondary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "201 King Street West #260, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4893623,
+        "lng": -80.4956153
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.49065478029151,
+          "lng": -80.4943960697085
+        },
+        "southwest": {
+          "lat": 43.48795681970851,
+          "lng": -80.4970940302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Secondary school",
+    "place_id": "ChIJDWM7bwDzK4gR8YOdN84HNCk",
+    "plus_code": {
+      "compound_code": "FGQ3+PQ Waterloo, ON, Canada",
+      "global_code": "86MXFGQ3+PQ"
+    },
+    "reference": "ChIJDWM7bwDzK4gR8YOdN84HNCk",
+    "scope": "GOOGLE",
+    "types": [
+      "secondary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "284 Braemore Avenue, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.49751130000001,
+        "lng": -80.5472971
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.49897283029151,
+          "lng": -80.54593706970849
+        },
+        "southwest": {
+          "lat": 43.49627486970851,
+          "lng": -80.5486350302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Waterloo Berkshire Academy",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJVx3rr7zxK4gRZSphPO4Zahg",
+    "plus_code": {
+      "compound_code": "FFX3+23 Waterloo, ON, Canada",
+      "global_code": "86MXFFX3+23"
+    },
+    "reference": "ChIJVx3rr7zxK4gRZSphPO4Zahg",
+    "scope": "GOOGLE",
+    "types": [
+      "secondary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "180 Northfield Drive West #4, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4616315,
+        "lng": -80.4579016
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4629071802915,
+          "lng": -80.4567516197085
+        },
+        "southwest": {
+          "lat": 43.4602092197085,
+          "lng": -80.4594495802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Ecole David saint jaques",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113133415875651535622\">École secondaire David-Saint-Jacques</a>"
+        ],
+        "photo_reference": "AeeoHcLRHGNh7nHrrwR5Pdg60DMps8o4yOyBiiif8IKnOmJ8FVNulcaVsiY0F3cTMe-BLHCObJSP6sisu0l7OcnTVkiDK50irCadm_BlpY0Qkwnc98HudtMMchwpaIbtccIVCZ0c0jKK5M7ggFt-nSKZ_YzU4ta-Otf2dwq-VXmvWmc9--GQzVrBEbqaU2o6x2YydjmSvyeoNgBkMjFB67lXiiClpp5Sc3-aGNSDfc5OoXpT877Ce_llR1lc4486XaniY_M5H15D-j0CBZ4Ed6_KTFrPobCmHqSqmntkrgemtsYRBET6LA0BZ2bJaKN7yLGeoo_IheMGI0g",
+        "width": 960
+      }
+    ],
+    "place_id": "ChIJL4ECIVr1K4gRiMLBfe0HRXs",
+    "plus_code": {
+      "compound_code": "FG6R+MR Kitchener, ON, Canada",
+      "global_code": "86MXFG6R+MR"
+    },
+    "rating": 4.5,
+    "reference": "ChIJL4ECIVr1K4gRiMLBfe0HRXs",
+    "scope": "GOOGLE",
+    "types": [
+      "secondary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 16,
+    "vicinity": "80 Burlington Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4938278,
+        "lng": -80.4161386
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.49515703029149,
+          "lng": -80.4148083197085
+        },
+        "southwest": {
+          "lat": 43.4924590697085,
+          "lng": -80.4175062802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Woodland Christian High School",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 512,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110988592606333620204\">Woodland Christian High School</a>"
+        ],
+        "photo_reference": "AeeoHcIY5gr7YHOpMiTNgpvMfOIHAbsy-kNEqLwK58koFvRsyPUTwp4TqQrgPD0XRhjt7h2-ww42Idih8lxPnFgsU5MHfTgn_MgaQzPB_DgrEBjQ0jr0H5EgZUiPtB6QZeYL_agb8nlzBetn6huaMyd3GtbYbu1mit1gOpjXuYBNPs2htJLx2ueplBbvQArh49R9mr-lUodZ3RaSKB52_334_7AJXUI2B5pSjwCMu5i-NLhvv-ISZbubqMHGQSHMlyOPA_-pCxfJsHuJhriQcdZS08I35-Xd4uxW2xTogkHMR6V-jQIUaN7h-GsRmPQcTtuRNQEfpzClB_U",
+        "width": 1024
+      }
+    ],
+    "place_id": "ChIJXzpyXveMK4gRVj5qERPS2A8",
+    "plus_code": {
+      "compound_code": "FHVM+GG Breslau, ON, Canada",
+      "global_code": "86MXFHVM+GG"
+    },
+    "rating": 3.8,
+    "reference": "ChIJXzpyXveMK4gRVj5qERPS2A8",
+    "scope": "GOOGLE",
+    "types": [
+      "secondary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 23,
+    "vicinity": "1058 Spitzig Road, Breslau"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4571957,
+        "lng": -80.4373461
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4585186802915,
+          "lng": -80.4358541197085
+        },
+        "southwest": {
+          "lat": 43.4558207197085,
+          "lng": -80.43855208029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Grand River Collegiate Institute",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJA_u1wVyLK4gRuUFoDfDCUfw",
+    "plus_code": {
+      "compound_code": "FH47+V3 Kitchener, ON, Canada",
+      "global_code": "86MXFH47+V3"
+    },
+    "rating": 3.4,
+    "reference": "ChIJA_u1wVyLK4gRuUFoDfDCUfw",
+    "scope": "GOOGLE",
+    "types": [
+      "secondary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 23,
+    "vicinity": "175 Indian Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5165302,
+        "lng": -80.5683999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5179593302915,
+          "lng": -80.56751475
+        },
+        "southwest": {
+          "lat": 43.5152613697085,
+          "lng": -80.57105535
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "King Alfred Academy",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109209271928732643154\">King Alfred Academy</a>"
+        ],
+        "photo_reference": "AeeoHcJpngceBszfNUKsvmSlzWNhoHSsUgnPG6xzClMvNJvO65qcxM0KjpKm0CQkzHO5vSf4nzXMOwhC11PUPllskB7OpFtqyGymTEytbyO8ubMF-pGchXFWgzuzzfBsX5R46PgFzzPPAiZGulbGzZi3sU5z0dtRiHfjOsefN4tqJ4FDm4M7M-hWR2BRHaVr2pkiV6hHUTAgr7sjjIwqJ6ureioi0tXu7EetY0DIbu3Fhkl30WywUxtlwQJPDo-GC8_sObSfIXJjUwlbB-dkvMxazsPtUm6xsUhmPNa2kttJrV5xB7o2qnGSqrOjEFRh5RjY63c7cLKfo8U",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ78KWDsjxK4gRirV0FbrhsgU",
+    "plus_code": {
+      "compound_code": "GC8J+JJ Waterloo, ON, Canada",
+      "global_code": "86MXGC8J+JJ"
+    },
+    "rating": 5,
+    "reference": "ChIJ78KWDsjxK4gRirV0FbrhsgU",
+    "scope": "GOOGLE",
+    "types": [
+      "primary_school",
+      "secondary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "1373 Lobsinger Line, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45691859999999,
+        "lng": -80.4280064
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4583532302915,
+          "lng": -80.42671151970849
+        },
+        "southwest": {
+          "lat": 43.4556552697085,
+          "lng": -80.42940948029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "High school",
+    "place_id": "ChIJWfV6WgCLK4gRfqAVW6_4uVw",
+    "plus_code": {
+      "compound_code": "FH4C+QQ Kitchener, ON, Canada",
+      "global_code": "86MXFH4C+QQ"
+    },
+    "reference": "ChIJWfV6WgCLK4gRfqAVW6_4uVw",
+    "scope": "GOOGLE",
+    "types": [
+      "secondary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "1201 Lackner Boulevard, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44267809999999,
+        "lng": -80.4304956
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4438700302915,
+          "lng": -80.4291874697085
+        },
+        "southwest": {
+          "lat": 43.4411720697085,
+          "lng": -80.4318854302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Discipleship Christian Secondary School",
+    "place_id": "ChIJN6rVJYSMK4gRlYgBvj87qeA",
+    "plus_code": {
+      "compound_code": "CHV9+3R Kitchener, ON, Canada",
+      "global_code": "86MXCHV9+3R"
+    },
+    "reference": "ChIJN6rVJYSMK4gRlYgBvj87qeA",
+    "scope": "GOOGLE",
+    "types": [
+      "secondary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "250 Old Chicopee Drive, Kitchener"
+  }
+]

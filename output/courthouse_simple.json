@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Provincial Offences Offices",
+    "coordinates": {
+      "lat": 43.4521312,
+      "lng": -80.48616799999999
+    },
+    "longitude": -80.48616799999999,
+    "latitude": 43.4521312,
+    "types": [
+      "courthouse",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Waterloo Region Courthouse",
+    "coordinates": {
+      "lat": 43.4506053,
+      "lng": -80.48627549999999
+    },
+    "longitude": -80.48627549999999,
+    "latitude": 43.4506053,
+    "types": [
+      "courthouse",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Ontario Family Courthouse Kitchener",
+    "coordinates": {
+      "lat": 43.4504117,
+      "lng": -80.48649429999999
+    },
+    "longitude": -80.48649429999999,
+    "latitude": 43.4504117,
+    "types": [
+      "courthouse",
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Ontario Court of Justice",
+    "coordinates": {
+      "lat": 43.4507264,
+      "lng": -80.4857719
+    },
+    "longitude": -80.4857719,
+    "latitude": 43.4507264,
+    "types": [
+      "courthouse",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Ontario Small Claims Court",
+    "coordinates": {
+      "lat": 43.4505132,
+      "lng": -80.4856471
+    },
+    "longitude": -80.4856471,
+    "latitude": 43.4505132,
+    "types": [
+      "courthouse",
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  }
+]

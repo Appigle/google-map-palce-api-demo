@@ -1,0 +1,2260 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4544416,
+        "lng": -80.54682269999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4558502302915,
+          "lng": -80.5453917697085
+        },
+        "southwest": {
+          "lat": 43.4531522697085,
+          "lng": -80.54808973029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Beechmount Animal Hospital",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3264,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113135998239694342561\">William Pitcher</a>"
+        ],
+        "photo_reference": "AeeoHcI2ecQn0_SPHvKr7OF9_O57NzQKUGEpBoYU9tR4CO5cz3PJcFogRj0qO_k8tMhLsI0E1fbpvg5n6m8XrOQn_tqOvjg5KvLXXY2kggS0Dl9iM95VNth1BlTReK9sJYcntD1shCDU64oZnA-KIerDBFSqTYvPn0WnxRBYwrTStNuPwJ7krFDKPbx4CJfQava83pYo-hQuuuZHON4KHgSH-_9Ar4r1y7fohXRkGMkDutaCTOUP-C6qH3gT_D8S1p2kWjTgo0TM_4qWAaX8LK7iy31myvvDxwcnYHWrtI2692wp8M50gbtAYfm0ocUWMXMqB9_y9cch9gQYVOqWHEUL8gsoh28AdQtktyje-82euQdlLF-w48v99PwQncrZGHnbWfvp9oN1U5jWGuCAOm8fQbgqy1OiFW0QtoxpzW3bEH3e3wbDqrOYpc6hcXHEo5172E3CiWR2NT2SjN96vcw7XjTIRX8_Bw8ynteTPdSfBYKDqblavDmfptuUXOkl29ccJ68zanwc51GnJn06-43QNbJJHbWc-Ybu1wALoMJyd7N8HUWLwzaAAEB_9FXVooW6il5CYwBH_poRPczsemDNJ8xTZ_wCvcu0P8Iq7hnK5qWFfgc2L1FxGQWR4n6KTaraYDMrCYhZ",
+        "width": 4912
+      }
+    ],
+    "place_id": "ChIJpSqkAZ_2K4gRV8qOsOek3SQ",
+    "plus_code": {
+      "compound_code": "FF33+Q7 Waterloo, ON, Canada",
+      "global_code": "86MXFF33+Q7"
+    },
+    "rating": 4.8,
+    "reference": "ChIJpSqkAZ_2K4gRV8qOsOek3SQ",
+    "scope": "GOOGLE",
+    "types": [
+      "veterinary_care",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 327,
+    "vicinity": "355 Erb Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.48839220000001,
+        "lng": -80.5176177
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4898133802915,
+          "lng": -80.5164250197085
+        },
+        "southwest": {
+          "lat": 43.4871154197085,
+          "lng": -80.51912298029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "VCA Canada Lexington Rd. Animal Hospital",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1265,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104721649084238848104\">VCA Canada Lexington Rd. Animal Hospital</a>"
+        ],
+        "photo_reference": "AeeoHcIc6M9FIbE8vlw5vy86ejjJ0Q1lhQIOwOGTLZ2M_6koyCv7AWiupw_JLefQSkggoAmfDwQbhHxskfjWcwrh4QeJ0bVaaxX9N0a_U_a5CB2uqejoJ4zX0QSdcmUEHDxj37TI9vpsdjVyDqs1HO2zpvbTC0wEqxB0wIVWBDbiUN4CS9gUSMLIAk8rtLH6VEahn5ruG11FDawTP4_q1F7yrXbNzRPaebUSk-bwowu0EJwI8TTXXaE9xXcujjq4ozaqVNdcKoM4NYf5TVkjXa-DPDj5PdfUyBsLgVkT0rsT-lF2xIHgmLW6gnapF_1fBico464jgH0Nglw",
+        "width": 2250
+      }
+    ],
+    "place_id": "ChIJ-RUvaZTzK4gRAGehHpTBT0w",
+    "plus_code": {
+      "compound_code": "FFQJ+9X Waterloo, ON, Canada",
+      "global_code": "86MXFFQJ+9X"
+    },
+    "rating": 4.4,
+    "reference": "ChIJ-RUvaZTzK4gRAGehHpTBT0w",
+    "scope": "GOOGLE",
+    "types": [
+      "pharmacy",
+      "veterinary_care",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 123,
+    "vicinity": "135 Lexington Court, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4304921,
+        "lng": -80.4377907
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4319742802915,
+          "lng": -80.4364176197085
+        },
+        "southwest": {
+          "lat": 43.4292763197085,
+          "lng": -80.43911558029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Kingsdale Animal Hospital",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 705,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107551143254510989686\">Kingsdale Animal Hospital</a>"
+        ],
+        "photo_reference": "AeeoHcLtk5M_TLY3ZVvT0Pj4VAwu1Ei6VqM8ox823PApeUm7lk8qsWXzHbt5YXPOtrzXBlRenkK0N71bfmXq7BwpjgOAt_gunBUJOV3Yh2cxkG4Qsi9ILXQPAVU4aIUT66J-DvXU1VQjs3QscGyNIBSC73ikhf1pPIm1A4hg3EBzxzyP7n-W-jyQRN_wQF4x8Tlv4TeDgMwdcVQ8ifD8_04kMDVUq5EUGWApQlHmQEeNhRsdWIBXGBhUjjiPyK_KJ66FdWl-kvpfJLyj-ODLDr6J5ZFMrwOAYCX4oIaEeHpeughipx808tET68uIRqgZiGCX7Vell6CLvqQ",
+        "width": 940
+      }
+    ],
+    "place_id": "ChIJdSMbziCLK4gRCnn7mGJ7kYI",
+    "plus_code": {
+      "compound_code": "CHJ6+5V Kitchener, ON, Canada",
+      "global_code": "86MXCHJ6+5V"
+    },
+    "rating": 4.6,
+    "reference": "ChIJdSMbziCLK4gRCnn7mGJ7kYI",
+    "scope": "GOOGLE",
+    "types": [
+      "veterinary_care",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 372,
+    "vicinity": "2848 King Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.48933789999999,
+        "lng": -80.49512519999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4906617802915,
+          "lng": -80.49370491970849
+        },
+        "southwest": {
+          "lat": 43.4879638197085,
+          "lng": -80.4964028802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Bridge Street Veterinary Hospital",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4599,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110774807039049927496\">Reza Sadeghi</a>"
+        ],
+        "photo_reference": "AeeoHcJrdx5UUzXjbX3B0bb4pw2EohJlilxxWIy11YiOnPnQ4NggGV1AZLF1mPFbT9q2gEh7mgfrudxBZtjOWxxlLpiqjgMVJv3Bv_wg5xWjyNJZLh96Z51FskqR_JfRM9Kyd62-h-UjgPCJTvk81i4PQ-854jEHbA4pL8fQ1nlh66GQFVm8w_kQ5eVE2hBfy8ngsoVlqW-imxaBNlXw87iYypgleXEq8tFJ8CBQfrvRZBsLbG7VKvNye3Eb0j0HAjGePJrEVhvlC3KPdpgemojebGLMZbzIT9B71r1fBZH8yZxdpdxeHK5if2CPrs3MZ_D0qqwEZOGe_BzWvxcMI7qOn9iAgQhdGcuDDA6kcbxlnl4JamGu4GzUHKdni1Ieyysh2Hj2QSZaWtYuaDMGu_W6mU9katjkZ2ZBGeBoS7yY5-p443pApCtyUH569oupO7fe4-NSJrpMOkbhpASqrDD26fCc4QP3C_M0f1To1vaLCTvoY1J7S_b48cSJgMKom0kIyon-sb1dYZeSXUPGH26Y9bnEeMx62hI29NDY80mhOUPP0sdVqa1vJYwtMHACTiEj8I-hqbjz2wAaD97PgT_Y03Jb1R5_1FaRI12SYPgiXb0QSeiCRrLu5XqRfjmT76ami_TI5g",
+        "width": 2682
+      }
+    ],
+    "place_id": "ChIJ83G4nnTzK4gRCUrzqRX722Q",
+    "plus_code": {
+      "compound_code": "FGQ3+PW Waterloo, ON, Canada",
+      "global_code": "86MXFGQ3+PW"
+    },
+    "rating": 4.2,
+    "reference": "ChIJ83G4nnTzK4gRCUrzqRX722Q",
+    "scope": "GOOGLE",
+    "types": [
+      "veterinary_care",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 112,
+    "vicinity": "#101, 370 University Avenue East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44447039999999,
+        "lng": -80.4793226
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4459137802915,
+          "lng": -80.4778776197085
+        },
+        "southwest": {
+          "lat": 43.4432158197085,
+          "lng": -80.4805755802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "St. Francis Animal Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 972,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115175994200809338189\">St. Francis Animal Clinic</a>"
+        ],
+        "photo_reference": "AeeoHcIuRXUY0nS-JZNqBPjFW4vyqxTGLxKG6zem0vzSZyZpFTw1R764DQO6tN2LuBoj7j-dYRuIHGHOiEKIL4G6W-awG0e1qH8dAIgce7jcMOKj6Af_zkhKJDCh-t32oxA8HwS0PfwiAC8jL0hLbe1ShNs1kh7QV56B0TaO9VbWUYhUbW6W8WKb0SHh8qabYhGE360dcVgEc7JtBpiMNq3BxE1WfhxGEBbNUVgE6FJoXw1oxXrmcguL9vStz47gqGdLUdfeZs8I7b-dWQ5R7debRV7-m547C8pHlTbmG_wJzB4FfBPKGj2QfaGEAaVXSBFcyXcvEz3hZvY",
+        "width": 1728
+      }
+    ],
+    "place_id": "ChIJk9Waq-n0K4gRIMz0q4a1pZU",
+    "plus_code": {
+      "compound_code": "CGVC+Q7 Kitchener, ON, Canada",
+      "global_code": "86MXCGVC+Q7"
+    },
+    "rating": 4.8,
+    "reference": "ChIJk9Waq-n0K4gRIMz0q4a1pZU",
+    "scope": "GOOGLE",
+    "types": [
+      "veterinary_care",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 321,
+    "vicinity": "22 Pandora Avenue South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46154250000001,
+        "lng": -80.46931459999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4629225802915,
+          "lng": -80.4678657697085
+        },
+        "southwest": {
+          "lat": 43.4602246197085,
+          "lng": -80.4705637302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Bruce Street Animal Hospital",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 450,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116695756838164179906\">Bruce Street Animal Hospital</a>"
+        ],
+        "photo_reference": "AeeoHcISM_AgTlBgGUKBs0LDlLNShGvhpLPv6K4Za7bIlgOUJnkKOpuio1JmmuW1kRjUd4dZFfDwbbzzO7S9k4fxU4IUcu15agK63kUZSP8W2RKVC_Jan-b-xN5aKGCOqHTyEVU9KLXdIs0RepCuEIlYk22ifC1l1qt906wU__Np7W85VcMC4G9bLC6EvLp71ikIuXLraTwmhV5g6aGViN6_iAJDO1q5UpsPkvnfHnja7DXn_a9lGWjLPP5syWoukXNy6M1LJKOecDKE5JUTz_Ir7mesHYGzcVNvtfVtLntxOQK3Y_TfwtXE9z0MJSHb_GwdEaEh9uCOAwQ",
+        "width": 500
+      }
+    ],
+    "place_id": "ChIJM7wv5KT0K4gRVBFZa69npoA",
+    "plus_code": {
+      "compound_code": "FG6J+J7 Kitchener, ON, Canada",
+      "global_code": "86MXFG6J+J7"
+    },
+    "rating": 4.5,
+    "reference": "ChIJM7wv5KT0K4gRVBFZa69npoA",
+    "scope": "GOOGLE",
+    "types": [
+      "veterinary_care",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 346,
+    "vicinity": "37 Bruce Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4703381,
+        "lng": -80.5158871
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4714146302915,
+          "lng": -80.5144231197085
+        },
+        "southwest": {
+          "lat": 43.4687166697085,
+          "lng": -80.5171210802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+    "name": "Walmart Pharmacy",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117910882872117797392\">Forum Patel</a>"
+        ],
+        "photo_reference": "AeeoHcIpSuYbNlv1TDeUxhcsJpSC7TXv3SrPH3j6dxXjPG1EyaUMgJZmDO5AepIvyD3-aqpyBBmhnEVMQQLhfvh70qzNKXnEwTvUmaF98T_yP1zsJi5ekS3Rvc6Lm1Tzixup3lkHtYKEupP_O1TlZsHZ_dewDi0ApvyMhXjiM_EJ8KcOxOwyNg8lxQNGSReH70IjLjnm5g2Ga-i-wU9Ho4WEm5J8uGE8LRnphLVCNvVqctR4R3UbYTa_xdKAhdIEsnG6HF8Ksp1fD2iFxI-YLAmNbZtTNZPzLm8DcFANghej4GnKLMN4wm7QyOy4fodejaiUtUwA_0tI7TFOWJWTW-YJYI2sObHkZx3ObVsaoYbMLrz5k08cO7uTxfXM51M_wA0AVjOS9ri-k6jwlAE1WTOATDPYW1ai6BuBPM-VnqdGEki1vP6C041TqMUFmZbeNDMeSVPMGCl5uH34RIrvQOFs2vn7f5eavDt4qwxXiYSMOvCWUbqjXKfpEbKZqrYcW11jgXLagit82zKeKe4s8hd3si5kb4zLn_OCebKAGVL71oNRotm21U-0MDCpeHKwbG0AQpugdwh4GyoSbCCfufQveDXNEiO9noPkrMVopCWAry1iC1BL0KWU6dv5WKspY9jPqkBAgz-M",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJ3XM1VQUDWkAR5-SboUJGsYc",
+    "plus_code": {
+      "compound_code": "FFCM+4J Waterloo, ON, Canada",
+      "global_code": "86MXFFCM+4J"
+    },
+    "price_level": 1,
+    "rating": 3.9,
+    "reference": "ChIJ3XM1VQUDWkAR5-SboUJGsYc",
+    "scope": "GOOGLE",
+    "types": [
+      "pharmacy",
+      "drugstore",
+      "veterinary_care",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 34,
+    "vicinity": "70 Bridgeport Road East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4853445,
+        "lng": -80.5587392
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4867508302915,
+          "lng": -80.5573580197085
+        },
+        "southwest": {
+          "lat": 43.4840528697085,
+          "lng": -80.56005598029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Jou Equine Reproduction Services",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 854,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118193719493239014988\">Jou Equine Reproduction Services</a>"
+        ],
+        "photo_reference": "AeeoHcKZBEsWBY5awuSDG84lnb55wxVdsdcGe-oRfR9-Mxl9RB5GKVFlhlq5gT75HdpomdPiE-hdgKohF333RhXMXJ9O4FBAyCNH3tEJ1ERjv2zGDX_ue65QYFPTIukn4UmPZAObE_VxOpn1DfQ6Ze2OD0tbHEcPKXOIkjiuayG6FWHSXHjlrGiUNRim0R9io6J58lNj8w_XlzWadJdkX-9fbaTBLELbP4C0ubq5jHlu38HdMCzV-XZKs9NBEbMzUJ-jcwyfN9kQZyouG4u8PmCTBl7rF0GZeabT5BB2F0gsk6iSllYm6iux7oNoJjufII3T5Pm_bxSCOEI",
+        "width": 1286
+      }
+    ],
+    "place_id": "ChIJxw1t5M6NK4gRgtEEGLhwiLQ",
+    "plus_code": {
+      "compound_code": "FCPR+4G Waterloo, ON, Canada",
+      "global_code": "86MXFCPR+4G"
+    },
+    "rating": 5,
+    "reference": "ChIJxw1t5M6NK4gRgtEEGLhwiLQ",
+    "scope": "GOOGLE",
+    "types": [
+      "veterinary_care",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "289 Parkmount Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4700172,
+        "lng": -80.46990070000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4711791302915,
+          "lng": -80.46887571970849
+        },
+        "southwest": {
+          "lat": 43.4684811697085,
+          "lng": -80.4715736802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Kitchener Waterloo Humane Society",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1463,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117952356651759847067\">Kitchener Waterloo Humane Society</a>"
+        ],
+        "photo_reference": "AeeoHcIgKJTmoRU6mwNHD9wgPkKKx4W0AbphkI974XjSqK1NniESgl2UbGIvl8RwW7IwIoL_3sXRjZoDdRcStHcdzb0wf8S3VU46J9vautqr96tMkbCVyDgVEp2gYXG6HQ7h0mRTJORwjzub97QTF4d-sT5DiUWdv9U1UPXqGE9bKGI2Rj78qwL0W5BaH839ibar6H2KyqU9yEqQzaMVBTbxhbqP_HVKD05VqA8twYx-FQ00GwMKOg8VQ4bWObAik7LqayOrH0-eaO-5QNLhFcL_gisfguZCncqfd4Cw-Y8UIqgah6VP_Mg0ZC0IRgVZHdjHLI8R6TBuHV8",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJB6NCFq_0K4gRxYNw8ZMwvT4",
+    "plus_code": {
+      "compound_code": "FGCJ+22 Kitchener, ON, Canada",
+      "global_code": "86MXFGCJ+22"
+    },
+    "rating": 4.3,
+    "reference": "ChIJB6NCFq_0K4gRxYNw8ZMwvT4",
+    "scope": "GOOGLE",
+    "types": [
+      "veterinary_care",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 953,
+    "vicinity": "250 Riverbend Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4330125,
+        "lng": -80.55820489999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.43456568029151,
+          "lng": -80.55716986970849
+        },
+        "southwest": {
+          "lat": 43.43186771970851,
+          "lng": -80.5598678302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+    "name": "Walmart Pharmacy",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJi_4SpGH2K4gRNvWqbhKKKsM",
+    "plus_code": {
+      "compound_code": "CCMR+6P Kitchener, ON, Canada",
+      "global_code": "86MXCCMR+6P"
+    },
+    "price_level": 1,
+    "rating": 3.1,
+    "reference": "ChIJi_4SpGH2K4gRNvWqbhKKKsM",
+    "scope": "GOOGLE",
+    "types": [
+      "pharmacy",
+      "drugstore",
+      "veterinary_care",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 42,
+    "vicinity": "100 The Boardwalk, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.41611289999999,
+        "lng": -80.5185608
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4171299802915,
+          "lng": -80.51757476970849
+        },
+        "southwest": {
+          "lat": 43.4144320197085,
+          "lng": -80.5202727302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+    "name": "Walmart Pharmacy",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJq6ra1Jf1K4gROsWh_eg6Ozc",
+    "plus_code": {
+      "compound_code": "CF8J+CH Kitchener, ON, Canada",
+      "global_code": "86MXCF8J+CH"
+    },
+    "price_level": 1,
+    "rating": 3.4,
+    "reference": "ChIJq6ra1Jf1K4gROsWh_eg6Ozc",
+    "scope": "GOOGLE",
+    "types": [
+      "pharmacy",
+      "drugstore",
+      "veterinary_care",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 27,
+    "vicinity": "1400 Ottawa Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5081817,
+        "lng": -80.548171
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5097641802915,
+          "lng": -80.54699311970849
+        },
+        "southwest": {
+          "lat": 43.5070662197085,
+          "lng": -80.5496910802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+    "name": "Walmart Pharmacy",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112970208609090982581\">Ahmet Osman</a>"
+        ],
+        "photo_reference": "AeeoHcJG7xwjK1TuV25jnSjtkUW_uOICK3UViKYq6_v500nn2sM4KbWMl6A8z-o3fxsH3t91p1Pwc7a2gKCUHZNsGuTgSYQA02RC92OfebnAxwkgYMvksRAcB0qZFNGNk5jt9dDORo9RpwC64potPgCuaVGrKvtEv85GlqawIM7qHwK1aC2EbO1KywmzPjCWFOe2tTzpmkb7wWpWVwf8Jiof73xG9iyQM7THATCs43O-eFHiF3NRCJb5oRAZJEl49ShMX90d553q5kR2laVJdBjwThnyNU4PFSSr6XT0JLkfDUgkjJetlu7ITrdxrsQRnVqrslztbCpq7YOBWArx9Dx6hIn6Ihwk9F6bIAiGPCj7yWmMZwK-U891N89kQCMRd9lAg_qXVtPEqCRKXMuxkJP4qIEotLsA8C5bgAID-ig2ioFuQe_xMuNGbE8UPvD1i4A5WEwAL-gru3JkgRSNQND2AUUYauW1qEsdOk-XYAPIEfqZucwbcfC6z5kNNnFQ-ID3h028rrDkxsqkgIr_eHPcfx7Wwi6faB3VsWcx1eWRbSz-5D_jV33-4kKPSEi2K2yLzWdetE2lwmVZtWJOWt562DHMwvB4F3FUHEqPsxsJUbYhSpmCQTewqotnbLFcvNibWhfY9A",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJd5-JH3rxK4gR8cvmovylcnk",
+    "plus_code": {
+      "compound_code": "GF52+7P Waterloo, ON, Canada",
+      "global_code": "86MXGF52+7P"
+    },
+    "price_level": 1,
+    "rating": 4.3,
+    "reference": "ChIJd5-JH3rxK4gR8cvmovylcnk",
+    "scope": "GOOGLE",
+    "types": [
+      "pharmacy",
+      "drugstore",
+      "veterinary_care",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 20,
+    "vicinity": "335 Farmers Market Road, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4132761,
+        "lng": -80.4803015
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4146606802915,
+          "lng": -80.4788186197085
+        },
+        "southwest": {
+          "lat": 43.41196271970851,
+          "lng": -80.48151658029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Strasburg Animal Hospital",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107318243392799450791\">Dhanashri Marathe</a>"
+        ],
+        "photo_reference": "AeeoHcLk7v55hrJVyiBKmYtH-2wlOuF9XLFAob6wMkrxdHXkF-AMrATzCq4ZaydApDotQQywk2WG75msUBgWN2plGtYuiZMGuYwBr9kq2cwy9QAftQevBmXdINqh22O9Wq2G8OytD2HthnKzv4KSdqOoQ3LBgI8-7dPgvI4wr6pQYIW6Og5AUBLE3i2vcdee_tmg0HgjcSob8PMxMJzlM0tmA6kcrj_7GcJQzWs4OdCNaRQNN1lsmba-ZSmnkRDZodHLEA169xq5_EFGYWR8NtLo5kumjQuTmsPRQIb1kVSpJhvl-HgUH0V8pe8fnVxVSI5nuYTfSU3IR1z6mJzbUo60V-IG4dC5JEgVoOb0glT2fpErtxotRIfDZJFHiyjnRLZ_GZHf_MyfQX7bn-nDwYYdKzDKfAGKakCK1RQiYMVDlfxoVVp7pnAOWuDVBvYe5y4QLKRcUzdTfxwxT3G_qiq7DKYARPODiYBeoigEjmrYe0cafrzWROM06tLC6373Rn1A6T8ME4kZ0antO62NzoakMIiMtRfzuvlkPIxL2CAJPiG1DSy-ETuGeHPolB2wPEdrFqYMi2TwdXZtrSdrexNcTYg6lpOyJIJY8QTmEjmWpGZAay0dw6VVTish59bWrzEHoO9opg",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJk4d40xT1K4gRY_BBDcTSVoM",
+    "plus_code": {
+      "compound_code": "CG79+8V Kitchener, ON, Canada",
+      "global_code": "86MXCG79+8V"
+    },
+    "rating": 4.3,
+    "reference": "ChIJk4d40xT1K4gRY_BBDcTSVoM",
+    "scope": "GOOGLE",
+    "types": [
+      "veterinary_care",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 244,
+    "vicinity": "700 Strasburg Road #12, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.431111,
+        "lng": -80.437264
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4324227302915,
+          "lng": -80.43599346970849
+        },
+        "southwest": {
+          "lat": 43.4297247697085,
+          "lng": -80.4386914302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "East Village Animal Hospital-Kitchener",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118141292848437638476\">Marta Borowska</a>"
+        ],
+        "photo_reference": "AeeoHcLLZrXru2z8weZdH2FRjKJg__hmX6lWm7WLf1KcJjnC6izO-w3uIysTDnbLJ0FW25LKYxq2WbcOwXqHT1Uhl2P7CYEtixLu4Yi1qmGPd4D89TMhtfT_Px7xRtnlrmCavr131dSpwe2_vSfpccAP-QzPpwM4YYWOOgkkAel4KikcZ3k6rlcgejC7DLNKupL0WzhU-aD9mJ4aZpvfvK37utEUL7215h9_C-viAptlLPZlf6fKb97TrbiQQWsLGnAH_63A1sXVRMUf_ClQQ-Qudr47IdXkDI37zf9FTV3BqCHoTk8IiMGGqIBado4lT_QAvt1wYR64QGtQZRFvCvRUirWZnAJYlTr79sKvfniBgKwMBZi0byk8BSXVyuhBey4vJ2GJD3AY0928hAzhgF304MACutqTA4xJZVU6Ybblj5jeoCeIUYrFjcNwKd0kvXcs1ohSLKjW5Ei1-nJVYWFT1oF65BFM-DKNpdWcuHJOCYefVFgdRD8aV104nuoF_ZkJBigX_KWUVB0asrA7bvvPyLPCjfhr8jYJBvmg9tT-GUDzpE9LURUbljRLHBp3G0tyLy7cl1Jd8cRYzu24EwDkB0KfmAsTv2AQz6RSBj7GF4OaJaxahV10iUUVePjgie1p",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJLednJyGLK4gRFDKmvsxPepY",
+    "plus_code": {
+      "compound_code": "CHJ7+C3 Kitchener, ON, Canada",
+      "global_code": "86MXCHJ7+C3"
+    },
+    "rating": 4.5,
+    "reference": "ChIJLednJyGLK4gRFDKmvsxPepY",
+    "scope": "GOOGLE",
+    "types": [
+      "veterinary_care",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 607,
+    "vicinity": "1500 Weber Street East Unit 4, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4690377,
+        "lng": -80.5163931
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4703216302915,
+          "lng": -80.5149752197085
+        },
+        "southwest": {
+          "lat": 43.46762366970851,
+          "lng": -80.51767318029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Buck Animal Hospital",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107661127453724612890\">Buck Animal Hospital</a>"
+        ],
+        "photo_reference": "AeeoHcKHx6CF5-uijsG8DG__rTKHlYIc-Q90m6XhTAXZVPLRY-sQHcmaVCOg59CuJYfEe9jZVkDFJbKdce-tXARg8y9hBa2P0j2WdHFpR8JjoOy0w_CbjgHHQHfZFfq5X3a32g_rg8_s1LZ2AL8VbWrhOGe8dLRETUlwdJDuEhU_6rIMqOOPQs9ha5RTT3JQij2fOkk6lnw0xp-cN1QRqpu1JTya-NnPpMRVdCUIXa8Z1kD3yNSPR0Hbs9ICKQe56H8tx-Mlr-0Lv1nJQiauTxN-yct0qmZLxLtqg5cwpg9_Gsy4Q6x3RaP7KC56euQSUXTlfgeKYgT8osc",
+        "width": 1536
+      }
+    ],
+    "place_id": "ChIJAVvg6nL0K4gRzA1gOIsMr70",
+    "plus_code": {
+      "compound_code": "FF9M+JC Waterloo, ON, Canada",
+      "global_code": "86MXFF9M+JC"
+    },
+    "rating": 4.6,
+    "reference": "ChIJAVvg6nL0K4gRzA1gOIsMr70",
+    "scope": "GOOGLE",
+    "types": [
+      "veterinary_care",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 390,
+    "vicinity": "66 Bridgeport Road East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4531461,
+        "lng": -80.5529238
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4543089302915,
+          "lng": -80.5514660197085
+        },
+        "southwest": {
+          "lat": 43.4516109697085,
+          "lng": -80.5541639802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Waterloo West Animal Hospital Professional Corporation",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3334,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101939106605107171023\">Waterloo West Animal Hospital Professional Corporation</a>"
+        ],
+        "photo_reference": "AeeoHcIdtYNRHiPd06DFkaUUymAXlxzLqTzMN7qLM6kVDbk_6QBpxl0TRwr_QDjriqMxLccFouR1Sz-rbKTBpR2n6gNngWltzxLzOrIQ2q0JFdyiq86Yi_ULp555ex2hm0J2LZ2pee75g9-BMyrcH2aJtQ1TduE7u2BRIFuLMIydE4sqcL3ghjhMi9KI6zfQqJ41PpvoI8M8-fryxi2_Y1Dh084LygNd0L8g0sI9-jOz91jJ0G7stOQU6mdO4UUas61HL94PZ_osrZiyu5hf-qsvqDn4k9E8ZCr8y54IZkhEXRtMNXWfzeuKNaAQ9y7y-qu5_Ib49HSh864",
+        "width": 5000
+      }
+    ],
+    "place_id": "ChIJxyP8IJr2K4gRUMaBUrPysC4",
+    "plus_code": {
+      "compound_code": "FC3W+7R Waterloo, ON, Canada",
+      "global_code": "86MXFC3W+7R"
+    },
+    "rating": 4.4,
+    "reference": "ChIJxyP8IJr2K4gRUMaBUrPysC4",
+    "scope": "GOOGLE",
+    "types": [
+      "veterinary_care",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 632,
+    "vicinity": "414 Erb Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4620959,
+        "lng": -80.4620494
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4633238302915,
+          "lng": -80.46062251970848
+        },
+        "southwest": {
+          "lat": 43.4606258697085,
+          "lng": -80.4633204802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Blue Cross Animal Hospital",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109313847821078297240\">Steven Thomas</a>"
+        ],
+        "photo_reference": "AeeoHcLbxigW8_it2yq15qtEsizFeq8ZDYW1TNeYvy6UD-qT2mfUtEW8S9igFYICvXAUHe2snZ6CzJZqcNudzCIwYoy1DVW2ga5_N_nMEpE7eenxrViYxgEvAd6l2bz1BqHmcaf6V6-6oi2lARg9uemQgGYLDiTkEl93w-BrJdIkQ4ZeuXSsxi9U6F9s2hHHLI40-BkbKEAfbYfDHQcBXDvJxs6nwCSbjKMyIMsxz0A0z-hUNMwL7CoQS8lT2tpVDmC8MF09uDT4FWn4ofihL-IcVdC9tdBdElv07qmqFX8YS0j40Pd9v3RjzO2eOEVC3AtvRaLzO7DPh3FCfCEOLoNd0BkzAY-zEmf3BM3x0ZozqzG-MeDsIZylnIo5gcg2dvwFRSi7ktH71FPDpAS9FiT0FcuYLJXCeTYVVXnbdZvNT05hNj_7f43mx-8gTSyq1bllZ9mlJOy3adWYw6A9VDDpnP2zpjUODjlCBYS30sMQinVH1RPITZ79D1UnEyMPJWazQDCcRES9OVL39tAbm9lOI2TqLWgJFTsFpxZQZjsBwXw0TVOBG9fA-lI7eVdBd6O7A5syH-xblKPHU--kvgAtYSGd6V2qFhuaOV5Qgg3y6OVsUItTcFQIQriJhZa6Tx7EsX31lw",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJp-iui670K4gRLsR3eSv-QrQ",
+    "plus_code": {
+      "compound_code": "FG6Q+R5 Kitchener, ON, Canada",
+      "global_code": "86MXFG6Q+R5"
+    },
+    "rating": 4.8,
+    "reference": "ChIJp-iui670K4gRLsR3eSv-QrQ",
+    "scope": "GOOGLE",
+    "types": [
+      "veterinary_care",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 197,
+    "vicinity": "734 Frederick Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.49645949999999,
+        "lng": -80.5840745
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.49782863029149,
+          "lng": -80.58259721970849
+        },
+        "southwest": {
+          "lat": 43.49513066970849,
+          "lng": -80.58529518029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Laurelwood Veterinary Hospital",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1463,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113730630804131763773\">Laurelwood Veterinary Hospital</a>"
+        ],
+        "photo_reference": "AeeoHcI1Xen0f1939fqv-NISEQ7L3b5kdRIo10HI4GkQG5z0SpNGWmpGJpKydthblhhciP038IY3wH-ZwnoW1AG-jEnWXIJ-sIG6ecegK6MhJOH5xPuueBI5ej_Di7zBIcmveNInivDcrbjDFrAg6J7TvnItHgwn7JMjm7lvhVCqUJOVk0R-lawBeSzrcAdJYgTG0B-0ycqaJqQCXo2LhqJ2d4TdQxYzbtVVuJdjshARt9EZU5l38nPZq2uIAM3XrsCa3hvx67zQyYGhPTgekyDK1xPa6t1cFQzQH8jMKGvWaJbMWEXDSe4-zB6i03yvi0JA_gcB0eIKc1Q",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJQXFpf8j2K4gRVsch3TaWI9I",
+    "plus_code": {
+      "compound_code": "FCW8+H9 Waterloo, ON, Canada",
+      "global_code": "86MXFCW8+H9"
+    },
+    "rating": 4.8,
+    "reference": "ChIJQXFpf8j2K4gRVsch3TaWI9I",
+    "scope": "GOOGLE",
+    "types": [
+      "veterinary_care",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 274,
+    "vicinity": "515 Benjamin Road, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44479030000001,
+        "lng": -80.5213696
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44625093029151,
+          "lng": -80.5199827197085
+        },
+        "southwest": {
+          "lat": 43.44355296970851,
+          "lng": -80.5226806802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Mitchell Animal Hospital",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1152,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113823379312038429688\">Mitchell Animal Hospital</a>"
+        ],
+        "photo_reference": "AeeoHcJEjcBaVEI07CG07g4pfSCpKGikNGUEyrMxO1hNbVVUrbSX53sh85_Sd4p6Ft32wHC9K3t1NcFUrWega2vUrIcI2fOl3SBpQ7wbWICO5HtH0hpvRKg9412hKpAQdNRf-Ds89Dq3spgunaV0X7M3FuQR3hDBonml4yZJALe73P9ALzn3Umuedgv93UugOZkiNrPLD7xhqGc1yYdb5fvNwtm5w3A58XDOnlhKQHhkYe8Gf5xn-DEKZyBgcmM9aLVkPMAf-EzE4N3WIN__3kzQrfDNq55nL9JeW8YHjWrM0wGicK40huyPvYcZHvc6l6x9z3Rdcx2dqeg",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJB6l0Akj0K4gR4Aee0tmDMCw",
+    "plus_code": {
+      "compound_code": "CFVH+WF Kitchener, ON, Canada",
+      "global_code": "86MXCFVH+WF"
+    },
+    "rating": 4.7,
+    "reference": "ChIJB6l0Akj0K4gR4Aee0tmDMCw",
+    "scope": "GOOGLE",
+    "types": [
+      "veterinary_care",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 603,
+    "vicinity": "408 Gage Avenue #1, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4235816,
+        "lng": -80.4796587
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4248075302915,
+          "lng": -80.4783248197085
+        },
+        "southwest": {
+          "lat": 43.4221095697085,
+          "lng": -80.48102278029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Clark Animal Hospital",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110992696483525329775\">Clark Animal Hospital</a>"
+        ],
+        "photo_reference": "AeeoHcL_ffwDFoxOPfm4XlvbloKt2jwX6xnI0PRBQQsDCDMA8AE9exjvdw42A1xu3ATxOHRcbK_xUZEExS92kChnOKhWytDr8rjUZogRgmVG49UxUHNTIlb8EHuKgImCmC568fqogfwZs6z9CFYaEPfUwAUkGWrw9wtC0CuQTrhvbRKZKAvXKqISARXWttrsiNXEv6H5i72iWL-JeRBWXEAs46b7fAQFQXtYnI6e42eEmrLXyKaLlXmYI3Qujbv1lWRuhC8rtHuw066eaQNeL1n9MvhmYFGmKZZWAHjlVeRirchfpX2KOm0PII6i0UHVGT2YcWtXNb-g",
+        "width": 705
+      }
+    ],
+    "place_id": "ChIJEwjOLxj1K4gRJJlJEhwi6JE",
+    "plus_code": {
+      "compound_code": "CGFC+C4 Kitchener, ON, Canada",
+      "global_code": "86MXCGFC+C4"
+    },
+    "rating": 4.8,
+    "reference": "ChIJEwjOLxj1K4gRJJlJEhwi6JE",
+    "scope": "GOOGLE",
+    "types": [
+      "veterinary_care",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 314,
+    "vicinity": "130 Alpine Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4840253,
+        "lng": -80.5398195
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.48535723029149,
+          "lng": -80.53851876970847
+        },
+        "southwest": {
+          "lat": 43.4826592697085,
+          "lng": -80.54121673029148
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Parkdale Animal Hospital",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1365,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109415910658452673477\">Parkdale Animal Hospital</a>"
+        ],
+        "photo_reference": "AeeoHcL-StGGCdDPtU0vJIBVTjsMb-6CJOdwc-uTnO65AbzQ0KxbXBYu76dLq_TPFF8wHt1UQdyVPGuoZmW4Gzt9-zBJxgE8pLutMAIIFCOcZ6Daj7CoLgzSVpnzA-4LQRIz2-BsJwR9WloOywaWCdu7LTgOlqR-LJu2oFyPVVFaBSa2rGYhyl54YEuPUKQi7IZg7xpLWhy5A49Qf7brQm-0zhg13Lgz9yzlxSTEQqDk9I7d5k2cMIj9SZi9-5fPhdhi2xsjwFh2DjrTLEB2za0vtZdFsqeBSlGp9DVK0FNpwRormLHYnzDf0DwFAtnKcgYTAVToI5mkoAo",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJHwX6t_zzK4gRSuTZK3PgT-M",
+    "plus_code": {
+      "compound_code": "FFM6+J3 Waterloo, ON, Canada",
+      "global_code": "86MXFFM6+J3"
+    },
+    "rating": 4.8,
+    "reference": "ChIJHwX6t_zzK4gRSuTZK3PgT-M",
+    "scope": "GOOGLE",
+    "types": [
+      "veterinary_care",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 329,
+    "vicinity": "470 Phillip Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45006749999999,
+        "lng": -80.48302389999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4513645302915,
+          "lng": -80.48171951970849
+        },
+        "southwest": {
+          "lat": 43.4486665697085,
+          "lng": -80.48441748029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Cat Hospital Of Kitchener-Waterloo",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2664,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107438741693273227398\">Fran Olmstead</a>"
+        ],
+        "photo_reference": "AeeoHcJ6FKXccorNhnE4qUu8UBL1ZkLB750JYAmUkmwoyFxA3Zy-k-3E9I0NOuNuLXZhe84PpGUqrflee6g5I4Ycb4xYig0_BUNmJASp2EYxTWLI6EYXbLdAXq_JIKBUnaMb48P_NPbz3fEhfpzG67GYuqtWMVz3baBs7Pz3zyky-qReCYKiE0cr7yVPaxjOnIYck7pXmNF7fAXetXFfkqCXbacMtkEi0YyRAhL6ajtbT1dpIqCbQm8SQcNKgv0ry9T4Zg0jYKsnbGmO7vuxR5GsaNup9g8SlWoEww8DvUtY9L1L_Bi4ZlFTM2pq8VXXrFnwa_enHSWJ1KRmocHkiQ0xqkb2sy1lguw4vPE9aD45-2UV8DpahilYkQtZIcY0_5RKfdGlTlVTDP_yh-WcO9XR71-q67-SynvknRc5bmGNMFxCpDsnR_WwXGZUiyYARZ0JwbGfwtWuJ4qzYQiq63EEQL74qt5E-hCrVeQkKxt6_d2iE6rsreJBoeaHD0nt2GnDpKEk-D5CuPFmq5IqY1Dqn1tqC9FeuzTv50aS0asgwKelTO-2o9yNYEdUA7WStjBe3css-CQmrlqyi1lP0ZxAze6Gyc6820tnxsh0zUux-DtdDHoyn1VW_IQaTmaW4aFwtBflBlcf",
+        "width": 3996
+      }
+    ],
+    "place_id": "ChIJVR8Lm-z0K4gRqWIvR0EDOyI",
+    "plus_code": {
+      "compound_code": "FG28+2Q Kitchener, ON, Canada",
+      "global_code": "86MXFG28+2Q"
+    },
+    "rating": 4.8,
+    "reference": "ChIJVR8Lm-z0K4gRqWIvR0EDOyI",
+    "scope": "GOOGLE",
+    "types": [
+      "veterinary_care",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 101,
+    "vicinity": "86 Weber Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4030797,
+        "lng": -80.4783379
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4044026802915,
+          "lng": -80.47705136970849
+        },
+        "southwest": {
+          "lat": 43.4017047197085,
+          "lng": -80.4797493302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Close Veterinary Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112917122787300057829\">Close Veterinary Clinic</a>"
+        ],
+        "photo_reference": "AeeoHcJbx2BZu3w0pK8vyabzfw0G7PZrjkwti6709cSPHPDXjdUIifQt53UjWwH2-Ards66LqqVwIEnznxzvbQVUNKHze-0fEqzJ3ctFL9X6V2tiWGK2rD93IanToCqnQ5nIt3TUVatu9sRQZGr5fTl9HJgEORlWHX-a7Fwp24BFOQUSiABiYjOhNosYnCjaI3w7A02SusaTHawqSd2Q3L59y0HdKY-DQJIlK1wHsVMLy2kRdklgDZAF3C5BZLA7Srrqyoookuqz1JVnOtn4YTq3xzItqm4n5AAZvPXneF1_0th1xNMRlOsVrsYKaYY8Z2hx6GAol-g_cqk",
+        "width": 1019
+      }
+    ],
+    "place_id": "ChIJVTAXU131K4gR3s-wsAB4bQo",
+    "plus_code": {
+      "compound_code": "CG3C+6M Kitchener, ON, Canada",
+      "global_code": "86MXCG3C+6M"
+    },
+    "rating": 4.8,
+    "reference": "ChIJVTAXU131K4gR3s-wsAB4bQo",
+    "scope": "GOOGLE",
+    "types": [
+      "veterinary_care",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 648,
+    "vicinity": "162 McIntyre Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4256441,
+        "lng": -80.43782
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4268468302915,
+          "lng": -80.43699386970849
+        },
+        "southwest": {
+          "lat": 43.4241488697085,
+          "lng": -80.43969183029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+    "name": "Walmart Pharmacy",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102800765732473548595\">Alejandra Batista</a>"
+        ],
+        "photo_reference": "AeeoHcLjfqKchnkrLrGPlCHKk_OIya3AcK_TrwoKyN-AjJL5aXdG-6zTU63ORgsktcTSaPRfJEtf6KTI19mVnfdJn6kKGA92B_Rxbp3IGhHT39TOEpi-86l7a5Qo0Y4eccYk7-HUT4FnWGNQf6gmHRC5ZWoZnUNqYfebt03pa-JuLESGwkJeKbF9uWSFefLg3-XYVW5Jk5YzPdSjykk9UNWY_ZrDX2BGBI0g_jj3OrnAL2kD0c74tu45o9jl_eHrlzrKxRmS1DJuOLelTyAzueFo97wYHTUI2ud0J-96WRgrKzPboj56Eci6oCEmaMKNnJYtSBFH-Q3KBfT2y0KOtrgfKllRhsQDpzVwWXJWsmTN69L7yRXsS-w7dSY_RQXAz6FEdq38HHUQedfI4HHpn89U_Vz7BXBrl-Nj4zsoFZ-umq3FsiiVJl7Fa9ALo--urARPvm2c0elP4uv3EP7w8sxNskDbMcnj0AkMASGHPAyPKttw3XiBCI4akbWXPRcLqjfCovWbsw1u5murOM3p5n22NlH5CKmZHGk1ZnLamOduPQAWgRGopWj4-zhRcgjsg3rbDk2XqPPlB5E7sIWJuwi4WluOey-ZPQn93c17OM1UPzvbfHNj_I30Lx8ZSQO5TuMi",
+        "width": 1440
+      }
+    ],
+    "place_id": "ChIJq6qqWtmKK4gRxT4Pz6lBtAU",
+    "plus_code": {
+      "compound_code": "CHG6+7V Kitchener, ON, Canada",
+      "global_code": "86MXCHG6+7V"
+    },
+    "price_level": 1,
+    "rating": 3.1,
+    "reference": "ChIJq6qqWtmKK4gRxT4Pz6lBtAU",
+    "scope": "GOOGLE",
+    "types": [
+      "pharmacy",
+      "drugstore",
+      "veterinary_care",
+      "health",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 37,
+    "vicinity": "2960 Kingsway Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4408214,
+        "lng": -80.5062049
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44211943029149,
+          "lng": -80.50482236970849
+        },
+        "southwest": {
+          "lat": 43.4394214697085,
+          "lng": -80.5075203302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Highland Road Pet Hospital",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106727426089603504727\">Katarina Petrinec</a>"
+        ],
+        "photo_reference": "AeeoHcKw9LV0LXBjBODi1dj6CwsqT_tx2x93KiRnv6n4svqHUMNIjrUvyxCZ5hnvCiFjXchs6N8ssDzuD6Oy1MsvxoHW36HJAKol3lT9Ofuja3DmSzMhgAcpczWj_BFm3Q-SM_EoJvetnjaxJUIOIfuaA2OKqYDwVNCrdodNNQKFclpqX9F41bOF1ip242lRJE4yEMAsBzGKnL9FV1_usIGKycP2uU0es0dCYAbkhjJEZ5dgC5UQDo5C_8w32MpKWD5hKE-bpM29RnLGlgFwvn0HYgKWgnMq1U9Jjl6i-oWej7LzBz6MmmO72V6nyAaHtj2KU_jzsL_irpKD2UItj0_HlYaAItCOF1YZvnuYs-8EOL273Aiqv3XGhisQiUqDpEe9afzlQM7oI9pvqldQYO79-41cp5DzQucUGasn_uVBJft99mcBr182dXwDB-97XCgkKFY762x44XmDOfbRY3fWFKGmZGyECiXZ1twalngqdxHNFvN3ZBgxSvhKqW0pxZRIxHwWpgoAFSAmJrfhC_zxLSJ-OJA2HjPQhIfhwP07VRzX3VcvMWItg7eW5Ds331HEBSgtSAxWFf-JFVyJPfza1r3siJWH9ritDT3-FH59NHuw4Gr1ekWc1yCj_oT53kciOnFC2Q",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJyxHkOFH0K4gRBEfKncepm_I",
+    "plus_code": {
+      "compound_code": "CFRV+8G Kitchener, ON, Canada",
+      "global_code": "86MXCFRV+8G"
+    },
+    "rating": 4.2,
+    "reference": "ChIJyxHkOFH0K4gRBEfKncepm_I",
+    "scope": "GOOGLE",
+    "types": [
+      "veterinary_care",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 150,
+    "vicinity": "200 Highland Road West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.418191,
+        "lng": -80.4536825
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4195406802915,
+          "lng": -80.45251066970849
+        },
+        "southwest": {
+          "lat": 43.4168427197085,
+          "lng": -80.45520863029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Manitou Animal Hospital",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 575,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105716771649719286341\">Manitou Animal Hospital</a>"
+        ],
+        "photo_reference": "AeeoHcIKeTWc9KDbQJYTBjuzG9JNJ0wu_S9EI6oz33HpRrfskyt0-bYtlvrZzOI3G9sWbH1giqGwHQC5zCnHUl1Sp9aTCTpXgCOQwkkYWBXfMH3QrD69SnyTGStxj265jZGl17YZk7eHgE79mFrUHjrGXhW8TdFkZ5u-nmMrRk9gbVo0YTPBct8rPRMw3V78JGTMtqKNh2EoAT8F4pVAuFklk56ZFThAZoVHws6-ecgBJbuzRuSgvn-E7hPTm2dEQsFJ41IvRfsnbPEWPKiclUi_1-PyHEyBbzF-cGTzTDQTleN-TTmP0D1GHpOJI3kCK_yKimXGLBftB6w",
+        "width": 1024
+      }
+    ],
+    "place_id": "ChIJg4EvGc2KK4gRzzRiuTb-FlA",
+    "plus_code": {
+      "compound_code": "CG9W+7G Kitchener, ON, Canada",
+      "global_code": "86MXCG9W+7G"
+    },
+    "rating": 4.7,
+    "reference": "ChIJg4EvGc2KK4gRzzRiuTb-FlA",
+    "scope": "GOOGLE",
+    "types": [
+      "veterinary_care",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 416,
+    "vicinity": "Unit 2-3, 5 Manitou Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.48044199999999,
+        "lng": -80.4193895
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.48184863029149,
+          "lng": -80.41809231970849
+        },
+        "southwest": {
+          "lat": 43.4791506697085,
+          "lng": -80.4207902802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Breslau Animal Hospital",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 713,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101133513143654534998\">Breslau Animal Hospital</a>"
+        ],
+        "photo_reference": "AeeoHcJY4ZbfWiqv1agBnZU1NXXKrgrSqZfggKD1zvbY-95PfRutUx2WQz_3Yc27T3Q0s1ERq3d6Bxg7k4n4Pjkut-8BwhPt8byAJWTFxW69nDQWp-Px8nZ1mR2EmfpYR8lZc1-aQLGvLudSezjKW6SdefwinFi7ELhqNBefLyR2o-Dl-K1YT9a4YLxHQldB86vwLzmstgQ-uVB-ubyI3rnGt4rpC0Mr0JpRVmWhjKOgKB10vvFzZpDpw4-3V_icb7kQaodcYAxbIt38ijSpgWFz5gfmNMqPUb0TVVnp-L3H_HaKcv7sVkd0FVHylrRgc6ij1Pg6gIIR66g",
+        "width": 1132
+      }
+    ],
+    "place_id": "ChIJwQZ-xo2MK4gRH31XBw0qNAI",
+    "plus_code": {
+      "compound_code": "FHJJ+56 Breslau, ON, Canada",
+      "global_code": "86MXFHJJ+56"
+    },
+    "rating": 4.8,
+    "reference": "ChIJwQZ-xo2MK4gRH31XBw0qNAI",
+    "scope": "GOOGLE",
+    "types": [
+      "veterinary_care",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 275,
+    "vicinity": "2057 Victoria Street North #3, Breslau"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4386435,
+        "lng": -80.5245388
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4400605802915,
+          "lng": -80.52308621970849
+        },
+        "southwest": {
+          "lat": 43.4373626197085,
+          "lng": -80.5257841802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Animal Hospital Of Kitchener Waterloo",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108324163100588676835\">George Mastrapa</a>"
+        ],
+        "photo_reference": "AeeoHcIZJ6m-OBkO-5lOp2dYO19M7_xy9litXXmlCAn8OyNE4X5wLskMjlgmmtp8p3kilZtzSbS7CGqNl-rZC7wUHLqDQ79wEyyiX8s9p-zAHp_oIs13OQBhG_wuqiV3ju0Cd43Tx41yQ8n6Dsmc6sFqgaXVkihcU_wgT8KoV8T85YjpFL8oLkHRKZYAg4L6oQ6CtJngBExrRtTlPS6384tUW-Nf6cloDc0xL9kgofy1sgC_6y433lCw5RgM7sa8qil2TNzTNTkzmT3HSS0T7MykpkwvdeTHbXvpylyn7ekNC9HvK2FFaY33xh6U142EabLjPeVtRqvoL7UBBqoAZhPpb3OKt5DLkDvYwC4WeuIwMnNLOw-sDIPf8kXPC2q86lR0jrGI3VNg76ARyXSgPM_tYq7bdp_qYXHCasIOeF0n8Gr5IccDlvIyAEwQYH8YpLCQJwFejnbp8aArjoPjkjVMk0UnvfKJk2jY5lYssWIjeA3agajN1RiF8nV8y8x1whAZfMc1fdLSePiYc3WrPjIgAKUw-EtW9RELQUkreN3HLD6OzxqWKP7ScEOUcfX3k7e44sLE_mJk7cqa4jYlvB0eLGmt9kNZQoSG7Yt9SO0oue8yqjmYMo8h5xXT6gIKtE54CCck9cJ2",
+        "width": 5184
+      }
+    ],
+    "place_id": "ChIJ_1WeqTX0K4gRJ1wTJlE8Vok",
+    "plus_code": {
+      "compound_code": "CFQG+F5 Kitchener, ON, Canada",
+      "global_code": "86MXCFQG+F5"
+    },
+    "rating": 4.5,
+    "reference": "ChIJ_1WeqTX0K4gRJ1wTJlE8Vok",
+    "scope": "GOOGLE",
+    "types": [
+      "veterinary_care",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 213,
+    "vicinity": "15 Hazelglen Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4608617,
+        "lng": -80.44078809999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46217498029149,
+          "lng": -80.43938696970851
+        },
+        "southwest": {
+          "lat": 43.45947701970849,
+          "lng": -80.44208493029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Heritage Veterinary Hospital",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114267536529390935465\">Jessicca Smith</a>"
+        ],
+        "photo_reference": "AeeoHcI9fTrN4MDAQMSTL8cVTKfTsc1kUJojINIgB6RUrDNe9h47wW3_u7hjagSJRP2783xB5BdZd6qbmI6CRoSTOtothWbRHYPrLeP5Kl_Xs4omKT1mYYpOokRYeQiRTHl73JvLRydfmZ70c7NGuxhbF49Bx6WgbhPSr6PQCMwP_HHqlgR9gWVKcX6y0JirFgOZfrBO-tegUq_ouSoWEv_pCFWwUxBpjW6HarZxdfLmgDiE5MXxOEhh0zc_xQIKOEadzGphWSxud5EeCvw_OpiFJtnE8S55qzyBxhGkBywvO1qnzml-a2xdb1gdqYs3mNOp-PZeaPqToQkK7nAFwCagSvFQuoPXgXXzPXrJ1Yvz0R5z4ZdSy3wfjFcrcG34lU44AqQlaatQ7hDDet382fCP2zxhCYiwRVaMnNm15VkQCm9offrWrG986GrIEa0_SiyEs2iUo1k6PAREr8hNwxyKkx3p-rM3ptCT-_Ja6sxT9nTiWyWZsmUIIqn5bRQkzSJLRAFV_Adk452munUHzYv3ix4UaSCjCabBYLiBT87JN6Vfzt0Jd0eXBuWeXaONOZztjkMmvb8DXiSxhopzHixYFLC5GTP7ck_P-9ffJiej4OBIPnrd1REO8UtujnnZtNal23OIaUZw",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJE3zh9VqLK4gRzvCnZfDlLBk",
+    "plus_code": {
+      "compound_code": "FH65+8M Kitchener, ON, Canada",
+      "global_code": "86MXFH65+8M"
+    },
+    "rating": 3.8,
+    "reference": "ChIJE3zh9VqLK4gRzvCnZfDlLBk",
+    "scope": "GOOGLE",
+    "types": [
+      "veterinary_care",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 84,
+    "vicinity": "200 Lorraine Avenue Unit 7, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4692213,
+        "lng": -80.4798845
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4706532802915,
+          "lng": -80.4785877697085
+        },
+        "southwest": {
+          "lat": 43.4679553197085,
+          "lng": -80.4812857302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Poultry Health Services",
+    "photos": [
+      {
+        "height": 3264,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103869913495022666364\">Adnan Nazir</a>"
+        ],
+        "photo_reference": "AeeoHcIiuDg1S8TPJle6bHVlbvqHWvKs2DDtsFUXJtXuddEMEQpSnr2iz1KMoleJpfq4GS7r31IES1Gx9WQLwk0rduXUcNZmUIStiUgoMMyxB5OEQEBU-tHPBXF9j87HhOB_e31sk_1LaAlp6-k2XDQugOo5uQZRjMXDURCROjs0WK1QLq21ZTtJwEMERlwZPbaGTsc0zWfgcOnXWa_pBz5vwt_BfSIh3HVFBA58MEEb3BjizH-72zK3ZmPt5I7NuthWa-TTqkqYeVDcx5oXKCBuvayCf3qqdyQje3usAXZEC3d4cVSEHkyeymA515vBtkrA5VGi8V3y6soAhzxoaiVriu5XxttC_C9cpgIKm3OHBKYmiwAdnVm2MvYxfabK5EOLbwNup_2rpqe9XcEyQ9ZzQ7gtiK2WaSQyJNCWe5xmuBpDHNGYJkg_TIiHfxy84rKhwylkF6m5N3IXyA6-m0SDKqxdKKWAuFKsvm9Nxu3XJp0tgspZ5lmdICrxRqB1ppXFeTnhJrjJZNTfu63dhqJ9iJRgdtRBi8aMZg4TTDFStEzCAEj-ba_X5VRCqemAW-Dkex-61f_5VAKSzWirmC6RihB7mg7oPUMOJDORsGTcCTX5s6pJTpZpUpeOwAn5BUN8n0EBqA",
+        "width": 1836
+      }
+    ],
+    "place_id": "ChIJW2v82JCxLogROayJO91lYes",
+    "plus_code": {
+      "compound_code": "FG9C+M2 Kitchener, ON, Canada",
+      "global_code": "86MXFG9C+M2"
+    },
+    "rating": 3,
+    "reference": "ChIJW2v82JCxLogROayJO91lYes",
+    "scope": "GOOGLE",
+    "types": [
+      "veterinary_care",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "237 Arnold Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4691841,
+        "lng": -80.4798292
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4706390302915,
+          "lng": -80.4785473197085
+        },
+        "southwest": {
+          "lat": 43.4679410697085,
+          "lng": -80.48124528029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Smith & Weisz Poultry Veterinary Services",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJOUBWA3iEK4gR3ddnhv3HnLo",
+    "plus_code": {
+      "compound_code": "FG9C+M3 Kitchener, ON, Canada",
+      "global_code": "86MXFG9C+M3"
+    },
+    "rating": 5,
+    "reference": "ChIJOUBWA3iEK4gR3ddnhv3HnLo",
+    "scope": "GOOGLE",
+    "types": [
+      "veterinary_care",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "237 Arnold Street Unit 4, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4938588,
+        "lng": -80.5364228
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4951601802915,
+          "lng": -80.5349657197085
+        },
+        "southwest": {
+          "lat": 43.4924622197085,
+          "lng": -80.53766368029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dutton Drive Animal Hospital",
+    "place_id": "ChIJz4LjT4_zK4gR39_TMOc9kXw",
+    "plus_code": {
+      "compound_code": "FFV7+GC Waterloo, ON, Canada",
+      "global_code": "86MXFFV7+GC"
+    },
+    "reference": "ChIJz4LjT4_zK4gR39_TMOc9kXw",
+    "scope": "GOOGLE",
+    "types": [
+      "veterinary_care",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "490 Dutton Drive 11 B, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.41751689999999,
+        "lng": -80.5348271
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4189531802915,
+          "lng": -80.53368851970849
+        },
+        "southwest": {
+          "lat": 43.4162552197085,
+          "lng": -80.5363864802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Westheights Veterinary Hospital",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2208,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105286835557038901727\">Westheights Veterinary Hospital</a>"
+        ],
+        "photo_reference": "AeeoHcJ4XVrtIKZNPQbkILNGjfN0EbbEvLTC4HG2Rsu8MZo6mhC5QGIlvxDZZLH_0lXYJV59sPag6Y1lOoLgUiXeFCrP9IRF9TlafTQOnZfpGaA_VPIuLlcxk3gKv_LjUtWRqPkWQayITCRbtp--O5bWKf7L4eXar_5ax4U0_2X_QKyqf2234kanckvitW5mM2-2rWRasv1rx0ai72cTiO8NmOXBRDNCrzuxaDA9fkRXYLE_bLGe16v9r0FLhJeccbaXZrsenmIO51no_WlmVyje_8WtODAH_IKmncPiQQeUEm2SlJkESZuMya6cQqh731Xn2NB2vTLlOhc",
+        "width": 1112
+      }
+    ],
+    "place_id": "ChIJ71qucN31K4gRNaHc2g0V6uQ",
+    "plus_code": {
+      "compound_code": "CF98+23 Kitchener, ON, Canada",
+      "global_code": "86MXCF98+23"
+    },
+    "rating": 3.9,
+    "reference": "ChIJ71qucN31K4gRNaHc2g0V6uQ",
+    "scope": "GOOGLE",
+    "types": [
+      "veterinary_care",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 190,
+    "vicinity": "Unit #1, 450 Westheights Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4179616,
+        "lng": -80.5000329
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4194123302915,
+          "lng": -80.49877781970848
+        },
+        "southwest": {
+          "lat": 43.4167143697085,
+          "lng": -80.5014757802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Laurentian Hills Animal Hospital",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113970188805510191953\">Laurentian Hills Animal Hospital</a>"
+        ],
+        "photo_reference": "AeeoHcKhlIxi462FYjkb6pQg4TvyFV9d2zQ-v-HJfjYZXEFczoE7xICOIHXKupG9S0Jm8qYS4RoMTiQ5VoH4miUB1QNyTK5vQ9b62KtpdjA18-Q_tGDtwQU6dCf6V5o2dGWl4Tj-ElROZFqKJ86FGl4vM8QYoApcoibSvLcqwtXwHVgICfW1K2cbaroF-0VULVQvECtB354cidbRWT-zGCoQW468aDw_HMO76BMO18jYJndEajPVrfvT096-PHo-0eInBmPqYmgAFi8AsD9qPTQzo74iUpjdjPGIRhrhLpoYPmf2-A3D2UazuFYeZjIsuR9nnJZmf9HdF_c",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJE4KVL6_1K4gRBQJM1bO2Ylg",
+    "plus_code": {
+      "compound_code": "CF9X+5X Kitchener, ON, Canada",
+      "global_code": "86MXCF9X+5X"
+    },
+    "rating": 4.7,
+    "reference": "ChIJE4KVL6_1K4gRBQJM1bO2Ylg",
+    "scope": "GOOGLE",
+    "types": [
+      "veterinary_care",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 120,
+    "vicinity": "720 Westmount Road East Unit #6, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4049359,
+        "lng": -80.500765
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.40633203029149,
+          "lng": -80.4994836697085
+        },
+        "southwest": {
+          "lat": 43.4036340697085,
+          "lng": -80.5021816302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Williamsburg Veterinary Hospital",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 371,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111240770712019356201\">Esther Sanchez</a>"
+        ],
+        "photo_reference": "AeeoHcJ9sgWyh4-P9gsH0-XJlRkK0Qzc4aNEohgXyqvWtd09ryZcAKN5JK6N0gUX13JLRlM8DeNtqS3s1UJA2kvqHa78cnvv0GgNrxICpjFCU-jlVR3PmqVSx3LbmjHUEn5mYgYDDZPh_9dIU0VXMkzq1COaa8DxlhLEmkmZKJ038Avx6s1p3MQNcJMQYVRFVfBqimYuVl8wvTBeWY0aqJVczc45y3k9uPi_Ibh-kzpG8AHkOO1Y4JaMUp_PzgaSeUiHjmLNiZMiH9wKYDd0PVnyZgDYPGKn2lcdF3dg_zZCql9SmEMKPGEJ-da2J_Vq0JEgATi4ncq-zNg2a1GqCQS4xGExipHUoJUu5k2F_mv0OcEz9njx3YGKCVkRgyI6xY5IHlrdj6b64ZD9UFliNLUzZO8f02a6fQarrCSKSlAZ5ksX3fvxMR_EhVTwdyKLc81jPCAg3bzz9xzQpHAA2LvzLDMKt39pVrwxSrhG5ZVQ7qLFw1qyujrg-LkMr5xtssVJVeSSfi9kby3DeP5S-G9loq12og1k57YjTsq4lBHRjvVRWJzJZJgGzGpi-mZdT_5FKGRY_PVVYae2FAjHvox39QHjwxvQco6oMK5JGLTf7APi4kn1a6fGszAvyMfzlT2_vZNlVS7k",
+        "width": 360
+      }
+    ],
+    "place_id": "ChIJgVFc0IL1K4gRvt-vtWotHQw",
+    "plus_code": {
+      "compound_code": "CF3X+XM Kitchener, ON, Canada",
+      "global_code": "86MXCF3X+XM"
+    },
+    "rating": 4.7,
+    "reference": "ChIJgVFc0IL1K4gRvt-vtWotHQw",
+    "scope": "GOOGLE",
+    "types": [
+      "veterinary_care",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 186,
+    "vicinity": "325 Max Becker Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.49645949999999,
+        "lng": -80.5840745
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.49782863029149,
+          "lng": -80.58259721970849
+        },
+        "southwest": {
+          "lat": 43.49513066970849,
+          "lng": -80.58529518029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Heather Carey DVM",
+    "place_id": "ChIJjakC9SHxK4gRiW7JLvt9WUU",
+    "plus_code": {
+      "compound_code": "FCW8+H9 Waterloo, ON, Canada",
+      "global_code": "86MXFCW8+H9"
+    },
+    "rating": 5,
+    "reference": "ChIJjakC9SHxK4gRiW7JLvt9WUU",
+    "scope": "GOOGLE",
+    "types": [
+      "veterinary_care",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "515 Benjamin Road, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.52159770000001,
+        "lng": -80.49831739999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5228606802915,
+          "lng": -80.4970152697085
+        },
+        "southwest": {
+          "lat": 43.5201627197085,
+          "lng": -80.49971323029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Grey Silo Veterinary Hospital",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 924,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101180000632932881401\">Grey Silo Veterinary Hospital</a>"
+        ],
+        "photo_reference": "AeeoHcJ-duTKI0pRF6N5Bj5NCERYQatXlarpLrL9JUsIldLH44Z-HeFGoy5TQsqvjz2xOuLRFFG05PD_7nK2QJ9T6wPj_SdVPwYCjSPG69qhc4NA-Qu2wE9abKz_ug-l8kI3DWaEqfu-yVegJZYgrKgLWkE969nMqsq5RaYAJKt3TqGoAxAOGzl4dWtgmapipvVl9JB0HA2a5pX987MBEovDmJ2649Fh9nKH7GSGjLq_1_ygghI8yVY67bD4aqaa_SfIVgy045_YjtEPNYatc1ZckJe5r8pCnP1QgpYk9uLIlucYjLCQwYZSO72qzUB5efr2lQT4syETf9k",
+        "width": 1640
+      }
+    ],
+    "place_id": "ChIJSYnyf0nzK4gRKjLO0-c6-30",
+    "plus_code": {
+      "compound_code": "GGC2+JM Waterloo, ON, Canada",
+      "global_code": "86MXGGC2+JM"
+    },
+    "rating": 5,
+    "reference": "ChIJSYnyf0nzK4gRKjLO0-c6-30",
+    "scope": "GOOGLE",
+    "types": [
+      "veterinary_care",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "105 Oak Park Drive Unit 3, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.42838,
+        "lng": -80.42219999999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.42983978029149,
+          "lng": -80.42072926970849
+        },
+        "southwest": {
+          "lat": 43.4271418197085,
+          "lng": -80.4234272302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Chicopee Hills Animal Hospital",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 551,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103951076873146521415\">Chicopee Hills Animal Hospital</a>"
+        ],
+        "photo_reference": "AeeoHcJ-9XD2P3LuzEpLW5d40DLwiTB8SMd4wbVvOs1_VBy6bxWAvM4GP2G9xZernmYy4VNvtK_PjP7C6dGxXlZasWEtn-77VsiOU0GbtHyv68Ho_L0XjuW37cUXdnPecu1vgrzksGWassHo4hjkn-y0RTjVOxokVcsdJku6vHTPkdPnJsIsL9jKyA3rw4RFBXVorJO7l8_HQE_LH2RHSpWiuWLjmuu8GlRPiJjwvwgJcDlhGp6eFNFYE2xodN69OfGC3Sl-YBCY3UWiH0pfs6iJqoZ_8Pks43PtNA9uSo_rSnp793FNH__zEXIefBi6Vq49LZWxusoFQUE",
+        "width": 740
+      }
+    ],
+    "place_id": "ChIJX7zBMh2LK4gR6iN1ta6YUYs",
+    "plus_code": {
+      "compound_code": "CHHH+94 Kitchener, ON, Canada",
+      "global_code": "86MXCHHH+94"
+    },
+    "rating": 4.5,
+    "reference": "ChIJX7zBMh2LK4gR6iN1ta6YUYs",
+    "scope": "GOOGLE",
+    "types": [
+      "veterinary_care",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 142,
+    "vicinity": "1601 River Road East #28, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.431583,
+        "lng": -80.448652
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4329246302915,
+          "lng": -80.44728011970848
+        },
+        "southwest": {
+          "lat": 43.4302266697085,
+          "lng": -80.4499780802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+    "name": "Kingsdale Pharmacy & Virtual Walk-in Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1258,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102085785857687948077\">Kingsdale Pharmacy &amp; Virtual Walk-in Clinic</a>"
+        ],
+        "photo_reference": "AeeoHcLlJRxk-bf_WN598ipSsGbXSZZqdn8K70nn6q0Jq2oYn2YeuN-4D4GfwDPfAn1bdGF86iin2avSzAgB46uCEk8iP5XWB-rXGOakE_eve97aCCeXTmNNPq2qokz68e9tL6QgQB3e0vAimLtWp_IXYC8JAkNqk9WgP3tos-ftRWbi_m9rkPQ96ug3cc7tyxkDBv37ihQQnlXaViz_bjyIUL-fN2oj95wxEm1nDcFa873jW8pRH9hyq2agQmHL2g6rx3BFdU8w71z_7kPAmx3jbt6kzDhBp6MXrT3R0y7lVo5tEowi6VcTZWTSnKUjG0XhutwrLZZrWzs",
+        "width": 2738
+      }
+    ],
+    "place_id": "ChIJmePe3q2LK4gR0wI0Jm01rto",
+    "plus_code": {
+      "compound_code": "CHJ2+JG Kitchener, ON, Canada",
+      "global_code": "86MXCHJ2+JG"
+    },
+    "rating": 5,
+    "reference": "ChIJmePe3q2LK4gR0wI0Jm01rto",
+    "scope": "GOOGLE",
+    "types": [
+      "pharmacy",
+      "veterinary_care",
+      "doctor",
+      "health",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 11,
+    "vicinity": "50 Eighth Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.38363270000001,
+        "lng": -80.5208445
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.3850256802915,
+          "lng": -80.51954641970849
+        },
+        "southwest": {
+          "lat": 43.38232771970851,
+          "lng": -80.5222443802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Wilmot Veterinary Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 863,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113155899360027458649\">Wilmot Veterinary Clinic</a>"
+        ],
+        "photo_reference": "AeeoHcIKgH0wvHPT0FCqeweOeu2CcNZYGZyHeF9uVgt17Bw71SSfp2uwSnoRxm-EL-Hu1jlhhGQ5JNTKKJ7aKJoLN2-yj0WaTPzdPgSAFCWVjh1hElStlhUtLffNDew_FMMLWzQukCwSk0LLZYEN-NLAnZax7muOe33kw8JQpCmnbHp1reZBJFHdVOdXFLK0DY1eLC2a5yU7IqlTSZg_CVE4bdt8mni6OJZof-NdDwOUgRzZ6AXGcJpV_9sKp2s1JBEO2cgAwl2qkpFz2PLTgEPyvV1Y9rPVmAe2UoHVXKdwl24l1J6WIjF3Pu2eBCBTaCvAmzLZdAH87js",
+        "width": 1534
+      }
+    ],
+    "place_id": "ChIJJ2MOvGwKLIgRVG0G2QiSTCo",
+    "plus_code": {
+      "compound_code": "9FMH+FM Kitchener, ON, Canada",
+      "global_code": "86MX9FMH+FM"
+    },
+    "rating": 4.9,
+    "reference": "ChIJJ2MOvGwKLIgRVG0G2QiSTCo",
+    "scope": "GOOGLE",
+    "types": [
+      "veterinary_care",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 209,
+    "vicinity": "1465 Trussler Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4311109,
+        "lng": -80.43726439999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4324181802915,
+          "lng": -80.43598881970848
+        },
+        "southwest": {
+          "lat": 43.4297202197085,
+          "lng": -80.4386867802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "East Village Animal Hospital",
+    "place_id": "ChIJ6VQF7LKLK4gRLMhFkIY4zLE",
+    "plus_code": {
+      "compound_code": "CHJ7+C3 Kitchener, ON, Canada",
+      "global_code": "86MXCHJ7+C3"
+    },
+    "rating": 5,
+    "reference": "ChIJ6VQF7LKLK4gRLMhFkIY4zLE",
+    "scope": "GOOGLE",
+    "types": [
+      "veterinary_care",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "1500 Weber Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5187492,
+        "lng": -80.5941543
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5200621802915,
+          "lng": -80.5928114197085
+        },
+        "southwest": {
+          "lat": 43.5173642197085,
+          "lng": -80.5955093802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Conestoga Veterinary Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101284669210988578591\">Andrew Dekker</a>"
+        ],
+        "photo_reference": "AeeoHcI2VGENvshc3tdLi5kM5VswjEsq2qIsyHWhcgubKGlb-1VItjhDbEA3n-zKg2L8tMIpZX2DTNRmWynShcw532NsNSGBW4omjQWpKLt-ltsgtJBOeK0GUtqB_8l3raMYEzYF33rGrhUNecvmamtdLjF6udzZ6pbU_jRVFk2rjbTPYUGJaEWnO-JM725NtkaCiohZcoO47O7iO08vc2L6QAPVr8sXYVriMe8pg7pebAtuoLEMQnV-JJT8n9hcC9uc-3y7IRKT2FtI9xGlfZe6P5eEmgSq0mJr-AbtzF8Dz3_Nv5qPxlwjEoPvkf7yyhg1ZLv0SS-j8Zs6cdOVvcGDu6mWY_QP2SBLdbhNt2W-4L2Bi7EmRDmTfDcqgJgPVE78axeMem93HbfPyuiUlexQKxMvIzlWbNOOkuJ8K37j9r14eqyy-Lhma28jUdOBkggoBttkDVpThI-BZVFQVe-dZuv4E78giP7uxbcNyTjgobm9q-OpBdODMaJ2sOiX3oHbrFUpxF0vOJSbVepkAW5oInXb74AQl9D5pe4knYaqRdk3mN0GlEUGYb5JMN4pIfZNgpth6E__C5fGZZtPEREOoI_a0XexDcd5kpuowVL5RUCTpmfV1Z5QQMbDK8XrJl7CAtw3Mw",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJPy2XhlXwK4gRpUdaANYNulM",
+    "plus_code": {
+      "compound_code": "GC94+F8 Waterloo, ON, Canada",
+      "global_code": "86MXGC94+F8"
+    },
+    "rating": 4.6,
+    "reference": "ChIJPy2XhlXwK4gRpUdaANYNulM",
+    "scope": "GOOGLE",
+    "types": [
+      "veterinary_care",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 43,
+    "vicinity": "1001 Durst Road, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.3963012,
+        "lng": -80.46362309999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.3976073802915,
+          "lng": -80.4621958197085
+        },
+        "southwest": {
+          "lat": 43.3949094197085,
+          "lng": -80.4648937802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Huron East Animal Hospital",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1152,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102863391394042337970\">Huron East Animal Hospital</a>"
+        ],
+        "photo_reference": "AeeoHcKsEAZ98S6VHXc39vkV2LxBr4paqACk0DfNFGDN65YEBqw5Pf5uScmosxOgmi6ssHEyYf27CChjOf9BpBHIbC6QPgVNPSiueM8K1xXoQ4YtFA4ktSHN5xYegm5yJq7eJlCQC2w5urqfRNTk3_06bdclAB72YtWQfsJdeXvo7ocQGV95F8wWQXQNfdNtn2KcY6-56r95Yj0uRRi1wgj0_YE1_6k1UiV32pgxdI6nnlvTN4o7tW5YNzuk_PBtMcleIMU6ObY0t7WYs51kmIVZZUDQk4IL2D2Zo-DCQCE6HJvEpvKLahBFwHKwT3Sx8pVQUf_XRIHFQi4",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJOSMP31b1K4gRIk-tZZVwLuc",
+    "plus_code": {
+      "compound_code": "9GWP+GH Kitchener, ON, Canada",
+      "global_code": "86MX9GWP+GH"
+    },
+    "rating": 4.3,
+    "reference": "ChIJOSMP31b1K4gRIk-tZZVwLuc",
+    "scope": "GOOGLE",
+    "types": [
+      "veterinary_care",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 157,
+    "vicinity": "Unit A4, 1606 Battler Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.42836859999999,
+        "lng": -80.4219593
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.42980323029149,
+          "lng": -80.42059636970849
+        },
+        "southwest": {
+          "lat": 43.42710526970849,
+          "lng": -80.4232943302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "CanineTech Rehab",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 375,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111826196427308704961\">CanineTech Rehab</a>"
+        ],
+        "photo_reference": "AeeoHcI2A5kaMKAv2qMpgHSjzUNrCuKvi9EiK99n7Ez1NrJERoc3zCiaY42umuV1E8JWCnb5DfaVIdEHdSy0vOfxfYkWyqInffC5kpXLv6iQUyUfTdDH3EzwXXyDK_amCdIfQtwQPhlYKzeY_bHj8donOWwWvOaRJWnQrnHM7T-_3utk0b6FEgQ3UcGr2Z90Au7LdmcaIyylW_oALZurRwMh1vkQSns1I6K22pWftnuPmqitinVM-M_1FCk-8NlNfc_io2GAZmYdIKFZqol9uJvs6Hxsqu6yYjWi_gi7VVJkgwgrGe2kLEjetGm-jRRh1lWdTvO_KtNuqzM",
+        "width": 688
+      }
+    ],
+    "place_id": "ChIJv1H6tAKLK4gRnps6bsWZe4M",
+    "plus_code": {
+      "compound_code": "CHHH+86 Kitchener, ON, Canada",
+      "global_code": "86MXCHHH+86"
+    },
+    "rating": 5,
+    "reference": "ChIJv1H6tAKLK4gRnps6bsWZe4M",
+    "scope": "GOOGLE",
+    "types": [
+      "veterinary_care",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "1601 River Road East #30a, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.38341,
+        "lng": -80.48997
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.38460843029149,
+          "lng": -80.4888973697085
+        },
+        "southwest": {
+          "lat": 43.38191046970849,
+          "lng": -80.4915953302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Westmount Animal Hospital",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 819,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112268075232591488098\">Westmount Animal Hospital</a>"
+        ],
+        "photo_reference": "AeeoHcKrTz7dDAVOnFpZg4yqQ2NdYDHP8JPmUW-fbpgkfW9xKDHY64VtfeWmqQbr7trEO_CXAbvjzHpAmjgrg4PdVBBucR7uGBeG56reo-knxVJ_9uyjhyEH0mee-U-9S7ohs8vLLT7jJxkeJ7WHuYWK2zEH6qSSElCg9RR7Vt6ZmTlgiKWds6qnIMgSQCM1oR6_YMugtcCLPfO3ASGw95rJejHhw4GAtMvEaN3ED0l0aoUeUcOko1n9bvRCI0Yb-nOQn2Pb5oFd8soohN911YQA4COJlZ4QoXpagf9SIr3U7klLO_dRTD0P3yCRM6-s9Hw2XoF4V55iBo0",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJIbw2n-EKLIgResXizJpHKq8",
+    "plus_code": {
+      "compound_code": "9GM6+92 Kitchener, ON, Canada",
+      "global_code": "86MX9GM6+92"
+    },
+    "rating": 4.7,
+    "reference": "ChIJIbw2n-EKLIgResXizJpHKq8",
+    "scope": "GOOGLE",
+    "types": [
+      "veterinary_care",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 200,
+    "vicinity": "1415 Huron Road #206, Kitchener"
+  }
+]

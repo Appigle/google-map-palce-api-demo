@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Landings Campground",
+    "coordinates": {
+      "lat": 43.3843407,
+      "lng": -80.5446504
+    },
+    "longitude": -80.5446504,
+    "latitude": 43.3843407,
+    "types": [
+      "campground",
+      "rv_park",
+      "park",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "50 Small Park Resort",
+    "coordinates": {
+      "lat": 43.45266720000001,
+      "lng": -80.6103668
+    },
+    "longitude": -80.6103668,
+    "latitude": 43.45266720000001,
+    "types": [
+      "rv_park",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  }
+]

@@ -1,0 +1,103 @@
+[
+  {
+    "name": "Bingemans",
+    "coordinates": {
+      "lat": 43.4735004,
+      "lng": -80.4500826
+    },
+    "longitude": -80.4500826,
+    "latitude": 43.4735004,
+    "types": [
+      "bowling_alley",
+      "campground",
+      "movie_theater",
+      "amusement_park",
+      "lodging",
+      "park",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Landings Campground",
+    "coordinates": {
+      "lat": 43.3843407,
+      "lng": -80.5446504
+    },
+    "longitude": -80.5446504,
+    "latitude": 43.3843407,
+    "types": [
+      "campground",
+      "rv_park",
+      "lodging",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Green Acre Park",
+    "coordinates": {
+      "lat": 43.485512,
+      "lng": -80.589759
+    },
+    "longitude": -80.589759,
+    "latitude": 43.485512,
+    "types": [
+      "campground",
+      "lodging",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Scott Street Stayner Ontario Canada",
+    "coordinates": {
+      "lat": 43.4638357,
+      "lng": -80.5354239
+    },
+    "longitude": -80.5354239,
+    "latitude": 43.4638357,
+    "types": [
+      "campground",
+      "lodging",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Bingemans Camping Resort",
+    "coordinates": {
+      "lat": 43.47403619999999,
+      "lng": -80.44730360000001
+    },
+    "longitude": -80.44730360000001,
+    "latitude": 43.47403619999999,
+    "types": [
+      "campground",
+      "lodging",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Country Gardens RV Park",
+    "coordinates": {
+      "lat": 43.383195,
+      "lng": -80.56093
+    },
+    "longitude": -80.56093,
+    "latitude": 43.383195,
+    "types": [
+      "campground",
+      "lodging",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  }
+]

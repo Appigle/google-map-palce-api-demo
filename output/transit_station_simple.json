@@ -1,0 +1,843 @@
+[
+  {
+    "name": "Kitchener GO",
+    "coordinates": {
+      "lat": 43.4556359,
+      "lng": -80.4931737
+    },
+    "longitude": -80.4931737,
+    "latitude": 43.4556359,
+    "types": [
+      "transit_station",
+      "train_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Waterloo Public Square Station",
+    "coordinates": {
+      "lat": 43.4642655,
+      "lng": -80.52261399999999
+    },
+    "longitude": -80.52261399999999,
+    "latitude": 43.4642655,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Union / Lucan",
+    "coordinates": {
+      "lat": 43.462844,
+      "lng": -80.51213299999999
+    },
+    "longitude": -80.51213299999999,
+    "latitude": 43.462844,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Erb / Avondale",
+    "coordinates": {
+      "lat": 43.462369,
+      "lng": -80.529888
+    },
+    "longitude": -80.529888,
+    "latitude": 43.462369,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Weber / Erb",
+    "coordinates": {
+      "lat": 43.46863249999999,
+      "lng": -80.5107945
+    },
+    "longitude": -80.5107945,
+    "latitude": 43.46863249999999,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Grand River Hospital Station",
+    "coordinates": {
+      "lat": 43.4571875,
+      "lng": -80.5115733
+    },
+    "longitude": -80.5115733,
+    "latitude": 43.4571875,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Union / Weber",
+    "coordinates": {
+      "lat": 43.465287,
+      "lng": -80.5054565
+    },
+    "longitude": -80.5054565,
+    "latitude": 43.465287,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Erb / Dietz",
+    "coordinates": {
+      "lat": 43.460429,
+      "lng": -80.53437799999999
+    },
+    "longitude": -80.53437799999999,
+    "latitude": 43.460429,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Marshall / Weber",
+    "coordinates": {
+      "lat": 43.4750244,
+      "lng": -80.5172346
+    },
+    "longitude": -80.5172346,
+    "latitude": 43.4750244,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "King / University",
+    "coordinates": {
+      "lat": 43.47587350000001,
+      "lng": -80.525579
+    },
+    "longitude": -80.525579,
+    "latitude": 43.47587350000001,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Glasgow / York",
+    "coordinates": {
+      "lat": 43.453125,
+      "lng": -80.513527
+    },
+    "longitude": -80.513527,
+    "latitude": 43.453125,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Laurier",
+    "coordinates": {
+      "lat": 43.475373,
+      "lng": -80.528081
+    },
+    "longitude": -80.528081,
+    "latitude": 43.475373,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Westmount / Lourdes",
+    "coordinates": {
+      "lat": 43.45751,
+      "lng": -80.535
+    },
+    "longitude": -80.535,
+    "latitude": 43.45751,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Glasgow / Belmont",
+    "coordinates": {
+      "lat": 43.4519065,
+      "lng": -80.51689
+    },
+    "longitude": -80.51689,
+    "latitude": 43.4519065,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Westmount / Union",
+    "coordinates": {
+      "lat": 43.45208650000001,
+      "lng": -80.525325
+    },
+    "longitude": -80.525325,
+    "latitude": 43.45208650000001,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Union / Ellis",
+    "coordinates": {
+      "lat": 43.4661945,
+      "lng": -80.50289599999999
+    },
+    "longitude": -80.50289599999999,
+    "latitude": 43.4661945,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Erb / Westmount",
+    "coordinates": {
+      "lat": 43.45935649999999,
+      "lng": -80.53702
+    },
+    "longitude": -80.53702,
+    "latitude": 43.45935649999999,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "King / Hickory",
+    "coordinates": {
+      "lat": 43.4780355,
+      "lng": -80.5254155
+    },
+    "longitude": -80.5254155,
+    "latitude": 43.4780355,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "University / Seagram",
+    "coordinates": {
+      "lat": 43.46884850000001,
+      "lng": -80.5390175
+    },
+    "longitude": -80.5390175,
+    "latitude": 43.46884850000001,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Westmount / University",
+    "coordinates": {
+      "lat": 43.464175,
+      "lng": -80.541043
+    },
+    "longitude": -80.541043,
+    "latitude": 43.464175,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Conestoga College",
+    "coordinates": {
+      "lat": 43.47925499999999,
+      "lng": -80.5165325
+    },
+    "longitude": -80.5165325,
+    "latitude": 43.47925499999999,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Weber / Guelph",
+    "coordinates": {
+      "lat": 43.461363,
+      "lng": -80.49969
+    },
+    "longitude": -80.49969,
+    "latitude": 43.461363,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Glasgow / Aberdeen",
+    "coordinates": {
+      "lat": 43.448427,
+      "lng": -80.5269185
+    },
+    "longitude": -80.5269185,
+    "latitude": 43.448427,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Erb / Mcdougall",
+    "coordinates": {
+      "lat": 43.4569985,
+      "lng": -80.541184
+    },
+    "longitude": -80.541184,
+    "latitude": 43.4569985,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Waterloo C.I.",
+    "coordinates": {
+      "lat": 43.4794335,
+      "lng": -80.5313695
+    },
+    "longitude": -80.5313695,
+    "latitude": 43.4794335,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Columbia / Holly",
+    "coordinates": {
+      "lat": 43.4807405,
+      "lng": -80.52938050000002
+    },
+    "longitude": -80.52938050000002,
+    "latitude": 43.4807405,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Lincoln / Mayfield",
+    "coordinates": {
+      "lat": 43.4794695,
+      "lng": -80.507699
+    },
+    "longitude": -80.507699,
+    "latitude": 43.4794695,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Westmount / Westwood",
+    "coordinates": {
+      "lat": 43.446592,
+      "lng": -80.523034
+    },
+    "longitude": -80.523034,
+    "latitude": 43.446592,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Weber / Wilhelm",
+    "coordinates": {
+      "lat": 43.45891949999999,
+      "lng": -80.49694149999999
+    },
+    "longitude": -80.49694149999999,
+    "latitude": 43.45891949999999,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Columbia / Albert",
+    "coordinates": {
+      "lat": 43.47866200000001,
+      "lng": -80.535184
+    },
+    "longitude": -80.535184,
+    "latitude": 43.47866200000001,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Keats Way / Mcdougall",
+    "coordinates": {
+      "lat": 43.4613685,
+      "lng": -80.545193
+    },
+    "longitude": -80.545193,
+    "latitude": 43.4613685,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Columbia / King",
+    "coordinates": {
+      "lat": 43.4820115,
+      "lng": -80.5267195
+    },
+    "longitude": -80.5267195,
+    "latitude": 43.4820115,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Columbia / Weber",
+    "coordinates": {
+      "lat": 43.4831295,
+      "lng": -80.52304000000001
+    },
+    "longitude": -80.52304000000001,
+    "latitude": 43.4831295,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Margaret / Guelph",
+    "coordinates": {
+      "lat": 43.46318,
+      "lng": -80.494267
+    },
+    "longitude": -80.494267,
+    "latitude": 43.46318,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Columbia / Phillip",
+    "coordinates": {
+      "lat": 43.4767983,
+      "lng": -80.5405225
+    },
+    "longitude": -80.5405225,
+    "latitude": 43.4767983,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Westwood / Inwood",
+    "coordinates": {
+      "lat": 43.4453445,
+      "lng": -80.52721450000001
+    },
+    "longitude": -80.52721450000001,
+    "latitude": 43.4453445,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Weber / Wellington",
+    "coordinates": {
+      "lat": 43.4570485,
+      "lng": -80.4950582
+    },
+    "longitude": -80.4950582,
+    "latitude": 43.4570485,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Victoria / Joseph",
+    "coordinates": {
+      "lat": 43.4507155,
+      "lng": -80.499978
+    },
+    "longitude": -80.499978,
+    "latitude": 43.4507155,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "King / Weber",
+    "coordinates": {
+      "lat": 43.48447050000001,
+      "lng": -80.52670549999999
+    },
+    "longitude": -80.52670549999999,
+    "latitude": 43.48447050000001,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Lincoln / Bluevale",
+    "coordinates": {
+      "lat": 43.4823,
+      "lng": -80.506288
+    },
+    "longitude": -80.506288,
+    "latitude": 43.4823,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "University / Lincoln",
+    "coordinates": {
+      "lat": 43.48341149999999,
+      "lng": -80.50791699999999
+    },
+    "longitude": -80.50791699999999,
+    "latitude": 43.48341149999999,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Chopin / Westmount",
+    "coordinates": {
+      "lat": 43.443228,
+      "lng": -80.5228625
+    },
+    "longitude": -80.5228625,
+    "latitude": 43.443228,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Keats Way / Amos",
+    "coordinates": {
+      "lat": 43.458769,
+      "lng": -80.54876
+    },
+    "longitude": -80.54876,
+    "latitude": 43.458769,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Columbia / U.W.",
+    "coordinates": {
+      "lat": 43.474789,
+      "lng": -80.546286
+    },
+    "longitude": -80.546286,
+    "latitude": 43.474789,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Victoria / Weber",
+    "coordinates": {
+      "lat": 43.4547855,
+      "lng": -80.49372579999999
+    },
+    "longitude": -80.49372579999999,
+    "latitude": 43.4547855,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Victoria / Patricia",
+    "coordinates": {
+      "lat": 43.4443335,
+      "lng": -80.508494
+    },
+    "longitude": -80.508494,
+    "latitude": 43.4443335,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Belmont / Victoria",
+    "coordinates": {
+      "lat": 43.443383,
+      "lng": -80.511597
+    },
+    "longitude": -80.511597,
+    "latitude": 43.443383,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Wellington / Margaret",
+    "coordinates": {
+      "lat": 43.4588415,
+      "lng": -80.490459
+    },
+    "longitude": -80.490459,
+    "latitude": 43.4588415,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "King / Water",
+    "coordinates": {
+      "lat": 43.4515518,
+      "lng": -80.494709
+    },
+    "longitude": -80.494709,
+    "latitude": 43.4515518,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Lexington / Dearborn",
+    "coordinates": {
+      "lat": 43.487281,
+      "lng": -80.5183545
+    },
+    "longitude": -80.5183545,
+    "latitude": 43.487281,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Columbia / Village 1",
+    "coordinates": {
+      "lat": 43.4731595,
+      "lng": -80.5507365
+    },
+    "longitude": -80.5507365,
+    "latitude": 43.4731595,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Margaret / Victoria",
+    "coordinates": {
+      "lat": 43.45637199999999,
+      "lng": -80.48897149999999
+    },
+    "longitude": -80.48897149999999,
+    "latitude": 43.45637199999999,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Chopin / Hazelglen",
+    "coordinates": {
+      "lat": 43.44028199999999,
+      "lng": -80.52646399999999
+    },
+    "longitude": -80.52646399999999,
+    "latitude": 43.44028199999999,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Westwood / Gallarno",
+    "coordinates": {
+      "lat": 43.4423845,
+      "lng": -80.53542449999999
+    },
+    "longitude": -80.53542449999999,
+    "latitude": 43.4423845,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Westmount / Victoria",
+    "coordinates": {
+      "lat": 43.4394925,
+      "lng": -80.5206905
+    },
+    "longitude": -80.5206905,
+    "latitude": 43.4394925,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "R&T Park",
+    "coordinates": {
+      "lat": 43.4791055,
+      "lng": -80.549314
+    },
+    "longitude": -80.549314,
+    "latitude": 43.4791055,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Lexington / Dearborn",
+    "coordinates": {
+      "lat": 43.490232,
+      "lng": -80.51669849999999
+    },
+    "longitude": -80.51669849999999,
+    "latitude": 43.490232,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Fischer-Hallman / Erb",
+    "coordinates": {
+      "lat": 43.452625,
+      "lng": -80.55349
+    },
+    "longitude": -80.55349,
+    "latitude": 43.452625,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Fischer-Hallman / University",
+    "coordinates": {
+      "lat": 43.443963,
+      "lng": -80.545194
+    },
+    "longitude": -80.545194,
+    "latitude": 43.443963,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Keats Way / Fischer-Hallman",
+    "coordinates": {
+      "lat": 43.457947,
+      "lng": -80.55758399999999
+    },
+    "longitude": -80.55758399999999,
+    "latitude": 43.457947,
+    "types": [
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  }
+]

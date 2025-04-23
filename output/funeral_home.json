@@ -1,0 +1,292 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4200708,
+        "lng": -80.5010942
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4214945802915,
+          "lng": -80.4997644697085
+        },
+        "southwest": {
+          "lat": 43.4187966197085,
+          "lng": -80.50246243029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Westmount Memorial Celebration Centre",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 360,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106316167815163139703\">Westmount Memorial Celebration Centre</a>"
+        ],
+        "photo_reference": "AeeoHcIYTwjlocdkubBpVAa6gZU-gdJxEpcUzTNGJh-RD-PtAeB8yQTxsZWFIwHmtlL4_FadeSvtUvRnHadCI5GuYVZ6b6iQJAvVloE3vy8WFl4tTUI7c7Kq6gJrKYjkUEke-o4uCsR2fdN_D1TdWwHPc-YOZajbYorZeuAc283SVitN0B0I7AXFu337ZGYwOX4M9_oZJ5ujhkt8ynTGWxUHOE8oLPUOGZjPMEV0ieigzlgiUOeF74lJRiOD-5nwrQOgg7g2ny-oYtWiWV3BAHNgaWOfNcLkC6yLDcwAJqLzJGAXWr_X7yMqP_HCvSFZTinIW69xf0gACqY",
+        "width": 540
+      }
+    ],
+    "place_id": "ChIJlxqWNqf1K4gRx2hdKZAw8sE",
+    "plus_code": {
+      "compound_code": "CFCX+2H Kitchener, ON, Canada",
+      "global_code": "86MXCFCX+2H"
+    },
+    "rating": 4.7,
+    "reference": "ChIJlxqWNqf1K4gRx2hdKZAw8sE",
+    "scope": "GOOGLE",
+    "types": [
+      "funeral_home",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 133,
+    "vicinity": "1001 Ottawa Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46075640000001,
+        "lng": -80.52026579999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4620978802915,
+          "lng": -80.5189038697085
+        },
+        "southwest": {
+          "lat": 43.45939991970851,
+          "lng": -80.5216018302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Erb & Good Family Funeral Home and Cremation Services",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 403,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101753934862566489788\">Erb &amp; Good Family Funeral Home and Cremation Services</a>"
+        ],
+        "photo_reference": "AeeoHcIGyjLXTS9zrw_mKe35dCBQF93trtz-Suk-ETWP0xQ8Ud-vc2OVXygFpyQdHm376w4-dy1ltff4okG5r4YyMhog0LsulYyVbMbjwPu1ynbBVqSOQofzIESsqG2lsdHGSQgQOm-79OC-iuTuHzRqeIBvzOET0aabyu2O9QzM16pBmSMayKNnVCLaMGVYElpstRQIO6errkEqjrcxgiUXs_DcUH9iiltQtupt8GTuH3ntvJA_rXXjnvNkRwzVRmi3f_OGLaUCJOpMldot5UsBUBmwt3yd1KzNH6lXTdQYEbSJYfmGw2j-5TWf7DPwKSOtMn9mWQ4PCpA",
+        "width": 900
+      }
+    ],
+    "place_id": "ChIJVWRDwGz0K4gRwMJ0cBUtsqI",
+    "plus_code": {
+      "compound_code": "FF6H+8V Waterloo, ON, Canada",
+      "global_code": "86MXFF6H+8V"
+    },
+    "rating": 4.7,
+    "reference": "ChIJVWRDwGz0K4gRwMJ0cBUtsqI",
+    "scope": "GOOGLE",
+    "types": [
+      "funeral_home",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 33,
+    "vicinity": "171 King Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4282378,
+        "lng": -80.42164319999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.42981658029149,
+          "lng": -80.42050581970848
+        },
+        "southwest": {
+          "lat": 43.42711861970849,
+          "lng": -80.42320378029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Tri-City Cremation Services",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1212,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109385539839177800423\">Tri-City Cremation Services</a>"
+        ],
+        "photo_reference": "AeeoHcKi35mPuIPxCc9nENHm7JNzGlQobKS94IH8xeTzMumjBdE-xnsiz1NcxILksFLUjy9tpO2EtZU5BOdJM-lLjmbgNy4vbE8t0Sy7Ularw_8M1UWPTggs2sEnSmVmWxak74WXt7vv_G3aqAmPbGMs7IyFEYLp590zs52Mp7oKN3zqfAaMcCISdk-mDTNTJSK4V7ugSP0l69MjRs7j38wD3eTgGrtUHXvTXTNrLfynPuot1mwCA30_LBCUnLWTcSgqWZDkqyYXxy2SGyx_DSvz38b1QTaqif4452pYNHSW0urF0WCnGpr9jPYoOzUEZsO7Iu3vTSYikyc",
+        "width": 2596
+      }
+    ],
+    "place_id": "ChIJX7zBMh2LK4gR61VoE8UPddE",
+    "plus_code": {
+      "compound_code": "CHHH+78 Kitchener, ON, Canada",
+      "global_code": "86MXCHHH+78"
+    },
+    "rating": 5,
+    "reference": "ChIJX7zBMh2LK4gR61VoE8UPddE",
+    "scope": "GOOGLE",
+    "types": [
+      "funeral_home",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 11,
+    "vicinity": "1601 River Road East #28A, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45875880000001,
+        "lng": -80.4704454
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4603073802915,
+          "lng": -80.46909841970849
+        },
+        "southwest": {
+          "lat": 43.4576094197085,
+          "lng": -80.47179638029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Henry Walser Funeral Home - Funeral and Cremation Services",
+    "photos": [
+      {
+        "height": 370,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108290983681339401719\">Henry Walser Funeral Home - Funeral and Cremation Services</a>"
+        ],
+        "photo_reference": "AeeoHcL-gHLHywf73sUA0dz0TS54f7rlMYIMttbckJQaNfRygSOW03zprKRlg-de2KcMgxMMT1yH2f5FFvJq99PPETuMA-AcXRpgCnbiZdvOfxqsuSBV8I75xHSnUuJNt5W5TbttRUJY5fQxemojsdsfx4GmsbC3q7RTPdgDrfVeHJB3azmGjXW66gjuRmVrf9USuSJ3-C9TyUsjMZizqKqmJ7_gCcyCTPNnapvUmoPuVMHATmfdabeEvEyFC9cnTTEZye-ZDLUFQyZ_J7PE4agDFnvBg7OOsmTAeQfDnbXD-7GIEVJD9nauKSxc2sgXbhYjS6WiNFyx2uU",
+        "width": 656
+      }
+    ],
+    "place_id": "ChIJj_5tQLv0K4gRWBvcdkbLWaM",
+    "plus_code": {
+      "compound_code": "FG5H+GR Kitchener, ON, Canada",
+      "global_code": "86MXFG5H+GR"
+    },
+    "rating": 4.8,
+    "reference": "ChIJj_5tQLv0K4gRWBvcdkbLWaM",
+    "scope": "GOOGLE",
+    "types": [
+      "funeral_home",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 128,
+    "vicinity": "507 Frederick Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4345382,
+        "lng": -80.4756057
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4358510302915,
+          "lng": -80.47426791970848
+        },
+        "southwest": {
+          "lat": 43.4331530697085,
+          "lng": -80.4769658802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "KW Memorial Society",
+    "place_id": "ChIJHcAxSt70K4gR3li5fLul-hY",
+    "plus_code": {
+      "compound_code": "CGMF+RQ Kitchener, ON, Canada",
+      "global_code": "86MXCGMF+RQ"
+    },
+    "rating": 4,
+    "reference": "ChIJHcAxSt70K4gR3li5fLul-hY",
+    "scope": "GOOGLE",
+    "types": [
+      "funeral_home",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "299 Sydney Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4725238,
+        "lng": -80.4376381
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4740420302915,
+          "lng": -80.4357961697085
+        },
+        "southwest": {
+          "lat": 43.4713440697085,
+          "lng": -80.4384941302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Kitchener Funeral Homes & Crematorium",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103635619341923153379\">Kitchener Funeral Homes &amp; Crematorium</a>"
+        ],
+        "photo_reference": "AeeoHcKnFneZHRbRUvfh_MFsjL49mPh6KEsKH70nI_gwfU3pWkJ7KabwwK-wJelXN0BAzzVdq0rYQCsPZtPvxazer3AtEe-YT26sY2TX07QIYZoHHlsY84pL4kt9vZUBfomigKsMwYfShC5TI1XQjB_rE09hS4fLokGQche1P463F0EKK2WiWU1VjEbCcQtBVPo_E-F1HNJ_mgdR8ntAQT5udj0lDrsRo2FuXCubjDgrxhG0t2OgXTZgdVAcFS6xY8ReyqiMWnIfmj7oHQMbP0a_Vaq5pZQG80Behf_3RZA5FKklwVQUwiCraMpRHwrhzxzRn4aubT8yFqE",
+        "width": 5895
+      }
+    ],
+    "place_id": "ChIJS7UHF4ONK4gRWGCinMm5zoY",
+    "plus_code": {
+      "compound_code": "FHF6+2W Kitchener, ON, Canada",
+      "global_code": "86MXFHF6+2W"
+    },
+    "rating": 4.9,
+    "reference": "ChIJS7UHF4ONK4gRWGCinMm5zoY",
+    "scope": "GOOGLE",
+    "types": [
+      "funeral_home",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 42,
+    "vicinity": "Parking Entrance shared with Metal SuperMarkets, 3 Forwell Road, Kitchener"
+  }
+]

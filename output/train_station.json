@@ -1,0 +1,982 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4556359,
+        "lng": -80.4931737
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45693833029149,
+          "lng": -80.4917916697085
+        },
+        "southwest": {
+          "lat": 43.45424036970849,
+          "lng": -80.49448963029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Kitchener GO",
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115980301652166350545\">Pavithra Vijayan</a>"
+        ],
+        "photo_reference": "AeeoHcI6Og5X7C5TAhwq6jA56ALgs79i3kSCjd_aAn-8IpuU2jfBGekVjcu2-M38Cl1JvrwJYmIORNbY7RemspT6cOAjHsj3LKLaub1yxgVfMFAV6wrtIa7aFJIlrHPl9k3uGpjSbhiyXQTCaIrThgTQtXEMuxxYc3jzydca6-lzQQszvE-tqhjvPQgNWhECsMPwhjuCIPgsaiCFK-Po1NP6bhf-SE2AZE7Lc3GwfODIVHcT8Y1z7LSTSX3E_IxucrI0OH5JVh68By58Y7inxuNtYQ6nI2V54z1s9rKFv8Zzy2FycqJV6RU6Svq2avQ3Ab6qFeaos1Jb8RdDEhMR-rT3w60svNjhm81_PC-4GIVZ1VRW-T2q4YlN7OWYXSOj0vEqQQL5XDVqr7Kpn6yVLkr28J1yTKcOdX7CBXfaUQxcZ7yXss_ujbS18Hsc_QlhmaqSrYPosuCKYDFUkNtJkt4LHjOzngKPHy24YxHCEVPLjPD6Y-zYCucxmFt7_hz0rm5sJNDK24JqJM15G2lz6TVlXkSBkd9IysMp3_1C4UaK3p8wf9piucJfDeH3TmMSFXnvzurVF87AxcKAYBNp_euGqI-e8lrS682FIVxTRKu27dG1mJo0szFv489holSMFQx_DV73QaFl",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJH9fmhYv0K4gRZ3kbqUDsXN4",
+    "plus_code": {
+      "compound_code": "FG44+7P Kitchener, ON, Canada",
+      "global_code": "86MXFG44+7P"
+    },
+    "rating": 3.3,
+    "reference": "ChIJH9fmhYv0K4gRZ3kbqUDsXN4",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "train_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 159,
+    "vicinity": "126 Weber Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.462149,
+        "lng": -80.523369
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4635041802915,
+          "lng": -80.52200551970849
+        },
+        "southwest": {
+          "lat": 43.46080621970851,
+          "lng": -80.5247034802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+    "icon_background_color": "#10BDFF",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+    "name": "Willis Way Station",
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104379533399354190947\">Thomas</a>"
+        ],
+        "photo_reference": "AeeoHcIfNPzlp1wMeZswJstcSsmPweTws8JVwAmfPKURwBFfWqcQKRO3GrqZZuKrs9FjmdIAO5_mI2dFFE5TnDU2x4AmokEpwXmPDyME80JmXrIhfOdRKGD6rDwLDKEPmaRNGlOp9bKtBLX-DZJfV3rP5qPq1L61xR56tebvK6nGDFVgte5Y6Bdi8E_g4_eOfwQv4AQ_cvWad_EHAWxBXyxH8WJ-sSt8LvFdQPJDoF_N-4q5QecVMAr7Xq3Ufl3QhqeR5oRWUKXtM1Rm7LDso7YZ93Ys06SjMwuZJGkZCdh22bxSnTvgJXo9P_6kEC-3zjzm2X6EAE-GlrlpSRTaH4UI0dlPfjypBJEDJGXjMch4xH3Ygi0V2EUYC2kAr4XMp3Zbe_4d_JQ--6MF8oXI2-MBf8Tc_j84NPpaOfdhxg4WoW3cR9Lx-gIEpmWPEsB2mUy0EUzkzokmDbBcmzxK7xDrIqMwmAXlzaMFwyTRwqy4bH8hncWUKAlvktnhfDtAyZlFttdb2aZ2F-TNRQIxLohBZlvGBg29CxTMcSoNG8inO_ldQMzryXGg8ZohGqZiWAvAdqUp5pXPp1r_U7Hrb7WbX_aUxrmfSCZdUzyNP5fGSmchXFZHMCg3sS1tnYSZUqUlEHbIMA",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJFeX-HRP0K4gRIWk6DEvpZb0",
+    "plus_code": {
+      "compound_code": "FF6G+VM Waterloo, ON, Canada",
+      "global_code": "86MXFF6G+VM"
+    },
+    "rating": 2.5,
+    "reference": "ChIJFeX-HRP0K4gRIWk6DEvpZb0",
+    "scope": "GOOGLE",
+    "types": [
+      "train_station",
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45983699999999,
+        "lng": -80.51839199999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46118163029149,
+          "lng": -80.5170478197085
+        },
+        "southwest": {
+          "lat": 43.4584836697085,
+          "lng": -80.5197457802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+    "icon_background_color": "#10BDFF",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+    "name": "Allen",
+    "photos": [
+      {
+        "height": 560,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115980975195178125583\">Jonathan Hendel</a>"
+        ],
+        "photo_reference": "AeeoHcIJ_YukoVcrpClb4Vq0eGR7t6mg2gEs1SqNu6QZ-Kk_OxjP7Lo-LAnN_w5u520ri3xdiVk3pW2KxF99YNeKHAKDSpASKr74AGr56pElDkT_y92N_NZmVnvjqF0Awhb9m1VvA0jX3C1UfAWCpLQ5OoQbbQkCp6s0RwiznY9jLhNagHmV9S8jZW-jf-R19sWdQ5T58MHOl3ozVugJeOewOr9lSquoB78eRNm3jnYhlcDgS7vHxAfMpazc6Hl-T3-kYzDNRabpbLqHUSNTh1z1kzDH9dizdh-e150rjXw_CtDqfKIuzfL55KWNFv6Tt9uLKmS6tqc1FD4sT27sYG1Z29lZCtrmvM0yWTF2Ls09HdN0S75fQU1iGlblBz8EKLs1H-XNBKc8N8T-_ZcWB3wZaj5w4Jy5ml-LyBPpG7WUrvfByfeYxxkx25KD0V7MUpSXH3DGCqmR3ri9SbyMJ5mfLg8hdXz6WiEfaYD0Kaq2F_AIOYSuaJjfnQ6XLcFpC_5kK2t68BUwA-pd7uHqDpvJF4Kq6OrkAhHU4MONbkKr-3y1Pijv1cHIFVFaFoUKqXEuMXRmYXdpPepihLo1_izVlqO_asNqq5iA9aV_pWYlAvUIcPXIML_sakfGEj7aQGUJk0nJ9g",
+        "width": 1000
+      }
+    ],
+    "place_id": "ChIJhWAmiGz0K4gRnxI0swXvj5Y",
+    "plus_code": {
+      "compound_code": "FF5J+WJ Waterloo, ON, Canada",
+      "global_code": "86MXFF5J+WJ"
+    },
+    "rating": 4.3,
+    "reference": "ChIJhWAmiGz0K4gRnxI0swXvj5Y",
+    "scope": "GOOGLE",
+    "types": [
+      "train_station",
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46894769999999,
+        "lng": -80.5345478
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47024158029149,
+          "lng": -80.5330690697085
+        },
+        "southwest": {
+          "lat": 43.46754361970849,
+          "lng": -80.53576703029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+    "icon_background_color": "#10BDFF",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+    "name": "Laurier-Waterloo Park Station",
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103309900349954041880\">Edward S</a>"
+        ],
+        "photo_reference": "AeeoHcJBnuLxIb7tnrhZwlpkyuOtrt2Uwxh8kToBBY810YIqC5oDJ-YyQTtaPZiNLllzj2hL1QySsvFEdvMgACbg_nzm5Wig5o7QykitN0ZlaJQPTAB5_95jzb7IzxTBJ4FUX4-wTT3OOeLwzB7IrEOlUawEFt0T2owl8z_CC83HND_91Ki37gA7JFzhstOjHWzbLNgCb8kKdLk59io-SdRxGtFZ0mSaZXYNrmMhZe64r2Z3tKY_L0P2QVfKNwsb_kIpSJHvaF-Rm-dS6U9qIWPbTRm9URvJiog_Mz5bzS7bfoZ7u02rG-0_o0guW_5ODJDqfAYPoCRRNScgG90fePxbzJguGuMFVDqhAiktkg1jfNUef0BJGeiE6ClVpvXhMX6ORwC8RwAM3V0zsznvu8FgvUxed2__8WD3Sor9fMTivgd6Rtpu-2r9rkqLQTG6vT65O_ejNdPPIN8l1x_hGTktfUMskWUC0Es24Nxv1EyrcMA6b8-J-RcpjAHBaBXLdPlxMVPVpVedv2tdEAqKwl4fO56Hihk8UtCNOR1pdnf-j3igc69hDrdCjpi97JBStpf_gqn71FmN6uZ5BcAbfyni7Oef4ieNgGplr22N-4AFsNwLe7gScL-XUFjwhD-fzfga",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJgZ7evgX0K4gRgb66KQT-XuA",
+    "plus_code": {
+      "compound_code": "FF98+H5 Waterloo, ON, Canada",
+      "global_code": "86MXFF98+H5"
+    },
+    "rating": 4.6,
+    "reference": "ChIJgZ7evgX0K4gRgb66KQT-XuA",
+    "scope": "GOOGLE",
+    "types": [
+      "train_station",
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 9,
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.473413,
+        "lng": -80.541297
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4748220302915,
+          "lng": -80.54018381970849
+        },
+        "southwest": {
+          "lat": 43.4721240697085,
+          "lng": -80.54288178029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+    "icon_background_color": "#10BDFF",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+    "name": "University Of Waterloo Station",
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113843204545852830460\">Hanibaal Barca</a>"
+        ],
+        "photo_reference": "AeeoHcJWnElfDdIK_LJk38YgLuf2BsPm3D0hQX1YilUf_aIBJE12wJiZpyRse6DNCnU5M0sNiTi_VCw2_VKWfOeZZ4cFZV7BjRXvnDTkwxXozlHvroKaLOR5bGxiMixgy7qhcT8o-Ra3YIBejMTHckQQvQtmT-15H1UKEB67tJohaYv5W1W6zMUWE89JqlyI5i47yCoRu_8vD2yi1nXG7EElggALa8ZNCeVVTwsb9EM9cQZkoUkyqz5dnde25maUclb1E1P9WPQjrQ_uB-KvufWeNun6NXiSD8ipyAGNNANrgB1NRLAJL8qyhjoVfStfwH8oPOeDR6Wrk_VIBGWDC0Gt-FKEstXMWOWy1knkhr7flG33LJWX4zjhTpbghGMarH79WDea2KA_l7TUYUHVBnvFad6Zq_YvZ6Y94iRnOStGinM_xcPj-pbvTCfz8dhsXv0OA0_SVPiZ5HHHd6n7yclv7OWHNsBNcHSovf4ACJwCkm15TTEEZUJncsjFXHt7C_HUcthC3xv1LVONoOHboDBaTmGH3nNBmtqXiB7FXPjMr8cR8mk0Ae7kitRGLzy8VNvc92aYrKmCFiGAp6LVehPVNTg1X-bmQ_sMtRvck8Tu9OB9lE5ZWSvdbWuAPdvS9u8YcRC4XQ",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJj9NFVAD0K4gRUCL3boX_GBM",
+    "plus_code": {
+      "compound_code": "FFF5+9F Waterloo, ON, Canada",
+      "global_code": "86MXFFF5+9F"
+    },
+    "rating": 5,
+    "reference": "ChIJj9NFVAD0K4gRUCL3boX_GBM",
+    "scope": "GOOGLE",
+    "types": [
+      "train_station",
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6,
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.453262,
+        "lng": -80.499049
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4545628802915,
+          "lng": -80.49772896970849
+        },
+        "southwest": {
+          "lat": 43.45186491970851,
+          "lng": -80.50042693029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+    "icon_background_color": "#10BDFF",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+    "name": "Central Station",
+    "photos": [
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117141009120443847036\">debin tan</a>"
+        ],
+        "photo_reference": "AeeoHcLU1B21KnT6JDwwGZHFbgWTgJoiN7z53it6JgVaeNovw8XOLPGEhneSu81iNnXuo3MdTbq7hWffy5iZMVn3a73pp1tnI65i_fVZoeEmkc3SThYTgsdmFUpVsoOHjKCeLfQHfq67BKuQvbBxP7yNhqaufqg3f3oj_FlydPlf2q-JlFRm5guwC_xCe9CPHdrdvF2z9wBNO4L7lU8Te1e1sfLSRydfBjb34_VsloYfm2EK8pYihqTrbQRAQi9ObtdN4lDQ2rsNqlJvaMwVv-oKrm9nkqkf1ZPmHWwDiBMlcu0CQi3G4BlBDJnVbCODIYGByx0LXG-tifSGZ9kgY5QlgK5rQBfvvE0IHUGHsuLHIWq3z8JQNfLMqMdk2fsV6bo1J8Q9i8tkoRmlH61MyXUTK45DGFcO9l7Iv9cAxYKy6LdN5aTcaYk4BK9FYqFetHpMj0dBOznrxngLRdExGXANpsPL-c8UTr0-Ng8CH_P2QRkuxFK9gOJnBKQQhKAGsur8M_tefotPVRARRL6JWAyF6ynxUvgXZmsrMwidyTnZUA61tyR8sqtd8R22EdNMxOgiRnMh53OamU2kHu6_TObZpt0_dhnG_tsYaUhtUzJTmNSo4sY2iZu-IAwwtfhTQ1nkerb2pA",
+        "width": 4096
+      }
+    ],
+    "place_id": "ChIJx7T_q4r0K4gRZThBsKvGIx4",
+    "plus_code": {
+      "compound_code": "FG32+89 Kitchener, ON, Canada",
+      "global_code": "86MXFG32+89"
+    },
+    "rating": 4.8,
+    "reference": "ChIJx7T_q4r0K4gRZThBsKvGIx4",
+    "scope": "GOOGLE",
+    "types": [
+      "train_station",
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 10,
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45308,
+        "lng": -80.499172
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4544818302915,
+          "lng": -80.49785051970849
+        },
+        "southwest": {
+          "lat": 43.4517838697085,
+          "lng": -80.5005484802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+    "icon_background_color": "#10BDFF",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+    "name": "Central Station",
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114229342568047307569\">James Luo</a>"
+        ],
+        "photo_reference": "AeeoHcKkYteM9XNqB1Pk6Xq4UR7mK55r26iTyJka-0lcXJLsUbD0bXoq2QqE_wT6Tjq4wBBE9OqFjivhPPOnFfyrZIpdhUu1slktI4398zMj72tGw_SLl5nTzIMtpP-haiWM1y2HncGqk2lSrKipu8sKh3xtq6NEipQ2q_nLYkVHumkKpmIZ5Iz4kSaX0ifOZE6oCExlLyIzfmloPLxttJG7FJG429s-Qtrm8cUocTjqksvkk0vfsLeDxkaQSQJaceOxDZ4_M76rsmLasy7MlcxINR4jdcSU19QajFftHSVmB0nJab11o2Ah8KDr4OIpsx3pA7TxM508CcQ53dOlQfSmeqNLfVJ1xtIbstXouAPQgOkJclt3ZryzZr9jCkq_HmNSOaC_X1AP_SxDLlQs9yt8eesoLhKRLDYh24B9tn1GWwhvHxeySOL7_-DJvtk0DmpFR4JXtUfH-MxoMRihscaAEiS5xXu2KiYXcuu4Sh6xAbi-UiYfuy7-u6jxrRKOJe6SdYeodruq6mHDgpZoUszJDJWgbr22yzddaGqedKKNqVRMJOYsxa_mQU8QGxxLRjA345xS4l2r1cq7_168vqGje_RpM6Qh4-ca9ywYVp6nBPzAbe9nVZjxqdxw9CJqyN5b",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJp2Uaq4r0K4gRci9tbWvr66o",
+    "plus_code": {
+      "compound_code": "FG32+68 Kitchener, ON, Canada",
+      "global_code": "86MXFG32+68"
+    },
+    "rating": 5,
+    "reference": "ChIJp2Uaq4r0K4gRci9tbWvr66o",
+    "scope": "GOOGLE",
+    "types": [
+      "train_station",
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.450181,
+        "lng": -80.49368799999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4514980302915,
+          "lng": -80.49235486970849
+        },
+        "southwest": {
+          "lat": 43.4488000697085,
+          "lng": -80.4950528302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+    "icon_background_color": "#10BDFF",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+    "name": "Victoria Park Station",
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103909128055869436888\">Hale Knox</a>"
+        ],
+        "photo_reference": "AeeoHcJ6uGf90m86zEgHpl0GLRnyyG_MpCoeL9HUmBMClGkMrvjTb0_cJgS70DIFzSBcNwWlYnF1voG85fWmvDlYJ1oKiLt6kwaITaE-IQOM-n6Z1mPVYE-4-5TYCxMx_mcMSWnrJLrxpY0IOeeBtOtb0WdMPoOPFOvu68piiKB7tRGGzj065p3l93DeSqtQcjGhNGVh9qTNdT-OUf2MlUkDa-NCb9TsTKOQV70hn09E_ic32Fl3sXKm7L_LH_Yiow7viGy-o_j38mAClF1LC7zB11lK_rYXtf7wV5-DHQU8thhYeDNcF2lmwKJ8aqY5I2cLJ4YnS9rc-b9CZEjRZuFyejoLQciygJfumlpKFQvrlQ9-sNCKLm8PXunHX4FPR4OpHYp_oqgMsr3xfrXfhUy_WN4WTHoEpmej29kAG_svjq1Syq_gFMn0Q8N6bzxO4SJFTbHiHWas7M-oboZyAtBeFw1FnTitigWJPbI5KkCheWiM7rnil16aOi5E0NQ-eqnEBcmBmAJrbowLAoyHnsZSQwEHVod9Lar2OHHHJmewVcrFa-SEzId0dkDtzQqqdtR52tUKht2KvA5r4eqtfZWWsPKnlmrMu9JYkg_D5aTxYoT8qbQqYOdF9hTmbo5kB0iVVZy8Hw",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJaVeaf_P0K4gRUfRFWcGyRbQ",
+    "plus_code": {
+      "compound_code": "FG24+3G Kitchener, ON, Canada",
+      "global_code": "86MXFG24+3G"
+    },
+    "rating": 4.1,
+    "reference": "ChIJaVeaf_P0K4gRUfRFWcGyRbQ",
+    "scope": "GOOGLE",
+    "types": [
+      "train_station",
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 12,
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45194100000001,
+        "lng": -80.490831
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45326093029151,
+          "lng": -80.4895041697085
+        },
+        "southwest": {
+          "lat": 43.45056296970851,
+          "lng": -80.4922021302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+    "icon_background_color": "#10BDFF",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+    "name": "Kitchener City Hall Station",
+    "photos": [
+      {
+        "height": 3468,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105682155392908374923\">Amal Thomas</a>"
+        ],
+        "photo_reference": "AeeoHcKb_2kqgrHeP7RCVGGEHnGK9D7QqV-Wf0ZzdzUgObWD4mAdR1eZPdnhlBxAeWjJFahp1ZEefymSpA3PXsojyPleJqL0TAOUeyvgVYHIX4unA1LV7-V5FmJvY0U78f3U2BdXoUv6D4yyzRs-sCtjgcwZ81orYkqe0EC8-ZDkav3abZaukaDkxVum_twJYQIE8djq1a6RTKIs5gUbf9uDpCp3lSrfGBugiVnUm2TattjA-uRdmaLvMN7BKqAoh-6zm62DrqNrAM4SDJcoXapAkYjRY0DvFnR1AUo820pN4aS2ESK5Xeudv_lbwyBED6wr8A3Eota97UzzxuMgSwE4aovRVXsMeMANvC5AEZOLSYruxIsPuvy7TyxjDLmFOLo8UIUUYNKrm-K8R8_XrzcRGwKz57IXHiSbacv3hI-ITpw4770JVFPzSREELHon7L11qTzn1dasrCvdU9_n2wMgJqGrYAAW6ti8adcsH8uyrhFOrHMx-VxX-I3g8G87wKtTEmqq3xD6h5PGVIZo0o3t_hzzoS2sPrPLjQyA4-22OoO6ZLio2xB2aPM5ck-0fymaPVaCXfgsh7fx8gKnHhemMOlgh339LZal9bFlP5aD9X7o3_2_gMxKisozgImA3bZOEQY2zDVd",
+        "width": 4624
+      }
+    ],
+    "place_id": "ChIJhd6P1vL0K4gRJjXMkY-zAJM",
+    "plus_code": {
+      "compound_code": "FG25+QM Kitchener, ON, Canada",
+      "global_code": "86MXFG25+QM"
+    },
+    "rating": 4.1,
+    "reference": "ChIJhd6P1vL0K4gRJjXMkY-zAJM",
+    "scope": "GOOGLE",
+    "types": [
+      "train_station",
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 10,
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4816031,
+        "lng": -80.5451813
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4831988302915,
+          "lng": -80.5436267197085
+        },
+        "southwest": {
+          "lat": 43.4805008697085,
+          "lng": -80.5463246802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+    "icon_background_color": "#10BDFF",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+    "name": "Research & Technology Station",
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111455918665429214252\">SSK</a>"
+        ],
+        "photo_reference": "AeeoHcKEyEkONeeQ-BmgnwbfHRnACKCAc37Ecp4H8rWNFQpfGK8agK_s_ZHNacy7ZsqxYitjYzzvmIAzrI4EIhLXyKVk-V17qvWvRZcF-c8mPooxnD4ikFporFaHuGckb-A6nPjYX963SMQ5SKoANWtJswioli_iR-r23bBM_wvbXibhmYI2inV_cMVi9U4lLZWFg5pdZwoaFVqFNDo0UfRjmUUXUmXgaNzcI4mxBA9-4vkZio5hh3OKZWxOmeYOmONgaga4HIoBeb585GZMaoDWNFgJVIghOoXxecuE4n2Atfi53l3SeylrjLaUmmSdYEvKpaXuPnJLYfDl087vZj11MQS38-rtanSgps_QrdjHskDhQQyIq-4yZMzzCvggh1N5R2W_ELgurw6lxhPPiooqgPkJUhymuBBTISInFtYlNajqNq622eGXI1otRMEhlMecXhGZSeEb_13ySjvuYK97TyCWQBwTfLkCLfPDpTRn5FsIgy1h0NjA8cgRAPW7RyAqYfcPbOSaguudpyad0yVRppogQc4cAKIBvrlISIFvBY3y1rkDkk9Gy7WoyC-VyyG6R6MDBd__270VIApJvM_Bf-GFUj9XLyUI4GBbg7jrAYUJLYzWGvJIiOyKQeyr7QQ_NBNJaA",
+        "width": 2268
+      }
+    ],
+    "place_id": "ChIJOaGlFFbxK4gRi0DdJPmvwxc",
+    "plus_code": {
+      "compound_code": "FFJ3+JW Waterloo, ON, Canada",
+      "global_code": "86MXFFJ3+JW"
+    },
+    "rating": 4.5,
+    "reference": "ChIJOaGlFFbxK4gRi0DdJPmvwxc",
+    "scope": "GOOGLE",
+    "types": [
+      "train_station",
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44871109999999,
+        "lng": -80.4896581
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45009718029149,
+          "lng": -80.48855991970849
+        },
+        "southwest": {
+          "lat": 43.44739921970849,
+          "lng": -80.4912578802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+    "icon_background_color": "#10BDFF",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+    "name": "Queen",
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115739105293413474057\">Kevin Vasani</a>"
+        ],
+        "photo_reference": "AeeoHcLCCqn30vwm4aQngzCGjWDcwomGh4SR1jzYJx7yuLFY3Opnma1xxcPRseTRhrDAb3O7gpaM8ICFWoIkhsMKo9mLKlmy3ExSS0Qw4T_jZKsyJiMIUNUkqKxzYDQjPxBR2VPbmqBxPS-0Gt_djZVcYoftRIYYHG9nGNYufP-7jsO-Sv8yfCxMMcEmPYdO0w5yPqCc8jCGSe-bOH9CvS8b2eH73ufyP0nRGE8shobvASTqqIqzg1dgTMy3Rus4fhkw9sIuGmqYM7GZz-AixILYR-SU0BjG5th1hawyrSovzxNBKKfUMTgl-kElFoRNj3DfSNtJvYnjTUkd5uzWuRjR5p7FLPF99e64gR-l2HYACvYM7vOpUV9CsEdzLe_36rPuUTkdhTzrQw8IiAF2jxN0v5HaalKpoi9xtrEJ0kJ3hmygsEgn0x0FmqD3gXTEPCK5xqcUSilCHoHrjUzlN4l917IJ8gutozpFxXS6k0AgK1Du0zZuEG5Al6nKNc90L7l8rC_BYd4vq_EwP3cAI2_AG0C6Vw1OGhvQtnZ84QR1FzaUG_8H1Gnll9Co5RU8_y24Dm71pZL7IMJivU5p_7p1nWhX2vPGZ5fNonfzlvOI6Z2sLtLmhrYxqYrYqRIyW9uJ8AraOVyD",
+        "width": 2268
+      }
+    ],
+    "place_id": "ChIJeTNOa_L0K4gRzaeTlkkXNbg",
+    "plus_code": {
+      "compound_code": "CGX6+F4 Kitchener, ON, Canada",
+      "global_code": "86MXCGX6+F4"
+    },
+    "rating": 4.5,
+    "reference": "ChIJeTNOa_L0K4gRzaeTlkkXNbg",
+    "scope": "GOOGLE",
+    "types": [
+      "train_station",
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.449639,
+        "lng": -80.48736099999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4509850802915,
+          "lng": -80.4860032197085
+        },
+        "southwest": {
+          "lat": 43.4482871197085,
+          "lng": -80.48870118029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+    "icon_background_color": "#10BDFF",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+    "name": "Frederick",
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112571290977166922639\">Nishir Shah</a>"
+        ],
+        "photo_reference": "AeeoHcJhltWavkUNAjDs0EJ3DEXQ-3-Z8O0X5FM1BciVoVReh4n9mVUdyyMWbkuiNgX-51mIzrKDFeVrIYVzMKPLJgpbRxeFqEEQOZXZ2L6O4uvd-u44FR82DTFvRkSc3qBDxaP40eFzr1G2G6zHdEQG1hfldNdEhJA7jbnjIMcgqDQlHXS8hQswI5tW-2oViof-v7Kq0kKGjXQ9TZGUQfdfCNHVDS7-5NnTPxIqAvWM-68keerdKIldmXDxmNoBjNp2ravZ8WqLIjnDjivYL9q0WotVaNBy5InOvOET8r8Vv5UMvmE77tAfV-0YapTwqwoD5BMGizoS9RQ50_NOawdqTuDHt2OItRY88s8olQIBAiC50H0C91gGe3NcDHZINHrEfZ_bgHtP62QGOjcosiBXbz24gmrmaKcGrhulStQxtqy6YjQJjs0wLNkcnbZxo1LK_3soX5krmEHEAiJwM92R4QDtW5HKZQxDUBQkwT9OFjkpDWYl0VJsmTmIbjU3SmXqCp9CCcwVPng4PppVpFC_e6bFOLkzlTlVvYulvfpXDPgjC7GaZpG91nvYwgJ485aU2zA1sZrqYiMBIAe9xx6_PElxVlQN0Se2aREzpc_vQ9Q2Tm0MNqa4Jyc14LlaSzDikggaVg",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJub0fhe30K4gRn7rapH52eRQ",
+    "plus_code": {
+      "compound_code": "CGX7+V3 Kitchener, ON, Canada",
+      "global_code": "86MXCGX7+V3"
+    },
+    "rating": 5,
+    "reference": "ChIJub0fhe30K4gRn7rapH52eRQ",
+    "scope": "GOOGLE",
+    "types": [
+      "train_station",
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.446324,
+        "lng": -80.483605
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4476951802915,
+          "lng": -80.48223496970849
+        },
+        "southwest": {
+          "lat": 43.4449972197085,
+          "lng": -80.48493293029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+    "icon_background_color": "#10BDFF",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+    "name": "Kitchener Market Station",
+    "photos": [
+      {
+        "height": 2176,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101294686725542929064\">Prasad Moradia</a>"
+        ],
+        "photo_reference": "AeeoHcIvwBcC7aNN7FNigB-f5B7g5TuAlcLCZzaWeIQDTzQ643la7Qpb7H6d3ejKtjxL4qf9ARSOeOkLG1sgPGHPLaKPuplMDe8LLCJKwvM6DoNcuGWjy779RqHabRmKFomB7vNgVJlBS3kjuFtFVVouPJLUr851GoRitKyeQzN_8V-UOjtiS942cgSvKIfNycndfSLxyAy2I39PIYxNxY024uydA0vewpCpv6T8MQ75YNo9qa24xHILsFw0upeGxtmW43a_Dk2ivC8AaZNbnXsJ1yq1bs8DXpLS2amOADRKJAnEDQCDk82ARSWDu_CpiO0c5hiHNztJUdm73wpy1UvuPPGfznAqERcck0A0imQlRP5-37jdI7ywBNluZxmdzqGUv97r2znoAviUDe69kfUzWEu-lZWnrsO9ZHWw2NXl26-YFlcch4Bb4bdGegi9-VxuaFQBMDLlX_uwrWTqtz9_AqDB2DkgOkp9M1FKPTF4Gd_Y-ubW0KNwohGrN8mjZKqS7koX-8LlRd_b94R4Onrb9S7IdBJjqHJVI8Itu5H4dyVo2QeEth3UePNoioS5yo95mi-AFaVbFtfr-FePhuIzh9_LnVM31XSclvTFTIf5K9smUTuyhXGaqJoDoqauJVk_aImGMP-U",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJldjTpO70K4gRQIKrIgz_g3M",
+    "plus_code": {
+      "compound_code": "CGW8+GH Kitchener, ON, Canada",
+      "global_code": "86MXCGW8+GH"
+    },
+    "rating": 4.7,
+    "reference": "ChIJldjTpO70K4gRQIKrIgz_g3M",
+    "scope": "GOOGLE",
+    "types": [
+      "train_station",
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.498272,
+        "lng": -80.529596
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4995947302915,
+          "lng": -80.5283393197085
+        },
+        "southwest": {
+          "lat": 43.4968967697085,
+          "lng": -80.5310372802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+    "icon_background_color": "#10BDFF",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+    "name": "Conestoga Station",
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105223214983245069694\">Ruhiyat</a>"
+        ],
+        "photo_reference": "AeeoHcIGOIaA07uI2aviLaNxMtMfpsqD-mikHK6zujdDANi_QXKGvdTXI08y4_HHt37sL5AGuxj2RCgjBy-2xiAY_M154WMxyH-YizyDQmAOJwU5fvp6mF5ipMqXl_A6EOCJsvir5ShH55L2YJjcq00o1ysFMUREqG-DZi49r3iXFEi3L6aWL5_sdiN_qxg0_HbNO21Fcgww0XAKps4sDGxHMaHm9oZnwogpXivHXRRZqcheC6RF30TxdlnnbzkLGVWLkRfZ5mZ3Cp2hT9wKgXTTQEARrADI1Nona9S6Xk4rKmWFkDtjQRCB19gpe5Zyn59o94aUoRZsko7xWUfj9E8Sls7JGSejTIE3iHihstzgC66-01P-fNVc12Y1iBKoHWwzzMjBMQI7tJr6t3wCMTB4hM8ijzwYe-5ljfIrsudkmewnWhl5lXEbNzFphq66RdPwI0iXRVUUXLTufoRzjEukknFg63amh_bYXLUOJhSQSW3qZpjbNsVeErMQXgXLGQGypHTKZFS42Y_dc5xldFjU7WmU62ToCY4WdAtwWajW15wREYl0Z4ZiwSsRHt5Uo9l1mpMhzoGLQG6p_7V2JHi_Hpr-Gfq4nE8YinGq16o827JgjXKh9Iqokv2nXFNXv5LdvJw9jg",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJrYrMhsPzK4gRuHBfHCkFse4",
+    "plus_code": {
+      "compound_code": "FFXC+85 Waterloo, ON, Canada",
+      "global_code": "86MXFFXC+85"
+    },
+    "rating": 4,
+    "reference": "ChIJrYrMhsPzK4gRuHBfHCkFse4",
+    "scope": "GOOGLE",
+    "types": [
+      "train_station",
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.498294,
+        "lng": -80.529518
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4998067802915,
+          "lng": -80.5280367197085
+        },
+        "southwest": {
+          "lat": 43.4971088197085,
+          "lng": -80.5307346802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+    "icon_background_color": "#10BDFF",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+    "name": "Conestoga Station",
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103909128055869436888\">Hale Knox</a>"
+        ],
+        "photo_reference": "AeeoHcKjqsZCb46L0P3PdkEaopF07_BuuSU8JlDvmcEVTGvRj_4txlLE6vVz63ef64NKIE-vrIPMVb2jn3E2K6DBpODJDPRDguYPst2nWunVS-AYfkUYeON1p4x3fACsVeE1t0OutTwrqZYO0W91lsW8H_V1ixrx1dpbpxHx7ZMx079toItmNUnEK29pFmAX1f3vDHhXIWZhK6hFrk4jXeSHnNLI-TfkEoZ8q9VGMHsVi29Ar_Y6gNcjwNPPHV38CD_szx89nTZ6xqj05tRe2Ybs3FiaVwby2NFWUO_OBQ-uCtnYZ9nasHAm9MVr9S_TqtDvMfDKvtTRwTnoxYAH5dTolrcmZ8vW7ob1FfO7V5B7dVjmsrdaxdI2Ki_Gu1-3HqiG97jgLCRxzza-Y9lX852tjnCqrhHV7_ba-hdP_7FDDsuyH2kn9xuOqnMLN94YIZnqE8t-4FmSslNC6C9uvviXuqBpC3g_P89fD02c4-WXblZFdXR4m9ayeDLqec1klw8SuTOX_wiJq8WbUKORki83GnoPZdKT0lbSlBZJfmxXUtsM1iYl89qZCeRq6P4KkDYGhhxUo20zHWjIL1BzYVSIH3rpztGP0BAqbupNvzZEyo5KtpkXETZioFtOBDr-RMd5E_MEvQ",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJr13nhsPzK4gRjDmCnu7kOcg",
+    "plus_code": {
+      "compound_code": "FFXC+85 Waterloo, ON, Canada",
+      "global_code": "86MXFFXC+85"
+    },
+    "rating": 3.3,
+    "reference": "ChIJr13nhsPzK4gRjDmCnu7kOcg",
+    "scope": "GOOGLE",
+    "types": [
+      "train_station",
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.442396,
+        "lng": -80.475371
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44371458029149,
+          "lng": -80.47403561970849
+        },
+        "southwest": {
+          "lat": 43.4410166197085,
+          "lng": -80.47673358029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+    "icon_background_color": "#10BDFF",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+    "name": "Borden Station",
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114176121940812093854\">Jason F. Voll</a>"
+        ],
+        "photo_reference": "AeeoHcKU4CHAaMV_g4WKK6rsvW3BgyBwABHrPP_5OgAQ_91U6ODnKa9YRBfJtKFwgE8qkHUt-ryMsGSZGIP_Qp5SxRMBnbQ65dU0DK8NsGtxJmmYCKqWRAjYXV0tbC9gyWkNIjTVAnp4DLX2_8F8RRMh_N70WyHcWJFVsbCxsi4I1QMuI5OTlWc6ViQdAn8-x-0W9BGvSot1F2lhJgvmccJHw26whLts-OSDVJosHpINIWOoB2dowJEaD9c4HgUFo0N4cnYMkopVGQqwTXfhbW6vTID2pPzif-Sc3oDD2kaDlN3ZNa1CUJH-q46Tq57T3klRQvEvQNcafbR115yQfeR0trjZgzT77fOBTaz_mLIVm7-BeTiLwh3LpccCFBtP-ITUQ4MaKpXYir8zHklEgbB4wtJyN95K3xNIBJfbynLR_EzJM5VzBycCCZVpDZAomN8kZYNm_EvpiIEPL9w_iLwA2MIkG_NtGvSLZfWeuM6TPkAgR48P783s-5T5ZKiCz5KVigon1ZDkA0r0AgOxus1ZrV4nzpBDwaX2IMgpKNuEUHknD8ywQHMsvKLKbhEMRWVFRBsc-4jNm4U0lnb578fmNSOW6enIV8-NSE7X_4OcxAMCAueGWN9ObxRtfjb863mxjXLIzw",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJW4P028L0K4gR5L0EsP1RsHE",
+    "plus_code": {
+      "compound_code": "CGRF+XV Kitchener, ON, Canada",
+      "global_code": "86MXCGRF+XV"
+    },
+    "rating": 4.6,
+    "reference": "ChIJW4P028L0K4gR5L0EsP1RsHE",
+    "scope": "GOOGLE",
+    "types": [
+      "train_station",
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5,
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.43363310000001,
+        "lng": -80.4779405
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.43504798029151,
+          "lng": -80.4770279197085
+        },
+        "southwest": {
+          "lat": 43.43235001970851,
+          "lng": -80.47972588029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+    "icon_background_color": "#10BDFF",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+    "name": "Mill Station",
+    "photos": [
+      {
+        "height": 1722,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115057836825957861133\">vivek puthran</a>"
+        ],
+        "photo_reference": "AeeoHcI3xFZIUIEm1RxcdGEZaj7hiRD3TsIzGIa7lT3bAS20CMoTY6UF-j10Bz6_Hn30hEv--ruxt1K6kxt0uyU8IJvZiztRjDmxfqoRcnumQrCY-9uuUiQgttAgYDeEJcfdmjdDq5tTqURHwCvLEVC1BbwTcZNrjf-MKJqN3Rx91cxvZXQfNxLjKAI-8L9gRzykbLd-cXJm5OxIwTICz5PJ5-b2dNCd49JY5F0cUYe8wMXmhMuKkqIPzxBuncEvKnH0TdattPYbELq7noW7BHkDidJI4JO5yx8yliQ0tpZKkHAG_8IJNUjX_kBCdZrlVlykW9Pmxmp-R8Of9MJwF5kT30c3jCrj41xjKG84wnBoaOlbSy4lnN-pUHlePH5bC-u-VCxpZOzcdMtBEIZMS3DTF_CHApk3Du39Zbu11jVoWuCALXHIJrieIde1WMvakj0FIS7NoX-OadSxo-Sw_v-bVL3ImQHj9CxIN_pt5BkzNtIw-d5RcibpEbI7cBQv_5nQ7pvKl5mQFM2NyCLMSIzUmi-xNaEvsE1djDtD-PN2tgzmiLa4aq4IOPqiTrTS84w8uwnf0ioPx4BUhvI1Z6ys6bfEZ-8Czu4lBsr4i9q-72nAjWNW3funJMrp4LVK9Phkjx9Yidg2KZI-pyNEDoeVRJF8PrM",
+        "width": 2744
+      }
+    ],
+    "place_id": "ChIJ6T7bXOD0K4gR2T622Ru_BHo",
+    "plus_code": {
+      "compound_code": "CGMC+FR Kitchener, ON, Canada",
+      "global_code": "86MXCGMC+FR"
+    },
+    "rating": 4.7,
+    "reference": "ChIJ6T7bXOD0K4gR2T622Ru_BHo",
+    "scope": "GOOGLE",
+    "types": [
+      "train_station",
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 16,
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.422825,
+        "lng": -80.462926
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.42421408029149,
+          "lng": -80.46151381970849
+        },
+        "southwest": {
+          "lat": 43.42151611970849,
+          "lng": -80.4642117802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+    "icon_background_color": "#10BDFF",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+    "name": "Block Line Station",
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108467449317425944171\">Athul Eldho Shaji</a>"
+        ],
+        "photo_reference": "AeeoHcKkyISUkbtzW_YT2yXlJfsHVnlbBkmPmOUchIqLFDVNuWtppYiLyoneLcbK4If5fwNmcFgqLt3tIJ_J2Mv7b9mKtPgu17oGA0PxhNQzIsM11aIqC6E_RYd7e7mBhwnsstHabHn1GSz7WQUPFl36K5MopwvNUvUzSXWKBTpR99KZPVdPWSWuk_bTdiwKONouRDMIjRvKU-hLo9N2GT1vmDa46V3pg7ZN8Gk379BSLRaEM8Djsdbe5c6nqFgMv13-nqDA8TqnHmIQAOaQBbLRpHjvZwwlEPK04UjGQu5M-xKWUYJ08CDet1kqRNVwDgWvpFldniPhMoG0ahm0v-vj4DhAl9qCRZfncemdZXfmpvi-ZL6Pqsb0be77e2BOVXMYI1Wt5zIQLai8DS8yRd2YiJkEN8QvUBKMJVK-vLcehxAMewGF5d76-YlV20yaKGro8L2BcM8ZXZDzLINvk-VkM7UvD-j4PmhqETqDZ6sxSOY31S9Vu01Zb-0jz66PiEgsZw2rOMDUYkDLgfsFjANgb-qSKW2uKXjtDvwd1V6GQ1XVbyK3joqurkEWoDee9QRiBRkwBFhE-j3L5rXUaUeZCE1QSOKJNMZcMSlFME36FwnvPnty_uJ_81mUY9h5mIqrDaTlMw",
+        "width": 3000
+      }
+    ],
+    "place_id": "ChIJ9xEbTC71K4gRhcAETsnOZ1Q",
+    "plus_code": {
+      "compound_code": "CGFP+4R Kitchener, ON, Canada",
+      "global_code": "86MXCGFP+4R"
+    },
+    "rating": 5,
+    "reference": "ChIJ9xEbTC71K4gRhcAETsnOZ1Q",
+    "scope": "GOOGLE",
+    "types": [
+      "train_station",
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.422363,
+        "lng": -80.44184299999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4237621302915,
+          "lng": -80.44051116970849
+        },
+        "southwest": {
+          "lat": 43.4210641697085,
+          "lng": -80.44320913029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+    "icon_background_color": "#10BDFF",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+    "name": "Fairway",
+    "photos": [
+      {
+        "height": 4096,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113667169149006008810\">DEVANARAYANA RAO M</a>"
+        ],
+        "photo_reference": "AeeoHcLKXoeJJU95rGe2xTqFVV9jdowf9GqvmNnnuFfff2Sg6e3aZKt9ALiUHHpi1UJB2B_TsclYfH5EuOvvx1QpnOVo9Gy10-1nCnXQ8e9SqTtasW41dCbdmqIKn6nKLPPRajq-8ASvfVVP-5z18XAbFXCTJq-nCoxUjoRQg3ID9leOEZbPh87iptsfAqLFKsAjVUYIwZGlXi6YXja2HZtSTLj7iGtprqfYYthouSD45QQ5PQTsnRjwuD7uwRtFtVhp3AoQ_fudV6LovtKDGCfRAyxM4kCtBDN9jwH6wvMpqcWhmMXChD9m4R-E8umeqd1o0u9KrUBwmCCvkkOW9l6src43Jw-msClIwv8qCciE38GdICi8EXd6sEsvWHad3tvLrslHLcNlhDldZkYITLSZEkIEs9iXqxIfFxUDHzK__mgq_wbMO6K9tMpK2elRuWIzKl3XTmzib9LoGiynUzFjwiHW8heKOtQqFU6KABnO4c1Gd2oo1dbqp8Q-nqXITErJ0XL-qWc9lznJRBqGeDqvjuWt2l0txpmWiHA9Ij7Ia7i4CTr8V0RX3SRiqanbjvwMkthE4T1ZgGaJlnzovqVTIiXHcfw0zG-SWGGlUwXndRo3dVdQUtd0jfFF4qg-xtcuSFJT8G74",
+        "width": 3072
+      }
+    ],
+    "place_id": "ChIJV6H4WtqKK4gRUjHQocT2rfM",
+    "plus_code": {
+      "compound_code": "CHC5+W7 Kitchener, ON, Canada",
+      "global_code": "86MXCHC5+W7"
+    },
+    "rating": 4.5,
+    "reference": "ChIJV6H4WtqKK4gRUjHQocT2rfM",
+    "scope": "GOOGLE",
+    "types": [
+      "train_station",
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 37,
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.422295,
+        "lng": -80.441812
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.42361083029151,
+          "lng": -80.4404519197085
+        },
+        "southwest": {
+          "lat": 43.42091286970851,
+          "lng": -80.4431498802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+    "icon_background_color": "#10BDFF",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+    "name": "Fairway Station",
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103909128055869436888\">Hale Knox</a>"
+        ],
+        "photo_reference": "AeeoHcKgGzyjCRX1pojZFDVL5S5Jw-xXHgNRRvSGF2pQ41zHh7Xdo1L2ch3U41umRh_N3VLkgVh4jy1wZJmOUMS9cfCn3Z2SUs3ljMw-hT75PjoizIHxIZOpGcgO6gz0djF5T66l0tDpLDxkCY3qZ09NgG1lWg-rwSYNOCSEZf6QaY3hyvXJE47Wcswbyl5Yg4yJhziufdnUg_VZQ0yml2Jau4X1k2rsYTpvRh50VAvHjHYh2mdbdvfkYJ7btNl947Ci0tnPFmn8regrMN1sprKu0h3G7xI-kDuJ6V_xsgLFqCZuXcvIb0f_6WM_QlvFy9ZIYJW001XHcRbaUpq8AKuU4bnxK91NZAmXncFQvU7TRADMpQrBAvXIsdEbKE2yX7y5RXP3c8D5RfKRjhhVUQJpqHyn7OVCK7ZpuXCsSkAyZPTbfa5lEr733b_7kJlRLAgAXYfHQ0aypNQPKjYZ5WYDsxnVHzAk_zhFPmpxjSYQqZSe4sVru37xNz5fjhd20DrmnIYngmBZmPamgbhVc5OOqOwXtjALVuehHedDzIMNMGgjvgt2Mm9eAM8ZnfhGdNMtrVd0L1FFXCbudHNFykXbv4BRgMGB_zM8naG3VfoEyGXKaupzgRDP3J48nloMwIXfjCe1pA",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJtX9GWtqKK4gRRIHB_TBBbF0",
+    "plus_code": {
+      "compound_code": "CHC5+W7 Kitchener, ON, Canada",
+      "global_code": "86MXCHC5+W7"
+    },
+    "rating": 4.2,
+    "reference": "ChIJtX9GWtqKK4gRRIHB_TBBbF0",
+    "scope": "GOOGLE",
+    "types": [
+      "train_station",
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 17,
+    "vicinity": "Canada"
+  }
+]

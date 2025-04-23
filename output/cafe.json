@@ -1,0 +1,3288 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44249120000001,
+        "lng": -80.47456319999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4439127302915,
+          "lng": -80.47313881970848
+        },
+        "southwest": {
+          "lat": 43.44121476970851,
+          "lng": -80.47583678029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Tim Hortons",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103807260856515985830\">M O</a>"
+        ],
+        "photo_reference": "AeeoHcKFb64ARP-M2fGQ1RTipHF9t7OwIv7zS0_a869s8MFZonkexNAoz_ttpfq1KJHuZqSsVDMgX9Q-0kzOq_a5nYNZOo-CUR8B_nvv2V3ZEFQQu0pVuJD8oD0G30iAWeUzzXfTvdjb7gcQM66TK54lLbZPF9DUUahGXmbHsbwo84FLoqX3i37f_-dI7jZbhf3SVFUXAs18hCQGpTcI7kS900spevA7gGWhikHcRYLwnaMNqJG0MUGLr5zCPnEbG_a34cdi3SrCBWg537luc5Cx7UL4gx5O0G3vb1bu2F4-Bfurfx-BDCEXy-RFUeLQpMoDHeG-OdyUhAReKCXtNO0Vx9EOr47OWA3xKMKYHqLeJZPpX95U0q1YfgSybdp-mK3gNnm0EGKhrLZPo-mTD_8n9ZcXd_3UMTkSDBh3xeTuIV1pQuZKMWJwXroteb8yBJD512IUlwyBIWgRCJCWAPvUtxdy9_zYneq-sLt0oJqFTvwYSoEAzncf5EGdw97qjPtl299IQFLBCzxNsRUmDhhCeNtbF2TK_tNUUnzbGSBWhnnlkCQrZiATaJJGRQWoaKLZPigIoZ84tWA5wiab94KcvaWDx9Tp6fZyJBw-TX6rVBcn542Lc0KmPOXtbcevtKXHKgYA_g",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJFV5C-8L0K4gRlwTGIs9VSnY",
+    "plus_code": {
+      "compound_code": "CGRG+X5 Kitchener, ON, Canada",
+      "global_code": "86MXCGRG+X5"
+    },
+    "price_level": 1,
+    "rating": 3.8,
+    "reference": "ChIJFV5C-8L0K4gRlwTGIs9VSnY",
+    "scope": "GOOGLE",
+    "types": [
+      "bakery",
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 1639,
+    "vicinity": "925 King Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4159668,
+        "lng": -80.5114388
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.41726678029151,
+          "lng": -80.51019896970848
+        },
+        "southwest": {
+          "lat": 43.41456881970851,
+          "lng": -80.5128969302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Tim Hortons",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4680,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104785519452815381963\">mishal gafoor</a>"
+        ],
+        "photo_reference": "AeeoHcLAPyXIEs17ET7wgmeuaee8yyGpeCYo150QA2Czg_Vc4HImbLcYPg4GSzxu3mBD736zPGeMWXGM6G3JmINNauPWnlTAGHvI-8W01Z9U8KuZYir8-Jg66hpOp98FD06tpte1Z6b3s6SDcU4J1iyU6jhUZWDTeXif2UE0fdR1ttmPEAspprB1efBHY0xrte9zKZ51_r1IO02fgSZxqvrGA6LoFzQCPoNegC0XkiJePiZyY1M3quaPOyx1u7PmCNv8v4_MilcK3hzxBER8XDMB5onTZPWExDDBbW1htnTXh9BxMYikuDzJ7OnC6V1p_-o2emoP1jtiDWJSJrUcvNLgXsb_B2Fsfsv_CITtszmqYnSFsbJzcd1Ntb5Sr2AOAItnbr7tJcp9VHj8NihuTc7F2t9ZH7tStnUCYQp_S5pqtT131oDnKR4VRHJwrAyReC_mPXrqvDliF17_lMfhOh6o-0lzx0AowZsd8kZf2u569hOYp8dZmJENbV9_ZlPwt9em39kZFN6t9rkRA_zrNI8kKbwn6rVx8lAtp_nG5YGKxweMRoJATokTbfatnoiAPQIDl0DA0oaib8rLiH3ll6NUTP1Neh82Uq2ME4AFQR1W1e57UOKbRjWvupV3-fF3jfjJUNfaAQ",
+        "width": 3209
+      }
+    ],
+    "place_id": "ChIJ_1Vv_pf1K4gRwdMmq3F1cR8",
+    "plus_code": {
+      "compound_code": "CF8Q+9C Kitchener, ON, Canada",
+      "global_code": "86MXCF8Q+9C"
+    },
+    "price_level": 1,
+    "rating": 3.7,
+    "reference": "ChIJ_1Vv_pf1K4gRwdMmq3F1cR8",
+    "scope": "GOOGLE",
+    "types": [
+      "bakery",
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 1523,
+    "vicinity": "685 Fischer-Hallman Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4714332,
+        "lng": -80.4404689
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4727455302915,
+          "lng": -80.43915441970852
+        },
+        "southwest": {
+          "lat": 43.4700475697085,
+          "lng": -80.44185238029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Tim Hortons",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 9000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107084617862330119926\">Ruslan Melnyk</a>"
+        ],
+        "photo_reference": "AeeoHcLbIHvYNlgIRkLiuj5HZJ2zUqOarxI_NsRU5saqziTbZwlDTokgNEC_9_u3VYRVSSN9WyW8O73_ftfp8dz2JKsEyvt9-giXyeUtqv_YfRZRy1X72qRRMwUTdd2io6mp5p8QWrLH0AfFuwREqpHBq4dpfmx6vIydHBxmZBAn3qHbf2D4xghcfq4m12UA0qs7xZ7OUwPwQSSxjAqpD5ZmCWbNaLxRQDU-_f5vHWvtDb0K9X-vY2Uxbs9WCFiHn06gOA8ULvZn5F3zM_7XhUQOV0xQrYCvDzk3F366odpkPfO5MkFoRilkB68o7_4RZ7h4Pt_1g7mgFEKIKaF6Tkj14Cvd4-xCZ0xhAZWSbEsLmId1Z28G6GfLsAlgjSiouTIxeKEChOKrULavDFVyMs3Hm62mEILbNTae7wbVy-Je1GbtsVBCIgsr21oWErFwkgbZDYmUP48K5ffbUK5i32lLgDTiKp51c4YrHzjFWrc6hTa-YIaoVfIMfbs_VvfI3s3yClsfARyqcuMkWaYxCLMzy4L8Y_FdMaYNLEipFwypgKJICv0wqBMvtwMde4ujJQXUfM65IA4nCadUqjfY4YOJKGmmFrzEXvsTXSKFcGIzz7HhYFFeKTeU6V2S8VkWP1HQFtw-pw",
+        "width": 12000
+      }
+    ],
+    "place_id": "ChIJ6d0zfqaMK4gRO_e-A4KEL3I",
+    "plus_code": {
+      "compound_code": "FHC5+HR Kitchener, ON, Canada",
+      "global_code": "86MXFHC5+HR"
+    },
+    "price_level": 1,
+    "rating": 3.6,
+    "reference": "ChIJ6d0zfqaMK4gRO_e-A4KEL3I",
+    "scope": "GOOGLE",
+    "types": [
+      "bakery",
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 1489,
+    "vicinity": "1475 Victoria Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4837233,
+        "lng": -80.5259945
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4849887302915,
+          "lng": -80.52485091970848
+        },
+        "southwest": {
+          "lat": 43.4822907697085,
+          "lng": -80.5275488802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Tim Hortons",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105346788975132129606\">Aman Jowaheer</a>"
+        ],
+        "photo_reference": "AeeoHcKUGZwmcS9EzR8Qip7VHQd3hpveiLBt3m8yD253Pt4gUWm1uQTlqSHrqdgvaNUD0JgFkci-kGffYnTJutxdHWdTd-IVcaG_cAcOv57ntldUnv28EnA4Eb1iSswyEezDGehp8BYT2Ur5JfphzV4lqk1HdS2n17ZQJ8ZHIW3cv3cfjGC0K3RyjxWv71k-pIrFdiy7Fq8fkzadpB71nUym1kNWZkWQwuGAOqFtqh0OsxSmuX2UODq7q7gEe7Hji-2ZI-agMLH-mfy1ljC5FdCrwoQphm3zCzAjHC9EdAmhO46hkRvM48MMYV5BveCAQ8Zi0sHbcbY_4a-8CMhhvKX6hT8Fzgiokj64cHbGknBJK3Z-EmLFsr97s8hrf5LiJzLWyIAZU8u_DL4sdppFFuuRA3nGkHNIXLGOnoox-uXhoaRQGsRlCzVySWE4sJaMgAAC4x89SSDBOhFxxtwuEbSHeN6vO4S81tKJ32ae5BHIH1m50IixDjo518GAqtjPQWDHK7zgHoTTlqmKS1OybMRrkHKAbyHX2cgP2vVDlxq7s6yFiovsbHN7qRb4QuVQi7JDF-trnQRMxxZhgAvRKH_LYGsRba3D_iAm2IWdnJ9VE93wJ-uUC7GWfwOIBunTN7zCG-2fc82t",
+        "width": 1200
+      }
+    ],
+    "place_id": "ChIJdTPZC_LzK4gRxOJWmCJ_pQU",
+    "plus_code": {
+      "compound_code": "FFMF+FJ Waterloo, ON, Canada",
+      "global_code": "86MXFFMF+FJ"
+    },
+    "price_level": 1,
+    "rating": 3.8,
+    "reference": "ChIJdTPZC_LzK4gRxOJWmCJ_pQU",
+    "scope": "GOOGLE",
+    "types": [
+      "bakery",
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 763,
+    "vicinity": "384 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47699809999999,
+        "lng": -80.5214871
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47837193029149,
+          "lng": -80.52026621970849
+        },
+        "southwest": {
+          "lat": 43.4756739697085,
+          "lng": -80.52296418029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Tim Hortons",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116754247367708394247\">Toko Love Food</a>"
+        ],
+        "photo_reference": "AeeoHcL7G7juPFBdW3n7CGX5QAwfMaiVaGGJlWLzwo-XNlW035qEd-0fK6K8W-t7LZ87pJMYzNKayudTLVU_D5gRDJHbF0KMMKzwl7btpdRZBBgC2aVw9bQJJtI58u-nG2tpW8Up1HqbAxF6RvP6A_OLWwrrF_Z8ua8HV3PZmd-K0oFieBccexC8L6eH6R6BIwJJrLNtJCyWL2fg0ZDvXN1j5a5kgZoLv0vcjTnY2zYF36fcxftEBJDQ7Cd99wcF6YYN62Qb97wr-P-mmSRBlukwSRQCJi_NURo75a1kwriqShY46SQ1zB3KzAX1kygm2GxGlpUfvAwWvoPpkX1FBB7Zj0iz_NFqE6LXC1OoTaByL3G0EQquDVWvMiJz1waacgiYnzWWscNun3PWo3-4Ob2TmZ4lVCRji7wMCAtRl0_KF-82jFpqpmhI7zsAdTsdo09XLU_l9OMHgmEjwt7lbS3rnjAv5DBTAgTZ-9BGnFRBsXAzhKYOp31J3ahomTNkpeznLnfOM9hsB-i_GTsIRsPRslVRzbzPMkVUuwwZ8nXZmQb7M-ThSRftrmQ3yHVBH1ZSgr_jdFSkZr9wIisVTidsE94bKYGRCNAAKrJKESL0JgOf5XpD1W4ViTICF9dpkBzobRuIkrzi",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJ3Q1cmgP0K4gRMg_ATXh0ClY",
+    "plus_code": {
+      "compound_code": "FFGH+QC Waterloo, ON, Canada",
+      "global_code": "86MXFFGH+QC"
+    },
+    "price_level": 1,
+    "rating": 3.6,
+    "reference": "ChIJ3Q1cmgP0K4gRMg_ATXh0ClY",
+    "scope": "GOOGLE",
+    "types": [
+      "bakery",
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 1631,
+    "vicinity": "65 University Avenue East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4669868,
+        "lng": -80.5230936
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4683250802915,
+          "lng": -80.52163271970849
+        },
+        "southwest": {
+          "lat": 43.4656271197085,
+          "lng": -80.5243306802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Huether Hotel",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112522364638976627365\">Sa Hua</a>"
+        ],
+        "photo_reference": "AeeoHcJgHnHH56uKXtu2XuD0MJBELQVJkKaC9iPdwPqR_rj8tsK8zDU11rHvRveprf5itcyRCaQREjzC2aUG1B3d5srFZuEEBlJ3S7MHSEq_jI2QCnM9vmQzepQL9DHTWzeUfGSg8u65FyKfdj_UjVxdKi3Gnt0dM5cvnoLmhXZdiyXncZ4f9qPhPYnPj6tdllwmjNl0ZX5wEFcG5eOtfid0DoByi95L0cvI1ZpdfAT6jlQbK1Jr8CVOT4s4P8hsYW_rbx9I_vctcR3lyvsb651cpf_qWYmccSzqQJ9meXepFQUrAi97VS34KBHJ9553LvGIbUvRpGtKjtBPMWLZ_C9YFp65rDKfYbxt5Yel2NPu-8XkI9CGUJ2X8NTaPFL--yg3HCx2BvAiNQWj_2KDFKcu3UQGGA3GxtsDl3-vdQj1d2YedLvfd6sXej8Pt4lL64nJW3E9HcizKknMQVS3zJbBkwQYTWtZpP7eZD0UxHi5_4wjuzdFnHBS5jSzsS0qkZhV8ToVZscRBH1LaGIJHxYQjJM-dRu9xnx7g0cdpZcTIvE8qIMuJx2zp3qo2cl8OGjeO-tcdANoBrB-iSbBjYhJj2wtkQK5ZDkiNSHnWH_ruFczt_97J-nyU3IjZHLYvyHqItjljnVu",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJbU6D4Az0K4gRGm7S0WGYD6E",
+    "plus_code": {
+      "compound_code": "FF8G+QQ Waterloo, ON, Canada",
+      "global_code": "86MXFF8G+QQ"
+    },
+    "price_level": 2,
+    "rating": 3.9,
+    "reference": "ChIJbU6D4Az0K4gRGm7S0WGYD6E",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "night_club",
+      "cafe",
+      "bar",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1502,
+    "vicinity": "59 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4846435,
+        "lng": -80.54026979999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4859889302915,
+          "lng": -80.53894326970848
+        },
+        "southwest": {
+          "lat": 43.4832909697085,
+          "lng": -80.5416412302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Tim Hortons",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113932187865128667984\">13 OTHI</a>"
+        ],
+        "photo_reference": "AeeoHcKX85DLJjqoiP4k1gQUshjyhj24fQ5kMb7xfXXdRtduygFG3-0LTBIrELzuo0elwIDn0p9tasqXPs1WPtqz8e_SDFu_D1vELu39NCUKHhxb8TF895GiU5egUbw1Vae9NCGTDq9PXSZBvfVb9szTErbIZ5kwMrfLy-04VCWUw3GHzLXYlaSqeQnPwy0TvBb4v5UpiC4GTEBjolSVENLNU63IyFGsJMCD02BoTiq-K_DKjFA_Kjx5EsZOf-EVxg8jjaE81AslqwzviOTHQ3xPTke3BAN-THV0gOw7muKnngW-s1k95b_87WDpu3U-M4rVqcLsgqYN1XtwEfNGL8mad6gZkOfo3z5a4jDcKukcIUh3DKDlhIRkioXUxBWiqxW6hGFil_cVOJm6eVIK6oPtf4Wt7xUbLSGdN8R1aIxD0gg46Y_UQ-vF9P59LYCAomK4dH1Z4VywtgoIdTIyrtTJ8TtShs--He5mEVBMpXFEaCU64PC3ggCtypbExNE-j8_bgSRbYs7TA5XZZe0aU45xZKN4e4QaXKyrhoZaaiDwxjPPGLwnpZHVfuzI5UZA8pzNGXDcvPyiqpkRozhgvRo0nH_IhK0U5jrlxmWZMQbBFGOgEEpiRfeihzxP-Vixzp8jgxUnqg",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJAU-_2fzzK4gR5C93JyGq_aY",
+    "plus_code": {
+      "compound_code": "FFM5+VV Waterloo, ON, Canada",
+      "global_code": "86MXFFM5+VV"
+    },
+    "price_level": 1,
+    "rating": 3.7,
+    "reference": "ChIJAU-_2fzzK4gR5C93JyGq_aY",
+    "scope": "GOOGLE",
+    "types": [
+      "bakery",
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 1035,
+    "vicinity": "465 Phillip Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.48884239999999,
+        "lng": -80.4927009
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4901590302915,
+          "lng": -80.4913995697085
+        },
+        "southwest": {
+          "lat": 43.4874610697085,
+          "lng": -80.49409753029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Tim Hortons",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116249149672448771582\">Mike Kropf</a>"
+        ],
+        "photo_reference": "AeeoHcJVaBol3M-MNiXesQbfQMLncDDloaUhjUeUMIVKqOHLoRabYT1_5tKcautEZNHqd2Tf7EDXm-r3l38yAPHNybYUNxbzy-yJx_hECt8KPqfLYHvSBaARREY4h4sUY6CNrbJ497asLRpROthMjam1RiQKLH8dYKtw5bI3-rPgfGF7MuLcch3-CkBjPxeR4Xe6BbIp1xcmXXgR4j_6nOMf4YxvlC0djxnMyV29G3HnoKBbKRHC0VDgdRb61IinsOLy1PmfgDwcJtjbQPr1XFpOYpca41TCCu27_R502uGatGnJHKpp-F5HdF5kAJEh5dTXMGP2zFdAsQDdBW2dTgQyDMpui7dBEYyLBCeCM5Gs-3IR9JCJc3Lsm7WLyZEbxqjAb41frRIY76hs8zYpqcsqPKsKy51tWzRnffAhkZUMdHYlyHMNiSVtaExwxIi4ygPepPnKRMqbaqkiPB_1_WUQJRH2GbLDJJ0ty_rM6J86n0tGy0-CqEg3NiLCarC9QWYPhZgBbTh-sKUqjUten09tNZSmKQjMFipnuJYd49clLHrxYlJFAW0oziO7Ip9DkMr5s8j4coxS4vS0iCjAnpKrrlqte18nWCiMzC3ci92Zo9y29dn7XOpdbg6z9-yjuL-8RG127A",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJYxAXYHPzK4gRm8kEYTawTjU",
+    "plus_code": {
+      "compound_code": "FGQ4+GW Waterloo, ON, Canada",
+      "global_code": "86MXFGQ4+GW"
+    },
+    "price_level": 1,
+    "rating": 3.7,
+    "reference": "ChIJYxAXYHPzK4gRm8kEYTawTjU",
+    "scope": "GOOGLE",
+    "types": [
+      "bakery",
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 774,
+    "vicinity": "425 University Avenue East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4628433,
+        "lng": -80.5220047
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4641650302915,
+          "lng": -80.52052996970849
+        },
+        "southwest": {
+          "lat": 43.4614670697085,
+          "lng": -80.5232279302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Starbucks",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106053813987624666164\">Starbucks</a>"
+        ],
+        "photo_reference": "AeeoHcJvygoMKNOjh8_g4PQFgl7Ir8xZZsMwFkX94Hpt6gkWjZweu9BIzCmU0stSfsLky1TEj36--0Os-EO4iZyCKEbx1EybDe7DAmM9iZjuYYgFfrLxavJIl4999GlfT-v9-dUlIWoDNvuxY5BXlKVLkPEtxYe4_E4KUQ9XHzO5wWEgEcdkdZtLe-sWbKUaZduhuzWO17n39yGECiNhe-43kfFKBBrqTha02RWubLWr7yKzI81Tg-Sk8K2TebCs_fFqMs46H4NBsKFhDn3YxrRcbBxAEm0yCqHDoOPv_66-DL-D7POczbH3tc4qVvP8bgTLRcZzEUKkhBU",
+        "width": 720
+      }
+    ],
+    "place_id": "ChIJp31vsRL0K4gRufc5GUdUy7s",
+    "plus_code": {
+      "compound_code": "FF7H+45 Waterloo, ON, Canada",
+      "global_code": "86MXFF7H+45"
+    },
+    "price_level": 2,
+    "rating": 4.2,
+    "reference": "ChIJp31vsRL0K4gRufc5GUdUy7s",
+    "scope": "GOOGLE",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 793,
+    "vicinity": "95 King Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4960556,
+        "lng": -80.55002580000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4972393302915,
+          "lng": -80.54880841970851
+        },
+        "southwest": {
+          "lat": 43.4945413697085,
+          "lng": -80.55150638029153
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Tim Hortons",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1836,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113092473530925778149\">Jan Najvarek</a>"
+        ],
+        "photo_reference": "AeeoHcIDFVlmVq3REcP9yGRUSwv-duQuC8RETHsvOOJVmzzmvfUNJrT5Kh2FSPek4-uImrcDKnar8Lfp_rCRBBvnZRGLeIF9s2-PHKEpfhNeni8r8I4I7rNMvlc2_ZnkRWm193e-3f8eK26g21uB04tADzIM1C3JHcDrmWyDFYRyl6_3w0NC-PXzkSDRugSwTxU56OShGaPaC2mTCHGHfrQrz2QswZg_xBvGZUj1QD5bHLo6cH4HmjmwQq9PD4SS3Q-IiblkoV9Gpl9OwwUyH6TwYC5182ZF6Fzg7z8LgTW8OHYsvi2YmM2qHjvY37uNoNhlXZILFc1VoMwYzdHGPTfYrxXklnLPzeMafeaOxK_7hx2ljvzdVwM2wC46QiRYGGU2NSpBfCchq9YuukKzpCmf21M9aaeUEfUO1VTBa6_TOjgLo9vPRG_kA0XzVBft9Yfg_jhJB0tngBYLY8Er_Bn7gXzkwygu8rN7DIYqe3URZ1_ztEayvVLsoVkq6vAGUTAjJnqt5McTDWMk6Y2QqEhd0h2H4Zxh2r7CB-JHbemOKh3l8wk7gsl68_EVfo6yI1XOEm17l6hkIjgakzoggXjy7wGtCz333J8OJmjbu621O5NGn4SOI4tMcl0VJmFK6PJI37WhXw",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJFei-a2fxK4gRwGZUEv6ZNdo",
+    "plus_code": {
+      "compound_code": "FCWX+CX Waterloo, ON, Canada",
+      "global_code": "86MXFCWX+CX"
+    },
+    "price_level": 1,
+    "rating": 3.5,
+    "reference": "ChIJFei-a2fxK4gRwGZUEv6ZNdo",
+    "scope": "GOOGLE",
+    "types": [
+      "bakery",
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 867,
+    "vicinity": "585 Weber Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.43814520000001,
+        "lng": -80.51079109999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4394699302915,
+          "lng": -80.50940731970849
+        },
+        "southwest": {
+          "lat": 43.4367719697085,
+          "lng": -80.51210528029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Tim Hortons",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112502428498114252985\">sankalp mogulothu</a>"
+        ],
+        "photo_reference": "AeeoHcL-KZHJL4XUD6wuYgwWq0v7sMNXpnb5iTAj0G3A_YazkTXeE1CAo-MhT0_vs_EsbcP3loOogyt0ijhpam-Lh20Jd2pjvSoFvvXoC7OXI8XjB_a_90Z4AQoARYWypJYd0s4yAkIoGZ0UlnOQmrW9On0VrHP0Bf_2iqxFd5iV_VNfDVqwVpHb5yJfvfAGvR2Iq4c9ppSTS-4-BPWqC_H_0cjWnQmYziQ9uKGEeosue9aLOtq5DDsloIHMMvnj4JVWPnHLXVm_GmZ4GaIsxRjbl7O75O0RTxFmwDjuwxJQNF2D2ECon6MBas-aKRqkSQXLEEEck3AkR1q9igjKBjRLOFtzpKTNs1JcFSgzzKcpOUm6k-jIEQYaD8BOAX6cxvD_zxHINobGLGmX9SX30PukyfHDUeVr9whuwSZoC1nnW3OFJqNptYHQh0o2lNyn1oCwlgVdoc9xZA_ecNof_NllSzG2O9s_iqnNQA-BMYI5GHzP_mT7-QuNdAwhhtBOr27MYoRRniV6K1huHK7uGJFVIoJrGhqqQRIxfr3i9IZ_65gyaAvpU9XakacWPSihjAW3fWrs7OYIugRudn5KYg43wyHcpCPTga3HquQyaxlylTrXH2vTOmz6cNMsw6blH_gZwfZ6EHRI",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJ90dGdFL0K4gRXOlqqf5cVw8",
+    "plus_code": {
+      "compound_code": "CFQQ+7M Kitchener, ON, Canada",
+      "global_code": "86MXCFQQ+7M"
+    },
+    "price_level": 1,
+    "rating": 3.1,
+    "reference": "ChIJ90dGdFL0K4gRXOlqqf5cVw8",
+    "scope": "GOOGLE",
+    "types": [
+      "bakery",
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 752,
+    "vicinity": "354 Highland Road West, Kitchener"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 43.4771884,
+        "lng": -80.4841675
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4784983802915,
+          "lng": -80.4829333197085
+        },
+        "southwest": {
+          "lat": 43.47580041970851,
+          "lng": -80.4856312802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Tim Hortons",
+    "permanently_closed": true,
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116992612198728049857\">Aquib Wahab Ali</a>"
+        ],
+        "photo_reference": "AeeoHcIi-gZMAywPTEHZCEQ5DuG8buUwYnIzz66zCZMeCo6afPZImIUW8qjXY0Tn3CR4yng1py2l8UjaHItRRgvyn4GG5PDO2pNO91Wt3UxLWrPobdTmp-lZXnK1YCE6rDnBRRfzZZqO08eqvTVGeMVda-HqvcBxHGc2-YkaSX4ybd4nnfOf3NV1gQ-T6DjMazrBtZBRr9k92uavxVubVlzO5eBk34eqyqlbhxmuylvo-ftxD5Ozf8_YyFkp-FaQNBuc6JFrlFRy2U-KrozGJ1u0fjAh2dDy-s0fCQzai0xpXcJWnJBsQb6UmlOuut5QsETTS34rXv5BkBSL3JIT0n0KXj1-SeOEYgBs9-vYk_wHP17tZhgF3VtwAk9BFsyBB33ODw3i3lZIcPDIId3nYjDsvpRlGfCEfrTip1rrOshwSmJtDsYTxGwg2IXXLcQnTDKWYjhQsQLBDKREeolXPNXVMokijvO_OmC1ZyVSrzNBvnFGM0YKNetYswMVCamzmNr16jzcajNXX-icS4NMycyoywgRXZ4E4PPV-GUQaFB8uptxnPUtc0lk5e_hWYmZ8go3K8QEPl1YT_SbjyXHrYRWy5YajQKidIIfzkve4qOiKRax0QpKOu42-uNtMFgIbyp71PKYdk0V",
+        "width": 3000
+      }
+    ],
+    "place_id": "ChIJW-EHimPzK4gRu1nKS4n-NUw",
+    "plus_code": {
+      "compound_code": "FGG8+V8 Kitchener, ON, Canada",
+      "global_code": "86MXFGG8+V8"
+    },
+    "price_level": 1,
+    "rating": 3.7,
+    "reference": "ChIJW-EHimPzK4gRu1nKS4n-NUw",
+    "scope": "GOOGLE",
+    "types": [
+      "bakery",
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 1063,
+    "vicinity": "526 Lancaster Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4218348,
+        "lng": -80.45959979999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4231785802915,
+          "lng": -80.45835361970849
+        },
+        "southwest": {
+          "lat": 43.42048061970851,
+          "lng": -80.46105158029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Tim Hortons",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113057752363327686865\">Cait</a>"
+        ],
+        "photo_reference": "AeeoHcLb9ceDm6e8FRzZsC6cro1VlJvP8X-xJrppfq4bvnnZFp7NiFDJJc1qwJjK2ouNrt7E-cEpC5pUznbAuQYbr1ixuOor86SB_xtL11yxXvEtsZvQuC96NMOdeb46SWiih0H8QsvfdNzQYv4aXecku-Te5fcqwRZWLMJatc1DOZs1e9K8twnU5Mn_65giprT0P-4xRuJIfd9-xWR_NQ65h48a4GRCEdkb71jwqh-MuUHTKp5wQkazgQclHZEwfIzkeDgwURtjSNyIEpN86WTEn2IurTYDM02Tsv1tjDA8hI38hVPjfw06w-u3bNI26BmMPhRt2VSfClNMThS7CssX8o_tbYwQArDCvPNVWEbB4aPc7wyBgdMknLJ2akP7ad-jN4lAYvLeHQkwM1fMsDYF0KLJbc__nswUBfH7UrtFQ_SVx00zUf30Hb5FzZ60OL9i3pU9UHu3-0XdB4VTgMI13PEXKQU4oCoQdMVqsze_Qe6T1vjcX0sdyFq-IWgcCK_Su9P-w1v9BofzVY5n_EJaIma0DbGTZiFjhfg9T6U2I0awNCk0V6kf5JA4SCMOacWrz2owR7upi9z9V6Cr_WcqFTSbO8o4B66DcfquK1X741gmka7r0cd9TxkaLuf9rgqsVw0ekw",
+        "width": 3072
+      }
+    ],
+    "place_id": "ChIJD34fhi31K4gR00hOt1BpZd0",
+    "plus_code": {
+      "compound_code": "CGCR+P5 Kitchener, ON, Canada",
+      "global_code": "86MXCGCR+P5"
+    },
+    "price_level": 1,
+    "rating": 3.5,
+    "reference": "ChIJD34fhi31K4gR00hOt1BpZd0",
+    "scope": "GOOGLE",
+    "types": [
+      "bakery",
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 754,
+    "vicinity": "1144 Courtland Avenue East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4194415,
+        "lng": -80.50108
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4207726302915,
+          "lng": -80.50001831970849
+        },
+        "southwest": {
+          "lat": 43.4180746697085,
+          "lng": -80.50271628029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Tim Hortons",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106014338583283569993\">Ravi Koripelly</a>"
+        ],
+        "photo_reference": "AeeoHcKvqQSzhvzf2myukoGuY0mPGBNOFRiWXUOaN1CGUjTYSRFxpEU1Mvk8Nxv5k8Tcr6PIRz5_G8Iyju5ksuzRDqH5Pr_bGCyf3YvGX-ckvDaelyIjssbxIvHuexa-Dd5SMfftMMolRIphSkUgUZPO5eXalFnYNrg-AyB2oa5nVo7tecnF0phBMurE7CAWvoDtQF02ONpypDBwOfJIgL95JIRCNahntJlODzkyNo3zjEwEqfvObcRMYkwcrLpiIloboxFEVNFl2CzACgVRIsCStkULWT9pe2GWaQdpTX-i3AhkBarZda0hAtGdb836Ec7tdKx36oaW198eNmp1vs5za2r25OxywTe78ZXBJYpor98y93gi7Xe6bxhS0IkAd8-9ujGnngddcV4rvkwf4C2ZKQMDhu5CEAM79_grwewEt0FAMeYKKudzWvSDpLk9N_cGYN4CxwUowWqQi5atEzCUbl_ECscj2j4oNnd2DyGlUsZzsFX2KNxd6HkGX7zS0J23Ccyase8dvw5VbcDlhTQwLq5QYyR2V_lX32Rpbsjate_7mCXcIiwBimAJseoax1Zm8rgniybRttqbFKoRoFrGwlJUryP8nL6mTuDIzPhAr_DzzjYlRpNGeiG56jw_FFAS",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJnaI72j70K4gRq9gBANrA4fA",
+    "plus_code": {
+      "compound_code": "CF9X+QH Kitchener, ON, Canada",
+      "global_code": "86MXCF9X+QH"
+    },
+    "price_level": 1,
+    "rating": 3.6,
+    "reference": "ChIJnaI72j70K4gRq9gBANrA4fA",
+    "scope": "GOOGLE",
+    "types": [
+      "bakery",
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 689,
+    "vicinity": "700 Westmount Road East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44974789999999,
+        "lng": -80.4893022
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45117698029149,
+          "lng": -80.48802091970849
+        },
+        "southwest": {
+          "lat": 43.44847901970849,
+          "lng": -80.49071888029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Coffee Culture Café & Eatery",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1004,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104375491494375729869\">Coffee Culture Café &amp; Eatery</a>"
+        ],
+        "photo_reference": "AeeoHcL5Q5pXkIPf6UHBaSWtYO7eUpCPhj8C5rlQgFunIig0cas0JiKNFwDXnZiVqiDBIW4n-JW6wL_hcof2hO_Kq0Ra1UMU0iwQUzNqCQ5o7XP34qfkOgfxSJVlAd0xalxSuyPXzv-s-drE_ze8LCEgBPTxTTY6eXSBzbHP4iw3ux7roIdqqgMUdDmJKcvDeIK_i6jipXhFGCBOLjM7__s_OaEsji2DW0u9NxoJTITSP6kCTvYlikUIo8jN5KSPHKfvKCJZ1GhwWbJJHkKA690OX_i4Xt6ZrVsZ9y8QWMpvWmios8uSD32xLLvR4qcOGU4YQF2Ugt_L7Hk",
+        "width": 1504
+      }
+    ],
+    "place_id": "ChIJQWSQivL0K4gR8WZZNO_djSg",
+    "plus_code": {
+      "compound_code": "CGX6+V7 Kitchener, ON, Canada",
+      "global_code": "86MXCGX6+V7"
+    },
+    "price_level": 2,
+    "rating": 3.8,
+    "reference": "ChIJQWSQivL0K4gR8WZZNO_djSg",
+    "scope": "GOOGLE",
+    "types": [
+      "cafe",
+      "bakery",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 1032,
+    "vicinity": "1 King Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4111679,
+        "lng": -80.4591653
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4124549802915,
+          "lng": -80.4578383197085
+        },
+        "southwest": {
+          "lat": 43.4097570197085,
+          "lng": -80.4605362802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Tim Hortons",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2084,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109755365417170039354\">Chris Colliver</a>"
+        ],
+        "photo_reference": "AeeoHcKRoeFFc3XK3vi0-7bfr-UxkkMY3BQTg2afKRbfYyMt7j1QXSTe9D_Bt2n0UsT2gw9JvnZ-0tSGZDVewQEwdrRtyCh4PrhpDUG16cu4wLmN6pDvsTQ7Ndwt8xUV3MOQQPQUrTps8v3npg1VEZwHA1hZWayBljhMXn7Zkz2rV4boTfIa8vk1Mb-oDIGNj_7j9F8rwSgXb_A-yG5_TexW3JNqJqI3wHsihhawmF25r8mxnJ7oj8SaJltKXWGljxzZYOsaMwp2TrUVeO8BdTeh6JGkvCRMRfFjbSUPFfVBqq5ch-D0bi1FtCbdh9OZJrb2l2JF_A5d0sa-jaYQIgIsNqVrSdItfDXRWOtj4PDeqKwUP_CQjzVQXYnGyXcMK3jIhhdYTdoalyXK9MjIo9sUyJ8sQOEODKI6uWl2opIlRqR0qBsJQfCa7oSXu0vtENCT7XThv4KHFX3wumOOEGJEf7NrXokNaHrbwpPB54V2tgQv51YghZKjIo3m-WAVo1vk4uRfZJY7vfIf4n207jw3tSRg5OZaRGSZl5TjPnlJet16QrTvbY2V6CJ4oDOsQa26gzzZD1AeosItS8hUR-zGtfkxysJ02JTVywE2b2zflkyrt04tpp7L8gijC0dtOl0lyRkV3lmp",
+        "width": 3201
+      }
+    ],
+    "place_id": "ChIJnQUTE0r1K4gR0QVWu-CPWWM",
+    "plus_code": {
+      "compound_code": "CG6R+F8 Kitchener, ON, Canada",
+      "global_code": "86MXCG6R+F8"
+    },
+    "price_level": 1,
+    "rating": 3.8,
+    "reference": "ChIJnQUTE0r1K4gR0QVWu-CPWWM",
+    "scope": "GOOGLE",
+    "types": [
+      "bakery",
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 835,
+    "vicinity": "260 Bleams Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.48174849999999,
+        "lng": -80.52557019999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4830217302915,
+          "lng": -80.5241764697085
+        },
+        "southwest": {
+          "lat": 43.4803237697085,
+          "lng": -80.5268744302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "McDonald's",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 768,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105346788975132129606\">Aman Jowaheer</a>"
+        ],
+        "photo_reference": "AeeoHcK6oZQSFwSUtVLqGd0f4T9189Sz5t65VtQrS3Br4ZHdc2vaNyZXFbjNeM27eAFDR4DXhLbo7qa7NndUil7JK7Jht_2_TD32HZTYsBe3ZCXtJuHhTXPEQZd-GGBskaJd-k0deo7tP-N8NVmAlyNBKIcqxabQH6S3CHwGf6ax2pC894Kq4QX6e-5XbZRCOJNGVUVNATsVPjZOlmaGP9EFbWCqoIhTjetG6Bxx43_n9odTcaBLAXf4T8YbVC3TptB9lcIaxDX-c3Cd_hEG1uEyGT42nylx4srampr8rCSfEBHP2wbJzMjqpwsqlI5DLBIZIitFEmghw_YCMbBf6--LyR2xEtZyukXfQuNi1hx3zGm0qrxt5EmTUqG8SK3gy7Zfk-Ng2ZFCcXL84T8Ctr2Rj2jk5kQygCYHE--u3ntUWndWznWM5htGa82jGibk5Nn7WgHBtZ7MpZDyA6DAQjce1Hs5W27II1OjV0bJeYd-lOX6_8qlWQSLVRLl0e5XVWtjITP83ulEeDai7xyh8xDwdWtSBdRzHjMf-jwPtlRAIU0wbG1gTwQKH1VqgsS-7oZHI7lJzE0CeeKB4YYkQst_LErBbWamIpDq_1whqQAGFfIluZaqjhv4tjt-4f-75uZHuaJg5Yet",
+        "width": 1024
+      }
+    ],
+    "place_id": "ChIJp6htNPLzK4gRwU7zutTnBQM",
+    "plus_code": {
+      "compound_code": "FFJF+MQ Waterloo, ON, Canada",
+      "global_code": "86MXFFJF+MQ"
+    },
+    "price_level": 1,
+    "rating": 3.7,
+    "reference": "ChIJp6htNPLzK4gRwU7zutTnBQM",
+    "scope": "GOOGLE",
+    "types": [
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5009,
+    "vicinity": "362 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44083829999999,
+        "lng": -80.485402
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44212643029149,
+          "lng": -80.4840435197085
+        },
+        "southwest": {
+          "lat": 43.4394284697085,
+          "lng": -80.4867414802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Nougat Bakery",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117102494575119930920\">Most Rahaman</a>"
+        ],
+        "photo_reference": "AeeoHcLku2-PIzHU2mLadtZ1fKaZtqQ_KgHyTvMZgTLRATtflFHgXf3xClGZ2VeWqbSCHpfa09D8e71d_dpYB-n2FoglpVMki8sKydK5XpfhvMQopDCf5-6_wXQpNFYisBvd-xp35i7XpQltx0hg_ndALV2TiHIl8JeXXtMb7T7ZZaLfzAzg0fglV2d9obYB4I-7bPN1sI57ks-rDyT_Niznfac4Cs7ZodBml559RUMFpQM_sSIO5bggouK4KQ5Crs0uFZ16MABfmf2ekj3jJnw9TLqP5gnQA8EChQkyhEKmEazcX2luImaQGD7cMgrluGDy7cID4STFdLIsuvSgbs6Wo3jfz2VUB4Q9kX_8Di27StNBccNmz88Re-oA-PIDKSk2OSUO3OOjbyj72bcH8UbJkHPZ7urDyzuv-YiCA_cgvcLgzs4IXTFJ6SJjL85Q0OCBqGRWtnEOKjYaQ_drweTNu8MEXkf1Xszq4ssSZLxHdY7xXeJsoz_R9LsUjgtOXJTX73D5cJUuiS9DAGN99yD3SmBwGmcjqhc7Pf6picsURWAjrAeXE6srMFmFXKCL0p3PCllU3escfLGmxGGLRYlX5AyNTZDbpoaR8OXSTGG6C-2qQLKzcTcgZr6sCdEepvTptx3MOg",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJo5Yo1vn0K4gR42AxEGBKiow",
+    "plus_code": {
+      "compound_code": "CGR7+8R Kitchener, ON, Canada",
+      "global_code": "86MXCGR7+8R"
+    },
+    "price_level": 2,
+    "rating": 3.9,
+    "reference": "ChIJo5Yo1vn0K4gR42AxEGBKiow",
+    "scope": "GOOGLE",
+    "types": [
+      "bakery",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 540,
+    "vicinity": "248 Stirling Avenue South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4505151,
+        "lng": -80.4912896
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4519211802915,
+          "lng": -80.4899275197085
+        },
+        "southwest": {
+          "lat": 43.4492232197085,
+          "lng": -80.49262548029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Matter of Taste Coffee Roaster",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2988,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117072644976595799338\">Dawn Tran</a>"
+        ],
+        "photo_reference": "AeeoHcKy9re7kG3pVQpb5xRV9UCTxpsz8WSoOV18h6aXWZWO3rouRuT_2jKPVc3x8IWQ_sfZoEfJnueBxRljU7ZsDuuEgz8bg6kvEbEw4yaRTMu0yIItNNW6A8ngz5qKn63u5tsEiOTS8YneIL9bdG2lJD7nY7TqucsruF8WVbexboUwz_I5dJjrPgrKWkT1epo5CLInS3R8EPxt6HHCDO_TxUMWREIzdTdUQDPUIFpLutpDBDH69GDepqaMEr6s3q_JdvdwKPkaceMP8uuv8tL_rbrHCbpx3ZROosJJMThhXmMDinHn-NuP0r_ZCSZuHca1jxP9cvGj7IXUAPSEgekEU44S8qQjjkO_ZgvSksXzLzN5PEuvHplG6jYg5pmGZ6YBjm4QDhjBRWYsnVD8IyuOpLvaTph1TXVxhX44VpNqtTER8fJfmZxklZqVNR4T5V67pzWPjYK8ngQmp1QKD5TaGuVZYj0uHWfDlmMWBXWF3vSosMm2Z3lIoXV9uHvcJa4if1s5wpJpKos_VXak6zNCMbVAyo-mwr6POFh6L9YG5jdXPi5orYKPBTbxn7Qh9t-DdoRwApO5DbJXV0Xjb89DdJRR80UAqyKaAiRjKgbH2z1fweVF_4fIN_HNY2ZtaifO",
+        "width": 5312
+      }
+    ],
+    "place_id": "ChIJFZKRHPP0K4gRxGUNsiTUC9U",
+    "plus_code": {
+      "compound_code": "FG25+6F Kitchener, ON, Canada",
+      "global_code": "86MXFG25+6F"
+    },
+    "price_level": 2,
+    "rating": 4.6,
+    "reference": "ChIJFZKRHPP0K4gRxGUNsiTUC9U",
+    "scope": "GOOGLE",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 839,
+    "vicinity": "115 King Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.41973499999999,
+        "lng": -80.44842799999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.42108398029149,
+          "lng": -80.44707901970848
+        },
+        "southwest": {
+          "lat": 43.41838601970849,
+          "lng": -80.44977698029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Starbucks",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105756648194858397282\">Starbucks</a>"
+        ],
+        "photo_reference": "AeeoHcKXH_XpjWif5kel_oAXBNlnVEGmzs4WWIQzx7BpqZOn7i-1jOqF7TjG_rVEJIPSf2rtga2lkoWqW7LvWUNbIrS-zeH8dKoxk18XxacQ6HVLcOFF459jCfkPoGSDkd-gaNfVd5CtCsVpLkiu6t5_PXx73yNu6Akrk09KJItNjdNG7UT8_jiW_c_hoDBiPvp526mr7RXg9o3lr9TIt-W6_M7AtaICwcIYDeczUGaZothuuv19sxAGNo1h9VWDfsdBC6crNGxqJP8ggY9sVZXfqJOlSERaTceag23O5c7UttytxcP3uuTGb4FAyR6D1srh77YGL1RkLzw",
+        "width": 720
+      }
+    ],
+    "place_id": "ChIJjwmPAc6KK4gRiUTx6WTGCmQ",
+    "plus_code": {
+      "compound_code": "CH92+VJ Kitchener, ON, Canada",
+      "global_code": "86MXCH92+VJ"
+    },
+    "price_level": 2,
+    "rating": 3.9,
+    "reference": "ChIJjwmPAc6KK4gRiUTx6WTGCmQ",
+    "scope": "GOOGLE",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 881,
+    "vicinity": "589 Fairway Road South #569, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4690146,
+        "lng": -80.5236644
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47033733029151,
+          "lng": -80.5221878197085
+        },
+        "southwest": {
+          "lat": 43.46763936970851,
+          "lng": -80.52488578029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Tim Hortons",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107084617862330119926\">Ruslan Melnyk</a>"
+        ],
+        "photo_reference": "AeeoHcKWE6p2QyrP0VfOFdTuqjdIOy-Ivgq4L8cV8zcOQ5XNbgw4gnvdjrrOIqyYWF9cAXoQqzzw7vPMeUXLynznPWACRrQlhBEXbhq1PlORJi2iOv0XMTgdqICtjmkteS-LfY7Y1WSIGGiImoTLlGvV29Y8MCc0QZmnzqQCyz6UHfem7RTmddEYYnSrf82e8Zd4Qr6EeKCeMUks7ucdopb_PTsyagUhECokFR1Y7xTHzEMKrO7Fd_F32pvocHZJ0fu47DMDd6X_rc2hPSnnpNvc1_IC6B5IewpCyjMvUZoTJDoaogEb-JViv2Bfufo3qnYSZh8r2Tu3pXTxZc__t8ixuzogpUgi0uwwSxaBrAQYg8OxWIljJ-CllTyGrLZ_xLFZmNs1rxkltvUqNQlYWOMa1778zEO3gp2bzkQyHCqE3z9svnrQPefp5DoJrTZlxZs2XthA9_nav60EPEvNdwRms0uOhocHcQO09-0En9QoJ57UuxOth9pgLyrXh6WJS-Y-yesx2Du0CNG3HLuqc0LY8YzM5soPDW5QfuZcql2hYWQPrqraP0kZU1EwvDftVCZAPu9eJVw4lECWNwMlUQlgsIJ5VIKcsLx-6fnqaypFPP_d78OcoyQbqj-ti4WhAqXLyaKpsQ",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJPfyO4Xb0K4gRt2chkToZwtA",
+    "plus_code": {
+      "compound_code": "FF9G+JG Waterloo, ON, Canada",
+      "global_code": "86MXFF9G+JG"
+    },
+    "price_level": 1,
+    "rating": 3.7,
+    "reference": "ChIJPfyO4Xb0K4gRt2chkToZwtA",
+    "scope": "GOOGLE",
+    "types": [
+      "bakery",
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 1196,
+    "vicinity": "109 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.42201499999999,
+        "lng": -80.48803769999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4234389302915,
+          "lng": -80.48670571970848
+        },
+        "southwest": {
+          "lat": 43.4207409697085,
+          "lng": -80.4894036802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Tim Hortons",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104551666723782582564\">Bichu Pushpan</a>"
+        ],
+        "photo_reference": "AeeoHcKjStnOl_QQLrl1Y4oMyxud0ggOzbr2QjDPE5cF3UhAEH_fZLOXP-5eY3IGz3rKQX7FmVmLrHOhHXanVjT10iSlj81RePpo2ya4_dZcQRayE218InLcaUBguDBpx1-TdfRn4_krJ8SEM31pRutjtkCFu1v8AQmn1ekSJ7tkRGRshNU6JZJ-B_-jUKSED2cN_nt2i39mR4_iAEgii_Nnu5z2A9XUjeeWS--AXoEn93EpeZW7JQ93lAwxHHnbKSUJHlIklz806tH0J5DDYxuyFZunz47RFgpfnLktvmE9ZQHxNIXw6F9mZi-NJZkjbhpPnbGcGKTk9cfFj4YE6HfmpiAn0zjhXqy4-aB292rDaVfu3xn5DQFW9wmGlMpQopFi0B7le55wzXmDafXRd-wK89XTaY36EETmSI3qOxP-7uDGNS7qp7PCptKw8zpyfViyOqwI9b45A6g5K1h4T4smYmkLnuHrVdmd5T-Yt1nQ6tXxLYagpvgrZPiYQRR8yoyrRzRYzNSG6FIbFTnbSw8EgNPUL4I3-wYFMJylOXa0WJtWrfjwdhwJOIWUVCjl4-Tfra2A4eMR2iZkXO0s6iluPNL2wtt50rPQEVzSlVEKNrHgJ3pq0Zg7vMGRgMjccKOKiWDr1w",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJqQ344w_1K4gRDSuh2XNuLdc",
+    "plus_code": {
+      "compound_code": "CGC6+RQ Kitchener, ON, Canada",
+      "global_code": "86MXCGC6+RQ"
+    },
+    "price_level": 1,
+    "rating": 3.7,
+    "reference": "ChIJqQ344w_1K4gRDSuh2XNuLdc",
+    "scope": "GOOGLE",
+    "types": [
+      "bakery",
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 994,
+    "vicinity": "795 Ottawa Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4522325,
+        "lng": -80.5166866
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4535155302915,
+          "lng": -80.51519681970849
+        },
+        "southwest": {
+          "lat": 43.4508175697085,
+          "lng": -80.51789478029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Tim Hortons",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112502428498114252985\">sankalp mogulothu</a>"
+        ],
+        "photo_reference": "AeeoHcJ5HDogJRN53jGlSb1Eq8kCyiGZ2S6uBKnN1vwj7JOUdGGFjM30-_oAJ4rHwrOJadE_gTgJXTpJBm3QQkYkOO6cKvSJ93VRNQNK8oNs7_N_UwWh09PisQApUDyximKQA7AleVays-nckUqn00hftF53-pT-qMsvnlwJ_qq5tLkCOduSYWAWMo5sGjyAJ9jE-L-1jW49tfOK1j-8mhEMdp8QgeCc-BCjxgRUOMCkvWqQDrg0bgHLGV_se6SIM8SbOw_yDFG4WEhgyl09sqy7uVKJcUARrkbMLRD52azq3UZc4buDQyxtvLYRg91HUcCvajRBQ3Vrtkoloh31kZ2ie7I5SkyuBeVQnep7Sqk49q62Dwc3L16uaHIB0o9nStcTNFp667TexAcuRPpNyLBfYo4a6MAWKqHtdpPv6ifm3i5bJPZ9knfzENYvlphQM1HpsosnudZIJuWcdwB9fGK2AlVnhX-7h1Fz8nJEHUOBWEo6iPH8pebPf_lipNLZy8nifFwolWNX_25V5JQ_oOuHDXr7KJ1bUOoPSoNOienywnH3SPerpaiQHJmXN3ZJy9Lreu0YDPRBy3fRuW-oAeaS4zZUuSJEXNirMORrLo4kiHKOJI4BRzn_-EGZBhY",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJk-donkH0K4gRPKIuQKwD2Sc",
+    "plus_code": {
+      "compound_code": "FF2M+V8 Kitchener, ON, Canada",
+      "global_code": "86MXFF2M+V8"
+    },
+    "price_level": 1,
+    "rating": 3.6,
+    "reference": "ChIJk-donkH0K4gRPKIuQKwD2Sc",
+    "scope": "GOOGLE",
+    "types": [
+      "bakery",
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 789,
+    "vicinity": "638 Belmont Avenue West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4768647,
+        "lng": -80.5393016
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4781605302915,
+          "lng": -80.53805071970848
+        },
+        "southwest": {
+          "lat": 43.4754625697085,
+          "lng": -80.5407486802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Tim Hortons",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 305,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100039195997758470970\">Tim Hortons</a>"
+        ],
+        "photo_reference": "AeeoHcJCcBjWLx31G0BSceEv9c5cmVlw5KUC_7GosXwS_Mlj81hP2C4mkNJJZCEdz1Eklr-fFDlpr4abyO21yOGslT3iMmLnY5DYpPkt3L1KTlchK35gbPFZ33buPn0QbUXyqEGt7uHMFX1_HOWwii5QmOgpf5ib3DmMd1ymcg9BhTV02NL_kmzMtsxfCRHWi0k0eiD60tWx1iGx-Y5n-hjZB3Uol4bmwJajmizolWK5PCrJ696cRt3f07vec8PpOWlLllPLCM5mQL7dhqNkgwEahqNpMMQ_gze-lLOaQaNnbf_ahO2TSAr3IZmhXMSCXRGY_1uAXF5UZcg",
+        "width": 549
+      }
+    ],
+    "place_id": "ChIJa4WfFv_zK4gR6W1w1QjLZJg",
+    "plus_code": {
+      "compound_code": "FFG6+P7 Waterloo, ON, Canada",
+      "global_code": "86MXFFG6+P7"
+    },
+    "price_level": 1,
+    "rating": 3.5,
+    "reference": "ChIJa4WfFv_zK4gR6W1w1QjLZJg",
+    "scope": "GOOGLE",
+    "types": [
+      "bakery",
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 251,
+    "vicinity": "151 Columbia Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4719444,
+        "lng": -80.5391667
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47335028029151,
+          "lng": -80.5377301197085
+        },
+        "southwest": {
+          "lat": 43.47065231970851,
+          "lng": -80.5404280802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Sweet Dreams Teashop",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2340,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115553483280927275484\">Miho Hashida</a>"
+        ],
+        "photo_reference": "AeeoHcIMraTJH2yhQ81WvxcJ5NyuUSrn7lT3yyPHsRf6Uo_v7v3K9FmFfIoSyloG2xkJUUXeYodsyazvmKLTlMXhOflCO6-8lzUbSl6es0xHGBlanxcJZApz2ETSDeMbAtq6T22EqyLFv7u-N_8d8w6wJX3i-sM6Ua28iOobeM3Eiy-DamEmk4ewuL9pUfyjlQxEAeUKEUJy8ixP7v0qVr8w3nVoEMBZU412xh63E2AsOjELv2CnXDgvNc1nHtl8sujkMnhw0ElTJAVkX-JMC1q_ElH2XjmnRo2VFZskppBpKzr9Quha4-eMvJiGATDKW3pQWzwgJyleBm00RP7FEnAVB6GKJ-O02Mij27q8SGS2mJZHSDslWY-3u9S1yhytvANskjjuoPCYqhaWU2M58zS9tLnhclJOtcKBQAu8wlX_Q7npSLYVQWAc74QDyO_5k5bz1588gLib8XgBcrW1G35vsxGXkOPbq3If15mssWvv2VtJUN_-rkMUiuaw26k7g23H2u5_HHhZbaWIAMICZRecvVbietPYru9EIuBYoX7mit8esERSYUxZiA-lb5ro6m9OOGOcIpW0idykeUAfZPH77WXcv_M7nUiD7kJo1qGNkGrMiUnrMYeLHPrMPnF7QuqI",
+        "width": 4160
+      }
+    ],
+    "place_id": "ChIJQdQ9MgH0K4gRRk-h-g8lqtQ",
+    "plus_code": {
+      "compound_code": "FFC6+Q8 Waterloo, ON, Canada",
+      "global_code": "86MXFFC6+Q8"
+    },
+    "price_level": 1,
+    "rating": 4.5,
+    "reference": "ChIJQdQ9MgH0K4gRRk-h-g8lqtQ",
+    "scope": "GOOGLE",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 1187,
+    "vicinity": "170 University Avenue West #14, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4603292,
+        "lng": -80.4756642
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4618552302915,
+          "lng": -80.47437151970848
+        },
+        "southwest": {
+          "lat": 43.4591572697085,
+          "lng": -80.4770694802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Tim Hortons",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 305,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111089676356357944980\">Tim Hortons</a>"
+        ],
+        "photo_reference": "AeeoHcJgIJQWdATg6q2ix1xbBfnIl-QxdAOVrCCJHqCxnBxaDOhnjwdf7iwMeiYsOkJkA6snT_maRRVqIenKmOBtqWzvU_ijrXpcMYUNQBrmTxiq9cBlq0RNrujNu2TINUC5qkRyFOGe5w1-bIg7tx2V_6tzXQEVvOhEXoP5Tfkh-Pw9dHX5fX074uF1PC9VTUg5USOEqS6lff2L5M_4lxOpAZXF9chol6jqjraFmJGbvH5myl5bFiOVo3LMIrjIJHtORyhezjlYx-qQYmnWowoHQSgVgvrW3JK6QZW_pH-a70OSXuXNO5mNaHKxMTFbFqqOcy91Ow4xi4U",
+        "width": 549
+      }
+    ],
+    "place_id": "ChIJLTg_j5T0K4gR5MYcdCCgFFM",
+    "plus_code": {
+      "compound_code": "FG6F+4P Kitchener, ON, Canada",
+      "global_code": "86MXFG6F+4P"
+    },
+    "price_level": 1,
+    "rating": 3.5,
+    "reference": "ChIJLTg_j5T0K4gR5MYcdCCgFFM",
+    "scope": "GOOGLE",
+    "types": [
+      "bakery",
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 152,
+    "vicinity": "593 Victoria Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4562339,
+        "lng": -80.5120458
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4576410302915,
+          "lng": -80.5105715697085
+        },
+        "southwest": {
+          "lat": 43.4549430697085,
+          "lng": -80.51326953029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Tim Hortons",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 305,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105071858126597417780\">Tim Hortons</a>"
+        ],
+        "photo_reference": "AeeoHcIPxh1OR70JwVCJdiijeqQ2wIl4LHECmyQCpsIKzcdH1Ey4ck9r4mjLK7b7guJG9yG9mdZE43z9bco0brcIcmIXxDf7LUSvXMAxmqKvqukNGzCxzZYvgF1NcKStOnL8MskQsQA2HT5GvDi7xUnnlTkB7DcN3mDH73WPC5gtZ3_GAuWgEn5aczfb6U7-CH0-LbrEsw9XC-7lM1bA0KPpSaZQY4uMrjxhSjClmInMmFWWFHK107kXaKObBmqK60zqQFDzfEzWyYm_i8vC1EA6sMRPJ3cWANMfMBdzg2vuxGdmtbNks2Gz9yCZ4zGxZYd8pPisNpxo_5w",
+        "width": 549
+      }
+    ],
+    "place_id": "ChIJGTareML0K4gRAgB-d11IEZ8",
+    "plus_code": {
+      "compound_code": "FF4Q+F5 Kitchener, ON, Canada",
+      "global_code": "86MXFF4Q+F5"
+    },
+    "price_level": 1,
+    "rating": 3,
+    "reference": "ChIJGTareML0K4gRAgB-d11IEZ8",
+    "scope": "GOOGLE",
+    "types": [
+      "bakery",
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 141,
+    "vicinity": "WRHN @ Midtown (formerly Grand River Hospital, KW Campus), Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.43231,
+        "lng": -80.43856459999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4336110302915,
+          "lng": -80.43729081970848
+        },
+        "southwest": {
+          "lat": 43.4309130697085,
+          "lng": -80.4399887802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Tim Hortons",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116975294082736281926\">phraseography</a>"
+        ],
+        "photo_reference": "AeeoHcLaXkNK3IM298imI7d2pEgX2D6ygSBiQk0tW4DrSZ5jePeX249u8YwiCrJxX2nIEsae8rOq1oiMwtMie5xPMdG1dIwbe4GHWvvlarTDkSlta0CLYc_dx1X7JLM_f0VY-x_dxz86vtSQG5WNEkgvZqlmufwEvp1RBN9BO7WtmuF6qiJqzWRPGCLOcg1ihe1qYHNIX_tUcJa_z4e6_-oh33ncrknB9qg9RduviONHnNG2lWhjyVXf1scGSWD0La6ska8U367_1l6QcBZDTponxprbP7rHvsxnIesqO_phfeql3bUNWNhmvDytkMNUup55UVP3Sbrg2_IJSAmjtoQYkf5j_9K8xM8awEq7xgRVzqBmRR0rRfa56Tq_eDp4CAXrJ1EoFFetpL249kzLjidGTCndiIOqmhuEl1qD4bpDOhWAhFI0JZXBCBBVXtW9A9JRSpNyfQ04y8IGuNQboS5QrkHbPKfyIUYbzOqLUbyJofyBaLB_JoJxmUwuh25JBQM7aR67Ni_bpldR36e1h0AHb5eP81q19NN8SiVonmKavihlc2liRFfrtbK1-fg82VSXzcGmw47XiNaKcpNaeSEPa9F2aD8bC_kZOm3XQiL20LM8-Bz-5lwX8Hxg0mOJOxBojm1MBfcs",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJe1AkziaLK4gRRlquQzrDvt0",
+    "plus_code": {
+      "compound_code": "CHJ6+WH Kitchener, ON, Canada",
+      "global_code": "86MXCHJ6+WH"
+    },
+    "price_level": 1,
+    "rating": 3.7,
+    "reference": "ChIJe1AkziaLK4gRRlquQzrDvt0",
+    "scope": "GOOGLE",
+    "types": [
+      "bakery",
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 1413,
+    "vicinity": "1426 Weber Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.465534,
+        "lng": -80.46188099999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4667984302915,
+          "lng": -80.4604966197085
+        },
+        "southwest": {
+          "lat": 43.46410046970851,
+          "lng": -80.4631945802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Tim Hortons",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117847053705273787812\">P Lem</a>"
+        ],
+        "photo_reference": "AeeoHcIbNFjOpQluI3MyxEEtFUMl-QiD672NnFkxyKwfUedvSsJsyzYFOn-lBxRmtDQBEqWUgy1AgZVuOfB90IeZl5oNP_9Pe2QtGyHb7tdrwFnj_v2b2pVbqOkyP4ABFmLn_peXibrFx5u54i-ZXEWaReAzfjDcCV8c3TmUjxGrJFj00ejOS14XrsWu_yhPaYH5e-jU9efLCx7vapW2U_RFqhiVzVhOZY3saQvWsnU9oQchGn1Szp_-5rbUNp0anzTKX9F0HkIWbnNIqFJY-Y04OxYy-KVbzrmJJBIuQwkVK1GltIeRQm4Ewro6PPL7oLYsaBUIhprMK7bk53GxDTz1glZuLbUCVyOjvtkxk8wqgy4ZR20gg0B-2c97B2pKziWhQ48mgjMXcZyG2dOIMAn1fxd5qYbN4jfZeKmqrpc5gQa4DBbcUCeQ4Llxbfb0yO9iA7rOInKmC3AYjg20HoA8K8-j9h1p4nggi7189WbgQ0K6DGPTtMf86LeWT2_G7rShGFNC8o7pgWHrzJ3BXU5sZHcozT0js4CPzq7G3rZRalBDrO4XudC3jUNCHo4RPHfaKHzvRBJrkY4AxvRXTSdhKuKhMgxXdtY8lcD3joWZkI13P94RSy43IU60gSlq65XkP15-Kwqc",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJx83ZQKn0K4gRRFoHHbtRNwU",
+    "plus_code": {
+      "compound_code": "FG8Q+66 Kitchener, ON, Canada",
+      "global_code": "86MXFG8Q+66"
+    },
+    "price_level": 1,
+    "rating": 3.5,
+    "reference": "ChIJx83ZQKn0K4gRRFoHHbtRNwU",
+    "scope": "GOOGLE",
+    "types": [
+      "bakery",
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 745,
+    "vicinity": "1000 Victoria Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4383006,
+        "lng": -80.5121036
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4396549302915,
+          "lng": -80.5107227697085
+        },
+        "southwest": {
+          "lat": 43.4369569697085,
+          "lng": -80.5134207302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Baskin-Robbins",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1124,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118141292848437638476\">Marta Borowska</a>"
+        ],
+        "photo_reference": "AeeoHcJx5CK69y2KTMrnMEzeSg3KOcMB42LlY6PiXoV2fcN0g06hPdnERA0T12SKyc3GEkbZq4ELO-qvQX6fhtu8S6jhHueDdppNJiND_lrE-42IaCg8lR1Xm3uznSXXsEkV4ZZWjTw4fGMCGl40GQKeU5fG88c83dQwh4xlqzKlxOY2UX2ssQ0rD_PViQgo7L2-Bkr8ysu10OFLz8xun3trpz-xVSy_CBSXrM3BEbVMaWiTFGV3xK8kOqxS9qDx0SRPJQbci1SgMCDlf_fgjMdL4WNdnDdbaKi8KOoxnby2zpNvgq60ZebdQFo-QFEjzYQCOgnuz-gmthtzaNGHPqiXcRrF_4oCnKVyzzUduy5EVeYdZbgSjBeHx-Qs1xNJHzKlLCpE-KF42J4mT0L3ekBdIgyBjTVGKSzgmmHF1TCXU5Y-YAgYRyK7yFe6NY7oz7nDcGSgwvxZ6qqQqB1mqgHD5hp2muyWbiwmKfOJqlSAjO1ZyCpVTk8yyltk21q6gFin70awjZJcyvtaSo1QfL6r-I9KjiaFfA_LMqlIyTYbp5FznN1S0RiZx_UNatzkbaBPkL_MetgmhaBvjqjlQzaifNUM5Cx7jrMYwxWDkH5FTNuIQ47siTZRNGyCZl7-oDKH",
+        "width": 1500
+      }
+    ],
+    "place_id": "ChIJIV5EnE30K4gRpWzS5o6tQoU",
+    "plus_code": {
+      "compound_code": "CFQQ+85 Kitchener, ON, Canada",
+      "global_code": "86MXCFQQ+85"
+    },
+    "price_level": 2,
+    "rating": 4.6,
+    "reference": "ChIJIV5EnE30K4gRpWzS5o6tQoU",
+    "scope": "GOOGLE",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 591,
+    "vicinity": "370 Highland Road West #9, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.451958,
+        "lng": -80.442808
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4532509802915,
+          "lng": -80.44152861970849
+        },
+        "southwest": {
+          "lat": 43.4505530197085,
+          "lng": -80.4442265802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "McDonald's",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 16320,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114138184057500141438\">Jaydeepsinh Darbar</a>"
+        ],
+        "photo_reference": "AeeoHcK-csFjMui4XNYuTDtKIoUGyqDZem_Qvrdx38hhsC-CtX_Np0JEfhr8Cp7M_awBClgeP9qxkF4YZLz0EVEX-F8dvWd1yHedNOyQfvGSG2EadAjhby4JMtnlyOO6O7HrzP4L0JRqaG6FeAeg_Xe--2y8DtOV3ff7oty-r0-KkGcIFlbG8e6ACZbjxMsbpHW3rMjjFo_3XFdUYjYyU8WwoodgdxLh_Td54xUsVdYcu7fWNHzn33jOSND-2ftSJ9vsjtBscuIt19nj25VIck3xkSHbrXcuusPiQe6bLyMPYkmo1GSvmdCHPR9prdLRDhA3d4jD-Ru3Al_WMJOjABaFkTu3XPSjMJEmP63_L7yx9G44oVleAypnQhoEasgeHWcArOEt4LaMNNlafa8hMiZUVkqrfmLNFmOTMI1x9tqMllX_rStLTMXjNgvxib_-s1g4ZR3u6K7YqNNNKSvDVUJO8S3SokVk_xzPdKOG3Q8y5enwg3hfXUfoSafpIZaM2ErAwJzkwuSmQPWjzhjW1zf29LtsLrnsgAAI1sLXNasSMbuKBSWDlgcmNj5p3K-8x2HYgH63ha-E7109OqG-jwQwV1gsUQKV_0qaQfJZ2mZbAS3xiepg5Ue5xfMK3uBbWRYE",
+        "width": 12240
+      }
+    ],
+    "place_id": "ChIJ2TtaoUiLK4gRsZoqWZL6A7Y",
+    "plus_code": {
+      "compound_code": "FH24+QV Kitchener, ON, Canada",
+      "global_code": "86MXFH24+QV"
+    },
+    "price_level": 1,
+    "rating": 3.2,
+    "reference": "ChIJ2TtaoUiLK4gRsZoqWZL6A7Y",
+    "scope": "GOOGLE",
+    "types": [
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1631,
+    "vicinity": "1020 Ottawa Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4486822,
+        "lng": -80.49005059999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45013258029149,
+          "lng": -80.48869381970849
+        },
+        "southwest": {
+          "lat": 43.4474346197085,
+          "lng": -80.4913917802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Cafe Europe",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106627046592727919032\">Natalie Caley</a>"
+        ],
+        "photo_reference": "AeeoHcLyMvPy93lf_WRsPUj1BUdjEqCFQCCIRcsXtvHE-JAT5qgOA3zHEzC7D02U3nO3cE2sj_EsWdsywzDMui3Vl1_YHN6eXuB3VY_SfMUZiGIONzJtQkN1v-tvHxIYC-uDntjXCkGzTbqid88Fzbeuo2e30BIuBZlvKx5MbKM-6fRSi44YsCMrg7cUsiaBqqvQbVr0qPIvpS7SgnjBg8x8_5Dx-0lkYAGkIGswYd57konpWs5v5tMxN7OlinZ_nEGEfmTv05fBe8PZ2dNnjF37wBxptUYswv6dSdtH62S-Vrx088xzx7saEi_tmEX9_fprij5_xlinKthC3kEtYBM30THyQksWXoTLhVsL3TKzkLnVDveNzLZO-lB3yrWZxRkHWj50K1SlZws1ucK-9v6xRUZe35hAX5hSjC9z-2xnx4Qo5DmKKuoT7-rZg394EqGonf8gyTUpEw8qsEYeeVDAmWdBtyym9mhLa5qK_zxjE2_gkIkSvcI7G9V7UVeOXZEH2vhe23gXfo8euCVn4cToD0StVqOptdL3vE8tBuhRnEFZfxkjjOorhLUXnpk7sHriLyZWt3BS_DOMcY9hmudqsHtWVHu8gMpVVZFMBgt5hcuQ1guM1x479sIEzKm70IVdJTC3kw",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJVROzRvL0K4gRWVKlR_sTVNA",
+    "plus_code": {
+      "compound_code": "CGX5+FX Kitchener, ON, Canada",
+      "global_code": "86MXCGX5+FX"
+    },
+    "price_level": 1,
+    "rating": 4.4,
+    "reference": "ChIJVROzRvL0K4gRWVKlR_sTVNA",
+    "scope": "GOOGLE",
+    "types": [
+      "cafe",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 92,
+    "vicinity": "91 Queen Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4755025,
+        "lng": -80.54552699999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47696163029149,
+          "lng": -80.5441049697085
+        },
+        "southwest": {
+          "lat": 43.47426366970849,
+          "lng": -80.5468029302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Eye Opener Café",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ11cmyar2K4gR8t14hhBz2KE",
+    "plus_code": {
+      "compound_code": "FFG3+6Q Waterloo, ON, Canada",
+      "global_code": "86MXFFG3+6Q"
+    },
+    "rating": 3,
+    "reference": "ChIJ11cmyar2K4gR8t14hhBz2KE",
+    "scope": "GOOGLE",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4737555,
+        "lng": -80.52795379999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4750723802915,
+          "lng": -80.5264658197085
+        },
+        "southwest": {
+          "lat": 43.4723744197085,
+          "lng": -80.52916378029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Starbucks",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112360109716940079703\">Starbucks</a>"
+        ],
+        "photo_reference": "AeeoHcIsR9gMfJOOAqjBAFRftDVHSnh7N5iK_Pe01bNy1CVzvaxkvuF7dwvHJgC2_Ugq4UzL6vUyrer_rZUNPu5xDN-vGj4ei_Mi1USGxVrJ3V92fJg2hYqymkNjeM1CuvYekJ2lrGwjPjF7W67WDq2RplU7w1RzK79hev3CoH_-8Z9xfxjZInCoUcSQ_WC1JtlpldgZRnIN22vJOqOFyFPflOEy8SLpc8grl3XB1CdGkGCr6pCoYCsKO-4XlV9XeYu6QD4LOSWxJ996zHVpb0NgLkdXCVvCZ3Ja4LufMu4ltwZbsWMvJD7wbpLA0wZ_qKxwIZtkALlFJ_o",
+        "width": 720
+      }
+    ],
+    "place_id": "ChIJUeZX4gn0K4gRAn-H8VfyapE",
+    "plus_code": {
+      "compound_code": "FFFC+GR Waterloo, ON, Canada",
+      "global_code": "86MXFFFC+GR"
+    },
+    "price_level": 2,
+    "rating": 3,
+    "reference": "ChIJUeZX4gn0K4gRAn-H8VfyapE",
+    "scope": "GOOGLE",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 60,
+    "vicinity": "MacDonald House, 75 University Avenue West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47386859999999,
+        "lng": -80.52786739999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4751674302915,
+          "lng": -80.52644721970849
+        },
+        "southwest": {
+          "lat": 43.4724694697085,
+          "lng": -80.52914518029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Second Cup Café",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2208,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108746468043023102131\">Gladys Wani</a>"
+        ],
+        "photo_reference": "AeeoHcL15pHt5LeCaq2WLtslBbBKg8b6Z-Hg6H86orxLxSQ0NsYtHE2Z9mROX0VWNIFLDdXKBrOo8_i78w9Y3UqhmUnTVOceLB8ce9cO-J36MXHUyIXZZ_UmEtV7f8SMWwvQEY6Z2PJEwi40qng1zmbEy18uHhgx_axEnfMPHx8JUdzeNyIITgGjinDje_vwsdLc0zmZpA2Vl1Zp9KrT4gLMk0Fak5zsGGA3v5S3UXlQTOYqxc8AjKCDVD8R0ujHgtlH4IzgGyb_FtpVJjrg3VzUAYsxzQ-8pL-bceRPAnXOZKZ15NFQ_f0yWO1Z6N7eJKpiRBrkqA1wB75HWuRI_SkuxR9Jt_HnrhthTXisRJRVlqxzAMrpPfqwXflSS5PAfAnqLl8_gttqMuABo0unNjttmJIkdYGIbW6fB5Z04Sz0dVGNDjv3BNq5YJFvT6bDZkbDnSXqEQWLEwuyz5qNeSOqigBRRGYcvbzfj1lQr6IMDVKMTiZwpMI4nyLpAiJ_kXmRgJSZuuUYxY5VkBse494YiYy-oJOVnp1XhZJdSVpepDZjB-BQGdeCdRZslrffoaJgF7GAFxreqJmOUtwnvcbPy0g_l94geN43I_7KRf-OpSzvTRBevRPSXIaKNsvJuDTgRa1g_o58",
+        "width": 1242
+      }
+    ],
+    "place_id": "ChIJ48SQHfbzK4gRXsxBuiAJpG4",
+    "plus_code": {
+      "compound_code": "FFFC+GV Waterloo, ON, Canada",
+      "global_code": "86MXFFFC+GV"
+    },
+    "price_level": 2,
+    "rating": 3.9,
+    "reference": "ChIJ48SQHfbzK4gRXsxBuiAJpG4",
+    "scope": "GOOGLE",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 9,
+    "vicinity": "75 University Avenue West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.473695,
+        "lng": -80.5283872
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4750730302915,
+          "lng": -80.5267186197085
+        },
+        "southwest": {
+          "lat": 43.47237506970851,
+          "lng": -80.52941658029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Veritas Café",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108818430181525134441\">Jennifer Liu</a>"
+        ],
+        "photo_reference": "AeeoHcKp7TqHKZERUgKrFekOHFyIdO1sUjQg5J5o6xUdYa_5AWl9CBSLT5DqwumTxkf0Q-HrVqVxOWxJJB_C3mbH8vMTCPIbHA-YSOJ-ChxMGDKzL-FECP-ndme4vOkPDn91DNvE0aKHYuFa2zvRt4jU7E2ADyHKQU-knGb5OnOZyAqj8lWFSuiyJblLV51Pt7TA2wwcXSw1vwG1WBxP8ZoX8cGdXuntd1_394AVDdV0ltWyBJ-WH2a01DNriwlfh8MLQZCWT-ui32cd4gnXS2ZBCZUKT-XDi7O0btQYuIlfPy26gpIj9Re_nMcOqh8RwbAl858IZNRq-Zy9dwZyVaD5CwYJZebdpWqnTW1_Xy__NbF6fHYewgKNgxpwxgX9OhSJ155_cUdTeaXjh1OWkPg-QLGT1QiBU1fx2LnCJz7Z4ljW2QQbTQk9k0rVYKHBX8Kj7qia9XydG6O8IgHKE5ijzHA9scWbAgLNTeDZdOrCw0Xdm0sjzVk9u6Br5CWShzpIxvnRZ-0_I6XcZ196QGNnmtMpwdZ3sQKiI3i2tv_jC5ay4nn8fZ89LkYvyrACrIIgmkFGHPrKcC785tCORLdxXd2hytF1vPaq9DV4zL0USR8m2X62EpAfEwfRSyPoDS38PT0ERDxz",
+        "width": 3060
+      }
+    ],
+    "place_id": "ChIJMVxX3Qn0K4gRECLlK6f67nI",
+    "plus_code": {
+      "compound_code": "FFFC+FJ Waterloo, ON, Canada",
+      "global_code": "86MXFFFC+FJ"
+    },
+    "rating": 4.6,
+    "reference": "ChIJMVxX3Qn0K4gRECLlK6f67nI",
+    "scope": "GOOGLE",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 78,
+    "vicinity": "Veritas Cafe/Wellness Building, 75 University Avenue West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4764346,
+        "lng": -80.52521229999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4777301802915,
+          "lng": -80.52375811970849
+        },
+        "southwest": {
+          "lat": 43.4750322197085,
+          "lng": -80.5264560802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Starbucks",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105490436877908135737\">Starbucks</a>"
+        ],
+        "photo_reference": "AeeoHcIpUi00HUL1NBICic6Vs86RfeQQ2am-sucfKlO7QppUaqF92GAY_-VRV1QaFxu9hxXqhbtwLYbXkyrpZ_o2x7RxTKbjyEfXDrdxABdQ79s_9VzAxRnk90rUOogOMdNpxMZ_R5aJpSJGBpBOh2L4AdsCXgo_JkYcvRwlMTmFBJWYvOhZMm0t2yuEoYEyIxCCIoFVA-kOqzbvLHGnz7fNBB_LUHWpPBmfmP6nWK4y3Y9EgBUIhZ4uiEli4a2UrtnGJHK5tHOCaRpq9BTjmT2b2Uj9r1Ldxtw6evMG5X-ZysiALy2PrTjAijPQEPFGp959NZDA3H32KSo",
+        "width": 720
+      }
+    ],
+    "place_id": "ChIJ1TfQs_XzK4gRPtt_1usNstE",
+    "plus_code": {
+      "compound_code": "FFGF+HW Waterloo, ON, Canada",
+      "global_code": "86MXFFGF+HW"
+    },
+    "price_level": 2,
+    "rating": 4.1,
+    "reference": "ChIJ1TfQs_XzK4gRPtt_1usNstE",
+    "scope": "GOOGLE",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 970,
+    "vicinity": "247 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4773311,
+        "lng": -80.52560609999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47867093029151,
+          "lng": -80.52421616970851
+        },
+        "southwest": {
+          "lat": 43.47597296970851,
+          "lng": -80.52691413029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Chatime Bubble Tea",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106491165868056550507\">Tom S</a>"
+        ],
+        "photo_reference": "AeeoHcKohE3OjhfDDctnYNgbXyiznICfbYovRnVY96M-9A7HsPyvfchjK2jsPfic_TP0GzL3F9qBQ8o9tWTT3wZ6NwhVYl7jogS6Dv-ljuxS8rAG4vURSQ7w-NpA1_G_v9gSScK9lpcnyG8bcQ6JkiRZ7R_6sQZcfz7RwZIlBBFAThq16XLWBdVzW6Nouz9kZq-gl1ApdKIjzZ7nDhm5Ut-QGVYp6Hw3ZKPunXRr4Ts7cmYggICTKibMQ_sn1tRnLm4RhfQUqLoJqzzo2Lvwb8HPC-B1iQLeAethU5SthaaNWqvpAcQSZsqQ1q_Yk5dHr2wzmB-bWDazpYZTi6obkcMDTFJipcx_1TCwJIfollt3Jr9NNIwgmICxVkc2eiA5nv5cuJIUj_td3TJs8WYBGhH0qu2hDMqfD5KTIylnAnF89RbpPqu4uJfG30MCC8bm7XxGhsjoboBjWYm6wNfqSpSTu1Fe21LHIEfEcKpBf-fVCBNhmSqVW56SxDMqnNt6aNDLgzckMPMmg9QnT7uoirSs2js7rWcQu9nlWGATNrR2Za7ArHCXGjqSeBd4vM8GFD4k1y8C0ORa3KCPhoNGq8WF2PplSRpQTzKS42l0gnLqxejpXboJ9CtdBG9-_N0bJYfdfodT0w",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJW6YrRvTzK4gRpm5e985f8lE",
+    "plus_code": {
+      "compound_code": "FFGF+WQ Waterloo, ON, Canada",
+      "global_code": "86MXFFGF+WQ"
+    },
+    "price_level": 1,
+    "rating": 4.2,
+    "reference": "ChIJW6YrRvTzK4gRpm5e985f8lE",
+    "scope": "GOOGLE",
+    "types": [
+      "bakery",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 795,
+    "vicinity": "255 King Street North #9, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.472532,
+        "lng": -80.5419299
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4738367302915,
+          "lng": -80.54070871970849
+        },
+        "southwest": {
+          "lat": 43.4711387697085,
+          "lng": -80.5434066802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Tim Hortons",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3984,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116377293961201169168\">Reuben Janzen-Martin</a>"
+        ],
+        "photo_reference": "AeeoHcKXVxWZpW-vkEXEGjGayZObx-72VYUB9kf3SShIQXAWB7SuYYMv0Zml5ZTqQ6gEVsGjjJMWVlByOW69721zDa6b8UUJLXP3D95aN8SZfTnrpPjLsPSWUIuLfCAxhZ8hnaaA3PfwnZ49k2KwjxhiVB0aIO-BYuERzy0Q_c_bj0Psrjb1lJgpyow3gwp71qV805d1SowPrdqCIOp8GHxGMIsy2WeJr6Jg3pG89ZvR3vMrMn7IDA5bL5vKfUsBB2PTBIfUQ1GvZTY812NIUjiTs6WJp0UT4FruqUhYbaPQlMJIDVL84J9UKKbIUNGW8UHZQlXbhsMDOMk1rxjweZ_i9DTSrTzKWNSPLl_wpa9fXZA4PCOQes8i_pwLbAZT9DJq9dK2b6SEYAU1ZNGliYbCvq54Mm3Whcl0xXQnqpjTWl8N-VDNXqdsEp7q8BMDb0D5ZT2N3mb1rMKW81m6LskVxWgoit0AyLZDMXR3xm4UY0CvObDdk987a-o_0PtDXy_fL-JNVxMqpbQxVM18h34CihWOvhRFw056jPaz-mZcdXqJhk0HMeP8KUhZUrH7Olf5JEID903HhGji9Msq8GGCA4XjkXiMvIcDUMeZX2UK-PrJ-gUJR0JVOSlRbnTzKu2E0RjtIg",
+        "width": 2988
+      }
+    ],
+    "place_id": "ChIJhYyhjgP0K4gRu0X3M86RPO8",
+    "plus_code": {
+      "compound_code": "FFF5+26 Waterloo, ON, Canada",
+      "global_code": "86MXFFF5+26"
+    },
+    "price_level": 1,
+    "rating": 3.5,
+    "reference": "ChIJhYyhjgP0K4gRu0X3M86RPO8",
+    "scope": "GOOGLE",
+    "types": [
+      "bakery",
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 377,
+    "vicinity": "200 University Avenue West Suite 111, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4690079,
+        "lng": -80.545715
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4700265302915,
+          "lng": -80.54284429999998
+        },
+        "southwest": {
+          "lat": 43.4673285697085,
+          "lng": -80.5466719
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "The Funcken Café",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105460805194287984816\">Natalia M</a>"
+        ],
+        "photo_reference": "AeeoHcJ238DNhpmaBAgEVw57xWFzw1ogWiEc5T2onk9mpfDFUTMkqcu1Z6DP7EyLBrI7ZmBA9HGrx80XXHMNjWg2zdGHAknFEGBP35WogbF9iSwACOtzNjO1PFulOxh2ywGu_AJnQXobyfx30LyEX1-QAny9HWvgKnI7J8WOz3cjjeBUQwn5i0RNe5k6DpJV4BQOuXRVaYbj_FhR55rjA6xdkGTR4TFJBjGElZeuJY58dyj1ubO2BjwMKAqV_LbEXyevWcfHlJpxQuF-z8lUCHSAVXlZ9uSRzfHuykmOw5KMNUM7RgXiEmTP6WZ9Zm8LfSDsmnAqUC9tpUMH6ad7Y0uXFEg1MyRQAGC1PmmboPB2JRdk683KxBKo_ydjcy6O83PV0tM8GJhUJYPhV3ZZuqg3Nl1HzUMf5-sqmdO8i2GWfL4m9g-otAzCt5YuNAyGs-RU4eA48hb0rPME767kndFyV5dII7AvNMF8pQSTOjuVqWwO2JB-SDtJwB3RgbvWoCrv1K0tQLPYZV4FzAiqZId61Vju6AP0R9LMWpW1QucQ5PeoO-vvhW6XY2U3yASWbEBS5UFITkv0r7mw2xoQE2YYHkKTTLqXgqSsGsSs9ngB4YU4P_sIA2Q5yAC-2YsVaNJkSve9BT5q",
+        "width": 3000
+      }
+    ],
+    "place_id": "ChIJWXCws6n2K4gRoF0mYZi3H1w",
+    "plus_code": {
+      "compound_code": "FF93+JP Waterloo, ON, Canada",
+      "global_code": "86MXFF93+JP"
+    },
+    "rating": 4.2,
+    "reference": "ChIJWXCws6n2K4gRoF0mYZi3H1w",
+    "scope": "GOOGLE",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 37,
+    "vicinity": "290 Westmount Road North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.468975,
+        "lng": -80.5457799
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4700265302915,
+          "lng": -80.54281184999998
+        },
+        "southwest": {
+          "lat": 43.4673285697085,
+          "lng": -80.54676925
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "St. Jerome's University - The Funcken Cafe",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111785222407748636454\">Franco Terranova</a>"
+        ],
+        "photo_reference": "AeeoHcJR-NDPKXqGp4pn_WZWHDjBCVYopOWImP3ncWzbh2sRRSQRnFdqywCsJfRpvfslJSmofbsi5HdnGJq5NLwsiQsnCM8PhGTSVWKclW7ZfGWKDzJhpOTEos1rmNpSs_QuDrbYVjUFEgBObHC-c1icSL2SNX6zqT5H5o5oIkKrrScAO-NiGGiXX1IFLu7WuY-WVKaPoUsaen6yLOQ4IhRdF0U_as2pQMwDPnW7XNkVcDQx_zsP5KbeqiDN4msLRXY-Znl_AaymBaAm_ABhwKDOYRUTBvOzvOhwYSlbeDLKTWCNwutUjxJYund5HT8OX0Vjso8FKYXQEnT2KYpUCiZ90gcweZ5YnZj5NZVy0qKJfuDFve4AaO5ZMW4wCtqmz_vvPW_JSUuTugh5G0K7pixArZjs7vNA51K9L74PPlDy_q8UJAcNdmqfXR2wxOjHP6oLzuD05MmrYamWhMd4W6TM_cT6jUES0ecWd3SJRm7iH-0wb44sF5noalFYUalwT7u6nEG7Vd7kAaFFVvikHSlBl4yKHyfKGN8_m3WS0EFPwUwdNi46gF_GQ0F6qxDcMxjARuB5k2ERnNuZ0HMFTUMCDnOq4jyfGO5o4hvnAt5FzJ45gwdG_TvT-7iqYKbtGpSZ9cMo7Q6N",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ3wOs1aj2K4gRk2r9ZF5YETo",
+    "plus_code": {
+      "compound_code": "FF93+HM Waterloo, ON, Canada",
+      "global_code": "86MXFF93+HM"
+    },
+    "rating": 4.2,
+    "reference": "ChIJ3wOs1aj2K4gRk2r9ZF5YETo",
+    "scope": "GOOGLE",
+    "types": [
+      "cafe",
+      "point_of_interest",
+      "food",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 6,
+    "vicinity": "290 Westmount Road North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45111170000001,
+        "lng": -80.4984798
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4525857302915,
+          "lng": -80.4970122197085
+        },
+        "southwest": {
+          "lat": 43.4498877697085,
+          "lng": -80.4997101802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Georgette Packaging Inc.",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1396,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111466933350258977506\">Georgette Packaging Inc.</a>"
+        ],
+        "photo_reference": "AeeoHcKKQ1dHlL3Sq0xlmmQv4I_VS_hq6uPU76Nn4x5Xa9_VfqIyg7B9R7dbc-PXz7w7jJCV0v_zzUUFrvEyw7pAg25AO3s9w_hUcCTI7hthoksClZLsc9Y_UOmVaJptvB_27tiB86L0EKvQnGwUY8KZxXm52JaVSMS7ZCL0EZ6d9ZJ9bKSNaRwLyafFhgDhBahgOcaJ0YQVMegp9yj7uTHMieEs4BNM4cETphBDQfgqN2TMVrXFRj06r4c8ErJ8uXH8tUfhRbTZtNVyV_A6PUmXm6BWeyuBUCxjrH0-SqfEjyemWFUq3sVfUiFYx7EFcjF9e-c3-tplA_w",
+        "width": 1420
+      }
+    ],
+    "place_id": "ChIJDbrJc_X0K4gRmgOANGNPRHE",
+    "plus_code": {
+      "compound_code": "FG22+CJ Kitchener, ON, Canada",
+      "global_code": "86MXFG22+CJ"
+    },
+    "rating": 5,
+    "reference": "ChIJDbrJc_X0K4gRmgOANGNPRHE",
+    "scope": "GOOGLE",
+    "types": [
+      "cafe",
+      "point_of_interest",
+      "food",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 36,
+    "vicinity": "151 Charles Street West Suite 100, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47344429999999,
+        "lng": -80.5461938
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47480978029149,
+          "lng": -80.5448007697085
+        },
+        "southwest": {
+          "lat": 43.47211181970849,
+          "lng": -80.54749873029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Starbucks",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109878348785440082450\">Starbucks</a>"
+        ],
+        "photo_reference": "AeeoHcIcWFop9GPWybZ4eryOGiiHgOvP0S2G0H0itq0oT9emsNC7KQOJIf0NL6UHbtqQZBVF673UqouIfg9_SntvY_80TmE16N2ehq90rGfy4RdTOAZmH3eXUU0QlTfBqMxpyePaStZ-PbIEscFwar66ctKI518A_CV0YcfR2EKN_pyMLN15_zXfB06HEplTjiNd3WmGYcLRfL2NlR8JedT8hlT5QVC4_8pwiGaCv3M0GOhPZhNSnX12bBlem0qwQuBoU1RIeezZItJl4hd67babgdRozPXgNtkXiExhm75BsueGT1VpUq3GliN78uIgzgasDBZ5FwE7uqg",
+        "width": 720
+      }
+    ],
+    "place_id": "ChIJPau2vgP0K4gREm7uDLBITJ4",
+    "plus_code": {
+      "compound_code": "FFF3+9G Waterloo, ON, Canada",
+      "global_code": "86MXFFF3+9G"
+    },
+    "price_level": 2,
+    "rating": 3.6,
+    "reference": "ChIJPau2vgP0K4gREm7uDLBITJ4",
+    "scope": "GOOGLE",
+    "types": [
+      "cafe",
+      "point_of_interest",
+      "food",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 127,
+    "vicinity": "200 University Avenue West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4559819,
+        "lng": -80.4918691
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4573203802915,
+          "lng": -80.49056466970849
+        },
+        "southwest": {
+          "lat": 43.4546224197085,
+          "lng": -80.49326263029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Smile Tiger Coffee Roasters",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 900,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110022323091249770775\">Smile Tiger Coffee Roasters</a>"
+        ],
+        "photo_reference": "AeeoHcKgAOjmPMMI2kIXyVUsjlAnCG2l-GoWauZFZiDxR-TMQHGDvU1Dk2VfhvdBsGAx5TKq5XpsGJm17by2EDsDFhfxArKQt0X-J_4h_eeku5R9ztLmIM7CB-gLw_nS6yTgj4yCASjNSQnkaodBTlQjyQbX4eWqoOcu-wRKAMv2SMiLhi35XOsQslNchs4iU2kuldefrbIR1u38K9XwlIW9p2QgEICHh1D-6GkdIQmeKCCw23UvTe0PMgeFYtQsbalYC9WgVg4OWuor9e94z2yLrr3IT2CXkMNC9_pxNEfdSzPWBQ2FdR2ind7x8LDuX0uDPFYZkEG8_Jg",
+        "width": 1194
+      }
+    ],
+    "place_id": "ChIJdV-YN4z0K4gRdIT2DAhdgwE",
+    "plus_code": {
+      "compound_code": "FG45+97 Kitchener, ON, Canada",
+      "global_code": "86MXFG45+97"
+    },
+    "price_level": 2,
+    "rating": 4.5,
+    "reference": "ChIJdV-YN4z0K4gRdIT2DAhdgwE",
+    "scope": "GOOGLE",
+    "types": [
+      "cafe",
+      "point_of_interest",
+      "food",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 2006,
+    "vicinity": "100 Ahrens Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4398494,
+        "lng": -80.5207743
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44125408029151,
+          "lng": -80.5193531697085
+        },
+        "southwest": {
+          "lat": 43.43855611970851,
+          "lng": -80.52205113029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Tim Hortons",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3672,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100253680215698150043\">Tracy Suerich</a>"
+        ],
+        "photo_reference": "AeeoHcIQ5oAtMFmHHCMXP2l5BDO9NMM3R-q9xuZCtLRHvojddLmp2HzSLk3nohx8URV4hdJ6Ilvpe4A-0SLKxd2OfNhjPlAj7xA0a-VblYv9XAbSb8eZWLz0KOPnqwudkXgWeAVUWv7FrEQNj94xDGcYnXGotBnlw9lGhVAbQAbhSz5299iaawf78F-TW3XiyC8M59S-7XcxHh4dLo3_GZRgFy3yha-FqoaPhactzJ4c4DcVrshcbvEdjMLl77Fx057BwtKuxAz1MbPR0-RJqyL6_wWzZb8KwQRrtV6YuWII6_OVHudt28sdPQ_hf9qm8Q5NxJ7EV1LiQoYCO8vcLNSucCBgt25itACVKID8r5PzteMc-Tapay3zThysC36ZfrvTQmg7LDoubgbTUET6vHYh5aNiFQjCCvKhRXxtMrvqVOKREw4ofqJa9Nj2YOB7_LvIDnmbFxmDIT8ydCU2bd_yn3ftr04MpLFQKOTscOOFPSW3d7rksvWnu6IM7djy37wwkGl7QGSBWQLupykW5y51gKyg8Ok5mAh1gRfUt4gq58TMAni5ePXswZx5ll2ZDWOkueshaarbzIYm3d02H42t6SPrGQPBaivK7DuK5RxysYNl3R1qqqEdP9hUWVSNsbv8WGnCmw",
+        "width": 4896
+      }
+    ],
+    "place_id": "ChIJgf8gDkr0K4gRdJ4yLWYB2bE",
+    "plus_code": {
+      "compound_code": "CFQH+WM Kitchener, ON, Canada",
+      "global_code": "86MXCFQH+WM"
+    },
+    "price_level": 1,
+    "rating": 3.5,
+    "reference": "ChIJgf8gDkr0K4gRdJ4yLWYB2bE",
+    "scope": "GOOGLE",
+    "types": [
+      "cafe",
+      "bakery",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 1164,
+    "vicinity": "340 Westmount Road West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45086750000001,
+        "lng": -80.4901527
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4521913802915,
+          "lng": -80.4887418197085
+        },
+        "southwest": {
+          "lat": 43.4494934197085,
+          "lng": -80.4914397802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "The Adventurers Guild Board & Video Game Café",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102824176067937656860\">F. T.</a>"
+        ],
+        "photo_reference": "AeeoHcL3-wKUmeDNLAQcl6H6UzfHr9WPxgkC5uXdCx5jO-QjtsyfdvMiyWCFdhomism8ipLybw817pO_hLpmiSrgOd8S3uqfjb4n-59F1ffntE_P6-49euCJGyX0uPBmhRIN2Yfug_5dBX7D5Vx2kieA6rJDmby8zMagjomqiBglTCvyrTxI_aSNtIXw1LbeKdmzGol89eE5V57leI6OevW8mJqO7KGMMCWKB1bAY2-Q_QIH2-jsNtQieJMA61TbUwCSMJ91OUu6iuxiewuDxaXgyg6hWrXq9ceHNTzFAo5sKcsCq_2vETLT1NnV1IAQ8sEEjly0YfzVVMKMXZvbT-0jnu47YqQS0sLaqMO89GzHHvTOoF-lpogsqu5NwGUCcdjiO2wSO2k0Nhs740O8SvpyY0sllpjygpVOEJVErnI9yrWOrLkGuDwBJZhNmJOJNwVpsbyS5FuTAioKML9uQKNrgKPeHKpyntf5MCuD216cy-4FxglnznC5_1qOBMfoCT1ZV3AtpsXocVCF5DztE-FipYoSpEYTS8CZHms5ekB8h0sMIweLNLlEZfq239UMPsu1Z_vUCDky0ksc9-9HIqRVMeUUtdtL2D2f6xRIPQe_7gVg1j1Bre6THrcmGEtTkQFKKcRmhQ",
+        "width": 4160
+      }
+    ],
+    "place_id": "ChIJEQ8V6fL0K4gRennrVwZwwc0",
+    "plus_code": {
+      "compound_code": "FG25+8W Kitchener, ON, Canada",
+      "global_code": "86MXFG25+8W"
+    },
+    "price_level": 1,
+    "rating": 4.7,
+    "reference": "ChIJEQ8V6fL0K4gRennrVwZwwc0",
+    "scope": "GOOGLE",
+    "types": [
+      "cafe",
+      "bar",
+      "point_of_interest",
+      "food",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 638,
+    "vicinity": "36 Ontario Street North, Kitchener"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 43.44921979999999,
+        "lng": -80.48952330000002
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45060378029149,
+          "lng": -80.48823906970851
+        },
+        "southwest": {
+          "lat": 43.4479058197085,
+          "lng": -80.49093703029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Queen Street Commons Cafe",
+    "permanently_closed": true,
+    "photos": [
+      {
+        "height": 3429,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108324163100588676835\">George Mastrapa</a>"
+        ],
+        "photo_reference": "AeeoHcJJsGxMjMZgLvR3pLC4o8QDjeFgcEsayP6qce_RuKXJj93hPXTv5p1QOB64Ve2yOaZPUZt8mSZXyUxzeza0JgnP88LjFWz_nn7rFPgajEttHV8QfGpbCxvjwXtpOr2AqHGZeis_ChKs7T3uqN_b6rfcA6Y2ZbssKub0huAzpN4YOuxeJdYZjJENNHnzGUeDHkqh9_sX6TMOGMcmXg7KztIQYPZH3glrQvQuEueL3y16JDH2IQJFIZQsznWcH8DqDz1ZGsMF2hyepjUcdRrV2Hv-NGQczrQslsw3NtbmkD8ZH3lJ5iCT44_bq1ymY6nSDRAFhcdFK50RJJhEofQQ8FmAnd_EC9BI83pAon_DnaRSN3RBNSKBjdiFLVEFgF3WQ3oEVfYmb1x8p8f2t_OpNBYotf86Px2RSQ69DBHm84ra5GZ3jF0hSm7zXADA2LSh_tFSNUXaZZAMeCWOpcyPgQtFvteL-49pkTrMVL3aNqiWMsAEGFHryEUnwfkRfat5IgnwOs7cnAj0SoFSogy78CR4d9AFSeqYx-6EXeL5PQXQRtSaSuTOwS_uP0YYhLcqIXvfd1g2Q20U3ojoDiNgZtY8tsqOXizQc4fkBlxyM2LQ7-WisD9ACvJoHu_x4HGAVmZX9Q",
+        "width": 5144
+      }
+    ],
+    "place_id": "ChIJ5fPHZ_L0K4gROIqA8yECUUY",
+    "plus_code": {
+      "compound_code": "CGX6+M5 Kitchener, ON, Canada",
+      "global_code": "86MXCGX6+M5"
+    },
+    "price_level": 1,
+    "rating": 4.7,
+    "reference": "ChIJ5fPHZ_L0K4gROIqA8yECUUY",
+    "scope": "GOOGLE",
+    "types": [
+      "cafe",
+      "point_of_interest",
+      "food",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 500,
+    "vicinity": "43 Queen Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.43798619999999,
+        "lng": -80.5019822
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4393736802915,
+          "lng": -80.50067571970851
+        },
+        "southwest": {
+          "lat": 43.4366757197085,
+          "lng": -80.50337368029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Tim Hortons",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 305,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101733379961978408210\">Tim Hortons</a>"
+        ],
+        "photo_reference": "AeeoHcIpXrysSn-BPGmVjqEfPVXxrGcZc0KUU7UJn48XSYB0Jq1VThtkZ9Ayy31ZZlOP-ZuB2a7LC0dmq5NVacbwGEZlKztSpNcFzBJLOKtAQpK8nGKER89X9uw3tPlwaqvsvOT4riu8jCZu5PKOafIEaY4w_tZvtwCG7UKSsMdfWku1yAccFGhbUvJTm1TwBJFno7B86z9FyS5y3OBgLibneOSTHWnqL07KeKV3zEbd2rneVUEcnImM0dX6KjIAwKgyLBiU2-xTe4uRK4hHjZ5yvRKnxk8X1hnDXrG4t8WDfNViHXIF04r6oIB24ceifR7bj0Oc7gJCCuc",
+        "width": 549
+      }
+    ],
+    "place_id": "ChIJ8aXQwVX0K4gRKhP9bvTZODQ",
+    "plus_code": {
+      "compound_code": "CFQX+56 Kitchener, ON, Canada",
+      "global_code": "86MXCFQX+56"
+    },
+    "price_level": 1,
+    "rating": 4.1,
+    "reference": "ChIJ8aXQwVX0K4gRKhP9bvTZODQ",
+    "scope": "GOOGLE",
+    "types": [
+      "cafe",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 191,
+    "vicinity": "911 Queen's Boulevard, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4480792,
+        "lng": -80.4847918
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44937983029151,
+          "lng": -80.48346076970849
+        },
+        "southwest": {
+          "lat": 43.44668186970851,
+          "lng": -80.48615873029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Fresh Ground",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1297,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112779042182552183543\">Fresh Ground</a>"
+        ],
+        "photo_reference": "AeeoHcLE-IvZAGxBKdh9LdVdBbXfX6-GONZdM-GMmdre124H41GpqTbLTp2ySKkwZPaAecPb0YuIcxcyYmBYYoR1wXuAKPYS5LCQsaUMV6sCyPKhDlSDHOFEGt8IL2k48ThzjeviN9a4_GDnv-C7S2MHB7-NI7eRq99xqwx4PhUace-rivJk0qYlMq6Iym08XV8UstSISEsyr1siz5YC9zVV-6xXSVFNIJ0Zp5hbf6g86MTgRGdCqmnn_pP8RAR5yss0dcYQIGrsMNxWCH509TMMohI8y_wUgguGeCGElEMjUoMeMHpWMFyWuxwG9IZXzYRiJEeovR46OFk",
+        "width": 2012
+      }
+    ],
+    "place_id": "ChIJn8xzN-z0K4gRv0U9h7TmFP8",
+    "plus_code": {
+      "compound_code": "CGX8+63 Kitchener, ON, Canada",
+      "global_code": "86MXCGX8+63"
+    },
+    "price_level": 1,
+    "rating": 4.7,
+    "reference": "ChIJn8xzN-z0K4gRv0U9h7TmFP8",
+    "scope": "GOOGLE",
+    "types": [
+      "cafe",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 111,
+    "vicinity": "256 King Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4479419,
+        "lng": -80.4834635
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4495285802915,
+          "lng": -80.48238166970849
+        },
+        "southwest": {
+          "lat": 43.4468306197085,
+          "lng": -80.4850796302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Serrinia Cafe",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109786110942799513031\">Serrinia Cafe</a>"
+        ],
+        "photo_reference": "AeeoHcKj_whcFXsX6cDWuWayu8sWhf5x1hT0zMoa-8slhGCUvRq7JUa18eNo6qRzJSQQWJXHJPej_2Anf5Uu4MofmtL651200ecj9djE7j31VHHbFKloQEpTy_U5eHLVmALCfCkBykDyKBq52WIeOWZ2pG_XXqH9XgN3Rv9Ue0o2yB38DgJvfnCZAapVbRxTBfJm-84umuGxNsEQekF8JPgWnEpHdq4MrNWV9fjx8ASfV-LtVv9QRpPPAbu4jFQ68-PYcpUVjH2pD-3l1towkq0mbthxF-TMyz2zDgHWIIYkI2pArQ_zjaN0ubG_qFNjPe4AH9A4hdBJ30c",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJbX3gFuz0K4gRV0YIn9AB03U",
+    "plus_code": {
+      "compound_code": "CGX8+5J Kitchener, ON, Canada",
+      "global_code": "86MXCGX8+5J"
+    },
+    "rating": 4.1,
+    "reference": "ChIJbX3gFuz0K4gRV0YIn9AB03U",
+    "scope": "GOOGLE",
+    "types": [
+      "cafe",
+      "point_of_interest",
+      "food",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 40,
+    "vicinity": "300 King Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.458014,
+        "lng": -80.4730223
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4592947802915,
+          "lng": -80.47163956970851
+        },
+        "southwest": {
+          "lat": 43.4565968197085,
+          "lng": -80.47433753029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Tim Hortons",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112077964344173764200\">Octavian Ciubotariu</a>"
+        ],
+        "photo_reference": "AeeoHcJnHvsP75XGhXp03VpTnv5mSSkuSUYP-rahlfSyYaiVl2Xu_mqb60-5Qbjj0jMEwSURLTyV4l6Xf7bD2vuHrYuHvEUp94kPwdKrMLW4syC2uy6wb54PODraiAQ3SunSTmL3xWYqLBM9G4whrUFVGfJFi8ftbO-DEy9AtxcGlXzuDDsJB8j7ohJ-YYKqDOL_druAtbxZ7H3vzFp5YtuqqUMqwo_qpxwmmR3H-vgc4ObI_Av1u-0z9e4AY-oRjQf6laft3f9NzBJdgTGPdHLYfVLGwJ4TEkZMWRi4WureA3KmnNSKWy5_8w0STMfw1qg9TRoC94B3UjupDpi2qLhm_edElBDiLw4nuCij7KDwDPY_EzcG2ItI93W45pZ8cnCBno9CCwYdnFt7m_lj_6UpA9pYDCJAjQbBYXPzbE0Fe4Zqxv7AdqSks0we2bHZutBU6DUkaLantYvWBjj3ooOKTs5uM5Ikq0ffjgCNRZSONM0B-8-Gpx-es7e7r_k0WOQtpOpkhzu8ciAhGIfqwE1R_pREwHZeFDi1PMXJuuS20FDtmnwIrpLq06SFssET6iek13KLJxUv-KfQiD5mUDykdGfYmSJv9yJWYAKgwvRJ8LHT1zHo4esu0XOw8sLJwnTh",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJ5cHKiJT0K4gR4qJAcsjP1Ts",
+    "plus_code": {
+      "compound_code": "FG5G+6Q Kitchener, ON, Canada",
+      "global_code": "86MXFG5G+6Q"
+    },
+    "price_level": 1,
+    "rating": 3.5,
+    "reference": "ChIJ5cHKiJT0K4gR4qJAcsjP1Ts",
+    "scope": "GOOGLE",
+    "types": [
+      "cafe",
+      "bakery",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 1176,
+    "vicinity": "385 Frederick Street #41, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.49995,
+        "lng": -80.5307952
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5012339802915,
+          "lng": -80.5293709197085
+        },
+        "southwest": {
+          "lat": 43.4985360197085,
+          "lng": -80.5320688802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Starbucks",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101776448978098375847\">Starbucks</a>"
+        ],
+        "photo_reference": "AeeoHcLd7JBFZonZt42MFJYzRq0VavJ7ZmYsosy_MxkGOWTKjge3WiI5IA5tN-NFm2gZ5NveDzFSvELw3AQtiJ0UIjVVy6GUBdWSjbZOjkIIxdaN3rQhhzmkLpxHVt2E_-lAECHM0MXO0I_FEqpWsx_5bFautYzH4HRoaBvtRLtrkIeABTO9nog5KbMN0GxsaO-9-m3Bhuq1_rq4uMhn_ZUzBzSG3BqAlZYnqWOWuNOEbNLmdsBq8Utw_sHrtr8B_jH8KPbL03zVY5rSGKR1nA75Er4Emc0axWNJqFuJYKV4yXv3GMNvNRsOpBJafh90amH5NEtvfxcWdC8",
+        "width": 720
+      }
+    ],
+    "place_id": "ChIJPcv67MTzK4gRxH0P1LgfYE8",
+    "plus_code": {
+      "compound_code": "FFX9+XM Waterloo, ON, Canada",
+      "global_code": "86MXFFX9+XM"
+    },
+    "price_level": 2,
+    "rating": 4.3,
+    "reference": "ChIJPcv67MTzK4gRxH0P1LgfYE8",
+    "scope": "GOOGLE",
+    "types": [
+      "cafe",
+      "point_of_interest",
+      "food",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 749,
+    "vicinity": "568 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4616787,
+        "lng": -80.47028159999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46309803029149,
+          "lng": -80.4686307697085
+        },
+        "southwest": {
+          "lat": 43.46040006970849,
+          "lng": -80.4713287302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Fiddleheads Health And Nutrition",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102945313977464214613\">Lori South</a>"
+        ],
+        "photo_reference": "AeeoHcL-8tnoBx2gXQlIP3Y3p9sqhzBJGeUSjoNhWvnhkP2NFr8CUiqZHsBvnr-dW8uCYK_p-0jpdccN8tLWVBg83y7f2pYm4mbyEnQImRbNJK6Y7wn8Cu7mg3qcLLjxDzrX4ubtcYj05IgoRSSrjpac1QyWD7wuPkUCsWvASHdK_Kb6gXGGYm-WGawUeEvcHsNHiSr_UpCs_VwP4T3qPDUCywnI3EYyyZvrZjgdUREj9eywGUXdYsZvtEO7_j205tJY3I_egSAfyckmimZkXuHUGLpN3Er4QNkGKEnQuWG3zJ7XNIWyM6Xc1hCMd24BzYWLA33k5ze-sqZxzKheQR8xi6kQoAZQB2PwW5ILrgdUE9AEaecbHMTP4_ltFEGgnz8b4KZtwbY9kuMOcUrsljkEp-p24neViDJ7Tm7K3D2OJDhFykpLLMgBpe6Pf-Y9MQradLzvVxEk8JnjJgGCj7cYGDTY4odckqzjuOKCdvM-G6iIT3vEfI0DCk-5t2VS2ic0ZjpyiHHoTKGnDYdtp_odiNkLBMHTmVugqDuUOdFbOmyqndI3NcMOPIuQUpGK8kCDhhNpBwZm-AMWI_Xm3MhYguynIJ1hNOSkPFnMO8eqHnPofmm8DdoocWRgvP0ZhIjNe9Yb-3wX",
+        "width": 3456
+      }
+    ],
+    "place_id": "ChIJI0powG71K4gRixE0Y53yTp8",
+    "plus_code": {
+      "compound_code": "FG6H+MV Kitchener, ON, Canada",
+      "global_code": "86MXFG6H+MV"
+    },
+    "rating": 4.1,
+    "reference": "ChIJI0powG71K4gRixE0Y53yTp8",
+    "scope": "GOOGLE",
+    "types": [
+      "cafe",
+      "health",
+      "point_of_interest",
+      "food",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 92,
+    "vicinity": "25 Bruce Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.500516,
+        "lng": -80.5331849
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.50195358029149,
+          "lng": -80.53184166970848
+        },
+        "southwest": {
+          "lat": 43.49925561970849,
+          "lng": -80.5345396302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Tim Hortons",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110423631297079091828\">Alex Wu</a>"
+        ],
+        "photo_reference": "AeeoHcKUNWuYcv92D9EPEXomsGtcPdIKH8TyMm58CCDaCdDEUqL7Mx2_qyB33buFUwTV3L42x2FZVXD7knwg2tQV3pmLk3r61ieOtf45lIG8A5uj4u9Ljk_DwT6Mfd_7IAioffInSIiDs5rWb9_JsFFs4L1dcI5eUUVuJRdlm4ZyMcmFnkfw7PKV6f_3jz1uJHTJPsNGj97OtNWDqbdslutxcdb_8PKaHY_9kcNSOGNa8ThYqTRq2llNLI2ArUKh-R_xya28uCfYLmbYNZ5_2GdjF-Bces6hiCWqsQpZUAfq60X-wTZToWkbwSxaeNiE4dFvSnvh-SRBhCYvqoDslIjMo8XFF5HekCSfS85-RyQbwub8Bs5da-9WMTX52f09Z_fI_z72iS2g_Dotplyyjwl6dRIiQ0BMdVzzHUJcIzxG_lRHRbrFh5x_tsdhHxiUXkpwjTJcXUJtnDiwzwFxhe6GIQjruuOlEDqXxF9fMuqlONQWK28UrInO1mxO0D2wMpaGMSq2dw-5wzunwtOj3-3ofjdYssGOziT_Y7WfOF_Z-Ft7-4QohFLl5bW_F55w03xgLVMtL9Nvv6wJjeQWYn2udr-6hsqQOe-CG-JUaqYYliRGXn9Ri4eYJPgImVZvgpxir1RtLg",
+        "width": 3120
+      }
+    ],
+    "place_id": "ChIJaylr0cTzK4gRugVmg-kALPE",
+    "plus_code": {
+      "compound_code": "GF28+6P Waterloo, ON, Canada",
+      "global_code": "86MXGF28+6P"
+    },
+    "price_level": 1,
+    "rating": 3.6,
+    "reference": "ChIJaylr0cTzK4gRugVmg-kALPE",
+    "scope": "GOOGLE",
+    "types": [
+      "cafe",
+      "bakery",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 148,
+    "vicinity": "565 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4354139,
+        "lng": -80.56088629999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4367413302915,
+          "lng": -80.55963231970848
+        },
+        "southwest": {
+          "lat": 43.4340433697085,
+          "lng": -80.5623302802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Coffee Culture Cafe & Eatery",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1004,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111298242100880648270\">Coffee Culture Cafe &amp; Eatery</a>"
+        ],
+        "photo_reference": "AeeoHcKCkZHh4iUyigt9nW-rjImL1UGUr6XY-yOUSFrKjr-ytWkScPjFuTr-DXfQCqEOoS7lwJdo_u3lQW5yYmUDOTmL2Jc_aRRedLvXRg9y4aqFVQ7_LipbM3CflpRacZPW2xrG6KJoqqb1eJ7R7NpsIwiFtErHClt1IbYDBjeDuz7VZPseRZ-5eH7B45JpEPj7UMpEkjL54AX2RG56DWMsJvUlKo7uTVq7U8k4Hw7unVu2absVP-wz3XJA_O91_jzd9HvWYEA5gawcuuk6Xn9ZATqRc9v7qwuLkSEnafaunL1zq7EVxd-JZf-5ivF5umytFyYuCF14nJ0",
+        "width": 1504
+      }
+    ],
+    "place_id": "ChIJ_SLAX2H2K4gRCyChIFdLi_8",
+    "plus_code": {
+      "compound_code": "CCPQ+5J Kitchener, ON, Canada",
+      "global_code": "86MXCCPQ+5J"
+    },
+    "price_level": 2,
+    "rating": 3.7,
+    "reference": "ChIJ_SLAX2H2K4gRCyChIFdLi_8",
+    "scope": "GOOGLE",
+    "types": [
+      "cafe",
+      "bakery",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 826,
+    "vicinity": "215 The Boardwalk, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4434571,
+        "lng": -80.4695971
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44469713029149,
+          "lng": -80.4682173197085
+        },
+        "southwest": {
+          "lat": 43.4419991697085,
+          "lng": -80.4709152802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Tim Hortons",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1868,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118332282861168434530\">EA Locksmith</a>"
+        ],
+        "photo_reference": "AeeoHcIgnQ3coYYn0YAxoJp7gA1ACsomO0sAN68q_bP_GHLrjmj80QunYgl-OJKD_scokJt-8cWGR3TNK3IeqCYb3IkeWFQUHDFjZxQeaZlr4nRqziTiGZZeT0eXnqd7exNxM7yjyw1ReIbz6s8k5al6E7kugD1-LRJbbcDH_Vampb-gmoxdAGAhDu_7Pl4fJfRWVMQ3Y5SpTm06LeXoPhGMzh6y3etuc_9ejJCex4Cvso7zvW4tuk-1o-m-7PaRnVzXSevZZFbxK0NZ0do1hX622xQh1HuzdpZFuZjCJE6VhveiEc8Sgc22mZ3YjpqUV0b-yGtY8WW1AhlkOGg-0ciT18TxqZ2WkpodSqXgf_t8sBYZSqyZr0Qmu2LH4X1s6eNtQ33d8wXjDypJsMwA4LokwlZ5Lu-zsD2ZePbZK9tqTP3zDwWXQ-KMaRRuJ5vUDLs0c6lJmPvmOKkft1ukYFlnKoGF1lhGlvjmcsUnQQjDmUdtC4RUPiJIVZ1UfmIeUnpkQTT8lBwl4NIy9t3lNEs4n8LI2oTWN0K3R5XOdaVlEuiKqz2x0buHb64rh6rwy-wlTUaFeqbv6pDecs35iy5zyhL4AUYbO9wPKG44HORwG_1cTf6kG7FgBJ7Y96PXJ3h0ziqSsw",
+        "width": 2989
+      }
+    ],
+    "place_id": "ChIJEYkB-MT0K4gRpNWjt9NAf1M",
+    "plus_code": {
+      "compound_code": "CGVJ+95 Kitchener, ON, Canada",
+      "global_code": "86MXCGVJ+95"
+    },
+    "price_level": 1,
+    "rating": 3.8,
+    "reference": "ChIJEYkB-MT0K4gRpNWjt9NAf1M",
+    "scope": "GOOGLE",
+    "types": [
+      "cafe",
+      "bakery",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 815,
+    "vicinity": "120 Ottawa Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4160874,
+        "lng": -80.5191072
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4171172302915,
+          "lng": -80.5178479697085
+        },
+        "southwest": {
+          "lat": 43.41441926970851,
+          "lng": -80.5205459302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "McDonald's",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3096,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103609702271947494247\">John A. McDonald</a>"
+        ],
+        "photo_reference": "AeeoHcKh7gIflppsy3qYNIAPRbjDwb5V5_kT6Yp2_w1AO5q9WM9irFo_FxnztCwaloys616O-kTH2kSM12w2lMyWk7eJ4W5dllQS0re5Zi9Ax9FPJmbYbDdRwyUhFAYLRS7K9wrprtwcYn7D5KeZ0_GsW6jjSUR-j0JlywM7zRa60yWN1GAQQbtTtTErBW0tDxJGR37voBPC35wuA82bgH2XGbMAVniYON7CJNg3Ceyc2tUNaq6Fl9yySIdmsxOpPQMPquhKkwK98UzOJ9wcqZ5Bc-W2jRP31DdSsy2MDH7tnC6h7blk_ACcOEm1URCorXIiRfBMjt6r1olP3mc2KVRS8jmDqidjdVHhztfiMFILLAzR8nRnPJ6fSoCSIjrOApiAmKASZAsvPhy_5l0Ttw_j5JbwqYKQudaqjjD8vMMJpU1OEC1lYW2U7reBbuY0XnTZ4iNscnY9EYtHiksINNXuRCqQv8LA4XyCOkf2NWGPcsJfdhFDLPJqiQGp_tp-W52l-uGxTmp54IZsBw-G-srrZh808QZgXcYyk3dXRXUsxW60E-gRjwQwJ5U8RlO7hpFD1dQfk_qh9AAz6ypn4KU89dWF8MO63Ra_dHPQEJ45zedsO3YxF39SRHD-0l2sKyoHJKoSUA",
+        "width": 4128
+      }
+    ],
+    "place_id": "ChIJM5px_JX1K4gRJ7pQNGTydGM",
+    "plus_code": {
+      "compound_code": "CF8J+C9 Kitchener, ON, Canada",
+      "global_code": "86MXCF8J+C9"
+    },
+    "price_level": 1,
+    "rating": 3.1,
+    "reference": "ChIJM5px_JX1K4gRJ7pQNGTydGM",
+    "scope": "GOOGLE",
+    "types": [
+      "cafe",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 280,
+    "vicinity": "1400 Ottawa Street South e, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4151314,
+        "lng": -80.5147849
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.41651448029151,
+          "lng": -80.51333781970848
+        },
+        "southwest": {
+          "lat": 43.41381651970851,
+          "lng": -80.5160357802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Starbucks",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111889739627763904451\">Starbucks</a>"
+        ],
+        "photo_reference": "AeeoHcI_fZd2CstbJduFr8wodtRvS1a4x0xzKmn-fB1am2E5EUS80OUxlc6ougOgBQLIEJw8DDpzHcaizhQ1VyKfOGVbiCCW9I93nUQ2E6QpOahTW0rx09le4nkKEwAuds9z5SmbCsEsoXVaC1DDyp4ZPI9ywDxxaS5Owd122pm8y0HbbYszGl40pkeslSslBA68vjxp2s2pIpmYoHBjh-tZ27sBErdk6U7l-nxEka2Fiu2aeqO-IkuHyP4qIBL_uL5TPY4GxgyVvHloxiecfkOy9hM6ceXeEedPe8unOeKiXyA3cViI8zAs797CxscZK2h3JXddRabo95o",
+        "width": 720
+      }
+    ],
+    "place_id": "ChIJ-dbpnb31K4gRR-pw2w2TSHY",
+    "plus_code": {
+      "compound_code": "CF8P+33 Kitchener, ON, Canada",
+      "global_code": "86MXCF8P+33"
+    },
+    "price_level": 2,
+    "rating": 4.2,
+    "reference": "ChIJ-dbpnb31K4gRR-pw2w2TSHY",
+    "scope": "GOOGLE",
+    "types": [
+      "cafe",
+      "point_of_interest",
+      "food",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 496,
+    "vicinity": "Sunrise Centre, 1400 Ottawa Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4056551,
+        "lng": -80.4996481
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.40702853029151,
+          "lng": -80.49840776970849
+        },
+        "southwest": {
+          "lat": 43.40433056970851,
+          "lng": -80.50110573029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "McDonald's",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105612268752145423343\">Vishal Shah</a>"
+        ],
+        "photo_reference": "AeeoHcJQ5aa3nXVIQxB97mtW193_5ejhMjo3bKqdBE7MBSAEZZkY1ae36a3rbM_W01zaDDbLK0pjKl2E6JBv4CyXTdZpgFIgwUjb1jOmvNHNIMlzYzPVJ44wo8q_43BPN4a3nrFm15jxNuCIMssC6P9y9sov9pPAdQH17aCPdThciyw7VVh9YcAQYtMeOVyIMGLiTxxId1FrBLdigkI6oY-xi6K63RKkPRcmzz4puz5nv7cus_Glfj6KglodbnzavkWrRm934CXM9smJqsxXuHZN6_xV_bOZ4j_L9NyvswVCAnz5aqzCnkdTmYA-RiSeIxg63J06IKOXGL3NobpJyL6fqUG71VWf8A2TDo4HGEjsZgvvwppzkzx3IEvpY0a72mz4RLXV9kxajWu5h49jovyxCR7I6Z2VqZTdhtysG_BaTAwGTvpG0mf69egdjeLkJ1KaQNDh2lKabQyYUtTuD4AkotfTVtplUGDFF5MZh-jfVf8zoPnSJTHn_39qt21WonUKk1zvv_HSwlgkgNG4RPYhs02VXkhpwshfQchEdz2D7XS3IM_vNs6JcJqUZGUhp0xMtSD6jCMjWev3EDAj6oj1DFRvlJqzOE3DG-l5_Xlyjw2sEcl_D7vScyAhgUJcs36TvBRlvA",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJ_-QCRnj1K4gRwAwT3M_aTU4",
+    "plus_code": {
+      "compound_code": "CG42+74 Kitchener, ON, Canada",
+      "global_code": "86MXCG42+74"
+    },
+    "price_level": 1,
+    "rating": 3,
+    "reference": "ChIJ_-QCRnj1K4gRwAwT3M_aTU4",
+    "scope": "GOOGLE",
+    "types": [
+      "cafe",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 1433,
+    "vicinity": "& Westmount, 1191 Fischer-Hallman Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4022842,
+        "lng": -80.49734649999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4036720802915,
+          "lng": -80.4958850197085
+        },
+        "southwest": {
+          "lat": 43.4009741197085,
+          "lng": -80.4985829802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Tim Hortons",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2592,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114476646663272130849\">Ricardo J</a>"
+        ],
+        "photo_reference": "AeeoHcIotywjEi418OtqlP-D2RPxqKAPCX5mmoSmM4Rj-DuejCLZibsvFzC9rbVqY592TX8Maj7WIdPCUQVRzmBdspye-9y4kC6kvLtgODs1EC1nA1U0joxXNynFGXwjeqQCQU_bT-2GbZmjC_PFhKG9l16o2R7cpjC21kP5i7qibEPvpmYBij5qknOrMPIhT-gThtB58NinKU4ft5VnOH6k8oxsmSmqXZHaAqPvmZ2B-V5U0k0xNxQI_WIKckhPpnX0LaIzZ_a7Dchng0OCt1-VKRHC2QeLfJ51mkC8RTl6BoaMsHa5ZxU95sF-wCKlAh55NF_9ECsSa1F7OXtM0B8RH4azywXVMiddlRFANcMeuw4kL710hnoiaTEPMqcpJc3bVhtnRBeZ4t2rZnJ3V1t2R5Pfq69Z3PmGWC_9nYU0WUqk18H5PNXSzttIVPcZ6BYftnkUk1a-lYkPplI47oAcTdu6np6tnczot_l88cCxiL7Tj58ST-GnyZ1e57KNUxF84w1rnoK3LIxsKCshHuLgf9bdnF_eNOAvl-yp041sC-vE0nQc-zPCz95jGS_CcIcfX-WMNeAgnLpOdtfv6vkkkmUaHDsRZP63GlV3Mpnmjq6aWJN2as-3EdwAezi8pyyk7qe7SA",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJyXG2-in0K4gRdeL_b_cjknI",
+    "plus_code": {
+      "compound_code": "CG23+W3 Kitchener, ON, Canada",
+      "global_code": "86MXCG23+W3"
+    },
+    "price_level": 1,
+    "rating": 3.6,
+    "reference": "ChIJyXG2-in0K4gRdeL_b_cjknI",
+    "scope": "GOOGLE",
+    "types": [
+      "cafe",
+      "bakery",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 969,
+    "vicinity": "1201 Fischer-Hallman Road, Kitchener"
+  }
+]

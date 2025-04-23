@@ -1,0 +1,3037 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4835113,
+        "lng": -80.52484
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.48492448029149,
+          "lng": -80.52332226970849
+        },
+        "southwest": {
+          "lat": 43.48222651970849,
+          "lng": -80.52602023029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Gina's College Of Advanced Aesthetics",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101038344528051208666\">Jeff Mulder</a>"
+        ],
+        "photo_reference": "AeeoHcLAltsEKZGtcsjo7-s8zJvMn4FikkpB6NczLnRdTBWYN_rGZmUlcaLzq5t1Fya5PH6QK54G2UT2f--W1kRcoMn5eA9kP9BbK-uY0HBQFAcbq1PUEG9RFGLtms2VFN7Fh-ddRZPMUkfFSHMxM371QB0nIEuhZAGKL1NPgebr58N1EOJgI8g5CKPEBCTe_IylSyo3VZzhTs4yxYO-UQIx5DAoN45hVgjL5HcjQ4oPL946iY2clObrxukZFIUHTfZxfoLHPgnWS7aCbFmli3AYgO1AoSMs9X2hToh6bvxvmWav7aOZci5jXaX2HzQRcwyJ44QwuioqDfkQlm37y2wlvyFxk6xw5i3qtHbYXT3RT2ABjE26EB4kb_pSqNTGF-3LJ3rSxirmM4k3vNINf6rdBrRGCStNmPTZR4lQCyKBtqmCAlDy3hWdcbaOBrzB8JgvnIMx59sozSH5YlS4V4tExgEIA0s_iitK5uNmN02gpltJqoXve3D9xCObu-SbUTg9Wdmkxy6CqbvdSIfvv665CFoYK3QyhdxOq142wrAG2V4e0BCwrLPuhqYx0bh7gg08d3_vABtN-loqNg8YUBqrABcBoVZHiaEyjkkgi8jFk5o-xjtlDr6a6Fu4-a6o4yFkdwPHCtyD",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJQxyXgO3zK4gRuyClb1JQjmg",
+    "plus_code": {
+      "compound_code": "FFMG+C3 Waterloo, ON, Canada",
+      "global_code": "86MXFFMG+C3"
+    },
+    "rating": 4.3,
+    "reference": "ChIJQxyXgO3zK4gRuyClb1JQjmg",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "hair_care",
+      "beauty_salon",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 83,
+    "vicinity": "385 Weber Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4659442,
+        "lng": -80.5184271
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4673358802915,
+          "lng": -80.5171727697085
+        },
+        "southwest": {
+          "lat": 43.4646379197085,
+          "lng": -80.51987073029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Aaina Salon & Spa",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 393,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104391110901193533962\">Aaina Salon &amp; Spa</a>"
+        ],
+        "photo_reference": "AeeoHcLEn7GOjseE593ClqL9b_VTT6IlIGrkkhAXpL4DpfjfrUrt041dAh8TlKyKiYHrQDhFIYwTF5TMkCyiCNstQs6c77Yd4MkSHFL9KzB7OtVatDD2Fb2oKqOxNWXzw5Q25C_WJKsNPASlbJ8ugREMcJilNAfKPg94q4jGUA_nXlbWDYQxGpDbt-qbcQTRZBmieVq9uqRndR9lBKWMKY00Q3S7bXtaQSt2hCWo-QaBasbMWZ3cs4S3dbS7saJsV-CFrK9HU_W2YFcwssJyaDHKgmEH4TfVQjz-KVo5nWtBN2o_YBxl-wyYLA-bviSeauiXX8N_ifq7opI",
+        "width": 592
+      }
+    ],
+    "place_id": "ChIJDw0XWnL0K4gRwWOgY0uNvgs",
+    "plus_code": {
+      "compound_code": "FF8J+9J Waterloo, ON, Canada",
+      "global_code": "86MXFF8J+9J"
+    },
+    "rating": 3.8,
+    "reference": "ChIJDw0XWnL0K4gRwWOgY0uNvgs",
+    "scope": "GOOGLE",
+    "types": [
+      "beauty_salon",
+      "hair_care",
+      "spa",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 50,
+    "vicinity": "5 Laurel Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.43329519999999,
+        "lng": -80.5580478
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4347070302915,
+          "lng": -80.55709131970849
+        },
+        "southwest": {
+          "lat": 43.4320090697085,
+          "lng": -80.5597892802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Regal Nails, Salon & Spa",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104998530403919799514\">Camil Roach</a>"
+        ],
+        "photo_reference": "AeeoHcIyzL63qQcXXwzKQD_3yNqRP_r3GjY1OEcJFAQ4JhN5E036lx1QUYHjx_xg9N10rEOMOJOBCBTqm-eUSlmgq0C8sb5uP9IDeQNJtIVuRqqJ-wv3-rOYy4_UlcvUp7oMQnfyrBEFRilg3Sj4BzEK8-a9daOMxYnJ9NEah74cMfet83uhoUCRUd_ZwQ5oLCBe-QBhjfOnOtcIpqyDG-t1ZhNid3VfERda00VawB-r-Q1kCR-_Uay7e2z1z-BC6JMzqHNcVjajUpJmk-p8rIY4qFj5x422A1_UCzfxtFsLJI4h-mKGowLzRzU83ZEqcsom0L_41Oq2y9ARJ_ZxcpOsglDhitX_0NuPJ6o4agULozLN6mlpM9fTAyOxyFOXYLrf0FIpu__SbmuOALIcysKgXDRtYnKCz-Nr07HMpttgJ9Nv7LfwxMoTChyKmo1lteWGQzedaXAAIsk7fpo9v-Scgom1-3lCvzzrJ7kPaTXgp1dUdb1pwLBUu7TkJLjUOCD-3L7NtT2EZ2D2fkjChG_j5yvPWZcwGlKDSLpzWGb7hCePiWmHwrv4wpIDonnx_SiSwwEW0NnEHQFnklVujQzo37I0PdU5JJxRr8pa_0SAnfaKNk0ODSZHISpD8jYCl5JVA3Trmg",
+        "width": 3000
+      }
+    ],
+    "place_id": "ChIJAQAAANz1K4gRj07NC-BkwyY",
+    "plus_code": {
+      "compound_code": "CCMR+8Q Kitchener, ON, Canada",
+      "global_code": "86MXCCMR+8Q"
+    },
+    "rating": 3.9,
+    "reference": "ChIJAQAAANz1K4gRj07NC-BkwyY",
+    "scope": "GOOGLE",
+    "types": [
+      "beauty_salon",
+      "spa",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 123,
+    "vicinity": "100 The Boardwalk, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46829809999999,
+        "lng": -80.5234524
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46972233029149,
+          "lng": -80.5220995697085
+        },
+        "southwest": {
+          "lat": 43.46702436970849,
+          "lng": -80.52479753029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Waxonomy",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114229269881354370214\">Brianna Piedra</a>"
+        ],
+        "photo_reference": "AeeoHcLX9VaPgPYIWpqLyeSXcjGHwdwlzp_eDCrECzEvMvx-u-5Rz-bECAt-zcyLTLLjItXzcge6DApzx4EgA_AQAIZgj1XOgpwc_dNDB5t-z0iwdKQYTgM_Qph4N26oWnq7kW7kZt-jBPojiWBX-T5D8vJYUHn7pbAgWFGQsIXauKbRECiGy4vIyfYQtL4QjR4p9EKu2-WE4N5aKVx3mbJslqcYcclZaUf3brR55DgZBmCWkNkgwarW7cUMbXe7GpkQ0HIP15hQV9Q46zaqUzJteaKGL0QiiX32jyT3AZMyFajJ7qytD_kOsyEeIfR6nkJgSYbl0EyXeN3yxkrWry1BioTbF890-ulkAZRB_7t0aHOw8zmZSima3TUGnPc-aVwsve6JlWATOei4XSd9KFDxiwJDq7W10SIRsOk0jLUiwb7CTZGmMSDb4RhRYdrLIgmYlCSUa-ZvEnihKdsMW7fOA1rwO7DoMkC92_tGHmfkBDM3VU_Vm0yPldytw7iaNqWzmYk2UO2rsHIdXWLNpG8DHr-46KMjpba9CvyFs00LbpbXBrfjrH7ELKo5y9wYii3mIm4egSZfvXjcQIQslZltN3wRtFHvh9o7PtrWh8_PAKAh2SdZdTcPjfGONxoKI2NOaDdEhDn4",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJvbthpPrzK4gRMSX8ayOX1O0",
+    "plus_code": {
+      "compound_code": "FF9G+8J Waterloo, ON, Canada",
+      "global_code": "86MXFF9G+8J"
+    },
+    "rating": 4.5,
+    "reference": "ChIJvbthpPrzK4gRMSX8ayOX1O0",
+    "scope": "GOOGLE",
+    "types": [
+      "hair_care",
+      "beauty_salon",
+      "spa",
+      "health",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 677,
+    "vicinity": "95 King Street North #102, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4315886,
+        "lng": -80.4378061
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.43288853029149,
+          "lng": -80.43635876970849
+        },
+        "southwest": {
+          "lat": 43.43019056970849,
+          "lng": -80.4390567302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Pino's Salon",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112959797079234366931\">Jennifer Racicot</a>"
+        ],
+        "photo_reference": "AeeoHcLEoAJQbmGU8efoXjfp50JboYdRMzfTYRGlXVFdw6iapLMu9WXMiINrdIajqEaVe0m1_k16nFXVWavff45Z8KkdUQBT0OaKiKjLk8AH7xSv-pf5lPJyKBk12XfVaupLx91MQNZ5dr4mMBwMiYxHIGn3q6JaLYwE9kt9w5i3WDdtfpmFnTo0GDqgykqP81TgY5xJKq2nszT_-gXJcWDVrzHMmU7c_CJ8hdcDiuk9vu4cDcMjNFoMMIZeYL8nrJzj7YmP2JZ7ym084_6s6CkFajnqCKXZ_gT_ZGeB4gTcC57wiZHU2baBB5Fi_SCMi9o4vCjTIb4DcOJW3YaSzadB9tSpaoy8Wa6_xbqAn0mZIft344VCIhvLJJN0-E_dk1rPM_ch-K_9FfcafdKcAj_BhvQ1zbbCylYIIbzKHMAj51j3awC-af9n5TOfczi4WKvrf_vBL6_6zQpoDERpYO-3BX5tWXciMszaagyY4OtKKAVtnI4g4H37ym3EClg5SjyaVMIHOjN7Yc8ZuKhRIoE4ieDQEFjl_xAZ6aSMhqoBno9EWZmgS06sA7pz78kgymOLY2LcBLk_BUQ1B-12IrXyYcJrW0Xck2uijX7kUlqAvrrrjbUyzV7nKmju_fcebuMpMwbfQzPt",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJkZosEYv0K4gRkiRvF6mNxhQ",
+    "plus_code": {
+      "compound_code": "CHJ6+JV Kitchener, ON, Canada",
+      "global_code": "86MXCHJ6+JV"
+    },
+    "rating": 4.8,
+    "reference": "ChIJkZosEYv0K4gRkiRvF6mNxhQ",
+    "scope": "GOOGLE",
+    "types": [
+      "beauty_salon",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 343,
+    "vicinity": "1458 Weber Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45649829999999,
+        "lng": -80.48945900000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4577405302915,
+          "lng": -80.4880439197085
+        },
+        "southwest": {
+          "lat": 43.4550425697085,
+          "lng": -80.49074188029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Flo Hair Lounge",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 454,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114651279963212872656\">Jennifer M</a>"
+        ],
+        "photo_reference": "AeeoHcIdeOojJxmT4f0LwsCn2WM3Je5slsE1DiohpVW2AoACkK83MOa8rqungNp6B7UpmNe0D3XQkEBwojSaXYRakguH0gpVdKZxGvEP0xkH5ywPP8eZxItPr9zDM0j8NQDCPeq7owg19KsXOZDiobybs7j18DzEOUQn8jrSJ6Cm_Ad7GrYG3b6mmPEVZWmzekGii3RQeGUX0gxEtwVY-mUB1eG1ILlUrxeQwq1N8PtwTA96O67_j-LvaarFM7qnct2HSRijeusQtsyL7GSNpPj-iHNoFgIfURmgKJQQAIKMoNe94J1RvgcTuZ8KXG59VzC6E5fHhRwjNXgICWJLC6m5mZ7hug-GiG0TJ4wtcgFo-YQiRexcZwjhV9SQEYpLLXDA7qTuomt1n-vZEzV_bZUIVWfF_dws1ncLnfcCKvPtsdoZPf6_JbGVYBzU52OYUfa5-WRjjqJS6838jGimHlWioROrxj7Fb86eihMHrKybjNASUz0fG2cilAu4oWqgArLNKd6aYluHXtRg1ZZV72FdNlEHcNMsEr92H4h0zHjIJFozOdM1Z0bLggEtF2eTqEai58gAq-S13uGbeZGVoM9IkCxlAS8W5xwUm2x1jOcWbb0v_Vih6VAtkvBH-ljPA64i",
+        "width": 341
+      }
+    ],
+    "place_id": "ChIJtYKP5Y30K4gRgibrKd4E9s8",
+    "plus_code": {
+      "compound_code": "FG46+H6 Kitchener, ON, Canada",
+      "global_code": "86MXFG46+H6"
+    },
+    "rating": 4.7,
+    "reference": "ChIJtYKP5Y30K4gRgibrKd4E9s8",
+    "scope": "GOOGLE",
+    "types": [
+      "hair_care",
+      "beauty_salon",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 40,
+    "vicinity": "200 Victoria Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4683554,
+        "lng": -80.5190772
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4700367302915,
+          "lng": -80.51778306970849
+        },
+        "southwest": {
+          "lat": 43.4673387697085,
+          "lng": -80.52048103029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Gina Studio Estético Spa + Salon",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113553607287292045011\">Gina Studio Estético Spa + Salon</a>"
+        ],
+        "photo_reference": "AeeoHcIyeuNLMQbl9Ah85NbIRgNt7zGCDzma_d2LqGVjxtol-uy8oDcjPIjler5En3h1sGSV3_8vjoPXi3IpfvxtnXNCq941ZmIlGmHcgTiHi71tB7wWInQv-yN2Yr_2O_wioSGZ8L9rU1wJQZR15QCLBP-UQ3OVPaCE5LewVTMwssliIrdL1T5paAYOqRv8ayWaYTF9PNhmoCGeDyTY4_m7W9YOndNhql2ILtbirXh3hZTXJaQrMc2XvtxPDJV5NGw3jAF1XlPmC4V4CdYGkzqANUOPfQRPsTN0bKjNqhgcmDwHhc7RAozbjPgLRKi3JCRXZU1sYhOgHeM",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJJcmoyXL0K4gRQ8lhoZB8g28",
+    "plus_code": {
+      "compound_code": "FF9J+89 Waterloo, ON, Canada",
+      "global_code": "86MXFF9J+89"
+    },
+    "rating": 4.5,
+    "reference": "ChIJJcmoyXL0K4gRQ8lhoZB8g28",
+    "scope": "GOOGLE",
+    "types": [
+      "hair_care",
+      "beauty_salon",
+      "spa",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 595,
+    "vicinity": "50 Bridgeport Road East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4244746,
+        "lng": -80.5536789
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.42588888029149,
+          "lng": -80.5521719697085
+        },
+        "southwest": {
+          "lat": 43.4231909197085,
+          "lng": -80.5548699302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Studio So Lara",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2583,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114742372026495009641\">Studio So Lara</a>"
+        ],
+        "photo_reference": "AeeoHcJOtYuSGP0WNaKBVfQyqSLHHtL-kPYPqyuZd9pAbb1vXqTsX1fOekvSaZwz8ApOMlEL5aBXWYa8YyYVloBRyY9WJ9QbFR2RGv6o557PuiX0kjbVr56hxXnsh2jI9pigf4tQN8sSHokcaYXIwCGSxjNHi9d-kCmY2VYa3OxcaNsTHyf_OZVu0FA7JbvNb8UYKBDnqWpmvRUL7Jy84NiZ4OSEJM5_b6Y7f7T_7ue53bld_x2YobgKHJ6f1ZbTQpsJTrMJdkpJ4T4pbkav3WFuWgtyCV-ZGldM9Yw44izCmIr-zKH03ubxZSnEspbmQ5UWTUqBNZm3",
+        "width": 3900
+      }
+    ],
+    "place_id": "ChIJ2QwYeA72K4gRxY_NDfqFUrg",
+    "plus_code": {
+      "compound_code": "CCFW+QG Kitchener, ON, Canada",
+      "global_code": "86MXCCFW+QG"
+    },
+    "rating": 4.6,
+    "reference": "ChIJ2QwYeA72K4gRxY_NDfqFUrg",
+    "scope": "GOOGLE",
+    "types": [
+      "hair_care",
+      "beauty_salon",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 256,
+    "vicinity": "235 Ira Needles Boulevard Bldg. C Unit 4, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.48946610000001,
+        "lng": -80.49497649999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.49075793029151,
+          "lng": -80.49357671970849
+        },
+        "southwest": {
+          "lat": 43.48805996970851,
+          "lng": -80.49627468029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Donna's Hair Design",
+    "place_id": "ChIJFxL2nnTzK4gRmvjEy07qJ-A",
+    "plus_code": {
+      "compound_code": "FGQ4+Q2 Waterloo, ON, Canada",
+      "global_code": "86MXFGQ4+Q2"
+    },
+    "rating": 4.9,
+    "reference": "ChIJFxL2nnTzK4gRmvjEy07qJ-A",
+    "scope": "GOOGLE",
+    "types": [
+      "hair_care",
+      "beauty_salon",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 9,
+    "vicinity": "370 University Avenue, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4512677,
+        "lng": -80.49864199999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4526674302915,
+          "lng": -80.4970933197085
+        },
+        "southwest": {
+          "lat": 43.4499694697085,
+          "lng": -80.4997912802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "C L Image Consulting Ltd",
+    "place_id": "ChIJ8aHUZfX0K4gRPeYbSQYM7fc",
+    "plus_code": {
+      "compound_code": "FG22+GG Kitchener, ON, Canada",
+      "global_code": "86MXFG22+GG"
+    },
+    "reference": "ChIJ8aHUZfX0K4gRPeYbSQYM7fc",
+    "scope": "GOOGLE",
+    "types": [
+      "beauty_salon",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "151 Charles Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4457898,
+        "lng": -80.57208609999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44696143029149,
+          "lng": -80.57066246970848
+        },
+        "southwest": {
+          "lat": 43.4442634697085,
+          "lng": -80.5733604302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Lotus Nails & Skin Spa",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2988,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116305691841104010397\">Jay Penney</a>"
+        ],
+        "photo_reference": "AeeoHcJITGMoMLHnyQ8TyU5PSaNBkcc_mMD4mkB1NquNsFYC8Xg9WnoIrfJTvAJ4VIs8Ld3LKPvJUhxd-8cAzVu_rqQOx_BRsc9pmU7qw-i6CfGSWdQHhQ8-qQfh1kdRDjjAJy5PWIc7zgcWO-9AseTUPLqOaQY4Xx4QXsMUDZZ40tE2G0mR_xdQtHtVQIN1giyKKAKORAnXCr6Be5nFL-a5EaCa5x4mdhPy7DxFVXDEPzgXFNSfGmiw3VqpjhJYud4jcV-1SzUKfxIutDiI7sUK0m-abFE7guzvnvSUe3u5wSr5fEbfTtA-ZmZuU0yJiP9BYSyqa9FtToSrbmQRgKBe20nLHcnUDHm2UNgWGqy_MvP30XTWMwerkxgUSUqzKwAgZRDRKYU7VE61lkIhOVvCGBe_gVwMSx-iMEB8irAbkHk38n9lg0wQY1I6yYPNEJ5XrSiZPBQDWAj1ea1bWi8GMaHuqyeS1YeGkjDxIRdpC55vrpaQCwKn8Hj8cpaeJ52KfJ6WpWvqC-vAelnHh-FO91V3TOz9Rn5DNQ7N5-jcn61pdulPsY4m1o5ZAAEzvNdmOQ0DaG9ubNadyc1Z_el4L02NU3eAcNdq8_CEN--mjSKbQky_y5rJT-sL-b08qI2ikdc7gkfr",
+        "width": 5312
+      }
+    ],
+    "place_id": "ChIJfYGzXvH2K4gRwVFeIPxu7_M",
+    "plus_code": {
+      "compound_code": "CCWH+85 Waterloo, ON, Canada",
+      "global_code": "86MXCCWH+85"
+    },
+    "rating": 4,
+    "reference": "ChIJfYGzXvH2K4gRwVFeIPxu7_M",
+    "scope": "GOOGLE",
+    "types": [
+      "beauty_salon",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 133,
+    "vicinity": "655 Erb Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4211289,
+        "lng": -80.50294679999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.42248773029151,
+          "lng": -80.5014663697085
+        },
+        "southwest": {
+          "lat": 43.41978976970851,
+          "lng": -80.5041643302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Sun Magic Tanning and Beauty Spa",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 376,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114036639182973047535\">Sun Magic Tanning and Beauty Spa</a>"
+        ],
+        "photo_reference": "AeeoHcKI-3xOOBXd2gQhWxdFN6H8aZankaIRYhbKD3O0EQ0vqnTqOEJb-ncK5_gAw9WJ5reE43Phy9CEAv2_wSXBvNN-rcn5q8g-uHsslV-rwTDKoQIWyd4M0qFFjzg64g3TvmPDR8g-LHUhV_lMp7Lw8dJX71KoNLFhHr1CDQ5o5_pyEfvWD3I3L4MK4hz_tqSGSTmrkAyVli2CS1xQvbdMHX1Na-ZW3BBtl3POV7YG0B_28FZNWk5kkkhIrDAGLH1ZCw67aoF0ib-LVeP78nwOeGSrA_KSPu_sNjj4fiPto5CcrXjksMZ_V83awJGbuPCl5yO7q0A6JN4",
+        "width": 499
+      }
+    ],
+    "place_id": "ChIJeV3JJ6f1K4gRSNUWQJ7oFKc",
+    "plus_code": {
+      "compound_code": "CFCW+FR Kitchener, ON, Canada",
+      "global_code": "86MXCFCW+FR"
+    },
+    "rating": 4.5,
+    "reference": "ChIJeV3JJ6f1K4gRSNUWQJ7oFKc",
+    "scope": "GOOGLE",
+    "types": [
+      "beauty_salon",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 64,
+    "vicinity": "645 Westmount Road East Unit 3, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4631489,
+        "lng": -80.4934712
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4645753302915,
+          "lng": -80.4921740697085
+        },
+        "southwest": {
+          "lat": 43.4618773697085,
+          "lng": -80.4948720302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Secret Hair Studio",
+    "photos": [
+      {
+        "height": 2160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106738202550335341813\">Craig Omundsen</a>"
+        ],
+        "photo_reference": "AeeoHcJT43TyIKZdfujWoHdIK7wfjVi6Tfxuj2ffUGo7_NDQRdSdCy45osYJAeSpJwU1Yo0ZA-zmImDYCSVh0KEuw5wPEJsOOFhMcRPfaib8GA1sFeJbuBxnjjBF8Z3Uur4AzjW7yCctFV9CBFZfLQh4QV62QJBNXvbCpXcSZORmutkwNgaFdz64LfcpInWyiUdGv7quxVgFEBa6Nkbo93KjMQ8thFXsMHGOCfANpIAHqRa7KjqHvQL5k_W9b6hXyTuikzcelZ0xttvRJP50wmODSStw-ZcT1EO0dpaP63e9eNyxmeBp4kYAxMU0ie-mg91yWb_OaM335Rteo0TNZNjwzGDYE5QiDKQqI1A0sciCqSectuhOJudoAfGxegK8a6a5DiGJEb9SGnjDo5D_6RXAa0LCUET46u4ehQmVJ69DRJv33B7Ghg8hmIAw8N2J_PpqlC7popLnZhiwC54VJpVtSyin-DnY2IBccTy0mwOqGAPSsie7D_JGzHI-RLVaKsYD0Im79pv8MRc3FrLWAcYc32D_pL2JOx82KbjfelUs31KKpbAXfxjK49IfNXhyGADo3rjMt-Sf_ZdQXe4ksEUzVZEyaUxwIomT3ugnaEC4xdViyR4zJ7zZdN0pG8O6GpQ7dO96yA",
+        "width": 3840
+      }
+    ],
+    "place_id": "ChIJOTiRC4b0K4gRysjINuIQ7F8",
+    "plus_code": {
+      "compound_code": "FG74+7J Kitchener, ON, Canada",
+      "global_code": "86MXFG74+7J"
+    },
+    "rating": 4.9,
+    "reference": "ChIJOTiRC4b0K4gRysjINuIQ7F8",
+    "scope": "GOOGLE",
+    "types": [
+      "hair_care",
+      "beauty_salon",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 11,
+    "vicinity": "483 Guelph Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4651545,
+        "lng": -80.5076796
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4666086802915,
+          "lng": -80.50640141970848
+        },
+        "southwest": {
+          "lat": 43.46391071970851,
+          "lng": -80.5090993802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Synergy Esthetics",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 550,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110398195495672313447\">Synergy Esthetics</a>"
+        ],
+        "photo_reference": "AeeoHcLB_maJHgnsiEzWtT9sv0ZGKAbQeF_FC55xBzJkA7gdGLEw0enqz5HTLdEQQk5yJG6CPFCkn2d4TIw0KAoGhDrnWeQR8INxsEhcTEJwcWknjRdqwQmEq_CeBwZjbp9IP9wQONZW9p-rHIoX4qdSBqWSSL1MDfsG71fiXjMRY3regBr7JwVRXary5eCKWb6Wc0eXWetM6cFdv0Uw7TVc3uH-l6ZfqQio7NNGckdfH7IPbs_yiFv3v8ht94QgT5nH4SIDlMZO3aFmyNxD1T7Eyp_zLeYUM-Z7McPeLal_rrOicZA7fX2rHUKM5RBUuN9o_ZOabjyR",
+        "width": 1400
+      }
+    ],
+    "place_id": "ChIJgyA-_Hr0K4gRljDxZ8NADM4",
+    "plus_code": {
+      "compound_code": "FF8R+3W Waterloo, ON, Canada",
+      "global_code": "86MXFF8R+3W"
+    },
+    "rating": 5,
+    "reference": "ChIJgyA-_Hr0K4gRljDxZ8NADM4",
+    "scope": "GOOGLE",
+    "types": [
+      "beauty_salon",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 15,
+    "vicinity": "173 Rodney Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4648688,
+        "lng": -80.4591623
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4662430302915,
+          "lng": -80.4577333197085
+        },
+        "southwest": {
+          "lat": 43.4635450697085,
+          "lng": -80.4604312802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Escape Salon and Day Spa",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 924,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100909798487207180114\">Escape Salon and Day Spa</a>"
+        ],
+        "photo_reference": "AeeoHcLcYi7L-9qB4dAH3tPr8wQ2ZiNYq0sQMUHknKrFrTbMWHwcH0nlpbpzYfOkfdqykT7JHulI1lXkOdojnSfBQqJE0_fa6aq5Syf2-XeA9JW0zFFWCykZGJF_Xrs4LlUrgASAmxDMnx45WRJPT9KnvhvVyMNZQ9fFQ17PLHbyeAUfe-B-Iyvd6AjKSVCUXkKuW96TF_Yl0NRdQNfJ0Wxk1nb1HbUkF7z0QQ9Q4HT_wDr6lPULErB1IfOzpRhgitbPjz6JlULjDv8Zw3IMhuIRXGLaMcrdciZHH16t5kJr8ktJPCRkVjAsIDErez4vAeimtS4SM8wd2XA",
+        "width": 1640
+      }
+    ],
+    "place_id": "ChIJDx7Mk6v0K4gRhhFWdPObZJY",
+    "plus_code": {
+      "compound_code": "FG7R+W8 Kitchener, ON, Canada",
+      "global_code": "86MXFG7R+W8"
+    },
+    "rating": 4.6,
+    "reference": "ChIJDx7Mk6v0K4gRhhFWdPObZJY",
+    "scope": "GOOGLE",
+    "types": [
+      "spa",
+      "hair_care",
+      "beauty_salon",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 65,
+    "vicinity": "866 Frederick Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.49763709999999,
+        "lng": -80.52597659999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.49902003029149,
+          "lng": -80.52427341970849
+        },
+        "southwest": {
+          "lat": 43.49632206970849,
+          "lng": -80.5269713802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Volum Studio & Spa",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111090863065141880816\">Vasudha Dembla</a>"
+        ],
+        "photo_reference": "AeeoHcJgKfA54dKKztTjRomDBSh-MY7OQkt0jEOhVXbLOjVZzfao76uGuuwXLYZ_FfAmiOfef4Dl65fhYiTjTo96grC6uro3KnXeqGOwgCYzZGtS_NYQhZtz_b-SzPPIWNWoaQzJGw5Lo3iqyKf6tAvHcjUkza5GyGoUp-LCNc9OREakaXb60GFm7TmfT5oXYKScjxcTGYmAOI0RsaYzcdBX3qmNs3ZNQoMzbEsYFfjKh9GiNLqHJU5LcHPUSUmiD-oIe65dRnsVq3I2eIRNPOlcpf1oNRgx6E_HMM0e2Ftt8_Uhc_fOQUSJy-j6qLTvbbBvbzR0xiLqxWqryrahXMXcTjvyqHDAZRWy1gWeBF4yVImeakPOl-GqAQnWjAdCDFkl6B7t9Bm9j48KUiOM5asaHxl32D8DxlvL0SRQO8icOJTKhml-DAmkLIieHjPPR8dAb0FXS8FdiT4IyZntjMUMfRRUDqFu_BtIMzoTfkKs9o-LPpUWcR70ykkjNbY8m1mYTNncb2RG7ZJaoKCR_yXfPKzj0rghnBLPFKRGZdLzTIe_YhE6BUAWBNuTisr-kOVxlgv-1Mik5zIrQ2NCM9N5DtHRZ4n1X5AXTOUW_Iz8t-H_wfvBzej-d4H9Mz5GZYoGMSCHDA",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJbzfETsHzK4gRX-X2ea5mqEs",
+    "plus_code": {
+      "compound_code": "FFXF+3J Waterloo, ON, Canada",
+      "global_code": "86MXFFXF+3J"
+    },
+    "rating": 4.3,
+    "reference": "ChIJbzfETsHzK4gRX-X2ea5mqEs",
+    "scope": "GOOGLE",
+    "types": [
+      "hair_care",
+      "beauty_salon",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 262,
+    "vicinity": "550 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44493189999999,
+        "lng": -80.49385509999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4463323802915,
+          "lng": -80.49261246970849
+        },
+        "southwest": {
+          "lat": 43.4436344197085,
+          "lng": -80.4953104302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Reni's Studio Of Esthetics And Aromatherapy",
+    "place_id": "ChIJtUNyz_f0K4gRgjETAt5d35o",
+    "plus_code": {
+      "compound_code": "CGV4+XF Kitchener, ON, Canada",
+      "global_code": "86MXCGV4+XF"
+    },
+    "reference": "ChIJtUNyz_f0K4gRgjETAt5d35o",
+    "scope": "GOOGLE",
+    "types": [
+      "beauty_salon",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "429 Queen Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4565719,
+        "lng": -80.4606757
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4579576302915,
+          "lng": -80.45937071970849
+        },
+        "southwest": {
+          "lat": 43.4552596697085,
+          "lng": -80.46206868029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Satiny Smooth Laser & Beauty",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118033904710342596296\">Satiny Smooth Laser &amp; Beauty</a>"
+        ],
+        "photo_reference": "AeeoHcIplHa85hK1s2mGAHcjSE-R4Gp1qkZMkDcyTm9CFRGxxgTcuMOiUWvTa1BdkkITboPjUBjNMPOa7umHU81kYyJtVEqbWFFgDW4miR3Yq3dfIvV75wqFQH85nfa3R7PoLRrdwDnzo1yOe0W4OrXoR1P_B65rUP9vOlH54vbhIxZ63LINbby_4PoDCgqOgoZ7cd7Y3BcSmeuXcBLbaI2CE0E9iusAtwDtyrXj41Kt35MIetQIqy3eHbFG8YnaWI36TYwj8a3vzcdS6bnCE6yxZVotICPU2MTuaBeMDLL00hwJxvg2JPj9Ro_dYL6C-8XDYuMWJzwW0YA",
+        "width": 584
+      }
+    ],
+    "place_id": "ChIJnVuGc7H0K4gRog_7x3WEtN4",
+    "plus_code": {
+      "compound_code": "FG4Q+JP Kitchener, ON, Canada",
+      "global_code": "86MXFG4Q+JP"
+    },
+    "rating": 4.9,
+    "reference": "ChIJnVuGc7H0K4gRog_7x3WEtN4",
+    "scope": "GOOGLE",
+    "types": [
+      "hair_care",
+      "beauty_salon",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 122,
+    "vicinity": "501 Krug Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46097,
+        "lng": -80.44068999999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4622134302915,
+          "lng": -80.43946346970849
+        },
+        "southwest": {
+          "lat": 43.4595154697085,
+          "lng": -80.44216143029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Magicuts Hair Salon",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104021884737093301980\">Chris Carlisle</a>"
+        ],
+        "photo_reference": "AeeoHcLZwBLB1nIVGeEcFTkh5ynMzMH4r2PT4OZnuHlWyZy3l47wKeSIGk9GOGri4wTxjvo8eVtBQUMQ2fPerfPtKqV8tkUyXD_E4K5fZ40zeGX4VQP9wpwNox6xk3u9kMz-vOsypZcq3qiNNXi9j_KEGJd2YlgnlfT9DxgYEiNRuG1Yu-03kB-PGLEb9vw1FRINt50D4ZvxZIfXYgL7YMG2eJIz9wRZM6rgoomy9St08atwWlE9X6mDmd7-MuhGRH9FTSxhfqI2Wg3CNirgQySL03R-8nsSAzJJJ7JfD2zLT98f7pg_BXzXhzYIS3-d6M5R2QFm1aiE17jFh6lxAZhj3lEddWygc2VYMa87KRToKJxKbMqYXHvevZ52cfG5o7B2leH8ANBB4EjiWZQw6syT3k9nukCQvMm4J4yXfmVAluC1DdDj6zuxwlp7tGqdK6fXpuoT9L9mVkquZAzWe9iiO1KcUGTK7TbjIdW7g551dREipmb_ZVAn6eWI3ANRJOmOw0VXW53Ro1vFvJ3NMfoEEpW2w059OGdDT4V0SG99lKnpMiJSgBZq2aBQYvmjTNXm8mnVUwWtl874I67FCv5Zi89Opcrw7F_8jRGPSdXawuvn_wLKhLmWJEKb2LSMYaC6",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJE3zh9VqLK4gRuxSZ2n2z7xs",
+    "plus_code": {
+      "compound_code": "FH65+9P Kitchener, ON, Canada",
+      "global_code": "86MXFH65+9P"
+    },
+    "rating": 4.8,
+    "reference": "ChIJE3zh9VqLK4gRuxSZ2n2z7xs",
+    "scope": "GOOGLE",
+    "types": [
+      "hair_care",
+      "beauty_salon",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 168,
+    "vicinity": "200 Lorraine Avenue #10, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4656069,
+        "lng": -80.4926385
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4668983802915,
+          "lng": -80.4913894197085
+        },
+        "southwest": {
+          "lat": 43.4642004197085,
+          "lng": -80.4940873802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Linda's Aesthetics",
+    "place_id": "ChIJa0j8FYT0K4gRnNDodgm5cKI",
+    "plus_code": {
+      "compound_code": "FG84+6W Kitchener, ON, Canada",
+      "global_code": "86MXFG84+6W"
+    },
+    "rating": 5,
+    "reference": "ChIJa0j8FYT0K4gRnNDodgm5cKI",
+    "scope": "GOOGLE",
+    "types": [
+      "beauty_salon",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 13,
+    "vicinity": "44 Floyd Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4895654,
+        "lng": -80.4948145
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4908953302915,
+          "lng": -80.4933704697085
+        },
+        "southwest": {
+          "lat": 43.4881973697085,
+          "lng": -80.49606843029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "WSI Retail Group",
+    "place_id": "ChIJJW64nnTzK4gRPMSA3eB0R9g",
+    "plus_code": {
+      "compound_code": "FGQ4+R3 Waterloo, ON, Canada",
+      "global_code": "86MXFGQ4+R3"
+    },
+    "reference": "ChIJJW64nnTzK4gRPMSA3eB0R9g",
+    "scope": "GOOGLE",
+    "types": [
+      "beauty_salon",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "370 University Avenue, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5002259,
+        "lng": -80.53029579999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5015613802915,
+          "lng": -80.5290551697085
+        },
+        "southwest": {
+          "lat": 43.4988634197085,
+          "lng": -80.5317531302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Voila Salon Northgate",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1362,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100770127962799579839\">Voila Salon Northgate</a>"
+        ],
+        "photo_reference": "AeeoHcLIoKH1c75NSHwYEQuJ-m6AKHN5kFOAwKZsgzD0FQhZ5p3I4Ooz1YDHhk5I60ZTJjYPhl9FlyEtpf8L880-EFOzR00CYlDaB_9FTpw3LCg1S7kNeGn3KNbMTcTAz_vmSvpfp_znS-iDwpb-u6yAXEqMI7wsO9kk2rKvMrhO0hB7m7Ts5GjBiZaHwGNji1gKToXmLx74EHnGkpL53LZbO-Jhy3u8q6gC0FMy13P0TrnxpAbTDTThlqmN1yfkpviZ6XJAEnTtw8P6sE9fBbLGbdI0b1zCqTeRqA5G1y3uhwtrVhFEYpwwuCxPwm5TAUeV0QQxvgYJQfE",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJsdcr18TzK4gRXYsso8dEKdk",
+    "plus_code": {
+      "compound_code": "GF29+3V Waterloo, ON, Canada",
+      "global_code": "86MXGF29+3V"
+    },
+    "rating": 4.6,
+    "reference": "ChIJsdcr18TzK4gRXYsso8dEKdk",
+    "scope": "GOOGLE",
+    "types": [
+      "beauty_salon",
+      "hair_care",
+      "spa",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 392,
+    "vicinity": "572 King Street North Unit 2, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4620208,
+        "lng": -80.468554
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4633260302915,
+          "lng": -80.4672343697085
+        },
+        "southwest": {
+          "lat": 43.4606280697085,
+          "lng": -80.46993233029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Salon 7",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJo_EOHZL0K4gR7dYOP-9AQLw",
+    "plus_code": {
+      "compound_code": "FG6J+RH Kitchener, ON, Canada",
+      "global_code": "86MXFG6J+RH"
+    },
+    "rating": 3.3,
+    "reference": "ChIJo_EOHZL0K4gR7dYOP-9AQLw",
+    "scope": "GOOGLE",
+    "types": [
+      "hair_care",
+      "beauty_salon",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "809 Victoria Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4631872,
+        "lng": -80.5222277
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46446073029149,
+          "lng": -80.5210509697085
+        },
+        "southwest": {
+          "lat": 43.46176276970849,
+          "lng": -80.5237489302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Permanent Makeup, Microblading and Volume Eyelash Extensions By Sumiko",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2359,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113942335612147615655\">Permanent Makeup, Microblading and Volume Eyelash Extensions By Sumiko</a>"
+        ],
+        "photo_reference": "AeeoHcIdS37RiEHe9IRVQixxoVSCl3YWyz1THiRkJZ2QRWxpwVQByemqoHwgjHp5GH6O0ofLtYJB07L8fx7_4l65ahCaViYIjqeAjX4UcGz7IRyifXicjoyTa1OuK5EY_bsGVw0je0Z1XCD9tmzT2DYq-h0efVlPJ6K2DXndJL65bXpa5N-myaxFnXGahQnlxas1YDBGBv1D9pdeaevpDKEhgeVJnXKsLs5rSb3OCiF7F9gBbp9qvNzuJEJLPIJ9Sr_w39YPX9IsOMNrIfkVtxYhwO5McPLUtp7QHsIQrzoUyvXW42BP1qo73o1DsdSGkj7nJPCjyfrMgdo",
+        "width": 4192
+      }
+    ],
+    "place_id": "ChIJT0wu4dH1K4gR0dl2KmBEJ3k",
+    "plus_code": {
+      "compound_code": "FF7H+74 Waterloo, ON, Canada",
+      "global_code": "86MXFF7H+74"
+    },
+    "rating": 5,
+    "reference": "ChIJT0wu4dH1K4gR0dl2KmBEJ3k",
+    "scope": "GOOGLE",
+    "types": [
+      "beauty_salon",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 564,
+    "vicinity": "95 King Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4682152,
+        "lng": -80.5202844
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46947953029149,
+          "lng": -80.51892641970849
+        },
+        "southwest": {
+          "lat": 43.4667815697085,
+          "lng": -80.52162438029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Pure + simple Waterloo",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1624,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100185258090064053443\">Pure + simple Waterloo</a>"
+        ],
+        "photo_reference": "AeeoHcIwNEEr5sdsWDLXnNXNT_XK0QrPSHTvtZSepnIeQfVcSvmdoGI6GcJIJWo8OyPZV3UXDyZnkMyQernsegm96XA6qBdBUKJKfXYAkOC8EGHPL5opmRvew-mYaAm23rmhGpweU0O0fbA562M9Lx0x-9FFS-tGBgrYl20arE0ebPH4q79bHz7JiZU8FuhBypuXQjy3deBQ0-wh_1pLsyVNZ4bvtzduv8EiQ0WMe9j9Fsa6-ssFCnZ01ps3YdTJdCnR6fGbU5IQ5MAqto9tyUncqs-lPxvHf40n-GOcFj4U6ehH_ilDqmc5rDwfR2QKwLA8IsDdkriwW0c",
+        "width": 2886
+      }
+    ],
+    "place_id": "ChIJKTXQQXP0K4gRp8Jivm4vdk4",
+    "plus_code": {
+      "compound_code": "FF9H+7V Waterloo, ON, Canada",
+      "global_code": "86MXFF9H+7V"
+    },
+    "rating": 4.7,
+    "reference": "ChIJKTXQQXP0K4gRp8Jivm4vdk4",
+    "scope": "GOOGLE",
+    "types": [
+      "spa",
+      "beauty_salon",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 136,
+    "vicinity": "42 Bridgeport Road East #1, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46010769999999,
+        "lng": -80.51821
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46137703029149,
+          "lng": -80.5169487197085
+        },
+        "southwest": {
+          "lat": 43.4586790697085,
+          "lng": -80.5196466802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Peach Pit Beauty Hub",
+    "photos": [
+      {
+        "height": 1212,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108266950084120502056\">Peach Pit Beauty Hub</a>"
+        ],
+        "photo_reference": "AeeoHcL5xuXukIZedski0NpRe0DexGU5togELRido14mdPhmUPMlosZpc4KSOIHTBz6c4l3WTgOY_mkrKbduFVWZHhGDkzGlJkqs69RMdYwc6iyVpklCfsSa3EVJ3O9s3ALQ-BoV3dehrtLiRImsBpj7Er3JlhcgNHKEtqTzUuYLEvKUEvQ1dnWe23skPATWn7cjeqv9CyXy44zHpJPR8xDMoe5kpdzSLnfHeGmqjzeqsVu8HZQPh5PYbIkAJpVBdeb5WN1RLU00cJYIy2S-gRbclWwhCc538STcxadnDrTohtwY3_RGkUJBIQLKQiT1mQ6A71MK9tlaRcQ",
+        "width": 1242
+      }
+    ],
+    "place_id": "ChIJg_-_e-n0K4gRdjiwE60zThY",
+    "plus_code": {
+      "compound_code": "FF6J+2P Waterloo, ON, Canada",
+      "global_code": "86MXFF6J+2P"
+    },
+    "rating": 4.8,
+    "reference": "ChIJg_-_e-n0K4gRdjiwE60zThY",
+    "scope": "GOOGLE",
+    "types": [
+      "hair_care",
+      "beauty_salon",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 26,
+    "vicinity": "192 King Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4599179,
+        "lng": -80.5182167
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4612503802915,
+          "lng": -80.51688591970849
+        },
+        "southwest": {
+          "lat": 43.4585524197085,
+          "lng": -80.51958388029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Inspirit Beauty Lounge",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 706,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108486225150197007858\">Inspirit Beauty Lounge</a>"
+        ],
+        "photo_reference": "AeeoHcIYwi6u4lZy5cZv7eeZ5NSBYsnIdrVpJCmSJVEjcviAedL_11hUWm-jNRmBHktAZmvPoA5xevDJgKEhsWGv8jRNVGbXHr9gmMLqsrc183jTsj_-7b39R3y_WXITBYWnL5MZ4o8pwO3gDUFNy-qmIgwqddpeUAiltnXJzjpLxGd10wPGxhQj2fj9bgA4YaIVBNcQVSsxFHgf0XtDB7vhTEF5h3YDYNQlosE_RB-BI1BYgpPwg54wY7Njs2jia2yLLYP8q7gPqFlyrSSZtOiKjLzVnzq2DHyH2h-HoZjzocYozBCfgDyf1bCsx6BiOrgeYZfp1itcmcs",
+        "width": 706
+      }
+    ],
+    "place_id": "ChIJH3TDQ4L0K4gRPznEn3ssRmY",
+    "plus_code": {
+      "compound_code": "FF5J+XP Waterloo, ON, Canada",
+      "global_code": "86MXFF5J+XP"
+    },
+    "rating": 4.7,
+    "reference": "ChIJH3TDQ4L0K4gRPznEn3ssRmY",
+    "scope": "GOOGLE",
+    "types": [
+      "beauty_salon",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 67,
+    "vicinity": "194 King Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45916,
+        "lng": -80.52160599999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4605863302915,
+          "lng": -80.52017091970849
+        },
+        "southwest": {
+          "lat": 43.4578883697085,
+          "lng": -80.5228688802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Golden Astella",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3232,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106631406628704836259\">Golden Astella</a>"
+        ],
+        "photo_reference": "AeeoHcI2qcloNy2GLvIth7a3o1q4W9GlXGCog4fVBeJvq5e00RjFFiBWOWbldI2ZWkvtOVqy2iwHyNmv0TzvZkRbrZdzJ6Oys5czZDdK28J8k23LqV1uPbd4-ymE5ONCCl00glw9ad0lzzemI1lIfN0LFNCg5CRBA8iMrsjbnUL1BDd2MHFt90lChnho9hJ8HKlyf78h5ygkFXhHm5Z__KEJubtfkGSBUjybG9H4pnqJWnnO43Ys1S-KLyBUic7YTcaQdOYeUTqLtTbGiGz9314fs2U0a-WxYcvafhEfo30oJ2ml36b1lAa0pOOJ6EcebFLb3cfyv52v_GM",
+        "width": 2271
+      }
+    ],
+    "place_id": "ChIJ8XQd_ZzzK4gRiRaJ8geJ9Rk",
+    "plus_code": {
+      "compound_code": "FF5H+M9 Waterloo, ON, Canada",
+      "global_code": "86MXFF5H+M9"
+    },
+    "rating": 5,
+    "reference": "ChIJ8XQd_ZzzK4gRiRaJ8geJ9Rk",
+    "scope": "GOOGLE",
+    "types": [
+      "beauty_salon",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 7,
+    "vicinity": "125 Park Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4533139,
+        "lng": -80.51760010000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4547068802915,
+          "lng": -80.51618661970849
+        },
+        "southwest": {
+          "lat": 43.4520089197085,
+          "lng": -80.51888458029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Lock Stock & Barrel Salon",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101846043986395681380\">Robin Graham</a>"
+        ],
+        "photo_reference": "AeeoHcI_RlLzq59k_m4TVEwaOI76hTLRQ6fwN53BzNZXmoFu0qdqyanYKdE_qXohZRBuc5zcu_Vc4euAGUtuMDQKUPZvRYn3tb9cOKt5MWo0TCwMV_11eClUWP5sog5lZx7LRKmzu-ZcecZMBwJkz-8DxJrvkyda3jnMQ4g78cyuKEeGu75Y8ByvX5aMId6vt2Clm1jOIOaHt3jjlKYxeo90f1RvhvcYPiX0L_G50Eg_canawhBA-Ea9_kRgqzm_G223RNjTm3r83aEQmAqaSPLLnWQ-Dao8Rc9_KIAJJF89Dxchx4-Uey4dLDQlfY6Ro8lS7fYg4-bJdvGSlTAlYXfe-b2PmlqsTTHPv1SLn8ZlsJXnZjyyH4EsgxyO2eCtq9tCZK-L9R1QvKt8whm5Kk2cCOqm7kjv-Wi_cOhWkGJGOhw6sqPj-1MLfFvGrZ100e9H2QwlIFJbsCV59tGg0Uc48LAlk6qm_KWMReqCMIDWMJmMkBIzS1rdGQ23Q9JyIpIfa_whxUfi7drIQrM0CiRPLWaZaPox4NUyiZGAAK09hUrLTaDukrhDhx1Ubyy7skI5aqN1eVizEvFj7bH_-bbh6ZJRbXI-o1p45de4MgjwTh9Z32u2Ttu-Tser09jElGYe27PHmFyH",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJexwdfQ30K4gRSpuTBPaBS2g",
+    "plus_code": {
+      "compound_code": "FF3J+8X Kitchener, ON, Canada",
+      "global_code": "86MXFF3J+8X"
+    },
+    "rating": 5,
+    "reference": "ChIJexwdfQ30K4gRSpuTBPaBS2g",
+    "scope": "GOOGLE",
+    "types": [
+      "beauty_salon",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 36,
+    "vicinity": "690 Belmont Avenue West Unit 102, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.453289,
+        "lng": -80.5175094
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4545541302915,
+          "lng": -80.51626781970849
+        },
+        "southwest": {
+          "lat": 43.4518561697085,
+          "lng": -80.5189657802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Sugar Savvy Body Sugaring",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3664,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110308453637540285639\">Sugar Savvy Body Sugaring</a>"
+        ],
+        "photo_reference": "AeeoHcI6bvsXqC3BCFbQMMqcWe1YPulo9FtkAD3JFIIXUdq6Ki5_ueL7AjG4xlq9s4vXvI9rc4SlUtwk4HwiNyyjjvEntIbPTJ2SECUy7Iq0A19jrFmhpgNhZR1F5L8SxOg5AvSh1Hv8yJ2PCL3FbPatxyoL8hVGKpaTyxkpEmodGKnUF_U8Yj1zJCkbKfeObTcviWlrnin7KGD94lFAJVyIDbY1xE_m6HLThS3KKTA2GPKfsJfK_QPxsnER4ursKN3gTINhbDaTuEuLrwLv0RdVpnXwT_5Uhg0l6eBKq3zTuvK0jE-FRhoQEC-CiRCyvF12titefOLNf6A",
+        "width": 5952
+      }
+    ],
+    "place_id": "ChIJrz5TvkH0K4gR8wIr9lHlU9c",
+    "plus_code": {
+      "compound_code": "FF3J+8X Kitchener, ON, Canada",
+      "global_code": "86MXFF3J+8X"
+    },
+    "rating": 4.9,
+    "reference": "ChIJrz5TvkH0K4gR8wIr9lHlU9c",
+    "scope": "GOOGLE",
+    "types": [
+      "beauty_salon",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 255,
+    "vicinity": "684 Belmont Avenue West Unit 102, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4545324,
+        "lng": -80.54653359999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4559096302915,
+          "lng": -80.5452962697085
+        },
+        "southwest": {
+          "lat": 43.4532116697085,
+          "lng": -80.54799423029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Ruby Nails",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105550533022619957300\">Jolene D.</a>"
+        ],
+        "photo_reference": "AeeoHcLwhUtab312oMMzM4bTODfWw8IRtx1oaSotqPJ0E9rdr8atZI-0tYYiWPNi1H1HHawncjGboPBMqamzaolkC6EmA2HP5GKXdfpn2DLX4YRprLG8quqkTaGZyHJK7R4kTrJesCb61i3R9ZFbF8P9EZSZPmVXeOPNetsuHZ2uMBvgiZIijQRc64tpy7jFTApcyBNz7N3sEaUl1sC7EEPtaB6tL-nhOgYy0BP8znq8emMi2RQPzJmOdGfC9M7ngkdsO_h9rzHFYMzt4pHhjMBPTWX64nN4zvBahrGviQ4FO8M4_JsRTb0wCWSNaa1GwyxmTbSBUA9NZg7AJ517dfwuZHJc4OMSnqTnVe_S-J62NDyHHxsoSNVrCwpxp9ApDjq2L0whx2YVlutuIspYya1Y-wWJIBkoW-fauRE1VVdvG4ocSRGUfe-94pPOG7ak9KffHt8N3K-T5eaVa0ES7TETihE6rpLGfzQ0BryP4JcwDBM9l-G-n2PThKS09uD4k03MGj9Zi2nWt5HiYCs2eu7Ssvgucu-1Z43sX9boUYw6t-Q3Uimc6KcNGev0ilnVThzVsE-Seu8GqAiXxY0P8ZBjtz9_1j_ABPQ6_v9TPJuNZapNUPA7Xt2cYcGh_MpDKki99ua2Fg",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJiyEMAp_2K4gRj1JjP3rV5Mw",
+    "plus_code": {
+      "compound_code": "FF33+R9 Waterloo, ON, Canada",
+      "global_code": "86MXFF33+R9"
+    },
+    "rating": 4.2,
+    "reference": "ChIJiyEMAp_2K4gRj1JjP3rV5Mw",
+    "scope": "GOOGLE",
+    "types": [
+      "beauty_salon",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 142,
+    "vicinity": "355 Erb Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45082559999999,
+        "lng": -80.4902481
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45214388029149,
+          "lng": -80.4888099197085
+        },
+        "southwest": {
+          "lat": 43.4494459197085,
+          "lng": -80.49150788029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Freedom & Flesh Beauty Bar",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114132199239043847471\">Freedom &amp; Flesh Beauty Bar</a>"
+        ],
+        "photo_reference": "AeeoHcLBRLgxTcHzcRFxtN86mnoimImfRV31IxliuZ--dlDHCF-_V7AOIftFVf_x-INtge1WTFQu_SxipxmHX6WNI_wVjwIn0Ixh5TfQn6MRAwzDhKGHs-wcmJX45b8skCks4LIeCasDFbY54VlDTzdQoI5quj5xSEcuG0NXQAuV8Cjxqg1SY2QdzHzCnsibdupFJg6TIBALoCax30DfXp-EjegMrY1cqfIvAzOdGzd4_yeKsNIE0yJ39If3_3aJcpWqfObF-92xNzXk9Aw3sgIMqmpJkg8fIslU7A54mMEPvzU-m8pdS_xxqYV9R8qWrTiEFgTl-K3Ltrw",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJ98RL7_L0K4gRJkcaz0_MeJM",
+    "plus_code": {
+      "compound_code": "FG25+8W Kitchener, ON, Canada",
+      "global_code": "86MXFG25+8W"
+    },
+    "rating": 3.9,
+    "reference": "ChIJ98RL7_L0K4gRJkcaz0_MeJM",
+    "scope": "GOOGLE",
+    "types": [
+      "beauty_salon",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 70,
+    "vicinity": "32 Ontario Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4674165,
+        "lng": -80.4845279
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4687482302915,
+          "lng": -80.4830550697085
+        },
+        "southwest": {
+          "lat": 43.4660502697085,
+          "lng": -80.4857530302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "AK Luxury Lash Professional - Luxury Eyelash Services, Training, & Supplies",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109681774424024938072\">AK Luxury Lash Professional - Luxury Eyelash Services, Training, &amp; Supplies</a>"
+        ],
+        "photo_reference": "AeeoHcLK_LLwC2kvzHNhTD4G-Z2LJ6gkmfwEGr26UK8wkFqTVVwYzE0MU_4mglAyAN0kZTT4RVTaRVwYYuO0fOUYQ9ew_gVSO2Y6NXlQv-EEZQpKQaNVAPMNCF-hBpYqB6MEuDr5T1ZuJCndBrw_JbUfbBz-ZrcuCBY3Rh_kZMGETUCsUjkmzoYzhMBqghriIqcd2ifan_9Mbt5bWHQlE3T3fMDNn8D74Alt9PksTSm39C8DHzFxdXDbaj0VEmsXfNoVSr9K9jF7BBlPQ_-ZHHd1nv7b0f0VdCCkLJuDSQho__oZAyDtnks9Ida9zv2YHbdVBjlfgDbAICg",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJad6ghOz0K4gRbqY39vNHTQ8",
+    "plus_code": {
+      "compound_code": "FG88+X5 Kitchener, ON, Canada",
+      "global_code": "86MXFG88+X5"
+    },
+    "rating": 4.9,
+    "reference": "ChIJad6ghOz0K4gRbqY39vNHTQ8",
+    "scope": "GOOGLE",
+    "types": [
+      "beauty_salon",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 23,
+    "vicinity": "249 Lancaster Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4699828,
+        "lng": -80.4847302
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4711790302915,
+          "lng": -80.4833790197085
+        },
+        "southwest": {
+          "lat": 43.4684810697085,
+          "lng": -80.4860769802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Xtreme Hair Lengths",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 254,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114204446920135791370\">Xtreme Hair Lengths</a>"
+        ],
+        "photo_reference": "AeeoHcLxB4SKhWKM__bBh4NWGK72OAWzd9ZIexK8SMV_UIs4ZJIJjkC_LYlxVKiYGOx3xzWbCmap2KHhNm_OC_N2_oSa9PlkRX8wgDGhxQoNKNaCZthU5ZuCPtg7o1g4o8-DfiAnLFmUCVEW_txxq_Aqos-X3AZglp2Q9O39rm6s41EWB3vLU_2qeC4iM2jecflLSwY4_oEjeDqyeew7VM_IotxX5XV5Sq49tW0Kz6nCXrkp0-LMNE3HzB9QrWB-WpsgSfz5pu4E6mdH0wOIYZYeO7ag9yOmv2WaESFjy9kgQQexR2SCsvFgMASFlVBGNjeM-QTKyHoxfzE",
+        "width": 292
+      }
+    ],
+    "place_id": "ChIJo2mX5iCLK4gR4VpDYIRGxBY",
+    "plus_code": {
+      "compound_code": "FG98+X4 Kitchener, ON, Canada",
+      "global_code": "86MXFG98+X4"
+    },
+    "rating": 5,
+    "reference": "ChIJo2mX5iCLK4gR4VpDYIRGxBY",
+    "scope": "GOOGLE",
+    "types": [
+      "beauty_salon",
+      "hair_care",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 10,
+    "vicinity": "345 Lancaster Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4383145,
+        "lng": -80.5121909
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4396265302915,
+          "lng": -80.51078196970849
+        },
+        "southwest": {
+          "lat": 43.4369285697085,
+          "lng": -80.5134799302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Great Clips",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 500,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100707409120469462063\">Great Clips</a>"
+        ],
+        "photo_reference": "AeeoHcKWVTsvkEJtesLGBKetrGA64cn4kTDZ0J_CHOwwJ5bIYuswqzzZa1kKWARmXMvxIEbzjx9AykFwhJ1mWpHzSGOkz-H6cB8w-_4eKmhLLpmh3bViUvWjBhIoU5lLlk-hWZuwU5sb2mdHu6q9-cOVUztn52xd3Ee-6ONLn77KFCE-k-WBcc_mySHu20J8h8KiqtOIPpHOkcetrLFFvJohTsOcyCRR95xG12jXRLK1w2iHZoab-D-BLOa5NYtiwMjVhfkhODe3kzf2_2opJ5RGGG9jnA_W2ozuLxlBKrFQGyRnYgRNKQF9rZkH2TFPT-1-WGaoTk7vIKg",
+        "width": 888
+      }
+    ],
+    "place_id": "ChIJQ1Zl6k30K4gRJpw3c_63va8",
+    "plus_code": {
+      "compound_code": "CFQQ+84 Kitchener, ON, Canada",
+      "global_code": "86MXCFQQ+84"
+    },
+    "rating": 3.8,
+    "reference": "ChIJQ1Zl6k30K4gRJpw3c_63va8",
+    "scope": "GOOGLE",
+    "types": [
+      "hair_care",
+      "beauty_salon",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 496,
+    "vicinity": "370 Highland Road West Unit 8, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4381839,
+        "lng": -80.51226129999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4395227802915,
+          "lng": -80.51087621970849
+        },
+        "southwest": {
+          "lat": 43.4368248197085,
+          "lng": -80.5135741802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "NG Supply",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2275,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100691152279843895975\">Anna T</a>"
+        ],
+        "photo_reference": "AeeoHcIYJUsWJW5Q1-UePETsy5jHLcgBo8Uu6vh4xmwQM3903jQCmIjs2AJBe6nMuF7UOwbMk5Wpq1H3Wk4_Yaa_ibrQgBFnRX65fDBku_QBPLeLa6dftCthW249V2CF_9bVxd_2MlYWnDhgDrgplSuqo5Zii8aQMqmqr6Rc_2G6W6UYp2bRPbaqrESsa2mLRsFUHPRtxCPE6Fh-hKj1EvlGWmh5S5DPq_oEjCzYj_b5V4s54vwrO2tm1BbQhM32CIEeeON3akRyb9A82Ig-jG7Y80TQW_nA11pA6B2rNhld4lqzUeXPQbC4u_2oZTJqiKV12ooPy9WkXTsEdpDNV_BM3xykS8xXBshP8wZnyRY4FwMM26kBbNN6S6Arwhq0aG6qbASZBk8nokPuoeXiXvUjhnYnfe05D1TOjcKYVR2cNCA1YbnDKk0TSfXF8ZlZXQIouTK6OS6jeG46Qmnw1jZngYoDTParDT_Yyc6zGcWA9KpHr5Lzs6qYfXzesvl5GydvO1NQyJw7BlvC1-jNhYwFkZmGn0RKjXhRGhua7XK_DrMuWEcnmjBfDjO_mvC_SePcPj4BR_y5oqDZRoxwXXnfMbP--w3iAUNetlEE1HOBZl8N46kxr0uuI2P2Z_AeYVNObIM1_ux2",
+        "width": 2693
+      }
+    ],
+    "place_id": "ChIJ3Z0qiU30K4gRvdYkfwNuy0Q",
+    "plus_code": {
+      "compound_code": "CFQQ+73 Kitchener, ON, Canada",
+      "global_code": "86MXCFQQ+73"
+    },
+    "rating": 4.4,
+    "reference": "ChIJ3Z0qiU30K4gRvdYkfwNuy0Q",
+    "scope": "GOOGLE",
+    "types": [
+      "hair_care",
+      "beauty_salon",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 65,
+    "vicinity": "370 Highland Road West unit 5, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4426547,
+        "lng": -80.5443128
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44403283029149,
+          "lng": -80.54292366970849
+        },
+        "southwest": {
+          "lat": 43.4413348697085,
+          "lng": -80.5456216302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Clique Organic Salons",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3883,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100095499964309766389\">Clique Organic Salons</a>"
+        ],
+        "photo_reference": "AeeoHcLrENCuk3RnMNRWfvvWFMVahMWKwVJiLSVmXC63fs_NJ1-icPT2RKraFOB2xKCYTixkRTgq0TT4MXck6zW5-Wd99SrCEWKzPlHdsBvvYO6HF3YoGaA9Me1PWiYGikQcJ9vCMQSvjZnQMQo8fSYWKQFR1YvSpoasaq5UvChazm7fo0VMbL9s23yhFM3AAomEC_I5ae_dW4drmT5etBg4b6p5RkA1cl8QXLZtd8of76h9FCrNA2j5CxbXYFB61YECYhUFut28zdbOH0_ITE1qIHySg1_fCI3jOIz-9-fpD-xDsYGHlaiorRX6wLVkXyShiW7E7VOrq14",
+        "width": 5824
+      }
+    ],
+    "place_id": "ChIJn2b2LvX0K4gRvMV8qrm5kII",
+    "plus_code": {
+      "compound_code": "CFV4+37 Kitchener, ON, Canada",
+      "global_code": "86MXCFV4+37"
+    },
+    "rating": 4.9,
+    "reference": "ChIJn2b2LvX0K4gRvMV8qrm5kII",
+    "scope": "GOOGLE",
+    "types": [
+      "beauty_salon",
+      "hair_care",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 364,
+    "vicinity": "851 Fischer-Hallman Road #5a, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4799266,
+        "lng": -80.4839831
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.48133618029151,
+          "lng": -80.4825916697085
+        },
+        "southwest": {
+          "lat": 43.47863821970851,
+          "lng": -80.4852896302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Onyx Medical Aesthetics",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 636,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102287503350786042533\">Rebecca Ann</a>"
+        ],
+        "photo_reference": "AeeoHcJ-ht2mZ6Q9uxlbBVSaQvnsel1epcgukauKjTGxWEtMFECY3p5_CcpUO5nQ_6nTfUyMREC_2X5F_mMWFV5Ybn371HRL1PAANa8-t421GniXdCn9SXfnug0o8sdiWE6hFytGIxdirWijIvzC7k1GbbD_gGvJOBlcEiqFKsZowQtrjbz78yHVQXg4vysfY1vGt6pua0W1PtQXgs1YEfl6b8LPWSbejKBU4W4YoOVjntXxu3jZ3yM2NEuRk9Rp-Ee-9nguRL7npJfbidPT5k65pf_ZmRNaD09Ztk0uuepZ99gkqEMOoLpjQtT3kqJmfXNKfJbH-D4C7QT0W4VTMoNuw-gSTwWpe0m4fVyZRsM73yus1rbI8xHL9DCS7c_70cKEBoawLcjbLNsOwR7fau5Y58jOTvFO773a0D5dD5zjqrcxRuldwil1Nbuw-tJbFxu-isuTb9RAYRFng7wUv8GKBO65t1sZIuyFNOtZdhumcJk2P4Q_eX8eAhAM3_w-vhTUfOr9GLVNhcOmmbhdJ-ZI5hdq8jJaNU3xR-I_Lh_BWtTcVBSeZKUX_FK3pUOMSTV7f2tNPU4siBHW2RG22ymLjmaUNkJ7vwk_9WAEeVTR-J2VYDg_We3YiAwkjX9EsK5bG_U",
+        "width": 1618
+      }
+    ],
+    "place_id": "ChIJv4HKt9qKK4gRpTJgX0703Os",
+    "plus_code": {
+      "compound_code": "FGH8+XC Kitchener, ON, Canada",
+      "global_code": "86MXFGH8+XC"
+    },
+    "rating": 3.6,
+    "reference": "ChIJv4HKt9qKK4gRpTJgX0703Os",
+    "scope": "GOOGLE",
+    "types": [
+      "hair_care",
+      "spa",
+      "beauty_salon",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 14,
+    "vicinity": "580 Lancaster Street West, Kitchener"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 43.48076580000001,
+        "lng": -80.48405389999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.48215768029151,
+          "lng": -80.48265071970849
+        },
+        "southwest": {
+          "lat": 43.47945971970852,
+          "lng": -80.4853486802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Noir Nail Beautique",
+    "permanently_closed": true,
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106887105738678670651\">Noir Nail Beautique</a>"
+        ],
+        "photo_reference": "AeeoHcJbnjsNAraGpx5d5jhavFZ44IOHv7zWihQSjJH-Tmabage5sl6VbiKPWDKboN2WF65j-Rcz9s8KaXTlBKr-rPrULm1SIlTAYCkEp5KZ_Sdi-kqdGPRZEQpi98AH43ZG-XmjkpnfnF-jAWn9ZlIGdAyBzaDj_ICEB29BpMiSNoZKdQTgutgK9UHhUzX5tZdXgp0IMJuQyROl1S7LTk2ErbjDROTrHoqHsq6qqjPrwYoXKSAtt6tAjPNnN0j9K5e_MthqFTpYAq5Dbz7_KP_Rp0nxpwiiJJs3xWDu3BFSn5CH21PolnRHybckZpx45dfijvtTx6F_NJQ",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJXcDtXm_zK4gRWkkf6VN97I4",
+    "plus_code": {
+      "compound_code": "FGJ8+89 Kitchener, ON, Canada",
+      "global_code": "86MXFGJ8+89"
+    },
+    "rating": 4.5,
+    "reference": "ChIJXcDtXm_zK4gRWkkf6VN97I4",
+    "scope": "GOOGLE",
+    "types": [
+      "beauty_salon",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 291,
+    "vicinity": "591 Lancaster Street West #4, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4984323,
+        "lng": -80.52631819999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5000256802915,
+          "lng": -80.52525926970849
+        },
+        "southwest": {
+          "lat": 43.4973277197085,
+          "lng": -80.5279572302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Nails For You Conestoga",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106423267644417299900\">Natalie Martin</a>"
+        ],
+        "photo_reference": "AeeoHcL_1KqpbpzQp_a5WumiyCcpnb8l9fJMD2SItXEHP5zsRBK76tT_YR-vcO01jaZ_tRTeSEwOfWlNSY9LH7BUk3-eaQ4M3vw_11zv5sAO6dK30E3IeiX-09ZlwEKLPoGSZPvVhW7M3zSagy5jrV0zuLje1jsQq5slxc5RU08ZeI9k_G0CVoIj4McaJrHnP1YM6pXeanjHv3KEAHDDsrTZUqZkGi0hg-gEfPLIO3M2XrONFOFDAGOOEgknFROeqdYM65C2BZEyC0GSghd1E9GEATGkBlOJPUUSK138jyMAhATjw4CZQeNT46gKhT1wMuBzJXYxOd-pqsRi-fOMczWl4ZhkprTc_QdPr2BCiX7P2sYUF2KvQAJQQ9wOMt__1aLVzd4MbzZi6VfZFebEdK2NtRFx-6SUNWA2l3K9riQmVSKD5-FcFk_KkRzqNUVCWDu_qsXWc4_yUxJtehbTSWHMuTPCVcv6SYFGPtNfilaiPax-hJBOldsCO2YLtIXw2qALjwF3EOEYpUG0L0gnMv_wCPrlbXmU3Ewy3-m5N8pwx4MEIkWczj7AChImdqTEOiEf_fjWQRGFEQDzfGaQbBTE_U8xVtDKbWd0FPErhwCQzbh9bP08vOPNvQFPziBEJNoa",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJbfnKs8bzK4gRDuPAIDBE4c4",
+    "plus_code": {
+      "compound_code": "FFXF+9F Waterloo, ON, Canada",
+      "global_code": "86MXFFXF+9F"
+    },
+    "rating": 3.7,
+    "reference": "ChIJbfnKs8bzK4gRDuPAIDBE4c4",
+    "scope": "GOOGLE",
+    "types": [
+      "beauty_salon",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 548,
+    "vicinity": "550 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4354952,
+        "lng": -80.4901149
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.43671408029149,
+          "lng": -80.48891631970848
+        },
+        "southwest": {
+          "lat": 43.4340161197085,
+          "lng": -80.4916142802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Excell Salon",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2988,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115509455015472872563\">Erin Cybulskie</a>"
+        ],
+        "photo_reference": "AeeoHcLVU7M4kbaw8eRzfr-GF4F7O4i-t5rIBg5Ea95NFVmqZLA9SslLjfFONGjkwzj68Ku8CwjtP54BOycckjS1wR6aSeKrwnDTI6s_YiBzVcZWrZtTyaupx5-sKhVh4q0VvtJecs5nhzx4XLdqYrwkcogiO8i6R_B6-k5UxXN69sQdx17eT60aG-lmKBkJK1-n3tj7kmm_wyZXxXZfMV0wK35Uoyh8cQtphy7o5LN7kejlNqRiI76HVZ3f9npFcRdIjUjkF5umtot__aB5Yz1j7W_zOEZvjRGCQ3FJONZYvbpr9CAHEBk1FppEOPp0fXn8nCzLMJmiYdgLDou20TT_dSS6-yFluVTwv0oLRK15JfHcX7-qHEumBvd69D37fAZnmAflwVFH1nb2IIjzgh_Hr5oyvx02HUpWhhq5dal4kHaoeUwcnImJwrR8QCZVi1PHwePK-pPoFk0rgmDuT3cUSIkXislXYCkwJcGWsVzzivMKVoeNJoSXr2nF4i8WKnuOQnRQttedQzqBShVzzL8qXP1DOFxwkBfbtIOLSmvq3QqFuW_O_C74shO2wU_jICKb6gTKx7fHVURv5fJV6z6QMiUqh3XXFopKpQX8Sf4Do68zBPmR6NQex4JdoJUI8JZUxVy8hw",
+        "width": 3984
+      }
+    ],
+    "place_id": "ChIJy8rCHP30K4gR4IH0-c-ZryM",
+    "plus_code": {
+      "compound_code": "CGP5+5X Kitchener, ON, Canada",
+      "global_code": "86MXCGP5+5X"
+    },
+    "rating": 4.8,
+    "reference": "ChIJy8rCHP30K4gR4IH0-c-ZryM",
+    "scope": "GOOGLE",
+    "types": [
+      "hair_care",
+      "beauty_salon",
+      "spa",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 37,
+    "vicinity": "296 Highland Road East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5016218,
+        "lng": -80.5345281
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5034350802915,
+          "lng": -80.53329041970849
+        },
+        "southwest": {
+          "lat": 43.5007371197085,
+          "lng": -80.53598838029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Stil Hair Studio",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1504,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110461498330133827945\">Stil Hair Studio</a>"
+        ],
+        "photo_reference": "AeeoHcK4Oq-AKEchEp1JItt5aWNrOxyuPJY1i0raGc7CUQB1AibKlvK4_AigZLI0BTUk_93xnXQ31WBcTVqVuDjhLIwyUWQ0Q5n35u4kysnmmyj5Io5yug80jDq2c-sXCFHOKy-aRqevPIg0_yDXbPX9UPrbCkiZ7BWbQS9qJM04zNVfslXl1TPj92XRxE5fdwActz2ZS3ZZHJTgWFQ6UP2KbVbDZH-u1iw-jU6VES7Wt4DQJP_UTUln0wmriMZrtcDi4SpLhJzDAT8GEmSfl_DCuOKqg2v1340yOt4zzzghUKPSvf7Y_4eE3yzLR75HQYOf5T8hh2Oo-gw",
+        "width": 2256
+      }
+    ],
+    "place_id": "ChIJKYosidrzK4gRxlkvHxUHQ0Y",
+    "plus_code": {
+      "compound_code": "GF28+J5 Waterloo, ON, Canada",
+      "global_code": "86MXGF28+J5"
+    },
+    "rating": 4.8,
+    "reference": "ChIJKYosidrzK4gRxlkvHxUHQ0Y",
+    "scope": "GOOGLE",
+    "types": [
+      "beauty_salon",
+      "hair_care",
+      "spa",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 93,
+    "vicinity": "583 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.49368800000001,
+        "lng": -80.4814768
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4950344302915,
+          "lng": -80.48019631970848
+        },
+        "southwest": {
+          "lat": 43.4923364697085,
+          "lng": -80.48289428029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Skin To Soul Esthetics & More",
+    "place_id": "ChIJVWloifL0K4gRExMUy6RTkoU",
+    "plus_code": {
+      "compound_code": "FGV9+FC Waterloo, ON, Canada",
+      "global_code": "86MXFGV9+FC"
+    },
+    "rating": 5,
+    "reference": "ChIJVWloifL0K4gRExMUy6RTkoU",
+    "scope": "GOOGLE",
+    "types": [
+      "beauty_salon",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 16,
+    "vicinity": "255 Woolwich Street #103, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4921188,
+        "lng": -80.56274259999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4935014302915,
+          "lng": -80.56129511970848
+        },
+        "southwest": {
+          "lat": 43.4908034697085,
+          "lng": -80.56399308029148
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The House Of Lashes",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 283,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106650133100106971667\">The House Of Lashes</a>"
+        ],
+        "photo_reference": "AeeoHcIKcqVDm_EL8OgjT3A4ZMQjh8X7BEIiYxc5z8mxDQuPtdoQen2O6OxUjsjx-AfJBaUeChL0hjWnJSd_rwaITbqVT-qJPMeDCCczPXP-UX9rC6Mnyq3-d_ONC-6MJfuDMkMSzEJNjO1Y2OJ8D45PYg1QTAk0nzNxz_ERN-Vg0h-urjj7Mdso269CmU4haAfcQJ83I4eBWaYYMcYfQFLrHxSxOEbL1k4E2YC-DTKBbLYv3COentyfDxcLq0kwDscySbisciLtUmGnbp2Sj69UTsNYatCYdfjposDA7V46D7lVSPeTadl27SSd2YTnHurt9ZqzUjKN7C8",
+        "width": 504
+      }
+    ],
+    "place_id": "ChIJ011csd_1K4gRcBi-tN1ZcDw",
+    "plus_code": {
+      "compound_code": "FCRP+RW Waterloo, ON, Canada",
+      "global_code": "86MXFCRP+RW"
+    },
+    "rating": 4.1,
+    "reference": "ChIJ011csd_1K4gRcBi-tN1ZcDw",
+    "scope": "GOOGLE",
+    "types": [
+      "beauty_salon",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 22,
+    "vicinity": "146 Clearwater Crescent, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.43304029999999,
+        "lng": -80.5581888
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.43457958029149,
+          "lng": -80.5571618197085
+        },
+        "southwest": {
+          "lat": 43.43188161970849,
+          "lng": -80.5598597802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "SMARTSTYLE",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1040,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115884823698694609564\">SMARTSTYLE</a>"
+        ],
+        "photo_reference": "AeeoHcLCUZdBAbW1FLsDnpLQdCe9G6FJoHoJEuMQQPH-yElgJA1FE3XmCGo70xBNRFm4RmCYygdHLnt7_FgQ3RwoIRiInYXXLlF9zgEiIMeCtHM7AccejNXnNDt2dNi5ETETjKHbHt7UcExBwC5dc58y1KB8IjGUPqP67oym9_ihp006AiUvSjP_3IYSIrFChh7c1y7xmizjCR1Ypl3MK--bgd10sIn63agMT13TlytcKazmSlrrxaOcRWG-_YgsXpainAlttNWuGTGbjXWZuCI46iE0jPumHwcRXmn041DmWs_SlAf0JSlhKAk-A98pBkm8gXvy6I6EHZI",
+        "width": 1849
+      }
+    ],
+    "place_id": "ChIJj-TgfOD0K4gRIo27Zi7c7BI",
+    "plus_code": {
+      "compound_code": "CCMR+6P Kitchener, ON, Canada",
+      "global_code": "86MXCCMR+6P"
+    },
+    "rating": 3.9,
+    "reference": "ChIJj-TgfOD0K4gRIo27Zi7c7BI",
+    "scope": "GOOGLE",
+    "types": [
+      "hair_care",
+      "beauty_salon",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 74,
+    "vicinity": "100 The Boardwalk, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4201521,
+        "lng": -80.5272876
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.42137733029151,
+          "lng": -80.52586411970849
+        },
+        "southwest": {
+          "lat": 43.41867936970851,
+          "lng": -80.52856208029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Body Beautiful Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110519822848839135158\">Body Beautiful Clinic</a>"
+        ],
+        "photo_reference": "AeeoHcIFp9LsNLfpSY4wCbbqgLjKNQamshybGTwDhSQ2ogappRnSuT6a6lXutqW8pqSA-sb24q3035Nx67y4Tt4kjhy9ZjB8GUi0vyUOsXltoeALFBYshhpRKzbS17w7NygEwOWS1pjSoYXGFEV0rXYeVLH_ZvYxe6mbyAQNmDU4fOAxCYJN0Gr6up2FKQRslkdh2qFTPppHmbAQBK53mQRKK_1TpBilmbt5qgLoTJjOZzw1Bc1J4wDGjA4jx4AwRLkRBOpkWbnyH75Cy5MHPuGEevFff7YZhe-j-fjCmGqqydsqYJQ2pnGfcLzcrIdLtg6HK60GolMW",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJ6wvXrmv0K4gRRMOzPilkNq8",
+    "plus_code": {
+      "compound_code": "CFCF+33 Kitchener, ON, Canada",
+      "global_code": "86MXCFCF+33"
+    },
+    "rating": 4.6,
+    "reference": "ChIJ6wvXrmv0K4gRRMOzPilkNq8",
+    "scope": "GOOGLE",
+    "types": [
+      "hair_care",
+      "beauty_salon",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 22,
+    "vicinity": "192 McGarry Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.41564299999999,
+        "lng": -80.5193668
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4168950302915,
+          "lng": -80.5179545197085
+        },
+        "southwest": {
+          "lat": 43.4141970697085,
+          "lng": -80.5206524802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "SmartStyle Hair Salon",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103726968817787091224\">Dylan Smith</a>"
+        ],
+        "photo_reference": "AeeoHcK5GJ0oSHcCskq7zH0x1jaKLYI8opniYgYr63Skqe-5dIUh9xipuU0ApiIcYREUMbpdXK-Zj0yCnSOAByymhJUvu3V6V58hbz99WDPrJ0r03uTOx9tUmgmJ0nsgjTEtjgoQrnxwTHVWLWOBcg2UdLDF5_4i1Gn-Gz4u_efvZCEe40_exYkC71JeTkzB3i-VIhnU0ol4d5nPZOniTJc2rZBA34XJPOipNtXWo9cJCbT2yqSrwQSwl1eBDUcH0mf7Ax6kItyKAtmZpdgFh2Rs4ImSoWDWjA1jVhtg6CStkAog6YPy5aYvm6_n_kl5xK6UzAGPTXEYAH_VF-wkLkKOCunHnI27769gVnd31xnOkRPrSw31MP1a2KLqGYvq9Oe3anhymGm5qpZcXSsBjBNwe74ibyvbryruCiJF9tP4ioOYm50pkDhq2INdFuAsRgj3E9QGHfthBRoRWS1J6Y3OOhnS0sGyeNuzQCgEjyzCfY-TiESEO9q4doknf5slSGfmiuTNNdh3TZK7beUVOcPsHd5k9YAfFdNBVYXx5D2G7kPSkiUncah-jtCufw1vqONCaeWhgf2IXFgFdWBIwSQ_0bYmdmIMDstKwFRAOXL07BS8ltL8O3eYOZRZVLmrCnj7OiKxAw",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJOaWEnb31K4gRr_l1MypHwzo",
+    "plus_code": {
+      "compound_code": "CF8J+77 Kitchener, ON, Canada",
+      "global_code": "86MXCF8J+77"
+    },
+    "rating": 4.2,
+    "reference": "ChIJOaWEnb31K4gRr_l1MypHwzo",
+    "scope": "GOOGLE",
+    "types": [
+      "beauty_salon",
+      "hair_care",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 179,
+    "vicinity": "Located Inside Walmart, 1400 Ottawa Street South #1007, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4969091,
+        "lng": -80.47200889999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4983704802915,
+          "lng": -80.4706577197085
+        },
+        "southwest": {
+          "lat": 43.4956725197085,
+          "lng": -80.4733556802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Jasmine Holistic Spa",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2150,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101141171593797654386\">Jasmine Holistic Spa</a>"
+        ],
+        "photo_reference": "AeeoHcKnBeClVF51DB8BqxCJUlGXSMmINsFyxD9UEBsB9O-l9AelLlrKFdKQz4FDZc5PPv_HeY3ohAEgqm6WfQc2w1vO7QTPOscWLmw2tW2OeQGcjUiOj75VeWH5C8aX_WcuJn3qRuFi-lSUelZaLrQ5GVzBxv06KdeMFlJk2kUN6u_FewWomam0cTYSuVDfzPuLAdWw2GOqaMjiFJ1rjcAuo4NMihW0YBaOewM-ntfAzL8eOaKizzVSQ7_BXhRC8qO7fGbqpGB3ExU9tbUdVTPnqRr5HWJfVEigKVdd69fFYq6q-J6VqJ171JFpFqgUnx1fRzGmAROQFwE",
+        "width": 3819
+      }
+    ],
+    "place_id": "ChIJ59YymTzzK4gR9khJo5tzBm0",
+    "plus_code": {
+      "compound_code": "FGWH+Q5 Kitchener, ON, Canada",
+      "global_code": "86MXFGWH+Q5"
+    },
+    "rating": 5,
+    "reference": "ChIJ59YymTzzK4gR9khJo5tzBm0",
+    "scope": "GOOGLE",
+    "types": [
+      "spa",
+      "hair_care",
+      "beauty_salon",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 24,
+    "vicinity": "14 Eaglecrest Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4151931,
+        "lng": -80.51505949999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4166114302915,
+          "lng": -80.5136638697085
+        },
+        "southwest": {
+          "lat": 43.4139134697085,
+          "lng": -80.5163618302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Trade Secrets | Kitchener Sunrise Shopping Centre",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107531904086301194300\">Trade Secrets | Kitchener Sunrise Shopping Centre</a>"
+        ],
+        "photo_reference": "AeeoHcL_8gvdfYdKtSSO-TVP1ocK0gbU1Q52XTsaFDCNpzv94OgjoR2vNHX_b60VwQQRJ5RO6qXY30xGudOw0JccvKSwZ9yYu0cx0JrhkpGiOsy13Fsgeae314e7FPdt5sE-6dZJhGmDo-z0lEFSkuD3sEpKV_tnyXOJIRWmFYJPR29HkpswRmjFdyGOEWK0IRFT-f2xE8iwhr0ZXwFJidDttheOU4UxpUmA9EfPrEE-YqD2JnInEBcKO17fdc5nv84DOURbRL3yP_0-bLOMVTIJVO3ySAV4BnhtPryT1NVWH86h-3lhbBeZCTz6HWH49j4pUygtvjTCGUg",
+        "width": 750
+      }
+    ],
+    "place_id": "ChIJp6x-Kpb1K4gRk_VRV1nAwYI",
+    "plus_code": {
+      "compound_code": "CF8M+3X Kitchener, ON, Canada",
+      "global_code": "86MXCF8M+3X"
+    },
+    "rating": 3.8,
+    "reference": "ChIJp6x-Kpb1K4gRk_VRV1nAwYI",
+    "scope": "GOOGLE",
+    "types": [
+      "hair_care",
+      "beauty_salon",
+      "health",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 85,
+    "vicinity": "1400 Ottawa Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.510865,
+        "lng": -80.54979399999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5122764802915,
+          "lng": -80.5484525197085
+        },
+        "southwest": {
+          "lat": 43.5095785197085,
+          "lng": -80.55115048029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "First Choice Hair",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118217026745173769817\">Jared Nieva</a>"
+        ],
+        "photo_reference": "AeeoHcJJrHNV-_aDw7FUJ8Uv-lFcuUXX9noeZ_HKgmmt0c_6cZaJ7QM0kRh-G2FGUNqLzEOsDJ8FCYDsWwQJch3C5FinOpgJsdRdoVulQHbIGxvYLUbJcwClDDnmeXDbSanEV6zDcRhSyFFZcF8k2VAqhvJkQ7BNKv1ME9CEy9z0WhQ-z0ZHKpG-vzlvxvlrmF-tDgP_MOVEbxbj9SYOtifIna4AVllNoEPYPLYEEXTUF3JopoERVhNmJN4-zUqf8dHvje0P7sEF9tftGJxuP9N4pU3e57wVRE_2F8df3iBcciCRSbtJ8cho3Ir4uaDQmCUfSlyTR4WyGsjYvPLMaPw0bEhgbBTXlJZKYPKc_MDYuAODZuWEbjolb58HxogXfsz1aCt8ay0e_zvL_ysImJo0YxyxKMcWCDK7h7kdUyn7G4mU3g5CMbnQGibKVa_rXzS279nXZw4jBc33uy3Dl_Urw0ymsrbez_AiSe8MTs2erRxrGEzizUuvq4yarDBXoNpKNbbOZ0gc4sUY9f7c5xh2c6M_vN7EqBqTJtJetw1AdB84TkkCg5USctFvAU5-MbWqhOdkb52_opFuDMCktBiXODwdi1venkzB9hmKnKqxYKHDO0ujQCsYF7lxjJfzH5Tv_Mau5SEV",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJd5-JH3rxK4gR44St_APYGAU",
+    "plus_code": {
+      "compound_code": "GF62+83 Waterloo, ON, Canada",
+      "global_code": "86MXGF62+83"
+    },
+    "rating": 4.1,
+    "reference": "ChIJd5-JH3rxK4gR44St_APYGAU",
+    "scope": "GOOGLE",
+    "types": [
+      "hair_care",
+      "beauty_salon",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 342,
+    "vicinity": "330 Farmers Market Road, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4698366,
+        "lng": -80.59487759999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4712133802915,
+          "lng": -80.59358906970849
+        },
+        "southwest": {
+          "lat": 43.4685154197085,
+          "lng": -80.5962870302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Mosa Beauty Salon",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113439674871251291548\">Mosa Beauty Salon</a>"
+        ],
+        "photo_reference": "AeeoHcLTlSPCr5BaoYpXxwcY2zjwe8OVScpqwzFr62tfvOcIjTdpMeyfWYoeEES5uspCD9oNarJjoOvNDow2lWqNQGDHvpfgDKZAOz4kt90mc_5Kdj3ZI1HU91SQwx9yxngcKGIvaWznRdb2znXcniX6PzGVobPZajmAexwLXnOulnCjmbQJSDiR80_YTFUdf-duJd1XCCig6zguN6MQJwmmZ1FHkacxCaV4Qx6z_2v-dag_fSCs6PNPntLYgmHGYaCFywN595vWAqVOIwNpbs5QElX_K7TwsyLVUEoRgStL4lh4eOJIL5YgkjrtOUKcQsZak8ySrpdt-ts",
+        "width": 960
+      }
+    ],
+    "place_id": "ChIJsUZoVS_3K4gRiJK9msIdqKs",
+    "plus_code": {
+      "compound_code": "FC94+W2 Waterloo, ON, Canada",
+      "global_code": "86MXFC94+W2"
+    },
+    "rating": 4.4,
+    "reference": "ChIJsUZoVS_3K4gRiJK9msIdqKs",
+    "scope": "GOOGLE",
+    "types": [
+      "beauty_salon",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 19,
+    "vicinity": "619 Wild Ginger Avenue Unit E30, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4522192,
+        "lng": -80.4443162
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45348018029151,
+          "lng": -80.4429087197085
+        },
+        "southwest": {
+          "lat": 43.45078221970851,
+          "lng": -80.44560668029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "First Choice Hair",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106727426089603504727\">Katarina Petrinec</a>"
+        ],
+        "photo_reference": "AeeoHcKC4THH6jk2AANswucNkjsMIdT9lduAz55agVLW5iiShiGj2I2I4Nldbi6T84mruJG-J3pno0JXPUYAkU4qGEOIbkpCpXEbOy2nbiFq1QevMfZ1M3pjTnDGaYjlwRQzfgNNJV9MkZpFM2e7qn-F3D2fausXlX3kKPZXnkyfckz7Cyo43i3FUgVJQhbBs49fenWGdjwxOvOJ76kkC6eZUFiInoL9EACh6dw5Yswm9TsEnNMMzssaL0MkzATjBX6FpNhHsq7EJX2s6F3zqHav8xIKYB6Vh8u5KIXTXB6vNX6Dbq9FzqfFGyHwK8j5AOUQ5DUJtSXlBOe13i9AtdhVkSlg-Aji7YGDpsKtCxGfG-xfs2MkRw7YZc2sOQm04IgvtyJbdoQC5vge3yb3QEBSg2Zzq9QQ-y23h2y7Xa1aVRriUUYzWdfVNmTq-fuANq-Z2hDBJvNCpezNJqz-qvkvQ4HV7fNQmjY2L3WGAahb92KD5W22BQBQzPi-zia8nC9icHV8tjllBuqgV-0M0V4YAhxTCYbyBOOgxQov7_QCZVuzNnI4-Fi9F50EDIQS_5tGZQMN5qDFOKH4FcYpD41OIAz2dBXLt9rFHQzXGFGCGeZv7pyDXdx9kIMRYqRw2AIWB5FChA",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJV1K-hUiLK4gR8xmLxwCV5zY",
+    "plus_code": {
+      "compound_code": "FH24+V7 Kitchener, ON, Canada",
+      "global_code": "86MXFH24+V7"
+    },
+    "rating": 4.2,
+    "reference": "ChIJV1K-hUiLK4gR8xmLxwCV5zY",
+    "scope": "GOOGLE",
+    "types": [
+      "hair_care",
+      "beauty_salon",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 171,
+    "vicinity": "1020 Ottawa Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4689851,
+        "lng": -80.59895829999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4702823802915,
+          "lng": -80.5976985697085
+        },
+        "southwest": {
+          "lat": 43.4675844197085,
+          "lng": -80.6003965302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Fairy Day Spa",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110554200253870109745\">Fairy Day Spa</a>"
+        ],
+        "photo_reference": "AeeoHcLgv-YqlnONnlhnYzdeC7IKCcU8ELxWbAVZ9wacqQymMPlDHpBFPH6v-kn97ktO4HdHTdE0LIgKvEDtdHHNBmD-icU72I6Rn4_gk_srv8hNPU8sSCohBN4MXa66uMFolice7asvIubpESVo6UBI40qH4lDIPFkvuLk-Cp_Jxxzd2NjuNncm4E35pI0F6hFzO1uuhCVkJfowKmWpSF9XNr8ud4fHUdU3wzaizwow348HNeRaxPdOMcO42zaV3X4b02UhEXAaxWSviCsx0oEnWZUUR150xijXsdq-ZwPuE9_dYbbfmuJ6LSA15Nh7N8kuTA0bDdaLIc0",
+        "width": 720
+      }
+    ],
+    "place_id": "ChIJj_IWLiX3K4gRfuwnKL9be-Q",
+    "plus_code": {
+      "compound_code": "FC92+HC Waterloo, ON, Canada",
+      "global_code": "86MXFC92+HC"
+    },
+    "rating": 4.9,
+    "reference": "ChIJj_IWLiX3K4gRfuwnKL9be-Q",
+    "scope": "GOOGLE",
+    "types": [
+      "hair_care",
+      "beauty_salon",
+      "spa",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 65,
+    "vicinity": "630 Violet Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.464728,
+        "lng": -80.43439939999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4660213802915,
+          "lng": -80.43312581970848
+        },
+        "southwest": {
+          "lat": 43.4633234197085,
+          "lng": -80.43582378029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Kanvas Beauty",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1344,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106233992536827931783\">Kanvas Beauty</a>"
+        ],
+        "photo_reference": "AeeoHcK4MWb2On6rhPkjY2TvqgvpaOhR20DnCZXlU7Mt8SA7h_x3aO3ZwoiR2u9dLwZtrvVGt2LV6YdcKiuQNGio7rieJbxbKdEkn-Z0ldYMuP9PQUY2KLJ2fka-S0AIgKipgBYtYWfddYXZ0RdJNcgB0niwY0H5JxQl19WebYIAHOl6mIrBV-KPpOHrXTfbj_C9tmDQiSx3k7WTR9Kc4KdTFXzbQVef_Q8kgBIDCjDkG1GUNx8tE97Sxzlnd_6Qpym0cwPvm_howTemlOY65GHXqVkovheiI2XwPTmLARuGokai5togkyyW9XQo2R1rFe0waddiNiusF2Y",
+        "width": 1075
+      }
+    ],
+    "place_id": "ChIJU-cpt1-LK4gRFi2hGANterk",
+    "plus_code": {
+      "compound_code": "FH78+V6 Kitchener, ON, Canada",
+      "global_code": "86MXFH78+V6"
+    },
+    "rating": 5,
+    "reference": "ChIJU-cpt1-LK4gRFi2hGANterk",
+    "scope": "GOOGLE",
+    "types": [
+      "beauty_salon",
+      "spa",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 47,
+    "vicinity": "256 Keewatin Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.40241169999999,
+        "lng": -80.49743140000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.40382118029149,
+          "lng": -80.4960253197085
+        },
+        "southwest": {
+          "lat": 43.4011232197085,
+          "lng": -80.4987232802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Bling Nails",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112870848071287133974\">Jennifer Blanchard</a>"
+        ],
+        "photo_reference": "AeeoHcJ5Bk62MrZ-G9-eBQ5oQuhzV-yQlRlwaptWlwfnH45aWYnIcJXSRjgV9LznE2EpD1kA6C2Nyl0GYbFpnbpQ_mjNlodtO9cvAOwokkejmPuV9OekeHfMGR3L4u1dAAKyT59aSK4Kl5_aR67sLC9k1olTqcfFQwMinFUuX5UHcWWn8Gvkyvj5DjzR8UAS0MqdUHlkqqVNGsm6cTgzBohh22mKhVsT7FuTB7GcWS_iUmUbQxz0foL8kBmIsoQ8CML4IWkTAKrVKbHehEaXE6N4WXXMyy8sBvzDaNpfdoQVhsz6vYP2PoJiJLjZxsxxxOZVvj4-YdvY97V1gaBUWlkIzEtXGeMuFbMR40jSbILsdSFUzQrObxD8KjG4nUK03Ae4_B5WrF3omOdb2rIobO27kS0zGJyAdekpfSEVo4vITLt5RvXAC7q0zhqeD836LWRaJVi9S2xWlCQ7PdOUPo-47uk6rqnFrjNMVRHqutpm-qJlKeD2Q1zLJT_C5CIqUt1GvQKfpgczK9JGEGBjvC2bmvWzGD2KbtO7O4tC3OUpu62Rg46ceQn5mWmDTdpKeaf14IBomaWfre8X5ugOPOKxDjjzcrtp6oUCOGK-GGvMQTkgLnVkHLT6bEx1Trkg4XNdoTheJg",
+        "width": 3000
+      }
+    ],
+    "place_id": "ChIJGcD8HXn1K4gR5jagTWW-jI0",
+    "plus_code": {
+      "compound_code": "CG23+X2 Kitchener, ON, Canada",
+      "global_code": "86MXCG23+X2"
+    },
+    "rating": 4.1,
+    "reference": "ChIJGcD8HXn1K4gR5jagTWW-jI0",
+    "scope": "GOOGLE",
+    "types": [
+      "beauty_salon",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 177,
+    "vicinity": "1201 Fischer-Hallman Road #230, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45570139999999,
+        "lng": -80.43039329999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4571094802915,
+          "lng": -80.42915366970848
+        },
+        "southwest": {
+          "lat": 43.4544115197085,
+          "lng": -80.4318516302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Great Clips",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 500,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117473668826674634178\">Great Clips</a>"
+        ],
+        "photo_reference": "AeeoHcLzmu7M0QnhDaJjcW56F8xSiJb5JjQQP_RDNBxEvsf5c3clLpKrm2226Nxn8s-ERey1WCg3KfkUSl4XptB75iu63u6ZIUg4_JRjgslfjndFndzTW78N4pOSTZW1wGeknDSzcjSh7SlLmeFqpnB95M5te9GIU3tPGi4U818Sco0VAOjTtXhJHprJWB_E4MPwov1Uv8dBZ3wlM2Il_2nFe14QtG2EZjQHEMoes6cnV86lXxOwcF-UMODU43TAe8m3gauQ7xJCdaNJtYhcjc-nw-_BisP-yzmqh_SSh3Wab4ANqzDIqnnHNEF_8omcpJzx8PLshVwrKh0",
+        "width": 888
+      }
+    ],
+    "place_id": "ChIJQyXXh2iLK4gRLRx_03JJqfs",
+    "plus_code": {
+      "compound_code": "FH49+7R Kitchener, ON, Canada",
+      "global_code": "86MXFH49+7R"
+    },
+    "rating": 4.4,
+    "reference": "ChIJQyXXh2iLK4gRLRx_03JJqfs",
+    "scope": "GOOGLE",
+    "types": [
+      "hair_care",
+      "beauty_salon",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 648,
+    "vicinity": "1405 Ottawa Street North #10, Kitchener"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 43.42406889999999,
+        "lng": -80.4401489
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4253760302915,
+          "lng": -80.43920061970849
+        },
+        "southwest": {
+          "lat": 43.4226780697085,
+          "lng": -80.4418985802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Trade Secrets | Fairview Park",
+    "permanently_closed": true,
+    "photos": [
+      {
+        "height": 4156,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100763414301655336237\">Trade Secrets | Fairview Park</a>"
+        ],
+        "photo_reference": "AeeoHcJKB6oGVQUAsSJ3s38XZ5YAcQMTwkrHThfvdYBdr08KSrSmNRvVsZHQ_fjqqG8f_tQroE8xYbIur6cReUvrXVlRyveNJMxYVdzv0ct_ARQup9XkAvVsTiF48wG_AnKZROEQQ9W_fPdN9kH7RUageT_ikP3bynYMuX3hFL6JyAF7HyQdpaSIN6XYRCY9OdxzpS9sl6iN5EBXOsRZGnniYs03H5mEAXbgtfK0hdoR789TaVDRjcADB7OUyTFFLp37Y7ge0pzxInozM-9syI6I73VhitufHj1sxdsAhcxesnbdtLdWw92KDT2gLBS_kLbpnDfcS5hNNj0",
+        "width": 6020
+      }
+    ],
+    "place_id": "ChIJU4NrPtmKK4gRfsX3be4uRhs",
+    "plus_code": {
+      "compound_code": "CHF5+JW Kitchener, ON, Canada",
+      "global_code": "86MXCHF5+JW"
+    },
+    "rating": 4.5,
+    "reference": "ChIJU4NrPtmKK4gRfsX3be4uRhs",
+    "scope": "GOOGLE",
+    "types": [
+      "hair_care",
+      "beauty_salon",
+      "spa",
+      "health",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 791,
+    "vicinity": "2960 Kingsway Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4459794,
+        "lng": -80.5234572
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44743493029149,
+          "lng": -80.52207291970849
+        },
+        "southwest": {
+          "lat": 43.44473696970849,
+          "lng": -80.52477088029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Gorgeous Nails",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3264,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118246389250547651895\">Megan Gilkes</a>"
+        ],
+        "photo_reference": "AeeoHcLm4bujYZM1SmzCmRbUo-tfQOrixWjaQkhDwcsVAWN5ADa9dSwvWWz771T5x6dsqwy9576r88lKethz8PVlNnt2koqrv8vvX-_n6u9Qsl_7CdyspxKvA9LX4Eh_4vHB3gZwPZXjForJFzXEP2j8ITJos3qb4AWvKwJpg1XBmXKV9Jmgw8z0UhmhtQ85DjQSLCRFL6Obiv3tEiY4Q6YaA0elYcifZVgmwLItHjHZ5_ERZeNrpRqdT-wVrPb_TIXmVDc4iYx57VVnbQIX1WH0G_uveBeJ-YgnF1XDLsjbTsTWJBAuTAF_vbq_I50pGY0ANYCAviAGaWstMSAuNNNqNKiNHHPRk6DF_hTtoipnqXViQZY15q6QaV4e2AhMSu0U6nXB1-GP4TZcW7Cu22gwM365wRH-XVcLGrwY4EDezW_TwRSpJ3n_pMAE1BCn91HYtz46iDLAge0MY4EdsKL77_2dmojkDfZGhek4Jqq-ybRxlTWnSN5IVp5SBkFSsfcIaHPjfPK1TJDhAcCTlJIzV8Snou5Uim2F9Nj0hbB7GCXxjs0gaxiGByTFCjcpuWA0Ycjfw-GQOxV-7nkO9_GmGVg761EA64mRWXTf98xpzLhQpYy2ioH4pyweFsn6eaFcxkbiM6Av",
+        "width": 2448
+      }
+    ],
+    "place_id": "ChIJzdC1Njj0K4gRS2Mr8sTRXtM",
+    "plus_code": {
+      "compound_code": "CFWG+9J Kitchener, ON, Canada",
+      "global_code": "86MXCFWG+9J"
+    },
+    "rating": 3.8,
+    "reference": "ChIJzdC1Njj0K4gRS2Mr8sTRXtM",
+    "scope": "GOOGLE",
+    "types": [
+      "hair_care",
+      "beauty_salon",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 37,
+    "vicinity": "11 Westwood Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.465844,
+        "lng": -80.5210682
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46716913029151,
+          "lng": -80.51985731970849
+        },
+        "southwest": {
+          "lat": 43.46447116970851,
+          "lng": -80.5225552802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Absolute Hair Studio",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112144935470836154105\">raja sekhar</a>"
+        ],
+        "photo_reference": "AeeoHcLRHYyhL2BHOoSh-lsOCL8c8O9O9wMZjwtrS3YICUDvowsPZIfkggX8eOpK5PvynrYM_fvQG5YAGjF5AnG6tMOK2sdBntRv0uq13GGhU4N7t-mNoubf60eIR6HBLZZeIWHqEBjy7dP7dUNz8Gw6w4vuwnJeifoL1uh8d93tgwOj-uWTK3TMk8UDzZmYIcidN3tICoZv1fjLoy_6iknExegb3NHqIxrHRzlAGPXwZeaK7wpVf15TTNirPyzBg_fNLZe2ie5iJxr_xYBjgQ_DtzfmuN-BvPpJN5geV_u7EwWHm6idm-NUQ4XHvN4jaO58EMu6V4DyYTtdNQpkhzffSHOmd3fSqKef8-EAs3U2jCtQ0eaQIelXmrjKsBfwQAJ4Y3fRwn9O1_yiswkanKwlEzn23ACGD73jS5sZXK47frZEL9PiQdM1oj0dhsJuXjhilRhSAWAC2YMKV7mpsBaGn389r0PVHdILaWp1VEKCx0CEEuw5FqHW2Xl8oMVbbXX-MsU_Wzv_-ekX-jAVSeDW3bmcKGeD-yE--M335492NbqXzcdA5ZHlcL7t-MUlEtfMlAdp_QKNwD-KhpGCBn2rnjXhW7spFgKMIIX23tjYncAIX4rtUArpoNKjhS1Z86QIRkwJRnLD",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJcevHznL0K4gRboNryLXLvpw",
+    "plus_code": {
+      "compound_code": "FF8H+8H Waterloo, ON, Canada",
+      "global_code": "86MXFF8H+8H"
+    },
+    "rating": 4.8,
+    "reference": "ChIJcevHznL0K4gRboNryLXLvpw",
+    "scope": "GOOGLE",
+    "types": [
+      "hair_care",
+      "beauty_salon",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 33,
+    "vicinity": "8 Regina Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46358730000001,
+        "lng": -80.5234499
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46465318029149,
+          "lng": -80.52203511970849
+        },
+        "southwest": {
+          "lat": 43.46195521970849,
+          "lng": -80.5247330802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Waters - An Urban Spa Retreat",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1306,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110019096244591694521\">The Waters - An Urban Spa Retreat</a>"
+        ],
+        "photo_reference": "AeeoHcJETGgI7oadPOwTeCb0Zd9xBo-oFUznuZ0y7K1OYnCyP3PHYeCFRMoYrAnH4TVgr_gvCgzuy09eCaALkvQK5fjzE8WuGO0ImjARywZXStmadNd5YPUaoALEAkSAEBM5K2a7I5hfEyDvVWX3aP4vt2mugPNzt-0NCNWjtnGPkeN3YRlDNkcIjyz8bZEgLO4A9op0jrxAofq5ntgM0a-uPcZerSQhFgwewb7ReNh45ugQmEJbnMka-nr2NTY3IA3Dtx728tikGcdgg-6pqWeCZihxSRU0Dg1yzRkQovuSU1cDM-fqrzeVx7w1Ol0IqMa1E5EVJbyPQys",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJCXPx6RL0K4gR8Oy-jc1cX6A",
+    "plus_code": {
+      "compound_code": "FF7G+CJ Waterloo, ON, Canada",
+      "global_code": "86MXFF7G+CJ"
+    },
+    "rating": 4.4,
+    "reference": "ChIJCXPx6RL0K4gR8Oy-jc1cX6A",
+    "scope": "GOOGLE",
+    "types": [
+      "spa",
+      "beauty_salon",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 156,
+    "vicinity": "75 King St S Unit #51 Doors on, Willis Way, Waterloo"
+  }
+]

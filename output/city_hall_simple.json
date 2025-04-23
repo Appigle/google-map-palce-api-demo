@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Kitchener City Hall",
+    "coordinates": {
+      "lat": 43.4517589,
+      "lng": -80.4924168
+    },
+    "longitude": -80.4924168,
+    "latitude": 43.4517589,
+    "types": [
+      "city_hall",
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Waterloo City Hall",
+    "coordinates": {
+      "lat": 43.463073,
+      "lng": -80.5201428
+    },
+    "longitude": -80.5201428,
+    "latitude": 43.463073,
+    "types": [
+      "city_hall",
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  }
+]

@@ -1,0 +1,2835 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4694511,
+        "lng": -80.5220508
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4707846802915,
+          "lng": -80.5208140197085
+        },
+        "southwest": {
+          "lat": 43.4680867197085,
+          "lng": -80.5235119802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Donovan Insurance",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4016,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102075898535898021700\">Donovan Insurance</a>"
+        ],
+        "photo_reference": "AeeoHcLefTq2gXDOhYn5lVQLLZ2_PeF-78I7xpiS-Sg2poKRs1usXqzXSJPcSrP-yv6MgY8uFXzAr2Ex4uw_1JbGXudLa2ZpRRpyHkryWuO09FsR8IUQ2QDmf6GG_4WLSb_M9zLau7qYWTfNkof-AHNc85C_W_m5VZDYNpF9-kcHLeCG0dA7ATHuccIJPo6e7cpGaBV0sGoZhEad1fcVDo-YHQnsRmYBE-7rU6SFsGcXArhXns-CxdG1WKlsvs7wjXEqhxahFLdMBlYZbl_WysmZrjnm7N6bKrmU1jgyP_uHb4GQVSnfCsMz60eRuY8Q2lHdYwUXtCL7fF0",
+        "width": 6016
+      }
+    ],
+    "place_id": "ChIJOe2eVwv0K4gRlYT529iz9xA",
+    "plus_code": {
+      "compound_code": "FF9H+Q5 Waterloo, ON, Canada",
+      "global_code": "86MXFF9H+Q5"
+    },
+    "rating": 4.3,
+    "reference": "ChIJOe2eVwv0K4gRlYT529iz9xA",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 123,
+    "vicinity": "72 Regina Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4932284,
+        "lng": -80.5431533
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4946949802915,
+          "lng": -80.5419648697085
+        },
+        "southwest": {
+          "lat": 43.4919970197085,
+          "lng": -80.5446628302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Co-operators - Drew Hughes Insurance Inc",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102824176067937656860\">F. T.</a>"
+        ],
+        "photo_reference": "AeeoHcJs7nY-6uOdwnjjBAQiibf8cewR0ma2S3hInEPGsz69SKlHC3IhqU7l5qlzahlhHN-NdHgpinoD2OotmSWEZ6aA8szqwXpNWtfRGIfLMn8VZif2w2p_zglXJRVNQzn4WF-9g-oH55L-fvqs7EMheP268U7lPYmbbxNKYF0bz6megXGeLfbTRvlh9gAPyQEXya0YZu_Or_eixSZlLjg1Z7N0mU9j89l18qRBAGViFNqXcNTDOOeUzNbXa0pGJnhjva0tIGxSOtJZZrkd9rbFfNdnQsxbXN4yb1sL1juIds_Lj-PscrBWGugNW0XvXr1nJiHLd4Nt6a8ObpZlU9T7srfomEkDS3lMVadqwhQxwPSZr9_GWDCL6IbJaquaYawNK2YApe7y7icGz46dn0LJFbSziwMoIK285x1kvLPqzPwlEwK0B6BPW3fxO-f7HIz4rsHs6lrgyCkF9pzQsSviNSDItf9gqFv92qUHNIlQUZndwp0QBoV8bYRzq33dZhrlNRqSWYV3l-hJJzcE309C-aBtU19diEip7ezgZJEPakT1d_xWIfXW63hmjeRL25mRvlSik46_OY31zHgGlt6fK4rXpP6O6Z3NEirzxOFpPv19U6WcdAKe_JMZrUVbbFKjYECsfA",
+        "width": 4160
+      }
+    ],
+    "place_id": "ChIJmUh2xar0K4gRvbthr0uKcd0",
+    "plus_code": {
+      "compound_code": "FFV4+7P Waterloo, ON, Canada",
+      "global_code": "86MXFFV4+7P"
+    },
+    "rating": 4.1,
+    "reference": "ChIJmUh2xar0K4gRvbthr0uKcd0",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 37,
+    "vicinity": "550 Parkside Drive Unit B2, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45421450000001,
+        "lng": -80.4990162
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4556989302915,
+          "lng": -80.4978960697085
+        },
+        "southwest": {
+          "lat": 43.4530009697085,
+          "lng": -80.50059403029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Staebler Insurance",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 834,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105714598222057309682\">Staebler Insurance</a>"
+        ],
+        "photo_reference": "AeeoHcIKRa0JjQ3lEwj6g5LA8sMQw-jrYRkpOrgDhy1BkRrj43cqNv4rdZO0Msf5frVD2GIr-auUUXG8TChcw3jfuGvvgLzYojI8jzoig1sbZzkWCw9fJM0o3cTSFOFWDBUNUmnqlFpRp2C5L31Vc555HoMxQcQ8JJ8y07Zz0Yj3qLcOPOhY2117W9WgdMzyHDiymcA0gwUHWu_rZN8SGq7lB9fIFJsaXCa08_h6xyu5iAQ4axwai3bS-11F7SuMzgloKhvIv3Fd5nzsOjOZMJGyOvt26tylIwJzx2YSn1vvl8Mu8c2oPty8BIsmTbdKF4YK72GN-8RdqPY",
+        "width": 1076
+      }
+    ],
+    "place_id": "ChIJE9r086X0K4gRoOU3mbzHvro",
+    "plus_code": {
+      "compound_code": "FG32+M9 Kitchener, ON, Canada",
+      "global_code": "86MXFG32+M9"
+    },
+    "rating": 4.6,
+    "reference": "ChIJE9r086X0K4gRoOU3mbzHvro",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 145,
+    "vicinity": "51 Breithaupt Street #100, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45467499999999,
+        "lng": -80.54589
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45605193029149,
+          "lng": -80.5446045197085
+        },
+        "southwest": {
+          "lat": 43.4533539697085,
+          "lng": -80.5473024802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "John Yari Desjardins Insurance Agent",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104188599540043908898\">Abhinav</a>"
+        ],
+        "photo_reference": "AeeoHcLmfJZT9qB5Q-6oGMB15DQyCMc3rSyzk4fmML4_PmD1saCRbSmiIDPuVUxoUf8vqtBUZCSAHkpwkahVT7aC4vx2YVnP-uFyANaj7Zas22360DLIJwpBG-cQcRQcuzUxbp8sYsu-7G06pHKDRofWusoejVW5Tp8lzJWFSGfce9u6hZCehVOyEnGRXCBuKsswDnmkZZKDiyL-Z4xZ-uPf3D-ztEjkykH-F0LPwUcUVY8rxrHS3b525fyWxKTTICqD336-2zCNUjliTpeZ1HA4t9IeFy2HNGPv1Fq1ytLJSOzlO9pFJm4o6hT61HhKqBwIpPy2IdO1UoQFrzDP51fN_gXjusjC9sTt9W4j-wuUcfBocqkNvlSYOECK01jyWObI_DYghlVLCHMkx2TYyEB0FRfvMy4K-6I8G3An7EW6bPVGvT2l7yfoPwlAm_vitc9AB_H5LiEEw00yWj4hG_IV46-WOg-h6h2Bb60VsiaaiF8JdjQc2GPTKGAtkC6xpp5ADVd-pcCN7UwqukqZ6eedCAbsKnrTFQLkzO1kQRMWi8BO6ZTlWpDnFVeiGOCARS1D8Z-zmxLJIc-fpnrFco9kBewYH_Lk4zz2uiSMll1nqxdfZLb03hGvq7D1_15yKtGuN1x8HD_d",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJBfkXr5_2K4gRtJbSx8SS5vI",
+    "plus_code": {
+      "compound_code": "FF33+VJ Waterloo, ON, Canada",
+      "global_code": "86MXFF33+VJ"
+    },
+    "rating": 4.7,
+    "reference": "ChIJBfkXr5_2K4gRtJbSx8SS5vI",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 29,
+    "vicinity": "347 Erb Street West #2, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45011290000001,
+        "lng": -80.487869
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45139963029149,
+          "lng": -80.4866901697085
+        },
+        "southwest": {
+          "lat": 43.44870166970849,
+          "lng": -80.4893881302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Sun Life Financial Kitchener",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114752298926803575669\">Atif Siddiqui</a>"
+        ],
+        "photo_reference": "AeeoHcKmPyrpL0Cdc18i4wPbHAOrzrlj_tRI2fDKQdJsYuQ7jb7IfedLc2ozLA9jaDVzEwWPSPWawEQxJOExzYb0pC_RY1Bo8f7MMQBjxdMmpj6H9pU7SrdE0NDvVapseWYixBkaQpRoZrWKaSPoBl4vgZNET8KaCYappLO8UueD2dp8nZKQPoCBBcFmkIKkCOQxhyMvVbkXjQ7ntl5U9g5EFV6f2VJfPZaSB-37FWolWK8Dr6wMqGq4qTYl2TNjikKkg6NPZxGB_IKFURNvdLnGLCD3ObMfYooVH1KzPS0b2OV4z0j43_LytgcAY4SdxBd2NZdUr8TnU2I-DAOv_JLV99ZNfBpxxRYUVsWO82DjmFQ86IQAbmtYt78n6v6rDZ7fkfCJYXZepo4ClkY2-8WgHToHjA3VnPpPFlMVJC-LRIAjC56ytwCGmdvtEub4oexexaKSkQVG4-r38yfMpNAna81P5xPGMIEgb-0_F_jWwqu8yVXtAVEcYLBQkFVfwwUVgJFdmZ8vkt3MEBl4Wy1CyLgeTOKtgd0EivoqPoMJ5DUG_Zf6Pc5l2t0ltc75eq666qX8vIc3EcgwPqQirhYa6Wo5Q0FC19UmsseDuM0kX3B5yZuj7WippVLOIgRFIZOa",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJHdLacO30K4gRIAdPH5SXyMw",
+    "plus_code": {
+      "compound_code": "FG26+2V Kitchener, ON, Canada",
+      "global_code": "86MXFG26+2V"
+    },
+    "rating": 1.6,
+    "reference": "ChIJHdLacO30K4gRIAdPH5SXyMw",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "finance",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 17,
+    "vicinity": "22 Frederick Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.485717,
+        "lng": -80.52886
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4868148802915,
+          "lng": -80.52763706970849
+        },
+        "southwest": {
+          "lat": 43.4841169197085,
+          "lng": -80.53033503029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Jacquie Geall Desjardins Insurance Agent",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111954187907988673987\">Jacquie Geall Desjardins Insurance Agent</a>"
+        ],
+        "photo_reference": "AeeoHcJr-R9ro_3zCq7PtIlkZPs0e7YBsClQY4QQclQ3xh7nCXfrjPXhSgMw4K_fr-N2rkU-TjejZCNya_QJ6wE4VPoqR3iHVT3OBmKyqSFggCnZop6S_4PLXN2lJEkhEcf-aaoppBRWgLrZVCSnXesjbBSo58A2fkqFw5Sx4zfRJEcdZuA2ybI54Uyus3s0IfnU7R-1KAf8gllcbDPY5IEeCkkr47Nhytoyt8nuC_PlHS5EhwzI8TX-fjOup1D5-49lyOZJMePzmmpnpdr7lR0Wyxaxs-ogbvTWL3Kv3sNJENqf-jnQnNIqiIL3DkZumfmVnY-HlXO6xWE",
+        "width": 720
+      }
+    ],
+    "place_id": "ChIJ32EXSu7zK4gRjXzN9SFqsi8",
+    "plus_code": {
+      "compound_code": "FFPC+7F Waterloo, ON, Canada",
+      "global_code": "86MXFFPC+7F"
+    },
+    "rating": 4.5,
+    "reference": "ChIJ32EXSu7zK4gRjXzN9SFqsi8",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 11,
+    "vicinity": "420 Weber Street North #202, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45124119999999,
+        "lng": -80.4986447
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4526655302915,
+          "lng": -80.4970946697085
+        },
+        "southwest": {
+          "lat": 43.44996756970851,
+          "lng": -80.49979263029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Cowan Insurance Group",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116803030029559650333\">Cowan Insurance Group</a>"
+        ],
+        "photo_reference": "AeeoHcLfItTf-6_gmTRHgpjlZRfBUjx9U6eoWp8A43d7Gk6vcxM4XnVObPTq1hBXqonrRSwtY8gn4X1b4ZffiLlulwsUkmlq3mRnmCeF261_FSmFRfFjXFJXhyIdJdYen1ZfSzt6bEuXEw4XyXOkgRyLkyQEHmyMGEcSuZ4IUS6grNNOPNirA5hj9bnavdYMEtSr9QXXhidn9Qb67dJyfh7KtmColsZIx4BeZuvNuVOtuHUzNRRmVnuAc4aVZU9zxHbLqJhAeBekSp_wK8xOchQ8ePoQ8xXnuT94xobpMxfEW3y50k2yKDtB0DW9AP58jo3AMXT3IwqMQ-A",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJj49_-qT0K4gRW82r2rHFIOs",
+    "plus_code": {
+      "compound_code": "FG22+FG Kitchener, ON, Canada",
+      "global_code": "86MXFG22+FG"
+    },
+    "rating": 4.1,
+    "reference": "ChIJj49_-qT0K4gRW82r2rHFIOs",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 7,
+    "vicinity": "151 Charles Street West #100, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.417672,
+        "lng": -80.5358823
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.41903643029149,
+          "lng": -80.5344683697085
+        },
+        "southwest": {
+          "lat": 43.41633846970849,
+          "lng": -80.53716633029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Angie DeGroot Desjardins Insurance Agent",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 750,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115975786420875725062\">Angie DeGroot Desjardins Insurance Agent</a>"
+        ],
+        "photo_reference": "AeeoHcIwZFCMzF70wT9dLcxoeWCKlyh_c6H-J6sePZx2cYnGw1hpaJzPSxFEp8TtkB3BcDK3cCxjcx6n6nL2vY9cEaiVFI59ZCnH0wt_bqmrwDjhId9bVqLKV2Bb5zdKr8hTNGK5s6AzKNL5DoeBHB0pnbnL3Wq8lV-izICZ3oCIh91XK3YVuw7fWAL8k1JDHFqyitAhLjxBMYHkXdhss1jRp_SQki9kw368R3h-jP-NC3sTM8CgaPQH1OXNmoien5BmGUxDj7QXLdVtpGhzSEdny64jaw-HFN45oKkmt7tbdejqglFTJQhRzdrxJbWV8rxTHFqucxHhaT0",
+        "width": 1332
+      }
+    ],
+    "place_id": "ChIJmW9ZcN31K4gRqOpg5XN_EoY",
+    "plus_code": {
+      "compound_code": "CF97+3J Kitchener, ON, Canada",
+      "global_code": "86MXCF97+3J"
+    },
+    "rating": 4.8,
+    "reference": "ChIJmW9ZcN31K4gRqOpg5XN_EoY",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 190,
+    "vicinity": "Unit 17, 450 Westheights Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5056307,
+        "lng": -80.5273927
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.50705578029149,
+          "lng": -80.52614631970849
+        },
+        "southwest": {
+          "lat": 43.5043578197085,
+          "lng": -80.5288442802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Jeff Watkin Desjardins Insurance Agent",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101511167286542496582\">Jeff Watkin Desjardins Insurance Agent</a>"
+        ],
+        "photo_reference": "AeeoHcLPwPiHkelCUr7uM9vzNO4GQGTilpSt6CTMsWnmmBN9OndMb6pKYayRayBD49sRbyKXJP7BNqhy3ESi2AmRWVGagWXAuocwoykvz_bubBdrm8OPpkOQT10R7WLDKn7J0o60BGBJE__hr-hnbFFon9VNewUfZvb2u_bRxpAMpOeyUG5ucI-6ngaFd_iSa8UlbhW9Hiddg0mzFZC3Rbs4zY15AMWXvEmZ8pCQTXiCP_MbqAK8ufWMvAGyvdSzC3i-6C6QUrvCq3_CxpCEqmvb_GLPlzK4blAhLaRT5CuYgUp1Za9jq-eY1Jjgvy-EaD4O131kAsuwx1w",
+        "width": 720
+      }
+    ],
+    "place_id": "ChIJ2Qw12s7zK4gRQ06By5LyH3E",
+    "plus_code": {
+      "compound_code": "GF4F+72 Waterloo, ON, Canada",
+      "global_code": "86MXGF4F+72"
+    },
+    "rating": 4.1,
+    "reference": "ChIJ2Qw12s7zK4gRQ06By5LyH3E",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 12,
+    "vicinity": "151 Frobisher Drive Ste 204A, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44260999999999,
+        "lng": -80.544315
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4440131802915,
+          "lng": -80.54293676970849
+        },
+        "southwest": {
+          "lat": 43.4413152197085,
+          "lng": -80.5456347302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dave McKay Desjardins Insurance Agent",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111017586281654162705\">Dave McKay Desjardins Insurance Agent</a>"
+        ],
+        "photo_reference": "AeeoHcLASgCRzJUulPRddpFiVBr7S1YCH-ntkNMZF5FBfbHfxJo08FRqJ5guDhdPD3HbhifIgnP-pcqYBnATgmR5cRVQb8HAFJdWjbtjLFmRDyTj8mKxFxvqakmRsMbASeu8DHjUiG0iIjdVUwveKaMXze9AjQrcQN-WVAwZEYLAOhkru5G_Gv77xxxvQPrdNkjovL78L0TKvud0PRTQQSrrtoBdlcDUCjDa0lGrSXWm8D0C6c1NGuauPxWRf-iKeiINKqF_Vnu0qrRbWJlAHZU4mZ17nyW--8Q1TtJKqQeP7pmlf2PwymonUg0yCbZbuCXXYRKIR-DNwqw",
+        "width": 720
+      }
+    ],
+    "place_id": "ChIJsV20BoL2K4gRSmg6QN_0VXA",
+    "plus_code": {
+      "compound_code": "CFV4+27 Kitchener, ON, Canada",
+      "global_code": "86MXCFV4+27"
+    },
+    "rating": 3.7,
+    "reference": "ChIJsV20BoL2K4gRSmg6QN_0VXA",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 10,
+    "vicinity": "851 Fischer-Hallman Road #206, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4517645,
+        "lng": -80.44450479999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45315473029149,
+          "lng": -80.44298186970849
+        },
+        "southwest": {
+          "lat": 43.4504567697085,
+          "lng": -80.44567983029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "RBC Insurance",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114116832245906880930\">Bryan Pedro</a>"
+        ],
+        "photo_reference": "AeeoHcJzc4UVULGU_GcxF-Mc73Qgj98KFFiv4y6LWG9qjOYXtHHJ4tofuj-HOzbU7UTDehJ1TSXmkt0hG30ysfk1Dgg9QkhghhO7mCf5gX151_cDBH564zerC6gdnG3oZHGkzaeQmmcU0Yt-9RTnp1eohR-BikKehV05u1TCE8iFGKS0MBhP6gln_vnp8fFiGHiDMjQpWaUnb6yRJkuH12RdtO8jHCxpzasAueHmJiIIv3Zpcs9iYjMtIKl1qGvV8OZW2f3pAojUWzuwjd2j0wknWXNXSR80WrldRRk-G8HeJE9c8xI4uAs3rElqtNwIqn5UG1OM-0snBO3wNWBSt569J_FbEsGyWZCSNCeAkoSfg7pOqimhCQ_QVDcFGXx2rLtFcNYNE6sMoYUwcxOTLsQ0rm7QI124zQJa6rjKk-2Z8SFplbK_RHPD7s6k7SseTl_2uCI1Yrn9G2yZBeyf64xH5xQxcPXC2c_f-0j4-06eAOAJgJfzAOoTNORNsqOx4knMifcWMcCvtXW9z_QmJmZ7QnWItMsuwIzewLBsPOVovHl_iAdfyMracVaOqqdgszt6EMtNeznwaxopdcRtgDsjq4jMm8xjHMC7kibYjzLsWLXQo0GYqVkRMGDzDSaKbakTmQ-Pww",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJHe_qZkaLK4gRNb9_QWGGLYQ",
+    "plus_code": {
+      "compound_code": "FH24+P5 Kitchener, ON, Canada",
+      "global_code": "86MXFH24+P5"
+    },
+    "rating": 3.5,
+    "reference": "ChIJHe_qZkaLK4gRNb9_QWGGLYQ",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 40,
+    "vicinity": "1020 Ottawa Street North B, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46105,
+        "lng": -80.5371399
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4622749802915,
+          "lng": -80.5358003697085
+        },
+        "southwest": {
+          "lat": 43.4595770197085,
+          "lng": -80.53849833029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Co-operators - Alpna Chopra, Agent",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1233,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116305691841104010397\">Jay Penney</a>"
+        ],
+        "photo_reference": "AeeoHcLsTmlHTXXRNVQEdsSr1ADljjkFbCV4O_vPManDAPCJV8FIqR1Jr5mAE7fi3W5hkz1GhyT4iJdWjUwWOlavNL73Yb10TD6lGlR2lNpQKPRfiqDWB3glq9K8YA6ECEB0Ns7DANI-57nmBbLxW3O589sIiTd5ZF4NvsNf7_ajwi9ZX-jK9gqiEJbj2okmWTr-Y9IdvW-QOYGbqINyYcueQuR2knzwE3qMue9OTsOlOC9nGT0WSaYW9-aseQkYBOOe25wz_VknR_kINIjVeK5MVAV34EY7zPdj7mbvOSmLq4EiGUNTeumJrCraA7TJnFXjIERms-m1iqfcSBMZr7k0GC27E2FSTgORtwaOyovABWdKXPJZyS6UNFk73eguZ5z8kTdcyclj1RolYAKL_MyMvnt39ekBn6Nn1PyP3Txo61d7p_brxnWIDPYrXMaoh4FYedmZvh4UbYA_M2_1F_KND4LRG838pYa-uRF678-GsCKVT2484UBdI_x0F-JqfCXSwh0vv7T8ovpJVdP60ydpYkBEZpJhwdMN2XvU11T7B1je7Jk-5iE3Ry7I3JN4j9sEBsqlBLb4b-kqvqzK_h2ReHB1sj4XHH1j4NbzrJ0WL8OVhNhBFQobefhVzu0UMiGdS7qCIQ",
+        "width": 2192
+      }
+    ],
+    "place_id": "ChIJAcS_Sa7zK4gRkwDQx-ii70Y",
+    "plus_code": {
+      "compound_code": "FF67+C4 Waterloo, ON, Canada",
+      "global_code": "86MXFF67+C4"
+    },
+    "rating": 2.8,
+    "reference": "ChIJAcS_Sa7zK4gRkwDQx-ii70Y",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 29,
+    "vicinity": "50 Westmount Road North E207, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46642729999999,
+        "lng": -80.5206772
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46770248029149,
+          "lng": -80.5193380697085
+        },
+        "southwest": {
+          "lat": 43.46500451970849,
+          "lng": -80.5220360302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Frost Wealth Management - iA Private Wealth",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1507,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108779359014919621492\">Frost Wealth Management - iA Private Wealth</a>"
+        ],
+        "photo_reference": "AeeoHcJM9jGpQuk5AC2OseWO28xkfUMc-9YMMB9HfeX8BuuoZ2BVsghqDvaVihukNp0iZ145u7Kt9ayZqgkMc5km5c2y9X-K91EAV6Hr1_3lSsMTrNvCe3W6U2LRKQeEGSI711a5nE2HMopgJcC0nkUBeB0Dce0Jx4WTQ72r5irJYMkkYUdXlxudSQyhrSxNC-0O1IoOoanSAwhNwpqFD9gLArp3NI89M4T2gy8xeGIJ-jM7V1qYKWLtySiz34uWr3NQS60r-BUz1cN8JGLye2-snZ7WcOboWnvSxEX73qVw07SAt9yxe7AFer8W_N2eY71DZTejvlHmDOs",
+        "width": 2000
+      }
+    ],
+    "place_id": "ChIJsxYz2nL0K4gR32u3l-RVQ74",
+    "plus_code": {
+      "compound_code": "FF8H+HP Waterloo, ON, Canada",
+      "global_code": "86MXFF8H+HP"
+    },
+    "rating": 5,
+    "reference": "ChIJsxYz2nL0K4gR32u3l-RVQ74",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 12,
+    "vicinity": "30 Dupont Street East #101, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.51630979999999,
+        "lng": -80.5156267
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5177620802915,
+          "lng": -80.51410051970849
+        },
+        "southwest": {
+          "lat": 43.5150641197085,
+          "lng": -80.51679848029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "edjuster Inc",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3186,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101438253648968824231\">Point3D Commercial Imaging</a>"
+        ],
+        "photo_reference": "AeeoHcJ1-h6MLcsJmBDQ1m-s9z1b7nzMBPjuZJqZ3xbCiR6IoAaBoM4yfea3yMhM2EeR-abo9ePpkKq-rwTGnCv2jN8lyJ3cXo11RS_0QyrgJImjWmya4jnM_Sw01YaEZO6GvPv-ck9rQgfxb5YZuvuY3n-KdWctCaUraArK9HrrGYH0TpWdCJiJxw26JvYpBhugResbdzbRoI80ig4s-qUwZWDZwqb4rDNwRIQCaw8VjrZJB7Jcmlw6ABuACjeO43oC6hPGwZiyQcJfSP0AejQKpEajHXmeQ7myvQz7RJAmXMnbQ5JlchkoZRda14_b0SaXvpIVAz1mU6oFzTO2P-kXJaWbTUj3AitZDbMOsSTxsbzqLR5O6DU8Pd2ovgP9idIMDPHJxi828tbwAWGd8uEOo38zOctiWtysgJUefkEvNP9fhedy4WSqQyPH-97SoNQM0awOkuQZJR5K_rDM3gkRXAm4jWxxaESUfLRDsCWMntuxc3aZm5vrkpOz254Atg0KUtyyF1LnFjVYVuexO1vbeqIbnfnPrIHHKRHLM8uCvTxawC2rygQO8OFOIMZqScx-meI_JyBLWFrDz3Of4uLtn4Wx2OIIasu0XLjjfmItEpCfozGQ8aXCHsWQDjpC-AMsVQ5Eyw",
+        "width": 5664
+      }
+    ],
+    "place_id": "ChIJ4yl5TDQEzkwRfXcB8SA7VuQ",
+    "plus_code": {
+      "compound_code": "GF8M+GP Waterloo, ON, Canada",
+      "global_code": "86MXGF8M+GP"
+    },
+    "rating": 3.4,
+    "reference": "ChIJ4yl5TDQEzkwRfXcB8SA7VuQ",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 9,
+    "vicinity": "2300 University Avenue East Suite 200, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5085329,
+        "lng": -80.5264277
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5098848802915,
+          "lng": -80.5250473697085
+        },
+        "southwest": {
+          "lat": 43.5071869197085,
+          "lng": -80.52774533029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Aero Insurance & Wealth Management Corporation",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJsdYc5MvzK4gRTWV8iZCIkQk",
+    "plus_code": {
+      "compound_code": "GF5F+CC Waterloo, ON, Canada",
+      "global_code": "86MXGF5F+CC"
+    },
+    "reference": "ChIJsdYc5MvzK4gRTWV8iZCIkQk",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Suite 1A, 180 Frobisher Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4129238,
+        "lng": -80.47926489999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4143621802915,
+          "lng": -80.47794481970848
+        },
+        "southwest": {
+          "lat": 43.4116642197085,
+          "lng": -80.4806427802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Co-operators - Joseph Balan & Associates Inc",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118141292848437638476\">Marta Borowska</a>"
+        ],
+        "photo_reference": "AeeoHcL1e-eRQvW0plqfkut5URd7FYT4OYDW58CuP3sJ-_PZKcC0aNk27JveOwerMVsQVv-PTkePvq8O2MW5sUoLY6ITHahJ69p044WmexJhdAyy7FzL0-v3z4O7WULs9XqA9t0fi4Qor4CTIl24bYYxenblOiRwDd7dnqAZzZyHIBqzoNsR4PVHidB_p37g2DgA3VhhKOVq_WdUOyrSFIke7NexsLMz7xKA5pJ4S5uJzVJF5Jb88uRFYznEajrxyU2IABYbzvIiBHy85W8BDFfqv5bQmy_raIrEC6tLPYwMkSjLFtKMb4DUjGLjVypiqnN6A5sjEQ5WS0lpNNycME2kuxJM9FEEihdsFqSxyuh1XaugjQv6ccT9dN5gQiad1Osra4xNPZZIW7O8ov1n7ViwvABTN1fvj8BfFloDaJQ1T7bIV6H9443yNvy1D3akncPITxn0Nwf1Hb43ILruz87dPKEE-Y57G9IJRxzq3Q91Nr6SpVCRfpgEKTMoUabfzinHLpjuweau2YaHh-yz0euak-VRJmsfk8_4YlnfJccNh_c7dN-oeragxAtOhG67xaFCaoxVQ0o-zz0MuywByF1m7lHWK49WzjW2MaATS8PCEigYc1h-LihNkhvch0lykt_IZPEaoA",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJoVKOURX1K4gRhtsCbWzDjOg",
+    "plus_code": {
+      "compound_code": "CG7C+57 Kitchener, ON, Canada",
+      "global_code": "86MXCG7C+57"
+    },
+    "rating": 3.7,
+    "reference": "ChIJoVKOURX1K4gRhtsCbWzDjOg",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 45,
+    "vicinity": "700 Strasburg Road Unit 23, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4554199,
+        "lng": -80.4790621
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45669028029149,
+          "lng": -80.47776156970849
+        },
+        "southwest": {
+          "lat": 43.4539923197085,
+          "lng": -80.48045953029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "E. Bollenbach Insurance Brokers",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1020,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114414429873520027730\">E. Bollenbach Insurance Brokers</a>"
+        ],
+        "photo_reference": "AeeoHcKTauk5e5CEksUn0rWx1ubUbKIROEnuyH-gYOtC9nav287iHO5x-OmGdf7KeL1Evf2vyIhY7hD5JDG62v5flIACOY_qlUyJNgIDAfeO9fGoLJFauEU3_WAS5ZZCGqhIBeytd7Z3_-Dy7xoQdogfXcOoRiV7-HPDUf2doMjLdx0rLsvnExrYGFjwWB7fzOIrgluHRH6pazLhfjbggssUYNpm9bPWNtPaBCnhKi8iQb9Igom-JPCrkO19WQDGb96KtZV-Q78y_y1ibl7AQe8u97-_Zmyq5CYHc1lfCijB91y0mJjVAOS42WSOl7CjE6EjFr8XTd4N4Rs",
+        "width": 1360
+      }
+    ],
+    "place_id": "ChIJycx6xpX0K4gRQcapplxYtNY",
+    "plus_code": {
+      "compound_code": "FG4C+59 Kitchener, ON, Canada",
+      "global_code": "86MXFG4C+59"
+    },
+    "rating": 4.3,
+    "reference": "ChIJycx6xpX0K4gRQcapplxYtNY",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 12,
+    "vicinity": "268 Frederick Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4516774,
+        "lng": -80.48338059999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4530774802915,
+          "lng": -80.48193771970848
+        },
+        "southwest": {
+          "lat": 43.4503795197085,
+          "lng": -80.4846356802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "HUB International",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 286,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100954325512153532680\">HUB International</a>"
+        ],
+        "photo_reference": "AeeoHcJ7jlsI5Dw1BzsWBRGL6b0KZ2t0MVi1SuT4-PMRDioGjMYKQdz61tab5BZghasN5DTkJVtMm8ztUVkZg-pozRr9kSvCbTzyn-Nro97QdLTbZoC_hKKfmtrjwa52ACwuzqQVrzYWsladc5tl2Vv5UTBf0P2nUx2ySFj12TG8TRqIiuGMr1LWlfwS9yVKb84uHbJKjj9Mgfk70rISk9ijgaRpH4mER0oZP3DB4uuMsfLtnsOWhqGmadi5BV91CIoc8IXDyrtCWOitXbaOhSqZc3FhQQulGmEcy3kXyFTe21vwxo4F9gI35W0LOMQXkwYGBK3GmxfqiMQ",
+        "width": 500
+      }
+    ],
+    "place_id": "ChIJvzwmrez0K4gRnqjxkEf6a9I",
+    "plus_code": {
+      "compound_code": "FG28+MJ Kitchener, ON, Canada",
+      "global_code": "86MXFG28+MJ"
+    },
+    "rating": 1.8,
+    "reference": "ChIJvzwmrez0K4gRnqjxkEf6a9I",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5,
+    "vicinity": "25 Irvin Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4520737,
+        "lng": -80.488761
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4534705302915,
+          "lng": -80.48753191970849
+        },
+        "southwest": {
+          "lat": 43.4507725697085,
+          "lng": -80.49022988029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Bernhardt Insurance Service Ltd",
+    "place_id": "ChIJa5jQrPL0K4gRMDl35wRTtCw",
+    "plus_code": {
+      "compound_code": "FG26+RF Kitchener, ON, Canada",
+      "global_code": "86MXFG26+RF"
+    },
+    "reference": "ChIJa5jQrPL0K4gRMDl35wRTtCw",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "151 Ontario Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45608879999999,
+        "lng": -80.46132519999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45753218029149,
+          "lng": -80.45986931970849
+        },
+        "southwest": {
+          "lat": 43.45483421970849,
+          "lng": -80.4625672802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "KW Insurance Brokers",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJgeF3dLH0K4gRyPieuq_s1vA",
+    "plus_code": {
+      "compound_code": "FG4Q+CF Kitchener, ON, Canada",
+      "global_code": "86MXFG4Q+CF"
+    },
+    "rating": 4.6,
+    "reference": "ChIJgeF3dLH0K4gRyPieuq_s1vA",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 9,
+    "vicinity": "501 Krug Street Suite 105, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4689321,
+        "lng": -80.4516416
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46998628029149,
+          "lng": -80.4501102197085
+        },
+        "southwest": {
+          "lat": 43.4672883197085,
+          "lng": -80.45280818029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Hancock Insurance",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ345Ed6qMK4gR3-Eso98sBRA",
+    "plus_code": {
+      "compound_code": "FG9X+H8 Kitchener, ON, Canada",
+      "global_code": "86MXFG9X+H8"
+    },
+    "rating": 4.3,
+    "reference": "ChIJ345Ed6qMK4gR3-Eso98sBRA",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 7,
+    "vicinity": "1244 Victoria Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.459246,
+        "lng": -80.485942
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46044828029149,
+          "lng": -80.4844571197085
+        },
+        "southwest": {
+          "lat": 43.4577503197085,
+          "lng": -80.4871550802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Parkwood Financial Services Inc.",
+    "place_id": "ChIJRYbDIrz0K4gRv-TvNtrjYhY",
+    "plus_code": {
+      "compound_code": "FG57+MJ Kitchener, ON, Canada",
+      "global_code": "86MXFG57+MJ"
+    },
+    "rating": 3,
+    "reference": "ChIJRYbDIrz0K4gRv-TvNtrjYhY",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "72 Saint Leger Street Unit 213, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44141399999999,
+        "lng": -80.5019001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4426841802915,
+          "lng": -80.5005136697085
+        },
+        "southwest": {
+          "lat": 43.4399862197085,
+          "lng": -80.5032116302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Tina Nitu and Associates Insurance Brokers Inc",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 251,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114325444812379292123\">Tina Nitu and Associates Insurance Brokers Inc</a>"
+        ],
+        "photo_reference": "AeeoHcLNKkk2C1G1AcF0FW0Tj67K4puBc59RtdfcrcqyarC9jB642f7SSAJKrAP_TBaW2SMmhuMZ8BCWM6USMuxRSAH8BQJVsds7MEG-7cRxISMTMOn4u12U1NUb58bZ-dJzmaquWMPjdiVKRVr3d4ZBvvt2SzRrCUcOZcDcy2nanppe9MJsQFV0jqm2s_ADKIN3OA6EFFgpFjHcFaOqsFhfFj_f6by8GkBumOByP2jS-DtS49p5I3wAli1OOc8x0ICl_9MS_9j6kOssksMHWvuC9i_xKgEtC-s90CGwNMHU7eLcaLGsfL6XfVI-8bZo8pmuJGeQ7Dm3",
+        "width": 300
+      }
+    ],
+    "place_id": "ChIJIeBXf1H0K4gRL0wR9xIiKGU",
+    "plus_code": {
+      "compound_code": "CFRX+H6 Kitchener, ON, Canada",
+      "global_code": "86MXCFRX+H6"
+    },
+    "rating": 4.2,
+    "reference": "ChIJIeBXf1H0K4gRL0wR9xIiKGU",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5,
+    "vicinity": "100 Highland Road West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4478352,
+        "lng": -80.4596248
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4493560802915,
+          "lng": -80.45831911970849
+        },
+        "southwest": {
+          "lat": 43.4466581197085,
+          "lng": -80.46101708029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Luke Jantzi",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJkS8oRcr0K4gRsPBLTr06uGk",
+    "plus_code": {
+      "compound_code": "CGXR+45 Kitchener, ON, Canada",
+      "global_code": "86MXCGXR+45"
+    },
+    "rating": 5,
+    "reference": "ChIJkS8oRcr0K4gRsPBLTr06uGk",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "35 Nottingham Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.451837,
+        "lng": -80.48818
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4530834302915,
+          "lng": -80.4865846197085
+        },
+        "southwest": {
+          "lat": 43.4503854697085,
+          "lng": -80.4892825802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "InsureLine Brokers (Mutual Aid) - Kitchener",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102363536558291332579\">Kelly Walker</a>"
+        ],
+        "photo_reference": "AeeoHcLiPmEONYTBlLDSC8kT5dT6x4sy5z2hHM3gw36Fdp19u8A47yMa1RBMq8_SydzX_XYndv2yd1h-Mj_V9TTTeQ98pNlZGmlBnZy-1aN3EKpwYAyHwLbwu-aLJtjDooYjZ-qCfr4B2xyhhgifam-1iCDbSPtP8VuFSH1fJ2t4p5fqx9MdsmAZWmtEjMpxi8zGArHdEeGnmVH5AVySB_ltZRvrlsxrSEc_c4wiMOc2NSiXjixSBCsWeEKPHN8eNtSZZFtJ0M8ePCz_MCAIC__h2ARv6fiFVO5Vzi7nutRatvtOfb8GQFsaSEnzXO3oicnVvP67O1N2nidSAaRTkHM1LBzxVnl9pQpN3oPutPegdczLOa-PV7VPFFbpw-VtGePSBuQRUE5B9u7tfKUoWqHJ9_iXE-AWcy_kXzZq-EVuE6WG0sEYvCGEWIJ2hZpwejVxAzleLnzF4S5p45wMNmLW16KxA9jyXMACVwMPXiTSt_86X0cBm0_H2ThbtqSK539qkPOaEQodDjlTazg-FpMraiE4d6nnnOUISRfn6JIaakKuIJ5209xO0gjKvssu9tz9qOXDo3kTUSOH64rV2WWXn8Y3csqHSjQlc_r6OGWt3fmJqHAIZzDhYySH-2br50F6SH-5n72QRn41AkI8eUPlnWkV6BE",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJI95isYUHLIgRUp4_Rs5B0Hk",
+    "plus_code": {
+      "compound_code": "FG26+PP Kitchener, ON, Canada",
+      "global_code": "86MXFG26+PP"
+    },
+    "rating": 5,
+    "reference": "ChIJI95isYUHLIgRUp4_Rs5B0Hk",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "50 Queen Street North #705, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4452411,
+        "lng": -80.4928904
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44655323029149,
+          "lng": -80.4915767697085
+        },
+        "southwest": {
+          "lat": 43.44385526970849,
+          "lng": -80.49427473029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Wagner, Livock & Associates Financial Services Inc.",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJHdLacO30K4gR5n1It9RXRZg",
+    "plus_code": {
+      "compound_code": "CGW4+3R Kitchener, ON, Canada",
+      "global_code": "86MXCGW4+3R"
+    },
+    "rating": 5,
+    "reference": "ChIJHdLacO30K4gR5n1It9RXRZg",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "379 Queen Street South Unit 2, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.513126,
+        "lng": -80.519689
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.51443058029149,
+          "lng": -80.5184440197085
+        },
+        "southwest": {
+          "lat": 43.51173261970849,
+          "lng": -80.5211419802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Apperson Insurance Brokers Ltd",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJo_dY7EryK4gRrhqwQUcOLBM",
+    "plus_code": {
+      "compound_code": "GF7J+74 Waterloo, ON, Canada",
+      "global_code": "86MXGF7J+74"
+    },
+    "reference": "ChIJo_dY7EryK4gRrhqwQUcOLBM",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "295 Northfield Drive East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4466136,
+        "lng": -80.4877405
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4480630802915,
+          "lng": -80.48628166970849
+        },
+        "southwest": {
+          "lat": 43.4453651197085,
+          "lng": -80.4889796302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "CuttheRisk",
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111914331311318550538\">neha Mahajan</a>"
+        ],
+        "photo_reference": "AeeoHcI9VYIU-LUCnRK_C7xw4Ol7gRnTp_hlp5KeY35xybMirb6SyTC4wVr03oDeOmkfd9hNlre0CMcnEQId3CMO7ZFicWSHH-U5UbaJ0o5CXnWr6t9L-Sod130DTctcbMPwFi9gMDqCxAkCT57LxbKh9tKZE5N3j-hCpc6H33gmbVHvjGuHPN-jYwEW1MRGl6oORroFNrwQjSQ3l-9DxUMrXniCKLvqWQYuIO5ew-07NAaS47YCo1YtDRKOjHgofMuDroQwi20O72sbwFWxWSlEr3rUAywXG5om9fzT_8CsAOSTRMQ-ndeB9BX_4aNKaZ0p6sqMdBYlrqDiYhjv96QIt4Xp1YwuWr1cLJipByu9kO6A_w-8kzW0pcK1KgNLA_UQOMDbW3mcBnEFzufnXl2pTNNmG51nRDj7yK_ETaicAI4ovkM_SkFZxwLqJn7xy1icLXR_HvJvlHRhSRBglu5AYLJwo08qEZZ7kHl8yBqtpBA1HTDNeXg50fssvMdFegVy8UcV5UgAjFWbc4rG4MZqId9dh878p9ceIEFI1IbRqKWYWQPdzFYjkIzMLmjZerleMA6mhIiiKS65xMKowqoS764JVgkr9ogu3XYyh-7hlb_OalB-tDK0ACSSRGQ5l42v7_NGB9Rg",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJ6zjrD-70K4gR7nyxlmqHS2Q",
+    "plus_code": {
+      "compound_code": "CGW6+JW Kitchener, ON, Canada",
+      "global_code": "86MXCGW6+JW"
+    },
+    "reference": "ChIJ6zjrD-70K4gR7nyxlmqHS2Q",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "81 Church Street #1201, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.493567,
+        "lng": -80.5428891
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4950296302915,
+          "lng": -80.54149376970848
+        },
+        "southwest": {
+          "lat": 43.4923316697085,
+          "lng": -80.5441917302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dundee Wealth Management",
+    "place_id": "ChIJ33V-aeDzK4gRoIN7zIXbwlw",
+    "plus_code": {
+      "compound_code": "FFV4+CR Waterloo, ON, Canada",
+      "global_code": "86MXFFV4+CR"
+    },
+    "reference": "ChIJ33V-aeDzK4gRoIN7zIXbwlw",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "550 Parkside Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5112689,
+        "lng": -80.53369529999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5125560802915,
+          "lng": -80.53251751970849
+        },
+        "southwest": {
+          "lat": 43.5098581197085,
+          "lng": -80.5352154802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Paul Galecki: Primerica - Financial Services",
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107334628590850383405\">Paul Galecki</a>"
+        ],
+        "photo_reference": "AeeoHcK7kQJqexr3mCSBxxfuDkIN_HzxFlKnfxzCh2ziFhkbvrW6V7azK2nB6rIl_6iXrrCznYq2qeCAfXR_gx5tnodkZVGN956WWBIVu3HlenX8aAychLMRvFi63STZlN0ClnR9yWgmP9ds3Ms-80YRJ7FRq2WPMmzkBgrbXd3PNPZSkgHD_NLmXDrqxEnitFqQiEjRtNJXXV9Vq-Jgr0cs5Jep_TvxbLeeFWTylZx5hP3uUFmZvVKQRp0HMwX0AH3HwpHEe1jliIB7nltPg0D7ajWougQ7bPQ3GwgmHOggm0XE8pNJXfbliMMf-YXeQOX86nX70b3X_GS2-bplH_U1dK9LOt9evk0Q2lrMs_5YYKDpWmAjL2lgD_YpEuxgNsD2ILfydCPV_H90kbz4woC4VioU8ZO74SdoAX8B43Z2Isf7UYZVT9x9aod8lMZa4mlk9VMs_muq0y8LsN0rNmL0cALGXNFMLTcwj1ehqlh-XFDlHYyopKZbUqs51ASjA8xhHmGgwWiZ1rmj-mjLlvcdMmwB_Hjc3cMF6q-EAwDV8KReJJWUGzihm04NTditu3rPcdk3v2XKwE2jGzShoA0lpPuNrjePo-JkXLzwTswz2Shdgn4Ibn2NGyZa_fqJGRL9lpfDb3eL",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ7wJk28rzK4gR3_nugnZWtbk",
+    "plus_code": {
+      "compound_code": "GF68+GG Waterloo, ON, Canada",
+      "global_code": "86MXGF68+GG"
+    },
+    "rating": 5,
+    "reference": "ChIJ7wJk28rzK4gR3_nugnZWtbk",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 60,
+    "vicinity": "96 Rankin Street UPPER LEVEL, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4889101,
+        "lng": -80.49413179999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4903172802915,
+          "lng": -80.49283571970848
+        },
+        "southwest": {
+          "lat": 43.4876193197085,
+          "lng": -80.49553368029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Geoff J. Hahn, CFP - Investment Planning Counsel - IPC Waterloo",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1469,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102561676827903325577\">Geoff J. Hahn, CFP - Investment Planning Counsel - IPC Waterloo</a>"
+        ],
+        "photo_reference": "AeeoHcLpvolko_kWw6-VoKB9_TvFEnG09ZxACwlMeaEjQEZZ5JGNKoObQlEnxGBG-JXvBVY-P7uIBT23RbBj1fZbaOfFSSPJ1J7vSJt3alAhds8MfeR1f0IPwRACD2Jn6wGVmDn2fk31YS7A9RUJPU3Ov2VS6SOnPx3Jl3wLSzAu1REjzIRdfWuWR-uW5OWysB36a5WnLCi9wv4t9yzGnzvWjC-QdkbfevxvY2h7lQy0w-6DfEX8WS68EtXA2hZ45u_Z8GtKW-xGbwywDMLjiol46_5wT-o3Q-KKWLiKS-FfB6BMWsSSaDD31B0ZQMFo2cGri3Chj_CfNfo",
+        "width": 920
+      }
+    ],
+    "place_id": "ChIJFxL2nnTzK4gRvSHZlPcHbjw",
+    "plus_code": {
+      "compound_code": "FGQ4+H8 Waterloo, ON, Canada",
+      "global_code": "86MXFGQ4+H8"
+    },
+    "reference": "ChIJFxL2nnTzK4gRvSHZlPcHbjw",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "375 University Avenue, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5056307,
+        "lng": -80.5273927
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.50705578029149,
+          "lng": -80.52614631970849
+        },
+        "southwest": {
+          "lat": 43.5043578197085,
+          "lng": -80.5288442802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Advanced Benefits Consulting",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1310,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104981928717345393797\">Advanced Benefits Consulting</a>"
+        ],
+        "photo_reference": "AeeoHcJXEAEId8RINlzx2w4mP87Zf5DY78-Rl7QU5cyfmIlO1aAEXJswDQufkvivnzQ-51rxWrmk9cr3zm60gLFAT2bRdWP11ZU-lzxXaaG_IVv7sHjlOJULcQl9W0LCTv04f-1veavgsG_52VUS7DAOu69eQ9ZgNUhobbbn8f1LU3Zf0uUkLnOMc2c5CRqZPp-H9YcBcVln-1Ofe0wa5tX55abZvlU4xP2bKWcB01j3F0Jxg9HGoC6uscmOkwZe90dqAyUgYJkK2dFmwUgCtU2oG9Xypxp1O_5q-phzDWFdxjyGzuMJvUmWdVatgl5teO_RHl6y40ORGPs",
+        "width": 2000
+      }
+    ],
+    "place_id": "ChIJh-2ofdvzK4gRp1u8WA9rC4A",
+    "plus_code": {
+      "compound_code": "GF4F+72 Waterloo, ON, Canada",
+      "global_code": "86MXGF4F+72"
+    },
+    "reference": "ChIJh-2ofdvzK4gRp1u8WA9rC4A",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Suite C-111, 151 Frobisher Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5112557,
+        "lng": -80.52212449999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5128068302915,
+          "lng": -80.52058071970849
+        },
+        "southwest": {
+          "lat": 43.5101088697085,
+          "lng": -80.5232786802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Xpera Risk Mitigation and Investigation",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJty1HrsrzK4gRm9Oh7g9okN8",
+    "plus_code": {
+      "compound_code": "GF6H+G5 Waterloo, ON, Canada",
+      "global_code": "86MXGF6H+G5"
+    },
+    "rating": 3,
+    "reference": "ChIJty1HrsrzK4gRm9Oh7g9okN8",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "Suite 202, 725 Bridge Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4951094,
+        "lng": -80.5479138
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.49644843029149,
+          "lng": -80.5469089197085
+        },
+        "southwest": {
+          "lat": 43.4937504697085,
+          "lng": -80.5496068802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Hadjiyianni Financial Group - IPC Securities Corp.",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105973313190021236327\">Hadjiyianni Financial Group</a>"
+        ],
+        "photo_reference": "AeeoHcJcSZuz3w7N2Yah2UNhHxfXSxTHXKM-Y0b5cCyCPi7PafF_MiPEJVXHk6XCtKN9qwvhQRCA3I6Few80o6SMvjB8xzk-DJs5Z3Q9kzPKjldYqMKsZvahYciJiCbeSuIFZ3eEvnFF1SiY74vByTYWql_FZQfLbI-z21C5XF4S2G00rNeDNNXa55dNOECt1_voc02_sIbiTdxEZ34dSl46aEZaJ2Nn6vsoFmZssuD2DzJ9QW8Jt8ERX9MzFJU6tk-KbfOWlN7CpEdfA9VjzsQZR5KfLRGiHO5EX-IeQH--DxyRIfcFfUNe9YM4YLMfwHnsCYhYHi3jdH4",
+        "width": 3000
+      }
+    ],
+    "place_id": "ChIJYS7rjI3zK4gR_5aw3Xx4hkc",
+    "plus_code": {
+      "compound_code": "FFW2+2R Waterloo, ON, Canada",
+      "global_code": "86MXFFW2+2R"
+    },
+    "reference": "ChIJYS7rjI3zK4gR_5aw3Xx4hkc",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "564 Weber Street North #1, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4653024,
+        "lng": -80.52363849999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46660793029151,
+          "lng": -80.52226006970851
+        },
+        "southwest": {
+          "lat": 43.46390996970851,
+          "lng": -80.52495803029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Arthur J. Gallagher Canada",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3410,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101507645573437370958\">Arthur J. Gallagher Canada</a>"
+        ],
+        "photo_reference": "AeeoHcJPeePaQ7kQtE3zlMAi1S2Z5bxrR9avmTjdt43JOJwKk0WQzYXQLenePAvnV1MGbh0h3dsGfJc2sp-vQ-HQQHoVtXeg1USZx6DKjCmGtTDwtJ7UjOvR2JhzhXiRITivZfw1HzuEcuYBW-Vs_bGtwSI0W5Uzs-D6N0sGPMKoqVYc3AG-NRc-Cb95k4PGU9teDKnQ5cxF8j3Z3kRUX6Td7a9cUXx9cZE-ttgA335TLuI6GxPZ0-JMFeToc1YQspb3VZfUNGUZ-MeIKhMZDg7Ux1ncsNe6Df1NecQrAoBexswVfrFLtaWFIRRF5TEb6RyItRn7ZHgycsA",
+        "width": 5115
+      }
+    ],
+    "place_id": "ChIJi579cA30K4gRtqA7KldHvUg",
+    "plus_code": {
+      "compound_code": "FF8G+4G Waterloo, ON, Canada",
+      "global_code": "86MXFF8G+4G"
+    },
+    "rating": 2.1,
+    "reference": "ChIJi579cA30K4gRtqA7KldHvUg",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 15,
+    "vicinity": "20 Erb Street West #100, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46174800000001,
+        "lng": -80.5374452
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4631064802915,
+          "lng": -80.53616316970849
+        },
+        "southwest": {
+          "lat": 43.4604085197085,
+          "lng": -80.53886113029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Canadian Labour Insurance Services",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 498,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106278729331924164140\">Breckles - Unifor Insurance</a>"
+        ],
+        "photo_reference": "AeeoHcLkbux9nOkR2eg9Zicd8_TqVWr2UH_OSRh6mlf4eqedimG3SVzZT63HR1AMZdSQFTdc-VRU3d7qBGtABgxsBGqbAQ9i8_Zd3Ze3JZZDb-kWTzBmIJC9SHWetYQfj33eg0mPYab_VkLfq7nFaHBy8Aa5kFwMoxaxqHVFdYXA-9B6gkOGtBRcerIfYYXO-Nsaf1RQWD0ubgwpVdxmMBM7cAitHJYehw9QyT2wQiacOIvazGA0eFoljFCZrpL9IZAWkc7y4xOF31Qqj9H7cU2OHGurMX8nQLwJmk1OXBcC-iTLotve-hvWu1SPBKjkuhtuBLeRhDsocrs",
+        "width": 1049
+      }
+    ],
+    "place_id": "ChIJgQhc7hv0K4gR5vRBkgwvyGM",
+    "plus_code": {
+      "compound_code": "FF67+M2 Waterloo, ON, Canada",
+      "global_code": "86MXFF67+M2"
+    },
+    "rating": 4.6,
+    "reference": "ChIJgQhc7hv0K4gR5vRBkgwvyGM",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 21,
+    "vicinity": "50 Westmount Road North Suite 221, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4458042,
+        "lng": -80.5127986
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4471344302915,
+          "lng": -80.5115112197085
+        },
+        "southwest": {
+          "lat": 43.4444364697085,
+          "lng": -80.5142091802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Co-operators - Daniel Felicetti and Associates Inc",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100983157876405616641\">Co-operators - Daniel Felicetti and Associates Inc</a>"
+        ],
+        "photo_reference": "AeeoHcJ_LU_gqP4NJeKW6l8gUrbhnYtg0BYAEP5P3wswcxMLXz7VyKURR5D8g7pADbOJMgf06WuyQ5K_aln5yD1HRUMP1iwPuSHw_YMT2upMgxnMP2fo_40O35b2o_ukRd5cFf3BrDz5Xsi9yRHyWsMQal_IAiPnvooV44G3IH7xpnto6ZSgaRO4cdxbxVfaAzb1QOxpx2LJKZcppfwLKsAyZxj2eBvkhrl1I1IITSpufRBxfbPymSJoNWDMy8Yg-GO7IoM3NS6AYBtGfYfgtt3c2jHQbVsQNmqEKDpsxC3Np3Xj6hMRDY3vXEhZcHOS-rICOqtwqkfNYw8",
+        "width": 720
+      }
+    ],
+    "place_id": "ChIJ0-naDEX0K4gR_HTO0v-eH0o",
+    "plus_code": {
+      "compound_code": "CFWP+8V Kitchener, ON, Canada",
+      "global_code": "86MXCFWP+8V"
+    },
+    "rating": 3.6,
+    "reference": "ChIJ0-naDEX0K4gR_HTO0v-eH0o",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 44,
+    "vicinity": "450 Belmont Avenue West Unit 3, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4515844,
+        "lng": -80.48917929999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4527868802915,
+          "lng": -80.48794611970848
+        },
+        "southwest": {
+          "lat": 43.45008891970851,
+          "lng": -80.49064408029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Evergreen Benefits",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJS52wufL0K4gRQHpAlTFVNlc",
+    "plus_code": {
+      "compound_code": "FG26+J8 Kitchener, ON, Canada",
+      "global_code": "86MXFG26+J8"
+    },
+    "reference": "ChIJS52wufL0K4gRQHpAlTFVNlc",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "30 Duke Street West #902, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4792003,
+        "lng": -80.550164
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4803785802915,
+          "lng": -80.54874831970851
+        },
+        "southwest": {
+          "lat": 43.4776806197085,
+          "lng": -80.55144628029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Precept Group Inc",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJKwfw5jTyK4gRm5oleWqmqH4",
+    "plus_code": {
+      "compound_code": "FCHX+MW Waterloo, ON, Canada",
+      "global_code": "86MXFCHX+MW"
+    },
+    "reference": "ChIJKwfw5jTyK4gRm5oleWqmqH4",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "375 Hagey Boulevard #302, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4421438,
+        "lng": -80.49613289999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44362718029149,
+          "lng": -80.49508921970849
+        },
+        "southwest": {
+          "lat": 43.4409292197085,
+          "lng": -80.49778718029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Desjardins Financial Security Independent Network",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 922,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100471687996655717298\">Danielle Cameron</a>"
+        ],
+        "photo_reference": "AeeoHcJIzvIQGr2Yx4xt9jRyQiioVyzN-QgC8Rkn3XB39M_jD1irws6d92FX9p_tD1Jtn43Vn_8PA4hZRlg6fwfEJWlr1-3R2VdolAzEAYKTGxzRTNdkiDLxpASPe8r6jWgmT5yb38bAJ0NnmbGAqg6VU5LOGZosoduEycTJ4JGFSKfSucayQ3STK6uTuGRZEHu_cXngnP-vtW8gFpzZHwDRrApOI2vfe5FlfezWMtivZFKPyAZpQ17tzQASsvVkgmk9qI53hHivIIMHfX55Pm1urUesqzpGAzvncp9Lq9b-BBQx1JryoEYYB8tjPjDKP7KyVMyt8OnedC77XxoZMYuuPJf79HzW0N4jvcwTL_qxfrAC1mR-McoQy3vd9WYxns5q1dAxf7Au4XqPGNENf1QS7xd_azTHXAW92SkBFygIdMImOtyMg_1Eav-v1nos5QSK4snko2QzPZ2Yj89S5_gRXjvb6SwnYqvWiT8rUzstBdn4xW3En8UwF70yygHaI5cA2JzM8d-HcPKrOs4VfsQ5hsedmvORsZ9q1kcHFKmzpvWr2ohMhChjuluTUi78ZEzjnEq_9keiXNpRpKcHxwrIR1UeSv5IIqrQGgOMsSeumaGBp5GOZ9G0O-BepXUEMZd0upqmXw",
+        "width": 1853
+      }
+    ],
+    "place_id": "ChIJs8RsM_j0K4gR65p7xZ0a9qE",
+    "plus_code": {
+      "compound_code": "CGR3+VG Kitchener, ON, Canada",
+      "global_code": "86MXCGR3+VG"
+    },
+    "rating": 4,
+    "reference": "ChIJs8RsM_j0K4gR65p7xZ0a9qE",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "675 Queen Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45594999999999,
+        "lng": -80.47793999999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45723548029149,
+          "lng": -80.47652676970849
+        },
+        "southwest": {
+          "lat": 43.4545375197085,
+          "lng": -80.4792247302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Andrew Lake Desjardins Insurance Agent",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 510,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112564603277484709264\">Andrew Lake Desjardins Insurance Agent</a>"
+        ],
+        "photo_reference": "AeeoHcIIddriMY5rEB9nN2UDVFaaD9Txn4xhSXtfKrN45ouI6F4fI1v7pfxQzC09VhVd6Zej0Io-5KRISt_GS2sbAFXrR1pmwST8PcieL5YsfzoLmx4gkk1wEM_dTUQrpX1etpvKwTpziF1f4sdLsFrepUxyPqM9ZJSc8LYYkDIszwJGtMlQRy0-b0Oh3a1MQUeRdK2Qs_flvvRyxKM5IPXM6g3txbBMIYnzz2mY6-d1dIe00lNJeZUOMNW7rk5UFT3lp0xX_Ib7GVBCMdnwfq4dURnZqPBIzQyQ3DxaB0Z0uCutIsQoCNnZI31rH_bOkxjbcwx8mDgRygY",
+        "width": 510
+      }
+    ],
+    "place_id": "ChIJH011XsP0K4gRvPtLfSuzVBk",
+    "plus_code": {
+      "compound_code": "FG4C+9R Kitchener, ON, Canada",
+      "global_code": "86MXFG4C+9R"
+    },
+    "rating": 5,
+    "reference": "ChIJH011XsP0K4gRvPtLfSuzVBk",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 69,
+    "vicinity": "288 Frederick Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4932284,
+        "lng": -80.5431533
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4947298302915,
+          "lng": -80.54188841970849
+        },
+        "southwest": {
+          "lat": 43.4920318697085,
+          "lng": -80.5445863802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Co-operators - Jennifer Sharer Insurance Group Inc",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 480,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110905510462788026346\">Jennifer Sharer</a>"
+        ],
+        "photo_reference": "AeeoHcLzlc3D0OeMm0KrYj9j5lVazVdou5zO42xpJErb3wi7fNplDtEqd25_qIkbFl-UqQv738yymk96unxKN_unI6hFi2R-Nfxkan1aSRA1e9e_eCunDOp2_aqRjvC6gzJv0Sj7WMElgMQuM-chCEdhUdUDmo1hhO-my-ssw3NrIuj4kHd4MhxeAwSJGl953d-bEi_RhbzdfzGcMAyIhTc9b_HEQhComPz8FQlLg8pDOLC70raJUPonLmVPUwArm0jOycc8gXyQKl7Vhtp2AVmDDHkHX_d9XBjk6YYoM-04NiOyHxfPh25ogLbJWqLAK2_6DBJsfavXi_jE0qAlx_uUT-6ZwUTKW9YOFnJ75ZS436oCaIvyKfLjH2DAxvF-8kPKbhFXv9Pewd6w1__ATnAtqBNdrz_QRneNkgC3iBxYWdg1rG5mXkdw08BPfxRDLb_6UqxKo4_x7DqyrfjRk1FSik92phpIqHobC32JtyYkvZDBXbFAHzuyrKrMn7GbscrFKZMhttbpxaDsz57YL26FhVUYV7VxR4Zgd6Y42zXGFZpnyMJ3ac2NIow6zQbLuM_5cnglcL26PZJbQZMl6exp652oTuM5-iQONQEY9au06pZMFgdjMtYORdHcPJlhqhT14-1uqw",
+        "width": 640
+      }
+    ],
+    "place_id": "ChIJe91bJODzK4gR5EdfgtC3-K4",
+    "plus_code": {
+      "compound_code": "FFV4+7P Waterloo, ON, Canada",
+      "global_code": "86MXFFV4+7P"
+    },
+    "rating": 4.6,
+    "reference": "ChIJe91bJODzK4gR5EdfgtC3-K4",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 72,
+    "vicinity": "550 Parkside Drive B2, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4589962,
+        "lng": -80.47231909999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46038053029149,
+          "lng": -80.4708623197085
+        },
+        "southwest": {
+          "lat": 43.4576825697085,
+          "lng": -80.47356028029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Cunningham Lindsey Canada Limited",
+    "place_id": "ChIJA-ikjbz0K4gRIjfVFFBy_DA",
+    "plus_code": {
+      "compound_code": "FG5H+H3 Kitchener, ON, Canada",
+      "global_code": "86MXFG5H+H3"
+    },
+    "reference": "ChIJA-ikjbz0K4gRIjfVFFBy_DA",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "460 Frederick Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.498306,
+        "lng": -80.533861
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4996321802915,
+          "lng": -80.5324520697085
+        },
+        "southwest": {
+          "lat": 43.4969342197085,
+          "lng": -80.53515003029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Malik Insurance Services",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 427,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109950322572539886104\">Malik Insurance Services</a>"
+        ],
+        "photo_reference": "AeeoHcLpynUG43A7DMY3U0TP9soGLfmm5WBvFN8FhkcOBtbgSFNKOrp1HMML0tgEKtBEo6wdqo7xsklX4JFKdxSKx4gkmrt9Y-iWCskRTpyJyo3_tUjIGv3xSci4aiPJhl1Rs-vaQlIq-jnHoWdTZuejT8Ghrz-V6ugeajAZOawKF4cCQx4topLS__DdDXnWt62hA6PKeTEMMwHWCROvs15qYW3xUDpM4IJa453lGXi_oJYwaLiw_3NdS9wy1WgXZRm3DqWzwU_6oXkxz9etMJzAPxoeSkPVRZb92IphLSkhrXopwdCNDREIP4omDuKO8WKhGf-wFIp7GVw",
+        "width": 321
+      }
+    ],
+    "place_id": "ChIJHdCcpNzzK4gRC_dJ3I34xwY",
+    "plus_code": {
+      "compound_code": "FFX8+8F Waterloo, ON, Canada",
+      "global_code": "86MXFFX8+8F"
+    },
+    "rating": 4.1,
+    "reference": "ChIJHdCcpNzzK4gRC_dJ3I34xwY",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 17,
+    "vicinity": "unit 205, 410 Conestogo Road, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.49691869999999,
+        "lng": -80.541669
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.49841073029149,
+          "lng": -80.53990611970849
+        },
+        "southwest": {
+          "lat": 43.49571276970849,
+          "lng": -80.54260408029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Ontario Teachers Insurance Plan (OTIP)",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 654,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109303598638662025790\">Ontario Teachers Insurance Plan (OTIP)</a>"
+        ],
+        "photo_reference": "AeeoHcLjMH3xOQHqGIjHOYypLxcJOPpam7jnV8DUD_wkQS0EUA3zQpffKkJuvGHRIY2W9zsqj--vuH69ZDYSzqbIj3y_riw653AZth52yXNSCvHfJtpi-5MAJP8j1rVGIHiO20LpaLY8ZUVhZ5T6l1K3YQ5kyKmvqV6XtD2KTxDn9vIg07ZiSfDtpLoIY3UHwUrlTV5e4kBVNaq8pr3d2t7s7_lMydgHsy2H3hrJgoZ_1I9JoayK9HfcQGyrHuolYI7OePj9CsTEv4gHCDIUshXLZjx9ou-otS7gE1AgvDU9JqZGE3tEmQJrLKLC72OKmVKIhS71xeQcV3U",
+        "width": 655
+      }
+    ],
+    "place_id": "ChIJvayaGsnzK4gRacG8oYzn41w",
+    "plus_code": {
+      "compound_code": "FFW5+Q8 Waterloo, ON, Canada",
+      "global_code": "86MXFFW5+Q8"
+    },
+    "rating": 4.6,
+    "reference": "ChIJvayaGsnzK4gRacG8oYzn41w",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1430,
+    "vicinity": "125 Northfield Drive West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4973165,
+        "lng": -80.5411858
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4987365302915,
+          "lng": -80.53980291970849
+        },
+        "southwest": {
+          "lat": 43.4960385697085,
+          "lng": -80.5425008802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Orbit Insurance Services",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJSeHLaN_zK4gR6VOO-STquYo",
+    "plus_code": {
+      "compound_code": "FFW5+WG Waterloo, ON, Canada",
+      "global_code": "86MXFFW5+WG"
+    },
+    "rating": 2.4,
+    "reference": "ChIJSeHLaN_zK4gR6VOO-STquYo",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 14,
+    "vicinity": "125 Northfield Drive West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5137834,
+        "lng": -80.52571089999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.51495033029149,
+          "lng": -80.52446326970849
+        },
+        "southwest": {
+          "lat": 43.51225236970849,
+          "lng": -80.5271612302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Precept International",
+    "place_id": "ChIJyZ2V5zTyK4gRR9t9EfeTD-s",
+    "plus_code": {
+      "compound_code": "GF7F+GP Waterloo, ON, Canada",
+      "global_code": "86MXGF7F+GP"
+    },
+    "reference": "ChIJyZ2V5zTyK4gRR9t9EfeTD-s",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "785 Bridge Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4973433,
+        "lng": -80.54724929999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4988872302915,
+          "lng": -80.54596546970849
+        },
+        "southwest": {
+          "lat": 43.4961892697085,
+          "lng": -80.5486634302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Sun Life Financial North Waterloo Wellington",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116176180670586522097\">BHARATH KUMAR HODEPALLY</a>"
+        ],
+        "photo_reference": "AeeoHcI5rEcW9DkJjlnzxpveSj0OVRXJOe74RHAlFD95iLmTV0lx9AcHjGFWZmJU4EqphrVfcTYZOq6EGeERwzGyq3I4LeUlGq_hqyv-T4Y8zqNwILOTzvm19zsQHk278GKwCE6f6sMwvz7wfbSayq9NfdtdauO2nNbgvC2-CM82BkiHrmcnhqDGi3Os1SEa92_Wl746eE-tKYeMBghVaDG63GarSg8By7e2zUt_mehCwQu72tSJxaLf6hfUILfqfEEQaxyArcKD3FHWQWttp2ws872qq0l-reOsIhPshEERalzebP3E2KUsHZjgcXts7NHY7uYWOnuu_HpDe2DVbc1ZaZ1spzJIPL6MGF-bjF-8lw0SxgUA1Q8nM54fAM1QLYuig02UInV_VvLyQcZnRCwpmuSTvdPrMFbTqcUL3CM3rVJrUu6NCSx3d_a7jOLfXSaEHxoi10NS5kog4Yzl2N4Bb9ny5dDxRprsX_pShFoEHpba7qSqb93aIU0anUaxi9LscxJI-R_EpH56yuGvy1Z0JU-JoAMbwH_FccJ11qOQCn6CJ5vPp9-aDw66AHE_8CbkECuuhxNH0XqProYPIHNQR6MzSQCf_vD7mTU1GX0t6BgwG_fk85rQO9aChiFZgVWM-kiqug",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJM2-WUWDxK4gRjvzPNCufJtY",
+    "plus_code": {
+      "compound_code": "FFW3+W4 Waterloo, ON, Canada",
+      "global_code": "86MXFFW3+W4"
+    },
+    "rating": 2.7,
+    "reference": "ChIJM2-WUWDxK4gRjvzPNCufJtY",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "finance",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 7,
+    "vicinity": "6-180 Northfield Drive West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4974087,
+        "lng": -80.5471963
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4985966302915,
+          "lng": -80.5461678697085
+        },
+        "southwest": {
+          "lat": 43.4958986697085,
+          "lng": -80.5488658302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "T.E.A.M. Financial Solutions",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105242790470995347571\">T.E.A.M. Financial Solutions</a>"
+        ],
+        "photo_reference": "AeeoHcL4z0MW0Cu9bXAD4Id7joA99oqiJUjDYPe1SEh2h_bKF-JPhM3_2Y4Z760Hv68q2mbOnt1ib6Vf4buawMWbcbjXW7gKqqFpf5FaXIXw3oB3pJfiUVt4caedDeL_L_ftEotuIHNi8vIvMyn6DCgILrY_yJ93IAhGVMfUCsm5Ifq9pY9fF_0Iuh5ExwzFAWhUo9fpg5oHY7aFRgaxq1sxEKZ7la6U6FmWpzm6ed2lhp8cMwA5Cu-475sGH8xKX5Jl5bMUFDKx0zhRJk71qWFX_BZNr9QCYKN-4MiX93xVyFhCaztrnaWuYHVS_KPw9-S_D9vYGMQ1DKc",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJL07PcO30K4gRon50xr0QD4s",
+    "plus_code": {
+      "compound_code": "FFW3+X4 Waterloo, ON, Canada",
+      "global_code": "86MXFFW3+X4"
+    },
+    "rating": 5,
+    "reference": "ChIJL07PcO30K4gRon50xr0QD4s",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 20,
+    "vicinity": "180 Northfield Drive West #6, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.43926829999999,
+        "lng": -80.47596589999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44062933029149,
+          "lng": -80.4745613697085
+        },
+        "southwest": {
+          "lat": 43.4379313697085,
+          "lng": -80.4772593302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Harry J. Pring",
+    "place_id": "ChIJZVRQdN30K4gRl5Aq0GtuGTg",
+    "plus_code": {
+      "compound_code": "CGQF+PJ Kitchener, ON, Canada",
+      "global_code": "86MXCGQF+PJ"
+    },
+    "reference": "ChIJZVRQdN30K4gRl5Aq0GtuGTg",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "finance",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "407 Nyberg Street unit #4, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5062197,
+        "lng": -80.5265679
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5076816802915,
+          "lng": -80.5253599697085
+        },
+        "southwest": {
+          "lat": 43.50498371970851,
+          "lng": -80.52805793029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Co-operators - Jeff Lyle Insurance Group Inc",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109933830052065049159\">Jef L</a>"
+        ],
+        "photo_reference": "AeeoHcKut4wuc9xNNxsWwFwhmvchhbXnlEnMd7wkHtNQNmbmVFjgWeexroZ4LDT3rLVEzzAr4gFgFOqYD6yRhbdZV0GGvz6puu-0hMkcWfu6dQq9hsPV8cwY_CAVx03-5OvsIjDyxF4I-GhrvIuOuK126_RZkyipiHAir-dKEgUwQt5EdhLHKlUfdiZCu04eQiprq-TaJbxfdR0BTHOL3y__XGilW2zOGBDYaEsuBmLOSJohZ5Ezd6FSEQQtH4xO1zcvd8KyjDY1owl_RYZA8cKGtai_tfSbjKtDbHizQy83Cf-oZnM5pHnaUQv7f7ey3MEoRRW77IG7iMC1qaAt4cBMTRofJjaKcufnDa4IMSfNdZtrdIUjheT9l0GyMwzJZ5ASaPVp1OUpB3B3qzV8uAipiKXptyqTXGLuD63zzfM2QVWA2zp7j_u_VbxIUSCYj3cVdOwTXDgTFXWJqzh3QcTWdd5G5URtGI5wp6-RR1L6y7ITxCS7nWaHtDdv7lVyEgIe3dH3cDgXzoJSwQGykDMwO_F7mWoIMSnbVEqt2oZA5tIDsJEk2OJmj-1Prnb1sV6k9RfwDWkhce6CeP8SSFQ8NqjEWX7uMrFd2XK7FMt_XnAcL_m8MCTpfQAT1GUjGK7UkED7zQ",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJAcS_Sa7zK4gRoaUzwEjuqLI",
+    "plus_code": {
+      "compound_code": "GF4F+F9 Waterloo, ON, Canada",
+      "global_code": "86MXGF4F+F9"
+    },
+    "rating": 4.8,
+    "reference": "ChIJAcS_Sa7zK4gRoaUzwEjuqLI",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 78,
+    "vicinity": "155 Frobisher Drive Ste. G213-214, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.40407859999999,
+        "lng": -80.5217005
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.40529113029152,
+          "lng": -80.5202857697085
+        },
+        "southwest": {
+          "lat": 43.40259316970852,
+          "lng": -80.5229837302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Life Advice Insurance Inc",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3744,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107185428350834591366\">Life Advice Insurance Inc</a>"
+        ],
+        "photo_reference": "AeeoHcLoOM3YrRAjI5caAUVlsn3nFgpjHvD99c4Q9UBRYhYp3F-Ne_8We9HzdOyyvIyswOiOivCQmBfotijYdpZxwqFqj45gQbHWyRzEKbad1pZKS2dAzkfvDT3OBFIjZpPjuuVSm0TalPHGan_wxoB0k2T8CsfPwB3Da2qIv-gH0vnRCm88Ag3tKZFrE1vGcRqRk6niRh5lzhfTMlmU1EvNmuPqMWk78megDrIK6-QJHX6VjGo85IOL20_Dv7zmlp0-1pMjIIlbXkUrEUhCF1gtkzONLd7Jf9TPiHAsC6F5XbcTigNP0V8sHtAGnny6iIVkTXSgS7f5ltg",
+        "width": 5616
+      }
+    ],
+    "place_id": "ChIJGdSeMvP1K4gR78IdB-QvnGY",
+    "plus_code": {
+      "compound_code": "CF3H+J8 Kitchener, ON, Canada",
+      "global_code": "86MXCF3H+J8"
+    },
+    "rating": 5,
+    "reference": "ChIJGdSeMvP1K4gR78IdB-QvnGY",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 29,
+    "vicinity": "912 Isaiah Place, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.40407859999999,
+        "lng": -80.5217005
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.40529113029152,
+          "lng": -80.5202857697085
+        },
+        "southwest": {
+          "lat": 43.40259316970852,
+          "lng": -80.5229837302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Visitorguard",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1365,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113400392364664082379\">Visitorguard</a>"
+        ],
+        "photo_reference": "AeeoHcKX3oXtBUL3HBno9t5lTAnYMAwZSDTBewJl_I1JiJfFnWocPN9QESMZAeWAAYfq9zZkZuPGrYpk_wDdPLJDwvHlikZPQJcyxY4Oy9SyjZOlRssw1qfr6aT9wDhDh8FrPK-JSUvrspYFhcDu90vLp9yoJI5pKFb-D40-jGEyOyAbeYo4PleCMrzNbpNB_3U1VFXpmkcsb0SPwZshzMSuov8w-gLfNe22xa9MDHybpZgkH7QWXXZvpoqInYIlixrV6UQlwDpUkguMaHj7hElEUbNV1MUe0LnpKvla8jbZc67xpZzRQBm_pGgSkIpS12jqVblU23Zu6iI",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJtc5mM_P1K4gRJf9RI77wLug",
+    "plus_code": {
+      "compound_code": "CF3H+J8 Kitchener, ON, Canada",
+      "global_code": "86MXCF3H+J8"
+    },
+    "rating": 4.9,
+    "reference": "ChIJtc5mM_P1K4gRJf9RI77wLug",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 14,
+    "vicinity": "912 Isaiah Place, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4549886,
+        "lng": -80.43113939999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4564378302915,
+          "lng": -80.42987121970847
+        },
+        "southwest": {
+          "lat": 43.4537398697085,
+          "lng": -80.4325691802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Advance Financial",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJB_LI7m2LK4gR6C_gVkoIVQE",
+    "plus_code": {
+      "compound_code": "FH39+XG Kitchener, ON, Canada",
+      "global_code": "86MXFH39+XG"
+    },
+    "rating": 5,
+    "reference": "ChIJB_LI7m2LK4gR6C_gVkoIVQE",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "36 Ebydale Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.421068,
+        "lng": -80.447074
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.42234553029149,
+          "lng": -80.44574056970849
+        },
+        "southwest": {
+          "lat": 43.4196475697085,
+          "lng": -80.44843853029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Billyard Insurance Group - Kitchener",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 719,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114207229775590312823\">Billyard Insurance Group - Kitchener</a>"
+        ],
+        "photo_reference": "AeeoHcKwnP4xUKoZZvJielMqulhaybeUxJx-FGmfsbAPTc4cMi65UmkLQeCiJrWmGS-QWq1DGyRtKh48D70mj6yJ782vgNy7ekmO3cmnG0iabPt-bY7ZOFXOjbvscKT9vxTeHwuxw3Gq9eG-t1uvZeJ2axAu_f9ZxbHLukegaRsWIEnLXZPoFi-deBa5HL8r5vrbxT_EqC74jDrKlvDAu--0OsOrIqm5NgG8BIFjKqMGy6xgMx67OcLvO88jShzP6q4UcquruIiFDXfA5x_KC9DT3799-bDucgaUxhrSFBW6Drji706TexZZIe1lIdvVt7PYwqAXfg15Ji0",
+        "width": 1280
+      }
+    ],
+    "place_id": "ChIJ1x21ydGKK4gR1XUNWANCOcs",
+    "plus_code": {
+      "compound_code": "CHC3+C5 Kitchener, ON, Canada",
+      "global_code": "86MXCHC3+C5"
+    },
+    "rating": 4.9,
+    "reference": "ChIJ1x21ydGKK4gR1XUNWANCOcs",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 608,
+    "vicinity": "500 Fairway Road South #201, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4083062,
+        "lng": -80.4441574
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4096715302915,
+          "lng": -80.44274436970848
+        },
+        "southwest": {
+          "lat": 43.4069735697085,
+          "lng": -80.4454423302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Primerica",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJL2a2zt_0K4gRsu0Qim5R-rY",
+    "plus_code": {
+      "compound_code": "CH54+88 Kitchener, ON, Canada",
+      "global_code": "86MXCH54+88"
+    },
+    "rating": 5,
+    "reference": "ChIJL2a2zt_0K4gRsu0Qim5R-rY",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 7,
+    "vicinity": "625 Wabanaki Drive #4, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46978910000001,
+        "lng": -80.4108222
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4710603802915,
+          "lng": -80.40928676970849
+        },
+        "southwest": {
+          "lat": 43.4683624197085,
+          "lng": -80.41198473029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Risk Management",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJLWBT-H2MK4gRHTLNqOifqg4",
+    "plus_code": {
+      "compound_code": "FH9Q+WM Breslau, ON, Canada",
+      "global_code": "86MXFH9Q+WM"
+    },
+    "reference": "ChIJLWBT-H2MK4gRHTLNqOifqg4",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "244 Woolwich Street South, Breslau"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.48572,
+        "lng": -80.52886
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4868165802915,
+          "lng": -80.5276377197085
+        },
+        "southwest": {
+          "lat": 43.4841186197085,
+          "lng": -80.5303356802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dave Watters Desjardins Insurance Agent",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110448406680728668638\">Dave Watters Desjardins Insurance Agent</a>"
+        ],
+        "photo_reference": "AeeoHcJTFKBpmxX-UeSBGFd7UbyFXklmeatHh0g8Xa_nW1923VWYKv-IjEGp6R3gNH005GlAvMMAXh4x0xJ1i-NVZcU9ObAPa_rzY8bSpvY8dOw4rC15XOxE5QqVbApB02gmtpjz8cAd1Mhl49-ifOZzm-F6rP-SDgILKuBvlLCBu6Y0ckx-WORKHjCnhPpbfCJgPTk5knco4a0SIaOJqSj-fKv_vPhXmQdJCGXkwplHnqkjHZg-XqU5L_QDKAU5ShjGCHHJiCR_D42KczkXAkzct3_Lqvb1e5B3aPiqWhQDyUhrIccaTyEeVaANgFyoGXGyS8YzcWcYeDM",
+        "width": 4160
+      }
+    ],
+    "place_id": "ChIJd7-rzqDzK4gRiRwbACEHqs8",
+    "plus_code": {
+      "compound_code": "FFPC+7F Waterloo, ON, Canada",
+      "global_code": "86MXFFPC+7F"
+    },
+    "rating": 4.8,
+    "reference": "ChIJd7-rzqDzK4gRiRwbACEHqs8",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 23,
+    "vicinity": "420 Weber Street North #202, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47407210000001,
+        "lng": -80.4775816
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47548183029151,
+          "lng": -80.47621216970849
+        },
+        "southwest": {
+          "lat": 43.47278386970851,
+          "lng": -80.4789101302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "KRGinsure",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 748,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113345012137052122770\">KRGinsure</a>"
+        ],
+        "photo_reference": "AeeoHcKgTyaPezzvlWvgNuB2W_JNwPK32sein2ZXQTIZ3zkODNV8l1ib33MfNIesbnYuQ5_fxhAZrzKk1mwNZJTgazLO40F6dU6NJe28Yuo0U_hjNdkUBCBYNI-8bsL5YrK3iId9wkZxVzm2kqlm1DuT_9jPm9vzmwqawvwvsU1QB18DCqApR_iVbD8sIhdbpFy1w8eqWBJBa66uxGc-KqfO3KhrXi-BgfddHwYxF076FAExsldMgphSy3QReRGtNik5HiMvLFJ37mFF25EYxFLo0waShYtAZbtznHNtKg6RbXQCDwqNnCEWywRb6eLQGeZ5jKzOYMnE",
+        "width": 2056
+      }
+    ],
+    "place_id": "ChIJRYbDIrz0K4gRhLKOBXHNh3Y",
+    "plus_code": {
+      "compound_code": "FGFC+JX Kitchener, ON, Canada",
+      "global_code": "86MXFGFC+JX"
+    },
+    "rating": 4.5,
+    "reference": "ChIJRYbDIrz0K4gRhLKOBXHNh3Y",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 160,
+    "vicinity": "Suite 102, 515 Riverbend Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4515477,
+        "lng": -80.4950016
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4527762302915,
+          "lng": -80.4937419697085
+        },
+        "southwest": {
+          "lat": 43.45007826970851,
+          "lng": -80.4964399302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Steve Kidd Employee Benefits",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJD7VuvPT0K4gR4ekkTYr2jHQ",
+    "plus_code": {
+      "compound_code": "FG23+JX Kitchener, ON, Canada",
+      "global_code": "86MXFG23+JX"
+    },
+    "rating": 3.7,
+    "reference": "ChIJD7VuvPT0K4gR4ekkTYr2jHQ",
+    "scope": "GOOGLE",
+    "types": [
+      "insurance_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "22 Water Street South Suite 100, Kitchener"
+  }
+]

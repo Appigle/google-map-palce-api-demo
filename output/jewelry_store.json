@@ -1,0 +1,2907 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4648772,
+        "lng": -80.4615847
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4662027802915,
+          "lng": -80.46015736970851
+        },
+        "southwest": {
+          "lat": 43.4635048197085,
+          "lng": -80.46285533029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Colonial Acres Coins and Jewellery",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 900,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111016794134504664062\">Colonial Acres Coins and Jewellery</a>"
+        ],
+        "photo_reference": "AeeoHcLygY-pOHf1P-pUGkQ2jIPI1Kito6b9VbRdAoy1yCXMr9acLTsfFaO1l2sIPkq22SpWDA2lhazrD-2Fb-VpYyW7Z3nKePzkuYYPY-MMBjJBWUrS1SkkEGWV56q-oh4QMG0oI1htBUuaygFic_OGBB-5gUbsisDfnYWHcPZxK1QRqwN8Xodj8IfIYZjkW1mm5NtblxZkZxsj6qZyehqc4q1IgIMmrWxYnfhstWbZZz3-chMMIGa6Vv4i8fUSAsct0mN7NaV4uv1_Kk2o9z4oeYMtIoC2xbFVnFKo6Tt3mxX4d2NHfUSZNkS_WsnCqhsy7s4j9zRuhtA",
+        "width": 1200
+      }
+    ],
+    "place_id": "ChIJl6dBO5H0K4gRkmeDCbRZaHA",
+    "plus_code": {
+      "compound_code": "FG7Q+X9 Kitchener, ON, Canada",
+      "global_code": "86MXFG7Q+X9"
+    },
+    "rating": 4.6,
+    "reference": "ChIJl6dBO5H0K4gRkmeDCbRZaHA",
+    "scope": "GOOGLE",
+    "types": [
+      "jewelry_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 521,
+    "vicinity": "991 Victoria Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46503730000001,
+        "lng": -80.5219766
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46635858029151,
+          "lng": -80.5207971697085
+        },
+        "southwest": {
+          "lat": 43.46366061970851,
+          "lng": -80.52349513029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Frank's Jewellers",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 732,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101837444029595602333\">Frank&#39;s Jewellers</a>"
+        ],
+        "photo_reference": "AeeoHcKicepKf6wnt4LB11Ml8-nBkp1-N0Nh7DXL_B5yUAIAZeJOlFlw30CqqPd2SunqcEtnG1zoAcwL-QdsQvSQJIE3fXmMSR634Z-XcBBqeoN9bI9a1RIpsj6tsAfUJmldEfBrvlwiViUPmgNrBKqbhlmqtAliCho7DobaBGRB11BFsLm1vLSgfPMPELzc_L-0I5v6mrFqrQJakdDegeDbKXHWfBizPka2cQKyZxHgAG3_9GwEdjO7pgRYElL1w545elzyO0Yks7ak0AM7Q1BI2niMy0Oa7Gn6MwnEXgDzMo-U1If0u5i95W753iS6hJesR9fzkF4nfvY",
+        "width": 1278
+      }
+    ],
+    "place_id": "ChIJmZw0UA30K4gRHUQy58KbUy4",
+    "plus_code": {
+      "compound_code": "FF8H+26 Waterloo, ON, Canada",
+      "global_code": "86MXFF8H+26"
+    },
+    "rating": 4.9,
+    "reference": "ChIJmZw0UA30K4gRHUQy58KbUy4",
+    "scope": "GOOGLE",
+    "types": [
+      "jewelry_store",
+      "finance",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 96,
+    "vicinity": "8 King Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.49825749999999,
+        "lng": -80.5272407
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4999458802915,
+          "lng": -80.52623616970848
+        },
+        "southwest": {
+          "lat": 43.4972479197085,
+          "lng": -80.5289341302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Peoples Jewellers",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100885210124032448408\">Peoples Jewellers</a>"
+        ],
+        "photo_reference": "AeeoHcLMC-g2bhnIQQ3QEHC7FslAyOoNsNVEApqhCEZFp7LsiJrlfrRYA38QYtXPT7pZx8QIu2HMMLt2lKCam4mbpjqUyrwyKyR1llo0DYUMD07PsKrvYe5kU3MEMQGC_8zCd0EHsQZQNu2BGpEu_huSKIKDaYJbVx-_tZPqJr-q0XG2hJ6gQXIRUtz9_Fw76AistXmSShAdtxxMz2QbcMCTbqk_DwS5SoOKsahEPllgaXw4_Vhhqvq3i1wMg2cca7cH-bbsrwFxRRo_dCD6k5kULWeyzcAYQC9_CmsOCdk39nRSQsMVoj2WD_0Dxi6So0Dsdc5PThsp0n4",
+        "width": 720
+      }
+    ],
+    "place_id": "ChIJY2VDUMHzK4gRvM4Zij0yiPU",
+    "plus_code": {
+      "compound_code": "FFXF+84 Waterloo, ON, Canada",
+      "global_code": "86MXFFXF+84"
+    },
+    "rating": 3.7,
+    "reference": "ChIJY2VDUMHzK4gRvM4Zij0yiPU",
+    "scope": "GOOGLE",
+    "types": [
+      "jewelry_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 174,
+    "vicinity": "550 King Street North A7, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.49742679999999,
+        "lng": -80.5256632
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.49884868029149,
+          "lng": -80.52409766970851
+        },
+        "southwest": {
+          "lat": 43.4961507197085,
+          "lng": -80.52679563029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Charm Diamond Centres",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118141292848437638476\">Marta Borowska</a>"
+        ],
+        "photo_reference": "AeeoHcIdLb0ryfg7jD9Krnd4cJXYINbfJ43kNNI23EVwDuUf9kA7icCEfK78gZVdCNDVn6wpRZ7HseC1sWO4pT_7rEuxwOn_fHKvHZq9nNYkCJxBR8A0zRV8hA9bIus9rrnvWPhdcI_r5lNhou8QsqyqQj_ams3f7Y1-_anWZkem1aT0RztTY1NmGnlqfhbL1hflJs764lnNK_XJcw-LiSrkBBULpRtB6mmk40o_kunplcYxO9sH1uAN9FrcIrvqm0Qvr6ORppdTRf3TrWKNjvlAU5E7gSQd1P97hIZ0g_dKRwLka06rjw2FVUpqbgvnCgGFrvb7ygskGzn0xjLhHbfOHoTAHYW-1Rg3_6Y8KyiA6YJEqQzTFMwKIwT_LTSV7I4GN-v2BbcWPfFDvmdNlYKvbT8yc9s7eubXeBSerk2vHGTySGw7LhyQpZ6nJMh8xbrKw3SDkU0KdwBelr_7bvKHHOuJLqqwNeXAj0n3keYvYmw5lsVroT0ECjy1FYMJF_JN4qJNkZ62SaU3w7PFvfWcr131rAOBNvhpPJ6HSmzwFcie1m4ocmO6nC6dz_QaiXjgR6zgGltls4VkR029d789bev-Xr11a_XioP16bW5ljKFywFslBaSb9vbIR4rDz2DXbHIdYw",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJY2VDUMHzK4gRoSh9XUoEEDc",
+    "plus_code": {
+      "compound_code": "FFWF+XP Waterloo, ON, Canada",
+      "global_code": "86MXFFWF+XP"
+    },
+    "rating": 4.6,
+    "reference": "ChIJY2VDUMHzK4gRoSh9XUoEEDc",
+    "scope": "GOOGLE",
+    "types": [
+      "jewelry_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 140,
+    "vicinity": "550 King St. North Unit G10A, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4246226,
+        "lng": -80.43890080000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4261905302915,
+          "lng": -80.4371212697085
+        },
+        "southwest": {
+          "lat": 43.4234925697085,
+          "lng": -80.4398192302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Peoples Jewellers",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101809294113549249773\">Peoples Jewellers</a>"
+        ],
+        "photo_reference": "AeeoHcIjFrVNwmy52YNCou_GkGnh4NuhB1I_di6bsW2l5qJJTLHTtHbR7vxu-l9lFAn7yKxoo5X21Y98zAUT-asatvbAi0FSTNsixA03aRRxIpAQNWoDag-5CdxjsN-eGFca5N-u3Rnpmw5qVhGcXOw_hN9hd0vWgM3Em4LobVoSBiZzGG59p2GmalxRI6UZmshb2SZinaMhkNfbCccZ59MvlUrXRfJVYgWrjQsQ07LeM7Snfd-wUyeID7YVaOz-3XSxTFjAceh0uRogEjAh6gB4mVxQTQWgk-Ru3kSb-0cgJfA0OHWzTQRkkeZdzC7GL4xgEoFY5wWpEZQ",
+        "width": 720
+      }
+    ],
+    "place_id": "ChIJdSWcNNmKK4gRfQv3eki-eGg",
+    "plus_code": {
+      "compound_code": "CHF6+RC Kitchener, ON, Canada",
+      "global_code": "86MXCHF6+RC"
+    },
+    "rating": 4.3,
+    "reference": "ChIJdSWcNNmKK4gRfQv3eki-eGg",
+    "scope": "GOOGLE",
+    "types": [
+      "jewelry_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 305,
+    "vicinity": "2960 Kingsway Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.454733,
+        "lng": -80.49560699999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4559692802915,
+          "lng": -80.49412886970849
+        },
+        "southwest": {
+          "lat": 43.4532713197085,
+          "lng": -80.4968268302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Arman's Jewellers",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1356,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100168572739216389226\">Arman&#39;s Jewellers</a>"
+        ],
+        "photo_reference": "AeeoHcKDHdhINHQgLW-gxz29QtaqD1m5743nqp2NTkyIlEJEheBAzfDy1fC6NICbw26FeizRIgqoDve23Z0b8ex6n2uGNpghMQLIy_mV6V1OeJ9-9vR7li0vfb4B8wXuH8StNg8631SWVo_mgqL38Q7Mp1cFfBQeNf5gEZtaA_131csT5t-cJOCHeAaxxj9JC1LUTgixWBhhU2cNK69rERj_xdmzeHAjYBFqLa_AG4lSEylxnWgyBFAh0YCuB_FsOE9UFqbrQ4htIM_bWd_CDX0kAev95ufokjs79mNCQ1m1_ZDwM8odZPAg_TnCkKIdJ_Qia-AJ6Cvk8jM",
+        "width": 1344
+      }
+    ],
+    "place_id": "ChIJkZosEYv0K4gRK-2nPm6eA_Q",
+    "plus_code": {
+      "compound_code": "FG33+VQ Kitchener, ON, Canada",
+      "global_code": "86MXFG33+VQ"
+    },
+    "rating": 4.9,
+    "reference": "ChIJkZosEYv0K4gRK-2nPm6eA_Q",
+    "scope": "GOOGLE",
+    "types": [
+      "jewelry_store",
+      "finance",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 247,
+    "vicinity": "70 Victoria Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4412849,
+        "lng": -80.48870149999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44274808029149,
+          "lng": -80.48723081970849
+        },
+        "southwest": {
+          "lat": 43.44005011970849,
+          "lng": -80.48992878029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Cynosure Jewelry",
+    "photos": [
+      {
+        "height": 406,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110189383829368885592\">Cynosure Jewelry</a>"
+        ],
+        "photo_reference": "AeeoHcI9PexeWu5hJUFmZGTqsPpGV2kJ2ZFsNAZOVjQ0MbZn6Nqs9gOMw6HdHkngRbEdNbfJzLwK8n9O0hYdflDBzTiZkReJ3kFdPLmcbfUJyjG5eLo0ebhL-8rQ4rJf7jM4Oc45o54uxWqOJo0jA1zkk12Bxap4IFVer4xOQmv-P99aEB2d0SdIE1Hn01eR3gnRi-vHnU5aihCdX89J29eNvoan4P7qWiKRq07ahH2XOKToXJIkCbl8GZ59W1rRMWBr4twwPCQfDgX1_0A9AXwhTdeicB8VEvCSs0EVuwzBg2tcPHnqrKKp-mSuSM-lfSknw_0zP5HF6K0",
+        "width": 720
+      }
+    ],
+    "place_id": "ChIJWbwG7nL0K4gRo7_UHeh7KZw",
+    "plus_code": {
+      "compound_code": "CGR6+GG Kitchener, ON, Canada",
+      "global_code": "86MXCGR6+GG"
+    },
+    "rating": 5,
+    "reference": "ChIJWbwG7nL0K4gRo7_UHeh7KZw",
+    "scope": "GOOGLE",
+    "types": [
+      "jewelry_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 31,
+    "vicinity": "Globe Studios, 141 Whitney Place #19, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4504281,
+        "lng": -80.5165758
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4517544802915,
+          "lng": -80.51534526970849
+        },
+        "southwest": {
+          "lat": 43.4490565197085,
+          "lng": -80.5180432302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Raquel Excuisit collection",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 572,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100882795875253814197\">Raquel Excuisit collection</a>"
+        ],
+        "photo_reference": "AeeoHcJIZQxofo9RrM1j4u1Om1ojUbBjBwNUdeBFyJ1mBz3285J5Mkst1cKJsjdLyoE55KuORRLYmIZKGwqvVi2v13D0SGEOmrEqoSUvUEkjPBE3fDh7SDeceFyCiHg0HTxzeZPk8Q2MdiSAgdr4mNhxECwsvMGRfRuuNPNB_uz9BUXlfrWZiPc_d7_kOpH8cFST3ELSLvjTBrR-6viHK-SJxgUH92spBX_LSTNy2gqxZ7q7dq90ZOK7oruHZhOAuc4T_PGI_Hw6aER_uUZnWU1gz5kx_sYmqlWGQONzw2cDwEcEvJ8TQ5E1a_iOKzoU2ZHLkLmZZ8qur7s",
+        "width": 746
+      }
+    ],
+    "place_id": "ChIJty_ndSp4LIgRbYqobbxkI88",
+    "plus_code": {
+      "compound_code": "FF2M+59 Kitchener, ON, Canada",
+      "global_code": "86MXFF2M+59"
+    },
+    "rating": 5,
+    "reference": "ChIJty_ndSp4LIgRbYqobbxkI88",
+    "scope": "GOOGLE",
+    "types": [
+      "jewelry_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "565 Belmont Avenue West #8, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45471,
+        "lng": -80.5182899
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45595648029149,
+          "lng": -80.51710921970849
+        },
+        "southwest": {
+          "lat": 43.4532585197085,
+          "lng": -80.51980718029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "DYSTYNCT Boutique",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJkTF51EH0K4gRCq3ypWf851w",
+    "plus_code": {
+      "compound_code": "FF3J+VM Kitchener, ON, Canada",
+      "global_code": "86MXFF3J+VM"
+    },
+    "reference": "ChIJkTF51EH0K4gRCq3ypWf851w",
+    "scope": "GOOGLE",
+    "types": [
+      "jewelry_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "vicinity": "740 Belmont Avenue West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4592688,
+        "lng": -80.48594760000002
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46046088029149,
+          "lng": -80.48445991970851
+        },
+        "southwest": {
+          "lat": 43.4577629197085,
+          "lng": -80.48715788029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "The Studio KW",
+    "photos": [
+      {
+        "height": 1254,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105011089607104139372\">The Studio KW</a>"
+        ],
+        "photo_reference": "AeeoHcLCTxVrsl3DkD9JvkoZwnU3WBl_7VA3QaQeN3WYFssW4eMTZqskgnIyr-rCtUaSErOLh2kTG6IFxRcP6dlZkDqWRc4OApSSZADHhJDDGZcIZA-hbnZyT2J8dspoeuIA0nbgNgaLMoTxMNomUu4YnDISHgj8UppQqvKZQkQZH5Zzt62wUxMgANrJm8axlULoEQr925Pxv30PXEHYq2VnrNSEkh-MeeGoGBwfDCLLsOcMDszYpIwL3qhK_je7lHw8t1zR7FPFf9P2ztjYV7w8KA-0MtkUjJ_xpaCE1gpuFbq8Whw_yGxYjsKq_GiTZSssavFjMJC3vhc",
+        "width": 2508
+      }
+    ],
+    "place_id": "ChIJMd_GU5D0K4gRR0wLaQ2EzFU",
+    "plus_code": {
+      "compound_code": "FG57+PJ Kitchener, ON, Canada",
+      "global_code": "86MXFG57+PJ"
+    },
+    "rating": 4.7,
+    "reference": "ChIJMd_GU5D0K4gRR0wLaQ2EzFU",
+    "scope": "GOOGLE",
+    "types": [
+      "jewelry_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 14,
+    "vicinity": "72 Saint Leger Street #209, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4373107,
+        "lng": -80.5281347
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.43875123029149,
+          "lng": -80.5268639697085
+        },
+        "southwest": {
+          "lat": 43.43605326970849,
+          "lng": -80.52956193029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "telostia",
+    "photos": [
+      {
+        "height": 900,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105388356933623890900\">telostia</a>"
+        ],
+        "photo_reference": "AeeoHcLm-jPdUCF1Uk59yHLL-FI8UwBXQjljWM4Wp2u_uwU8xc9d9xpG8vbqSVXmumdEPSS5i5XphIpcYl2fbiLPGeIWJnUMXbXQgvpseRwA4SODT6KW5ot-jYS49DjGxb46q1bV8P1D282hs0y1YT0EPeNeKCPRa83-xJ3oB_WzSnkAXKfoP52CISPvAbqgeJ_8wO7tNfwFv-p9H_lmr2ufO4qmtFxvrVenDmmj_cxjouABCv3QJWqAywk3w2RCjS710suttYEz0qOxd596q6rgf2-C6bEOUClBFs4PruG680JtTq1j-YblLNRIO8BYmA41AgiLeTZJlUA",
+        "width": 2000
+      }
+    ],
+    "place_id": "ChIJZTYEajP0K4gRU2TrfU5aKHw",
+    "plus_code": {
+      "compound_code": "CFPC+WP Kitchener, ON, Canada",
+      "global_code": "86MXCFPC+WP"
+    },
+    "rating": 5,
+    "reference": "ChIJZTYEajP0K4gRU2TrfU5aKHw",
+    "scope": "GOOGLE",
+    "types": [
+      "jewelry_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 27,
+    "vicinity": "65 Fenwick Court, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4982611,
+        "lng": -80.52757679999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4999009302915,
+          "lng": -80.52623616970848
+        },
+        "southwest": {
+          "lat": 43.4972029697085,
+          "lng": -80.5289341302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "PANDORA",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 831,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102884814698418699128\">TP G.</a>"
+        ],
+        "photo_reference": "AeeoHcJBOF9hrPJ3lvPaOATL-h1CFmTv-cQumD8lC8hDZ0YawWwRXFubYu4SIJgzoxEeTVNw2FB2eb9xImBFDh_zAaFu8-5Y4G5uYNrEb146G8nTHcHSbw6-dPI_4VclKR0wNrodgRqUM80Tlh9kDZfFkVIXAj_KcuVW8zh-xRGOPAzNqMwu4m4qvxsxC7MZLEy3O0Gh9DyVIbJ-EhHBIJAz0QgayGLOURM6C5yii2sxwUDWIFBislhUJRsajotkeRx7P8Ioc7PeZtnZoeuDRnIaO_6RJWlBpy6L4sQViflZhspFYYpOkWCT4ruYI9Gtwopi8ZAU9m3ViNupXoyldfmtu53xtL_8J1-3v_iBvj-11EpjFu6t_rQ0zX_KUp_J1FDGA5kpYhNlJVNiOHWu7nwj3jroCxZMMTn7Nd9UBxMv3rJZmSFJyU58KItzRk6TRG9GJAea2HruoaIq_r6rXQ3blp99894DKGx0zXwQHOLnLXdvjAAUNEPb-3ZDfP3NlYkY5CzaxgiAtKwFQlT-Vx_Sl73d2-WDAxKX5mHKZTUUOkaIf9XTKwzgaAXnsG1uJTDq-3Mz9sfMFlaAuJk5zNWTnTLX3HDVkaXDZuM6GS_v4KWvnpNLy32DufwuY5patXOH",
+        "width": 1477
+      }
+    ],
+    "place_id": "ChIJ80ex-MPzK4gRPzcDK__Gdfg",
+    "plus_code": {
+      "compound_code": "FFXC+8X Waterloo, ON, Canada",
+      "global_code": "86MXFFXC+8X"
+    },
+    "rating": 3.1,
+    "reference": "ChIJ80ex-MPzK4gRPzcDK__Gdfg",
+    "scope": "GOOGLE",
+    "types": [
+      "jewelry_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 116,
+    "vicinity": "550 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4245571,
+        "lng": -80.4388544
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.42615463029151,
+          "lng": -80.4370967697085
+        },
+        "southwest": {
+          "lat": 43.42345666970851,
+          "lng": -80.43979473029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Fossil Store",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111741149029848616871\">BHAVIK PATEL</a>"
+        ],
+        "photo_reference": "AeeoHcJvEY0HMJogMt2DUwTOCd2igjpFwhtoDziFh1L9ccW_rs_p_2Up9_UHg7iE8YI_XRQmVmMadxdtVzmzP30tgeGdL3trrZVSGLp6RbgqRAZad17CoUlMaFfqvEsx_dW-_Xagc9IWJ3t7EwNAhbjIYvwQnNydveMEc7iU93KKbBOosyhfa0a3j_nWdkyxh2eAuAp5U_RxYFqO6SFnPHHJ0yHwWS077gA57odI5ojlGpJf6lszgxSA5yHLsinwPx7tvN6K21YbglEufK6wQZnkWEKOWVETRpUv5W4csya0di-BHLRo59F16AbZtcDjyRw_xGTejGzzqPo-YFGteIr10kBbAF2LzzuZH1GBL-3iHWEUDG8BOort48z1KXITZvpWjqdI7ol2vnhE8JecXhwzVP_VRT5TKW3SCmG4JOOTP8Bt4JTKTgzitlEf7-C7UIJd0Ii_1zu_zVWAjla21T4zZruazSeUZFEHrnZewZGgxhVmICFRuzvT6TsK1pDNc_WHSfW4RaqmbA0toKwppIDWjGMiZtx4IZD7PP_usTvIBe799cIKYgkVXIOmAPe3zXv3ErX3ibhnQWhl1IxCF7wtC9e0OUUYOf7Hai1qOK92q0BPfNvvDpPTBmDRlsaASY3Hz1owIPc0",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJTS6cNNmKK4gR8Yr5IIf8pqc",
+    "plus_code": {
+      "compound_code": "CHF6+RF Kitchener, ON, Canada",
+      "global_code": "86MXCHF6+RF"
+    },
+    "price_level": 3,
+    "rating": 4.3,
+    "reference": "ChIJTS6cNNmKK4gR8Yr5IIf8pqc",
+    "scope": "GOOGLE",
+    "types": [
+      "jewelry_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 223,
+    "vicinity": "Fairview Park, 2960 Kingsway Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45923459999999,
+        "lng": -80.48104339999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46049753029149,
+          "lng": -80.47972101970849
+        },
+        "southwest": {
+          "lat": 43.45779956970849,
+          "lng": -80.48241898029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Stonebridge Imports Ltd",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113744611133586669527\">Stonebridge Imports Ltd</a>"
+        ],
+        "photo_reference": "AeeoHcKAdjY4pQsacj2ANQRDm5zATGAw9I8ZPb7BPxRV2COoW5N_qRf2FuoNlz6mOHUuDgo9V6G0rPlnyQJVSCZH4Qr57xSrcDBll5uJH6xsf87oBAkmApgWGjAT1fIq6E-DCxYdIxO8FQ5T3Q4TnXKm28qfE7n5-4K22NYNX1BIEbowQ1oERnsZZpFpPwqsMnKxCqUPKiMrmkAPm9Ukxzseu1m7DlpPaJazYkO0_-6DFsbbEzAi5Xc4QPAKjHXPvC5RyLLLVhGiBmjqMGFZROELWrPW2m-or7YT_PZTK-KsU1nX3lBHwG5KnXjCqhCYIDXwhzS053nXFsg",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJoVsNNnP0K4gRCZBU76deVU0",
+    "plus_code": {
+      "compound_code": "FG59+MH Kitchener, ON, Canada",
+      "global_code": "86MXFG59+MH"
+    },
+    "rating": 4.8,
+    "reference": "ChIJoVsNNnP0K4gRCZBU76deVU0",
+    "scope": "GOOGLE",
+    "types": [
+      "jewelry_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 411,
+    "vicinity": "396-B Victoria Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.42391490000001,
+        "lng": -80.4404318
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4252885302915,
+          "lng": -80.43928391970849
+        },
+        "southwest": {
+          "lat": 43.4225905697085,
+          "lng": -80.44198188029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Pandora",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103583378488596890483\">Roger Tabares</a>"
+        ],
+        "photo_reference": "AeeoHcKof-7r_S0DWVi5XeZJBP8NRPQQibL0Sc2epFpizlekLyZa9Y8GUnX239Rs2NzZzKX73XryYUy9x3hmUrOupehDB4ZTFHAOFabGJJyVZmUjKR92nK7fQrCDb3cszRVfbtzq_JiWWQIoL8_Sk2myzz7a1RJwwK3LwVHtjb0aMZA2BZ7Uom99q_zoJ-ZJhpDmp6PQV8YxnNGZfstKr4Rxic6ChfDtI2MLqvkmVXPCVwgQUS2s1lp9vufSsBjuwtT6zMdl_-jQpVY9_f_54nkDNxFmOp89BsUY4NVausS99F1DEpWZFlexTvgq5a1JlXeh5EudH8AH91XkKnbdNPzXGhLyfs2VxNximo7o8iV4LS0JjPrp1NHbJtKoT8ipIRSbQW__tVA1uyt4IQ8a2e7bx0D9Y3VKwuB0aOobwealRFYcg3TyhcE5xV_AFIdjl7dHxK6ocZ05C_cO16__tcn22CQUfP9Enq5AxU_T1ivkX3_DJRzEHzNzaubLiGNBqz3FvN6rFO5jAjgdpj7DOvAgzYvmKE02z91JD9NSmb77gm9dapv_kV193DHbBVwTCfO_ed-5iI2bPHX9pkzXpbSlcL4DPiyZdUOOGZ4dtqEmT1vbeXyhwqJSkIynUEZC2aS8MJg45w",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJPW6qX9mKK4gR_AJD5L1VBe4",
+    "plus_code": {
+      "compound_code": "CHF5+HR Kitchener, ON, Canada",
+      "global_code": "86MXCHF5+HR"
+    },
+    "rating": 3.5,
+    "reference": "ChIJPW6qX9mKK4gR_AJD5L1VBe4",
+    "scope": "GOOGLE",
+    "types": [
+      "jewelry_store",
+      "clothing_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 104,
+    "vicinity": "2960 Kingsway Drive Space MO19A, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4249719,
+        "lng": -80.43831709999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.42631033029149,
+          "lng": -80.43686511970849
+        },
+        "southwest": {
+          "lat": 43.42361236970849,
+          "lng": -80.43956308029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Spencer's",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116992612198728049857\">Aquib Wahab Ali</a>"
+        ],
+        "photo_reference": "AeeoHcJ1l9kb7Rm-C9y084mLnrI3-WuGmqDqIJ6aeeAUWaNB1FnXS-CWAzK788xuo-jSjclQAKPVVBoLe5XknOsDYzpElJ18FGTnym74rfUlKmPvC_C6qVvxGp3TCOhVv3wMa1PODWUljQPuAmw26ZVSKwWdnQzZS9PWEC2HtaweMclpQqqclLY0LVu_TWo4AVT-LtL14wxJPW2uHM3wZTXoF0I1LTzkqrxFaVpMNE6h1kl07IpmdFG9c7l7jv-YAo3z7QDjcsdovr4nR3B8hRKYktEX6Q-8GZ6QEt6OPnVsFFXH7nz0LYTemGxkfuK69ziCnA_P3u5jV7Vco1I8WKT9r4AwWIPQ8r8ZTPONM2i4FCLPc-sw7EbQvNWx5d8t868XqYOdrx234PBhCId-YO6JoqfYlbxr_mV7G3lOfLoNsYyongjTXpCUOke5Kqx2mjwk1lsrdl6aqaBD34tnSiY7H5Vt8-Rhf-UlKfWZp_uXmb2qkuis4uCcE_x-dbZ5w_K9aHHw9IS_o7NpOonMjynh8C6mOo6OYYflgQTNPfjk_qSMPG4aktPTM79FOpQPjJbbCX61rkxBmky9zgNyyNWVElRer1rr-_mHZJzvZdbN93e3Iy_6sRlYMiq_HWMZ5B9qKmDFbQ",
+        "width": 3000
+      }
+    ],
+    "place_id": "ChIJ2bIyRdmKK4gRCDNQZhkMrSU",
+    "plus_code": {
+      "compound_code": "CHF6+XM Kitchener, ON, Canada",
+      "global_code": "86MXCHF6+XM"
+    },
+    "price_level": 2,
+    "rating": 4.1,
+    "reference": "ChIJ2bIyRdmKK4gRCDNQZhkMrSU",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "jewelry_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 340,
+    "vicinity": "2960 Kingsway Drive Suite G008B, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4980643,
+        "lng": -80.5272317
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4998500302915,
+          "lng": -80.52623676970849
+        },
+        "southwest": {
+          "lat": 43.4971520697085,
+          "lng": -80.5289347302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Raffi Jewellers Inc.",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 761,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102884814698418699128\">TP G.</a>"
+        ],
+        "photo_reference": "AeeoHcJoNF8yfp921P8MhzARNI8MATN6477gsjooTcvoGjy5xs9axQMq8eia6PvJZzgpdjp-ZxELOBOdesDkDre3Hr2iTVNYxrCEWhIvwA74jTEPtl9GdhC81nq1bBwcaqhuTp7LQOKO_r0VtI5ZEE8TgVSztmWJ3bRpHQPq-9TnVL7jrUNp7VAIG9r5VOaJ4jP_ZUuVUnnQS35hws8_Ih16oGGBguy5rYSCKa5svIOeNz2v3vTvVBonskZEIGkOxwXtrrTyZyNvfJZLKBmPdOTdbbJQxLKAeY7n-nk3mBxBI8umMlY3vj6qyaiRdYBp17cL4CUFzC09iaZP9XQFMUlcGG26OfEO20shqASqYl4ipmqzojxqYxG7MS44DvT9a3ptdbIgnuWz-XZPBF_pUhDEqzmnwkQvb4DDHqbFXEUj4kqCX4Ppv2RiL7UFScxxy8zxC6fzCTurl3O_X06fteyM9NxktJJxjaEWHIxW7lxcvoRwukoCzG-rAhgBLgQ7wjHBW9d_1nQa3GUNsWCiu-9uB2ekbWFLwYm1llr_uiNPdYaOh_NLFwSXy4kSToGIuXlX6M-qRSn5tKgn16F1YDUkE8XVy2NtVmSDamFnol3oV6JRi0JgEYmYAzy6pUJH1PM1PbACaA",
+        "width": 1147
+      }
+    ],
+    "place_id": "ChIJY2VDUMHzK4gRv06qKl-QTlA",
+    "plus_code": {
+      "compound_code": "FFXF+64 Waterloo, ON, Canada",
+      "global_code": "86MXFFXF+64"
+    },
+    "rating": 4.7,
+    "reference": "ChIJY2VDUMHzK4gRv06qKl-QTlA",
+    "scope": "GOOGLE",
+    "types": [
+      "jewelry_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 422,
+    "vicinity": "550 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.438232,
+        "lng": -80.51221269999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4395649802915,
+          "lng": -80.5108563197085
+        },
+        "southwest": {
+          "lat": 43.4368670197085,
+          "lng": -80.5135542802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "John Anthony Jewellers",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3277,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101489639543177896531\">John Anthony Jewellers</a>"
+        ],
+        "photo_reference": "AeeoHcKA85MF-eUrMNjNY-28bpC0Rqj91FCgEel_J7t7OjcGQlz3K4LiYqaIJS5n339Q0-dCAHqc49CIMAl_0gX9WfPlip8Rv2DR0jaoXuQLSi6FyIQp9-I8JY9KZOlsF5m8aUUmxGL1d82_VKJv03ZYhpFNk155ViptEqqvYwxcULifryUZXcfM4kMbr-N-175R753R0rlhDhgBGFxUmhv29NHR0Q1g0cxUEyV7EgcC27Iq-jGsHTZxjZtBFu1qUhohETl6sct2CNP9Y21Z4FX9a0P15NYGA93nvNOKB1eih9530Gk4YHUNTAGaKnFOE8xqB95JrQr8vxo",
+        "width": 3301
+      }
+    ],
+    "place_id": "ChIJIV5EnE30K4gRimyLV6GT_h4",
+    "plus_code": {
+      "compound_code": "CFQQ+74 Kitchener, ON, Canada",
+      "global_code": "86MXCFQQ+74"
+    },
+    "rating": 4.4,
+    "reference": "ChIJIV5EnE30K4gRimyLV6GT_h4",
+    "scope": "GOOGLE",
+    "types": [
+      "jewelry_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 131,
+    "vicinity": "370 Highland Road West Unit 7, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4643495,
+        "lng": -80.5218538
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4656834802915,
+          "lng": -80.5206361697085
+        },
+        "southwest": {
+          "lat": 43.4629855197085,
+          "lng": -80.5233341302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Harmony Jewelry & Co",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110091041174254932131\">Brittany Sheridan</a>"
+        ],
+        "photo_reference": "AeeoHcL5dQCTpOR8XCdqmI5Kij2h0jpdhaZQPNRvKyyU-raTuJwC33K_-7dXJg4d92gx5TliY6WC4PiFPP7WtxP7Vupv0rknC0ZY3xsJ4HIZSrQsGHNGj32vmqTPgTdp6S0mjSEqYzIJ_ZdPhyUqhTviayRpir5ZQaj7patlnxfolPVHLDrPgrRZqm_R35URpJzqeOpFaoFuSsQl26UI8jOSjndyyrGcd4DWTCR4TxcOm8qp_MA3EPVE3n7HRf_R0m6vWtRes2_3cbnqf9MeZtO8jUI05CZsBReSGhuqqaboOHwrQvw4Kezc_t2UxkiSGW2yUBQYYy5uF9zEoOqf8rLb1qfExpNYzf2VQniogU_LG7aQvkvwVPqCz6PygoYFeYirMCKKTyC243xAJbmspXNIdUMUh3D8c4WWaU07hfj3cxumDeAtdKQ_lIFeugFw3BbYt_ljAojUQv9VqTG1huzrNu3OFeDVFz4dPuwzZg6Ldm_D68Ejh_ObT_Qu6f_re_blce64pojogDmpcDDQoRiDQyfwTb8b4JsZKlnxuZ7f9zfBZJaq54h3QOWOw8eYaOcJnG_7GiT7I4MLbKlj5NiiRZ3cnTvA9J8JhqmoGtu4cZGUKzPWhX-xZyp12HtPRfvJGhRkDt1e",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJc8gpqhL0K4gRxE8Aulo4Vaw",
+    "plus_code": {
+      "compound_code": "FF7H+P7 Waterloo, ON, Canada",
+      "global_code": "86MXFF7H+P7"
+    },
+    "rating": 4.8,
+    "reference": "ChIJc8gpqhL0K4gRxE8Aulo4Vaw",
+    "scope": "GOOGLE",
+    "types": [
+      "jewelry_store",
+      "clothing_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 492,
+    "vicinity": "42 King Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4247632,
+        "lng": -80.4387326
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4262608302915,
+          "lng": -80.43708026970849
+        },
+        "southwest": {
+          "lat": 43.4235628697085,
+          "lng": -80.43977823029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "SWAROVSKI",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103646932394830242479\">Aalbin Joshva</a>"
+        ],
+        "photo_reference": "AeeoHcKnTBs9bvo2EJqv38XuZ1DMsyXzyY0hnEavuvsDZ4tcF6IUz8aOW7kdqbaJDKABgftLx1TZpCYKLXlMi70XuVR4RW2HRlskuIUFmLWp5Z_nh-MB2Fw5pNUJTgpNHQQV24PXNS5RwZHUzPKR1pQsF32Hut479FQBSsWHJVgutW8ZeOu8GMNMBKj8xNKJFy2pJ-_1e39yGboR2fnr_HaDiGraVc428WwfRoqVoErnkCzdYLsxj6L5sgr7OKEZGhjNXw0Dq9UyuEXBpezjKz1tEedShZlYanO4M6mktnnqvK4qJCnAec4ExW7J9sGnJ_OJwqSCIVP738btidIjjyQG8xnrecWRKPG9NhnzTNGyLyvzajhrWU1SkNCpj4eYv4A-4iaHPc2Ot0lIUmtOhwr41bg3KLLl6vsUoWRdz5PZlqqjmMtQSm3_lu3HHp8QoJCdjnH4b-0GblK7P9sluwISQHRl43oEVu2b3BT7_45Qacnr9e9nJcALirid25V6xwjQb7e3yqN6H8u5YqvgVU5iyVjeqbnTSguhT-6DNP2a6TSImJtR-5Cg4-8MQEQb-k0m9eu4zAe_C0Q-ZmVz7BpR5HOxePwj3P5q5f2VVlycwd7q3OzNOaQleH-D4vYk7tzRzCSKOw",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ-6rqU9-KK4gRSRAF1DITiqQ",
+    "plus_code": {
+      "compound_code": "CHF6+WG Kitchener, ON, Canada",
+      "global_code": "86MXCHF6+WG"
+    },
+    "price_level": 4,
+    "rating": 3.8,
+    "reference": "ChIJ-6rqU9-KK4gRSRAF1DITiqQ",
+    "scope": "GOOGLE",
+    "types": [
+      "jewelry_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 96,
+    "vicinity": "2960 Kingsway Drive Unit #N012B, 2960 Kingsway Drive Unit #N012B, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.50566999999999,
+        "lng": -80.527328
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.50706368029149,
+          "lng": -80.5258784697085
+        },
+        "southwest": {
+          "lat": 43.50436571970849,
+          "lng": -80.52857643029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Kurtis Jewellers",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2100,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114694596660343561425\">Kurtis Jewellers</a>"
+        ],
+        "photo_reference": "AeeoHcKv2YZbCd_0puWMYp8bFYNTeI5VUkriCMUbgP1dTDHKcNBzh9VKQWT4NEQ4m2ARofkpKiSfbNTPj2QnE3u6HzndN9JXZKvGyntDLm8nH6v-n92RQ0_koXoKxZLsuv810pnwUVZQ3i3UnFnFfyS9i8X55UQk64uKYaObWkPMVi3Bfyj-wZ8sweiD_X_IQrJ_qssNjUVw91Ul3oRNQnlCX1IEQBrrgxzcqkND0aJGkjP4gLk5hHvBKguQnudWe3vGhX0Jx0QM7CumVA2siARV_ZL57l2LxLWJaiYY2LDIOoZyjbkIRpBwAK2VC-qoyG2fg5WN5HWjG88",
+        "width": 3600
+      }
+    ],
+    "place_id": "ChIJPf9J1M7zK4gRVIT28emwLYw",
+    "plus_code": {
+      "compound_code": "GF4F+73 Waterloo, ON, Canada",
+      "global_code": "86MXGF4F+73"
+    },
+    "rating": 4.8,
+    "reference": "ChIJPf9J1M7zK4gRVIT28emwLYw",
+    "scope": "GOOGLE",
+    "types": [
+      "jewelry_store",
+      "finance",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 96,
+    "vicinity": "Suite C-212, 151 Frobisher Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.450486,
+        "lng": -80.490545
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4517899802915,
+          "lng": -80.4892272197085
+        },
+        "southwest": {
+          "lat": 43.4490920197085,
+          "lng": -80.4919251802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Northern Gold Exchange",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115649593126786199999\">Northern Gold Exchange</a>"
+        ],
+        "photo_reference": "AeeoHcI-zJyYd7a7zWNW0hyaSaQexSQeRghbdHp4XXYPTZw3-AAsuAyWt-u5h_doaZQsnjcczGA_euIBjatsf3X5zTKzq8A4_WosZVfL8lvKSLvsPgkga2blbDNnkSrtdIZ1KtV39zX_nUJcSWoOXdvzk_-zqhkzvwu19LhlXyhTmaTy3AB6LDJzbpEat-SQnoedELRw2Tt4glMsD3YXYCCQ_XiGi7bc1nYnC8IGP1xkC80oVxNM1bGi_XHDzrGudtA_7Zwj3GfSvQE_PXzKxU2JfenI0at7VRMUi9v12TnIujX1t_WkKDkGy9ZGRg6zHVrst2rdJw_2ujI",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJxSQ_-_L0K4gRFHeb_P52flQ",
+    "plus_code": {
+      "compound_code": "FG25+5Q Kitchener, ON, Canada",
+      "global_code": "86MXFG25+5Q"
+    },
+    "rating": 3.9,
+    "reference": "ChIJxSQ_-_L0K4gRFHeb_P52flQ",
+    "scope": "GOOGLE",
+    "types": [
+      "jewelry_store",
+      "finance",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 21,
+    "vicinity": "78 King St W, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4239286,
+        "lng": -80.4398993
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4250407802915,
+          "lng": -80.4384893197085
+        },
+        "southwest": {
+          "lat": 43.4223428197085,
+          "lng": -80.4411872802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Michael Hill",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 642,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108230033268693767990\">Brandon McLean</a>"
+        ],
+        "photo_reference": "AeeoHcJkMfLAHgW9_hnhnbuZf7t-ISGz2ourS_gljiNIHRQXzuAv-vB_WjtKrVMJLzfgnUNMEy9Wc8TZHRUYWT8DrBEUJfIbhLDLMaJOqSjxMKhB-_inhwQ85djhcE70BsVf7kXxKKO4akRejR2ncwqdhGrZ_5Lv_YxqGixJCoaJ_3DLy9Pjt23ztWNz6k8-s8wPPzIjEsPYa0c8-4-ltTv59MMKXt3tIB-F7bu4xw7RCEpBsIziC18a6zrUer-yd0y5EuUfZjHeYw1YVFT97AnqWHIvmjGVgA553t6ojWdUulkxkUDaQSuAjilrkM-YmGjMm_4DDrDM4lJICSZHZIYhHNkuVabcOQCnuKWtGt2ZqU5vh51Z4F25ig3zE2_PopWz832Vhyd6jmmsoW7uLHJ7vKx7CFQhkUP-Uj188e82DzwgGeWyJGN2Cl7fKZ6_7VNS3RJiJg8Y1RwjsDoZsQcBslWIAA2V0YCL6UrBpLUnc1xYpVuqOKQjvzvk1g9ogFRHOucNKCreog_Z01mWY_15zAzxCtD2LB41gbtFvX4jdY3y1fEenJpZauHogOtapEl1-LJhIkNzTgDY8Gdwou9w7SSwBSxVupmehX2xiCIBDhkLAjSlGYwfmeO9jmnjJsHAFLqclA",
+        "width": 1139
+      }
+    ],
+    "place_id": "ChIJTS6cNNmKK4gRMkMK169USQI",
+    "plus_code": {
+      "compound_code": "CHF6+H2 Kitchener, ON, Canada",
+      "global_code": "86MXCHF6+H2"
+    },
+    "rating": 4,
+    "reference": "ChIJTS6cNNmKK4gRMkMK169USQI",
+    "scope": "GOOGLE",
+    "types": [
+      "jewelry_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 77,
+    "vicinity": "2960 Kingsway Drive M010A, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4628409,
+        "lng": -80.5214664
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4641698302915,
+          "lng": -80.5202596197085
+        },
+        "southwest": {
+          "lat": 43.4614718697085,
+          "lng": -80.5229575802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Not Your Mother's Jewellery",
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100474168893763995523\">Not Your Mother&#39;s Jewellery</a>"
+        ],
+        "photo_reference": "AeeoHcJLQeuFZM1AB40gJsBMVZq-Q4YtAwDCj8H6nU47Pn43Kg4jxqeundLt7EopFiEmNNNDMkf0_Kyz2tRRy4jTxbTGvxPaYC5YHOPGzylTJOBRvxzc3HWvDDQwkcP1q_I066f7tGqbbVh5C7ccenbp5OqjT6St6r5AQpdDq8T0-IOLm4dmKLnxfAdi-MI3UDMVNntvijvnRs9hcANps4Pa1xsNI-DYSeY0owgRCjD9Q4-HsuNGUXFfVmV_KsGX_Ba1_7F6i86nentShG_nBbwhC9z7VfTj4d4w9_68WqKY-D9aVsryARuzAy6RlBZEkfU3vYu6mFcyJ1U",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJmd6Gww_1K4gRH4ISySZ0Z34",
+    "plus_code": {
+      "compound_code": "FF7H+4C Waterloo, ON, Canada",
+      "global_code": "86MXFF7H+4C"
+    },
+    "rating": 4.7,
+    "reference": "ChIJmd6Gww_1K4gRH4ISySZ0Z34",
+    "scope": "GOOGLE",
+    "types": [
+      "jewelry_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 19,
+    "vicinity": "104 King Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46782229999999,
+        "lng": -80.52101329999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46922903029149,
+          "lng": -80.51968116970849
+        },
+        "southwest": {
+          "lat": 43.46653106970849,
+          "lng": -80.5223791302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Nadia's",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114595817457583994169\">J C</a>"
+        ],
+        "photo_reference": "AeeoHcIItRU17LDugTOHn9MXwXEqzaSL8FleUyn_jp9qjZinW7cD6MercUuX1g7Z3rM4cwFrbG8j8IGA2-e-MKbQ_4c9B8lEqgqwVBnlOcD4b8U_CSmxFklk-So95sjyULOs6HtGWJEqB0GxW2ayxrgkKtTxUtaxaCA8BKLKR_qtZbWuEa-iLybWaCRGAyXrJToP2bBAHXuzXIdCHaTiRrgBSXKXF5RaEM1iBNJq74SNyTdipXDaj1zeNleyjlM752aqATFfzy0cD6XTIco_I-wM-KLZgYGx9MO6wPHZiKyibT5siAbvvzuoDqaPYW63A_hyX08MvI81Dk4A155APApCtWUKe5NFcnKuI7Z1L6IlINGDyz7JogWAYFIg7F0F72gOl5leTdeimI2U8YTSD4P-kZ4s21UfBMBDYtFKjEJFQeTlIGjk5MdS0vnVLY1vWFxFbLO1HbgT_HyMeTXjq6_SjJioEd6pFDlrwIJ1zp2hSSULMpbx5wQf0L7fHeAA5MEofepDTqoaNwmpM42bgbp0vrbdhOlpJg4_RFvVhoEYxmMIt-b1zxAKsmM-GHqUsN_J47AEcYdMlNrhgdUeWeOM7MIKPDwHIfL0B268BZ_wh600c-vaAp7Rdjk8-qf1OQUP",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ1yu9N3P0K4gRL_m7Qe877LU",
+    "plus_code": {
+      "compound_code": "FF9H+4H Waterloo, ON, Canada",
+      "global_code": "86MXFF9H+4H"
+    },
+    "rating": 4.4,
+    "reference": "ChIJ1yu9N3P0K4gRL_m7Qe877LU",
+    "scope": "GOOGLE",
+    "types": [
+      "jewelry_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 7,
+    "vicinity": "27 Bridgeport Road East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.460337,
+        "lng": -80.519055
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4616859802915,
+          "lng": -80.51770601970848
+        },
+        "southwest": {
+          "lat": 43.4589880197085,
+          "lng": -80.5204039802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Torsten Gems Store",
+    "place_id": "ChIJlX3Qi2z0K4gR0PTL_d0Zjrk",
+    "rating": 5,
+    "reference": "ChIJlX3Qi2z0K4gR0PTL_d0Zjrk",
+    "scope": "GOOGLE",
+    "types": [
+      "jewelry_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "King Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4603042,
+        "lng": -80.51870720000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46157223029149,
+          "lng": -80.51734351970849
+        },
+        "southwest": {
+          "lat": 43.4588742697085,
+          "lng": -80.52004148029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Robins Goldsmithing Inc",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1152,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109061656874229113639\">Robins Goldsmithing Inc</a>"
+        ],
+        "photo_reference": "AeeoHcK5GKvdMIEndmUblbqi8tteszt0FhsLJdOYdqKiNQFyd0uqhN5LFOoiajKP-mC9EsYKbl5xHewI7M6R1qlqYnZlddQPeGuTQBHjfSN-iGyu1_w49XGAFB9uS9epmxEtL_OmUpuwW7aiTNOLZCxSKRrj1aJ_m-U2rpiDB4TKb0Kpbbr39KX7mh99-E-ZZ0wx7tzsc-BP0UWhSNgACAN8cOsOUCeY9gaQm_-yHfR0GDZgrqh-MkbGu-gtiXDCqNCuAr2IGvm4lc0QRpNxL6AVLPQNZli7AKG5GI6OXCWNJXthsAlN5rzz9xtiLgljRNf2EIbpSHdnvYU",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJaUe3fCuLK4gRmftsur-RefU",
+    "plus_code": {
+      "compound_code": "FF6J+4G Waterloo, ON, Canada",
+      "global_code": "86MXFF6J+4G"
+    },
+    "rating": 4.9,
+    "reference": "ChIJaUe3fCuLK4gRmftsur-RefU",
+    "scope": "GOOGLE",
+    "types": [
+      "jewelry_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 109,
+    "vicinity": "188 King Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4694188,
+        "lng": -80.5237542
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4707823302915,
+          "lng": -80.52229176970849
+        },
+        "southwest": {
+          "lat": 43.4680843697085,
+          "lng": -80.5249897302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Ascania Jewellery and Futon Delight",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105804738238083402298\">Marcello Scarlato</a>"
+        ],
+        "photo_reference": "AeeoHcLDQ-pPNZ6qWvGVkReop1n8q76OdSS1PtHiKbwVhbR1p9a57V9oBiYJLwxDuSN6WUghXkzC_ocFvi2zJaedRhjXUXPeTnaexN2vJgdZR-CGxSd5WxxBot5WVUV0QLRNbTbSHkooVQq0xyVSl1v6e_Vu4y0od6W-KeUgemc4H9tMzSZopbHisDGEMQ0PAVZ_ZLRKXapf_jLccIDU_yv-PihivqVaRgVM0rZp95olQ_sC-J1pZiUkC-48FYZ03qcu_2knmdJyg5TQsQAxUmQS8F6BQrsIvGAoyym1Lej80fvzJIIGB2wRq53Jeplo8QB3HSfMjTT32fvApdOJy574oMn8ZOz6QF7DxrKzwnWLbQEs4aLeqwzoDg4-wYzz5tVpjiv6CMDwWKQLfQ7B-Cx6xY276DejON6iRzsZT8nRaH4HhetThmacY2NaVztU18GgilHyrCVN2apwNz09Dqu3uv8POw5lxRj5wE9UWg-RRifAVUsp85vqXlhZdQqSsJKtHJ5prnmv_wDOb98b3-eIiO8lyfN1smm-v_HLecChRkzRQBvjWjOvBN5CK6EQ0ToDvso0wwusXKv7I7DRAe3q02We6oN7lckf5462LODWpdypZ5otJ4yi1UCm5VkuaS6ypZ1LXA",
+        "width": 2268
+      }
+    ],
+    "place_id": "ChIJWb5ZfQv0K4gRGWKxZBNf5Bw",
+    "plus_code": {
+      "compound_code": "FF9G+QF Waterloo, ON, Canada",
+      "global_code": "86MXFF9G+QF"
+    },
+    "rating": 4.9,
+    "reference": "ChIJWb5ZfQv0K4gRGWKxZBNf5Bw",
+    "scope": "GOOGLE",
+    "types": [
+      "furniture_store",
+      "home_goods_store",
+      "jewelry_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 8,
+    "vicinity": "113 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4720071,
+        "lng": -80.512732
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47334453029149,
+          "lng": -80.5112474697085
+        },
+        "southwest": {
+          "lat": 43.47064656970849,
+          "lng": -80.5139454302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "MyQueen Gemstone",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ8TSAMwD1K4gRrH6fV3jIEK8",
+    "plus_code": {
+      "compound_code": "FFCP+RW Waterloo, ON, Canada",
+      "global_code": "86MXFFCP+RW"
+    },
+    "rating": 5,
+    "reference": "ChIJ8TSAMwD1K4gRrH6fV3jIEK8",
+    "scope": "GOOGLE",
+    "types": [
+      "jewelry_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5,
+    "vicinity": "130 Lincoln Road #212, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4504281,
+        "lng": -80.5165758
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4517544802915,
+          "lng": -80.51534526970849
+        },
+        "southwest": {
+          "lat": 43.4490565197085,
+          "lng": -80.5180432302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Pawmulets by Raquel",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 638,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102548017447150841937\">Pawmulets by Raquel</a>"
+        ],
+        "photo_reference": "AeeoHcJtXyt8XWRzo2J7FyEuMIH7VHE-7f6ezr1dakyOVS21htym1Wtq6PhFPpWdimROKmPsO4NDc7ofPEoK3VDZhlRVkhfLeK6orGZgHsU9Jyh3cx7STbbIow0f_ijLfj4_OjXmGO5pccM9DTeHmyw01QblhyBIX3GwIyqCDdKkU8tO6gkLqgOP06Qw7IEADo9udhmtGVSKhkfi_G73zBUi3YHWKCAKSernL3nhUlHeoI5-3dhk9-y5ZnGHBGlSabEhvbJI4ILs0zmSsIBntAYTfe0p9RJsPu9fsi9o5ZI2VNo0SM_0CUCXo04xCNGzALuarFn9w6FBamY",
+        "width": 850
+      }
+    ],
+    "place_id": "ChIJ57ipW0H0K4gR_pHSZLsF4OQ",
+    "plus_code": {
+      "compound_code": "FF2M+59 Kitchener, ON, Canada",
+      "global_code": "86MXFF2M+59"
+    },
+    "rating": 5,
+    "reference": "ChIJ57ipW0H0K4gR_pHSZLsF4OQ",
+    "scope": "GOOGLE",
+    "types": [
+      "jewelry_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6,
+    "vicinity": "565 Belmont Avenue West #8, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.457033,
+        "lng": -80.5376035
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4584084302915,
+          "lng": -80.5360914697085
+        },
+        "southwest": {
+          "lat": 43.4557104697085,
+          "lng": -80.5387894302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "MD Trades",
+    "place_id": "ChIJJZW2eMD1K4gRTp6w7zHcwsE",
+    "plus_code": {
+      "compound_code": "FF46+RX Waterloo, ON, Canada",
+      "global_code": "86MXFF46+RX"
+    },
+    "reference": "ChIJJZW2eMD1K4gRTp6w7zHcwsE",
+    "scope": "GOOGLE",
+    "types": [
+      "jewelry_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "43 Melbourne Crescent, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47318169999999,
+        "lng": -80.53658469999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47436283029149,
+          "lng": -80.5352268197085
+        },
+        "southwest": {
+          "lat": 43.47166486970849,
+          "lng": -80.5379247802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "WhisGem",
+    "place_id": "ChIJg7z0RAX1K4gRWt7DFXDSCBU",
+    "plus_code": {
+      "compound_code": "FFF7+79 Waterloo, ON, Canada",
+      "global_code": "86MXFFF7+79"
+    },
+    "reference": "ChIJg7z0RAX1K4gRWt7DFXDSCBU",
+    "scope": "GOOGLE",
+    "types": [
+      "jewelry_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "250 Phillip Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47318169999999,
+        "lng": -80.53658469999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47436283029149,
+          "lng": -80.5352268197085
+        },
+        "southwest": {
+          "lat": 43.47166486970849,
+          "lng": -80.5379247802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Galaxy Jewels",
+    "place_id": "ChIJ9QWqHr_1K4gR5D0lSHb2C2s",
+    "plus_code": {
+      "compound_code": "FFF7+79 Waterloo, ON, Canada",
+      "global_code": "86MXFFF7+79"
+    },
+    "reference": "ChIJ9QWqHr_1K4gR5D0lSHb2C2s",
+    "scope": "GOOGLE",
+    "types": [
+      "jewelry_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "250 Phillip Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45029340000001,
+        "lng": -80.5009584
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4515775802915,
+          "lng": -80.49967676970849
+        },
+        "southwest": {
+          "lat": 43.4488796197085,
+          "lng": -80.5023747302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Amber Tales Permanent Jewelry",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117359875455032615357\">Amber Tales Permanent Jewelry</a>"
+        ],
+        "photo_reference": "AeeoHcJRs6rS-4FY52I9G36avSu-VMnaYrCJgxLRk-mhY7grQJHFdTHSayFY_53NM8ywUFKIKgmZb9yv0wfJmwDMEgqk0jTRVv4pjxavgXQK8HZ3XNEmxZfjBoz2Lz5wT0DsK0lgV6571b7F-w5Em3eDFeXilOaOY1JhCAH8BeYjnwhp83vOJPYmaovYipwyS8FJoy1D7DwvyW7gZe87X3-vj5UTF3hN6dIkd-1et1L-wpjToi5etOs1M92c9zcHIFeqbw1-ZB6RrzfW6q_KHsAN7q0EdEg7b1yFP5hrPfuzXQ1IBtVQkXb4XX4F9tWrhbgiYik1fp3p-fY",
+        "width": 1536
+      }
+    ],
+    "place_id": "ChIJKcIITfP1K4gRSyKawkRt7og",
+    "plus_code": {
+      "compound_code": "FF2X+4J Kitchener, ON, Canada",
+      "global_code": "86MXFF2X+4J"
+    },
+    "rating": 5,
+    "reference": "ChIJKcIITfP1K4gRSyKawkRt7og",
+    "scope": "GOOGLE",
+    "types": [
+      "jewelry_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 13,
+    "vicinity": "100 Garment Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4409982,
+        "lng": -80.5172114
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4423346802915,
+          "lng": -80.51588901970848
+        },
+        "southwest": {
+          "lat": 43.4396367197085,
+          "lng": -80.51858698029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "BandnaCreations",
+    "place_id": "ChIJL9PAPaP1K4gR3EQ_6AXcYUI",
+    "plus_code": {
+      "compound_code": "CFRM+94 Kitchener, ON, Canada",
+      "global_code": "86MXCFRM+94"
+    },
+    "reference": "ChIJL9PAPaP1K4gR3EQ_6AXcYUI",
+    "scope": "GOOGLE",
+    "types": [
+      "jewelry_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "586 Victoria Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44062999999999,
+        "lng": -80.51602
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4419370802915,
+          "lng": -80.5147667197085
+        },
+        "southwest": {
+          "lat": 43.4392391197085,
+          "lng": -80.51746468029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Zenith Gem's",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 10000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112116527156666782666\">Zenith Gem&#39;s</a>"
+        ],
+        "photo_reference": "AeeoHcLzfsC7t1y-8qjJHKRvf8hgL8KDaziHXmw-gB8__8-CncVxhQbd_1TqdEGyjctS1JLS-gpf_3-XSm9jragLZkqtipK1Xr9Rr7Ej5WFgsyiElUVR5WBB6oOaLZtAFvDkVaK1HbT5z6f4BuvVxK5CP5HJMT8ITeBteqJGNqaizqiVYW-JMB7fUPJKhNHsOOVlnQ4djEz8lhNVogAIgpza_IhaioReUdUEybimHiKinLX34u4BQ6mD-UeV1tS5CJJ1dllJLUFcLp57ywEwjHh61H81IvnFeH0zmDHpfYBLTnPb1lK4JzQGux4c8TkvmACy-4NXuEh8yak",
+        "width": 10000
+      }
+    ],
+    "place_id": "ChIJN16a0f-bK4gRg_NI2bCEJiI",
+    "plus_code": {
+      "compound_code": "CFRM+7H Kitchener, ON, Canada",
+      "global_code": "86MXCFRM+7H"
+    },
+    "rating": 5,
+    "reference": "ChIJN16a0f-bK4gRg_NI2bCEJiI",
+    "scope": "GOOGLE",
+    "types": [
+      "jewelry_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "20 Paulander Drive #38, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4406252,
+        "lng": -80.5160315
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4419347802915,
+          "lng": -80.5147725697085
+        },
+        "southwest": {
+          "lat": 43.4392368197085,
+          "lng": -80.5174705302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Ethnic Diva",
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103948160380928422236\">Ethnic Diva</a>"
+        ],
+        "photo_reference": "AeeoHcLZbF2uTiTgc8arREa3s6039Lx_OV4fovgBlfla_TeE1lw-XRX6adiv6II0LR7vRfPphb45_jzV45t0NSn-Nc39Jn0IuLQi1PhbIFqge_IUqpJgs6BcnYd7cUCipoYXQC-gSDEnST6Gc91i51JhCNwXQ2Bg2s2ZLS0-HWfIR4eclTAQceXVLaJ1sR25ZCQgydR82piuQAwu4RhomkJHmQ_m3VOgnOkOwHj3RRSDGyk4GjzNPXt0iKcDODFbLASCxzyLlO--9omG73ZrKEtZOzj54P122J2xLykIDfj8xvesbqvky2V_4NcrNMu9AN2limeLSIpOGuw",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJsbvCq6f1K4gR3-byDipiCh4",
+    "plus_code": {
+      "compound_code": "CFRM+7H Kitchener, ON, Canada",
+      "global_code": "86MXCFRM+7H"
+    },
+    "rating": 5,
+    "reference": "ChIJsbvCq6f1K4gR3-byDipiCh4",
+    "scope": "GOOGLE",
+    "types": [
+      "jewelry_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 44,
+    "vicinity": "20 Paulander Drive #38, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4747767,
+        "lng": -80.4895109
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47610753029149,
+          "lng": -80.4882681197085
+        },
+        "southwest": {
+          "lat": 43.4734095697085,
+          "lng": -80.49096608029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "BT Resale",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1075,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115802041718826045839\">BT Resale</a>"
+        ],
+        "photo_reference": "AeeoHcL2GHNbbAp1Meom1VI7_zLvpUaBQJwZbzZYUragnytNXpTT_JTPtVS29KcWan6dL8LYwi4KwvN4vF3De7ztQoXuZVU_hMtbcWBozbuf_xzdtWdtoMwvgYA466bplzg2BrRS_s9AJv0frmm_46gjbZHLVbGmnfyyKBMs850c1rY2BSg5NetGOxOY_l4zyWW6c1NAO0nPaDjZ_fuCbN3tqEMEZhmEuKDfMjl7Tl4b2GAOQexCScBo7zv_uefCRFQ4tLzP7PKkFmLNQK2DjWDSF1HGu44AP88sOHu4FrpkISD5y2Gwd6mtvWVbW0x5ZoZxzQ6nL6Z3jds",
+        "width": 1075
+      }
+    ],
+    "place_id": "ChIJ__9vwHzzK4gRWtNqxSbZaq8",
+    "plus_code": {
+      "compound_code": "FGF6+W5 Kitchener, ON, Canada",
+      "global_code": "86MXFGF6+W5"
+    },
+    "reference": "ChIJ__9vwHzzK4gRWtNqxSbZaq8",
+    "scope": "GOOGLE",
+    "types": [
+      "electronics_store",
+      "home_goods_store",
+      "jewelry_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "480 Leander Place, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.450645,
+        "lng": -80.49091709999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4519416802915,
+          "lng": -80.48961111970848
+        },
+        "southwest": {
+          "lat": 43.4492437197085,
+          "lng": -80.4923090802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "YW Thrift Boutique",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113408217942430745387\">YW Thrift Boutique</a>"
+        ],
+        "photo_reference": "AeeoHcLITO7udHK3BEOov3PNxUh8v3ZWvukpYDbMbv1FZWRgyxeJIpUV71oe_X3_QI8XJ3xXEwvo5r9pYCmh27epfd-nvSzgHGhzHnTAkrkCKcchdDr6_8CVyWU5AHZyDxGyLlYbV8Z9awJ-dFVzqrse6iChwlub8T1lurEmNb6Y0Z6NBPDiLR6lM3ctgF4c8KW0GdFyNdHUQe54Y-mClXGEBRsazcsU7eK2RR8Is9mzoo_h7I4d7KkGmCFLSQwIZCU4UrYKELQlY8G0QyIx1zBYB5Cf3WNngXF-tLLSYkaUUXMXC5Pa7ZaHgJORcHuIUYzPmjzuPENxj-Y",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJL5owyFL1K4gRlCLkBJp-Fdc",
+    "plus_code": {
+      "compound_code": "FG25+7J Kitchener, ON, Canada",
+      "global_code": "86MXFG25+7J"
+    },
+    "rating": 4.7,
+    "reference": "ChIJL5owyFL1K4gRlCLkBJp-Fdc",
+    "scope": "GOOGLE",
+    "types": [
+      "shoe_store",
+      "jewelry_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 23,
+    "vicinity": "102 King Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45925690000001,
+        "lng": -80.48592169999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4604574802915,
+          "lng": -80.4844469697085
+        },
+        "southwest": {
+          "lat": 43.4577595197085,
+          "lng": -80.4871449302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Kimberly Kropf Jewellery Designs",
+    "photos": [
+      {
+        "height": 3840,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106465304711624455572\">Kimberly Kropf Jewellery Designs</a>"
+        ],
+        "photo_reference": "AeeoHcKCVsc6mB0lSgk7Hjrmyfo_YMrZvUPpeXsREtM0aA4kNi-tDkS5jq8UW0mb8jvX2QfJ6qmgt6EkizT0xl1jALnkHuloi7tODM3rBnhRleMS18Nb9SUtdySGaIElYpCr4BU5j_uMG8_D-AsUk6eGJrlmlO15r_5gmZ2v_pIz-QDsdVRKJJq9bQ8ymuLam_B78qx_UhIuxHDdn1OmcsB-AqD7LA-zrwVN-LISZ9jFmpDjQn3EQ9_Iz_e5wwbuHaptdwoPvDn-gfjrS4mNWVfyEmnYhZ10AH0z6fz4O2StO9sywcjpT0WElYAeFCtc9LmLQ7xH6J3TjHI",
+        "width": 5760
+      }
+    ],
+    "place_id": "ChIJlaBwei71K4gRAm2-lyZLHhU",
+    "plus_code": {
+      "compound_code": "FG57+PJ Kitchener, ON, Canada",
+      "global_code": "86MXFG57+PJ"
+    },
+    "rating": 5,
+    "reference": "ChIJlaBwei71K4gRAm2-lyZLHhU",
+    "scope": "GOOGLE",
+    "types": [
+      "jewelry_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "72 Saint Leger Street Unit 209, Kitchener"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 43.4494239,
+        "lng": -80.4865142
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4510748802915,
+          "lng": -80.4849943197085
+        },
+        "southwest": {
+          "lat": 43.4483769197085,
+          "lng": -80.48769228029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Chang's Jewellery",
+    "permanently_closed": true,
+    "place_id": "ChIJY1RIp-30K4gRwRvJZzQfNJI",
+    "plus_code": {
+      "compound_code": "CGX7+Q9 Kitchener, ON, Canada",
+      "global_code": "86MXCGX7+Q9"
+    },
+    "rating": 1,
+    "reference": "ChIJY1RIp-30K4gRwRvJZzQfNJI",
+    "scope": "GOOGLE",
+    "types": [
+      "jewelry_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Market Square, 25 Frederick Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45923459999999,
+        "lng": -80.48104339999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4604504802915,
+          "lng": -80.47997101970849
+        },
+        "southwest": {
+          "lat": 43.4577525197085,
+          "lng": -80.4826689802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "The Rock Space",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108601786087747373344\">The Rock Space</a>"
+        ],
+        "photo_reference": "AeeoHcKFvsdpDS7jBngjfl27ls2X1d7f0ab2O_knDUkLPImcgVNGV5IXvTpf0qUZK-f0h1GhQn-z61xAGyQ2G99HAPUrbZtYlF_wN932HwdFVe_kD47uxpXVZMbe9xwYUNaLnrWp0KVzCiny2fv7xi7pEebfOsxUva25NHxZulBp81Up0tHAwkZsd2IXyRvhP4SWALOYIfPl3GvrBrJ40pQlKkDP-AglznLi4zfTn7i99tzSsYksdEyjz7yU2-FZTxe5Q2jLAV6c8nr65AzUoogwyQPwjsKH6bP8xMb9_AdSkepS8-emgmQOMGMhyplGR8qodCYLO-jphZg",
+        "width": 1600
+      }
+    ],
+    "place_id": "ChIJywryJKH1K4gRTc8z6kBSvLU",
+    "plus_code": {
+      "compound_code": "FG59+MH Kitchener, ON, Canada",
+      "global_code": "86MXFG59+MH"
+    },
+    "rating": 4.9,
+    "reference": "ChIJywryJKH1K4gRTc8z6kBSvLU",
+    "scope": "GOOGLE",
+    "types": [
+      "jewelry_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 315,
+    "vicinity": "396-B Victoria Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4724624,
+        "lng": -80.4779296
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4738872802915,
+          "lng": -80.47640251970849
+        },
+        "southwest": {
+          "lat": 43.47118931970851,
+          "lng": -80.4791004802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "N/NA by Nina Rachel",
+    "photos": [
+      {
+        "height": 1653,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114692370135921066061\">Nina rRchel Roy</a>"
+        ],
+        "photo_reference": "AeeoHcIT7sAoDI4j1xJkf8rgjhnJ0CywfBI318k3lwgmKRH1UOCZHeAERkwyxonR0KgSnADocdQHXibd-SCgYTkvsZ0tCmcLrNszuCKSO3oV_14PNGMcAWY17zrCmgU8gpIWB5nxT3Bq_DuTNnRbdiskIa-QrVvSkCel7UECIuV19uvIw5Ar2WgxShP0ozXaTiLNKrS0Kj9wyo-SEjogmPSesVp56V3J9Nity7XYqTTZ3cWAr7kLrUT6MBOT2YxSYy1tij0p577jau9vvGrKwPmzDzTdL6mnwgbKR5T5JKJ2_aS0i0hJ0K27ot3ryJjh98kat2BKj7jz1ea-M3hr29t55pfmV_iumMiABCfz_Bp20xCfQiTZnp-f67-eVakCmecTBfotIcSQi-88hixOg1spE0rsJ_-DUqU8R0BY5QrGtBV0amWW6UvZPAx8khfw1kwGLs0hUur3ut5Vz-d9Xb0XYtjksfawzTgPSkzA443681llUCgUxOOsWb_-fj94R94KNeDu2to-toaTYavtC1N3YYbQLltZbyAzAuMwDCjAShizUbQY6LatoeVsmclINogaVx6KP5pZHJIirlT7JqhZBtNApZBba-JRedphA4T8ih9GrehK-HeS2XnKn_HldpAFDDS3kQAX",
+        "width": 1653
+      }
+    ],
+    "place_id": "ChIJseQ47FzzK4gRA6qn92KkKS0",
+    "plus_code": {
+      "compound_code": "FGCC+XR Kitchener, ON, Canada",
+      "global_code": "86MXFGCC+XR"
+    },
+    "reference": "ChIJseQ47FzzK4gRA6qn92KkKS0",
+    "scope": "GOOGLE",
+    "types": [
+      "jewelry_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "100 Campbell Avenue Unit 1E, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4972084,
+        "lng": -80.5267731
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4987215802915,
+          "lng": -80.52445860000002
+        },
+        "southwest": {
+          "lat": 43.4960236197085,
+          "lng": -80.5275446
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Go! Calendars, Toys & Games",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105274524414966419759\">Li Ro</a>"
+        ],
+        "photo_reference": "AeeoHcIIEbq0hyq77mM1ofIMuTTKtV3IfdSybGpbndbktNKOmnea2oWHjoBDUDo-oBIDwVnF9aLTHMKdsuBYzADN94cz9EnloIGYwcwGUN7_TkGFBOcLSCirnAi9rItwwqvh8k3C9Ec-x_b6_qX5bL1hTh5jrrdfAhctO6MLhcmvnjYHc2ZsDxJDeFRpTZ_LfIwDJDdsujzjAQlDjh5TAQhQStt6gf8ZKX_V9MUdUVyVPd0kDj4zNmr73sHfsKh12FzmIeB6yuX0-p0d-WMjedTubLPIGrtD-f5u_xJVkbjeHrLfMUU6SKpgn0LN8g_TBpk_WAzK8XFs0kmytjlO9yoRPw_z5d_zbV5EpVuvtqEvlsDkijEtL4Dib9FvqFOFhnvMLlMvovHZtMBpMymxXo9bOsA4_Z1tV3Rtvjp_NEM-xtEE6xIMuxWacRqotbQETf5MEP9pLtB0rz9IQNdiuYClwPGux8Dble7KntD1SW3lNH7Q_wmMNXMfo42xyU0mOG8TC2F5ikFfQU0KFCDPhrjx9wiI9DA9bjlV8b_q9n6wfzb_KCoUbT0K76C3uKtja0oQpG2vfJc7d9_wg9kK5BAS1JQZuNZbpEpc1pZot7iLz2AG7yiYmDZqQ-R0oN2WpoOYmsGV-Q",
+        "width": 3000
+      }
+    ],
+    "place_id": "ChIJWSlXDDrzK4gRza9It9HUlfU",
+    "plus_code": {
+      "compound_code": "FFWF+V7 Waterloo, ON, Canada",
+      "global_code": "86MXFFWF+V7"
+    },
+    "rating": 3.3,
+    "reference": "ChIJWSlXDDrzK4gRza9It9HUlfU",
+    "scope": "GOOGLE",
+    "types": [
+      "jewelry_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "550 King Street North Unit H5, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4972192,
+        "lng": -80.5268602
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4987448802915,
+          "lng": -80.52441505
+        },
+        "southwest": {
+          "lat": 43.4960469197085,
+          "lng": -80.52767524999999
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Michael Hill Conestoga Jewelry Store",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1190,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115993016824702505155\">Michael Hill Conestoga Jewelry Store</a>"
+        ],
+        "photo_reference": "AeeoHcI_2lxkLsjibYD55F1Qqe-PQ4ZtBJHlD3IQamG3XMVw6A6mb7Q23ycybkNkYexwzjLR6J3AT9Yfa2JP-LQMYPr36cr87CTiixvuUPnz0zadEo9XW5E8faGioIJBN3PJaIOm6UD5cXnFuSS_O0HNB3MawKMo95mZ-BVtEATUi5UxUc79jx97yetub7ihNrCaQ0Mp7JLtwXrHzQgQuNPa1nk1GHUjwvd62be8ujMhwRQZhmuMP985KzXolDFgfb4TuvqsHxiQ11WoNgvpYJdDLp8P2ivGg5brYV1wqxEsdSVihXCuyx5nsyfdKOvUn7m03kRiGqkwk1E",
+        "width": 2129
+      }
+    ],
+    "place_id": "ChIJVVURVsHzK4gRWrjHZ2oy7tI",
+    "plus_code": {
+      "compound_code": "FFWF+V7 Waterloo, ON, Canada",
+      "global_code": "86MXFFWF+V7"
+    },
+    "rating": 4.1,
+    "reference": "ChIJVVURVsHzK4gRWrjHZ2oy7tI",
+    "scope": "GOOGLE",
+    "types": [
+      "jewelry_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 84,
+    "vicinity": "550 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4975398,
+        "lng": -80.5258185
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4988845302915,
+          "lng": -80.5241784697085
+        },
+        "southwest": {
+          "lat": 43.4961865697085,
+          "lng": -80.52687643029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Harmony Jewelry & Co",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103081978701027925858\">Matt Li</a>"
+        ],
+        "photo_reference": "AeeoHcLYft7UckH5N-5NeGe5EmZTDe-x6p9lQvxtj5vFCRiVQrqcXZESfaRG_GsqsEjnHgY2uGHtZVLbdqxzCsIueuWHAw8CRONgqgMuhT5GuxtqJaH6HwCBOUXpAsKFyJHRLozmCaRvFmLG65mCnZbIU-VzhF1cKy0EnqjmT2nsACVG39_W_L4tCOpAGbGgI88gGPVm4lvPpcH_xJHlyGmAEORy08QMJtip5Z4KKWQgJ16CaWrHKyzXZ-dx7FVj1UgkSxbzlNUKls9F2SydjqUZnKJ6tGZwV2iG52yZ35TxsW6L69j9Bn7OFcNSXIpHo2rGFBJNGhe6AW6FJsdxlARoJtY_poDbvO4C_A5USgMvgyWI531hUTSey7aG-5kgT8AhEj-rBZ7uA7QtWjV3oB6SRV3Q8pf1OF6G50lzgIkSXZABd84-8vHJfQw0eToyHr6tfotHdkN41Fb_lwSpnO7J1Mf3Wh3NaELThoT1EqIxim2ExMpu1sZhCcKzH2t3NBkRGwplJiJuWG2-SP9WMH_rswlnBcU9ZJRRfEkTNt-OYCVvSkA2ttXOlM7H87JxBcM1ERdWDttB9ukUTtw1rWxHJ8KtgXE3MQMI7OmAkZGyhS1OTB1YmbfHRwctNMHRxoIijOnDscTn",
+        "width": 3072
+      }
+    ],
+    "place_id": "ChIJ0SPSXsDzK4gRujeLENlrgt8",
+    "plus_code": {
+      "compound_code": "FFXF+2M Waterloo, ON, Canada",
+      "global_code": "86MXFFXF+2M"
+    },
+    "rating": 5,
+    "reference": "ChIJ0SPSXsDzK4gRujeLENlrgt8",
+    "scope": "GOOGLE",
+    "types": [
+      "jewelry_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 232,
+    "vicinity": "550 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4982034,
+        "lng": -80.5271475
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4992280802915,
+          "lng": -80.5242709
+        },
+        "southwest": {
+          "lat": 43.4965301197085,
+          "lng": -80.52810769999999
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Icing",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 394,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105105622371009247732\">Icing</a>"
+        ],
+        "photo_reference": "AeeoHcKAHcAUlUjAeFKKvjcxZY_32JaHI_KjDLIC6gmGc47oMFNiFKNO2WLU1wMtcRBiHjjfWrnzx1avTckhwUdfeSRCSRtmzqkYY_aLoiSre_IKJx-gB6nhRIvCFLjVyqEl4qszZt3dRVZZXOJSxb6CaCQODQJyD0QDfG_4CIOOvuxoPC4F5QWmp0EKkWsoKRbHMUclnoN2ptRKDe5qRfc1ielknb1uSSUJuvjF_SCklfKMRhui4gC6mnIJsiUKnW9x85IUip3C_vF6D7Ze37YFnSoDcsw0MTfaHyBeAkBWnvTkfrRFW7sOUrZHP6fsShOm26lu74ufcGQ",
+        "width": 700
+      }
+    ],
+    "place_id": "ChIJrYY2VcHzK4gRAX8DzpKijzg",
+    "plus_code": {
+      "compound_code": "FFXF+74 Waterloo, ON, Canada",
+      "global_code": "86MXFFXF+74"
+    },
+    "rating": 3.3,
+    "reference": "ChIJrYY2VcHzK4gRAX8DzpKijzg",
+    "scope": "GOOGLE",
+    "types": [
+      "jewelry_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 50,
+    "vicinity": "550 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4876007,
+        "lng": -80.5560785
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4888783802915,
+          "lng": -80.5548167697085
+        },
+        "southwest": {
+          "lat": 43.4861804197085,
+          "lng": -80.5575147302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Sosane",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 900,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105262680694702513412\">Sosane</a>"
+        ],
+        "photo_reference": "AeeoHcLIB6-wb5v9F1N_-1L871CybfPvr_PMZHgQIOYE4rXFeCPL9KV7lYaEpNQca6j1Fkj0fd_9fL68UL5Z568VxFATfLlztyuKdynwPHvpw5mWUyFPfcT360z9chqjLP26n3CkbbE8RhrGZK16RuO9w5mCbiT_aX4ghC7DF67xJCwN2UFJKB_UStHbyONqtHjuBX800-niwcNh75IYmdVE02dsj4hT0wiuBF7AyVF_p7xXqVI457BCljWxAEqwkAPXTyk446gmlh78acV38dEIDm3c6CR78Fd4e6LIelLgKk8VRN-2WFmSNpx0crXde5HUzCtMNkvBJx4",
+        "width": 720
+      }
+    ],
+    "place_id": "ChIJP85IBc0xK4gRdnXFZqaszeg",
+    "plus_code": {
+      "compound_code": "FCQV+2H Waterloo, ON, Canada",
+      "global_code": "86MXFCQV+2H"
+    },
+    "reference": "ChIJP85IBc0xK4gRdnXFZqaszeg",
+    "scope": "GOOGLE",
+    "types": [
+      "jewelry_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "574 Glen Forrest Boulevard, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4296985,
+        "lng": -80.5268353
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4311844302915,
+          "lng": -80.5254655197085
+        },
+        "southwest": {
+          "lat": 43.4284864697085,
+          "lng": -80.52816348029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "MT Jewellers & Goldsmiths LTD",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1689,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108378276978836808273\">MT Jewellers &amp; Goldsmiths LTD</a>"
+        ],
+        "photo_reference": "AeeoHcJZIIisClqe9To8hSl4T7ID-wzNGJzhW5KVcU9Ts_JGZ9hZ0WlhmNSv4QjldB2Vj-i8QlWnYlbwB8Vzi6mkXyGe3anCGzRkUCB0J6-FXve8OIWVtXc5-hLFCZzp4kpsAcifxAKDcZZLxkQLFMorIFHK999LlX3S5L9if9J61t16nQqqfG5kx_oiSy5Eb57ap0-wAiy7e7CMybXCSmccuVdYeA1vC6IPz6UmAXOV0feP5KA59wTN_dvZLdDunwvD5VnxDk7WUXTltDBEpCrVdME-Z9VpeR9k4n-17VIcREmjzdG9-LVVzqZx1lkuhDHfqlzo3puGO5o",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJk1sgMsn1K4gRUnEy6oXXsEQ",
+    "plus_code": {
+      "compound_code": "CFHF+V7 Kitchener, ON, Canada",
+      "global_code": "86MXCFHF+V7"
+    },
+    "rating": 4.8,
+    "reference": "ChIJk1sgMsn1K4gRUnEy6oXXsEQ",
+    "scope": "GOOGLE",
+    "types": [
+      "jewelry_store",
+      "finance",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 208,
+    "vicinity": "875 Highland Rd W, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.49911379999999,
+        "lng": -80.5295534
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5005089302915,
+          "lng": -80.52828246970849
+        },
+        "southwest": {
+          "lat": 43.4978109697085,
+          "lng": -80.5309804302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Swarovski Store Conestoga Mall",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118427486818416555424\">Swarovski Store Conestoga Mall</a>"
+        ],
+        "photo_reference": "AeeoHcJzNa45TzNhwHieM-tNEb8DWnw733zKWPqbXbAWd9lTv4TU4z1tbwUjXuhmXwUXrNDLWVp7vISp7x5BXEKi4kMnLC3sU2PPuCk3lENKrvDMYzVuZUfxB1qWc07mF0Dg9iQL-Bsr6xHpzABt_mfGECLFZxGrjwdFbmc7-hH030wWueza6I4hgqOCtFlPnlaG4NSENaARVAZHJntSxKGTan-f23zsfCI9dNQUcdCs9EdaELq5Cw0IdoM7pKQBz5ong-Z_JRmWPIgXPqszk98zW1mkdglRzYG1d_4JGkO3d368RzXfZ1ym3F04vmJ9JzvsQCuIb_bBBwM",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJJ6eFdfDzK4gRiiuGsGJkQcg",
+    "plus_code": {
+      "compound_code": "FFXC+J5 Waterloo, ON, Canada",
+      "global_code": "86MXFFXC+J5"
+    },
+    "rating": 4.5,
+    "reference": "ChIJJ6eFdfDzK4gRiiuGsGJkQcg",
+    "scope": "GOOGLE",
+    "types": [
+      "jewelry_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 16,
+    "vicinity": "550 King Street North Unit B1B, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.49675790000001,
+        "lng": -80.5462268
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4978134302915,
+          "lng": -80.5446428697085
+        },
+        "southwest": {
+          "lat": 43.4951154697085,
+          "lng": -80.5473408302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Vaas Jewellers",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107874079617812025404\">Vaas Jewellers</a>"
+        ],
+        "photo_reference": "AeeoHcJAZrHU58gIPzL62qTKF7VSsNaf-2i29itnT6OvR-n_C2T9fSacBOM6cT8WYgTpS6VdM9hu9KIUDt6vRkH5dO0ttIO9zg5y5Y1tENkqLeK5bQIbftJ1dwXV5g2nhu_3gC0bU72XQVEtrYfqUDl2V29gbFqMp8LimZKRP_-DcU6ja2B37C-bILVRsA98KOQdLC4K4j1Kjs38Zl2VKiewDeWuj7UToY0kVPqfERceFuzcmsw0y2_ZPTB40YdGKcLy4dTaDliVJ-wjKJQptJF3EaLen7mCxaSHInV5ezMbKDNqc4fVPz8AdV3qDCDk2h6g7Eoc3qaoH8Q",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJGbPU3Y7xK4gR3yaztJKMWJM",
+    "plus_code": {
+      "compound_code": "FFW3+PG Waterloo, ON, Canada",
+      "global_code": "86MXFFW3+PG"
+    },
+    "rating": 5,
+    "reference": "ChIJGbPU3Y7xK4gR3yaztJKMWJM",
+    "scope": "GOOGLE",
+    "types": [
+      "jewelry_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5,
+    "vicinity": "Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5020143,
+        "lng": -80.5286735
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5033980802915,
+          "lng": -80.5272072197085
+        },
+        "southwest": {
+          "lat": 43.5007001197085,
+          "lng": -80.52990518029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Charubeebee",
+    "place_id": "ChIJWQ18T8nzK4gRx3QL8uiLCao",
+    "plus_code": {
+      "compound_code": "GF2C+RG Waterloo, ON, Canada",
+      "global_code": "86MXGF2C+RG"
+    },
+    "reference": "ChIJWQ18T8nzK4gRx3QL8uiLCao",
+    "scope": "GOOGLE",
+    "types": [
+      "jewelry_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "605 Davenport Road, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.43650869999999,
+        "lng": -80.5621099
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.43773918029149,
+          "lng": -80.5609194697085
+        },
+        "southwest": {
+          "lat": 43.43504121970849,
+          "lng": -80.56361743029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Heffernan's Jewellery Ltd",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118141292848437638476\">Marta Borowska</a>"
+        ],
+        "photo_reference": "AeeoHcJ0GWvG8knfN00XCbdbYm3zFswONBIG32aoyo654u8sUwLCmPmkKXVYzx9zbJOLqtLgevtY_dzBAVXLzlAHK_oc2X02hKRkoG3Srq3h9qjWqU_84dVSaJxJfkQgYVu_DmxDuhCGNzj8oYHZX13rWFhRAxfqzkujOQsHTbD2eESFMTKGkqCgu0QlGn6xkELftUUjIBdElL5UhPxzbZKhTYE3VTh-pAqFDZJA69nu3daHcwRB91sMeLffs76UdJbIaeh1zH9kg5lN2uZHUWq-NlKb8srIFlHm8mWwKM2y_qQ9i4Gice_hThyXyHQ9MdWr5TSpIWq5a5PS7R8k7Cpo7kce3yxgnM0JyENG6PCJ-UPteTVXSMzm-3nw3MLU_S_SbiqQ4D6A_Ux_5PvnB79KaPwBrZqvdan-PZEC5v4TmXwHWyRakemV4eLfMF0JPDHwixO6fxNgRh0O01-_Zy3X_L5jZ0oi4KjRZSvbV0vWACIIYWAqF6711G7aJHghjIV3UiPw4iYC7AXRpTtwblwCpC2dwjhob9N1GtpcHyA1J4_RN7MIo0_hgggRUNCghGD9hco9xjYeUIKBn26ODl_y2rS3Zmf2NelSwGZ5fDhCcHNOY0jBXMeloDDEQMbvD4XYjeoFHw",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJrab8B9H2K4gRyhHc4HKZy2o",
+    "plus_code": {
+      "compound_code": "CCPQ+J5 Waterloo, ON, Canada",
+      "global_code": "86MXCCPQ+J5"
+    },
+    "rating": 4.8,
+    "reference": "ChIJrab8B9H2K4gRyhHc4HKZy2o",
+    "scope": "GOOGLE",
+    "types": [
+      "jewelry_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 134,
+    "vicinity": "Located in the Central Village at, 245-2 The Boardwalk Unit 2, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.43497139999999,
+        "lng": -80.4802064
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.43619183029149,
+          "lng": -80.47889516970848
+        },
+        "southwest": {
+          "lat": 43.43349386970849,
+          "lng": -80.4815931302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Effie",
+    "place_id": "ChIJo11kEoD1K4gRzQnw8AgRik0",
+    "plus_code": {
+      "compound_code": "CGM9+XW Kitchener, ON, Canada",
+      "global_code": "86MXCGM9+XW"
+    },
+    "reference": "ChIJo11kEoD1K4gRzQnw8AgRik0",
+    "scope": "GOOGLE",
+    "types": [
+      "jewelry_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "404 Mill Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4315746,
+        "lng": -80.47985539999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4329018802915,
+          "lng": -80.47837841970849
+        },
+        "southwest": {
+          "lat": 43.4302039197085,
+          "lng": -80.48107638029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Enliven Spirit Creations",
+    "place_id": "ChIJz5WuQYr1K4gR9V7la-nDrNM",
+    "plus_code": {
+      "compound_code": "CGJC+J3 Kitchener, ON, Canada",
+      "global_code": "86MXCGJC+J3"
+    },
+    "reference": "ChIJz5WuQYr1K4gR9V7la-nDrNM",
+    "scope": "GOOGLE",
+    "types": [
+      "jewelry_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "428 Ottawa Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4980963,
+        "lng": -80.5700734
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4994820302915,
+          "lng": -80.5688554197085
+        },
+        "southwest": {
+          "lat": 43.4967840697085,
+          "lng": -80.5715533802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Vespera Jewelry",
+    "place_id": "ChIJ1ZV7WOrxK4gRSMwUr5NLeNk",
+    "plus_code": {
+      "compound_code": "FCXH+6X Waterloo, ON, Canada",
+      "global_code": "86MXFCXH+6X"
+    },
+    "reference": "ChIJ1ZV7WOrxK4gRSMwUr5NLeNk",
+    "scope": "GOOGLE",
+    "types": [
+      "jewelry_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "698 Jacob Lane, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4166736,
+        "lng": -80.4980812
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4181155302915,
+          "lng": -80.4967856697085
+        },
+        "southwest": {
+          "lat": 43.4154175697085,
+          "lng": -80.49948363029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Lovely Sunset",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJFZMTweD1K4gRxCxhLZJpp1g",
+    "plus_code": {
+      "compound_code": "CG82+MQ Kitchener, ON, Canada",
+      "global_code": "86MXCG82+MQ"
+    },
+    "reference": "ChIJFZMTweD1K4gRxCxhLZJpp1g",
+    "scope": "GOOGLE",
+    "types": [
+      "jewelry_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "47 D'Arcy Place, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.412448,
+        "lng": -80.5146283
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4138262802915,
+          "lng": -80.51329466970849
+        },
+        "southwest": {
+          "lat": 43.4111283197085,
+          "lng": -80.51599263029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Stuti Jewellery",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJo_p2-RD1K4gRzKvGqckCDTE",
+    "plus_code": {
+      "compound_code": "CF6P+X4 Kitchener, ON, Canada",
+      "global_code": "86MXCF6P+X4"
+    },
+    "reference": "ChIJo_p2-RD1K4gRzKvGqckCDTE",
+    "scope": "GOOGLE",
+    "types": [
+      "jewelry_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Grey Fox Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5119761,
+        "lng": -80.55450979999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.51341963029149,
+          "lng": -80.55313921970848
+        },
+        "southwest": {
+          "lat": 43.5107216697085,
+          "lng": -80.5558371802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Cute Critters",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2992,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116761711402482677091\">Cute Critters</a>"
+        ],
+        "photo_reference": "AeeoHcLtIsbURpAW82aeKv8zpMlYrzd3KkTA7nNL5Yad0NQpvKIf5CHwxfJ-XjQoDpe-e4A4ycPHT98jDa5Qrmaiz2lXzYXHoFpo5rKBMeIEJjZbHkqHTFbtOsCdnkqXZlGu8dVKBFYePF8fQ6RkHdC4Uuu2dyw4wAc_1yr5g8YJhhM9EImSChqvlWn5XEpJEBn1acdjcZG_B9Srdnit7Fdfk9DRLWFogqEwCR1_06hEjVm8D0oqh5qz6iZ2RWKEYq8xFG_vTFVMUFdthD45jfKy762SG8BlZkkNogfoDX5BYCxAQz6vVaIh3oXf22dOG1kQo_3yaNv0P3U",
+        "width": 2992
+      }
+    ],
+    "place_id": "ChIJU5O5UsfxK4gRK0H_z4hl7eo",
+    "plus_code": {
+      "compound_code": "GC6W+Q5 Woolwich, ON, Canada",
+      "global_code": "86MXGC6W+Q5"
+    },
+    "rating": 5,
+    "reference": "ChIJU5O5UsfxK4gRK0H_z4hl7eo",
+    "scope": "GOOGLE",
+    "types": [
+      "home_goods_store",
+      "jewelry_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "878 Weber Street North, Woolwich"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5119388,
+        "lng": -80.55572450000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.51326703029149,
+          "lng": -80.5543798197085
+        },
+        "southwest": {
+          "lat": 43.5105690697085,
+          "lng": -80.55707778029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Awenda Jewelry",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJN7tS4tDxK4gRr2cAbZB7pDM",
+    "plus_code": {
+      "compound_code": "GC6V+QP Woolwich, ON, Canada",
+      "global_code": "86MXGC6V+QP"
+    },
+    "reference": "ChIJN7tS4tDxK4gRr2cAbZB7pDM",
+    "scope": "GOOGLE",
+    "types": [
+      "jewelry_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "878 Weber Street North, Woolwich"
+  }
+]

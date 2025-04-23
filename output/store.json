@@ -1,0 +1,3206 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4852414,
+        "lng": -80.5226235
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4865092802915,
+          "lng": -80.52153251970849
+        },
+        "southwest": {
+          "lat": 43.4838113197085,
+          "lng": -80.52423048029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Canadian Tire",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100210000187847486141\">Canadian Tire</a>"
+        ],
+        "photo_reference": "AeeoHcKE7J3IJK__X4weFI3GLemrQ7AiPtHmyQz3di2zT2Axt9ZjIYh3REvNsUAI3Or-3EFeWp5M7_q7X5V2py0-6_YIT9SAywCuB709BrbsJ7c0HRM8vOE3bO6x7rSuylaj4dGtoRT1ZG65fmesMm-1fDQsfAkTJurwDRVFeXHqZHlxWmFl6xoe1YvipjJCscZuUsd9Wmczh3YTCc_S76fMe1r4TmR3QyLwjFp1G5mJwpa7F1Iry8VTaFL_lwUuynCETKvrqkTHX-oWSlXGqjqSy_gwvcIARKrzB18XarV1NTOj_mpOqYpGij7HuUYhBS7ue4UuSujF-cU",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJa9M1l-3zK4gR9Y2tWY5npVs",
+    "plus_code": {
+      "compound_code": "FFPG+3X Waterloo, ON, Canada",
+      "global_code": "86MXFFPG+3X"
+    },
+    "rating": 4.1,
+    "reference": "ChIJa9M1l-3zK4gR9Y2tWY5npVs",
+    "scope": "GOOGLE",
+    "types": [
+      "department_store",
+      "car_repair",
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 2368,
+    "vicinity": "400 Weber Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4141612,
+        "lng": -80.5163919
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4155565302915,
+          "lng": -80.5149523197085
+        },
+        "southwest": {
+          "lat": 43.4128585697085,
+          "lng": -80.5176502802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "The Home Depot",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112803035955873075932\">Athul Asok</a>"
+        ],
+        "photo_reference": "AeeoHcJ27TqbGkOK0FwX1TCpI7JBCrSw6veQCDRHshXluMLZgl9eYEOt_P6rpPatQbi3HCzEtKD6NPyTHRhIez8atXjIF6Jw71UpgPUhSl3i9-sYU-3NklCm3bhIVQw3ta9Yiohx-7RpPzdn7YBML8lr9PJlkS5VeUCFkZ3bjNq5oJo72jHGNJOrKU3Cy9nBcLod9DtNjDhyPSfO5wvVxkPlN-GVNLZf7RtgEd4GCzaVP7NSKyM7ldUVA8gMUGCXeZx9g7ec9AmMaLv0QCzhLOEchXQTeClJ94nJpoFZ066AZBZkAh9a_hNxIxkVXmMtQ1zgCZUiNPekKAd1Wu9IDKnTeVIiYeQst_C5jjXiVj0-_L_OZlktE3rdtLylBPFu_en60MZ5PtQOAPoQL1TO59N_yDAyN8OBKhgorv9V_otiZmU827Bzvd7S1DFVlYxq-rFDlu7wZak6bn4ouf7atfd9uuKQx9u78nkcRpEU-I0u3qy9DHVqzU7Ntl8KtfUeEbDd1wrLaZK9O3Xe2TmV_92TobhOIT2iX1ngZjUW0FRVOSINBz4-ZsnQkb2c_a-DQOP9wko8Lf_7-ZIKXAYHq5sEzRkON6-XeC252o9mPYLCSYR6ln7wwma0ZameaIiXehijksKE3zvG",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJSaACNL31K4gRSvyYxGKA0QQ",
+    "plus_code": {
+      "compound_code": "CF7M+MC Kitchener, ON, Canada",
+      "global_code": "86MXCF7M+MC"
+    },
+    "price_level": 1,
+    "rating": 4.1,
+    "reference": "ChIJSaACNL31K4gRSvyYxGKA0QQ",
+    "scope": "GOOGLE",
+    "types": [
+      "hardware_store",
+      "furniture_store",
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 2052,
+    "vicinity": "1450 Ottawa Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4484988,
+        "lng": -80.4449983
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4499470302915,
+          "lng": -80.44331521970851
+        },
+        "southwest": {
+          "lat": 43.4472490697085,
+          "lng": -80.44601318029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Canadian Tire",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116878451724222153074\">Canadian Tire</a>"
+        ],
+        "photo_reference": "AeeoHcInWW3BMMkEvE1Ic2NNBYEUEUHQTxcOVJmnC1NIN2jH4lY1AlpNtWhGC-CqDYqiB3JHD2_FdKj97LDdc893Hq1oir7bxBamg7OaQChaDXBqXOHHDlxl966A24xj7oA7bT5CJeykI42SGEM8dga7TWTyU6WqjpxepRmWLqlm2INJBg1jDNC7ny6r7ilHjarUMGDRY1hloDm9BvwvOFLWpnOTVbBQw4h_S1B_C3wdhNTzWTUfXCRfQ0F82JN7_9Bqr1eWIoAkBek9aYh7PRKmdMP183eSbp-pb94vQS0OEthZgtOew8J-eN4VxI6TUXzaKlP7tmJXUDg",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJOebAxav0K4gRW0yulB6sujc",
+    "plus_code": {
+      "compound_code": "CHX4+92 Kitchener, ON, Canada",
+      "global_code": "86MXCHX4+92"
+    },
+    "rating": 3.6,
+    "reference": "ChIJOebAxav0K4gRW0yulB6sujc",
+    "scope": "GOOGLE",
+    "types": [
+      "department_store",
+      "car_repair",
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 1442,
+    "vicinity": "1005 Ottawa Street North, Mall, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4210079,
+        "lng": -80.4470485
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4224118302915,
+          "lng": -80.44531361970849
+        },
+        "southwest": {
+          "lat": 43.4197138697085,
+          "lng": -80.44801158029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The UPS Store",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 534,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106974256568102057656\">The UPS Store</a>"
+        ],
+        "photo_reference": "AeeoHcKVQ49Eosq1eKRbFkD7GwrZ-YnyZ1y1BkDCWFBvUhLEu7EturtZxK1IGMhbTCfRn9D6j2QKtbElQRgsSwPRZpQBalocxE3VPfqSofDnyD6lp-d1kqVvpnpHp8yR_jRJ3HWh6m8nzwn7CTvH6TSIAepBV4h6LxkfURuzCowugWImw_iGLB7T8aCTHPp8-87YhEGm2NbFrCnD_ZODU3Yy7n30oQmekKaml7EufFOBOCM8ocOynDT5qwNUVsFUyaUCLK7OMtDosQi7jylHxLJVC7__yN10W40dAGfDWu1q26Of-Sfub9f6sub6F8PnK-5alvUN3cJGByc",
+        "width": 800
+      }
+    ],
+    "place_id": "ChIJF_Bw0dGKK4gRxuMBY48PR0M",
+    "plus_code": {
+      "compound_code": "CHC3+C5 Kitchener, ON, Canada",
+      "global_code": "86MXCHC3+C5"
+    },
+    "rating": 3.3,
+    "reference": "ChIJF_Bw0dGKK4gRxuMBY48PR0M",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 146,
+    "vicinity": "500 Fairway Road South #23, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5029945,
+        "lng": -80.5335083
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5043587802915,
+          "lng": -80.5323398197085
+        },
+        "southwest": {
+          "lat": 43.5016608197085,
+          "lng": -80.5350377802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "The Home Depot",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2988,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117828214916149999922\">Ali</a>"
+        ],
+        "photo_reference": "AeeoHcKJ_45R5GIVE6BBcnS7BtjcwvJM0EcfkuBO3aOIwYenRVCoviivWTzuXN2439NvVKDPxKBhTh4O5lPCZVE-klwfFOpWSWiZgIqPHb8ukR0tnq4s70al3dUQ_WEYDYIZe5kY6aBQZsan3hxyKDswfKL5b1HXFfNB2hWlQ2atVJ1cXkNszkQy_PvZ8Dodh8HPe-D4sAWOIUndXgEETeC1snaEnz5VaJrtC4PLf8zBdH0g-4msASAWX5PFQ6Qw4a3YoPM41moAA9MkhlYObT2ADA2Ew0dpdYzDulncU1pQqv_9VU0bi71Vuz2NDwNt9saiDxOI4YvmlMlw7TRuzxOqrZ9TzJ3X9SZvRfUz2TemRVZJ-xKvms9VS4OUiz4NC9QV3uGTo-ti4VF5irqVYxHgTdhXdeJ0n2WHdJvXorayQ75eZOo4kt8khxtkVfM3lwwtYNMEJgncMWrSa4qP7Zy6HKJy1LNItiYEraa-alVx97rqujI8HPPLhONIG52akTXU1E4tR6vccZN-slqBs6VhJePe_5mzISpDBf59j1Dz8sk0bMS9trB7FrcnvUzXc71nZG-k9jWAnO2QlbYEesDOtG2R8tbNoVHoneRAbzZhW2kHwtezYAqVgYwdIIg0LFQRzSff_g",
+        "width": 5312
+      }
+    ],
+    "place_id": "ChIJrzar1trzK4gR3zMgkt83wKQ",
+    "plus_code": {
+      "compound_code": "GF38+5H Waterloo, ON, Canada",
+      "global_code": "86MXGF38+5H"
+    },
+    "price_level": 1,
+    "rating": 4.2,
+    "reference": "ChIJrzar1trzK4gR3zMgkt83wKQ",
+    "scope": "GOOGLE",
+    "types": [
+      "hardware_store",
+      "furniture_store",
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 2263,
+    "vicinity": "600 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45323,
+        "lng": -80.55338499999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4544616302915,
+          "lng": -80.55226231970848
+        },
+        "southwest": {
+          "lat": 43.45176366970851,
+          "lng": -80.5549602802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The UPS Store",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 534,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109884062827816750395\">The UPS Store</a>"
+        ],
+        "photo_reference": "AeeoHcL7vZ0sV1wN0Q6w9kfNicxIeMKY0zlxElqEvOMkMULB6xISt3SIDtyhrs7bWhj2QJu9mFnzNAp9ywfsZEnMYpUtBBYFC5AugYwAdw6ISOoPzkNTNOkdgf5sMeyI-zAkvxr1d1MDMZuOnSWjoU-SmN1KlmD4hubsXgTMITIiit-6mVo22x5EbSdRyMFxQk0dYxNugvUvtPv8T231bPmE7y0l01Tf9fwkSuOJh1w1bYC4AUWSoqToxQnhQIRZ_a3Bv5V9YmwaD5O9m4k2LY3S3pMo-6Av6bvnBqIGsl3JiBQNpmZOuKeg05dmRBEfzTYQ5vG3SzD-gIs",
+        "width": 800
+      }
+    ],
+    "place_id": "ChIJmcWsIJr2K4gRTcYXhizegPg",
+    "plus_code": {
+      "compound_code": "FC3W+7J Waterloo, ON, Canada",
+      "global_code": "86MXFC3W+7J"
+    },
+    "rating": 3,
+    "reference": "ChIJmcWsIJr2K4gRTcYXhizegPg",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 90,
+    "vicinity": "420 Erb Street West #5, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.503148,
+        "lng": -80.52735899999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.50448413029149,
+          "lng": -80.52605746970849
+        },
+        "southwest": {
+          "lat": 43.5017861697085,
+          "lng": -80.5287554302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The UPS Store",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 534,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110924674588408038446\">The UPS Store</a>"
+        ],
+        "photo_reference": "AeeoHcJayI-HaFQA3NtpImohsiOsLeWC67JMqlAF16lT_F_amNmjCTdN_IcazBOi9ItBPnrUIcrBB9Hn8ySCsqkAIJ7scUzau_AqzAep7CzXEWUrPAU1BJUn9Yvtkuc0KcvTHGSs0KYlWa20XKUWrPnOC9PYGX6m03aDKxDny1gZ0YqVdhtKN4evxMZCaWQcv-cS8XZGAfJNvpb_EOXR_Xlxd9fCQuRyGYeZ3w01Vn3qW3QXvEe3jENSP2ClLYYx7AjeUei3o6c7-L1pZGAow7ozOxrkFWxbKC6t40wAQ2corxm5wmzVKU6hKxj-xHqzXaQXtwdVzvzQlLM",
+        "width": 800
+      }
+    ],
+    "place_id": "ChIJNzsWdMnzK4gRuCjNQUqtxdE",
+    "plus_code": {
+      "compound_code": "GF3F+73 Waterloo, ON, Canada",
+      "global_code": "86MXGF3F+73"
+    },
+    "rating": 4.1,
+    "reference": "ChIJNzsWdMnzK4gRuCjNQUqtxdE",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 175,
+    "vicinity": "55 Northfield Drive East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46846,
+        "lng": -80.56867799999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46979983029151,
+          "lng": -80.56703141970848
+        },
+        "southwest": {
+          "lat": 43.46710186970851,
+          "lng": -80.56972938029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+    "name": "Sobeys Columbia",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2988,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117828214916149999922\">Ali</a>"
+        ],
+        "photo_reference": "AeeoHcJDrS2e2rxQ4uqR9NGFiH4No-Ryt6R0gubXmzRXaJK3ONnQWuLnIDkO3jZgvJh5nv4TkY63cmdSDCmMU1YRhkFDxE08NPSvB9b8dt84YaVPyuqbqiF4OfwkpQ4Qd2zIVEKVpDCh1RJVEM7F65E1wUoz4ls_8VubI8AHjWxhxw7Sne6DpEqXQtq2cNd6NQY1j3RNl5Xldd5nxR4GPDrhU8nDIVQaWoHYDvEnDF6YuUS8knW-m44mS2OP8bMAJkq9CIyFuaQnmZa0LDXmQN7LakZpbUA_-6xazG63ezXfNVenKtLbbN0A5EsEIG9WsAR_KbRaelrdT52ZuRBB3RD7Si-tI_TXQFz4ejgDvWtD_l-BmJsCGIOO4GTKDAuhG4hoMQQ5n-Fm4YYS3h7_5950f9WGrS5oClbMB2cAsESDYdQVw2u3bboILBDoVN844A_DEn6RmurNOu3RwPMSUQ6UA0vkkPWuahgvrV9UHPn1h6hpilcnxoAGo98HS8lBbrLC15I1LrrX1QHm-Wbc4D7EoLJHiI1PlXu-aTR_2eh7H8-w8DzNNGtd35Y07yOt6PsyhHExdN3DJXiEJ4IOg0AnGPEL6XEN6UuaMwPdERMsHT79y90BfM8xY6k-puUNEWOY",
+        "width": 5312
+      }
+    ],
+    "place_id": "ChIJgS0Cesj2K4gRHjt-MSGU3t4",
+    "plus_code": {
+      "compound_code": "FC9J+9G Waterloo, ON, Canada",
+      "global_code": "86MXFC9J+9G"
+    },
+    "rating": 4.2,
+    "reference": "ChIJgS0Cesj2K4gRHjt-MSGU3t4",
+    "scope": "GOOGLE",
+    "types": [
+      "supermarket",
+      "grocery_or_supermarket",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 1340,
+    "vicinity": "450 Columbia Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.419701,
+        "lng": -80.44115049999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.42128418029149,
+          "lng": -80.4396064197085
+        },
+        "southwest": {
+          "lat": 43.41858621970849,
+          "lng": -80.4423043802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Canadian Tire",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117743815836976235816\">Gary Cameron</a>"
+        ],
+        "photo_reference": "AeeoHcJHCPdwEZZQeUiQzuKTUIuvw3JA69eWsZbgcdzZcZPSmsVW08xorEU5jJ_wslsxP9TzlFgFHAGhpUMwapr6zsmupCqXE6VjAkAIUzVVLGhXx9APvdFecEC8idcLcG23o2_rsc3kiVioKkHeVO0kvQMI_SwrrEadhIqUOWWucepdzyyE62eVveUwbxaZXpLR-5bJ9y4J5haWdZvBu2cs6CvDcqhBTi0xS2N9YaTP3ts1KAiikSUGoTqP0pSqdc8_Dv9u1Dtqwih5Ms0tGohZ0AGlQeC2_a6e5ClsjuB7VhbqYU-MOToYbTIRXy6FajsrStp5i7LqkDuoSYVmdCc_RCO77wj4cAOsONa-kk1rd5qYckJxVv5w3byG8DpBn3IlKwtMrs-e8Gn8JoBbfTTuhZwduouLlqcECIpmKmSOQ5ZBzina7I-1addOi1wmJDnC-QNUCxmA3wdLfeNIb9wj2I3HaYXfEedyTP8L98pmZRBfkKLNsYgJeQ3LKCHmBQ6e3xlFl59a-xdfOtTj_3QaYDHsGRnKY_th3RF_ksMmmQOqDn5uqntAo7DUqGBOllsXwhCywS6mwewNdBCga699lzm1XGay3fMs-UMX9KE9TnMGAA2kJM8D8grx7dn2apSRrK0Dru-e",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJHZrCuNqKK4gRHShVJkG_Kxc",
+    "plus_code": {
+      "compound_code": "CH95+VG Kitchener, ON, Canada",
+      "global_code": "86MXCH95+VG"
+    },
+    "rating": 4,
+    "reference": "ChIJHZrCuNqKK4gRHShVJkG_Kxc",
+    "scope": "GOOGLE",
+    "types": [
+      "department_store",
+      "car_repair",
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 2139,
+    "vicinity": "385 Fairway Road South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.498686,
+        "lng": -80.548103
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4999764302915,
+          "lng": -80.54717425
+        },
+        "southwest": {
+          "lat": 43.4972784697085,
+          "lng": -80.55088925
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+    "name": "Sobeys Northfield",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2988,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105663534742402509456\">Nathan Myers</a>"
+        ],
+        "photo_reference": "AeeoHcLWoHLKnwAl4yPfo3UN3y43-Z28nOJgo3P6R76Sh06wE0YpW2kByQ4KEaApbK1MirXom4YR4rTl_OliEkdiLWIZcJ8pf9jD1Te3MOZgMJrpSUYWNZXNvWwhC5SAHiVKVD_BQ4ny-Xe9Ml84mgpnngYJ1mdSZHDb9H0k6f0qh83Tf-5HUY3xS36YCgtVeF24lOFujRXa6BsicxHwvKTOR5qEpcAmU3XDtZX_fih_vehAI20CFyRlqdGjWVUShCOEDkYgLocDXUq2Vn3al-ULPTOBuVFoGtd4ZGehWcjpeU4d9aQE44Inqv6zfO1jjSWAhMvAtW5RFjOLtA5DGJyATCJFrVFpqmWuRgHKdaYmyTfMt4Z4X_vXA2oBVbfxZ1HUyoj7du2V12lTHiEZY-C6oeZ1jT8iE1Qo5L-UH2hln_CCgmqwVdO8gbnsxIr76zxJ4wIDXmp0a93bfGR6hUlEL21sce3XesWXkIbxBoACSZZ7O4EkRKJnT4mpf_tnbME2Dt-UutxdKY_SvPzZWd19TslyYdAXIDEC-qtMkLi527FsDOFPjAFL-_0vjIkm49xg2MPRoqJsRwVX8LgenXTnhuiEQAY5lkUMQ0KjkDfw8UcbjYntedCmaGHpHRFVpPiIQNSoS9Ii",
+        "width": 5312
+      }
+    ],
+    "place_id": "ChIJBbwKTWfxK4gRep4AC-KAoxM",
+    "plus_code": {
+      "compound_code": "FFX2+FQ Waterloo, ON, Canada",
+      "global_code": "86MXFFX2+FQ"
+    },
+    "rating": 4.2,
+    "reference": "ChIJBbwKTWfxK4gRep4AC-KAoxM",
+    "scope": "GOOGLE",
+    "types": [
+      "supermarket",
+      "grocery_or_supermarket",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 1030,
+    "vicinity": "640 Parkside Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44249120000001,
+        "lng": -80.47456319999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4439127302915,
+          "lng": -80.47313881970848
+        },
+        "southwest": {
+          "lat": 43.44121476970851,
+          "lng": -80.47583678029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Tim Hortons",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103807260856515985830\">M O</a>"
+        ],
+        "photo_reference": "AeeoHcImaZci7ZITaIxl8WcwcrYP0i6vQAmZihbIP1praUvnTqLXvAYsNW2jXX-EbUUe_6FTM9ghYFknXMhQEC_Mk-zJPryvUJUzgpMfHYVIVcKEvNYiCGZR3rm2-SSHvCsYqtl-_wdrVV7vT1VHO7isQi5_c7LF__qAXVnzq8WexqjeBulq0HrJtYQ5lhlYkbqt0kINWUTDHU-ty_1HBddofi7OOdlKGOXHMFmqpkKah2kRPoN4JbmR0kSVcMyC0IiibPfvV2SfPnbfUN6POlVB9musbRPLi_jvY8vkLRq7aAUS59VXbfbwEjqzrmkB1VrVOCCBOxOUneJ2U2GS1VFFe1ekGA2QErvo6ALdxnfwSp6wyFnQth57vLw15uVXvuh_mlzARKlfsR213h_uov6l4TXf4rD3ZkVSw9X8iUAbMx6TS-8jday2An0rBflez9YOOhAj-cpSRfQGGsR_hzlBusC9etoPJy_1ZiH0rWa-I5pdYpw3vIAI_JLs0P_52SMsasSfk1cWOPDDTVQaRFEbhCXQ4Zk2Yh0J6ifnauq8TSPfmd0AtjqUDuXFcsoTwyYzP4eMJ61AMMSNW9osdaLOkRsPCxuTzrSRk9bMqBTYX94bn1cAZ2Kwt9oiDB4tWFOxfWuyMg",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJFV5C-8L0K4gRlwTGIs9VSnY",
+    "plus_code": {
+      "compound_code": "CGRG+X5 Kitchener, ON, Canada",
+      "global_code": "86MXCGRG+X5"
+    },
+    "price_level": 1,
+    "rating": 3.8,
+    "reference": "ChIJFV5C-8L0K4gRlwTGIs9VSnY",
+    "scope": "GOOGLE",
+    "types": [
+      "bakery",
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 1639,
+    "vicinity": "925 King Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4376748,
+        "lng": -80.5122399
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.43904463029149,
+          "lng": -80.51070646970848
+        },
+        "southwest": {
+          "lat": 43.4363466697085,
+          "lng": -80.5134044302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+    "name": "Food Basics",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118001023471551831257\">Greg “Space”</a>"
+        ],
+        "photo_reference": "AeeoHcK_FCWP9MMa4BUIR0CcPURtvgTBCQy7yWRSVdBeofZfWixwkWGNml_5ndKxunix6kXxTtFoFlsm-mo4t5mRGvfx3GsHpWEW2BIqAu9pA52RHVLR011Tw0VzQmGZ2OEJpPE1lcCOwayw936jMARGDxQRuvI60AOBJJA4d5BkujElkkpQ-ntzYc9MvAmBv_L8c3PfMllN7VY-1Zqmf7RrRSjTEfpVs_SxCtranuGK4V8hGsTMfGifBtHOyFUXhWesKIMnjzhwQbSiZFg-oHw3iYanHIFdzO-tyHYn2INJhugwyQf6B4BrSXdM-apaaV4EEWuutEAMW596jj80YZX72lYz7GnMyM2aHn9eG4LD8zLqGDAICNI_CpnW4ZqatSw9rS0ZxBkOU1QO2xD0vznLdDyQ0ty1_RLtszSvRnlYq7jAp59AjiEgvIuan9IYcbymNm_uBawwip0IjShpqmSHiLaJeTDbguF5HJKdd9TfKx7ipuSOSyQrc_omR466vTIqMJ96qLxGKPWa-kgpMDgsnOjh6DzfENj1tCR2R0RqsewlnLmo5cdyoZ0C9JdQqB-xEU0sxAnLR63dwdFMUxxZpmCPbVjkDt0b0ftcnF4x-elmdrSU0NL4X7hBT7paCPxunNV5Yw",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJIV5EnE30K4gRwbEw2YoEsYA",
+    "plus_code": {
+      "compound_code": "CFQQ+34 Kitchener, ON, Canada",
+      "global_code": "86MXCFQQ+34"
+    },
+    "rating": 4,
+    "reference": "ChIJIV5EnE30K4gRwbEw2YoEsYA",
+    "scope": "GOOGLE",
+    "types": [
+      "supermarket",
+      "grocery_or_supermarket",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 1283,
+    "vicinity": "370 Highland Road West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4424183,
+        "lng": -80.5449458
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44396353029149,
+          "lng": -80.5437387197085
+        },
+        "southwest": {
+          "lat": 43.4412655697085,
+          "lng": -80.5464366802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+    "name": "Food Basics",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1172,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102859430337983419743\">Tim Gevaert</a>"
+        ],
+        "photo_reference": "AeeoHcJht0MJWbGp9074GZmp4_MQSExwQLoq2FR88K1DW9XVl7cgEcAwBYE9iXrGfe-tkyujxUnL7-soOY-kfol5Whw8_jOhtHxhFlvO2bTovDqYpxRH3EPbdlEENZyOHYKMlMTW-Ln140U1T5tULzQtuQqu5zZX1uTgfxVK_L9EtRiWTZH2_PIqzuntGRJWsPn6W37LWJTXpanBwDxrAItB711UX0UA_KzPoknXZP7gS9GHBFo5azaCif9JrOrCsEvDGROofMxIIVfNaIyHp3iZ4WSthX90mHUCzBsu9a4uer2yqPinriwzaIZaHPRKnmjoMDqbPJsCihwKmlOlevBCBg24odfbLa8204U4c8MnGKYFdtOqzWd8f_1WKlVk9DGe5OWO-R-G5hX3s8z1Ye6K-7L7mHOgme1ykPmVuczQSTugGB1Lz2wR4kEBac9QUaORNjKo_J3vcvGrJFgkSFeYqKbRqsZeZW2MjwbWEVJygfOk6OwS-mLAEye6bfu43AbTEY7tm3g-AqtIlu_c-yPkLB6iR2lPeYoTCENWrPZg4qKazRGntyXXZTuVQsoz1LCJp6dTcsflucyrBwnOKW3KLOToZtU7VTweJTZdQ7wOQx12Zg61rZHVogw8ljBVVR4HmoA4tA",
+        "width": 2592
+      }
+    ],
+    "place_id": "ChIJsV20BoL2K4gR-pB8q7AfHIM",
+    "plus_code": {
+      "compound_code": "CFR4+X2 Kitchener, ON, Canada",
+      "global_code": "86MXCFR4+X2"
+    },
+    "rating": 4.1,
+    "reference": "ChIJsV20BoL2K4gR-pB8q7AfHIM",
+    "scope": "GOOGLE",
+    "types": [
+      "supermarket",
+      "grocery_or_supermarket",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 1338,
+    "vicinity": "851 Fischer-Hallman Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47278860000001,
+        "lng": -80.59333389999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47406883029151,
+          "lng": -80.59211386970848
+        },
+        "southwest": {
+          "lat": 43.47137086970851,
+          "lng": -80.5948118302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+    "name": "Food Basics",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105223214983245069694\">Ruhiyat</a>"
+        ],
+        "photo_reference": "AeeoHcLN9ySlM0s0EZ15qfWaRCD5l2_iYSqqlaVbfiFpJ2CFLLOxnQe9NILvgjwTlUSGRrBYio2x7mHZsF4HFm_7060fV0mWbeLqhbLg1wNzx7NYkXzCx3AHQq27zN1lj8r4AtFD5mbQbyYar4xs9RQf6T0L7yq2rrWNUzTpM51IRY0gqtgDgx2VC9gA_sD5njCdBAzo_TQV_MM866R6arBkI1Vtw6EokWDIdiXiHI3qPekJGWwWQ277C1aRoxtjEbhs3hccHJO1mNtvUftS5y2EZsnsgixgeBIJSpe8IUYFM10pUnYoo9wnojbc_92SCzjkmRIMSmt8ca4-s_tkR2XO7lrJYfTg8EBnwrIXMJ_3ecOw6uNd9FdTxuwrkpoz2EGHCTaopG3u5IXE1XJ6KOp3ZDgHq69taJ3J0cgG6ExXX23h-UwP6xzMyCCNrRJYgHdWumqPdATyrJRR0brphrlYV1SPwxZMHVWCM2o4X1sswUplQQjUlGHHhxD3FjS5elsuinc9dao-NlYp54LZAzuW6xoUEHdfBUF2FGzLhBFYmzYNf7aS6_4O3UGjH5BntHdvUHDeJHY49svKSkuv8lps_MoeRxL4VswoLdw_ZyBpfBb589gSYZvyeH_SHKXcc7QQTXiLgQ",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJZ-8FkiX3K4gRoUHjRCXcekg",
+    "plus_code": {
+      "compound_code": "FCF4+4M Waterloo, ON, Canada",
+      "global_code": "86MXFCF4+4M"
+    },
+    "rating": 4.2,
+    "reference": "ChIJZ-8FkiX3K4gRoUHjRCXcekg",
+    "scope": "GOOGLE",
+    "types": [
+      "supermarket",
+      "grocery_or_supermarket",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 946,
+    "vicinity": "600 Laurelwood Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47757060000001,
+        "lng": -80.5189684
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47875493029149,
+          "lng": -80.5176497197085
+        },
+        "southwest": {
+          "lat": 43.4760569697085,
+          "lng": -80.52034768029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Canada Computers & Electronics",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2988,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101795376736391545077\">Riju Sikdar</a>"
+        ],
+        "photo_reference": "AeeoHcLeFOKUf79Y1XpHdn7P8-VOKN8V57y7m1BrDdHsCXNy355kFoC7XO2a5YWNbEx_Vx7N_iswdhgmdH_W60_yHxotQ-y02WE6U2d1CAWel-JtQ7EyGrmbrL8Lqote2NlYS52t0jc6XeNRMgV6PN-327dhZVAVozqIyFztG9XHzBzuL7zvctmSt-zh3Vvg9zD8YDSLAdDDQQMF1q5EHNMVUVHd7xD5AWmOZg0aNgVnShpTYcayH21jXQ5V2ggcvVYiZ7QF9dLIceYMk0Sp4bzLy0owXQs5iIc_sZUAfchpvNwUzAJ2vPS0dCv9renNSU0E2RfvDpmvBm39kyt763e49x7suu_MtgMBAPlyafK1TDtNJIKX3_UJlLvL-SUym216SnmCJIxFkOCbFHZ7OLh49mnNbsz4GdSQJALjhMfzOV4rLf2mio0FfTHGDJ_TViTX7EsJ7Hj8NIhojKuSHK8f_V93Cv3M6uHCU78sSTjVRR4OaXgrTVaP0sg8cvF-6NuCbz8YKcqIrIKi_g-fuTBcHuxT2UtjqlFsQH_pV8qkYC2H_zPAONyXv197YnorQaxXsCF95Xq7K6EePz3lWzvPls_zv0lE38LgiH0UO4YhtNNca6mGmNf1oTjeRl2z_s1_VdS2pw",
+        "width": 5312
+      }
+    ],
+    "place_id": "ChIJ58zcc4vzK4gRKWL1McsPCA4",
+    "plus_code": {
+      "compound_code": "FFHJ+2C Waterloo, ON, Canada",
+      "global_code": "86MXFFHJ+2C"
+    },
+    "rating": 3.9,
+    "reference": "ChIJ58zcc4vzK4gRKWL1McsPCA4",
+    "scope": "GOOGLE",
+    "types": [
+      "electronics_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 2440,
+    "vicinity": "234 Weber Street North #230, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4159668,
+        "lng": -80.5114388
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.41726678029151,
+          "lng": -80.51019896970848
+        },
+        "southwest": {
+          "lat": 43.41456881970851,
+          "lng": -80.5128969302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Tim Hortons",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4680,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104785519452815381963\">mishal gafoor</a>"
+        ],
+        "photo_reference": "AeeoHcIGS4Dup0uAa_JMZ27ZyDh3vvLtsnDvgAgRuxEmlknj9fGQ4diCKULzLfS7NMhpCubF7s_ZLq-Meo5z0-tSref4iov_3P8lFvd6rDhiYvLf8vMqP_LWPoWV8SLpM46XT04q0Th-JsfIrKE6BSZhuf0LiE1E0q6Lby2bqr2FYq7cQkd8WdqnYgAAtTS1S3nUvLZDb40sjydWfL_ZTOeQ4HA3s-ecFBfhvy1huvzLE8olfmtwKTGkM3lfGNjkInd_TI7koyxxj5z0vhVdRHacIYrrbW4CWT9xNWo7ADLF6zkMyiM6urCcjSLcjz4NHigik1K-oxssw1IN8WiBfZPPNiMExUzlNyn-bWkA0FpAUf7UdTFvtJ7VJpNw9_pXMmVYHCHE5X5G6DyLt6mVvpuklsxSv5Ha-PAkUg-cZ_VnIZfDu1e7ZB2XmaMVIhNHy4wIH2E7yvbwOal8-cTEFhfI8ICKYV3TJ9aul8A9canecomsfAG66M8cuf3wxetHzT78yVoszB41-5yxj5UhPYIvdrtx6WAcQOnoClHa40x8_UCsZ3S9HB5WiWTJgFqmPGxm4jnjaNLVgR0GhTXaoQfCqWUdsVwqtu8yc2MC2knw3Gptw5y4Lbl23shZJhyI5HR62hi69w",
+        "width": 3209
+      }
+    ],
+    "place_id": "ChIJ_1Vv_pf1K4gRwdMmq3F1cR8",
+    "plus_code": {
+      "compound_code": "CF8Q+9C Kitchener, ON, Canada",
+      "global_code": "86MXCF8Q+9C"
+    },
+    "price_level": 1,
+    "rating": 3.7,
+    "reference": "ChIJ_1Vv_pf1K4gRwdMmq3F1cR8",
+    "scope": "GOOGLE",
+    "types": [
+      "bakery",
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 1523,
+    "vicinity": "685 Fischer-Hallman Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4631145,
+        "lng": -80.4656346
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4645391302915,
+          "lng": -80.4644070197085
+        },
+        "southwest": {
+          "lat": 43.4618411697085,
+          "lng": -80.46710498029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The UPS Store",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 534,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110435908035878026333\">The UPS Store</a>"
+        ],
+        "photo_reference": "AeeoHcLJBZndjjT-9PedjbQlGsqeovJPjdXofHmPmfHrzYY44kLpZLokQ5hml4whX1X0jMVrq9OppruSF7qRcXfgec9wWBIFTz1_RfneokhCl0WSz16bEo6cMFyu1CMzNMPj_A1YPGRPjhudgsRG5T6yTTGAr85BW7FpNvADDCCNgv5P5fNyA0dlTV1Fs8yazKijd2bZ5I1ZiOA8hJa_wDqTBmo_2uLS10-umeQWKYKk5btNI4NzO9lOQQWJYYHpdbXkNgFOjKt5KdFAiisucc8YTSsBOqFvOtUMqcdJE8VY0VGLOgqE9TdzJwtSBcMnKLiiYSmFbwW7",
+        "width": 800
+      }
+    ],
+    "place_id": "ChIJE9r086X0K4gReSTqPKxxoOU",
+    "plus_code": {
+      "compound_code": "FG7M+6P Kitchener, ON, Canada",
+      "global_code": "86MXFG7M+6P"
+    },
+    "rating": 4.3,
+    "reference": "ChIJE9r086X0K4gReSTqPKxxoOU",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 66,
+    "vicinity": "871 Victoria Street North Ste 7B, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5011167,
+        "lng": -80.53968549999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5025570302915,
+          "lng": -80.5382175697085
+        },
+        "southwest": {
+          "lat": 43.49985906970851,
+          "lng": -80.5409155302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "U-Haul Moving & Storage of Waterloo",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104755898070836936531\">U-Haul Moving &amp; Storage of Waterloo</a>"
+        ],
+        "photo_reference": "AeeoHcLyt9cgxUiK7vstoDKUODseK03I9pY0wf_u9R6yVIsEiecszkQab0_p4usAt0PM-ETpWTVSuFJ0oL0_c8okQz5IFAg92_8p4CHB2Tln_tJF6sv6FTP1V3O2PYEoOqUb5wcCkMuWpmKqv9zDxNO37aCbWc653ug-LR0UFfGr8o24zAol00Kela8HHVyY_z8OEaz5JuH4BSw-mbZeQtI3aRDkjN8aDmnPwu60IeOgJtPfWvX0HD4l-B4q6b6TZlbK31zH4ARY0ei6zDCn8PiwCGCq_OKAJXEnhm6yuvd3l6WNGE4LRRibWMUBtHsr6rrpFQyctwzR",
+        "width": 6000
+      }
+    ],
+    "place_id": "ChIJd-XgfOD0K4gREEmBEhI24B8",
+    "plus_code": {
+      "compound_code": "GF26+C4 Waterloo, ON, Canada",
+      "global_code": "86MXGF26+C4"
+    },
+    "price_level": 1,
+    "rating": 4,
+    "reference": "ChIJd-XgfOD0K4gREEmBEhI24B8",
+    "scope": "GOOGLE",
+    "types": [
+      "moving_company",
+      "point_of_interest",
+      "store",
+      "storage",
+      "establishment"
+    ],
+    "user_ratings_total": 302,
+    "vicinity": "585 Colby Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4991033,
+        "lng": -80.52956329999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5005043802915,
+          "lng": -80.52828741970849
+        },
+        "southwest": {
+          "lat": 43.4978064197085,
+          "lng": -80.5309853802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "ALDO",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103218525528754912819\">Erez Zukerman</a>"
+        ],
+        "photo_reference": "AeeoHcI2zAgDmnlCKaEITjmnwk7gDlLtdAtGrEPNzZYr-sYVSgJHyeA6C4HGOYA7eskWu7OHN4GF6VGu-q08ezt9pQOXoxkaaOvdyuEAHjQBwpjJFxn7BayoVCcpeffBxnNMhH8mXRO9RqP-VJOjK1wXmNGIv_aQuZtFAdpT58SJGZVGvEB-tCBs3Ol6_NI65TfuaZ_4STbOjePg6CJQ_lOzTrt3Hs9wmApSipiuo_dmicoeyv7_loDJfRR5R8qwQxIpGTD7qbsYlKRIpmswz33I7zIp4WgNtgmT4AUCtx4ZhVFE7jB-onrIr_6vQajKuIT77hc81P5qs1e8B40CRMn5pDu9DBk8X5sP82UW4MRW9k2HxZg0v8LEYrhgUGHw0woa8IG-gjErsC5E5qfb_8laFqFOL9_e7qSbI5SdfmQKVufmnrhc_7AxciHBIZ_zwkq7H_EauGmMF14bqeTaVivhk44ke6zLrZO4KrEIlzZtfv3ygoGdwfXLTSOWANrY0gQOrOSWHedA-CF_OOqLHdwEDL-FRd_1g_Dea5fnqG2SLQ0tsxRmi9P9eEzKdR5i0Y3HAQWOYPJ-YHyuZ90G9CGKKKAn9gjWssgnbFQYj47eRbZfcJ6vTFTOwegHOvGmaeXxKheGWfk6",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJn57J_sPzK4gR_OTTQphmpbk",
+    "plus_code": {
+      "compound_code": "FFXC+J5 Waterloo, ON, Canada",
+      "global_code": "86MXFFXC+J5"
+    },
+    "price_level": 2,
+    "rating": 3.1,
+    "reference": "ChIJn57J_sPzK4gR_OTTQphmpbk",
+    "scope": "GOOGLE",
+    "types": [
+      "shoe_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 88,
+    "vicinity": "550 King Street North B1A, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4187509,
+        "lng": -80.44885049999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4201415302915,
+          "lng": -80.44759026970848
+        },
+        "southwest": {
+          "lat": 43.4174435697085,
+          "lng": -80.4502882302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Marshalls & HomeSense",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2427,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112482415753734225075\">Chung Hsien Lee (Jason)</a>"
+        ],
+        "photo_reference": "AeeoHcKc8GslvihZHXq5FDzKte3W9jell7FY33d94LhnfH0yHH9q1DFZoGQ3Qj6u6kzIZc92ACXEZ_KCyVoLGZ4bkPlsjmtEje_v3i9_7e6b1ZlUrsVw_uOCSItj0Div1BVBf5N-jm6F7f8F6pSvtTRgxl6BaUR6juxtuqcm1hr8HdgKjTLCK22SGltl8PocG8lRSecTlN_fOKIKx5nurk7SRudDCqiJcBokf0oGNK7IT1JKNZ7yju40czcY06EWAQPbt7AmCAm7dr9nayi1S73GZYfeDJapmzLhtt5wcEXQ3C5inccqBBoNL_alfjcx4MdsdsS4c3sg9MdiYDVBYhJuTBPIRVsbWwJ0PFWgiTniclr6gKPIJdRK-rUKFqXOlq-irIf8xb8wwp4uP9h8-QBsXR1O-h5q8uD5XaVcbf2gbNpMa-tdbI0imiKW8dNzM_EzeaG3q3WhHIVXH6TTFbjcNQCEkwgI5geQ8mU4mO8SDueamEKOKYZ0PacCjvHrbl3D_BbYxCznPxbjAM86ax-4cjfejCRcSVKY--naJ_2fJKlCjSJShSznUjePggh_41WgRvgwDZZ4sAD7FsKRfYJyrDoJcp9EwIhW81A6SQxnsZ3sgCoiXoqL4L-_GfGedO_Sc7GeVg",
+        "width": 3436
+      }
+    ],
+    "place_id": "ChIJgwclnM2KK4gRpi9FO8lKmBo",
+    "plus_code": {
+      "compound_code": "CH92+GF Kitchener, ON, Canada",
+      "global_code": "86MXCH92+GF"
+    },
+    "rating": 4.3,
+    "reference": "ChIJgwclnM2KK4gRpi9FO8lKmBo",
+    "scope": "GOOGLE",
+    "types": [
+      "department_store",
+      "shoe_store",
+      "clothing_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 1177,
+    "vicinity": "655 Fairway Road South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4623952,
+        "lng": -80.4675113
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46400843029149,
+          "lng": -80.46589381970848
+        },
+        "southwest": {
+          "lat": 43.46131046970849,
+          "lng": -80.46859178029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Spaenaur",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104746994993859585479\">Spaenaur</a>"
+        ],
+        "photo_reference": "AeeoHcIig35zggTQNxCDxuUWha4Z_niX6kCVkRX7Xy4flArWfS8x4nAAgYPx6jb44wniG1BsZo0itbwZrM_utAJ7eCqUGR6wvhhCuNnEr6IE9uERrOqeLCJDKEkU_Eqn6o2mKhgBjTsnjUzC7bOojRKjQp4M5SlaTHDFCN9TPQDRwwRHepZnUgDaqbTRwrqvi-YUab2Gjp3e85OFnhyp_YgyKRdwnqAdE8avDYMueWiY8MGVv4Q4eRD5DHaap4ouOIOH1s0ZLzMAbRHpLb9PzyoIel0VuaRAhzXZzoKaf0wCPG76TaJV-wcyRV19V9YJspR6trYNCCU104s",
+        "width": 1200
+      }
+    ],
+    "place_id": "ChIJO4drsKX0K4gRjcdZrvlU13s",
+    "plus_code": {
+      "compound_code": "FG6J+XX Kitchener, ON, Canada",
+      "global_code": "86MXFG6J+XX"
+    },
+    "rating": 4.7,
+    "reference": "ChIJO4drsKX0K4gRjcdZrvlU13s",
+    "scope": "GOOGLE",
+    "types": [
+      "hardware_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 57,
+    "vicinity": "815 Victoria Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46535349999999,
+        "lng": -80.5226783
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4667207302915,
+          "lng": -80.52121001970849
+        },
+        "southwest": {
+          "lat": 43.4640227697085,
+          "lng": -80.5239079802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Stag Shop - Adult Sex Store",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103316456587920961953\">Stag Shop - Adult Sex Store</a>"
+        ],
+        "photo_reference": "AeeoHcJK4BINsBw9yb6XsXisazZSHu9D468oSn9EdNUxA1teyYAoTER46USREhuL8qndjLrDI6Z7Y2Y3wBkAFSHqNuztzNw0TnDDbXPh71zUqBpFk3Mwu2S-WbSDISsD5bwwag_eW8if4p5IueKbKExOb20gB7RSJEn1_gia49fIhOp40OwxbQPjW5lRkGposwrhzc3WMfeWmgA0RuPMNDA0cMPfkz_PdinwW5uoGp5LWgZcQ53n0RxevJ9zzQNldNySjRV7__zQ1e0ZoJ7NEFZXl6DASwkOUpvVHAYDdn_eb-r_nNopwNGkP4HrbKBrSF9e8bqY0XvzKPE",
+        "width": 667
+      }
+    ],
+    "place_id": "ChIJlUAiRA30K4gRsmV9NthTWnM",
+    "plus_code": {
+      "compound_code": "FF8G+4W Waterloo, ON, Canada",
+      "global_code": "86MXFF8G+4W"
+    },
+    "rating": 4.9,
+    "reference": "ChIJlUAiRA30K4gRsmV9NthTWnM",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 360,
+    "vicinity": "7 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5007797,
+        "lng": -80.5305952
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5022191802915,
+          "lng": -80.5294583697085
+        },
+        "southwest": {
+          "lat": 43.4995212197085,
+          "lng": -80.5321563302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "HomeSense",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2304,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104188599540043908898\">Abhinav</a>"
+        ],
+        "photo_reference": "AeeoHcJCif-T_y0H7OLpsBj3M9EmOuoIReuYat4JyRFpJz4ZMX8Nxksvp9j0xMN74FOzfxTuNie8CqsjgPASai8sowwC5ICSkozzezM2ZB7W97d1wWL-uYLGIs7lChB-TNIZV9qB3z9WldWeRknMYvVZcgW5FWjtEqTbJpT4e8pgPpocqHWS-3rCLy6Y_cY4PYZp1JSciwcwregWGSkj8aiAV8W2NGMjv9XOsbnTiTDiw2s_DaHK_DMhLRyzygJgnD7eg_bfdceA6nqvIkY-VtQsHjV1QQgiB4fCJyaXK2GEEWv_91YN1o_2QpwoH0H5Yfgpwi45SctBwfNUHSz68ikOKUMe_pwJoZnINKILxFWNRpQPcmHvW5e7S123if-13l00tWKYfDmeowEz1f1spdYu2JRWoSe7XWH7NrXeznNQtJcFpADpBDn_W3o4dgVPrIxYRMPpidFjpOG6Zc8T_FlHrU3iED6Te2kwsmAaN8l7addSdHbylbKeSPJAE7W6XjlEK5cw9SC40Mqf5MkABqtVNmdfVzncNdTRrXMyUFadRSqcuPWUU0nrLMgdb5nQiWx1vooluEEJq-JE5i2fKog62jJMgH-RcV6U02v28gpi1cmsT-2MhNrKgLCUo0sXiFssxhCOJLtL",
+        "width": 4096
+      }
+    ],
+    "place_id": "ChIJsRaS1sTzK4gRsK46FI3JMDs",
+    "plus_code": {
+      "compound_code": "GF29+8Q Waterloo, ON, Canada",
+      "global_code": "86MXGF29+8Q"
+    },
+    "rating": 4.4,
+    "reference": "ChIJsRaS1sTzK4gRsK46FI3JMDs",
+    "scope": "GOOGLE",
+    "types": [
+      "department_store",
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 637,
+    "vicinity": "578 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4714332,
+        "lng": -80.4404689
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4727455302915,
+          "lng": -80.43915441970852
+        },
+        "southwest": {
+          "lat": 43.4700475697085,
+          "lng": -80.44185238029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Tim Hortons",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 9000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107084617862330119926\">Ruslan Melnyk</a>"
+        ],
+        "photo_reference": "AeeoHcIitHUyo2LHH82aVMQG0L3eMCyZTt2xu-ArKubdsf_doQP_pMXGaJ1GUAJ7alY4juWqKTxz4Pfdfxp5aJpOofxOCCepJ7vaPAddcgsZ4FTm5UT-iWg1yEF1axLGjFXftq2dhbZm81KDcfIUG5oFcJs2p7a3_F1GHVGHbd3JPWAGTDmebeHgpA1FyX02Q-b1Lq9Zs64eZVRXDQIWY12myx59ERsro7FmfMjiYtRSQVGj06oRPrvz2S0_ij9T9MCl4M9BnoixxzT4oSxeEJk5725Pwvx6LLgWnxoli_rCMQmvl8kH7rqZOCS9fhBfHIjmJGXl1i0qbYOn7_41fpP7XinIgrCgTlRyf1vHuxj6Ffe_273lAYbgM8Jz_-S59ybaqYxHvx9tNH4Yyz11oqUl4YF6ZVDNyzOkHfMtk4JD6VhPSbW48PwVbsPLzvGoTBr6UtsfC82OLTJCGxBOUXwJgpBKLP2KA6pw99p5uCozZ-fHHzBYSzPIPY_vbISUYFlYSX8URqXT0jATCBvt7J8tFarqxGQCuwy8rGLCJCs8xmG1e9pPRf6IUCSlAMQJ3Q-V4ccxJ8j96zYH4jkjglU8HuXM_t3xWsLUCwCjXSu_v4gl0iPOFKWFZXopmpoReR-lzJQETA",
+        "width": 12000
+      }
+    ],
+    "place_id": "ChIJ6d0zfqaMK4gRO_e-A4KEL3I",
+    "plus_code": {
+      "compound_code": "FHC5+HR Kitchener, ON, Canada",
+      "global_code": "86MXFHC5+HR"
+    },
+    "price_level": 1,
+    "rating": 3.6,
+    "reference": "ChIJ6d0zfqaMK4gRO_e-A4KEL3I",
+    "scope": "GOOGLE",
+    "types": [
+      "bakery",
+      "cafe",
+      "restaurant",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1489,
+    "vicinity": "1475 Victoria Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47569660000001,
+        "lng": -80.51724209999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4771182302915,
+          "lng": -80.51608341970848
+        },
+        "southwest": {
+          "lat": 43.4744202697085,
+          "lng": -80.51878138029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "solis optics - Waterloo",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4140,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103892617003624283943\">solis optics - Waterloo</a>"
+        ],
+        "photo_reference": "AeeoHcK4QkQj8TvLbYS2JBAnGIIm1ZHhGN_nLJdzGqppiIoZxY5SqXF3Un3TKC2scdkIHM545FnkL1Szt1EGFtKJJkIvrHIbqMR9AxFbC74zW3Mbto_pEHiQQkf52_9cjjoqLvorcnv4DAuYyvWk_kU80K7i0UKrlXPSVKx1GbvxKQ1EHJR4m4WzYweUwvvvv-LvtT04LNoJ9phwi1U7jfqXFTa5LdTvisuOTyQkbWsNoqMJ-AftYzbCVuajMyMimqSO2eFwZ3ofJQ8Ha0hrwpjeTU_F-BsaA4ebyLYR_vcY4Px-iSDvL2wYwwvJSb79uDfFXn5yogqAvWg",
+        "width": 7360
+      }
+    ],
+    "place_id": "ChIJk2a2SfTzK4gR7xzBbATKPwQ",
+    "plus_code": {
+      "compound_code": "FFGM+74 Waterloo, ON, Canada",
+      "global_code": "86MXFFGM+74"
+    },
+    "rating": 4.8,
+    "reference": "ChIJk2a2SfTzK4gR7xzBbATKPwQ",
+    "scope": "GOOGLE",
+    "types": [
+      "health",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 83,
+    "vicinity": "182 Weber Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4837233,
+        "lng": -80.5259945
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4849887302915,
+          "lng": -80.52485091970848
+        },
+        "southwest": {
+          "lat": 43.4822907697085,
+          "lng": -80.5275488802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Tim Hortons",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105346788975132129606\">Aman Jowaheer</a>"
+        ],
+        "photo_reference": "AeeoHcKZCGs6352N-vziQm6KxRZ1_59-Ql8Bw1CjBkEnWtVH2k-NJul_kpOgbPP_EzzAgTvBRvoa5vnYfznQ-ZqspBvYjYn6ytYty4Ka46g8Jej9JKz1jZxsefS4J0ZtaVqZjEXeDzSmDrvoz5Hk1juXkzVqly7bCTMHX_8ghZn_yTekARkFqQZ181s2fvej4EhUkQIcm99vci_UIDnYPFO5Ftydm09alFYie_UK7QtecbHsjvtLeHt7VkVgWDArni-mSg1DeMvVp_1G688eeTF6Njx789JYTDSfVOD_fzEBhcoi-1nExk9Rf937UrgRelMYovuKVD6O4p_g4S9Zz5pdR_8w1-AuOoyx8yANnPfAeWDEyKlDDlu8IYSiUD6DY5s73yQJtH35I17bN0KBkgMwgvt7VwOgAf16HWDunuQBw9kWXgtdAgQbv0bFzHmLPUKHVls66fiZCdS-w1FTxMKnnLFEySg4ybRypeYVlXchGef53nHiLzJqTef1KUAFBFjq2mlRZalNTBMPWv7OPEh8n7GELLV5CpMbsladVBdub1fbUei_NSkoeIy3n44SYtUNG3HKH8qsNWCu_C3p_PlLRrcippqaEMg8cZrUo62AlEZQ1uVCFyItXUXnH0KrT2DnawYUDYKf",
+        "width": 1200
+      }
+    ],
+    "place_id": "ChIJdTPZC_LzK4gRxOJWmCJ_pQU",
+    "plus_code": {
+      "compound_code": "FFMF+FJ Waterloo, ON, Canada",
+      "global_code": "86MXFFMF+FJ"
+    },
+    "price_level": 1,
+    "rating": 3.8,
+    "reference": "ChIJdTPZC_LzK4gRxOJWmCJ_pQU",
+    "scope": "GOOGLE",
+    "types": [
+      "bakery",
+      "cafe",
+      "restaurant",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 763,
+    "vicinity": "384 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4193067,
+        "lng": -80.4430952
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4207192302915,
+          "lng": -80.4417669697085
+        },
+        "southwest": {
+          "lat": 43.4180212697085,
+          "lng": -80.4444649302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Play It Again Sports",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113664309233820834071\">Ron Dutton</a>"
+        ],
+        "photo_reference": "AeeoHcL-a7ZBlqk9v4zeAlmiaWF2krDLE7CKvFyCgWkNNFxh0W2wePpyTE9wqIpthj_9zY-8DcUWNaUMmqlrQZ5cwSsaZfaUTGk9IzyKMM-qy7Q38n-oh0bvlch42wV448-O2fLSfdyV9wP_adn6KiQbIUiWLiKXOs6lfU5yMwvOtv1odX5my21IHQ8DYn6zaeuNZz8HQU4sETvgBQPs2l_NRhKgns7eAcw9OokX6LXrS-xsb_AMTtjbwiqIGN2iOBK4hq4KHu5JvrtD-61Ii21n_ZWLrkTFm0_knGvSSiE0OvVyaoh1LKRDTytVabRozBFDgeAzB0HFh0KaGZzuYVq7omLPNLM4Xyf9n3KWl25L7gMvZMC16VaQgxQy-6sedEmlcpGDlWgSQgjcPi8oS1mMEEUOVe3jHFq88dsMz0VxT4iQ-MTzcTYTpA1zm2_ouCRu46R2qJvmQXKH-6y-5QV8ymy82obtrGqXYCBfo79DlvvBCf0TKChRX4qRF6m2LW7vX09_iIB9vp_ymo_EWExB2TgKICyzTMu3Qa6gMPZTTTJnpC9xhAh1FSxL5TQ5A7zzIUK0RZCLwJgAzyipjl8G6VbUbvMyITEC0R_ewnhSpwRWRWN1y0NYL7L-WbGSKGgDN11jywu8",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJv4HKt9qKK4gRAaB67G58-k4",
+    "plus_code": {
+      "compound_code": "CH94+PQ Kitchener, ON, Canada",
+      "global_code": "86MXCH94+PQ"
+    },
+    "rating": 4.3,
+    "reference": "ChIJv4HKt9qKK4gRAaB67G58-k4",
+    "scope": "GOOGLE",
+    "types": [
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 348,
+    "vicinity": "509 Wilson Avenue #12, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46362999999999,
+        "lng": -80.523432
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4647270302915,
+          "lng": -80.52188966970849
+        },
+        "southwest": {
+          "lat": 43.4620290697085,
+          "lng": -80.5245876302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+    "name": "Shoppers Drug Mart",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107198089164830315426\">Deepak Vishnu D</a>"
+        ],
+        "photo_reference": "AeeoHcIIhCkGa9TgA4GswpyxyXWHx38B8_l0-xZdUHMgCNie8zWrpMHace3myjqlXjKjb6Qz_BELrJ-5_wfkEhWSOBVPRMs91_I5eB9W7li9bLdC18r-4FtSWcxZpUl9pW-P1sDNDa7WZGoDx2ld3jKWWaL5qoUb6aFtKpbIMI_IqzgKY8OL7F-rYVEyzut1zHkOhYlXQyhwcw2skJHJ7NGDSHYJ9p3TD1VFtH78pqaCLVO6AddXa-H2dgvdVHI3VWvw8OEGy0m1eMHRQLONtDhF0cGrTCCqo0z5pXS2rySWK7vLulrmtZDj5iDo1YnmWVyt5A9rG5VzUF7mbAVnJB4dJcZ65RmkQguGeKAply5LpATCCQDiMKYdG_r31l7Yo2QQPs0DW74rrC17evmu6pA1Gf01ZajSfHM4EQSCdkpRrCt6RSGQCuGRIfSubgDmI5fmXLW_s1Dv3F0mUMs3DBljdxvofP30iLkS78chmtS6x_yszgDP0dgdZJ77Bi1STtJA3Tki7do9gE_dAE0U-U4fFsBkGyR-p0Hp3ZHpwpNgp_RrqqM-MY11t8cHR6G1KiFTlm_M5BC6k1F3CK0981L87aLCguIexorxf0zPrhcrOW6eC96jTqIwF-I1NuevaAvAWGl7eDRS",
+        "width": 4160
+      }
+    ],
+    "place_id": "ChIJxUdsrxL0K4gR0GO0y09f3H8",
+    "plus_code": {
+      "compound_code": "FF7G+FJ Waterloo, ON, Canada",
+      "global_code": "86MXFF7G+FJ"
+    },
+    "rating": 3.5,
+    "reference": "ChIJxUdsrxL0K4gR0GO0y09f3H8",
+    "scope": "GOOGLE",
+    "types": [
+      "pharmacy",
+      "drugstore",
+      "health",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 134,
+    "vicinity": "75 King Street South Unit 42/43, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47699809999999,
+        "lng": -80.5214871
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47837193029149,
+          "lng": -80.52026621970849
+        },
+        "southwest": {
+          "lat": 43.4756739697085,
+          "lng": -80.52296418029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Tim Hortons",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116754247367708394247\">Toko Love Food</a>"
+        ],
+        "photo_reference": "AeeoHcKeNiVtc7cN06oY3n34GWekEsu_pojPKlchlYwIAMDOgtVFvhlg2sK77aj5SApbF2dY8epc-VPb7qPK-GWZk5yWp5f1APyHY0zhDFbEzfiwV-oI1Tl-gZ3GA7-qMX3x74Fw0J7nJm-nA-RXWv3BAm9YDyrLjNAs3OU4X0zGAGS3i69dFkzqhib7ikTKdJUGOJ33CVmSYpLCE6Qwc1D3lDxImrboGgJZse3LbXOP41Qa7vbnsuSLRvj7ZOb7C-U1OO1c8Ns6XZJBX_lrd0N0U9zSIr1bwi5-QXL0CgIRkW_rrsXPKqYW3-MnCW7tvNA9V2TL8IlfxMQZI78XSUTukCr9_MIvbQmUjrO9TTXr-qGJGkcPD3XxC-uNhGFFFG97YWMzgfhSosgzYztm_px5SjJw0NGPMSjsEHl_lLuOB068CjpiCEMVhVLdMa-9YGDoimhD0dZP0N0MGo3mLGMun1gWR5vtSiZd-S2hEJx9pLHzCV9VCmDcFJnigcctxoovDurGqcUXXukd_iXQ_wy_qNry-a-Hp89Db1DjzH-4mgygwKpKuXrGoA9ZU8Qx-_uxf4BH-I0N_NJbYCONfgE-B45lNltqtorm4eR7035-4c6P0RFIiXIus9yxzY3zQaOS_i2ECACB",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJ3Q1cmgP0K4gRMg_ATXh0ClY",
+    "plus_code": {
+      "compound_code": "FFGH+QC Waterloo, ON, Canada",
+      "global_code": "86MXFFGH+QC"
+    },
+    "price_level": 1,
+    "rating": 3.6,
+    "reference": "ChIJ3Q1cmgP0K4gRMg_ATXh0ClY",
+    "scope": "GOOGLE",
+    "types": [
+      "bakery",
+      "cafe",
+      "restaurant",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1631,
+    "vicinity": "65 University Avenue East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4183105,
+        "lng": -80.45117139999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4198169802915,
+          "lng": -80.44973776970849
+        },
+        "southwest": {
+          "lat": 43.4171190197085,
+          "lng": -80.4524357302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+    "name": "Food Basics",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101284388776838668941\">Peter Traplin</a>"
+        ],
+        "photo_reference": "AeeoHcKUFJ8fmCgmSZl1xRTCWUeSUCy6jR6rEVQvQRYf1KfA2RJxF_bmXDGuJqGmhsHlo99yngvPIm1SVlZfuOgApAviNCmkvLSKh2xiZUcNX7DpOAjWdCtMYMnMdF4AjkFr3kDGt1880dkbNAoE8YwgPI_VS5IUElqQKU057P_PXL8APLfdEhuV5bQToTIznM30XEje0CNksT-0yTtbjCKIfbNc7_3dn5w5GPxgZH9vROVDd9Np4m4DNy3Eztr07s3fMhI1KMdPxwDr6YDFN-yQPWpP7CagKcUtKg3-oPD_UHN76GJThGNKNrPJdVhmmDICQTP5zVGh9BpbIyNntg2ycqzOgCc1lG86nsaOHTSpLI_QuMtwllBd2eisyPXcfoxD0-6jbGPhI37IYnVQsfUj3dNE3x6xT74OLqEZeWwa5XgO433rcqN7Va9S3ifyZLZ4xwcbcWPn7thVQUpob2-b0EwpsO7Y_mzenpV46W5VYjYv0xLLUz4MTH_K1qe-YQOxuEHgGbBjIZJw0mxJ2X8Z37p4jeCL9k94tMmE8xwBL1lLR2oLdLcSXb3-YUFu7zizJu6Zx2e5eJ2dWGmYf6YmIZxS2HvTmM53sG6cH81kqLXNLA0UrTToiZ-blHcVR8VA",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJgwclnM2KK4gRHz65XL6VnSI",
+    "plus_code": {
+      "compound_code": "CG9X+8G Kitchener, ON, Canada",
+      "global_code": "86MXCG9X+8G"
+    },
+    "rating": 4.1,
+    "reference": "ChIJgwclnM2KK4gRHz65XL6VnSI",
+    "scope": "GOOGLE",
+    "types": [
+      "supermarket",
+      "grocery_or_supermarket",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1709,
+    "vicinity": "655 Fairway Road South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4976671,
+        "lng": -80.52569439999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4990039302915,
+          "lng": -80.5241679697085
+        },
+        "southwest": {
+          "lat": 43.4963059697085,
+          "lng": -80.5268659302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Rogers",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3417,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112934340028120797696\">Rogers</a>"
+        ],
+        "photo_reference": "AeeoHcJcKjC7-9__UOrVZR-I-Idt1kCewecBlJaMkLKYD021QhDlev4LJDqQnd85ohLiEmuHaWgpqdyG7pYNBOQZY1Os_HB7GN2ijHGDw5PwLQ_1QcaBQoD-IsV7XJYC_DmRv0zrxWnM_9G6pjuGlc138rux_6_tjj0V45vlaWMGDEm3zh5UpH0LH7w74orZi85_a2KgSTau0MGQHaCH-mRRqtWrdC-rlJFh0zXJJigaseNsV93SuHtsJD1Sa_yeUb20DP0PdiK6p2FkwmSYLtZmGANYxHAjEDuQi25Z6zoLPtwA2n7nP4gcIht7JsrDNMJ9gRQ6ZF6IHrg",
+        "width": 4681
+      }
+    ],
+    "place_id": "ChIJn57J_sPzK4gRMz9Avt5aBpE",
+    "plus_code": {
+      "compound_code": "FFXF+3P Waterloo, ON, Canada",
+      "global_code": "86MXFFXF+3P"
+    },
+    "rating": 2.8,
+    "reference": "ChIJn57J_sPzK4gRMz9Avt5aBpE",
+    "scope": "GOOGLE",
+    "types": [
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 132,
+    "vicinity": "550 King Street North Unit 5G, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4071754,
+        "lng": -80.5002064
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4084776302915,
+          "lng": -80.49892271970849
+        },
+        "southwest": {
+          "lat": 43.4057796697085,
+          "lng": -80.5016206802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Marble Slab Creamery -- KITCHENER -- Williamsburg Town Center",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109338729318599261685\">Deniie Patel</a>"
+        ],
+        "photo_reference": "AeeoHcKJ8a1jQpFUrbEIc_TjILvmLTMGP0QKGIwSWUR7n8dD13suFXcYgHceIDY9gbZMFxelv1x82YTgyWAG-vUEwWMAmNnNLvKv758dV8KfIaGfeJ8TX4qtK99xteOzDDwh4ps6lbM1FM3ebvixtbIhRl4crTVaSqNCNyI8ZSDv9yfhIGqbUZYPPvJKvQdWLMigoLEScIaKmYJXNgf0gXY7BqLe8wzWtCTGnKanZqiATfFWu_ypWkQvslbk2WCP5qIVPPbKSd59nyXmvg5PojZXFjzgSmTnHFg70LXeKN-RbAi8j_C15Uqgi8k2MfUouikVU72ZhoqJ3MezxtoP0P0mZtesLnyq7T6KXfXebkPsklh7K2zp-RvcKk8AKFaXm38TbgPQYEvCOBiC7BWjYzNY9d8Lk1fIXCio4D1sDpb2WQwWiMHDmhz05ltvTe4-IbhqlvhCVVkc6h5wO67PXfPpUyMJ0JHePGQER51gp4CKJQad9XGyHxhGLSyLFHhqaMyRnBO06BEXKxNTzIakDD159krsbeBqNjO1KZUV78RkES_HkKouuOgs3Z7Tbvi-qeuqsuCXpdE0-VCJHoM6G_9ULlYhtx92nKuqE9587HGB3pyXdWfFgnIEYkBAxK4JADEISoYKog",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJv6zoq531K4gRbKjgNzynM08",
+    "plus_code": {
+      "compound_code": "CF4X+VW Kitchener, ON, Canada",
+      "global_code": "86MXCF4X+VW"
+    },
+    "price_level": 2,
+    "rating": 3.8,
+    "reference": "ChIJv6zoq531K4gRbKjgNzynM08",
+    "scope": "GOOGLE",
+    "types": [
+      "bakery",
+      "restaurant",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 283,
+    "vicinity": "1170 Fischer-Hallman Road #250, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4001083,
+        "lng": -80.49122609999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4016138302915,
+          "lng": -80.48974906970848
+        },
+        "southwest": {
+          "lat": 43.3989158697085,
+          "lng": -80.49244703029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Franklin Empire",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111373189753808315035\">Franklin Empire</a>"
+        ],
+        "photo_reference": "AeeoHcLuA0iaiZTHbOeg72OJJcjS1PlfSOyfCnTnzfSfFoZMbYL1G0B_1YGEZATImtzEnhkDjVOP_oKiEdqG5OrPa8SSLGAe8YRR_fcRUEBD9uRhIyhD078RqO-sSfYDnJGqlAaHW-nRgzasHRzcZbGB3clp5WoHmSxf6inX8N6zhwvsZC_O21RzCQuo8sc78dy89sDYMLnDelxjt4IeCKN-mt7ew7TrheMgDUahcDyE_YyEAYNVkmM5ttDO5TsIPuewh8C4N8jdDaO0d1cn3EL_eWfTC1tpuOtUTq-gQerQklKR6KpNrjIEzkVoi3NTI2xA_0Apn4X7BNs",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJ3ewsgTqKK4gRZ8spiCIcjm4",
+    "plus_code": {
+      "compound_code": "CG25+2G Kitchener, ON, Canada",
+      "global_code": "86MXCG25+2G"
+    },
+    "rating": 4.1,
+    "reference": "ChIJ3ewsgTqKK4gRZ8spiCIcjm4",
+    "scope": "GOOGLE",
+    "types": [
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 7,
+    "vicinity": "121 Washburn Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.42923159999999,
+        "lng": -80.52498489999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.43057758029151,
+          "lng": -80.5237263197085
+        },
+        "southwest": {
+          "lat": 43.42787961970851,
+          "lng": -80.52642428029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Rogers",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2602,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107541471098560332411\">Rogers</a>"
+        ],
+        "photo_reference": "AeeoHcK_1F39OnxKcnLb19AogGIp2Q9TRqFCWYoPvW6sQENxu0qz6UOmh9hc60ibLmqHAdhlHWA_6OUXMil9CXvgNj_FwmM7ZVRFHM93Qlkw0RmFYk6To55pWHrdOvQfSW-VhM8Lpgsm1HNC6CNiN96JhOAUNHQKEFquy_z1WlCBg0z8p_Ew-DJioSc6XBvVfNGivxutxc_-q_A5fjb9FvP6IQ994dRy1qIG-oflIksv4Bkbm7RJcKVlWBBeZ80nMi8SgjUL1ob3qIecpQOJ-HMMW1RKygQHhbTl-UAVDb1ciwoTIfeWlTc-efGdJ9AS-cviGf3GVj8PZpw",
+        "width": 4398
+      }
+    ],
+    "place_id": "ChIJk1sgMsn1K4gR1gx8o0ri9TI",
+    "plus_code": {
+      "compound_code": "CFHG+M2 Kitchener, ON, Canada",
+      "global_code": "86MXCFHG+M2"
+    },
+    "rating": 2.6,
+    "reference": "ChIJk1sgMsn1K4gR1gx8o0ri9TI",
+    "scope": "GOOGLE",
+    "types": [
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 236,
+    "vicinity": "875 Highland Road West Unit 168, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4699493,
+        "lng": -80.515537
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47114208029149,
+          "lng": -80.51443206970849
+        },
+        "southwest": {
+          "lat": 43.46844411970849,
+          "lng": -80.51713003029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Rogers",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108766721863579473741\">Richard Fosse</a>"
+        ],
+        "photo_reference": "AeeoHcLhpRCO6NEstLlCKhD5rzGTSuTL3vbHCW-X_CvzzTlgGuduT1ejIYy8VXYNx_41MkuvAcTwTkgTsCaGXBdN4a11uoh3P1iyYIdobRbnNlbaUCA1gtZzoqvBEipqJLebcAklkxc2qp4eUNFUJqRaZXzp2TzXsZ7817YufE5VMT7J2sBRXJmKRTC4sIEewZc46WfBHcPH1DWfJGDqYhhO_Og4Szyj1xWn4tge_Bq2iKPDYoSqPSyCNaf0J96KJO8xgtn5ZSaYHAqzXLGLY79_LQ57pG7n3fAndunpSZ6FbEX6aOw-QyQ9iLVaOI_H6gQTY9OY7G5QMKY2BGhMyKMYZM9ZLsAfKbsFb9wCPA-oKWAKwRi8HJm3bT40YGbWqXFkXjKwM2OvC2z9Z3lTr6qirBVBDM0k7cNUnkUN9ciXlCNqkYNVpVKkyoM6yp9lEE6Wv1UwLRQF1G6WM8Ne-PCeyVC5S2g3xYdEorzFeZC4q7Vk1DHnhpV1KpH4p9_D-aKw3ETmQ-KvL2ABMIK164k6RHY8PK6jv6-AubisOMt-hG7mpv3ZKMZojEDDi-GLMH4CAHYLsCXSc9-6Ws7iRgXkfytS0NFyDgwjEg_juGi2zS6n--hrJ6V2zEoinNsTnzZM",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJBfks_nb0K4gR7MmDydlXEr4",
+    "plus_code": {
+      "compound_code": "FF9M+XQ Waterloo, ON, Canada",
+      "global_code": "86MXFF9M+XQ"
+    },
+    "rating": 4.5,
+    "reference": "ChIJBfks_nb0K4gR7MmDydlXEr4",
+    "scope": "GOOGLE",
+    "types": [
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 233,
+    "vicinity": "94 Bridgeport Road East #115, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4846435,
+        "lng": -80.54026979999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4859889302915,
+          "lng": -80.53894326970848
+        },
+        "southwest": {
+          "lat": 43.4832909697085,
+          "lng": -80.5416412302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Tim Hortons",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113932187865128667984\">13 OTHI</a>"
+        ],
+        "photo_reference": "AeeoHcJhMFfzkIF-ivBqTAhTXNfjne2cR4Kx7S4ujICtbJDA00CN4rBYxNvsiswFFVunsAr978goffSLlP99T_ArKkfjgnD4HkLi8SCU4_d26GHhLd9kMVG_SSwfB8qzoiQgXMse3dzqUXBnXp6d22n0JIhBeSJsgzY1c74Wqkt5n8mlM8__CccWAP6Gsy9j_tEuj1zLkM7TTxbHcJuGYPmVqL1j7tCgdoDnRc4Lc6bnYVGtuFH_xemmkP95kTIFCei5Or6d8quLgdfrcQjxZqNOh-rbfiGtfYcl2GThqoAMX7S6vfUF-580uH2Lpj4oA8JeS4yFI-ktJKrKMneS5yiiSpJVEPAJDd9fuSZ-RUDZlqHCigk9jYeMPzSImkQdWC7Oa28t1JAN0xzmrFuMDQgoqcHIL_G4t_u09W9h4AtLNSZcPFQPgjuHXiaeZR54-wGhzrHS6NmHA0ePR-l9sZEFvxjAojP-kRn7TXPX3GZ1aocZtpgR_OSQtudG1A_XKUV8ljF4UlkGN5wh45BI6lq858i5gwn-mXfdXlKHl3j3TJYOuE6Nto8owTptDn-gAM-44e2OezTIp74ZNZi7QtXzYQJ_Jm30WyXRtyFRtIy5Vj4CCa9FjeQgga0tOQoo7eguZ-e_Ew",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJAU-_2fzzK4gR5C93JyGq_aY",
+    "plus_code": {
+      "compound_code": "FFM5+VV Waterloo, ON, Canada",
+      "global_code": "86MXFFM5+VV"
+    },
+    "price_level": 1,
+    "rating": 3.7,
+    "reference": "ChIJAU-_2fzzK4gR5C93JyGq_aY",
+    "scope": "GOOGLE",
+    "types": [
+      "bakery",
+      "cafe",
+      "restaurant",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1035,
+    "vicinity": "465 Phillip Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.42440209999999,
+        "lng": -80.43889399999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.42608338029149,
+          "lng": -80.43711786970849
+        },
+        "southwest": {
+          "lat": 43.4233854197085,
+          "lng": -80.4398158302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Rogers",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113664309233820834071\">Ron Dutton</a>"
+        ],
+        "photo_reference": "AeeoHcK-KWjCLf9-ucNubpErN9p6749GuTMQcTugC6nX23KFtuSG2PjtuuiBIpzB2WUvpOCI-LZzdDzpgJ6l9L2c3YDUt0xaZjIBKONjAHo3rcIfU_hftW4mg_13OXz9LofyhNEyG2_Z0lIZ24nCSbp0Txu18q6axryOYq4fFiVnOhhFtJVgjmNVp_bwtvZ9nu0X9rGRv_PcIRgwO8BULhj2uHpBZUbpe_GTUiJzziFOgeTm2jb6sBPSIDuPSrFHTw25g2UCtzK__zmLYOMIB8HBL160C3E2oQTCvS7Mf73rDdFDwYkYa6v14i7uEGuIRMDcagPA-MTlSN44GR6rLXVpkesRZGBnTxgSiYv9YA0ts70zdWaHl_w36zVxgwrFH5mnq9CicQ_Xho7BFm4_tNeQ8zdsRLle030aPxWTOqTasnteTmCpTEgo3gQzrncQfdZiHGLWAXzkZXFW9rpcBHCPeTjLDhwq_Vu0L_uwNKhrY7NLvBUGDS9Whie6XA_LSDrxPq99C-KVMYvEtvg8qy1psquE9fiipqJcgc39a67K0_IG5tjt-vFKcLXk80-5xI3FL3VsBvzvNSENiPU8ZXUkSDcLjKM6NcQ_nlVM8rugWMjtUQPotoMnbsBLdbtoD8Wi",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJIRG02d6KK4gRr3GeTKT1OXU",
+    "plus_code": {
+      "compound_code": "CHF6+QC Kitchener, ON, Canada",
+      "global_code": "86MXCHF6+QC"
+    },
+    "rating": 3,
+    "reference": "ChIJIRG02d6KK4gRr3GeTKT1OXU",
+    "scope": "GOOGLE",
+    "types": [
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 230,
+    "vicinity": "2960 Kingsway Drive Unit M021, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.48884239999999,
+        "lng": -80.4927009
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4901590302915,
+          "lng": -80.4913995697085
+        },
+        "southwest": {
+          "lat": 43.4874610697085,
+          "lng": -80.49409753029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Tim Hortons",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116249149672448771582\">Mike Kropf</a>"
+        ],
+        "photo_reference": "AeeoHcL7dORiHKX7oF0aF8i7nXoYH_JSrJaXq3a3Dc0SXZs46XscPblGGnq8CtGS5DK4IQ82_E7taoOFeTe__khdJ1y5DC7yWNTtQ6wYTa5zs2VfPW9PH9OgOY9aJRvibj7sx7lrkF1fbZXGSbRykeIFF9xcm_9aO5JnbfujcGfa9YS4ZmL79M8-nqFtuVvCX4t4toUZbLk0Vj-EmoEnubE_KmHl0PaBLt-uxBvOXlsVWCT0bBceQOZDzpRMVhb7QBasVomFkdsdp0ipBynw6iK9axAws_dzgrc5MB_DJNRCnFdLqZuoKvT2VeLSAbKG-AMyhuqBHTheHj0-sBLgTEOBzGJ3cbyfvuhmvkj27FKDrPY3oXR6vjkgux54hEG3aDPOyTeFKCKIBd5zYOIS9VcvoJVt2XAsj3fVCB6W2n9f8b-_tvfpe9XqhlLrS2Grmws0pc7V9im-PG2Gd81BcJkHKynyezqiHvF4RreX3Iz0NsmKx2kyoyOg7qntO1RArAKrcXDM6ZJIiSrl69x9xvqQPVgK0u4txYKy2IPi3UhxIjhJ6w8hXSuxZeUwBginleOokxxKoUQSxwJS5y1cJYGhFh3NpSGrhVnCGePXZCKsi9s7eXWKrP3KOegwSekfj3N5RE0l-w",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJYxAXYHPzK4gRm8kEYTawTjU",
+    "plus_code": {
+      "compound_code": "FGQ4+GW Waterloo, ON, Canada",
+      "global_code": "86MXFGQ4+GW"
+    },
+    "price_level": 1,
+    "rating": 3.7,
+    "reference": "ChIJYxAXYHPzK4gRm8kEYTawTjU",
+    "scope": "GOOGLE",
+    "types": [
+      "bakery",
+      "cafe",
+      "restaurant",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 774,
+    "vicinity": "425 University Avenue East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.42343779999999,
+        "lng": -80.44070099999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.42479468029151,
+          "lng": -80.43930851970848
+        },
+        "southwest": {
+          "lat": 43.42209671970851,
+          "lng": -80.4420064802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Hudson’s Bay",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2121,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117030695927320490538\">Rajesh Kumar</a>"
+        ],
+        "photo_reference": "AeeoHcIqhLDsScjTRb9pbCOoxh_x9UD87Wu6KSDCrmCFbzcWuBoBm7-tuQXRMwwzI_1S0nCe-C61ZPWv6xEsvdSaPcqovMwynwQTtYrhygrEKE4iG4D12sm5na-SuztdRmRbGoYPkUJMCh16MRZ6uCxwNCQVftP3NDxPIOQEXlKIHQWj6Z9vp48YLXGz4foc2Yg9DbWsu52-4TyucnubXprVDf-i_eRTMo6iZzng_zahEQAwI0pQ51UTbjY0VUjs5fggYeJFO1B2DTDhGsc0gyVXykQOoBRRhXd94wDHmfg1tTzauonXAvjZG1fRQlZ4433Qccw0VPWL3scfNXymeBg8NWNsg9xkky_8PheqNZ7fjsnfSpL-T-Qwa3MDQGQ0uksjrQpvhGm5ZI1u-rIylFQdXvJrpya-BjV7fQHGCU46-yQzcMfsHbPDuKHtrH3CYKirfONkJQfUIc_AtEwdzOGS_0ZexvCMmWHAX4BsadMsizuBxQi9H-M_cLfhcxEvZ5zlhCqH71zIyOEMhJX2kNo-W6vXiVrbmqQW7L5ILy0szWSa_IatJ0fcUKb-1s2WUN7V1PpOSBgFybEK6b7Nm9ekAULZwlWdmfIx1n5jJ1mg6EBgtm1InNcwJBzf5VqQssDU",
+        "width": 3771
+      }
+    ],
+    "place_id": "ChIJq6qqWtmKK4gRbo3sPdxWmhE",
+    "plus_code": {
+      "compound_code": "CHF5+9P Kitchener, ON, Canada",
+      "global_code": "86MXCHF5+9P"
+    },
+    "rating": 4,
+    "reference": "ChIJq6qqWtmKK4gRbo3sPdxWmhE",
+    "scope": "GOOGLE",
+    "types": [
+      "department_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1574,
+    "vicinity": "3050 Kingsway Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4243176,
+        "lng": -80.438563
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4255768302915,
+          "lng": -80.4367087697085
+        },
+        "southwest": {
+          "lat": 43.4228788697085,
+          "lng": -80.43940673029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "ALDO",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111741149029848616871\">BHAVIK PATEL</a>"
+        ],
+        "photo_reference": "AeeoHcKO8_x1faYILGMdOHUcAm473KJN-ofUxL6lKEKXhBwOi07kSHOljnUwP8SUHi4Phpc4dpSc-6Yb7vboACSmzaDsqCZkpNG3sz54_CoEYbUgZzJG5PFmnNuOSTRtRV8c454DsOBGTcm2dtXzCN1Kl5n6sOm0tb5OUlqVHpfJX2OXgQlxZwt4c8S--rTImjbwKVRT8suQVGBBqX18iKoBYQDBDRjZmQT8xuQur36l4MBZYC5bDs8ciSYP7gAq5IUqDC7UNyfHS3C2nNSd_VWXnPVYMezbB4KkDlFnvvXqg9PnLdWxkpSOSI6LYcziagXVxjv3m6GnIT6ItH8kZ4-mdoOfjQhMEvWNgMSdVjKTBM1mXCHqyW_nziCYD-0_EmxCPlnBm4chuo5RAVw7tW8fzwQdIq8MvC-cYqx_-Ypfcg6cdfzz3VgdTGPlFn1IQrxf0bUrVFrApQqGhom5sKw3Ij3Eplx5L6zV9opgd0qth3SCepAPm51W-rSOdUf8eKPP-8wCyJzsLPo1RZCCeaPjGtNHAD12SUzx41MxCgAuHGg_8QQkPaOfttF4dkEkAfDl1uJ-h0bdiIJfaUCE6ZdOm-LGJfnOWCk1qEMw_YIHLXdVyaxThz2z865wcK05i-EH",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJq6qqWtmKK4gR0ZiHHq0lZYM",
+    "plus_code": {
+      "compound_code": "CHF6+PH Kitchener, ON, Canada",
+      "global_code": "86MXCHF6+PH"
+    },
+    "price_level": 2,
+    "rating": 3.8,
+    "reference": "ChIJq6qqWtmKK4gR0ZiHHq0lZYM",
+    "scope": "GOOGLE",
+    "types": [
+      "shoe_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 231,
+    "vicinity": "2960 Kingsway Drive C011A, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4648772,
+        "lng": -80.4615847
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4662027802915,
+          "lng": -80.46015736970851
+        },
+        "southwest": {
+          "lat": 43.4635048197085,
+          "lng": -80.46285533029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Colonial Acres Coins and Jewellery",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 900,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111016794134504664062\">Colonial Acres Coins and Jewellery</a>"
+        ],
+        "photo_reference": "AeeoHcLRBwt0v3UZD5ENmXXkJUwwGsZTS3bLXronH7b4E1W86g1zVJxpCGjQlMQZM9hxxXiiCVQ91KbsiQNgQzmKGFUEuh92r6-dHZQ_tuaPmN8zLvgePVrd_L3ReuMf6g2F8Gg98ypbPVuDca8zSZ4OsUEYSvIW4wDQ26yWxmr0sYMXn8ecLcSZWwsFPdLt3G6GDtyh_-GJ_qXdZe3ymU1b9ndn_htcwiFGkV27SbFZPpYI2ugFsBapxlw8pEvytdegaFuF73QI3g7bjHzerdZuCZMjY5wwjcVrjA8Sjp3RlvK2PDzWkAZ1klX5D091bFLT7IoIUlUm_go",
+        "width": 1200
+      }
+    ],
+    "place_id": "ChIJl6dBO5H0K4gRkmeDCbRZaHA",
+    "plus_code": {
+      "compound_code": "FG7Q+X9 Kitchener, ON, Canada",
+      "global_code": "86MXFG7Q+X9"
+    },
+    "rating": 4.6,
+    "reference": "ChIJl6dBO5H0K4gRkmeDCbRZaHA",
+    "scope": "GOOGLE",
+    "types": [
+      "jewelry_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 521,
+    "vicinity": "991 Victoria Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.498116,
+        "lng": -80.5262754
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4997294302915,
+          "lng": -80.5248524197085
+        },
+        "southwest": {
+          "lat": 43.4970314697085,
+          "lng": -80.5275503802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Best Buy Express",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109915428968644511431\">Best Buy Express</a>"
+        ],
+        "photo_reference": "AeeoHcLWEt1sawFD-Cn1fSF5BQFpNvuatBJn5RdEOgulBHcoNc3L4cw-WSjP4NqjSFpnpu-JSxuC2kDne8TtbDJ7HP-SakMtEs_qqBEA9H5QmNqggL4QSzjJej6vXAqez_5P1vf9DQ9ML4SqwpVAu4jAp0YOPQ4TDT71d1ZvFT9iz8N-SpN3lnl51ip_ogd5fRKFq9UgnCzN-WR282sr1YyfyzdxlxpB9RJ6jFceOSf4Q6bTEj0XcNjPGhKkdLfewkaBAuNypJnx2SllUbaxlzKDviZ_ytN540S9nN_pno8R8PuzAMWIpkmpSSibeYjCrq3KaoNp8lQcmEc",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJn57J_sPzK4gReuluHPpcYII",
+    "plus_code": {
+      "compound_code": "FFXF+6F Waterloo, ON, Canada",
+      "global_code": "86MXFFXF+6F"
+    },
+    "rating": 4.4,
+    "reference": "ChIJn57J_sPzK4gReuluHPpcYII",
+    "scope": "GOOGLE",
+    "types": [
+      "electronics_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 306,
+    "vicinity": "Conestoga Mall, 550 King St N Unit B18, Entrance #4, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44408000000001,
+        "lng": -80.46925139999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4453903802915,
+          "lng": -80.4679025197085
+        },
+        "southwest": {
+          "lat": 43.4426924197085,
+          "lng": -80.47060048029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Value Village",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3264,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112884209244038256767\">mohammad and nawras</a>"
+        ],
+        "photo_reference": "AeeoHcLcMdGtlzqSUhJe7U1YF2Kl1EP2m4HZf3V6fICLy_gM5z-zRVj5fa1osGf1-1rk8-FNEmS8WzYRNcJGjyCJdVZugV6a4RkuJGTFzSpALbb8SPBN5997JDV2vLlAozPhwHJispupysG9kZ2NKv7hQ-jE1t7JgA6KuFW0HLj7-DflV9FlHt2rZ1eMmONqDYFCJdkpyenGw5EFpVgmyjC3NhM0UnViSpq4RQ6uDnFnkPryg6ULYoC6GkYaakID5NrE7OLIw5XGwwC7mNWgeP5T30V6eefL5Ojm3p45b-X734yRWUucpbacGHIbuB1qVt59zOLqCO46sLJ0j-zQhwErGMkUTjSGb4qAn9W_XZXbw4WdW8xS7A1p9uH086RL6pzB2CfXM0lkLxE1SCCxpMcU7SxtF77g19LB-G0YVY52gFznJVvCR1GnwcWxjZymqxPaFsWkoPRbhvlbhzeAHtnLkoZ_s_qtAYvd7bY-kNXRWW7DK6DujDA5WMbaOauDSWNc8_OYj9rqCSdThc8HFsCWQfQP_r2AZpkctwPfZutSrOShZQPkONsMjUGOXC71qTU1pluqfKMFiVCr8inuHKrt_mAyKphGRS4ksjgJIUXwDESalYzvYI7W8G6-3HFuKros",
+        "width": 2448
+      }
+    ],
+    "place_id": "ChIJW3lvVcT0K4gRzZXAEdHS4Bw",
+    "plus_code": {
+      "compound_code": "CGVJ+J7 Kitchener, ON, Canada",
+      "global_code": "86MXCGVJ+J7"
+    },
+    "price_level": 1,
+    "rating": 3.8,
+    "reference": "ChIJW3lvVcT0K4gRzZXAEdHS4Bw",
+    "scope": "GOOGLE",
+    "types": [
+      "book_store",
+      "clothing_store",
+      "furniture_store",
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 2125,
+    "vicinity": "120 Ottawa Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4562191,
+        "lng": -80.4944098
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4576065802915,
+          "lng": -80.4929388697085
+        },
+        "southwest": {
+          "lat": 43.4549086197085,
+          "lng": -80.49563683029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Ziggy's Cycle",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107734030840267019059\">L. Buhr</a>"
+        ],
+        "photo_reference": "AeeoHcIYWfm-arQqyJ6EBPWgMfKUaPsPEOCJuaDgtLRH_FGnqmC0N8-3-MDaBI483uf7HhhfdslORKc5_xmQNqypp8o8BBfYm9TeLX6FqlQ90FCErNjO0DZhXYf3ArTtOd-BlCaDDnxZIrlBswq_SqRw_AQkmNh33I-8SJ5fjDrh3c27z5MWQ4_Q-7IINGBmDqkqSuFKUyeRAVdWjN9gOOtlzyZw9WXGO_L_WxECv6cmgAKITVtTD_6uvO3cpEmRozUej2__I-F-CJEDamd7oa6aeMWOsxAQ7klNTcNMHZQRW2_EB_GMcPpPDDvQir1C6UsjB3ls2RmiWCWSEIjZ2iiZlKj_qJ0ExP0KRcU2khXIM9I_jKK-Ktkb-U-2EguwiwkGx_-P2gO6GHDfb70AthwT-xkrlt8l6b6ZpQf-2JiI8IY5DLbk8sJ3NJpt_1U1fuAtyNaaczn6XiULK3Q9g7uT2fSXVU117dIBv7xVMVv-MEDVhjaqm-uE6PRZ66gObS3e9om4baC8pYuifR3HrrJNZC2xT3tvQ3qE-HZwRIfsd8oC1hrabwthb0Es5pqE7H-OE8uDq_159fjrrBEMhoko_dV2JUuW_mbLd30Q9ToPM9kSWxPZDyYVPGfhpylLMYUgBkaDFw",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJjUeDLvX0K4gR35KX4tEdSgQ",
+    "plus_code": {
+      "compound_code": "FG44+F6 Kitchener, ON, Canada",
+      "global_code": "86MXFG44+F6"
+    },
+    "rating": 4.7,
+    "reference": "ChIJjUeDLvX0K4gR35KX4tEdSgQ",
+    "scope": "GOOGLE",
+    "types": [
+      "bicycle_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 507,
+    "vicinity": "130 Weber Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4663755,
+        "lng": -80.52240809999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4677091802915,
+          "lng": -80.5212032697085
+        },
+        "southwest": {
+          "lat": 43.4650112197085,
+          "lng": -80.5239012302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Long & McQuade Musical Instruments",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106578232591429450861\">Jennifer Foster</a>"
+        ],
+        "photo_reference": "AeeoHcK5wKIiEXxvUTZAhdmCtArZUolyYFNa11p5QWgXtTzg4DWNWnlCdDYpkPWsTE1O7En2h5AZtyYxHaDt_VLdVcLMq4ykkP9QWvqdVu3zozGDWIv8mxe0PoKPcfASTPbKECqGhifDvk5da8q1Tn6-hgh2RkuYbuD39nMP8ErFGEjorzajq3_I-sCxS8Cd-bnJvuz3-g6EN_xoFeNWKgSovmQlVVdGJ2Kv6hbvJF-4ogQiTg9kPAg-LYARmDzKdlKR6ZDWxbhZ4eclILYhME22xk_zEHfr6gmWyQRHasvZskrZCgZLuoObtZA6Y8kNVk1U_zlzcL4i8QxnLTehTOlrEPCZa0ponILcgNyqIMaRADYioChaiA8kuBjBXKV19XRH3O58BN-Vb2dg8vGs9Mbc096lDIyaORFZF52NPBJiFbv9NASrDzH_QcEQDeTvxA_WkDoefLA2uNQapRvlPfMHmh_YsU9eLL_a4j9tvjdTQumqwLWmFw2_t-mP79UTf5GmRoqe-MHFmK1eX9jO0QR9Wgt0xI5YoqHKAEwJ1JnbqsJdUovQ2v_9b9TP8_ds9S6_6x0jU2g3PrzD08RmT2vJboD0hRTWtO9oIywIln0VpIqnOeIgl1ZAn0eVFC7XRU7NH-EfEw",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ40iVJA30K4gR46OjaOMf56M",
+    "plus_code": {
+      "compound_code": "FF8H+H2 Waterloo, ON, Canada",
+      "global_code": "86MXFF8H+H2"
+    },
+    "rating": 4.5,
+    "reference": "ChIJ40iVJA30K4gR46OjaOMf56M",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 263,
+    "vicinity": "36 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4628433,
+        "lng": -80.5220047
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4641650302915,
+          "lng": -80.52052996970849
+        },
+        "southwest": {
+          "lat": 43.4614670697085,
+          "lng": -80.5232279302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Starbucks",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106053813987624666164\">Starbucks</a>"
+        ],
+        "photo_reference": "AeeoHcI4QZe1rTxZ20RDWxaZ0I16XB9GeuFlxjnrrU_9C873yWmsInoQDiLm2-IxEFGGJIIPTab3cA6C5yD6bzFNWquGxDBV-SziuZ-SdfNdSjs10v0m5uZMBEbkyTSoYwcAfR4i45GdSM5BnrjXusyUudlXxoprCdC6MX4jWvxLijShzWQeXVgoKdJf1NLk1fZOZlSlzPwgIsY3WTNybiwgTCnzYb7jWTm_OArtksGAHHahYkK5_RzT4_A6_097KCd-XGQwkBBqc7OqpqzNgxJFE_r0Tyx8jpcn3D9wzVDHdWcvD9dUtBnmY00p9nyY9L7N1nC_FbQnApk",
+        "width": 720
+      }
+    ],
+    "place_id": "ChIJp31vsRL0K4gRufc5GUdUy7s",
+    "plus_code": {
+      "compound_code": "FF7H+45 Waterloo, ON, Canada",
+      "global_code": "86MXFF7H+45"
+    },
+    "price_level": 2,
+    "rating": 4.2,
+    "reference": "ChIJp31vsRL0K4gRufc5GUdUy7s",
+    "scope": "GOOGLE",
+    "types": [
+      "cafe",
+      "point_of_interest",
+      "food",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 793,
+    "vicinity": "95 King Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4562537,
+        "lng": -80.42969649999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45768888029149,
+          "lng": -80.4285253197085
+        },
+        "southwest": {
+          "lat": 43.4549909197085,
+          "lng": -80.4312232802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+    "name": "Food Basics",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101276968877339321445\">Sohamjit Das</a>"
+        ],
+        "photo_reference": "AeeoHcIMzVtvmGcIk9opYldYYWq3B1NEVwPwuKh_uZi3tzvDfCBcGl9Jv5o9GKHOKk3egsMXSdAz8xSWZ0zjckIGAKAqok8qRgLkMigp9aTkNGbPNu8G0dq_t80ntnzDFRxMW8UjAYON_Jn0q8sxV0TkPzr3prxHd69j77wVVyRyWxNtelYyTpP7Xl1nt3Qw7syx5tQoI_jPc916WPk8n7C6e9KA44sY1ZyEA7wBXjKuiN2k7IPantv0UzwWFKzH_Ru8gNEJwf_kz2M-DQWE6xTBck4w9dHWkbsBvq-eic0CSGYzgk2B1nda4l0nc0T7UQCYP-g4U-MQoCX6aifshDnUBh-SAvbTM8ep7Lg4RXcHAA7R125J3huc1487UeE8mrc-Mg308azJIEsVpgeJ24Ma_yMKWOd07_ibGF8s9r1V0JweZARbpuba6FhUEgEmcmKJHDkh-_iMixe4JpjpHtPCPWqE23Tr1hWBXRozQ0wk0S0-um30kZfgrUVPkSXXdwrYIt9NS5rfVFEUqW4oXl1D_j5xElRYyVbcYPtJiFzzpLYChAtyxUW-lda9VePsTbY370TnfXZjMIY1T4OtYAzRtO7HqtpGh2Ass9Iue34h8HnljvQGX8f7RHEL46ir8Yw-",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJmfgEImiLK4gRV4uOD9mAODM",
+    "plus_code": {
+      "compound_code": "FH4C+G4 Kitchener, ON, Canada",
+      "global_code": "86MXFH4C+G4"
+    },
+    "rating": 4.1,
+    "reference": "ChIJmfgEImiLK4gRV4uOD9mAODM",
+    "scope": "GOOGLE",
+    "types": [
+      "supermarket",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "food",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 777,
+    "vicinity": "1405 Ottawa Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4960556,
+        "lng": -80.55002580000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4972393302915,
+          "lng": -80.54880841970851
+        },
+        "southwest": {
+          "lat": 43.4945413697085,
+          "lng": -80.55150638029153
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Tim Hortons",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1836,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113092473530925778149\">Jan Najvarek</a>"
+        ],
+        "photo_reference": "AeeoHcJ-jf6FjE9h01GyMsZwFLeZ4XmBW-a8-bCGIjf2zeUnuXDFM3ToCO7rb5sz0_ecn-53odqaGnlp7OTSR1OETrcsbuoRQIEE9oJXN9_I7xldBFn5QCLw11nFJNNg2DZ8vlXpLlpwoSp1rjvc2zuqPvWm8NvSSf5NmwVkKXGs0nUFQkUufwpr6q7ssd1-fbbezoE1BncAkyIyhtL3V3rWhdyT40Ch40Q7eFL6CXpgHJ49T1k52szJ2RZz4ki6OTZC4t_hJepcfUlhXxTtGmHrvD7AVLdlJs0_ckuDc_F8bqrplyhDeTgIwTTqcbyd2T09ocTvY93UoWPhdo-9vbfMZTF21tAb3z3AStD1Ajq7VXd5eKwGOIf23B1xxGaOLlsM3Bo06zO2LymQpxn74ZFZ0s3sRFLZQ9kh08fELlUheMRqlDnoC7YMtRg6yQXqh2JQ-EAA21doRK8nNNLHb9MX-LzXpGRo8-L1CaLt5ETQwvaLP0EwdbMt3JmIMherk-qFEQC9_ur9tWhQid7D5b-C6WqeiU95qUuO1OE0tslskIYbkf2PhETtgdeg_oIp9Dq_ghL3j1YeS_DnhruWOgAs8BQeEUEFPzAm2lH91asejFRUME39xM-0x1yeAvWA8Q9zM5CKDA",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJFei-a2fxK4gRwGZUEv6ZNdo",
+    "plus_code": {
+      "compound_code": "FCWX+CX Waterloo, ON, Canada",
+      "global_code": "86MXFCWX+CX"
+    },
+    "price_level": 1,
+    "rating": 3.5,
+    "reference": "ChIJFei-a2fxK4gRwGZUEv6ZNdo",
+    "scope": "GOOGLE",
+    "types": [
+      "cafe",
+      "bakery",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 867,
+    "vicinity": "585 Weber Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4372793,
+        "lng": -80.5647118
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.43870623029149,
+          "lng": -80.56310541970849
+        },
+        "southwest": {
+          "lat": 43.43600826970849,
+          "lng": -80.5658033802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "RONA+ Waterloo West",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110645329527937072282\">Gheorghe Curelet-Balan</a>"
+        ],
+        "photo_reference": "AeeoHcJLA3O9ESex3uOYGXzENt9Sj0Df4Wu7J8Pg1YfdQZ5SkTqU9VGDPmBI5dvihE8ErHvQ2NxW8vAuWA4rJCj6tdtiDxQTv_i3w1T_e-4xMPielqfZbv_sxggQ8c0SYbrG3h1pWNZqye9KSP1Sy33o550y-oIa3NaU2cMq25GBan9ifSfrBDcQLoNTAh0r5vJXLCEqCKAbwGqNK_vRRwdY_rA5HK-fFzqQbtjNAKHChqm5wV8DbOLKCLMnw2RdfzbxzaAnic97-OQ_IYAIR-P91AW87cuZWGw-IE9P0dhgotmkKY9q4R3BqN0SDDj4YTC8_5Ds4uWavCWFaScmztqfRsPn-NvLCu0QGmy-RW6LoVnHkX0mI3Wx1qDeRLpXBiSFeCzvTXplNfqBUs851MKCk-0eTxIi5N20ueBzEO9frn7NqSq0Xfz407bvKLOVwaTQ7CBcWYTZOa2H8u6hVbgGUK_Ejc6iZwDtxmBKpzWMbyKpKH2jivCtq-qv2Tz4rgzNTgRO_eNotN8daEW6QBZPgsLGcH6pS4PbumRcqG-tCHFwbSe7KOk0f5sqS0sbIS-VZ3SN-Xia-DJIr3JuuSWBc_uJUT20xzdEsxQaIcxO0vOQ4TWm-APHT_17j7EtmV9q5xo5cKi-",
+        "width": 4096
+      }
+    ],
+    "place_id": "ChIJwa5zj2H2K4gR8MRlFy33xjs",
+    "plus_code": {
+      "compound_code": "CCPP+W4 Waterloo, ON, Canada",
+      "global_code": "86MXCCPP+W4"
+    },
+    "price_level": 1,
+    "rating": 3.9,
+    "reference": "ChIJwa5zj2H2K4gR8MRlFy33xjs",
+    "scope": "GOOGLE",
+    "types": [
+      "furniture_store",
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 1516,
+    "vicinity": "345 The Boardwalk, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.43814520000001,
+        "lng": -80.51079109999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4394699302915,
+          "lng": -80.50940731970849
+        },
+        "southwest": {
+          "lat": 43.4367719697085,
+          "lng": -80.51210528029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Tim Hortons",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112502428498114252985\">sankalp mogulothu</a>"
+        ],
+        "photo_reference": "AeeoHcK_yXFkGOgO1THQVoIdrUSFOp8vZweLe7iiPkgTPTh77EiJ0jLMN93O0eZ9b-oC2SYfysC6uBKnBjDNWN46YPwTQyyke1mosAO2Iz9FX2OUjr6xpSBllohrU5yeAkC5H7j0MXwDWWMU6pZ_FARstGWP9LtkaRCgpkXvTpAO4mbPAO9n1YSolGQIa8WUYrBWOCKHVVhmXNs-61GAx7dKpr9bfrSaPke6N9rFViXRw9_a7_aM2k8kbzSk9pE_t48A8oMHFn_J_1HtU4IClvCG0ursuEnfU9ir90HcoIAEvjFyZF2u_th8u11uNapz8kFzl9p2NfyVClfs6PdR67UIaNczUu1wcjaFmGQlcBJSRGhhPjqM2U2PCBcAFkBJYNTvaFeamwh1Lx8v6zVg6Xvw9-WHmHRfSi3o8BX2hQj-zXCiq5iRGCLohIhguGsjLJL_1E-T7lCVSwRSR7_CmXuLOfEKbYF2qxN_nTZG19wuWlRbldrLb13CPulX9Qfo3z6wHOoIRzaBH9cQNPcfzrikLQmpXYMSM4SR2OPlipd1VUJ7rBzTDL5D8P9M_ylNC-as0rSh4ZUSeyVGN_BL3D2rhQTtK9fjywTGXzJtFXAPdwFVHM3L5Cc71dduK68r3-koRKIVbxIE",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJ90dGdFL0K4gRXOlqqf5cVw8",
+    "plus_code": {
+      "compound_code": "CFQQ+7M Kitchener, ON, Canada",
+      "global_code": "86MXCFQQ+7M"
+    },
+    "price_level": 1,
+    "rating": 3.1,
+    "reference": "ChIJ90dGdFL0K4gRXOlqqf5cVw8",
+    "scope": "GOOGLE",
+    "types": [
+      "cafe",
+      "bakery",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 752,
+    "vicinity": "354 Highland Road West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4647903,
+        "lng": -80.46419519999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4660653302915,
+          "lng": -80.4628067197085
+        },
+        "southwest": {
+          "lat": 43.4633673697085,
+          "lng": -80.4655046802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "TA Appliances & Barbecues",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 424,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105530147345240101394\">TA Appliances &amp; Barbecues</a>"
+        ],
+        "photo_reference": "AeeoHcLVPJ7-AX4MfemTORboblpI5SXU--mli9FPyTSPtsoudY7D7CHW_51ViWNtviglkyaSLWfdM78e6uoyDZEFqb7Lh57dx2lamUsqIc2hlIiWnIqcm_qW6op0sjlfnILHsFHn8V3sJ6LKFAtbyUMXCcVWium2v2akaSRfaMzxUinVyGirjwvrZWJT15YqSr_dVn-ySGrTH_G0u14LZFJL0mt0xtNqMus1ZhL46NW9Cq2vDU9FCfkT2cYrRY-XLpZQQoh5cQqFbRVL0zK5wvUwsWhVZZEfgxQWN5UxfzJBG0S9-9Q1310B7Fh8rPKVND_JziwfCimjEKU",
+        "width": 604
+      }
+    ],
+    "place_id": "ChIJc_I6zaj0K4gRP7IbR5XDnJA",
+    "plus_code": {
+      "compound_code": "FG7P+W8 Kitchener, ON, Canada",
+      "global_code": "86MXFG7P+W8"
+    },
+    "rating": 3.8,
+    "reference": "ChIJc_I6zaj0K4gRP7IbR5XDnJA",
+    "scope": "GOOGLE",
+    "types": [
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 1427,
+    "vicinity": "932 Victoria Street North, Kitchener"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 43.4771884,
+        "lng": -80.4841675
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4784983802915,
+          "lng": -80.4829333197085
+        },
+        "southwest": {
+          "lat": 43.47580041970851,
+          "lng": -80.4856312802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Tim Hortons",
+    "permanently_closed": true,
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116992612198728049857\">Aquib Wahab Ali</a>"
+        ],
+        "photo_reference": "AeeoHcLxI0SzVtAr6leHcPXLM5aikF3Ay-ljrB8j338EPJqM9zGqRJ5uqWt1smhVubhElraBXKe-wQIbjOSnejIrV-AMCGiLWuuRQQCrFsUx_9jm8FNMER2hQEo_W4L2VDZ1I8NdmpUdDLC8qtRYSiFwX2M6HCXbky77hZZkKfx4zf7CjuDBarz6WX8vETe1Q9QvVxEZc2FDq3ur6vxYsrzU51tsv9eCG1_WEmqGurKbm-gY7RJP2b5o-kj6Mg2CxaQoXwlqnK-CuwqyJqCwf2j1xa_OujdkDF0M-4j2uG4Of1wzvwnrCljb5z0n0ImERaC1E37asmdiRKwClyCRw4RZh8N1nr3letylXN_i4w2BHtAmqLsa1peJFslokxSZ2EUdeku-VZ2_4vk_C4pwcXwmqfsJj80xQC4jNj4uE_QtPEx3Bawao-p4mGbik3XUygT0m26UiX_ryevWvXgAcwaLcDL_OeszHkEwOFNGZKa-GeIv8P9kV5F9RpNxpk8LPYY5MomsOAid6Z2nkonOUpnVSXGm8hfJV8oT0LPk_geV-umrtHeU6BPAqFNDb9ibpCjySId-pUOC9i5hzkjdkXaCLHeCw-1NK77qlBU-gxuZlJxOZRHYRH1DzsVQvIW-l6sCRbvIWM__",
+        "width": 3000
+      }
+    ],
+    "place_id": "ChIJW-EHimPzK4gRu1nKS4n-NUw",
+    "plus_code": {
+      "compound_code": "FGG8+V8 Kitchener, ON, Canada",
+      "global_code": "86MXFGG8+V8"
+    },
+    "price_level": 1,
+    "rating": 3.7,
+    "reference": "ChIJW-EHimPzK4gRu1nKS4n-NUw",
+    "scope": "GOOGLE",
+    "types": [
+      "cafe",
+      "bakery",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 1063,
+    "vicinity": "526 Lancaster Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5073865,
+        "lng": -80.5313067
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.50898008029149,
+          "lng": -80.53012411970849
+        },
+        "southwest": {
+          "lat": 43.50628211970849,
+          "lng": -80.53282208029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Afterglow",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103482274504740421211\">Afterglow</a>"
+        ],
+        "photo_reference": "AeeoHcLl-iSjmmzvjQ4VIcOOno1SMZPnk9H_o2SShm3AO7loTTrAP2KDPDjhiaf52BrCIU-vksmJIITyeTS3oRh2BiblGtt5imRcIyPIDzwBNy06HHyS5lrI6K-FJjfRc6eiCi4MkDjYBx-Fh-UmM3LquvTHCwSUIIWMzcQkYgDyNUwC3p2pgciTV7O9X5tozdLLE0eqKUd2h8FOj61gWgVxwAbBVsrYIcwUmGdl9UaHIcHXzr_na4dvzkd8vkkpVARX1ot-v5L40gNhQt0zV4Kuqodff_FhKDnTmc3Va_kFoCogyaMXhJL-KRRHbdSemNZn0X1SNgYtw8w",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJFZuES9fzK4gRSijV8mMe57U",
+    "plus_code": {
+      "compound_code": "GF49+XF Waterloo, ON, Canada",
+      "global_code": "86MXGF49+XF"
+    },
+    "rating": 4.9,
+    "reference": "ChIJFZuES9fzK4gRSijV8mMe57U",
+    "scope": "GOOGLE",
+    "types": [
+      "general_contractor",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 134,
+    "vicinity": "75C Northland Road, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4475553,
+        "lng": -80.5737841
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4488748302915,
+          "lng": -80.57240276970849
+        },
+        "southwest": {
+          "lat": 43.4461768697085,
+          "lng": -80.5751007302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Canadian Tire",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115209777249363191318\">Sreekar Tripuranthakam</a>"
+        ],
+        "photo_reference": "AeeoHcLTj3Avs5sqveEU8ekMwqoawnWJu2s_-KRaY6UopuVOVNGx4ePtyq2hJhY7lDt8VPxK0YLvpHIW3k7qi3_MhrVbVph0PC0T7vHo2Ys25AzWjl6ieyxuiK5CNIEnRCGht-nFbSGlilgWDf-eFltgjokvlaOTVolio4g0VtqmVjxRNRFXpUcCS8_zXrIIQJdWJ2yFgHMj5XkNFXQA4EjjafxBPx66MSLqTeh46Xj8nNwVcbWdhQEKI4uv2ZYjhqWfrrVJJzFoUQYWrMZolnODImS2yu6QgWi-0gzBoCc5AyWvRBAWNVB-S0EenCPx042d3mU2__NZggr8WduWfVnVG0IG29L0au9U5yLv3AHPyWDE7wNjQwbe9xSkjBx6KuwDhGOrinZFYfaPEmjgaQNDj7Lfz8aPImS_9CWtkKpzecTj37s5dmGmajjvBjfji8QoYc33RUKURijXnT1EjZO-USWi--wJvMMjz1MYR1W4MOyZP3SJsTn8XIWtrvSNhldUCpifOmfEa1GLJ1Ml7qHyOzcTrcYg4eAf_cbaT459Rc1nY_2FF7OUqGwyD5HTyEQQeFC5U-5i4Dj5C7hiIayrAuuso3A5K3iWgXiLM7PNUuXdMRsolUwFNZM8cghRpBUwSYQQWg",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJuekhg_H2K4gRFuPXSj6YdiY",
+    "plus_code": {
+      "compound_code": "CCXG+2F Waterloo, ON, Canada",
+      "global_code": "86MXCCXG+2F"
+    },
+    "rating": 4,
+    "reference": "ChIJuekhg_H2K4gRFuPXSj6YdiY",
+    "scope": "GOOGLE",
+    "types": [
+      "department_store",
+      "car_repair",
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 2109,
+    "vicinity": "656 Erb Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.470413,
+        "lng": -80.51512699999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4717716302915,
+          "lng": -80.5136611197085
+        },
+        "southwest": {
+          "lat": 43.4690736697085,
+          "lng": -80.51635908029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Wine Rack",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115278112628366401788\">Chris Koy</a>"
+        ],
+        "photo_reference": "AeeoHcIgNzh9zdxHOW6yFUHndtmDr-hn7buoEXCILpQ4i06PpU2MMmcVS3Myjixff2blX_yCam6dmtNp5ZquSZHaO-GLHsskFV5ciWJMYjERymdQ41CDO-MXsGOuc4OF4z5-V7nkxLAZj8m2Im4WwBbfd3n8A1z8hO-HWEuFe4cFIFR3d6Z2CwQGOROLNMTm13cD4nR-RqzdGUmZiLMH-ogEx0zVSpsai1_GttFat0Js6KjQP7KL9MOZtf6EGwPGMWFXN4z6OWD6aUuNeBnWDbm2pJDrqQY6H5H6Cs-thzVQGSveySr1YanHSp34Vxh8Oz6rBtXVYxCKwY8N7fGxlwxY9MnbWsj8ZxHvNSEFmFm16vzt31oMsRg8WnNjDL2KGSBh0WQxRAJ_CRqwM4FEWZ5L9oAShqVDI6hk5VWiu_ECihx33caR7vOPair_Mi8lVQI5GHacEOb18hc9nxypg0rYw4bEsJjmAruiGjTrrLUDfGk4SShD8LIApfvRNqgQ1YTMSnVC2JAZ7ejiI2bbmnYdYSildwtMUNu4keGmt8z-D77pelGkfUDjuHg4eb4v9PbaVkc81TetkUdgc52fsLivisCDlJGPguaJ-OrT1K3yJKF6rE5apmO6rtJxFbyNtm98",
+        "width": 3072
+      }
+    ],
+    "place_id": "ChIJPfyO4Xb0K4gR3KUvJ_nnsZo",
+    "plus_code": {
+      "compound_code": "FFCM+5W Waterloo, ON, Canada",
+      "global_code": "86MXFFCM+5W"
+    },
+    "price_level": 2,
+    "rating": 3.8,
+    "reference": "ChIJPfyO4Xb0K4gR3KUvJ_nnsZo",
+    "scope": "GOOGLE",
+    "types": [
+      "liquor_store",
+      "point_of_interest",
+      "food",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 101,
+    "vicinity": "94 Bridgeport Road East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4795385,
+        "lng": -80.5197948
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4808039802915,
+          "lng": -80.5186808197085
+        },
+        "southwest": {
+          "lat": 43.4781060197085,
+          "lng": -80.52137878029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Glenbriar Home Hardware",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 918,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108407070166289303569\">Glenbriar Home Hardware</a>"
+        ],
+        "photo_reference": "AeeoHcJdQ_yaXvKJrMydKQqm00VhCBVKM75OYUQ51ubpcu7oryfXiChABgp8elG5HNBZ4ZAiYh_TzsYxAOGQbj6SAusA_6NfSCwKFyBjWmJLY5G_RhtTjGncQMf4obrpflzskSnr4llkFZwQPa41dseH1mT-doFJmoyjiyDhokn9aEYZP07I1AwrH7IBvSSbIEXgM0OHdZE_7fFz65_dqsxpECh5B7vQzbqGdb3Y55to0k9DWSxyc7RIB0m6SDT43OPUvLZg5j4tgzVIDGBAJVMnyM6v2rHCo3VBIWcypGHr_TbBeQUxwT2nsLbGUqpXgnG8pKILJAKWyVE",
+        "width": 1614
+      }
+    ],
+    "place_id": "ChIJY1VjpYzzK4gRA8HjqmOBMCI",
+    "plus_code": {
+      "compound_code": "FFHJ+R3 Waterloo, ON, Canada",
+      "global_code": "86MXFFHJ+R3"
+    },
+    "rating": 4.5,
+    "reference": "ChIJY1VjpYzzK4gRA8HjqmOBMCI",
+    "scope": "GOOGLE",
+    "types": [
+      "hardware_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 459,
+    "vicinity": "262 Weber Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4218348,
+        "lng": -80.45959979999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4231785802915,
+          "lng": -80.45835361970849
+        },
+        "southwest": {
+          "lat": 43.42048061970851,
+          "lng": -80.46105158029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Tim Hortons",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113057752363327686865\">Cait</a>"
+        ],
+        "photo_reference": "AeeoHcJReBskET83k-QjSF0SG0ZfbxHBgTpKp56Ql1aZ_u4eEARLLEH1Nin5pvQYXYmjdYJViVFqH6cBpwvFQ1AUza3mi0i5LjskjsAyU6QrNPDfW4Q6Y5BX2t9NUlEKHw0C48MrZMT9jtHdtPzGT7sqdqdMz1hvmRmTPuWODoQvBCFbdDiBA1A0wiot8CbEtcFkeXZrIR_Ud5bo83mQxbqw5-1EzJ4hdLKhTK5N2B6KgyIlRFwEld-Sh1nPufb9jDksYoHS9mEio4BjdU1aply8WwIQN0ddJZocrAe6sa449eSnDdTdl2KlMjzkedIhMC4sVRwOllptNCcVipRrlsfBROS12dwldjffmuwL6lVmVuZW_MzmWbpa2S0kJHUgG5zOyJYvMcogu_hTZdVEt1Lw_4g97_PLrJ6BbgKss6IdHqrxa4ERRH9RuvSWkXIFaVV6ah9JPBKqDL_02f4aU__FOPgWT9J4LtG2-J1MXU4YhdV5iLxKRUMYldgXeBXO2wrIktdIzETSeLTZCVX8vuyjM9SmhXi4cTuqtjqeqWekbaJL_3AnfB2CjD7bDD_WzcSTlpuEFOzBrkY8HL5OJvX5NdqMNuqB4icKvRgVPBWL6nKAEv0C7FDLucG-ftQIppDANS0HlA",
+        "width": 3072
+      }
+    ],
+    "place_id": "ChIJD34fhi31K4gR00hOt1BpZd0",
+    "plus_code": {
+      "compound_code": "CGCR+P5 Kitchener, ON, Canada",
+      "global_code": "86MXCGCR+P5"
+    },
+    "price_level": 1,
+    "rating": 3.5,
+    "reference": "ChIJD34fhi31K4gR00hOt1BpZd0",
+    "scope": "GOOGLE",
+    "types": [
+      "cafe",
+      "bakery",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 754,
+    "vicinity": "1144 Courtland Avenue East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4607869,
+        "lng": -80.5366902
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4620985802915,
+          "lng": -80.5354231197085
+        },
+        "southwest": {
+          "lat": 43.4594006197085,
+          "lng": -80.5381210802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Michaels",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 791,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114422544897490012817\">Michaels</a>"
+        ],
+        "photo_reference": "AeeoHcK1t90i1b4_9unM-hNBrVGSrIVc4GNM7W1eVher6lfL2xxIue1NRdW9JKyJncmWiv9QvPdSLHof4r6u7gi47934tlbWwI3mxKpAnMBA9PUoV3GryFMHd3f_LHUkQ_ULnMOaFu6XO_adE2XjVjWbxv3zmn8alizzHHcXqo3wbfR9zpRnCJLJ9tO5kGXXJWVlxjNZoKFt3uGk7L676qeYo8TgpqIF7AVU5SHeu_tjpi6nGWEm2idTKEGFpgT5ZCZPUc_q6t4tnUDC1bIxNRlw8KBfECMvEj7srcYedslsK0ZQ6Lnn0lJfG9dfWzws35tYr7Vu5oYoKs0",
+        "width": 1406
+      }
+    ],
+    "place_id": "ChIJX5Zxihv0K4gRGeqptoiT5WM",
+    "plus_code": {
+      "compound_code": "FF67+88 Waterloo, ON, Canada",
+      "global_code": "86MXFF67+88"
+    },
+    "rating": 4.3,
+    "reference": "ChIJX5Zxihv0K4gRGeqptoiT5WM",
+    "scope": "GOOGLE",
+    "types": [
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 1670,
+    "vicinity": "Westmount Place, 50 Westmount Road North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4168731,
+        "lng": -80.51328149999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.41806958029149,
+          "lng": -80.51188566970849
+        },
+        "southwest": {
+          "lat": 43.4153716197085,
+          "lng": -80.5145836302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Canadian Tire",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111098051797814145389\">CK DeGraaf</a>"
+        ],
+        "photo_reference": "AeeoHcLaKRRkk5PuwQIg3NnWAysa6DuF5aMTuV4oMGkxMj8rjI6DBz_qOdCy4vTnwDmxljKQwtwH7kHDmrwgX4NIu-AETrXSbePEOJsopyFkCerFVYUTZFb8fwFLngtvinZulTPuZsL-wg8GPlbsz5m0NnaA0eyIosKuiHBLZwZR18grZVLW7F4ZCcZ1Vztbr-OGZ7KCDoFJd_F02NScC7H4kwqZPvBegk8W4wIOiFjHtrqi1IB3vbjPxmtPY0sX1qwNFH7P90vIDffFslJGcIVMzypDmBbl27BYyOd2fB86vkCzgyCwWlC5r4ReKkXYc7GDVPzbq72DIYV_Sajq3-_PZKqQ4vMR-xGEaL08Vaw67dn1gSQuVm2tY_DM3nD4MIakK3wCl0d5q2_f9KFSJVmrZfbM-HPBWfdp3yVSjnpKXPJiVtsKsnf-kp7gawj5eT_u6C-gfBBu8CN682YOZIDmnRqp4-5vDCbX1UMec6zfRhn7hQt0rpJrQCIk_82xVPP3D3ryLO8zE__e3pSOnH1HYqpiAF9yp0D0FgYagM6SoYwC7TtHy5YML3bTatbSBmxdEbd4DC6uEohblEMej5oI3e1xiDQA7snfI5Q7KJp0asvDqkBRp8C1fyjJdyjLEtOCLtbIX4p-",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJOaWEnb31K4gRjtGX1VGpxIQ",
+    "plus_code": {
+      "compound_code": "CF8P+PM Kitchener, ON, Canada",
+      "global_code": "86MXCF8P+PM"
+    },
+    "rating": 4,
+    "reference": "ChIJOaWEnb31K4gRjtGX1VGpxIQ",
+    "scope": "GOOGLE",
+    "types": [
+      "department_store",
+      "car_repair",
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 2683,
+    "vicinity": "Sunrise Shopping Center, 1400 Ottawa Street South UNIT E, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.431925,
+        "lng": -80.524728
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4330196302915,
+          "lng": -80.52362281970849
+        },
+        "southwest": {
+          "lat": 43.4303216697085,
+          "lng": -80.5263207802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Mr. Lube + Tires",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110744752270892940395\">Mr. Lube + Tires</a>"
+        ],
+        "photo_reference": "AeeoHcIsgnGg43d_SowLvTJIwZdS1LWVV33UMF-hrrXkXqsjaYBhbWX9OFR4LyyCRSuGAw53W3uxb-RiFmFPe8HP-bkr4DG3k7FHHR5OiGRVpoMNZCcFW3h7REuHuDRe0C3HuleHfD7TbTxNr27vWiUTBBBgGycrYdd9TG6P8Q18F4LGxoq4J2Cl1Ic-Wp6tYpyY-CyKIldthPCgHDAt6f3_EdwPDu1kj4J5rYcFvCdnBxRpo2NH8IGRSYdlpEBDu_1QMXNcQ5iyUGyCJx5Hig4T6BHg6PeG5lKk4Ld7KJwu7jAKjmNzZmAWBaR0PtZDP_8wThjf47PX-Dw",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJ5yapzcv1K4gRGbnT156vYA0",
+    "plus_code": {
+      "compound_code": "CFJG+Q4 Kitchener, ON, Canada",
+      "global_code": "86MXCFJG+Q4"
+    },
+    "rating": 4.2,
+    "reference": "ChIJ5yapzcv1K4gRGbnT156vYA0",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 949,
+    "vicinity": "775 Highland Road West, Kitchener"
+  }
+]

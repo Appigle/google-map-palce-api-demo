@@ -1,0 +1,2752 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4661432,
+        "lng": -80.5728565
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4675703302915,
+          "lng": -80.5714093197085
+        },
+        "southwest": {
+          "lat": 43.4648723697085,
+          "lng": -80.5741072802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Koenig Painting And Decorating",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJn7wKMsT2K4gRaIofLjR4VSg",
+    "plus_code": {
+      "compound_code": "FC8G+FV Waterloo, ON, Canada",
+      "global_code": "86MXFC8G+FV"
+    },
+    "rating": 3.9,
+    "reference": "ChIJn7wKMsT2K4gRaIofLjR4VSg",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "general_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 7,
+    "vicinity": "369 Gatestone Boulevard, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.494064,
+        "lng": -80.5231021
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4953011802915,
+          "lng": -80.5218351197085
+        },
+        "southwest": {
+          "lat": 43.4926032197085,
+          "lng": -80.52453308029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Kitchener Waterloo Painters",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1241,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102081289270118812732\">Kitchener Waterloo Painters</a>"
+        ],
+        "photo_reference": "AeeoHcLyy2aAySxXIBYzIuDKoE0o30xiBGAZBCMeEBzQ4AXbZTN9jur6c9RbHIugCd5R1Eg5ZsN3dncN6azUqdCg0DvZYUlRjf114ARuPjTs3yYMxGZ2C4bR_89nuq3m9sXxh1qmlypLNJat00rcbK5iuluKuhElr-INIqW91I6QwuccALMWKQWaQMUrfqZ9MB-R9kUjqQFMMBzacQxCuMKsVroNl4GJGhz_KtB0ja_Jc4LptbtuJ_jmQMMbverb7ZpI-0qDW3ChFs6fk8yWHyYjQGB14Dm7vUSvjgofA0phBSPEq98f2GXZcgA2BSy7CBG53vNrP11bGSM",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJz4VUOsDzK4gRitzaKnOq5Pk",
+    "plus_code": {
+      "compound_code": "FFVG+JQ Waterloo, ON, Canada",
+      "global_code": "86MXFFVG+JQ"
+    },
+    "rating": 5,
+    "reference": "ChIJz4VUOsDzK4gRitzaKnOq5Pk",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 9,
+    "vicinity": "435 Kingscourt Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4344314,
+        "lng": -80.5154312
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4358373802915,
+          "lng": -80.51414516970848
+        },
+        "southwest": {
+          "lat": 43.4331394197085,
+          "lng": -80.5168431302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Empire Community Painting",
+    "place_id": "ChIJ8cZvVbP1K4gR8Wq1tDe2Viw",
+    "plus_code": {
+      "compound_code": "CFMM+QR Kitchener, ON, Canada",
+      "global_code": "86MXCFMM+QR"
+    },
+    "reference": "ChIJ8cZvVbP1K4gR8Wq1tDe2Viw",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "525 Highland Road West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4602918,
+        "lng": -80.5892728
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4615972802915,
+          "lng": -80.58785506970848
+        },
+        "southwest": {
+          "lat": 43.4588993197085,
+          "lng": -80.5905530302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Pro Image Painting",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 538,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115287412985702350160\">Pro Image Painting</a>"
+        ],
+        "photo_reference": "AeeoHcJVxGtg88KyGBi6sIfpKjJsykbJml_RgVyNQ2MbE6r3QjS-SqvGi1zNDTb5QGVcj4EjHs9RY1nRby_zqkxQjaeduqaLVthxj5XDVB8GQl4A_gUISUJOA5C8xAngfznOr5rOOvz4tb62k0YL9ZrU3WlsV2uSRZd3riKGa-hnvar98Q3Lx3t_b6_JPD_7W981VK4qAjP2TCMkTHcsi8BfKD9nsOQZ8lsnAo_h74N1DbQL28g23UNxxr2FDnJl4eLlB941NQPpJaH4RlQc8rjII3u5rZ5psD2jEIpDLn25uQEoyt1DwLSustXWyjbClsKPISrhvLQJi68",
+        "width": 960
+      }
+    ],
+    "place_id": "ChIJoRuZCyD3K4gR3sejlugjWng",
+    "plus_code": {
+      "compound_code": "FC66+47 Waterloo, ON, Canada",
+      "global_code": "86MXFC66+47"
+    },
+    "rating": 5,
+    "reference": "ChIJoRuZCyD3K4gR3sejlugjWng",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 16,
+    "vicinity": "849 Munich Circle, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4326799,
+        "lng": -80.4806618
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4340480802915,
+          "lng": -80.47946146970848
+        },
+        "southwest": {
+          "lat": 43.4313501197085,
+          "lng": -80.4821594302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Innovative Painting & Decorating",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJve-P2-H0K4gRCnO-p0H0R-g",
+    "plus_code": {
+      "compound_code": "CGM9+3P Kitchener, ON, Canada",
+      "global_code": "86MXCGM9+3P"
+    },
+    "rating": 3.7,
+    "reference": "ChIJve-P2-H0K4gRCnO-p0H0R-g",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "82 Olympic Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4661038,
+        "lng": -80.5728227
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46755053029149,
+          "lng": -80.5713922697085
+        },
+        "southwest": {
+          "lat": 43.46485256970849,
+          "lng": -80.57409023029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Bluebird Painting Inc.",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107944420882010492888\">Bluebird Painting Inc.</a>"
+        ],
+        "photo_reference": "AeeoHcI6wfFVdlPAfvlS_Z0lWYrg2rW6PL5cavU8hUJH6lCxtsWP48p1r13EJ2dPkTh_nxwZlaSCm_z_s423d0Q5xBqvlatVGap24YmHLbEIxlSa0LhW3vqrBfxwdWZVjtC4E9FgEnyqtzSI8bM78smJ9QE9vMTdp8wsPiuJp5bMdCg8usaMScZ1lIUQVnCZZVZaooddzztwiLuas7SH9gl_nr32Q5EWRUuoJA6W6eObdbzfD6-XFzzX5EgXYHZqf8Db88uXmWB0h7EhJgCC0ODyq6ZBrXrWlItoIjCUjw4N8e_P0ez91xBquK2AUPUQjAW9SpN8I95Zlxw",
+        "width": 840
+      }
+    ],
+    "place_id": "ChIJyaQKMsT2K4gRXPI0Xd1prmg",
+    "plus_code": {
+      "compound_code": "FC8G+CV Waterloo, ON, Canada",
+      "global_code": "86MXFC8G+CV"
+    },
+    "rating": 4.1,
+    "reference": "ChIJyaQKMsT2K4gRXPI0Xd1prmg",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 9,
+    "vicinity": "369 Gatestone Boulevard, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4620208,
+        "lng": -80.468554
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4633260302915,
+          "lng": -80.4672343697085
+        },
+        "southwest": {
+          "lat": 43.4606280697085,
+          "lng": -80.46993233029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Premium Custom Painters",
+    "place_id": "ChIJ0xUG_qT0K4gRO9mYwcEXOOQ",
+    "plus_code": {
+      "compound_code": "FG6J+RH Kitchener, ON, Canada",
+      "global_code": "86MXFG6J+RH"
+    },
+    "reference": "ChIJ0xUG_qT0K4gRO9mYwcEXOOQ",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "809 Victoria Street North #5, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4585275,
+        "lng": -80.5214013
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4598139302915,
+          "lng": -80.5199446697085
+        },
+        "southwest": {
+          "lat": 43.4571159697085,
+          "lng": -80.5226426302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dale Arts",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2774,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110997575170861638927\">Thomas Dale</a>"
+        ],
+        "photo_reference": "AeeoHcJxEYAbO6x-9-RR75mjspcnYb2H7cF9VA3oMIt4Y6XSKf8VgCdHsSM4_LITCuATPUmA17zlbZG7dt0df0301mjMVO_5wFxOujgA34dmsHu2y_KR6V-0gMGuPDurZaQb3pH5BebmJWQkoxajkB7jQlOUyNqaYrwdYPg02uFpA7csPwN78Mlx6jNgKgzXWN36Bnb_IVhfu-apwFzYf5JwEtS2UcjpzQt0O3GITiMjhmSmBHPaeZ_rjEQvVkxHuLLGYPVo9RinFbaFt3ZPrPnsa7-nhz4XZhUXL--cJAFDpqgTxJWvuQ5BPRKN9FiqtgZvdSkcTjO4Op-MnMqt4hADJYM1ocDrqrojU5Be-P_YnwPQLR3L4fXKBBMwsIqABH9kwh72gS4ToilIrn_S-bh77-OGh4WYtNuPCZJzimp22QU7VxjhIaaD0-2ZrKaRN2olnI5GEXR3tD-j6t_2a9dh6OIqdweIcOIzXUjPgQt5v7PCpBYbf9IZlPt9EucilfhQsk83qTMXm7wTM5F3pIrZf-CU6Dr_5NCms-03yIzkNFSt12rwNrxnMSXusLzF_ha2XSS3WESDqzR9r2vJiPJRcLOIRpya351F45OKNaGQ8Tu4cvE8REtfiIaFQ6V6EyG0Yy_qL0LM",
+        "width": 2756
+      }
+    ],
+    "place_id": "ChIJd41dPhP0K4gRR8_2mueA2XY",
+    "plus_code": {
+      "compound_code": "FF5H+CC Waterloo, ON, Canada",
+      "global_code": "86MXFF5H+CC"
+    },
+    "reference": "ChIJd41dPhP0K4gRR8_2mueA2XY",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "44 Allen Street West #2, Waterloo"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 43.4507745,
+        "lng": -80.49199
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4521732802915,
+          "lng": -80.4906066697085
+        },
+        "southwest": {
+          "lat": 43.4494753197085,
+          "lng": -80.4933046302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Whimsical Furnishings",
+    "permanently_closed": true,
+    "photos": [
+      {
+        "height": 2204,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106289291132663327687\">Whimsical Furnishings</a>"
+        ],
+        "photo_reference": "AeeoHcIIetsiElL_2onjsXPO1IM4MCJWo9CavAMTcbW2iQlVTIXUVX81OfCL1io6c6KWp8wR7FIlT2XF8vG9cDgiT8U80BKVQY_RaDm8EV4px5sZElUsgHv2KeROLCxCrQ-7LU0R3YUQibgiMzWCp24DaBTe0Vv7T4qXvSJgjXhPyt3KxPsTeh_cjL2ReBfgcp2WuEcxBSUBXjm9OixsKPALEj0xv-GXT_2cr8dHDQeOmZF8NOAqUg6403goJtSJkPZYgwREJvootN8Jkgp2_BCMUCegiqn-mUV-vDQRvjBJtMqwfrKNQfVgNlH25px3z_S0VNFnuYtH4Jc",
+        "width": 3920
+      }
+    ],
+    "place_id": "ChIJyYPeXcyKK4gRWdiFgen-q9Y",
+    "plus_code": {
+      "compound_code": "FG25+86 Kitchener, ON, Canada",
+      "global_code": "86MXFG25+86"
+    },
+    "rating": 4.7,
+    "reference": "ChIJyYPeXcyKK4gRWdiFgen-q9Y",
+    "scope": "GOOGLE",
+    "types": [
+      "furniture_store",
+      "painter",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 13,
+    "vicinity": "157 King Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4456624,
+        "lng": -80.4872156
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4470741302915,
+          "lng": -80.48597531970849
+        },
+        "southwest": {
+          "lat": 43.44437616970851,
+          "lng": -80.4886732802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Alan Jones Painting",
+    "place_id": "ChIJ3b1aPO70K4gRllDvIUGiFZk",
+    "plus_code": {
+      "compound_code": "CGW7+74 Kitchener, ON, Canada",
+      "global_code": "86MXCGW7+74"
+    },
+    "reference": "ChIJ3b1aPO70K4gRllDvIUGiFZk",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "19 Peter Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44581720000001,
+        "lng": -80.4862199
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4472404302915,
+          "lng": -80.48479371970849
+        },
+        "southwest": {
+          "lat": 43.4445424697085,
+          "lng": -80.4874916802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "METICULOUS Painting & Design",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJBehOXe70K4gRyjiALDoz14g",
+    "plus_code": {
+      "compound_code": "CGW7+8G Kitchener, ON, Canada",
+      "global_code": "86MXCGW7+8G"
+    },
+    "reference": "ChIJBehOXe70K4gRyjiALDoz14g",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "107 Church Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4600618,
+        "lng": -80.4352784
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4614818302915,
+          "lng": -80.4337997197085
+        },
+        "southwest": {
+          "lat": 43.4587838697085,
+          "lng": -80.43649768029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Living Colours Painting",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3264,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101366074411081835185\">Living Colours Painting</a>"
+        ],
+        "photo_reference": "AeeoHcKTjSlxjqXfZ5eifcuEqLAkr2cS6CvKXRcs6dU_41vDuR3-wTYa6xgQKF4ox10pbLPtXKuyypVTf9wTyf6wUmjPia-3vJadMFiwotcjU7tqaXHQLmkMlMva6X6YROUrDckkM_lGGkN8khI8eLJ9wNjB9z9gxIJlkM4qC3VL8BFH5xknH6wdSiVb6kjR65yFZJWWEiW0sZFZxF6tBd0B9gpJAdDyXYq8I-iiUvrj3wViPwZGhUacb4UacnsR6OCZAh2Wfp4AGWIOqSgPhjusPX8_jGRkBEi8YF5rYb6Sl4j94Ura_rL1iKro1oYveTVppp9GXj1i9NY",
+        "width": 2448
+      }
+    ],
+    "place_id": "ChIJa47Vz2P0K4gRLD6kmN1m_s8",
+    "plus_code": {
+      "compound_code": "FH67+2V Kitchener, ON, Canada",
+      "global_code": "86MXFH67+2V"
+    },
+    "rating": 5,
+    "reference": "ChIJa47Vz2P0K4gRLD6kmN1m_s8",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 9,
+    "vicinity": "31 Westchester Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47930299999999,
+        "lng": -80.459648
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4805945302915,
+          "lng": -80.4585130197085
+        },
+        "southwest": {
+          "lat": 43.47789656970851,
+          "lng": -80.46121098029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Expert Painting",
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106744945928118432898\">Sheryl Bruggeling</a>"
+        ],
+        "photo_reference": "AeeoHcKaBXRtWquIXCuSxPL_YAhgW-LTYGWa4voclM8T4iwvkERJdz_i6SL4gAD6Wz3NNCxZy4eJWKDzXhnJ0dY_KmYBPiqb0ojfjw06PzglPCYP4T3OrlffbSabdWB8BpUGhCfeOeXOvTUTphccNyf6YtW9bVEfydy6iIma0KK9pTKTGxJI0z_DyVCulmjFdFsrXuuYooHPNmQB53yJ-Zf4kfP9Q3oVvdTxlhx-D-DI_PMRMCILLaaxs4_dLFk9GqQ0sAeh02ZY08oFcTL4bHpErUutsZ_GV9LqOwqwxnRmltzG-wSaY_N3UtrhXNXpGH8McCAJOih4T-JgbXyDn9h-FBeKq2qmqWtXqgtc3qHdIDQAL-zIIs25wgwIdn1mfS8-cKYB-7jnK3HEumhkeyOGyex59Yf0jyRJbJXJ7pMWMrluEqPSjbctzLW1zBlNvVDg6ObT1zRsYnbVs-80Wpaiy576S796we_be_P_kTmxdQXyPqEFxFIDyI6O_RQaU6n5PAyEFAT1zR9NJGey02AN_H6kefH6ZtJt1UBU-qjNxxCmhH4Tk0-KWQFs9FWMQtgv5Yb-35EtxksXN1NVPs6rxdqwvWsxKz-flsl9xZlLtwRMTyKXeSocHOd3GwnlWF9OdIBnZe_3",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJoRjv6E3zK4gRph6ZrV--_-s",
+    "plus_code": {
+      "compound_code": "FGHR+P4 Kitchener, ON, Canada",
+      "global_code": "86MXFGHR+P4"
+    },
+    "rating": 5,
+    "reference": "ChIJoRjv6E3zK4gRph6ZrV--_-s",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "4, 165 Hollinger Crescent, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4302376,
+        "lng": -80.44996750000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4316284302915,
+          "lng": -80.44876506970851
+        },
+        "southwest": {
+          "lat": 43.4289304697085,
+          "lng": -80.45146303029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Perfect Space - Intelligent Interior Solutions",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113086467251232352102\">Andrea Schilha</a>"
+        ],
+        "photo_reference": "AeeoHcIMwlBbDagvB7d2pzoPDvUZcc1_QlYif_jR15wnQb75qwG9_xCUDYLLLC7EN1TVwh47cBpqxBz_V1KlqC1oTD1ziyybXMphsuNiAv6r6-RG0_VUS5-kZyLUfkEsiDeLi53lyoJvQfQZGupjNkBTPqhMYA-JS-8D--aUEcImuHNBVYT-Xbk504ykshUhy1JsV-hYlxXeh8OsQvHFkkFID88D07QPZtw0nATsqAp5qaIcLI3theQguXm8IFmxe2kHMm4jGCCDmWX1ip0CI60zQ_tx9nh7Q3AkxXkKqxtbMQ-yO_E0BnCOIqbnuDKkLc4sJLYHofj9lwHndCEdzgvFQePosKOGi4_lQfk4rAuuxEHf4dXqs_vfxogXW6AbERAb1aKm9N4dp5A4aoCj_TjMrGvml15d6yBU9JGlPD9Y81-f5NS0uh1sGdzkJ3wg2aXhs0J8dZrd6bXGz6W1Ve7cSyZnCbgwcLgIfoK_Gb9ZR6ZSfXFC2j5J5d3XrlpLbaVzuBmgjKDsm1Uc-DE3GsIS4xtZYHAiGoqijzi9nYWRnC6oCqD2Jryxm3e0NyXX6s0GjMzvZWsnXyZmc3Pc3I1HvFbaGJr70myANaq9Bmy5EDUEwQZrP7LJPoGSlnRSY4fKKibm_A",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJvRh0AyqLK4gRZcYA64I_WRE",
+    "plus_code": {
+      "compound_code": "CHJ2+32 Kitchener, ON, Canada",
+      "global_code": "86MXCHJ2+32"
+    },
+    "rating": 5,
+    "reference": "ChIJvRh0AyqLK4gRZcYA64I_WRE",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "100 Eighth Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4255267,
+        "lng": -80.4440868
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.42677553029149,
+          "lng": -80.44276791970849
+        },
+        "southwest": {
+          "lat": 43.42407756970849,
+          "lng": -80.4454658802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Priority Painting & Decorators",
+    "place_id": "ChIJV76kYNeKK4gRUs6ZtAdpWjw",
+    "plus_code": {
+      "compound_code": "CHG4+69 Kitchener, ON, Canada",
+      "global_code": "86MXCHG4+69"
+    },
+    "rating": 3,
+    "reference": "ChIJV76kYNeKK4gRUs6ZtAdpWjw",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "560 Greenfield Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.41981229999999,
+        "lng": -80.4409098
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.42127998029149,
+          "lng": -80.4397613197085
+        },
+        "southwest": {
+          "lat": 43.4185820197085,
+          "lng": -80.4424592802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Precise Painters INC",
+    "place_id": "ChIJF_Bw0dGKK4gRSNxgYope0n8",
+    "plus_code": {
+      "compound_code": "CH95+WJ Kitchener, ON, Canada",
+      "global_code": "86MXCH95+WJ"
+    },
+    "reference": "ChIJF_Bw0dGKK4gRSNxgYope0n8",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "385 Fairway Road South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.540107,
+        "lng": -80.50817959999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5414677802915,
+          "lng": -80.50695796970848
+        },
+        "southwest": {
+          "lat": 43.5387698197085,
+          "lng": -80.5096559302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Brody Enterprises Inc.",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJxWcqe3zyK4gRF8O4hxImUic",
+    "plus_code": {
+      "compound_code": "GFRR+2P Conestogo, ON, Canada",
+      "global_code": "86MXGFRR+2P"
+    },
+    "rating": 4.4,
+    "reference": "ChIJxWcqe3zyK4gRF8O4hxImUic",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 15,
+    "vicinity": "27 Evening Star Lane, Conestogo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.540101,
+        "lng": -80.5081189
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5414646302915,
+          "lng": -80.5069276697085
+        },
+        "southwest": {
+          "lat": 43.5387666697085,
+          "lng": -80.50962563029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Riley Painting Corporation.",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJxWcqe3zyK4gRFwuWRI0msKs",
+    "plus_code": {
+      "compound_code": "GFRR+2Q Conestogo, ON, Canada",
+      "global_code": "86MXGFRR+2Q"
+    },
+    "rating": 5,
+    "reference": "ChIJxWcqe3zyK4gRFwuWRI0msKs",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "27 Evening Star Lane, Conestogo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4365942,
+        "lng": -80.4840956
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4378558302915,
+          "lng": -80.4830003697085
+        },
+        "southwest": {
+          "lat": 43.4351578697085,
+          "lng": -80.48569833029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Byng Group Of Companies",
+    "photos": [
+      {
+        "height": 4608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113483897266709129362\">THE MAN</a>"
+        ],
+        "photo_reference": "AeeoHcJszYFHWzvB8KaQxoR6H63Mn8LQdvIFnp__qBMuY2JnWJiU76dYtmkmCmB8UXl4n7NoRtjws-hFcBapsw5EVbT2thogn4r2pBceW4lvA7EsVaAhWtnz0XmpXpJwdnUG-_SqaShEGsjIkZZkXvRA8HuMjHeuJBbgAMun7yySYUA4hJwux7ETFroSghao6ta-F_N9xBqmoKNqDYfu_zAUoPpK1rz9XMr7qzxv22O3GFSLR-fzfrIleDwxjjEw3ZwV4wTCOKuS7n3KM7qeUxPPzuaNiE7xVO2T9_naLtmiwFxxcuFk2ipBPdI-A8q5HEAjWWizPW-7zwFQVMst1poU2I4l5TU5IllouBeyVOONdp78eVeX3GZZXV_jP7sXkOylFEsNhhBo5iTfddtrIaUbjSYKdQtPv3cyqjZ_KUfRFNUXYOolMV6GcGFO8yWwBGpDIa5pwTWMX30D_iXJKdyJtaz6LrKKkTFZiVvdsBY6aa2Kq4z8qbu0kAfwMtH-YgxpK6yD_Ej6MMuqyvzvDQ7JHHsB1J5UD__s45v_8vRioej9hl1R7XQGCnBTVDZgayTzMXO2cSkPyoWiP9L_Z4qousezNP9KnQe3Aj2WVVVA1eDdko3ftJM6HBpbME23EKwx955d1Q",
+        "width": 3456
+      }
+    ],
+    "place_id": "ChIJyfEEqeP0K4gRKoj2BryBwtE",
+    "plus_code": {
+      "compound_code": "CGP8+J9 Kitchener, ON, Canada",
+      "global_code": "86MXCGP8+J9"
+    },
+    "rating": 3.1,
+    "reference": "ChIJyfEEqeP0K4gRKoj2BryBwtE",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 11,
+    "vicinity": "300 Mill Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.493567,
+        "lng": -80.5428891
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4950296302915,
+          "lng": -80.54149376970848
+        },
+        "southwest": {
+          "lat": 43.4923316697085,
+          "lng": -80.5441917302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "CertaPro Painters of Waterloo Region & Guelph",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 667,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108373100725906703997\">CertaPro Painters of Waterloo Region &amp; Guelph</a>"
+        ],
+        "photo_reference": "AeeoHcLMxogr5aS7o9RibnMpf8xTQPe8Kw076Oy6jdGURktIgQykpJaoln1sZNmJ_XvSfpEI6misW_U5YEM6r6hGxbS_HyE388f54NYPzIv57-36pDauudhmPZEZNaZIDItNmlIVRX1GaCfoAkY-Az0xpQpyGAUNfMR1KGp0TjYg0OTO-fFSVd5j3FUYh34gDZ3MOQTdvRenaGdd1FnKg3tej450AY-fgpk-Fp5ldIsV1mjpbWgvcadDZ34S0FqU7qsbf5uTIAebZVIiE-IJfim1FyH9_740i2fzlYkPwODxcpRzEyqYg3G82S-vIqOmdhIK2n1ckxkYLR8",
+        "width": 1000
+      }
+    ],
+    "place_id": "ChIJ6aP71wjzK4gRDo4ikLZstXc",
+    "plus_code": {
+      "compound_code": "FFV4+CR Waterloo, ON, Canada",
+      "global_code": "86MXFFV4+CR"
+    },
+    "rating": 4.5,
+    "reference": "ChIJ6aP71wjzK4gRDo4ikLZstXc",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 152,
+    "vicinity": "550 Parkside Drive Unit B7, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4700525,
+        "lng": -80.5140416
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4713963302915,
+          "lng": -80.5127748197085
+        },
+        "southwest": {
+          "lat": 43.4686983697085,
+          "lng": -80.51547278029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Kitchen Cabinet Painting Waterloo",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 470,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108084115484802160977\">Kitchen Cabinet Painting Waterloo</a>"
+        ],
+        "photo_reference": "AeeoHcJHaKWdQg5Gr7qCYPXoEPT5A4eOLrqG9cVyUhsmJIRS6YrrlhQWpzpILwPWsYcEpcs9TcjHEa4VVR8LM8_-0YLYJbv5U6uBAnnnDPdAUj4YZ3vYIrCoPFerC9_FGHNZai1ezaC-bGfS3MX1jImWGpfmhuygQ7C2K9coixVFWkdIyR1Kl-VRIUQouUWNIyDATlhCB-gkSz-QSXyEWCnkyC7JrJw244M7ftdmFQhtb_0hPQ_B8DECZRw8vKIgecfgEp051_jkBmLVUP6eiSjBoPvxRjLDiskh1mwGXtDPPHZS1n1UEFcn0H8jUu1mMgRp3kDtegvQ",
+        "width": 1600
+      }
+    ],
+    "place_id": "ChIJSVa0ta_1K4gRcHusUVQ8c6E",
+    "plus_code": {
+      "compound_code": "FFCP+29 Waterloo, ON, Canada",
+      "global_code": "86MXFFCP+29"
+    },
+    "reference": "ChIJSVa0ta_1K4gRcHusUVQ8c6E",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "94 Bridgeport Road East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4623711,
+        "lng": -80.50045039999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4636618802915,
+          "lng": -80.49920801970849
+        },
+        "southwest": {
+          "lat": 43.4609639197085,
+          "lng": -80.5019059802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Tac Painting",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 998,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101922883154602323742\">Tac Painting</a>"
+        ],
+        "photo_reference": "AeeoHcI9X4bA-RUi8OOXNyaab9J9BYdSYOBkFSFnJtBWqv9uGb-dxdETY49_Kw9-H0hAQm4gIHdbit36o1OnRuJDmq2ot_6ZtM_wTPsPfWYe6DijEZxK7XLKYujLSyRWVyEBBI_ojLBD1ZbBb9xaU68CTs8L-xTwBpvnr4CMngrWRafKrDhntbf87ha10q52w_YRL92DutmNQHfJdZ3aFVLAbhwK1FoFzPe-pn-eBGr3hID0kOTGgIXoO5pmMY5xyouLntjbgUCd8Xhmf2FSB0_pTTqMj5Ire-Gi4DMX7gjtBidHW6nX4u0SYmBQ9BBfTFkYvYizU20UdJMFnnI5YShL33lnDav84n5jEVbWgbjYcG3W9DHFU6MdUl81HfB4wqEv9ym2BUB8Acvzb_Oz0nQ3ZlWyykE5Jc934Yw-eY-d2Q7ux8uWbtbf-uIXlrASFfDI5dqoUzReNzESXh8QRFUwlVRQPOUK3Um1MpZxcNEXszRRvJB5XtCYVjGIGjFG-aSxgdXlGsJeVY-JTOuDeqxGTbZuF0vgrf_JUwK6hY4rsW6EVVgKAl-oWquA3We9LgcfxRzZnpMt21eN1pkDhtP5YVMTraoNAEQ_rSkIa_ajt9gNfa7kXhcOUo0oQilaiyxOA_3zKg",
+        "width": 1024
+      }
+    ],
+    "place_id": "ChIJd4BiIHwjxysRN0uZOktFOXA",
+    "plus_code": {
+      "compound_code": "FF6X+WR Kitchener, ON, Canada",
+      "global_code": "86MXFF6X+WR"
+    },
+    "reference": "ChIJd4BiIHwjxysRN0uZOktFOXA",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "368 Weber Street West #3, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.48056179999999,
+        "lng": -80.5248958
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4819221802915,
+          "lng": -80.52342346970849
+        },
+        "southwest": {
+          "lat": 43.4792242197085,
+          "lng": -80.5261214302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "A Painted Thing",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2592,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113788641149263102084\">Shelley-Lynn Ammonn</a>"
+        ],
+        "photo_reference": "AeeoHcLZirZEkvbTrce_Sl49qtS_pWPoVJVqx4xWQVmaA6317474Ss-M8x3StQf7BvF0aBfCq1NR2iDkBTtiJkMqp7DH23uyZWYQfCZ_HhgcFxoI7jEseWrdeSV_eJjmurdLorSylSWsdPyHjtaewlNbBEXkxilnfb0RVj1lQOePIvaQd5MqHt0IQEryESHDDF1zwAwG5saYLaK5TvHrAHQhdgUOAwx-ppSZGB3aAh6szN8Mynv7qvqpDl-Di_FNgiTl6aG_8cTk7ORqbQufhYr1ahNw2zRao7Fo0vrDlCuGJ6gYD9x2G5vU6eaJQn0PM2grqfgE1vALb7Ybr3GImMh8xijfnfp0DrF9x-MTlxV2njDxcRdIP_f39NoObS3N6JOrmyZPbDvWdXAVx8JsObOHzNZdiMfKJiZdcMF4IZ1Tg6gSCCtevZIUILTKpj_RBjkYTA8cgvO3KhrifxUNH54_Te68FPjiEBysZj8vmskSMUY54Cm9vucBl5AyJAO7oxlgD-rtZAEJwMx59wVktWguxCqru6HgPi9va7_0UfW8kwBE3o8nwos5GSaqZshctOLSg35BjfKwrwvN6KNsPwu-WKIa_D41WG06ulKaC00CGLsTrLv6qJKkBueG_wNRR_m3VXBcmxyf",
+        "width": 1458
+      }
+    ],
+    "place_id": "ChIJtU1Fi5TzK4gRdOQXTq-wwmE",
+    "plus_code": {
+      "compound_code": "FFJG+62 Waterloo, ON, Canada",
+      "global_code": "86MXFFJG+62"
+    },
+    "reference": "ChIJtU1Fi5TzK4gRdOQXTq-wwmE",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "335 Regina Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44521789999999,
+        "lng": -80.519014
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4466450302915,
+          "lng": -80.5175043697085
+        },
+        "southwest": {
+          "lat": 43.4439470697085,
+          "lng": -80.52020233029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Heer's Decorating & Design Ctr",
+    "place_id": "ChIJr6-F0kf0K4gRsF2lnFVymZM",
+    "plus_code": {
+      "compound_code": "CFWJ+39 Kitchener, ON, Canada",
+      "global_code": "86MXCFWJ+39"
+    },
+    "rating": 5,
+    "reference": "ChIJr6-F0kf0K4gRsF2lnFVymZM",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "330 Gage Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44557229999999,
+        "lng": -80.5136658
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44692128029151,
+          "lng": -80.51207626970849
+        },
+        "southwest": {
+          "lat": 43.44422331970851,
+          "lng": -80.5147742302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Lukas Painting and Renovation",
+    "photos": [
+      {
+        "height": 1600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103009958640676391084\">John Rambharose</a>"
+        ],
+        "photo_reference": "AeeoHcLGr5Rwe4SFeBxzEf2iDENRpJ__vBGDXiqRryrmFet9AgkQmPSMLGKkcR6fY-Q7hiYl8nzmfL2hEdx1opf5dI_QFzGvRpfQdsGDP4cvyhxZLanS5D7E4EL0bvpVT5ueIwwyRWADV8rklRLycNBDvxq7lkPjUU7TvYlTzdZzeS4fgYrygBjSJcAWi8MjwEs05-Q-9JJUWD1Vtxxg-zYEDY3dom-HSmMxLrV1Eqfdzu3qhyKvAiSSp1n6eV-D7Cjjgx1UgAgt1ohSuhaZEmQM0e9Gsz6XoEqQ9UX9rrfaCQh3LApmK_xZ35zEIPtXs2XwWQ_zmCJBQCyBsZyVAidCQ76UG4Sj6fZVzh16PiF6plkTb5zxip38Lp42EO-h1iLaTFFrZb6LVvm_67yCccgj7EWvVH3DiyiPZzjUIdi8nYnaUrhQ0xREb1v6oRccCSaIGsRRxkshbZMoS1ehjMFIdiksiuMkEssg4jsnzXLBbWbK-mc88DDulQKn-k0zkoUAjiMihLncjfyQ-OUmUptTMh6VVcizgUHOrycyGVeEJG7AYDvsBDxZT2YPHyB2uj-NaxCDKTimjEAJsZwm-8qXL6vRDxJcMlNxJqn8J2npfMRvmjdgwewjVfgq0uiNXb_VW-8OE6Ax",
+        "width": 900
+      }
+    ],
+    "place_id": "ChIJAQBQmUX0K4gRWUsFArtYKy0",
+    "plus_code": {
+      "compound_code": "CFWP+6G Kitchener, ON, Canada",
+      "global_code": "86MXCFWP+6G"
+    },
+    "reference": "ChIJAQBQmUX0K4gRWUsFArtYKy0",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "427 Belmont Avenue West A, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4451847,
+        "lng": -80.5140468
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4466214802915,
+          "lng": -80.5127907197085
+        },
+        "southwest": {
+          "lat": 43.4439235197085,
+          "lng": -80.51548868029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Sunbeam Painting",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 400,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108429670977218504209\">Sunbeam Painting</a>"
+        ],
+        "photo_reference": "AeeoHcL_TOXAzeRPGwDNI2srUxxyGwp7wyoZBrGeBA3MG4YiDAxYONiOgECgk4X59VGAPL-AsG1e1_SmmzIxhE7DqG5xe-TSD1FvUMWY7kMqpDoekDAX_XkVvkWUMQyv3AdfqT8AU9VrxMzVFkw3sjr54VPWsc-uR2aU7lTWtNSLC0QgoeUC8AEzIedj5fPfpSf_1fQ28KdwKlDygo7x9mJ3brd5HohI8KUa_9IjyU9Ge4H6rglE4md6YUVc-d5UD_PnArX5G4eVGECUhQDg-PvyiYIT25ou8TTGS8-eAV1u68Qf-G2UgETu-geH1KyK7um5kxV4jmiABaQ",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJ4-kNwCP1K4gRXi5c_jH73g4",
+    "plus_code": {
+      "compound_code": "CFWP+39 Kitchener, ON, Canada",
+      "global_code": "86MXCFWP+39"
+    },
+    "rating": 5,
+    "reference": "ChIJ4-kNwCP1K4gRXi5c_jH73g4",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "6 Brybeck Crescent #308, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4840752,
+        "lng": -80.5255106
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4854110802915,
+          "lng": -80.52420296970851
+        },
+        "southwest": {
+          "lat": 43.48271311970851,
+          "lng": -80.52690093029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "McHugh Painting",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 681,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101088466022812337023\">McHugh Painting</a>"
+        ],
+        "photo_reference": "AeeoHcK-UBpBZEkb3jX2IjHEmp33ntVHISVDhPJYXUAsysTZfs9IkkLOy2vfo68zJETABaHZCR9R20mRL4pSk4Djf3cBLSLYM3XlJtSJwgwKkvIgoKl1vnUbpPy1xKEqgQJ1mWSELwEV8MiI4S-Qnrho1Fx6EEdiFtZWlSIUPRP4ie2w3IyhHiF58VMS_EGsTmbhULneU0D8NDLtjpXxpq16jXmvHyWmkO_1rgJEtfrkyvYLG8YQI8AuRM5bzJ4kXxc7T4YtrRhzWtZaPXHNacWrisS5dMldIXwVZYsgTqdNETU_stUM4o2hXTCic3Ry1UwM7UFqcv5g8tI",
+        "width": 1024
+      }
+    ],
+    "place_id": "ChIJz7aE1zD1K4gRnlHcC0LIjeE",
+    "plus_code": {
+      "compound_code": "FFMF+JQ Breslau, ON, Canada",
+      "global_code": "86MXFFMF+JQ"
+    },
+    "rating": 4.8,
+    "reference": "ChIJz7aE1zD1K4gRnlHcC0LIjeE",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 179,
+    "vicinity": "244 Woolwich St S #1B, Breslau"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4484102,
+        "lng": -80.5029005
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4496968302915,
+          "lng": -80.50144291970848
+        },
+        "southwest": {
+          "lat": 43.44699886970851,
+          "lng": -80.5041408802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Best Value Painting",
+    "place_id": "ChIJj5CaMln0K4gRG42nk5-IYbg",
+    "plus_code": {
+      "compound_code": "CFXW+9R Kitchener, ON, Canada",
+      "global_code": "86MXCFXW+9R"
+    },
+    "reference": "ChIJj5CaMln0K4gRG42nk5-IYbg",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "general_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "170 Victoria Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44380960000001,
+        "lng": -80.5092662
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44525268029151,
+          "lng": -80.5079816197085
+        },
+        "southwest": {
+          "lat": 43.44255471970851,
+          "lng": -80.51067958029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Tri City Painters",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115475447390741325201\">Tri City Painters</a>"
+        ],
+        "photo_reference": "AeeoHcIwLbI5GlGlGJU91zIx3t36gnf-9zqlvfA1dK4wenffIrVtoUyrW6I_UJMpzRwDaf62tyGhloskPBXYJ8-RxHEiaVoiNaUHGsKOD_LCUfYFWvQ4VWlFLZyN7iCswoxRdCFXyqlFJ0B4rzg1XFtJeqTVMQx1JgKlXYQF_HAkkkE1dPoLF4BY8wnkuCeq4nlqZdc9hBzeGwiXOEoFdbODOy8vMI8s4bYtsUeefbfN1496kSucyP3JyWand-uzHF4wnuY8rvQi3rOVtqTYzAYzJC_fH0X5FVwW9dYhyzEY-Y6RnvuKSxz_lOkD7xxsEjlZecGwrMS9JcA",
+        "width": 1800
+      }
+    ],
+    "place_id": "ChIJ2yQbDVD0K4gRjaRgQZWBepE",
+    "plus_code": {
+      "compound_code": "CFVR+G7 Kitchener, ON, Canada",
+      "global_code": "86MXCFVR+G7"
+    },
+    "rating": 4.4,
+    "reference": "ChIJ2yQbDVD0K4gRjaRgQZWBepE",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 49,
+    "vicinity": "353 Victoria Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46193960000001,
+        "lng": -80.490133
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4632540802915,
+          "lng": -80.48876231970848
+        },
+        "southwest": {
+          "lat": 43.4605561197085,
+          "lng": -80.4914602802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Paint Foundation Painters",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1168,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108082670603880473015\">Paint Foundation Painters</a>"
+        ],
+        "photo_reference": "AeeoHcI_9av0fM0cr-NuQk0Ev86LO9OpklBCdSpONNn_jnOi9tmjm2CCL63kR6S5bCF2YZGmkMgcWBOqNjUUW_tkbzlHPy5sfM717HoiZhdUlFFlAyK0Cz5pUfP1t_Uz4K5YjGcvHp2YoVlxDxW2vCch3HgGZXSHEgfJYRK6kdfkpKr58aGNZEQU4Wul3GKZPBV-eddEUbjl4avl9OY4dph307UcG9vSI3I9IkpSqTO8IYhknoogOl6a9ZYyiwSVcU-u-Dhn8hz7lTrPSdBAPJyGVQuuiQipIwOTWlqdd-hsR42l77KYLPr_r7_7YHbuY1ndP4oq0ndzxYA",
+        "width": 1284
+      }
+    ],
+    "place_id": "ChIJJba8G3L1K4gRaNYxQ387Ds0",
+    "plus_code": {
+      "compound_code": "FG65+QW Kitchener, ON, Canada",
+      "global_code": "86MXFG65+QW"
+    },
+    "rating": 5,
+    "reference": "ChIJJba8G3L1K4gRaNYxQ387Ds0",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "general_contractor",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 107,
+    "vicinity": "36 Prince Albert Boulevard, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4530432,
+        "lng": -80.4925935
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4543541302915,
+          "lng": -80.49113976970848
+        },
+        "southwest": {
+          "lat": 43.4516561697085,
+          "lng": -80.4938377302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "HAS Painting Co. Inc",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 251,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101702161577284625803\">HAS Painting Co. Inc</a>"
+        ],
+        "photo_reference": "AeeoHcIPAf5dG1kL_lZAnLT6qqRgy2tCHjvQ2pe3BRJuXSLwNiPDI2_ph9TXtAy1S8O1Enq3Rz52D8dKN8Mts-XgjZ2r70uvN9f32piKhbWqscDLO3HuGU8sxbQpGSEP-dyS66el7nYwO-CL4b9Txgf_4PCRYUkPvqaTgICzQ2Eom5auDkiWYg_fg0KVZZj_dIMM9dJZ35up2h1eQI-NLb69g5HjGTE8HvuQupQkQ5czrLhZEfCdCDJ-DZUdYbTwsMQcRsNlUWcEFX4EjyUcBNL9_KRkmwhJ808iEYMpXLF9Ivzjud0gjvGNVqoJe4VvWGQj7SFhtDFPsoI",
+        "width": 336
+      }
+    ],
+    "place_id": "ChIJ_2w5toz0K4gRZTWTUUjOyxg",
+    "plus_code": {
+      "compound_code": "FG34+6X Kitchener, ON, Canada",
+      "global_code": "86MXFG34+6X"
+    },
+    "reference": "ChIJ_2w5toz0K4gRZTWTUUjOyxg",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "50 College Street E, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44044,
+        "lng": -80.5152499
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4418440802915,
+          "lng": -80.5139641197085
+        },
+        "southwest": {
+          "lat": 43.4391461197085,
+          "lng": -80.51666208029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Stephenson Ross Painting",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 352,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106240390274390241510\">Obsessive Compulsive Painting Kitchener</a>"
+        ],
+        "photo_reference": "AeeoHcIroCbdYY_E8eOhRaMKxU1QHLUT0qaUl7lAYrF4mhXK6eSbAVi8csPIoVULW7UXlJOfNIhG3dcJTQ7Km6XShk0NvQN8N1FnETPa70ZCN7O8h9-kp8oYzNN0t3rusdxS_98b7Tv5Fc1rFbFnRk6HCb9Dc4FriiZEwAhyeY8BGVGFYdFSLz3m82xwmtfHTErivnWJELJhZytRH75QMeq69u0grrBm1b6CHsJoV8aN9O8x4zfgvs0pxZGaXN7kWp-CITNV3y7WyEk9llIfhGcxc1ZUZ5GXqIc1kaNqsC9pNejcPto4YfqKhfssQNVMkJ7qOwl7xI1jnAw",
+        "width": 625
+      }
+    ],
+    "place_id": "ChIJkwDFM0X1K4gROF9sJ_KW7yk",
+    "plus_code": {
+      "compound_code": "CFRM+5W Kitchener, ON, Canada",
+      "global_code": "86MXCFRM+5W"
+    },
+    "reference": "ChIJkwDFM0X1K4gROF9sJ_KW7yk",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "20 Paulander Drive #20, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.43862499999999,
+        "lng": -80.5118911
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.43992498029149,
+          "lng": -80.5105244697085
+        },
+        "southwest": {
+          "lat": 43.43722701970849,
+          "lng": -80.51322243029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Kitchen Cabinet Painting Kitchener",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 470,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106718096895082241109\">Kitchen Cabinet Painting Kitchener</a>"
+        ],
+        "photo_reference": "AeeoHcJbIK3t7YChb4uI7W1bHay6CakQiBELADic0lZsW1KMULkAE9si7dto0dQPUL8ictQMRJAVMQSrSNxTB6iEac3U6EPPtWo8meAwJl5vx69w10XKjoYRN6ojYk6YKhXLVzqzS5lXhwAfBDLAlHhtl9EfV8i38voG-10MQfU52fr-0gsy1cd0YKKbpgME-OM49R-HWqV62DcLjMJBoos5xg-Wzw4lGwz9arMME9FotrCzM125U3bkzI18ORMwQbULjbOoUh8fJpXn6qQivESkzMUrSQ5Rdq4X5ZPQrS-zpqPE_VbMZ_turwL6bXfYOAchH41Rn7Hg",
+        "width": 1600
+      }
+    ],
+    "place_id": "ChIJXTnkXv_1K4gROdKmil9rSyk",
+    "plus_code": {
+      "compound_code": "CFQQ+F6 Kitchener, ON, Canada",
+      "global_code": "86MXCFQQ+F6"
+    },
+    "reference": "ChIJXTnkXv_1K4gROdKmil9rSyk",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "370 Highland Road West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4421251,
+        "lng": -80.4970237
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4434566802915,
+          "lng": -80.49563886970849
+        },
+        "southwest": {
+          "lat": 43.4407587197085,
+          "lng": -80.4983368302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Pigmentos Decor - Wallpaper Installer",
+    "photos": [
+      {
+        "height": 1912,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104002149334626608348\">Valter</a>"
+        ],
+        "photo_reference": "AeeoHcK_jUxMqdUE8g_0mI8Az5SglooxGIzfGJMwMKS8gPmkVzNwoHJBwfjkWA4bHafD2SW0Ax8a6975cBSAyhqHornJ4Uy8oieeYrACZC8Hj-Er7IaeX_Y4A-GJ5sNubGQYuscdUzJ_A19lTqIdd5c0QNPhsYgNbCrERFTQTJeZaJ3n_QK9oH3fL14Xaj_zaSpsIhO1U9jFMHQrR7bhbd1T600W82bxrWsX_JOK89lPRQtqXT0OZ6madBwFbhe0dDcwiMdpn5a8u7QF5WgSPnAos3RuKN0s28ygGWWcGV9XeGJxDc1yGHH3iYG7fbM7O_SCAiQQ6fvrTkn49Bm9zL3wYrZhgRxW-U58g5jzCEYwfb-hCh9uFLF0jydsg1bsRhcqgOf4Qox9rqRshn9nuw71_qYZB7tOACpjW0YXh6IYzLQfQ33juVt0V-vImHNqa4AEyiuXP5LmYCtQbI0_AZD0_6gw8_orNIhVOXn0qgYS9p3mNzxj5V9uCHl0ma5DzLRmlFZjreyA3u61yLL7zCTTEYQomUKpdODvEAshK-WIFsLs_DbJtjQXZq7AJUjNOpl2ulVChqCBMXsfLagfR9BcNazWmPrItCU8ZptbJ-l0MDKe3FW7W7ppJmo3Yqiaj-yTdN7npg",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJfT2-HwD1K4gR7pQr4jteiO0",
+    "plus_code": {
+      "compound_code": "CGR3+V5 Kitchener, ON, Canada",
+      "global_code": "86MXCGR3+V5"
+    },
+    "rating": 5,
+    "reference": "ChIJfT2-HwD1K4gR7pQr4jteiO0",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 15,
+    "vicinity": "677 Queen Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.43515,
+        "lng": -80.51351
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4364415302915,
+          "lng": -80.51199561970849
+        },
+        "southwest": {
+          "lat": 43.4337435697085,
+          "lng": -80.5146935802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Painting By Luis",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ29Lp1Ez0K4gRde0-3X0tWtU",
+    "plus_code": {
+      "compound_code": "CFPP+3H Kitchener, ON, Canada",
+      "global_code": "86MXCFPP+3H"
+    },
+    "rating": 5,
+    "reference": "ChIJ29Lp1Ez0K4gRde0-3X0tWtU",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "10 Overlea Drive #701, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4302773,
+        "lng": -80.5201648
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4316738302915,
+          "lng": -80.5186707197085
+        },
+        "southwest": {
+          "lat": 43.4289758697085,
+          "lng": -80.5213686802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "VIVID COLOURS PAINTING",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 6016,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108106833014273494776\">VIVID COLOURS PAINTING</a>"
+        ],
+        "photo_reference": "AeeoHcKJkh2ZLTh9Ymk_ZzM3gybrNuJdFA_7-99NaLBGxqCd7hzOjxWkvURqyB8NM1vZgydNEn1_9YxF6DPXriEx1thmAINTWgJCqkMWfW8AMRcC-Yfyed-fgECs1n4C8_flm5e7Wrdm66m8eKyeS9Ie54iecgWFf8jOI85Nbhz3ro0XO7qxTwIVIw5_lbFVmFF-rX1mq6qvW-LdY9gJsOgMV9CibWJBCqK_KaHQP33bMxaK6uL0mLVonRdQQ_yxQ3VFl-juhj8IvE1271zK41iVuvXbKOBl0RQfM3yr9yft5BEm1jufBaU-2xfYCi6ayQfmJCmg_0cSkGE",
+        "width": 4016
+      }
+    ],
+    "place_id": "ChIJS1-LfaD1K4gRqALzc7fEQHo",
+    "plus_code": {
+      "compound_code": "CFJH+4W Kitchener, ON, Canada",
+      "global_code": "86MXCFJH+4W"
+    },
+    "rating": 5,
+    "reference": "ChIJS1-LfaD1K4gRqALzc7fEQHo",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 50,
+    "vicinity": "19 Eagen Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4874556,
+        "lng": -80.4822059
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.48886098029151,
+          "lng": -80.4809981197085
+        },
+        "southwest": {
+          "lat": 43.48616301970851,
+          "lng": -80.48369608029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Rau Painting Services",
+    "place_id": "ChIJ___reGvzK4gRLt_d9fsC0yE",
+    "plus_code": {
+      "compound_code": "FGP9+X4 Kitchener, ON, Canada",
+      "global_code": "86MXFGP9+X4"
+    },
+    "reference": "ChIJ___reGvzK4gRLt_d9fsC0yE",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "136 Woolwich Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4472774,
+        "lng": -80.4760179
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4485792302915,
+          "lng": -80.4745642697085
+        },
+        "southwest": {
+          "lat": 43.4458812697085,
+          "lng": -80.4772622302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "M&M Custom Painting",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117510526821654481065\">M&amp;M Custom Painting</a>"
+        ],
+        "photo_reference": "AeeoHcL8iAQ50AlAwqE7GP2rn4EBTCKaDVPpI2vtNNmm4xKS6UOeaL-QtZqnkwxQyJ2LgzmcSUQTbgoq5BLETRa0mpMlqoTI-455o9IiVCxhR2yPDUw-jmKWWhoJf7iOnh-6km2Tr3CrdsOXUH-_I_slkHwLh0K-RgNPSJ95JsFNykm5ZNRpzH1ykL98U4aLtxQtBzyJFbhj4Dwa55S6iyTGyyTThZrCa73WfEiGSlvWhy8pIRJeds4p_lx9cdPGO9YPU8mJN8KRRw0vxHKwhvql6Y4TBjuQK_Vmmb5Z0DPz-JxMgZib3myY6Pn1s4ypGeyCkqL_j6kcgu0",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJZUtcueT1K4gRUqBUmfVi1Ng",
+    "plus_code": {
+      "compound_code": "CGWF+WH Kitchener, ON, Canada",
+      "global_code": "86MXCGWF+WH"
+    },
+    "rating": 4.9,
+    "reference": "ChIJZUtcueT1K4gRUqBUmfVi1Ng",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "home_goods_store",
+      "general_contractor",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 29,
+    "vicinity": "80 Fairview Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4867418,
+        "lng": -80.56179130000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.48804278029149,
+          "lng": -80.56028421970849
+        },
+        "southwest": {
+          "lat": 43.48534481970849,
+          "lng": -80.56298218029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Blueprint Precision Painting",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113340811436415271276\">Nicholas Nelson</a>"
+        ],
+        "photo_reference": "AeeoHcKETXCiPwl4R-YEQd2O-aRRTj2mgpIWOIRdpjZl-6U9eKXC-4vLvgLHeH62W7a5yWr44t5vIl1XA26PAdeINZIbKDIkAGkDDzFi8n6_dQmhhDY_H6X4nWFEXtt0oOTU8BeG6wZ1J8i7O6JyAUjzuhgvPlp-ZyH6PN85RzT1QeC9yLCOxVWSR7tAs4ka271AejwMEfTmohR930Ys4BqsuP5L8PBqJKvrPJVpPZTrcKTNffB3JEvOPP5a_EUd05y26dT4i3r6sm81nzqwa5-n4O5E2br1m_aRcZF7t9AJkIGNM-2R_p5YYla_ftQPiDFitwyP0SG55yRXSdVbw_WeGaV2ZD72XD5rpm9D4bif1J0akt-13gww4Z-HdNsLvVClR4a6wS0kxgQDw7ewxRcNyrPGQ7JRwQc5bme_JwpLFZ8GZYCvLZ27Q6yX-i7hsJmmPTvs7tdBEunG8SUgVgSkkmV6FKRZnj-sdUUUXkQOwK3L21ZwBKWauFKlxodnJmYwk_UEJpVEHP5Wm1SrEAzhAjloLzobmfpw2su9LQHav9vWyPSvqeCHeGECyy-IF_YkuSCak14Di43zi-2dy0ZqnsjL7mjgpBtngIY9pio9xPv3xW12lI0RhQqeDHoKiwtP",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJx7xclbpIdkkR0GrJglIrtbI",
+    "plus_code": {
+      "compound_code": "FCPQ+M7 Waterloo, ON, Canada",
+      "global_code": "86MXFCPQ+M7"
+    },
+    "rating": 5,
+    "reference": "ChIJx7xclbpIdkkR0GrJglIrtbI",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "home_goods_store",
+      "general_contractor",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 14,
+    "vicinity": "327 Martindale Crescent, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4945108,
+        "lng": -80.551814
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4958356302915,
+          "lng": -80.55053101970849
+        },
+        "southwest": {
+          "lat": 43.4931376697085,
+          "lng": -80.5532289802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Quali-Coats Painting & Flooring",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105365347212725750292\">Quali-Coats Painting &amp; Flooring</a>"
+        ],
+        "photo_reference": "AeeoHcL_v0WyWVIeBvv7XccDVIzFeAlJiXtLId4jY9waLSF57Yacl_ux6KvawmFwEWS-cHtWU5Q0QFCq_9aLhjBnf2nVgJxOuktUwRlFWDVcCKgyu97fJYta8YrBn-zeYZG9HKnUb5IwoiCeUQJG0OMWfHjzRIRftBLlc51LM87blm0D5pOHkVL11iU8x56dtJZ9AZoK6IgaZxSpMM7kkJqNJLzLZ8xuGDm9Cs2AeHt4RKEzMAsoMMHJdSA-DT4bwNhbPWAfosXnuQJZXzOsfJ8arayermwoH-9NmzIsdXZcRGnNL7_ZvJgCeNWQRCSQVWYWNYa1ggBNPU4",
+        "width": 3060
+      }
+    ],
+    "place_id": "ChIJ0X3Pek3xK4gR2NhuRNccxjQ",
+    "plus_code": {
+      "compound_code": "FCVX+R7 Waterloo, ON, Canada",
+      "global_code": "86MXFCVX+R7"
+    },
+    "rating": 5,
+    "reference": "ChIJ0X3Pek3xK4gR2NhuRNccxjQ",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "home_goods_store",
+      "general_contractor",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "646 Silverbirch Road #2, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4562979,
+        "lng": -80.5755781
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45759743029149,
+          "lng": -80.57431966970849
+        },
+        "southwest": {
+          "lat": 43.45489946970849,
+          "lng": -80.5770176302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "At Your Svc Painting & Decor",
+    "photos": [
+      {
+        "height": 5312,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103125466131018728036\">Perry Benoit</a>"
+        ],
+        "photo_reference": "AeeoHcKzlzjNVRI3PtQ2gKvf2cns7FCATxuEqmFPJb0jdk16SDakWHm8-vf7s3s6AiEy2jbQqMLgORVDbS5g-mTC3ZVo4nDMH5D1hQtfnJ4uvqlN-zv5D5eBY-j7JBRPg1jcxP7swWlpgXZpFVAtqo5nPm0Fjb5Ux425u2bRwoHU72z3P1tFOHV0evNNq2rF9J_kklLJQycPzm9eWmkRlnshs-10C_tcGNS-QNxKiswU_ZzqVg_jVM8V21u_1SBZwBbwv31heYWueYCqdVNdUuocjN3KBpYpkrOtQUJiIyMGdQumdMkbVWxGZTUOwCIWqLBKxj6jyr_yPnNF4clSDGZDbiE6W0NsnWWJDjobs2BHevzWJudpWANjVB26-NKxxFcKN5rpowX6qmpLy04MgoLJPKaXLqL3UNaklZY8q1USNJTQES9RjQUPB49hUL5OFqjAuwcLK9G2VTMvYlxQViJ92cr1oMihm6yVupywsQGeDdYy5xVSjjtYtcogelDoOFTl6XKdJWCiQjfvdD977TWFy-iE7Tp45h0kglsQLFNfuKjVqSCxrxuLVJbeb9ZrGNCnHog5GuMs2P7PDaOAAlzwZaJnZPAULWB8lgAG-ST0stoc8k9qcN3sO-TKPR84tbfyemCxCW_x",
+        "width": 2988
+      }
+    ],
+    "place_id": "ChIJCRh47Oj2K4gRvUgnWEfC_mg",
+    "plus_code": {
+      "compound_code": "FC4F+GQ Waterloo, ON, Canada",
+      "global_code": "86MXFC4F+GQ"
+    },
+    "rating": 4,
+    "reference": "ChIJCRh47Oj2K4gRvUgnWEfC_mg",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "752 Zermatt Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4309854,
+        "lng": -80.5535258
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4323832802915,
+          "lng": -80.5520423697085
+        },
+        "southwest": {
+          "lat": 43.4296853197085,
+          "lng": -80.55474033029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Mon't Services Inc",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJg_MNzUD3K4gRlOntvw_LaYo",
+    "plus_code": {
+      "compound_code": "CCJW+9H Kitchener, ON, Canada",
+      "global_code": "86MXCCJW+9H"
+    },
+    "rating": 5,
+    "reference": "ChIJg_MNzUD3K4gRlOntvw_LaYo",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "157 Huck Crescent, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44290660000001,
+        "lng": -80.47189019999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4442917802915,
+          "lng": -80.47061566970848
+        },
+        "southwest": {
+          "lat": 43.4415938197085,
+          "lng": -80.47331363029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "A Touch of Color Painting Co.",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105460314003790608832\">A Touch of Color Painting Co.</a>"
+        ],
+        "photo_reference": "AeeoHcJJmnWQHt6APOJDu6wMx7_GZDEbXX71A1n72mv_Ki_ziwJXDjbg7MllSx22iMbPjCsGmjRhaRWVasoPwaHDSdxbRgm7aClUA1ECcq7mCGb7m1PxfZ3zyWJaWevi68RyxFetvt5IFlgOtTnd5jb_NmTAVKzYih45FfkoSvoHN51WyOg1cLEq6Z2od0GKIwes_VL5iO4Tq3gx8IQpdDNhXePad8-_MLyqxVISwQeVGIoOcWUNWSWwfqTieRYshczBExjQZ6Cn6knGcBcYJS_xWNzbc5pc-NuYyj_0AV2tea99owX4FisNkQv3yA7Mc_HJ2zMV9jptDdc",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJ46h2JJr1K4gRY1YmKXlNs0E",
+    "plus_code": {
+      "compound_code": "CGVH+56 Kitchener, ON, Canada",
+      "global_code": "86MXCGVH+56"
+    },
+    "reference": "ChIJ46h2JJr1K4gRY1YmKXlNs0E",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "21 Onward Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.50777910000001,
+        "lng": -80.5073546
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.50904748029151,
+          "lng": -80.50616246970849
+        },
+        "southwest": {
+          "lat": 43.50634951970851,
+          "lng": -80.50886043029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "David's Precision Painting",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115184874968507750227\">David&#39;s Precision Painting</a>"
+        ],
+        "photo_reference": "AeeoHcI_jwslHrIrnBh7BPbErbPz1d6mF8-wbmm0F8zzUYNGN8jBDhFQMLrHonA8Kt0kofdvlkCHQrWwiQBIww90V2wWdRoZ0s4h2WmUYqv3QQaGJ54LeVpP6xnISFlYRM1MYjBccVNrgEVEVq5zYOcLfNCzm9fFpdwf44h4Xqp1i1b0ODnmkqPZrBKO4xIeb71J43jPAASQ5MvQtDiixEu3L3-CzAjCUTwVICSVBfInKI-QAfQl_s_KyLgbvd6-pnLullsAYDbXYuLRa8UwEnPzdxhWVzPiD-5E4TlPNc4-YZ6Pveq5kGtDoU0IsHthG65T4YDDZTRwme0",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJEbvnWVgpwQQRg07x6WCYVHQ",
+    "plus_code": {
+      "compound_code": "GF5V+43 Waterloo, ON, Canada",
+      "global_code": "86MXGF5V+43"
+    },
+    "rating": 5,
+    "reference": "ChIJEbvnWVgpwQQRg07x6WCYVHQ",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 73,
+    "vicinity": "480 Mooring Post Lane, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4486253,
+        "lng": -80.4619591
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4499134802915,
+          "lng": -80.46071876970849
+        },
+        "southwest": {
+          "lat": 43.4472155197085,
+          "lng": -80.4634167302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Labelle Pro Painters",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJreqPv8n0K4gRAfh0P4xd_sc",
+    "plus_code": {
+      "compound_code": "CGXQ+F6 Kitchener, ON, Canada",
+      "global_code": "86MXCGXQ+F6"
+    },
+    "reference": "ChIJreqPv8n0K4gRAfh0P4xd_sc",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "58 Archer Place, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5106488,
+        "lng": -80.5311656
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5119216302915,
+          "lng": -80.52962811970848
+        },
+        "southwest": {
+          "lat": 43.5092236697085,
+          "lng": -80.53232608029148
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Industrial Painting Ontario",
+    "place_id": "ChIJZUH8Cs3zK4gRNKZ5zj81cjM",
+    "plus_code": {
+      "compound_code": "GF69+7G Waterloo, ON, Canada",
+      "global_code": "86MXGF69+7G"
+    },
+    "reference": "ChIJZUH8Cs3zK4gRNKZ5zj81cjM",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "695 McMurray Road #6, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.41803569999999,
+        "lng": -80.5050061
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.41938728029149,
+          "lng": -80.50350561970849
+        },
+        "southwest": {
+          "lat": 43.4166893197085,
+          "lng": -80.50620358029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Sam Painting",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113326421829425794183\">Sam Painting</a>"
+        ],
+        "photo_reference": "AeeoHcJMM03q7LNBum83G05xKZYoo_OllpFWqFAgevW3YF_Kx5rOgo2gZLPKgDIdnJrfOSxgnXG14LdyVuIOPLdJX6Pu6ocG_5gt0qUnFX8rjcv_1jEf7MSN2oDYK5bz8sWXi-rg_o8yxo3_eOFzMambi4BqLT0HudNhruIHFzwDVaby5cF3FfV514oVPWQ1iqAD1BBNeHjwfqHk74ziV3bS9xgW2wMUoEugHQBAd2Czm7QQcPvnjKmmSP7Pb9tdf6yD2FCDtyDdf7aIoK8HvNJERoa0zTL-sngFF_OAY-2ITyXB0B2I8lpe0U6qPl4X3hzSslT91VYSMU0",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJo-UGK8f1K4gRD1be5j-vyh8",
+    "plus_code": {
+      "compound_code": "CF9V+6X Kitchener, ON, Canada",
+      "global_code": "86MXCF9V+6X"
+    },
+    "rating": 5,
+    "reference": "ChIJo-UGK8f1K4gRD1be5j-vyh8",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "67 Pinedale Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.50981999999999,
+        "lng": -80.5421429
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5110569302915,
+          "lng": -80.54071961970851
+        },
+        "southwest": {
+          "lat": 43.5083589697085,
+          "lng": -80.54341758029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Midas Touch Painters",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104247294646622537920\">Wael Odeh</a>"
+        ],
+        "photo_reference": "AeeoHcJZxCZUyF4Jm0iLif-tClfcAZi46tetZfl5KMekM7DWV9NfTfdEZVVC_GAYc8ZzEEeOC1EjGUq74vXBvR921jHqT3mNSSvzIDQWN3u9KXWP5gBZpqQS7gs5c0uFq8NpOHeK1xdSsJFE1MuqNPGAWInMJ9bTTbCzNzZvP90XVyFQ-BT6CfRUTLkQ_w_TJfpT_MrZIiE6HLSVIVLGQv-F8tnvTHZC8OLgGABjil4PkE32hjltlErOGgv2y8bmz_5oDX_8rW96ZO51TeE_aoDU9zFhEuMws288cqCCSNdAYluAE2OFg2S7wP0AI0VgcDNrPqGgDWrt1I6_COTUu5Mezb7NJiaytkZ-dVSXJZP5l5cWVTkNZE7r2QbC8RePjIFmNeO_wRufKKKzEWxSELFuZRqrApWmpNfFwfh7JaP9yZe-gVezSrrkktQ68OgpwLIn-egh6Dn3pX4UN3L5sDD7AmWszp5yDwBTkJ088A-3Vtx7_UNpRcaK4Iycwp4AMNL3rb90S7lB2-6ouBJEgjn-n7h32Tr6fSO2tIUdBpY5oiZeQS_MDRhlj-wrrsPfTwKSm74eYu6mmmduK-2UKiUQxcXM8AsSsc6cHziIH3p9hM1nDF8f4ZDUXzoFzMTch9DvsGLfLxVi",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJeTaa5cnzK4gR6O5tl5s7Dfw",
+    "plus_code": {
+      "compound_code": "GF55+W4 Waterloo, ON, Canada",
+      "global_code": "86MXGF55+W4"
+    },
+    "rating": 4.4,
+    "reference": "ChIJeTaa5cnzK4gR6O5tl5s7Dfw",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 7,
+    "vicinity": "1057 Bridge Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4328211,
+        "lng": -80.4685064
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4341125302915,
+          "lng": -80.46724841970848
+        },
+        "southwest": {
+          "lat": 43.4314145697085,
+          "lng": -80.46994638029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Daddy's Painting",
+    "place_id": "ChIJcysQ9tj0K4gRE9N_Tb7KPTc",
+    "plus_code": {
+      "compound_code": "CGMJ+4H Kitchener, ON, Canada",
+      "global_code": "86MXCGMJ+4H"
+    },
+    "reference": "ChIJcysQ9tj0K4gRE9N_Tb7KPTc",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "248 Carwood Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5145172,
+        "lng": -80.50014569999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5159499302915,
+          "lng": -80.49885946970849
+        },
+        "southwest": {
+          "lat": 43.5132519697085,
+          "lng": -80.5015574302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Jessica Harnock Designs - Interior Decorator & Professional Painter",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1412,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115281347263521838810\">Jessica Harnock Designs - Interior Decorator &amp; Professional Painter</a>"
+        ],
+        "photo_reference": "AeeoHcLYtg2KNwxmcREY8UcmeacX-ZXWxdE-YCnII28PkeV_FeFCiIlp6Nr1e8e9PK5sj20u8guNAwSDtlUAaddqRzENJVXWWBMcVdyRIc-2Z7O6R4xjGIrh6PS7K736sKRj8xsO0mJhrQKz-Iuzn075yu7vtB0OyajxhvJl1IoNGAmBSOCR2zbEj32myxBAosKVQK6k7YKrEqzxfXG37Zt-fZqGtnGHdX1VAhNn8Pd7aHqLBbVDCSlhcArmBWOhSGlRSxKWU9z7KXPjcKa8XUp_hmtofXoTeuqyqhuoJs12iTEbsHl1q0QGksXCt3qVZb43N2wC1m_ieOs",
+        "width": 1134
+      }
+    ],
+    "place_id": "ChIJ38lzfIjzK4gRZR_raINbdaI",
+    "plus_code": {
+      "compound_code": "GF7X+RW Waterloo, ON, Canada",
+      "global_code": "86MXGF7X+RW"
+    },
+    "rating": 4.7,
+    "reference": "ChIJ38lzfIjzK4gRZR_raINbdaI",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "general_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 12,
+    "vicinity": "773 Angler Way, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4099925,
+        "lng": -80.50871409999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.41143828029151,
+          "lng": -80.5073978197085
+        },
+        "southwest": {
+          "lat": 43.40874031970851,
+          "lng": -80.51009578029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Jerrys Painting And Decorating Inc",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ-w4hPZr1K4gRzXmJ7noS8FA",
+    "plus_code": {
+      "compound_code": "CF5R+XG Kitchener, ON, Canada",
+      "global_code": "86MXCF5R+XG"
+    },
+    "rating": 5,
+    "reference": "ChIJ-w4hPZr1K4gRzXmJ7noS8FA",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "218 Bush Clover Crescent, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4139956,
+        "lng": -80.55148559999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4153147302915,
+          "lng": -80.5502555697085
+        },
+        "southwest": {
+          "lat": 43.4126167697085,
+          "lng": -80.5529535302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Primetime Painting",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 674,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110142689651661482638\">Primetime Painting</a>"
+        ],
+        "photo_reference": "AeeoHcKnwmCB0toLc6d937BPHE4mxPFB6EUJbs6Cnq9GKkV_zIEj6VcOUc2CH74y2ocDp9suHIkLeOJvqm3a9OOLQigwSobuwoJRd-z554dGss5flua2mxF311oNZpNbKD8HEZqoOb9zDBm6DLGyT7Ch5gKK8KMc2SbTyGAOFMAOqjv9DL2RYNKkhh4UbGw6sRpPYs8v_uMKm1G1s9oIlglxXQEuy0geTZt5RQMF7J99kIEjL0UjLIwM4IAiDcItKATiZixTgDEjRoQKnUzVOqMgMVX1SFyqL8sUu5NxQMv_H4XKxBgGQdwdCuq3AzD_1TqmhSRgObhwtGo",
+        "width": 1200
+      }
+    ],
+    "place_id": "ChIJOToTCv33K4gRgz6N2jCSmNc",
+    "plus_code": {
+      "compound_code": "CC7X+HC Kitchener, ON, Canada",
+      "global_code": "86MXCC7X+HC"
+    },
+    "rating": 5,
+    "reference": "ChIJOToTCv33K4gRgz6N2jCSmNc",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 34,
+    "vicinity": "25 Golden Meadow Crescent, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.40917259999999,
+        "lng": -80.5001703
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.41054663029149,
+          "lng": -80.49867226970849
+        },
+        "southwest": {
+          "lat": 43.40784866970849,
+          "lng": -80.5013702302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Roy Painting",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107430263210158440471\">Roy Painting</a>"
+        ],
+        "photo_reference": "AeeoHcL7rhSLCUARw5JaYKsR3qaxbClh8C3uq0dozf4R7uB04I_ug7XTUtNrabM4WqjjJ9nZPCJ_KPe8oJ93E2x7eQ99bqDQBtP3Tl9AFzMz8UMi5r6P38-9x44cGc4t-Lp-cnenrQKxvFLFbOfoQuWAFctDRCOE_2b6h8G1XjKX76hVOgkxa7rwvQsl4wsmynt044CAIdh2SUOB6ZxU1Aev_uMIvF3ym16tcsKeZ0tcofqtnhWkiCvM0CadUktruo-UL-HC0duiFhOOT0kMX3luozj27RHXTJG2TypvtnX9GYXZlKCnSBamyHCVL5ukw7uCBrFEcUjjAhk",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJr2KaiWV6tEERAH20f92vHdY",
+    "plus_code": {
+      "compound_code": "CF5X+MW Kitchener, ON, Canada",
+      "global_code": "86MXCF5X+MW"
+    },
+    "rating": 5,
+    "reference": "ChIJr2KaiWV6tEERAH20f92vHdY",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 21,
+    "vicinity": "53 Highbrook Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47073530000001,
+        "lng": -80.59949379999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4720246802915,
+          "lng": -80.5982520697085
+        },
+        "southwest": {
+          "lat": 43.4693267197085,
+          "lng": -80.6009500302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Fit Painting",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101463291050408582716\">Fit Painting</a>"
+        ],
+        "photo_reference": "AeeoHcJoxopnHOPJmZ2a99tpAwjBQrMHHRXAeEEgh6iffkD00yM0n8LD4zPhQj8d5l5ax3mFLhweuIHDXYKmky6xpdb8wDs_mm_A2ave45VdZqtdMxcFr3FD_4xBuP3IoieA3SMrUTXeFeKi48GYAexIbsSd_0JGS8fD8cnE4CvIAqzUTeclknxlKMmHwXfbNH-Mv2Hq777DmYCpmJHOkgiKiyFyfHcSKapEfRrtAPTkYus5eIh0OqcVK0J_KaPWd5lhKg5hI-XnoOYzoimM_3DN4Ij-yWv4C9LOmpLLNgGpd_3D4dmU-K9PXEN7ACZQZJALEFmkX_ICFPU",
+        "width": 1536
+      }
+    ],
+    "place_id": "ChIJQ2JDPrMLLIgRacik9gfTgyw",
+    "plus_code": {
+      "compound_code": "FCC2+76 Waterloo, ON, Canada",
+      "global_code": "86MXFCC2+76"
+    },
+    "rating": 4.9,
+    "reference": "ChIJQ2JDPrMLLIgRacik9gfTgyw",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 113,
+    "vicinity": "782 Laurelwood Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4238513,
+        "lng": -80.4630088
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.42526963029149,
+          "lng": -80.46173816970851
+        },
+        "southwest": {
+          "lat": 43.4225716697085,
+          "lng": -80.46443613029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "JJMFG Contracting Inc.",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112566760941595635523\">JJMFG Contracting Inc.</a>"
+        ],
+        "photo_reference": "AeeoHcKUoGVDSTKD81ElgENsIMSLG2F7tJPN8w3FnKwjV53Rgffa9Fcu_X0LUt-X0cD-yrcL4WLyJXdhmNJdZwXgpxoL-0OBQIHOOqkVDXIF2STp_PO6Rr2z-R0Xo12CGjnnP6FOi0hOluayO5COug8VlhV-tSaBRPzKJ12_5xHNpRxnCq7HBtuvuFNOXkSx0RveIhPKaGD1R6wtwLWQ3Z8ZQX7mYMc58gPz0hyW9qWX88iuFq47qaOec7-qXb8dYG91xFwmo2gy-ERUv72j_VOYUWRM7Q2x4jClVTllSuo1gZB75F24D76aHFC9w6vHiozqYjv0Yt2GZdY",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJM5DYn2L1K4gRGZtW9TBeI2M",
+    "plus_code": {
+      "compound_code": "CGFP+GQ Kitchener, ON, Canada",
+      "global_code": "86MXCGFP+GQ"
+    },
+    "rating": 5,
+    "reference": "ChIJM5DYn2L1K4gRGZtW9TBeI2M",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 33,
+    "vicinity": "75 Hillmount Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.40625379999999,
+        "lng": -80.5232472
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4076225302915,
+          "lng": -80.52179931970848
+        },
+        "southwest": {
+          "lat": 43.4049245697085,
+          "lng": -80.5244972802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Grand River Painting",
+    "place_id": "ChIJC08-lPL1K4gRJglonTQ1MRc",
+    "plus_code": {
+      "compound_code": "CF4G+GP Kitchener, ON, Canada",
+      "global_code": "86MXCF4G+GP"
+    },
+    "rating": 3,
+    "reference": "ChIJC08-lPL1K4gRJglonTQ1MRc",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "175 David Bergey Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46085230000001,
+        "lng": -80.4372149
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4621516802915,
+          "lng": -80.43601776970849
+        },
+        "southwest": {
+          "lat": 43.4594537197085,
+          "lng": -80.4387157302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "KW Regional Painting",
+    "place_id": "ChIJhTOjbFyLK4gRJZow9PYoH2c",
+    "plus_code": {
+      "compound_code": "FH67+84 Kitchener, ON, Canada",
+      "global_code": "86MXFH67+84"
+    },
+    "reference": "ChIJhTOjbFyLK4gRJZow9PYoH2c",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "44 Oakhurst Crescent N 28 3K3, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46085649999999,
+        "lng": -80.4371939
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46215268029149,
+          "lng": -80.43600656970851
+        },
+        "southwest": {
+          "lat": 43.4594547197085,
+          "lng": -80.43870453029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Kitchener Painters",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJq6qmbFyLK4gRn-FMH5wFex4",
+    "plus_code": {
+      "compound_code": "FH67+84 Kitchener, ON, Canada",
+      "global_code": "86MXFH67+84"
+    },
+    "reference": "ChIJq6qmbFyLK4gRn-FMH5wFex4",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "44 Oakhurst Crescent, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4547883,
+        "lng": -80.4367209
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45619773029149,
+          "lng": -80.43557801970849
+        },
+        "southwest": {
+          "lat": 43.45349976970849,
+          "lng": -80.43827598029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "De-Meer Cool Painting",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 500,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106565436037693885607\">De-Meer Cool Painting</a>"
+        ],
+        "photo_reference": "AeeoHcIFryNdTxZj9mbe77dJUElEA0IKB9fxXZa3Yp-WJO7yBF1Al0tXB2ny3_mtkGv6MfRmjkvqwxbrCmhWsd_lCvqjBGXCbSIasdUgVuuNMCID6iGiB0Bzuepo84GxVgIRhPqnqglaUHDHfN4sowG7lzkrCX-54LzK1YVp_FPEqODZtmR8CiOMwprc4tYBjc-xSAXOgnnj1zZdtKgp0GengFNUmmhRBihnbClGIXIES91F86WV_Ra4X0WbwvzViFt5FD-9oIegTMfwIAXBYPXlzMDyy4wePLGJ4OUGpzBOyhE57JMAsDos5jy2Dlu2IFLrOOWvcsoz",
+        "width": 500
+      }
+    ],
+    "place_id": "ChIJpTVbno6LK4gRPug5_GE516U",
+    "plus_code": {
+      "compound_code": "FH37+W8 Kitchener, ON, Canada",
+      "global_code": "86MXFH37+W8"
+    },
+    "rating": 5,
+    "reference": "ChIJpTVbno6LK4gRPug5_GE516U",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "general_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6,
+    "vicinity": "40 McGee Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.43093169999999,
+        "lng": -80.4451036
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4321849802915,
+          "lng": -80.44380886970848
+        },
+        "southwest": {
+          "lat": 43.4294870197085,
+          "lng": -80.4465068302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "McCARTHY PAINTING",
+    "place_id": "ChIJAQDEaSiLK4gRWicE7dW5vaw",
+    "plus_code": {
+      "compound_code": "CHJ3+9X Kitchener, ON, Canada",
+      "global_code": "86MXCHJ3+9X"
+    },
+    "reference": "ChIJAQDEaSiLK4gRWicE7dW5vaw",
+    "scope": "GOOGLE",
+    "types": [
+      "painter",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "48 Saint Jerome Crescent, Kitchener"
+  }
+]

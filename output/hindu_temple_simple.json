@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Sai Bhakti Dham",
+    "coordinates": {
+      "lat": 43.4049175,
+      "lng": -80.4773499
+    },
+    "longitude": -80.4773499,
+    "latitude": 43.4049175,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Brahmarishi Mission of Canada. Shri Ram Dham Hindu Temple",
+    "coordinates": {
+      "lat": 43.4797169,
+      "lng": -80.4575326
+    },
+    "longitude": -80.4575326,
+    "latitude": 43.4797169,
+    "types": [
+      "hindu_temple",
+      "gym",
+      "place_of_worship",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "滑铁卢萨拉热窝",
+    "coordinates": {
+      "lat": 43.476997,
+      "lng": -80.5134616
+    },
+    "longitude": -80.5134616,
+    "latitude": 43.476997,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ]
+  }
+]

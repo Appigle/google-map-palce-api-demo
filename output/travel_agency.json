@@ -1,0 +1,2750 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.49575099999999,
+        "lng": -80.5482758
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.49720043029149,
+          "lng": -80.5468150197085
+        },
+        "southwest": {
+          "lat": 43.49450246970849,
+          "lng": -80.54951298029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "World on Wheelz Travel",
+    "place_id": "ChIJW3xso2DxK4gR6gzX8LMDUtI",
+    "plus_code": {
+      "compound_code": "FFW2+8M Waterloo, ON, Canada",
+      "global_code": "86MXFFW2+8M"
+    },
+    "rating": 3,
+    "reference": "ChIJW3xso2DxK4gR6gzX8LMDUtI",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "Unit 3R, 572 Weber Street North, Waterloo"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 43.46447569999999,
+        "lng": -80.526943
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4657962802915,
+          "lng": -80.52560606970847
+        },
+        "southwest": {
+          "lat": 43.4630983197085,
+          "lng": -80.5283040302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Visitor Information Centre",
+    "permanently_closed": true,
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114704930330711561374\">Aswathi Remesh</a>"
+        ],
+        "photo_reference": "AeeoHcKeUh0BmxZzngN9Zo_cjZls8DYXoycf4dC5KZjcQduJoIttIyEybDVJmjDrqyUEZVt6ZDwL9yUWvCpO3xkD5pXKZXYD7uHmH2LdrbR4Mqq8aDorkb6ckwpffDoQ1N3s_hphJEWkKa7TsYrMehfc1oZwAZrw3JoqXg2f32bwya_geY9uU-6nOgHkpaQqdWkObZFAQIq2tAocO3IwJaT1BDeU66TfKqczkwb3Lc3qIaybtiWR_soKj9ZyDBbE3ToOA-74Y_oUgYmJL1HCq9fnwk8h0WPf8tt78OBHjkuUw20GX6A10eYlxw6cnHVCT2zabPq6bftgFcNPjNV8wK93gp_JvKFqxldmGX5HQBk60l3XFTcuW1yABPAS3YK3WkFsguaK0QMiJsax0KZc9_awbarTR1QaHT0UaUAaeN-ZqWEs6CDrxPEr9eWZQAVE94AwcMC6Z4rExsCvPvuBX6mte5ZfIOBoFB54gCBH3YhhdlCLS6LW0EjTVJfNYAItn3buAeVf0hLfniUGCewzy7oc1lvD3wyLn7l71MrixEwZ60eMcNfyiuXgVul7JKmqQ9cSvMhIDuaANTnGN0UMHIe0N74gltN9QdQGZIT_3W53uvzFEofl5Hqiyd2n7IIt45je",
+        "width": 1800
+      }
+    ],
+    "place_id": "ChIJwz6pAxL0K4gRA1YJ7PREojM",
+    "plus_code": {
+      "compound_code": "FF7F+Q6 Waterloo, ON, Canada",
+      "global_code": "86MXFF7F+Q6"
+    },
+    "rating": 4.1,
+    "reference": "ChIJwz6pAxL0K4gRA1YJ7PREojM",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 8,
+    "vicinity": "10 Father David Bauer Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4587642,
+        "lng": -80.5155698
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4600182802915,
+          "lng": -80.51427996970848
+        },
+        "southwest": {
+          "lat": 43.4573203197085,
+          "lng": -80.51697793029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Tierra Tours",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJwQMxUWn0K4gR_n3nzdwPxqc",
+    "plus_code": {
+      "compound_code": "FF5M+GQ Waterloo, ON, Canada",
+      "global_code": "86MXFF5M+GQ"
+    },
+    "reference": "ChIJwQMxUWn0K4gR_n3nzdwPxqc",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "234 King Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4531386,
+        "lng": -80.5174452
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4544612302915,
+          "lng": -80.51621426970848
+        },
+        "southwest": {
+          "lat": 43.4517632697085,
+          "lng": -80.5189122302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Olga Leonetti at Northstar Travel",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2560,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110844432597253351111\">Olga Leonetti at Northstar Travel</a>"
+        ],
+        "photo_reference": "AeeoHcKxnIkB3ry8dSnDSKHA_TvraCMeVjjT1dZZYiFSA_V79wujmQ_00AdbLyfev34S9jOmehwLonfv0DwSMqXdGRvn6eBsOXPWLCnlclhPLjQrHZ6J78n6qBWUKjxkGQv0wKoA8P3Joe-6I-b4mUzsu9QVmSRQYDsByajSSncaKd9DymFcVhPQPvHlFvljL0U1EjcB3YuSSJ7xaSa5Z95cYwjBunJW4NF1EvPyyYe3NqlH9tzeFxjeIzkqQD0I5pyV5bdg79o0lN9aLNByBg4lNjME-LrU_D-t8nbKCfVeATga0anECPMYq3Db04jCiKgliYlbftcviR0",
+        "width": 2560
+      }
+    ],
+    "place_id": "ChIJaRv68LMULIgREGDB9j7Vb98",
+    "plus_code": {
+      "compound_code": "FF3M+72 Kitchener, ON, Canada",
+      "global_code": "86MXFF3M+72"
+    },
+    "rating": 4.9,
+    "reference": "ChIJaRv68LMULIgREGDB9j7Vb98",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 10,
+    "vicinity": "678 Belmont Avenue West #201, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4509118,
+        "lng": -80.5135779
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4525012302915,
+          "lng": -80.5126591197085
+        },
+        "southwest": {
+          "lat": 43.4498032697085,
+          "lng": -80.51535708029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Regional Tourism Organization 4 Inc",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117823406383089305701\">Regional Tourism Organization 4 Inc</a>"
+        ],
+        "photo_reference": "AeeoHcIIF8s7wvtVlckv7U6Ok4DULBOKFQpwEMeID3Si6iD4hqYIAjFvMXfCghk7fLT8HKz08kRLap6rpiYJOBGQIiVNosy_oVaB3NLD746cfNklfQxO_dioKH7kgElQioRGaPs-pWdeWsGh1cNLx0WL6upELrAo5zYYsfoNp33PfmCAwvEMjuYbDT9o64QMfjQLyJnwsveNIQxBlhMm955B_fW92SR7zslxjHfy6pf8m-1mHMENGOgNZw1i5mIwHvafumAHEA621juvCkasDYWh1sNDweoWlucJEDeElBlTNOWutSYEJ02jjeABPlNFyVaZr7SVyfvtowo",
+        "width": 1000
+      }
+    ],
+    "place_id": "ChIJZxJzvMutLogRf3WOz_WLa98",
+    "plus_code": {
+      "compound_code": "FF2P+9H Kitchener, ON, Canada",
+      "global_code": "86MXFF2P+9H"
+    },
+    "reference": "ChIJZxJzvMutLogRf3WOz_WLa98",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "137 Glasgow Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46910839999999,
+        "lng": -80.54025209999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4703759302915,
+          "lng": -80.53873411970848
+        },
+        "southwest": {
+          "lat": 43.4676779697085,
+          "lng": -80.54143208029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Visitors Centre",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111481732493058327977\">Roshan Nepal</a>"
+        ],
+        "photo_reference": "AeeoHcLolSROnfen8nUldo2rZIVnx9uchOZqDSZmUA7plBXLTasG5Zzgm7DwtscvGV9zdssHaxFGubC87xZ8ql7lbCjwpDLF7_LFFkUD74rIgk6pANAve6_633goRlg5Na41b10upHE2KzbtgNRah78Ft7fWuVyQU-zQelBKu_8bUAhfD26vroDKU5b0V2_PnjBcdZ6-8Enda8-hHI3uu2a29eCj-EQhKp1rqZnW0gsLVK7WTpMVIeFJDPmEFuKyUhqjJlKixslenTAqKY8AZMk3xFH716CatuTzeA3gpw4Lup-TMXA-W15NT-fJ-agLzyDfhpbTm-MU8zwRekTE0qeopvfQGcXdcd9ldoBnXnYd1MjXaIblkFtgetZixrSNGtisklkif10f_LTIrKrd5wjg0XWjKn1xKNQKHUtilvqJ7OybXZaqNjSIkaOP3sp7rwkgMlGVeykEBPfrwBeSAHW6DCiux7lS8hl7Zc51pSpcrk4L-XAdyw43P6_XN_yaywOm8R48cWbccOebU_RgpK_njMK9U9HjA13nRm8UOCsrskJD5U4G2_vyGMSgMpsfscSxKJScd6NqcNd3Cn3fAqJxuHF9PIK3vprwTqdJDzfApYrN8Vbd421uySMB-vuxsQCyHNgmWUEb",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJYSJwugP0K4gR3iMBm7AbUB0",
+    "plus_code": {
+      "compound_code": "FF95+JV Waterloo, ON, Canada",
+      "global_code": "86MXFF95+JV"
+    },
+    "rating": 4.6,
+    "reference": "ChIJYSJwugP0K4gR3iMBm7AbUB0",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 299,
+    "vicinity": "South Campus Hall, 200 University Avenue West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4804201,
+        "lng": -80.5230905
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4817211802915,
+          "lng": -80.52169381970849
+        },
+        "southwest": {
+          "lat": 43.4790232197085,
+          "lng": -80.5243917802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Bucket List Travel Adventures",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJofa8JPPzK4gRhEgac8v8cMM",
+    "plus_code": {
+      "compound_code": "FFJG+5Q Waterloo, ON, Canada",
+      "global_code": "86MXFFJG+5Q"
+    },
+    "reference": "ChIJofa8JPPzK4gRhEgac8v8cMM",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "295 Weber Street North #3, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4447495,
+        "lng": -80.52886869999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4462281802915,
+          "lng": -80.52750986970848
+        },
+        "southwest": {
+          "lat": 43.4435302197085,
+          "lng": -80.53020783029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Capetian Tours",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJQRmJuzD0K4gRucu69t7nq1Y",
+    "plus_code": {
+      "compound_code": "CFVC+VF Kitchener, ON, Canada",
+      "global_code": "86MXCFVC+VF"
+    },
+    "reference": "ChIJQRmJuzD0K4gRucu69t7nq1Y",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "115 Westwood Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4410743,
+        "lng": -80.5018966
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4425127302915,
+          "lng": -80.5005601197085
+        },
+        "southwest": {
+          "lat": 43.43981476970851,
+          "lng": -80.50325808029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Bonus Travel",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJfU4mVVb0K4gRrQsACcOj97M",
+    "plus_code": {
+      "compound_code": "CFRX+C6 Kitchener, ON, Canada",
+      "global_code": "86MXCFRX+C6"
+    },
+    "reference": "ChIJfU4mVVb0K4gRrQsACcOj97M",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "101 Highland Road West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4287135,
+        "lng": -80.5264543
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.43007583029149,
+          "lng": -80.52504471970849
+        },
+        "southwest": {
+          "lat": 43.4273778697085,
+          "lng": -80.5277426802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Maritime Travel",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1356,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117930331052395277124\">Maritime Travel</a>"
+        ],
+        "photo_reference": "AeeoHcJG7d5NPLYJeXWuXZAa3BLMM32qnu8uGkq3eQSg1wKxuuXdTZzil_XrFkMNSERNnhJWirjAvqFk5QL48c7i31VAuoils-s0SpWrVJOOhP_eNwiU2FjJd8ezZGEymeWTEt2v6lcDS0vyn8lfb8wLzn89Vs0EieMiWM5mLepD6E7eBKPqsH3BV2B_dScnyq4GYW8WRujExzx9Y3DvQ_2npIkVn62bmmQmHuBpftOv7dyUSIHeGFtjECPVVq2Yj9mxiAe7zlcbq8q0XhbevUvXW94X_5NrltofwRV5XaX1ZjfgMZza2-PDWeC9ftHKE4gZMSxcq8E7USw",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJdSmeYPn0K4gRNM8368yC-iY",
+    "plus_code": {
+      "compound_code": "CFHF+FC Kitchener, ON, Canada",
+      "global_code": "86MXCFHF+FC"
+    },
+    "rating": 4.2,
+    "reference": "ChIJdSmeYPn0K4gRNM8368yC-iY",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 13,
+    "vicinity": "Highland Hills Mall, 875 Highland Road West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5041092,
+        "lng": -80.5281745
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5056616802915,
+          "lng": -80.52691646970848
+        },
+        "southwest": {
+          "lat": 43.5029637197085,
+          "lng": -80.5296144302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Expedia Cruises",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3464,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113512457090145462310\">Ruben Agadzanian</a>"
+        ],
+        "photo_reference": "AeeoHcJEqyUX22A6C7TvfnWCXGLKsQLtXipt6UzDyK6qhCRrtTNIAW9ov8hMgmsnM0V3nyYrTldXkuS9Up8abz2htck6cYLWClR7wbkffYajwSYfEMgiWB51WzKp9M8CCPeSiX_c2RJ0XBwF6CUp1A1Y7qpCXeAD0IP_d7unsZt4GUf613SdmSF_92IihYSBS9ruDXScXNFNoeulhB77Vd6XMa3Q2DwVMit3dV5DsFaPLIsQK94uxUOIwx9Gx4FDo2D-ETIH9iHW9cNSrYFDc56v8QO_D5MmEMCqweVGjOWwVXcOMQug9juBrLq3B4LDM-_Onlh0rDedW4JSh_IEcLGcGO4CJ5xXjMj9wGkh06jVQEc2StvTUW3RWPCm9_68TPn4kSX0MH2u8SN0rZBZSQlR_NnlTuItqnNGN8YVn04kipvWcplCyaj-0YZ1q3KWHoBpWP6nKPdM2sQJe75-jANHQO-KfLXltHBDILjYKCvP2ydqeAC25Bma9ovkZkQCmHaaH3PzvQv_fuONEX3iWoJPpXZ1DGlhHGEVcuJaQYTglZtHQIUhsf0FUwMnDTTH0zSxebs_JX9kk9n-0BWACVBD2IfIP-6pO9BZfh2sFcZwOd5_0gu0lnOKbVMOA7AG1uy1CeTKGA",
+        "width": 4618
+      }
+    ],
+    "place_id": "ChIJlXxAFs_zK4gR4dzkQ5nqdI8",
+    "plus_code": {
+      "compound_code": "GF3C+JP Waterloo, ON, Canada",
+      "global_code": "86MXGF3C+JP"
+    },
+    "rating": 4.1,
+    "reference": "ChIJlXxAFs_zK4gR4dzkQ5nqdI8",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 14,
+    "vicinity": "620 Davenport Road #37, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4251841,
+        "lng": -80.5540718
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4265322302915,
+          "lng": -80.55266201970849
+        },
+        "southwest": {
+          "lat": 43.4238342697085,
+          "lng": -80.5553599802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Expedia Cruises",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4640,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104839461398775741741\">Noor Al</a>"
+        ],
+        "photo_reference": "AeeoHcJCNq2UH9iZVTbDfQBkuH4qrdkftTaJkpv_zS5WfK23CUzwjhMMjVzURV03TExqkcMolgRWYHDuWKd5E5MoHk7SbOm97YUDJU-Y8Upcw9cEglGswTpgkHJFX8dXjC7-nuDmB53sEXctSpHxg7HXCdGcGC8ikeVs4m3-78U14hJc6v1TQ3kOE1NyHO_8ZSaiHXKts5qHToW_sOz4REzNUA0eucxxPfsv1hbFDSxqWA7fp_9_3oGg1a-pgG-tN1euZn-LqLVl43dMKVPw8MM1MDarh4GO0P1USKwcHPqteq8v7an7rVdw0p8KcQAkJ6CWujmZh2EeR0yl4a3GXWtGHDLNoA72A79ChUoRKW6JC1B6Wq8igwPzYR8A2emSHYZ3Wg3WMiX7v8aD-drLN2aRu8msUt9186sY4CYU6t2zGZ2D7d-zTm7nLMuu5ZcZPDp0nx7osrRmNm97XQUZX8eR85tyYvWmMAjRC-QPs3N8fAaFCUy3-F4B8U9i2BhKryGNyIVx3RCWVvtVvXLry73eEEgdjdEoEbk7jccQRfEA_zh995H_6Vs3eodFUdKqG8f_z8F2e_18-yn8GzKNHZzz1OBH8PEbAr5cYXWimZis6Rj8_wknHWzxXoXOh5sT6AhRVKq-nw",
+        "width": 3480
+      }
+    ],
+    "place_id": "ChIJb3O_wHH2K4gR4h8FyhGZXcY",
+    "plus_code": {
+      "compound_code": "CCGW+39 Kitchener, ON, Canada",
+      "global_code": "86MXCCGW+39"
+    },
+    "rating": 4.1,
+    "reference": "ChIJb3O_wHH2K4gR4h8FyhGZXcY",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 8,
+    "vicinity": "235 Ira Needles Boulevard B4, Kitchener"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 43.4735957,
+        "lng": -80.43475529999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4749215802915,
+          "lng": -80.43335746970848
+        },
+        "southwest": {
+          "lat": 43.4722236197085,
+          "lng": -80.4360554302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Delta Travel Inc",
+    "permanently_closed": true,
+    "place_id": "ChIJ04N1VaKMK4gR-Nr3oxQ3tAI",
+    "plus_code": {
+      "compound_code": "FHF8+C3 Kitchener, ON, Canada",
+      "global_code": "86MXFHF8+C3"
+    },
+    "rating": 4.5,
+    "reference": "ChIJ04N1VaKMK4gR-Nr3oxQ3tAI",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "1601 Victoria Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4770972,
+        "lng": -80.419629
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4784369302915,
+          "lng": -80.4183667197085
+        },
+        "southwest": {
+          "lat": 43.4757389697085,
+          "lng": -80.42106468029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Pure Magic Vacations KW",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116050607592307528871\">Pure Magic Vacations KW</a>"
+        ],
+        "photo_reference": "AeeoHcKju1Dt2vf9WqL9r2KZ7_x7sv3Gbl8P60EgGQZid8_5dhh5Go-6jOfkaCUlckxJCdDYdMO4YAO_-i1l9-hHqcYLQak5GRc1RXv4dCocsu3st5c1aBwv7aI5MQbFggNVIIrk4jE3uWvH91wIWsR-37Q4Xl3dVqbQE7AnPtjn53DLdOAPfEmTEoQpotLwx-X-Qx_B1SVYbpfWQkUCFfUsXemFUFYIAWfswiTKHlSyPiKJ-iJ0fon_t1RCPE8qLc0eweStguiVmzqmvDFutHRI6UlJJaOoXymdzIMd1lWorMwp7LiPNP5PbCTxcNnna8nE2mpq9pvCAuU",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJmaZ92_WMK4gRkGu2oKS5dqs",
+    "plus_code": {
+      "compound_code": "FHGJ+R4 Breslau, ON, Canada",
+      "global_code": "86MXFHGJ+R4"
+    },
+    "reference": "ChIJmaZ92_WMK4gRkGu2oKS5dqs",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "23 Norwich Road, Breslau"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5208615,
+        "lng": -80.5155963
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5220449302915,
+          "lng": -80.51440786970849
+        },
+        "southwest": {
+          "lat": 43.5193469697085,
+          "lng": -80.5171058302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Conestogo River Horseback Adventures",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104263221311220968113\">Conestogo River Horseback Adventures</a>"
+        ],
+        "photo_reference": "AeeoHcL83P3ehWTX76I8RRq40LlJMEOAx-emTXlbTMmGpnKlgoSoaN875NZ3YT_a53njj8lJAzqOgGKCYIDm39_9VmwFRSk401GF-2yP-sosWDKKzAV5GfwFduGosU1ZZbhU5YFGbBHdZj7K2dFT6qUNU2-iCFbdo8uw8xMARR9exRbXvXhgm3adxBA3VivPQE4sagaXz5vZeIA74KBwlLf38sjTKoyVIyc1nyBxUKKDbrSx8pmb2DUkIyn4dx9mMWC-IFBt7PlVWMph37bh1TQ4xGE2VES1Lr2PKNj1j1uzS6zy7eaxPJ7INabHgNYVQGICmgRbEreOMRY",
+        "width": 1536
+      }
+    ],
+    "place_id": "ChIJh8BsR0TyK4gR_hhbMqbuLjw",
+    "plus_code": {
+      "compound_code": "GFCM+8Q Waterloo, ON, Canada",
+      "global_code": "86MXGFCM+8Q"
+    },
+    "rating": 4.4,
+    "reference": "ChIJh8BsR0TyK4gR_hhbMqbuLjw",
+    "scope": "GOOGLE",
+    "types": [
+      "tourist_attraction",
+      "travel_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 271,
+    "vicinity": "535 Northfield Drive East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4524949,
+        "lng": -80.5543089
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45390678029149,
+          "lng": -80.5530203197085
+        },
+        "southwest": {
+          "lat": 43.45120881970849,
+          "lng": -80.55571828029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "tripcentral.ca Beechwood is Temporarily Closed",
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101038344528051208666\">Jeff Mulder</a>"
+        ],
+        "photo_reference": "AeeoHcL-VAcl3TcLiaJD_evqwXTiVP6ZPKsLFiqrzL7i3636p1LUBHCFJRkNKQyVuigfUoOOmbrfGEJVbl_GSVqwjGD3Pkw9Ma-6yQDLzWLJAeFaaG0wJvkkMe9HApHJScJZV8yRxHppa0tymrCRzASmbgO8hrsvUHQrRqDh3eqDmCTUYMJbcq6ov0V3X1zr91j5vsX5of4ljLudy2hfIbKJ3wbBaeSB_GFwAOY6qevRwCLQGvGvPOfvMCla0sL-1-w3WetghFdioG4QG5MuRl7nwXa6D6jGpcQ-aKpIBCY0V7tKCHIs8eoqQ_Rr8kUzPDuLjn96Il-bhQpXUBdCbhRomWkOdshzzAhLPdcrRzZLSatA3ZRcPQIA21tqSanMDHjEgnGsr9810joBjmr12uGL679xC9D655h3pimVlgGF7ILMdiUsn_HBYi20nYkqf1rz6hXqXpByvFVQf_o04lZzWmyTtbq-we2ecOTtFVNdGT0OqmHWY4bFBrPxOlw2c8w0DvJL8aEDELK85t-uChpk4qSDCrJIVzTkPx4ALGBiY5zE5xPgIMnj0G_DWtEfhEeGE7vn1SUT0LXC32gXvMmL3yiDFiO4Ywg37XKRAoFYJkc_Sl4FhKxeqyGPVGRa9BVAp2EJEcdc",
+        "width": 2007
+      }
+    ],
+    "place_id": "ChIJ96nAupD2K4gR1jWrdKeaano",
+    "plus_code": {
+      "compound_code": "FC2W+X7 Waterloo, ON, Canada",
+      "global_code": "86MXFC2W+X7"
+    },
+    "rating": 4.6,
+    "reference": "ChIJ96nAupD2K4gR1jWrdKeaano",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 28,
+    "vicinity": "440 Erb Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4421438,
+        "lng": -80.49613289999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4436458302915,
+          "lng": -80.4948090197085
+        },
+        "southwest": {
+          "lat": 43.4409478697085,
+          "lng": -80.4975069802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Off The Map Adventures Ltd",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101462585826844898135\">Off The Map Adventures Ltd</a>"
+        ],
+        "photo_reference": "AeeoHcLyQRNldTiTXNGFCRu4q0dW6j0t5UdZLTcZvXhnU4-scfi1bJYIXSJYvW3SIXI6G3N9MQ7lAhnW7SXLuhUOgR_ra2Zw9BvgCDX_KPJWPf5BFsbv_6nxCozYmOQd50gpWz_PaSdhHti1uuIfZledmA13hqadpp--yDYq0Jx3YmhLLBn3aFVigyuq9JRsSu-2AFL31-TfAtrAc-vfXiRfMpwaGjh_81_8dHHLO33demR-YT14mHTNLZfmd-mbl2evfMRmGlCZCQrCGxUAK7mN8xCkUOVxdKIReAkMqe0a2D_LWRumkE3eEhhi8Lf-aPuIGimD8J7JLv8",
+        "width": 1198
+      }
+    ],
+    "place_id": "ChIJcZZsM_j0K4gRatmIV8hQ98M",
+    "plus_code": {
+      "compound_code": "CGR3+VG Kitchener, ON, Canada",
+      "global_code": "86MXCGR3+VG"
+    },
+    "rating": 5,
+    "reference": "ChIJcZZsM_j0K4gRatmIV8hQ98M",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "675 Queen Street South Suite 210, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4802107,
+        "lng": -80.5226789
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.48146873029151,
+          "lng": -80.52125576970849
+        },
+        "southwest": {
+          "lat": 43.47877076970851,
+          "lng": -80.5239537302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "VIP Travel",
+    "place_id": "ChIJl3mnSvPzK4gRhe5lQBJ-990",
+    "plus_code": {
+      "compound_code": "FFJG+3W Waterloo, ON, Canada",
+      "global_code": "86MXFFJG+3W"
+    },
+    "rating": 5,
+    "reference": "ChIJl3mnSvPzK4gRhe5lQBJ-990",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "3B, 285 Weber Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4586846,
+        "lng": -80.5156416
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4599815302915,
+          "lng": -80.5143253697085
+        },
+        "southwest": {
+          "lat": 43.4572835697085,
+          "lng": -80.51702333029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Direct Travel - Waterloo",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107084617862330119926\">Ruslan Melnyk</a>"
+        ],
+        "photo_reference": "AeeoHcLJel7g8KL6EhfHH8Tq28cs3qtsZIWCPNbWElp26o4nzCqx6-pJZpo7rJDJCqDA_ZPOOd2Xpfn_FPcqO1FGzOeGl9kYmgoQk6MDQmOutRD0ydY6YWOBzHSprnTrdCiJsNWJeQZNkCtFFFabulL9T2dXWG1A5F_HkB0Yf-in28TiRT873vgvkMW56QLYJuab_bnSox97fagA5ivys6Ec5kiXHD_8y4cn4Ek3bYgM-njppWhwCaJKqBw4IXe50TekLQA0_0mciK1QdfnG3YVmSN18xv0ZgzWdDXVxaae4tVnzfMNQcSxU22RI76gHqpNdXnqL8DhgIgejSvgIpi9XM5BncT6syvGcJ8DmhsH54bbX8NrBzg3WVBm0PgBuICWpZQ1vNF5HZAnTR9-Zq5nUQWJMvx8GopCIvXdVwBbVzpkmOkOmbgGb3660ZNZCHErf-I9St4FgX8maBMw_aH8WI3U64ZDTkJaBfp1r4zUXLSKjILIMZ6fFLgeeMSsa_z2ce8f-tHfn_tLNde1dOC7evrIFxUF0AHJRQ9pUZRiAG4AzQ_ZpzOb2R5fJ8ZNrOqZUsKm9X3dvucIPYN70EbjhWZ9eoFHcRTVp_GcXZEVxmhcvZaIWfn5XU3tlX_JRnpM52ynViA",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJY2JPV2n0K4gRQvc7EqgVO4c",
+    "plus_code": {
+      "compound_code": "FF5M+FP Waterloo, ON, Canada",
+      "global_code": "86MXFF5M+FP"
+    },
+    "rating": 4.3,
+    "reference": "ChIJY2JPV2n0K4gRQvc7EqgVO4c",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 41,
+    "vicinity": "234 King Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.424046,
+        "lng": -80.43827999999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4255204802915,
+          "lng": -80.43656726970849
+        },
+        "southwest": {
+          "lat": 43.4228225197085,
+          "lng": -80.4392652302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Transat Travel",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104555403727974516140\">Kathy Cavlovic</a>"
+        ],
+        "photo_reference": "AeeoHcL26A3QF6FMWdJehEywOcHmQ8qTfhiwiYPoRY94E0bI7fAFmRH6KLkBvsyVRp-_XWDW_cNdka6Y6S6CE668MSs6sTmc3I_vUKFOZhe3LRwzjTRLivN5PY3ijA4TUHyFgX9PJmo_zAKwjTpYurrA7FyWDML6SFtRGYbcXUjhwap1FaL_4ZR4wGu_QwTPuz7GvE744qC7-0nGLJVmAHTaoEtC7Iz3uA-lty3oPjfWyzsIwwuYXKRNpZwI0QBr9fQJBseA6YIZhP6Cl3zhSVccEDIT8l-obAZrLWAVgwa3qGq5SThTIZKNu1mV9MCygCJhmrqfdvicG8vJ9hVs8htdHcl-TZYGn4Kohm7gQ6aFJDP7pnr3XLNCUhw75hbXm7UTuHvf8v9UNwqTNdbLg07xkwf9DOgjM-VGYMBMTo5ZEGrJKBEXYAVbM5UBVjdhk2utklxw1LRFaFmRO0PvvDkTM_QkYgpJuAYy2WUPCbWeXIFtu28FLhjMKj60ydYH492jh55-Nb2TP2siC05viyOWGc-jimcSN-vmHec4tgyl8aWVWohYpVeXz_JM-UMRSS_ZpbksRKr_MVNySgaVbkbuRr39tVmJLWjCIcYFxjVKjqJbyNYbD9Jr5U2B-RRVH5LLp6nFfQ",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJq6qqWtmKK4gRc4f9y4EsgR4",
+    "plus_code": {
+      "compound_code": "CHF6+JM Kitchener, ON, Canada",
+      "global_code": "86MXCHF6+JM"
+    },
+    "rating": 3.6,
+    "reference": "ChIJq6qqWtmKK4gRc4f9y4EsgR4",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 67,
+    "vicinity": "2960 Kingsway Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4808164,
+        "lng": -80.4622748
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4820467802915,
+          "lng": -80.4607995697085
+        },
+        "southwest": {
+          "lat": 43.47934881970851,
+          "lng": -80.4634975302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "GROUNDHOG DIVERS",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 350,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106628123718729420174\">GROUNDHOG DIVERS</a>"
+        ],
+        "photo_reference": "AeeoHcJSXaUIjdcQTHE8Rv2HWaB6FjK2qQq1sOI0WLWQaZNvrwN_4ZE34SzWX4w1YtnVUp1gB8q62ycO9MrEpsXAe-5VpPhSmOji4SvNGEJlBuzVC-kUslX1CqfzITH35-_mBLcj1jHsyNi2L5jxDVoLvtpLiSxMNigKn3zHPtrtvLKpv05S36WIQiBI0y0euPKCETCR7sfKBWWF_mgJTaH-g8j1e7v4dxPIoJxOAn5DEv0fcQnyihJPWoGS6tMnPqkUxwAdqC_s43i--o4SUkvjwrb24DJpAXWH3-W4pTyg_9jPdd-7xpGkl6MeNbZ1fDxbj9niSlBrkX8",
+        "width": 640
+      }
+    ],
+    "place_id": "ChIJW3PT6Y30K4gR7QdgcfhnHzQ",
+    "plus_code": {
+      "compound_code": "FGJQ+83 Kitchener, ON, Canada",
+      "global_code": "86MXFGJQ+83"
+    },
+    "rating": 4.5,
+    "reference": "ChIJW3PT6Y30K4gR7QdgcfhnHzQ",
+    "scope": "GOOGLE",
+    "types": [
+      "school",
+      "travel_agency",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 54,
+    "vicinity": "91 Hollinger Crescent, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4476923,
+        "lng": -80.48444219999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4490845802915,
+          "lng": -80.4830690197085
+        },
+        "southwest": {
+          "lat": 43.44638661970851,
+          "lng": -80.4857669802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Vikittours Hung-Thanh",
+    "photos": [
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102824176067937656860\">F. T.</a>"
+        ],
+        "photo_reference": "AeeoHcK91Lf-6caP4-13Vz-l1zeLrdr3RNx61fj9HDjk_A4wIZDp33r8sPZe-ocJ0j3xAbzsJAK5-ORWpCDkwvmJmknaT7-ugIaEgI4_dnYeXvVySwbKUC6CxjUDOELVtV8xoXKW0hwzPOyvl7QENhrizNQf6ZTzTEQyBd1gY9i0mv-Pa5kz8uFDfxCdrHAY6UR8thLcm7gDgV4B1Gk9mIaN4iCV_XgTFJDaODc0x2b7owBzPz-DoTd6ADdF-KMuPSkhkFMhUq0k3gNiz-DFLZDOkuei2S07ABj-F4o1f-64tQNt4vf-Vj3Me2IqahONsylR7xBYe1jIFDxPm4BX97ohzvK8XMIJZis7Pzud24eoEkb1e_InCgDlsiQbfOLSrqbNKY5RbS2tuvM_s4c8lwOB7xT74wf7rqdrz_yN4KsXEaapCsk_0GDdD_7ZoRVfTFGlUt-g-FERHCqY2BwBJSuowvhC08f7XG-66zgl4YqUXJCuA9VeHsackQYt18Z9nlROx3P7sH4-RkppVQPTo6TmjmC5d0EDqu3mWfGfmoolnF0UWXxPf6sNl2Xksk2HEIatICCTIPcar1efex_nkrHZckRYBrl46tIfHOj03mRmuVaOpRmOMCkPJ2U3sPYuu_pzY0mRfDAO",
+        "width": 3120
+      }
+    ],
+    "place_id": "ChIJzZeEPOz0K4gRnrraa_ELYp8",
+    "plus_code": {
+      "compound_code": "CGX8+36 Kitchener, ON, Canada",
+      "global_code": "86MXCGX8+36"
+    },
+    "rating": 2.3,
+    "reference": "ChIJzZeEPOz0K4gRnrraa_ELYp8",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 7,
+    "vicinity": "289 King Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4523229,
+        "lng": -80.492099
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4536372302915,
+          "lng": -80.49076136970851
+        },
+        "southwest": {
+          "lat": 43.4509392697085,
+          "lng": -80.49345933029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Choose Your Thrill",
+    "photos": [
+      {
+        "height": 350,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107087870564229262612\">Choose Your Thrill</a>"
+        ],
+        "photo_reference": "AeeoHcKAbwwPWzQPNmCxN6q1lg8nN9NRpJVg-6Z6Mi7ImgsPvPuy0Bhfk-2U59-6x0338yJFlhw83_Cj2lhWthFJFMbcAjSkh2t7NHiNRrs7_gF1URY9Yx2EkMsAwLEg1LwQfvAoExMb9c6UDdwARFmGJpW9Ete6xgbAW1p1wdYxuP6at7nGrSKo-PU2jlV2baEAmSjXpi6xiVrRgGvRlrcHb9VRY7NDIUQR7Fij7eFOil9wq8o2WwrVDYND9R-7NturGjBdQoIyZI-_Dd17enDBdFH3mKEVMZ1Vri7fGQDqyjjQR6U_W07KZrCt0nb5JTfzZt2KLaqVAak",
+        "width": 467
+      }
+    ],
+    "place_id": "ChIJHb0SQvP0K4gR5noIVAQ-I0w",
+    "plus_code": {
+      "compound_code": "FG25+W5 Kitchener, ON, Canada",
+      "global_code": "86MXFG25+W5"
+    },
+    "reference": "ChIJHb0SQvP0K4gR5noIVAQ-I0w",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "gym",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "200 King Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4532031,
+        "lng": -80.51749360000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4545117802915,
+          "lng": -80.51626031970851
+        },
+        "southwest": {
+          "lat": 43.45181381970851,
+          "lng": -80.51895828029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Northstar Travel & Cruisecentral.ca",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113665914385558689711\">Northstar Travel &amp; Cruisecentral.ca</a>"
+        ],
+        "photo_reference": "AeeoHcJKCYQen3Y_IrugyGezVDH3O4azl3UKII2E0INf5LNWYmhaqd1dKF3q87_96uWQer0CoKvxxtTiz_B4ixZfbAeYT0ZECvnjF-cdUjkqmncRCjydiKrFV70q8inlFpZ3BPedXIGdOOEpNQX1bQ5k8XMWc8_lgioH9KjcyZGLb_G4SifvJ0LvU6fPk9xxt2MmWmGsMilyNeSS-3l9xUQJ0vgOQNjqNoc2sWAqTcsvBXght69jejIqR_h5sVqHy-CnD7RACYvG2euXRN6sj6rv9A4Lu4EOlUrNkJqxunBS5U88UZ5FtigwWR26HUQYdgM_HdT2KVUwVyU",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJMzotz0H0K4gRDqQxiqwjiSY",
+    "plus_code": {
+      "compound_code": "FF3M+72 Kitchener, ON, Canada",
+      "global_code": "86MXFF3M+72"
+    },
+    "rating": 4.8,
+    "reference": "ChIJMzotz0H0K4gRDqQxiqwjiSY",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 194,
+    "vicinity": "678 Belmont Avenue West #201, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.48656319999999,
+        "lng": -80.5573174
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.48799873029149,
+          "lng": -80.5559525197085
+        },
+        "southwest": {
+          "lat": 43.48530076970849,
+          "lng": -80.5586504802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Cycle Ontario",
+    "photos": [
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100283738476223846375\">Cycle Ontario</a>"
+        ],
+        "photo_reference": "AeeoHcLe4frmlx-xyRVBOdd1_WGlUNz3f5uKUB-ifcMJkX6z3963db9SAy6eIkHUJY3QaHX_1Xo7VRymeLNvwfYChbBUN_Oc2wJffFvxbegUbk5EzazeyXIwfBYnezp8VB_UYXD-OoLElhzZpqf-udsfCaZ3jj0ce2TOMBfAYYXuZb5nyQae8l1U23OaH7uW6DYQp8R7K8gYCqctqWvw4ImCBzA10SgrvBGYxisy_wDq0vsY4N87KMTDSJD9wzL9cmHVs44YjzNAL_RaMn4xEa6B1q_yZau6wSOstBQeSnVyw1avuGrN66oUF92WDqFwNfrkZPhLtzuXtbg",
+        "width": 960
+      }
+    ],
+    "place_id": "ChIJY_-mrntdKYgR3KArB5-cHwY",
+    "plus_code": {
+      "compound_code": "FCPV+J3 Waterloo, ON, Canada",
+      "global_code": "86MXFCPV+J3"
+    },
+    "rating": 5,
+    "reference": "ChIJY_-mrntdKYgR3KArB5-cHwY",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "255 Toll Gate Boulevard Unit 6, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4649285,
+        "lng": -80.5184042
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4660738802915,
+          "lng": -80.51718981970849
+        },
+        "southwest": {
+          "lat": 43.4633759197085,
+          "lng": -80.5198877802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Rainy Day Travel Services",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118409576411012899071\">John Winser</a>"
+        ],
+        "photo_reference": "AeeoHcKOayVAYDKpetbP1CiRa4esUQsovL-WBiyak4qvOmWe29BpukPoAEU129NA-atjRu7GqLntzFGxN7VGJXbw3_TG_fCph5J4eA-Gciump1AHFLSziEcPA_Qfv691ZdyrwZRi97Y0qskV4C4aLQ6pURBbpScLR0WFHoRr_1lfogWZ2wWkb4s0hWuHEgt_S-MrgfrJt42n2UlFfUFXjJiOYd81PDulIiMC2u3FisYWK2tbBhjjp_NOhfT7ySDCpRepQWrxWTQSp5VnbTso-HtGhg_AY1ZN6s16QPwTIzSdX1ixu4tnaDGHhDhXaZJxh18GQubdX_2QELPLnxDn8UkJ4g1tjVDAECCp57L3sc0foGkeELQiziaYCgN9_GlrMfTYJBXp8h3hsr_eU2aaifko-54kacXCL96yCKr4dUecYtUse0fTPduAIwP0J9eXEhweFcp-Rim2bk64Ps1hUsrMENGG9-5Hu6Msp7qWH6rvYac7bKbxNSQ-A9GV3efc0ufnSC-NtqehpZazRkbrSDOMB_JEc5xHWkmDExtb5PRgrfwIF-yN54ko1-bozL6D5HGQt9PTC8Kp4MEoe-q_JXZqQ6uu3sMLO2OjUDAPYTxUaLCt26RQN2ZIJMgqql8xjxIW",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJB3UdDjf1K4gR0wTaHrIy38k",
+    "plus_code": {
+      "compound_code": "FF7J+XJ Waterloo, ON, Canada",
+      "global_code": "86MXFF7J+XJ"
+    },
+    "rating": 5,
+    "reference": "ChIJB3UdDjf1K4gR0wTaHrIy38k",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 21,
+    "vicinity": "55 Erb Street East Suite 101L, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.462884,
+        "lng": -80.5183824
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4641870302915,
+          "lng": -80.51695441970848
+        },
+        "southwest": {
+          "lat": 43.4614890697085,
+          "lng": -80.51965238029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dream Plan Experience",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106118784301105877695\">Sonny</a>"
+        ],
+        "photo_reference": "AeeoHcJyEBpucO0BgDVFrVpNqTOrY4zXUPtctbsmfno-gZR2y0c2Ppx_mz-gxu_EhMxbq4-2a0yGnlhIanW9XOOdC9WLmwcTJiLC5V5WQJD00xOdsaJ-tyAZb5lmJLgdJlVgThYFwRFEkTMUgUGqf2r0ZwuSDZ5UvrJTYDIjNW3fGc78EFo74cQmHEqQALac1q69w79Wl93Yl_Z1t9yHPzVTgykFEse-zjhw1m5-JD1bns4rRU6jFo2Ey_aQ4IBIzn2ksxFZ1RobRVIhOyXlWQ6IRstrF0n5qK8sP6Rd5y8zgqXdoNWMlY8Iz6ddCI3t1JlKRaODbnSPkzBV_mYOao1MZPVtbYyDzebIrpkUQmzgIBsSlVwxJ6vpwJ0qMsiM-qNw2_Fw3kAsFGeKfbzGGnEzNJjYBQ2Vg6hEhESPrmyjQ4xk6tLx0li5mlZi-JKalrAbSMjrtj09jRTeMaiI5ZwVQeF3xT03oAy6_S0rp1E8cBeprgripu0Mxuf6cU5SYEaQYguDTaa-FurzkCd4Ea0er1kzuqY74mNy_JgBhv1QanQdpvKimNsecjJPoVU-R1mptFphXwHu7ZRR7fof3XOndbOFDQ1F5LbWx775uu0BZEcjX5jW_uGGUgZG8_RLYsprzuIPFA",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJvwUsgVj1K4gRwyjILe2aQW4",
+    "plus_code": {
+      "compound_code": "FF7J+5J Waterloo, ON, Canada",
+      "global_code": "86MXFF7J+5J"
+    },
+    "rating": 5,
+    "reference": "ChIJvwUsgVj1K4gRwyjILe2aQW4",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "48 George Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4531386,
+        "lng": -80.5174452
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4544612302915,
+          "lng": -80.51621426970848
+        },
+        "southwest": {
+          "lat": 43.4517632697085,
+          "lng": -80.5189122302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The TravelGuyyz",
+    "place_id": "ChIJI0CHlUH0K4gRrCHR22AW3-g",
+    "plus_code": {
+      "compound_code": "FF3M+72 Kitchener, ON, Canada",
+      "global_code": "86MXFF3M+72"
+    },
+    "reference": "ChIJI0CHlUH0K4gRrCHR22AW3-g",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "678 Belmont Avenue West #201, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.453074,
+        "lng": -80.5173969
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45438108029149,
+          "lng": -80.51616826970849
+        },
+        "southwest": {
+          "lat": 43.45168311970849,
+          "lng": -80.5188662302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "MARGARITA TRAVEL CONSULTING - CLUB MED AGENT",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 787,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104945265294645212368\">MARGARITA TRAVEL CONSULTING - CLUB MED AGENT</a>"
+        ],
+        "photo_reference": "AeeoHcL9E8VWl3n3Y8ebLYKLoQDt5-f33mR2glMr42kdi66E4ghkr9hm9g2uRRg0GmL713X7ohgYHK9SoyMygzQAcoDXmi1WuX1qOLYf1ZAbWxJcc-FByoj0jc7QKh_jRTfIuDBaVeLrTsORMmoj8FetGBNmbj26JZ9nLIDZOkIREvse3FHKsRPEEWCQC8yotZVahWHfuIT9ClfEgOzXyg5QTIs2w1efQ6TqouOWipAnfA4nhi2TGwwJ4vpiiAkP_r4vSm6Z9k2LonXsMxqa2rxId6Q6h8nXEV6ZgnM-j2wCNNSTMHp557isQp0rl11s_n_Gly7VnMmxuFs",
+        "width": 1181
+      }
+    ],
+    "place_id": "ChIJlwDtlUH0K4gRg9J2_D1sgAo",
+    "plus_code": {
+      "compound_code": "FF3M+62 Kitchener, ON, Canada",
+      "global_code": "86MXFF3M+62"
+    },
+    "rating": 5,
+    "reference": "ChIJlwDtlUH0K4gRg9J2_D1sgAo",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "678 Belmont Avenue West #201, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.453074,
+        "lng": -80.5173969
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45438108029149,
+          "lng": -80.51616826970849
+        },
+        "southwest": {
+          "lat": 43.45168311970849,
+          "lng": -80.5188662302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Socially Responsible Safaris",
+    "place_id": "ChIJlwDtlUH0K4gRnyCq4ytRjUo",
+    "plus_code": {
+      "compound_code": "FF3M+62 Kitchener, ON, Canada",
+      "global_code": "86MXFF3M+62"
+    },
+    "rating": 5,
+    "reference": "ChIJlwDtlUH0K4gRnyCq4ytRjUo",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "678 Belmont Avenue West #201, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4773461,
+        "lng": -80.5256995
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4786753302915,
+          "lng": -80.5242346197085
+        },
+        "southwest": {
+          "lat": 43.4759773697085,
+          "lng": -80.5269325802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "MODE Immigration| Canadian immigration consultant service | Work permit in Canada | Canadian Immigration Lawyer",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114592533029149437253\">MODE Immigration| Canadian immigration consultant service | Work permit in Canada | Canadian Immigration Lawyer</a>"
+        ],
+        "photo_reference": "AeeoHcIT3tvaKeAfCjFk36f8FZPXBHHpDpb9JeFcl6REai7stRBwX3fxUvSHBvCyT9TUsCbP4ncEDm7Ft21PwzR7GqirgdaVW7gRk1Hdj1VgY9_brCbTirmuLZwmi2yNcj6QuphmxGiUOKMqO92if_Up8vLopbjL5G7gdCagCEb2GIKnSCpLNx7n5ZLKgt3BkTRL5NQ0LQeA-YOq4oESNm4VgK4xrQmc6R_tAVuV4zrnQaB7mmIrQmUKx5kxSl_I9jEmaZuAsSZFlBwTVLlHUjo9p8rDOG_27aYfJZzZyFMubDAkza02LnzOsBGQbT0q9TLulFZMKkvZ61w",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJ9145LxrzK4gR1vtYNWNZZ_c",
+    "plus_code": {
+      "compound_code": "FFGF+WP Waterloo, ON, Canada",
+      "global_code": "86MXFFGF+WP"
+    },
+    "rating": 5,
+    "reference": "ChIJ9145LxrzK4gR1vtYNWNZZ_c",
+    "scope": "GOOGLE",
+    "types": [
+      "local_government_office",
+      "lawyer",
+      "travel_agency",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 325,
+    "vicinity": "255 King Street North Unit 404, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4796677,
+        "lng": -80.5221442
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.48094823029151,
+          "lng": -80.5208156697085
+        },
+        "southwest": {
+          "lat": 43.47825026970851,
+          "lng": -80.5235136302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Daw Immigration Solutions Inc.",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101905466788725489839\">Daw Immigration Solutions Inc.</a>"
+        ],
+        "photo_reference": "AeeoHcJWNxXib_39ybFCC-t6qorERi3UrpRdK0ORo0s2knwhxeRWVslGfLoVS8ub8JqyWCU6GwwWH0crTGv2mpkbjIkSQB-uIer6pHUEeZLheIxB83hY0bfCVj0Q-DfpeQmwQTxG5PISshkq4V7avqIMGJUjqfrPSJz7puJjzpa-DdnKMiM-hlouwbkL49_C2PKo27PpLP0lGeub0V8BSekzasvK5G58WfZCeqB8VcTGy_RBMAPpak2q_Hoc1RJQwOiSsLIHzKCVP82fzxxlp44t4vuoErulQK8xml9W4jKC3NPSl5IXlO0eQ472I2GL8fpX21hVsv_Orrc",
+        "width": 3000
+      }
+    ],
+    "place_id": "ChIJFRvltIzzK4gReSHKY6aUc5E",
+    "plus_code": {
+      "compound_code": "FFHH+V4 Waterloo, ON, Canada",
+      "global_code": "86MXFFHH+V4"
+    },
+    "rating": 5,
+    "reference": "ChIJFRvltIzzK4gReSHKY6aUc5E",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 22,
+    "vicinity": "279 Weber Street North #24, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47573999999999,
+        "lng": -80.53851
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4769693302915,
+          "lng": -80.5371265197085
+        },
+        "southwest": {
+          "lat": 43.4742713697085,
+          "lng": -80.53982448029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Jusseg Travels Limited",
+    "place_id": "ChIJn8S8U__zK4gRzssdWVS0Zh8",
+    "plus_code": {
+      "compound_code": "FFG6+7H Waterloo, ON, Canada",
+      "global_code": "86MXFFG6+7H"
+    },
+    "reference": "ChIJn8S8U__zK4gRzssdWVS0Zh8",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "330 Phillip Street S303, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.48102790000001,
+        "lng": -80.5061028
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4824322302915,
+          "lng": -80.5048938697085
+        },
+        "southwest": {
+          "lat": 43.4797342697085,
+          "lng": -80.5075918302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "AC Tours",
+    "place_id": "ChIJAQAsvoTzK4gRdHdIcQsEqoQ",
+    "plus_code": {
+      "compound_code": "FFJV+CH Waterloo, ON, Canada",
+      "global_code": "86MXFFJV+CH"
+    },
+    "rating": 5,
+    "reference": "ChIJAQAsvoTzK4gRdHdIcQsEqoQ",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "275 Lincoln Road, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4689969,
+        "lng": -80.5474235
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4704770302915,
+          "lng": -80.54603476970848
+        },
+        "southwest": {
+          "lat": 43.4677790697085,
+          "lng": -80.5487327302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Renison Welcome Centre",
+    "place_id": "ChIJybKh_Kj2K4gRUNeuzu2O6hA",
+    "plus_code": {
+      "compound_code": "FF93+H2 Waterloo, ON, Canada",
+      "global_code": "86MXFF93+H2"
+    },
+    "rating": 5,
+    "reference": "ChIJybKh_Kj2K4gRUNeuzu2O6hA",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Renison University College, 240 Westmount Road North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4509558,
+        "lng": -80.49816969999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4524946302915,
+          "lng": -80.49687541970847
+        },
+        "southwest": {
+          "lat": 43.4497966697085,
+          "lng": -80.4995733802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "SuperVisas",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106672075298166676989\">SuperVisas</a>"
+        ],
+        "photo_reference": "AeeoHcLxz9GU2rUtnYrBcUdCMnWhX-iyrgbycFElqARxRnvV2qM8fjZ8bQ2XYMW5R89tjcAsKQf3jJxLuzHESVPnhwBzbkFP2eurxA6IMgjp6mzQAnZbk9yUwTxbB-lF6WvpdZNk1jQqzS-m9qdM8i6riNdqKpKyiutZv3w4e6wfUTcG4na8HOj7s2xaaIVmCNoYiFKjl84LNv1OXyVtrcjDyZcH6PFK0F_PI5VsfeA1eftpCTV1PCqNz6w_J0zsUHBG34L_uBpc1fH0KpsHbE87X5c8sAenltODXw3S-OzjRX2eBwqHpUWpxPem8bBaXIGwPabc_nbA8T8",
+        "width": 1000
+      }
+    ],
+    "place_id": "ChIJQYCoGl71K4gRkI9ZI-sEEx4",
+    "plus_code": {
+      "compound_code": "FG22+9P Kitchener, ON, Canada",
+      "global_code": "86MXFG22+9P"
+    },
+    "rating": 5,
+    "reference": "ChIJQYCoGl71K4gRkI9ZI-sEEx4",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6,
+    "vicinity": "151 Charles Street West Suite #199, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4509558,
+        "lng": -80.49816969999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4525213302915,
+          "lng": -80.49713746970849
+        },
+        "southwest": {
+          "lat": 43.4498233697085,
+          "lng": -80.49983543029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Community Travel Co.",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111591233447683228445\">Community Travel Co.</a>"
+        ],
+        "photo_reference": "AeeoHcJRP-oBrjVjEJRQYvpzZj4HWHROSNe4_ixbuE5nOgpx0uYytNEJ0q7U24dsQx0Gi45kLsdp1gIXoZV4_I0m1mCFUJfz-xwfNaUc-qge3It5gayHv2Uke3DSMZuLS4QWiPhREhUucf20Y4S-awxgSmDz8_hRpmi6XVW8N6hRF13KANG77a2ywUgIrD9YxtIu0xcneJdZjYLQm9Ud-sD6K7Tt2xEokZDlGyDBRzuOASNYhfoG25QDkKaoIIFtj4UgvjR--apeEv9vxD4v4rM_LgPMi16Mv8Z_fOaiEDGm7A9BeKUQHpu70tYxnnaQl1aqGKUSAlYQrEI",
+        "width": 3521
+      }
+    ],
+    "place_id": "ChIJMxmKquv1K4gRaLLYPOZ5A44",
+    "plus_code": {
+      "compound_code": "FG22+9P Kitchener, ON, Canada",
+      "global_code": "86MXFG22+9P"
+    },
+    "reference": "ChIJMxmKquv1K4gRaLLYPOZ5A44",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "The Tannery, 151 Charles Street West Suite #199, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46487189999999,
+        "lng": -80.48839749999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46625823029149,
+          "lng": -80.48709991970848
+        },
+        "southwest": {
+          "lat": 43.46356026970849,
+          "lng": -80.4897978802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Oshun Sailing",
+    "photos": [
+      {
+        "height": 1050,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110017256715878104309\">Oshun Sailing</a>"
+        ],
+        "photo_reference": "AeeoHcLrd9mEVuaistwZQks0hBmU9xUsozqRGEKUFKI2MeDYsBiz9l3Ns_ZC37vGgE68_sKZH5GSYVvq5Gh41nCsNeswAYdGvpZAQ4gGTNzq9OaDA_0Q1XzNRUavxCtPrBJF1iKCXSP9t2CQ9hGGwS177q8fF7aGZ_7O37v2RBpH9I5LZPnk0DNtzLFLbo0jUWjK-sg3D-8kaKpioCv1xVnWjM93PesvN3AY6DqxcHurRWeoLNOzXeefApRlN8675PZu7N-eWX30d4B55uzl4Ez81axaXXVUH4w1PKToVE-hgwOo6fxS-i9UjPUfIJi16ydM1qr_P1MVE3w",
+        "width": 1400
+      }
+    ],
+    "place_id": "ChIJ1dKrW5H1K4gRKIqOasLr-RU",
+    "plus_code": {
+      "compound_code": "FG76+WJ Kitchener, ON, Canada",
+      "global_code": "86MXFG76+WJ"
+    },
+    "reference": "ChIJ1dKrW5H1K4gRKIqOasLr-RU",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "629 Guelph Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4871698,
+        "lng": -80.52837199999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4884478302915,
+          "lng": -80.5270080697085
+        },
+        "southwest": {
+          "lat": 43.4857498697085,
+          "lng": -80.5297060302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Educare Services Inc",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 405,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100854969681512728482\">Educare Services Inc</a>"
+        ],
+        "photo_reference": "AeeoHcLSJHtge491V7sHvS3Ck26HTEOGvVx6C-qEDXMWS4ubqdpBl4cMcLopwkFBzjTB1XWYKXgB5yj_5leK4JLki-oIF_EE3toPZb7r8MMGOL6U4tQF7r01kf_c6ig8mrVyphKCobC0Xeez5aXexrWSi1BSU6OSAPTlFhL9O0Y2-yb6WjHL9eG_YG4E9JwEBgdluXhyTWdrAueK1IYjWGU8o4dW2dUFedoMGN_7oLjEPUMaqGFLhY5JPUceY1K6HSGJtX6Ns0LabtLoGG9enGiyBWya3VimF_Nh5M0JV_EuFF2T6kheiAFUUoGZzgfST7xfWxrBRzLEMmY",
+        "width": 720
+      }
+    ],
+    "place_id": "ChIJ3VFDqSfzK4gRQijXps2y1dA",
+    "plus_code": {
+      "compound_code": "FFPC+VM Waterloo, ON, Canada",
+      "global_code": "86MXFFPC+VM"
+    },
+    "rating": 5,
+    "reference": "ChIJ3VFDqSfzK4gRQijXps2y1dA",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "435 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4398436,
+        "lng": -80.52693599999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4412293802915,
+          "lng": -80.52553831970849
+        },
+        "southwest": {
+          "lat": 43.4385314197085,
+          "lng": -80.5282362802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Kandhari Travels Inc.",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 5712,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108857811234067793569\">Jaspreet Kaur</a>"
+        ],
+        "photo_reference": "AeeoHcKRSPj3Ts5pRXlMLIe6HsVTqYCAscskM8KTCRQa0br8KfwGg9yr2XiME0w5GFpiRjKA1qAHVIvI_dIHOsugG68kHL1Atj4YwQi0XWO8p9nT1Ww7I_hL0ELKwWr9nmwAHp8dVwkhIgoOLR6thsVlIzzIcyjxI1SCHh9_2b91wUxc_bTmxtACyH0w0rsALc1eT5wCnKpl9MkG0c1pzVIZ6cqfQfRqiJ3ywbtnH_MHRULp2o5tvp8EQKctNsAI9dAS8S2YzWNzOD63n_wIU-DkraIcidOkxYD3LsvI36g6rFyymrJ0q4G3vp-Vg5Q1ULocV1EkqXZtpNK4iIzQ5499p8wUtJaUuUZ38eUDBxNj6U58-K_CmP-16CRpkCQrQS4vkK8OCWo5ObW2sc8dfcSowEm0a-6jFANW7H1KUVZ2b5iX46vCjjI_92M1k-RZXcZbxA-46CEWyJvsRABDm2Nn3TQDHARBckJUJxPSJuOZn5_sAcxNBkHCwAJ-bJo35KurYUn5zTbjFtJn2qa67Ah5PiJ5hIOE49UWaYX-fpBZpZ5PVJo51fq3kkeTjNZdmc-gB2eFtikh8r2lJwFNGMJRCtZwRYLHGHW-A9yemPCxBjWdFvRfCY8-1engJX9asSjnvfYiHA",
+        "width": 4284
+      }
+    ],
+    "place_id": "ChIJDSfL8sv1K4gRLp1UpdcdfF4",
+    "plus_code": {
+      "compound_code": "CFQF+W6 Kitchener, ON, Canada",
+      "global_code": "86MXCFQF+W6"
+    },
+    "reference": "ChIJDSfL8sv1K4gRLp1UpdcdfF4",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Unit #6, 101 Hazelglen Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45970199999999,
+        "lng": -80.4865514
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46113133029149,
+          "lng": -80.48525321970848
+        },
+        "southwest": {
+          "lat": 43.45843336970849,
+          "lng": -80.48795118029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Pro Sports Tours",
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110760006529109672109\">Chris Voth</a>"
+        ],
+        "photo_reference": "AeeoHcIYz0kwp_OJY-azRA6XhbN2vDu6M1uO47xi0GQwtTswH7nghLJqyhVl2PabPMSkyYRSvGqa1LytUG5e1xfLeIS8e4G5AhVooBzygJUnMnswlb2SA7VkBZbJPTGiU5W2yPy3xkHfIT3SCa1jSi2B9_ac5vnjNbYAnUfAFyn8zH9vIcYM5hzPlC06X5b-sX9NUY1hsLSCo9NwefcTv8t-BINO7JjQY17BskoMEvX7d1rTcpEjga-d9xALavA7Am-x2iGAFq-K1ogx3aVj9LkOhrXakBjmCpbmSg_qLN5LqkiQ3rsWoZSnsw5IeL95RzwKvpwaUQ7i0VslptzBdStifcQdLwe_bUgCWl6s9ABvAlQ1uaexyAJ_xugDE227nV5WGPMn67WhE8NOSonToP2cYhvgMtS6E_ge_VDcXJPbhw5oEBrdj3ZUtwPxxzchiLuoddkIGa_iNtz6FIchy9xANqAQa0c3rIq0ukcYkAjLDBt0SSUMTGVpagQgHU4k6Gjww7qzyeW8G1E-yOUPzyW0zot7qnNZuuwDc9DwdM0l59LTUmmxHjtc97JDB9J_1Oa4OxSjlyYhIQazdw4sy05-ShahcAWEWxRex7ATN9wyOT1WQaGEcmdf5KdohMxxEginwDAE7g",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJ0zulR5D0K4gRmmP5LkJDfpE",
+    "plus_code": {
+      "compound_code": "FG57+V9 Kitchener, ON, Canada",
+      "global_code": "86MXFG57+V9"
+    },
+    "rating": 5,
+    "reference": "ChIJ0zulR5D0K4gRmmP5LkJDfpE",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 9,
+    "vicinity": "335 Wellington Street North, Kitchener"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 43.4388227,
+        "lng": -80.5103195
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44009553029149,
+          "lng": -80.5091015197085
+        },
+        "southwest": {
+          "lat": 43.43739756970849,
+          "lng": -80.51179948029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "DM Silesia Travel",
+    "permanently_closed": true,
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118141292848437638476\">Marta Borowska</a>"
+        ],
+        "photo_reference": "AeeoHcJ9fRy0frPmVnWsvbXHxu8aRn_wC10sb18jaD0k6W43J5o_j4Y50YyAqR43Ufy_mVf4zk3o4zcA_vq5k93pqPwpJjqtk1m_bLNOQYi1-JlbWqbskkYOxo5ZCpZG3peYLFhMxkyopJEs25z0BJW-1M1XoK_xhJAREyV2y6r5waepswLHwFMu0-CMrKG8Xcn3ulGbfSPooVECiG__IQnJvdZMaRVes1wp0DjEcgINgOTvc1A9XDKxv7e_HfF52afA_jc2Wu_ztO0BpE0_M-SijHSvlJdtgCxeTJSG1FHgnfogJYoKFMC0t66mb9ruujQCaeOLb_caOqocVnM9N1RpLRvR2VthnvHB-JL73dEiH4_PkeR2SDykNuA501jvWGvZGcN0FENSDzjzKbyjAJRYSUBi4I2MMAPh2DNFDIbycePIhdlD8WkPAKMxIucPoPQPFazXP629z1jEV5HZcALhSSQ9gZXsZxrGUh7JZMoQv12tgQmcEio9dIGYo1rgKqZ1GcOVmHaP68RDHaxI5MakLV4UVoMgNZ05aTepSQgH-80q_7qwX47TKZ_wWPT0LufbbPo8Y030okNujgSqUJ2zccmwdIy3WDio9bx_KkceQiaYAb0r7PZsL0yf4YdfVQNXXabzbg",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJn1t4I1L0K4gR-QwRqKzGEng",
+    "plus_code": {
+      "compound_code": "CFQQ+GV Kitchener, ON, Canada",
+      "global_code": "86MXCFQQ+GV"
+    },
+    "rating": 4.2,
+    "reference": "ChIJn1t4I1L0K4gR-QwRqKzGEng",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 25,
+    "vicinity": "324 Highland Road West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46869699999999,
+        "lng": -80.482035
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4700177302915,
+          "lng": -80.48066781970849
+        },
+        "southwest": {
+          "lat": 43.4673197697085,
+          "lng": -80.4833657802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Wah Immigration Consultancy Inc",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115441634652136432901\">Wah Immigration Consultancy Inc</a>"
+        ],
+        "photo_reference": "AeeoHcL-McbMhoP64EZWk-x-s62SKW74rAjuCPq23lMKM5QkPUzeJa0xK2olL4JCAmkW4PuX-kyvvB8pDZ96rIVVC9vKktn0Pulftr7qtkGplF397W-BqaATAtesE-3kPmi0o7qkvlf1z49H8rARyHaCirZOgN7s3nuqINKFdrXlC2_Ak1duPefmjwvkVCG8Yw_ymix4tF_INpkFLYBn7vz-nICRCMMMpTUO2MwqSZZP3VSFyfbdPYOVm297JUKLcUUhihElZcjqxykE4IZfR1jk6bfUAG4I3bBtyO7cUmcH_AM8NlMqPX-djuMWgF_1Ir66BesgGo4IuOg",
+        "width": 1200
+      }
+    ],
+    "place_id": "ChIJOVIT3wEhWksROavi3gbW_lo",
+    "plus_code": {
+      "compound_code": "FG99+F5 Kitchener, ON, Canada",
+      "global_code": "86MXFG99+F5"
+    },
+    "rating": 4.9,
+    "reference": "ChIJOVIT3wEhWksROavi3gbW_lo",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 51,
+    "vicinity": "Arnold Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4420242,
+        "lng": -80.4960207
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4434714302915,
+          "lng": -80.49441351970849
+        },
+        "southwest": {
+          "lat": 43.4407734697085,
+          "lng": -80.4971114802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Worldbridge Immigration Services and Commissioner of Oaths",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102628851849838781111\">Worldbridge Immigration Services and Commissioner of Oaths</a>"
+        ],
+        "photo_reference": "AeeoHcJh2KHYSxCoSsIQNVeKi36Z7zRamim1EzlZC9RjIWYyxznUwTTp4K4vsEy_D-RPi_DiZzr_g-ZvzQjKl4iQ6aDny6SY_GD0ibj8dYGxshAtV_legJYpvConnusFZ4xI_4C6N42IruGSNYSqCNpQ-C3MXfjQh-emtV5X3U-LP2-_kpiTqVQRj0D2rmlQhva51RZLaP9Ib4fNdGQQnDmvcsCxlz4KWHxWOGnvIS1zu9vflJIG4C-CGpxec_l_pAV7AGK6RpPci89hXeE6eLoncUmhI-DWB_3cPQpZauaX-ZLWn5yxIp9TYDQRu4W6zoafzmd8QYkT_q8",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJL9oslWL1K4gR_d2eBX6Uyt8",
+    "plus_code": {
+      "compound_code": "CGR3+RH Kitchener, ON, Canada",
+      "global_code": "86MXCGR3+RH"
+    },
+    "rating": 4.8,
+    "reference": "ChIJL9oslWL1K4gR_d2eBX6Uyt8",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 23,
+    "vicinity": "247, 675 Queen Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.444911,
+        "lng": -80.490791
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44624788029149,
+          "lng": -80.48945596970849
+        },
+        "southwest": {
+          "lat": 43.4435499197085,
+          "lng": -80.49215393029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Carlin Travels",
+    "place_id": "ChIJMR5CVPD0K4gRI2T8NeUziew",
+    "plus_code": {
+      "compound_code": "CGV5+XM Kitchener, ON, Canada",
+      "global_code": "86MXCGV5+XM"
+    },
+    "reference": "ChIJMR5CVPD0K4gRI2T8NeUziew",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "63 Couelald Ave E, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44862120000001,
+        "lng": -80.48661229999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4500151302915,
+          "lng": -80.4852407197085
+        },
+        "southwest": {
+          "lat": 43.4473171697085,
+          "lng": -80.4879386802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Desh Videsh Immigration Inc",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114850663115756987702\">Desh Videsh Immigration Inc</a>"
+        ],
+        "photo_reference": "AeeoHcLjqLxFwpPlbslKiWitoaEKH_1FGtLpWpa2OAxCFOw3hL_buBrM8BMDsDuz3l6Lrw5IBNOVEmflmo3Avi3-IW9Xmh4QDGbzu5Y3BnU0CbH__icKJYkfP5VHKWnzl6cWgO6aCJSbUyJ9rvYHgMC0G9c6-RLuWp8ioo9YF1vYL0iaXnplhJHOgXHqFRkBbyS2uC2V1gbZpJme9wWQUOmjJfF0idcNPrm7qOENkPyts_DtE6J78YYq7jWQbMgA99NDLtSnGy3cvvXCRWcVt9vopQKkKmyWg_8Zobrd45dNC_A9S1avTfbIDZqFp9Mgm_UVSrjWiDVST1k",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJM0CQZyh9rEgR5eDNSQyhMYM",
+    "plus_code": {
+      "compound_code": "CGX7+C9 Kitchener, ON, Canada",
+      "global_code": "86MXCGX7+C9"
+    },
+    "rating": 5,
+    "reference": "ChIJM0CQZyh9rEgR5eDNSQyhMYM",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "lawyer",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 254,
+    "vicinity": "157 King Street East UNIT 200, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44581089999999,
+        "lng": -80.4877243
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4471039302915,
+          "lng": -80.48627831970849
+        },
+        "southwest": {
+          "lat": 43.4444059697085,
+          "lng": -80.4889762802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Freedom MBT Kitchener",
+    "photos": [
+      {
+        "height": 500,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102999026550002410391\">Nilda Ventura</a>"
+        ],
+        "photo_reference": "AeeoHcLpHz0LA6s5JEJ4LP4lRGp3rIEdY_OlRdKClh0aKqN9fJvJ6B0smmrcHZSS7QHzdWa3YbbmuJVMSbBhdPa8vHoNUu6_psWSE2Mvqr1vuArsQvndYPq8_wNCjqjcuVMUtsYZLv4FBqU2Afp_JWCYY_7tbP1OGOYPPem9pv_YktPXNCMh-rbN5DWmfkEa3LqpFaP9aEERTpSh9L5JNW8OAkenPMccpxEfFhlB9cYAOkmC_JLfG-k6hfdowCbHCbTAf9xa7jE1C0jnSR0dUXNw4yyjz0mCdKEP4U_-p4GtqHlPpQQqo1VFY42f2_2EtQ7lo2BWQOjOc6HsYyaVWL8InSSE6jFswWtweyUtVmm5-qS8DxrlLplSDA5kq0tIcdwf9OnEHll1RYG0AGqg8XDRll-y1oFEWJfwekDBreEud6ExOebLB04ipdCF9bx-Mf84hD__rEpIJE5nf06gp1HX27pW1lvNCkziGRFZTDfr1-CKvbzTo9vY_k5yQ6S-xY5B4N2y2Ra_YJBseF81BRgBhUYGDOnyOE3bk4ucIjtm8Te1RtKCQ08x80LqPpy1ce-OfA1SJc3w0s0i5A34yLh5RvNUT8YYEin50B-EmobT5TAN-JLoI9wdEQHXyWNqQFaB6yAtfg",
+        "width": 890
+      }
+    ],
+    "place_id": "ChIJx68gHAD1K4gRSOF4dAn9p9c",
+    "plus_code": {
+      "compound_code": "CGW6+8W Kitchener, ON, Canada",
+      "global_code": "86MXCGW6+8W"
+    },
+    "rating": 5,
+    "reference": "ChIJx68gHAD1K4gRSOF4dAn9p9c",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "26 Peter Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44601,
+        "lng": -80.48124969999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44745263029149,
+          "lng": -80.47981771970849
+        },
+        "southwest": {
+          "lat": 43.4447546697085,
+          "lng": -80.4825156802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Kulligan",
+    "place_id": "ChIJzyRbbwD1K4gRSh6QsStw9fo",
+    "plus_code": {
+      "compound_code": "CGW9+CG Kitchener, ON, Canada",
+      "global_code": "86MXCGW9+CG"
+    },
+    "reference": "ChIJzyRbbwD1K4gRSh6QsStw9fo",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "495 King Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4409323,
+        "lng": -80.4859018
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4422281302915,
+          "lng": -80.48445121970849
+        },
+        "southwest": {
+          "lat": 43.4395301697085,
+          "lng": -80.4871491802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Holiday Travel",
+    "place_id": "ChIJ4SYACeX0K4gRFY-nFdIq1R0",
+    "plus_code": {
+      "compound_code": "CGR7+9J Kitchener, ON, Canada",
+      "global_code": "86MXCGR7+9J"
+    },
+    "rating": 4,
+    "reference": "ChIJ4SYACeX0K4gRFY-nFdIq1R0",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "248 Stirling Avenue South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4909719,
+        "lng": -80.4871017
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4923719302915,
+          "lng": -80.4856259197085
+        },
+        "southwest": {
+          "lat": 43.4896739697085,
+          "lng": -80.48832388029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Sheri Keffer Immigration Consulting",
+    "place_id": "ChIJO9sXuRLzK4gRRvgsjy0hxFM",
+    "plus_code": {
+      "compound_code": "FGR7+95 Waterloo, ON, Canada",
+      "global_code": "86MXFGR7+95"
+    },
+    "reference": "ChIJO9sXuRLzK4gRRvgsjy0hxFM",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "259 Pastern Trail, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.49523479999999,
+        "lng": -80.4907315
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.49663408029149,
+          "lng": -80.48931136970849
+        },
+        "southwest": {
+          "lat": 43.49393611970849,
+          "lng": -80.49200933029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Murdoch Travel",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109370743466121608277\">Murdoch Travel</a>"
+        ],
+        "photo_reference": "AeeoHcLB0dEY_lhWm4RMcOLcyCXKNlObLsZDVoNBwZKFcmPhNJvg5eFyzLCHO6Urx4l2pOfntFWSPhtYHaH5JMVe8TB6NhgKtZPKMNsbDQQPXj5lu1ZmTg1k2mU_aIa03THkMjd-S8qe_ZTcc1tjNXIUNP_WHf1qDtFMlQwxKU3d0YVvdFJ10oJxEx4qyUJHl0KbI7zTrlH-jkCp31NpVwqWdoh5G67IlZ08TsI7ewCMgCek9TDuZl0RbTmdQ7TBS0x44TNMx2el780nqrcQ7zITeAgnXD0Cnl_NfYHeCe10Tdpn0lIZU_rrMjqQvkReLM-Ac2W2q0V4K8U",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJBf5CoILzK4gRWOv4tRDp2Zo",
+    "plus_code": {
+      "compound_code": "FGW5+3P Waterloo, ON, Canada",
+      "global_code": "86MXFGW5+3P"
+    },
+    "rating": 5,
+    "reference": "ChIJBf5CoILzK4gRWOv4tRDp2Zo",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6,
+    "vicinity": "570 University Avenue East Suite 901, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4981859,
+        "lng": -80.5432194
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4995626802915,
+          "lng": -80.5418907697085
+        },
+        "southwest": {
+          "lat": 43.4968647197085,
+          "lng": -80.54458873029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Canada Immigration Express",
+    "place_id": "ChIJdekVZt_zK4gRoHr6lCPQPsg",
+    "plus_code": {
+      "compound_code": "FFX4+7P Waterloo, ON, Canada",
+      "global_code": "86MXFFX4+7P"
+    },
+    "rating": 5,
+    "reference": "ChIJdekVZt_zK4gRoHr6lCPQPsg",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "180 Northfield Drive West unit 4 1st floor, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4969587,
+        "lng": -80.5475388
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4983617302915,
+          "lng": -80.54628386970849
+        },
+        "southwest": {
+          "lat": 43.4956637697085,
+          "lng": -80.5489818302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Frederick Travel Waterloo",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJW3xso2DxK4gRZh9b6Os8sJs",
+    "plus_code": {
+      "compound_code": "FFW2+QX Waterloo, ON, Canada",
+      "global_code": "86MXFFW2+QX"
+    },
+    "rating": 3.9,
+    "reference": "ChIJW3xso2DxK4gRZh9b6Os8sJs",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 15,
+    "vicinity": "180 Northfield Drive West Unit # 4, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.49737509999999,
+        "lng": -80.54723129999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.49890313029149,
+          "lng": -80.54594941970849
+        },
+        "southwest": {
+          "lat": 43.4962051697085,
+          "lng": -80.5486473802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Merit Travel",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113293384543008318654\">Andenet Ayalew</a>"
+        ],
+        "photo_reference": "AeeoHcKFYod_f5T-bR384m_0kIhk9PVzriuxg28ZksRO7TmTokoaZWyD68D-xdEv71G3OGRO66oY1foziSha-GIVurhFT4Bpqtn0WOdT058TkX-kaNROQE7VlHuvsBffaAcf8bSFNqxJZ_MeGde5YgTi1ZCPj-MR0p5vg2JAN9C5J2LpL_p5YErIaGsyZLwpmg9HBLrPXXr0XJLyW6t5TLYXvtvx86mhNiTyAT2srzlKyw8IhYMhvb2HbqWS--qsmLQPkKmKlEOq_-VWBuM0VBks6Emelw2HgbIc91GyS8ggryK3eA7AAijZVxRtdV3C8RYD1Xc9GrjPrjwGYG7gwg6zcPTYQ2TflXTBmx-mFlO3_32YD_vuZM6WgAyIATmcLbXidFYiW68oWLTWHJFdDxWUXvQ1d2UUD7w478YpWgNGrm6d0q9u3E_ErW32iLD63skBdkDdDRGTSzUuwcfdYTR6BE5_ApbzNDv72vBqZT195QGGRsgU_DtDZ0vtf5CaeO06yEQfTP0GLED2163xzb33fEe7gs-Xcy0DY-0iwJ-ZUIDwtLOI6juVIht8FmaZwfh-Ca1hPMWDyB5C1uKdpocGtD01-Sz-rJ8Dp4wMmP9eMUBEdEjhiVO4-T85PRfSRC6aj_HdOQ",
+        "width": 3120
+      }
+    ],
+    "place_id": "ChIJOcfcNwH0K4gRU4n2mPjI9x8",
+    "plus_code": {
+      "compound_code": "FFW3+X4 Waterloo, ON, Canada",
+      "global_code": "86MXFFW3+X4"
+    },
+    "rating": 3.6,
+    "reference": "ChIJOcfcNwH0K4gRU4n2mPjI9x8",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 9,
+    "vicinity": "Regus Offices, 180 Northfield Drive West Unit 4, 1st Floor, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4351879,
+        "lng": -80.5552952
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4366057302915,
+          "lng": -80.55400531970851
+        },
+        "southwest": {
+          "lat": 43.4339077697085,
+          "lng": -80.55670328029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "AS YOU LIKE TRAVEL",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114935667277414064711\">AS YOU LIKE TRAVEL</a>"
+        ],
+        "photo_reference": "AeeoHcItWd4USWUm_8-n0Px_NiL7xOTOfXtZNZXBa-g2nvtevtFYU0wrPpaj0PHKbAiSHdDjrRwCNJuAArip38O7Z9tha8fJhV6hZ96sYHmz_pGwIHE6aBoIDDOkbB8KECg8ijuCUTBRGAih4CZnNi1BkwvMbJhf-QP_SoFBUvU09jJaNO9dkUJMNrb5UVo--_Rx7D3ZK4EKI0vBtSVEziNtdsCWfMLCu_aBSkRJj0soX1OYFvXLrkau_GD_pFEOjCpSU3qLm4cqK1QFItyjDqjkdAJPuJ75AnOOCql1Wrv0QG1LQZwiWZLSqK16R6EVgtnOlgYlJ_UKPrc",
+        "width": 5184
+      }
+    ],
+    "place_id": "ChIJJ_mRdFD3K4gRiZfw8HAOsE8",
+    "plus_code": {
+      "compound_code": "CCPV+3V Kitchener, ON, Canada",
+      "global_code": "86MXCCPV+3V"
+    },
+    "rating": 5,
+    "reference": "ChIJJ_mRdFD3K4gRiZfw8HAOsE8",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 29,
+    "vicinity": "1285 Countrystone Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4633486,
+        "lng": -80.46554569999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4647766302915,
+          "lng": -80.46412161970851
+        },
+        "southwest": {
+          "lat": 43.4620786697085,
+          "lng": -80.46681958029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "V Settle Immigration Services",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1500,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109802560363696813730\">V Settle Immigration Services</a>"
+        ],
+        "photo_reference": "AeeoHcKggMCTYWKpxqQ5y0E72T5o8UKsxL256XrJJI3m49RAQ02GfuhQGjvc3c4MKwKQ9hAPnM0qdRirGuufrwxtSxSRHguYpziB-PsstvxVU-GXwhFrtNgLJtL88mDI3H1ik47AlQC5xHaF-IsJn4xB4rw6a8M7zTDMctfhkOg677Wd6W2lselJWC-PKylHPXaqoAj0CD3Tk_qnB4YyeUvDL-5XeTimP-uwr3Y4V2kh2ghoNMCTdXqbt8oZVogdi5sTd3D6AVNGI9UVXv2sRysCIZrCdxSWzZzf87ut8id4_DOv8TnwLx0Uci8k3IOGpZHgON7mu5nmItI",
+        "width": 1500
+      }
+    ],
+    "place_id": "ChIJx8rcILtFK4gReStGtQI9PIQ",
+    "plus_code": {
+      "compound_code": "FG7M+8Q Kitchener, ON, Canada",
+      "global_code": "86MXFG7M+8Q"
+    },
+    "rating": 5,
+    "reference": "ChIJx8rcILtFK4gReStGtQI9PIQ",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "lawyer",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 52,
+    "vicinity": "871 Victoria Street North #14, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44945070000001,
+        "lng": -80.4687472
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45075403029151,
+          "lng": -80.46753791970849
+        },
+        "southwest": {
+          "lat": 43.44805606970851,
+          "lng": -80.4702358802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Kitchener Airline Reservation",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ6Ywmufj1K4gRdZkvPGFEKxA",
+    "plus_code": {
+      "compound_code": "CGXJ+QG Kitchener, ON, Canada",
+      "global_code": "86MXCGXJ+QG"
+    },
+    "reference": "ChIJ6Ywmufj1K4gRdZkvPGFEKxA",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "40 Liberty Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.438277,
+        "lng": -80.47768909999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4396866802915,
+          "lng": -80.47631481970849
+        },
+        "southwest": {
+          "lat": 43.4369887197085,
+          "lng": -80.4790127802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Vacation Cottage Rentals Ontario",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJkdtmZuf0K4gRGQFk8qRfeI4",
+    "plus_code": {
+      "compound_code": "CGQC+8W Kitchener, ON, Canada",
+      "global_code": "86MXCGQC+8W"
+    },
+    "rating": 4.3,
+    "reference": "ChIJkdtmZuf0K4gRGQFk8qRfeI4",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "travel_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "101 Bedford Road #5, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44810529999999,
+        "lng": -80.5749797
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44953308029149,
+          "lng": -80.5736989697085
+        },
+        "southwest": {
+          "lat": 43.4468351197085,
+          "lng": -80.57639693029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Canada International Travel Service Inc.",
+    "place_id": "ChIJkXcJT_D2K4gR2c0copeHQKU",
+    "plus_code": {
+      "compound_code": "CCXG+62 Waterloo, ON, Canada",
+      "global_code": "86MXCCXG+62"
+    },
+    "reference": "ChIJkXcJT_D2K4gR2c0copeHQKU",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "794 Paris Boulevard, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4106766,
+        "lng": -80.5021787
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4119242302915,
+          "lng": -80.5007982197085
+        },
+        "southwest": {
+          "lat": 43.4092262697085,
+          "lng": -80.5034961802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "ADLY Travel",
+    "place_id": "ChIJ0_x-h571K4gRIFTY347gBoc",
+    "plus_code": {
+      "compound_code": "CF6X+74 Kitchener, ON, Canada",
+      "global_code": "86MXCF6X+74"
+    },
+    "reference": "ChIJ0_x-h571K4gRIFTY347gBoc",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "262 Highbrook Crescent, Kitchener"
+  }
+]

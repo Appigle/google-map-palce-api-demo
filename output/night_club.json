@@ -1,0 +1,1625 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4669868,
+        "lng": -80.5230936
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4683250802915,
+          "lng": -80.52163271970849
+        },
+        "southwest": {
+          "lat": 43.4656271197085,
+          "lng": -80.5243306802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Huether Hotel",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112522364638976627365\">Sa Hua</a>"
+        ],
+        "photo_reference": "AeeoHcKanlGozsMyv5e4y1zyeL8-Tr5MiX1YmJaPKNxFs3uUGuoLxoTaf5dZ1Z3eue4-xff9s_kjgn8P-uCEBWZFWsXUHjfRSkG5gUjj2o0_8Ux82Fg2wUxWqg58DxVPlHojdRIBiraszoDbbQ_blnSON_pR0qcBVEZ8VmfvYB2D3ojIlZV0lq2yKOp7joVJQs5xPmBxqp6_ymRyE1AJAWbb-MLdGDT6dU-OnGyyi4nMr6rloaG1_Mmb_wFuzzC3E8I3IlCCCTMQ85R1qaWzZO_dbN_YT340YyaPR18yacN0PesAQki5JLzgriKL6eSSEw2kAirDR8sO_L0ABa3JW_uOyUn7ovPzbb6PJboSGHEuPL9R0pNVuQeNcSJljLYxSLNzxtrDFeNyGlQXjMoE5rVdlxWYecs8eUkj57H2K0z-i2sJ5xufj-2QfPrOU377VhJLsSbX6mfHakdRjSJkc_iMzt2N-x4lcbxGWSm1zWxuqok3LoN-3DfYf3mINcqSBtr8MTUMqxpLwPSqjXFvczcCc_mNTkjTgHO7c9SxlNH5ZCoHVW1u_h_1ILt3IJxO2xZd7Iq2BtcsUsXXbO1bjlzeMoYffmYFBebm2DtLLulD5LYuAO_C3tjpDoaSKb_p2tP9nphmi3jX",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJbU6D4Az0K4gRGm7S0WGYD6E",
+    "plus_code": {
+      "compound_code": "FF8G+QQ Waterloo, ON, Canada",
+      "global_code": "86MXFF8G+QQ"
+    },
+    "price_level": 2,
+    "rating": 3.9,
+    "reference": "ChIJbU6D4Az0K4gRGm7S0WGYD6E",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "cafe",
+      "night_club",
+      "bar",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 1502,
+    "vicinity": "59 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.475238,
+        "lng": -80.524389
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4765037802915,
+          "lng": -80.5230400197085
+        },
+        "southwest": {
+          "lat": 43.4738058197085,
+          "lng": -80.52573798029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Phil's Grandson's Place",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 640,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102936114184975204656\">Phil&#39;s Grandson&#39;s Place</a>"
+        ],
+        "photo_reference": "AeeoHcJxGKDOQxIu9XHOrBMmfGbyoHYxvYzOELBIIwzjZXth4ljK6kfA6ju1b_H-ML1y3VQ1Xw3vS5szPKFagEB4gDVlhAlx6IKg5pcT8_w5QzmR3k-bKX1Cg9F--vYAQA7iq283rSWTH8bLXHomuT991Vc72cpsbOqPEMEZLp4WJGo5VJnpnGW64pNRjlvnnp-L03epC9Vt4GXL8YjgRmyCHfg-RSf05k1rj94dmDK7K5BaBi-SpMbbYeJwxseOVliZOZg056xhN-HsUpIeLmWmAMID4SJkcnHogEOj4Z-UyoK9JesAzJLu7xDn2z_FCPPF0tetlGOAzuc",
+        "width": 960
+      }
+    ],
+    "place_id": "ChIJswAD92v0K4gREml-Mh7NOUU",
+    "plus_code": {
+      "compound_code": "FFGG+36 Waterloo, ON, Canada",
+      "global_code": "86MXFFGG+36"
+    },
+    "price_level": 1,
+    "rating": 3.3,
+    "reference": "ChIJswAD92v0K4gREml-Mh7NOUU",
+    "scope": "GOOGLE",
+    "types": [
+      "night_club",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 476,
+    "vicinity": "220 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4503865,
+        "lng": -80.49173019999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45182873029151,
+          "lng": -80.49031601970849
+        },
+        "southwest": {
+          "lat": 43.44913076970851,
+          "lng": -80.4930139802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Wax Nightclub",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113664309233820834071\">Ron Dutton</a>"
+        ],
+        "photo_reference": "AeeoHcIVAW5Av8cBS91LRuWGeSxZTx7tsziMqo9HlPIaGK-9aZlVUwXc-BtTgdZ5rxSRzMPhxXBJdpzhjkDPTLixDdQSPSiNpdmQDbpF1XTFdmsq1ZtMcjsjl6IkcXTzwcJQ7kL5qkmorBnGsBN5UMQmd1GG9j3tXx8cFd78_Gqspx82XHGllbaYsvEjua6pE1G8YVT3m_Vc3WwAScg0jCcFXRaC8Fd_xezu5pQfhcFdysfBa_UApjh_6ntC5hs6wVjJXUUIxuHGDK4H74InGfq3Thd3qEI5YCaXpS_t7Xa-sDQQ-khvUol3InChcE5fQMeVNhm1CrCnKdutCpnF--NmtTSBB5DchjBqR59Bz22SQ7cGR94LClbUCRAMKeKzQw7qsvPnqSrD_2KfZf4QxjKCRXOjNn4XmvL4gxsdicVqpPasKAdKtflzi6avW0IWrHnmy9DGOQUMAGxZBULCDHmhE-KUC4gePt0UzknWYp2fZfwGDepb8E5njcwZpmjevVfmzfwXe2WcIEbYnuMxkvUCFCYtslh3z0VREgp3XYcKNVNjg2W7xywm9FfV2N6ahrQKTS_VsLgqCK-sd6mqdeJ0K2H4yD7p5TY-7CSpPJcguA1HVTND83j2USjRwvGEyeCBOfGFQw",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJo2Z3G_P0K4gRJeURmGqSgyA",
+    "plus_code": {
+      "compound_code": "FG25+58 Kitchener, ON, Canada",
+      "global_code": "86MXFG25+58"
+    },
+    "price_level": 1,
+    "rating": 3.3,
+    "reference": "ChIJo2Z3G_P0K4gRJeURmGqSgyA",
+    "scope": "GOOGLE",
+    "types": [
+      "night_club",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 37,
+    "vicinity": "125 King Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.420655,
+        "lng": -80.442247
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4219243302915,
+          "lng": -80.44089911970849
+        },
+        "southwest": {
+          "lat": 43.4192263697085,
+          "lng": -80.44359708029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Moxies Kitchener Restaurant",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102945313977464214613\">Lori South</a>"
+        ],
+        "photo_reference": "AeeoHcJMiFkcn72VDSisLiPK-G9rNlxfm4nVIRlJIQuFlwzkL1rxep_EY7khgzSMe113rUOdUwyD3FLW22_fe1nB6AzLhMsUAOViqFeJjJ17A15zTkYsWrkLiOkyM-Viab1aKEBlkKMkXk1_ZL1NRNnF62MhijtmN5pkHJ0thXuqVfH-is8xwkqn17SwZYAjPLi094XJNbI43VtrLKTut6FwjAxRDgexDpnXGfvpJx9Tq7avcKzv0xUyjVnYfgZK-wlFB96lSnybWAzoD0A9NAQNbGiWr5JHJrUjYiAxMWCPdn0SNeKsTACSQnSUBne_PoxkOrj-Hf6mDD8tkYDPTd_rA3iDSRHVVV1lbII_k0I9enqdJEN_iZ9L-d-dz-O0eYXF_b8JCEPWTkh66OP47TyNLzGaA9BkNIE2RYQ1jQ2eS0clyyGhGvHkztC-elilx3JkxUWliv0KtdQr7Sm4BvhtSz1jZf6nMnSJiXeAgkYIYkokf99bcXzU11jYMkJkzMM5dBbuwmTVK8wOKNqGuGHLC_7VFpY8HOk6WmVv5cWlEgYvUMBjOr2DQYmGS8Du6njnnmJnwGTrhHGkeZxw9wPcvJVo4nQX1WZsOfF0xqx3yIaDbEu7FKmrzdIIUo_xdJirYu0K1A",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJY47u1tqKK4gRYWfpBKiw2AE",
+    "plus_code": {
+      "compound_code": "CHC5+74 Kitchener, ON, Canada",
+      "global_code": "86MXCHC5+74"
+    },
+    "price_level": 2,
+    "rating": 4.3,
+    "reference": "ChIJY47u1tqKK4gRYWfpBKiw2AE",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "night_club",
+      "meal_takeaway",
+      "bar",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 2158,
+    "vicinity": "385 Fairway Road South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4706934,
+        "lng": -80.53924909999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47223673029149,
+          "lng": -80.5377203697085
+        },
+        "southwest": {
+          "lat": 43.46953876970849,
+          "lng": -80.54041833029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "POETS",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113664309233820834071\">Ron Dutton</a>"
+        ],
+        "photo_reference": "AeeoHcJyK_ZjcmKNdcAEBIYPoSyGUTtN-jihPYkymyhALa9-FJ4l3NHpyc5pQcYwoX6sVq_bzFTD9nZLJOw5Hm8PuQJ-qovhYtaZTdin6-ENpwB_ZaExK4I0MCdmvdfSbNXf12-OGxA3I54-ZyBZSbNw_CB12fwgyk5hVdASBmPLBPLERvunsLujV71x0jsY_j_adfjN2wwQQyIGfxWzcnqZ_Ys7YQVdZCfMUbdaLM3N5opP-ZX29i8kAzF5TGG4CQSeilFeDZ1c5p3dGEzkjyC6LDo_iB8M8iCOqnJoYikd_p8J313mFqonUWa6_XzQFYPT_gA7ozbMIJeil37cRSErdy8JgYbuEI8Uj_a-aNbgoWF0yAXgDA5EOaP_-Ook-K6gE2PtfocfxgXWfyod_wcneBs3EBFLupFKQLlOZ7OpGuJsIMcVyFJm80PitS6fwEwrqUtr_Ad7KFZeraDMaHYMUTRcHdGeYUFKqCujHEZM0adHJo3V7EgMKqqBh_KsexUN8pV2ZhzmGJt2KbOv1zvBjGhOET0s3udQomH3pnYJCXR-siwjtVcudBDjxb5fR3igOfJvlViNRMSFU_heHX-2nuX2fX9cky11v6WLDgWlgRu9g2aUfiUcQ5rUe1vOk4XicIy72w",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJcVr_4QP0K4gRAXvITEl387U",
+    "plus_code": {
+      "compound_code": "FFC6+78 Waterloo, ON, Canada",
+      "global_code": "86MXFFC6+78"
+    },
+    "price_level": 1,
+    "rating": 4.7,
+    "reference": "ChIJcVr_4QP0K4gRAXvITEl387U",
+    "scope": "GOOGLE",
+    "types": [
+      "night_club",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 84,
+    "vicinity": "Carl A. Pollock Hall, Ring Road, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47121859999999,
+        "lng": -80.5427429
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47286903029149,
+          "lng": -80.54150316970849
+        },
+        "southwest": {
+          "lat": 43.47017106970849,
+          "lng": -80.5442011302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "SBSA",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJYWoJ9AH0K4gRG_80jt68i5s",
+    "plus_code": {
+      "compound_code": "FFC4+FW Waterloo, ON, Canada",
+      "global_code": "86MXFFC4+FW"
+    },
+    "rating": 4.5,
+    "reference": "ChIJYWoJ9AH0K4gRG_80jt68i5s",
+    "scope": "GOOGLE",
+    "types": [
+      "night_club",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "200 University Avenue West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47179819999999,
+        "lng": -80.5438393
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47362123029149,
+          "lng": -80.5426274197085
+        },
+        "southwest": {
+          "lat": 43.4709232697085,
+          "lng": -80.54532538029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Comfy Lounge",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111149747110548970079\">Ying Wang</a>"
+        ],
+        "photo_reference": "AeeoHcKy8oH8WZXFEZAKOvfRA5qwghWPkzVxbQV-DRzIS0pG0wfffW9cv_ChHdpnTXPpZ7fi8JT_JTqtL5P8ba7XoauDNgdP2pCqifB6-XGhkfYTMGKyqT6Q7XbQFdFqjvfuWoGIUXa_AbpUN_Kghynr4dySZvaEpPgnsz4DZnFiFBAP_Bky8IdA6HkW4vxc7K7R5x6IknLVZYEyRP_0mrVGRC91d8AjWTfES6IXiZKGwSBRL8DfLDsg4o2T5c7rlfvnOhv20l-tRh1Fs_LT1ekPDmiz438_wtivwF9452SHJ9M_r7xp3Sg24lJ9FnyiCrOi2cGThMxPEmr320cwYDbM3VjaTkJytfv3oGPIi2wYRwj4GKbGfxrVNrCyHP8RjtlrJRuAvAax8X5Ktx391gVh5TPVryFbvuJWkmBmwwcOspNlFMsB3Qc1iG5wq0G1fl32z3wW4bclYtixe9rz9i8DrNZXrYdPhLQm8x9qfcyhqrmK9Bzg9u7GPhlwE3oMumPqxhMKGxcoP8iNukDD9GTOrgYWv9ol4m6tJ6tjlIK0nG9Q628G89wg4999ix4PhWMAR3PD9H0nmoh3tRSz6GSYtLQRusxKL9GWXMHXi-4VpDpHlF7Ekvm80Y8jJOv11SD3rzwFKWjO",
+        "width": 3840
+      }
+    ],
+    "place_id": "ChIJ2U814gH0K4gR9WkNIi0MKgw",
+    "plus_code": {
+      "compound_code": "FFC4+PF Waterloo, ON, Canada",
+      "global_code": "86MXFFC4+PF"
+    },
+    "rating": 4.2,
+    "reference": "ChIJ2U814gH0K4gR9WkNIi0MKgw",
+    "scope": "GOOGLE",
+    "types": [
+      "night_club",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 63,
+    "vicinity": "200 University Avenue West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4520011,
+        "lng": -80.4950246
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4532958302915,
+          "lng": -80.49370781970849
+        },
+        "southwest": {
+          "lat": 43.45059786970851,
+          "lng": -80.4964057802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Dallas Night Club",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105831865956797295428\">Miaac Noyk</a>"
+        ],
+        "photo_reference": "AeeoHcKlnpRsXOEBoIaRd6hyHFCzFGJbXAJIdX_qTOp2mcxaYQgTfk3YbQRj1crW44t8DUGP7G0amKCSZnF7IdlD0q26T5sLkxGU51J4nWO0p4BNekHEHOShaGjPJBkiZfCx9cS6RIa4dzinRi2feIVYdQQZrm-rjWbYcWCghFhRLoLO24V0sEqGdLJhnoCXNyqJ9kS3x6Wx4n5hUwstcDWKuDCNByGhA52gWMLoDWsD6LJCQW4-bU_k2dNV_7HUQUn2KC7TxI0kIKb1QKQikHoCfTJg85kEeqXU346SiXYoRm1Sn1NVzL5Tzp73HvbjqYS8Uw8kzQx0amEP5b9Pkc7NU7y6668e1zpVbrsJRNGJNo-9zqDXT_SfTvS_EUJXIXNw-xlcNX4kVwTR-f6T-9zeKkB-p8YjKsEBnc6nJkeDTc4MU-967sihSyGCYiXRUSx1MrlvOCicVtXPTeSXd17Zu5kWcBkqfUlFY_RYPgYig7SI_gkF7hN2-OS77eeOGMzaJ1r1tJBC8YOJHDKwYIFCesR2uwb5kyUwer-FV5qWsSjrNKLspOY0ZStDmKhdRuytxM64wPYjyylJtLukETnXF7jC3HS5n7xGMZoU2vdF0iffo_VZD2T0vN9KbEkuXLq7HYdPPQ",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJ1xXSufT0K4gRVVVDG1vPJ20",
+    "plus_code": {
+      "compound_code": "FG23+RX Kitchener, ON, Canada",
+      "global_code": "86MXFG23+RX"
+    },
+    "price_level": 1,
+    "rating": 3.3,
+    "reference": "ChIJ1xXSufT0K4gRVVVDG1vPJ20",
+    "scope": "GOOGLE",
+    "types": [
+      "night_club",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 118,
+    "vicinity": "312 King Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4657097,
+        "lng": -80.5223125
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4670446302915,
+          "lng": -80.5210684197085
+        },
+        "southwest": {
+          "lat": 43.4643466697085,
+          "lng": -80.5237663802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "RARE NIGHTCLUB & EVENTS CENTRE",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2395,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113880916671738216485\">RARE NIGHTCLUB &amp; EVENTS CENTRE</a>"
+        ],
+        "photo_reference": "AeeoHcJmPyHrB9sdblFFtJcHd-GV2oEjqmBqciaZxOXc6ALxzjkqZUVQfN3ETdcDSqVRItr28x6QRvQBkMfPkXkjq_cJIVUgU5zF9AxqYEBCW07dy4W97JO7QBVelnandDlHT2nBslGac_F_bFQP3tWsbz5mpDI1OXrJ6zUdJxpr0VZPbboF3Y-WkwNXzfLT5eB7Dc6brPaZjk4kf22GAK6xO2HciGy2kH4EIUEZtQFtGHqv0aE74X3pNor8VyQrPgzxn1oU-0lR2lOwXWG-tFGPZKlinZVqZ9X3zxLSDPA01XPtDCdlE-bcr4fxOpNj3aag2LOA5L2dZTc",
+        "width": 2550
+      }
+    ],
+    "place_id": "ChIJtwnZ0_n1K4gRrb6-NGPwkWg",
+    "plus_code": {
+      "compound_code": "FF8H+73 Waterloo, ON, Canada",
+      "global_code": "86MXFF8H+73"
+    },
+    "rating": 4,
+    "reference": "ChIJtwnZ0_n1K4gRrb6-NGPwkWg",
+    "scope": "GOOGLE",
+    "types": [
+      "night_club",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 126,
+    "vicinity": "24 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46644319999999,
+        "lng": -80.52288329999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4678030802915,
+          "lng": -80.52145691970848
+        },
+        "southwest": {
+          "lat": 43.4651051197085,
+          "lng": -80.5241548802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Room 47",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111441519932113121873\">Jp Xi</a>"
+        ],
+        "photo_reference": "AeeoHcIC0HZW-LA6aub2XGopjuh0GC-QhnijewCiovBm6p6ieeTRBJok-OUuwwwc1z4dvOJbBR2EWD55vXLm3gmpe0BCrmYMTc3CX2EVRgi8UwbMrq1e9Xl93xp9pWhsjkKzNYSXF93HlXvkg84feAILQt8tOI4_sTcCPbZDpnEgUsQd2B9uWXaI-Gm6qKLeooi1AgMa9D-jf7CQECSOvoYzTA-PIr1UBQTwRSOXrAvayPQUnQTn5hZdXuMwba7Ba1OQCjMA5kQJENGsVu_S4U-82VqNhvYpDY13KkLeQgcaNNEwv3lSuJB7YeQVYemBhWKFgcBhRlZw0qgRo-XolhHEji-ud2KwqAPZl5RInhSfABNjg8jlzpbLOP3xiXD8gOmv5jrLND2m6Q2d5-2tFrfqdDRtoSAMjlRkRajgqantxqFi3Wh_OLLLCIHgxIOU7oBkUe_BWXRiBeJyGyrDixjkOjfRL0rU4aMb-FfA1ECPNnX0Hz_zueqh7Z0mx1PxlV0AUNbPHT80dAaKhBSdkjMYQLiUqyRY0KRf3lmRcqjvnGXzxEOxKNZUbEZA2YQrHwOrtkixmsmKFyGJXu51nMWF2drn6aFckp3rGpRfx___-NNZZFVVpe5dYg5vQJKmnMnRnMQrzQ",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJPwj3egD1K4gRhFx1GEvswWQ",
+    "plus_code": {
+      "compound_code": "FF8G+HR Waterloo, ON, Canada",
+      "global_code": "86MXFF8G+HR"
+    },
+    "rating": 3.5,
+    "reference": "ChIJPwj3egD1K4gRhFx1GEvswWQ",
+    "scope": "GOOGLE",
+    "types": [
+      "night_club",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 13,
+    "vicinity": "47 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4669979,
+        "lng": -80.5223347
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4683055302915,
+          "lng": -80.52112686970848
+        },
+        "southwest": {
+          "lat": 43.4656075697085,
+          "lng": -80.52382483029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "The Uptown Zoo",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 312,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110199682225947941415\">The Uptown Zoo</a>"
+        ],
+        "photo_reference": "AeeoHcKybORqVI2ZN7wLtZcUrE_JyHNwTKVNMxbu1VFl3Bo1WU3yId4380I4OD0rdUba6jguUGTEEIlUkFMVu9LfNlBHD6yqDTdsINlo3389tM_f5EDggwcNmW-7KVntN_N3zjlxmhShzGLR-9DKiiqOO5Za5vKpf_woMcdPZsAg6C6OgbJ-9p3n_6kQVHyA7D0j72vJ85yWi7Sm2Feyw2-29W_P4Zv6htKhehJbj529xiaYwp9vF-ImmFDU7izl8HXlUYPblazEP0JRSgLCRhsbPvKErs3G3XRG8cs0bI51n6nFmVQKMfhNCqzoxMbNIkkxYmM0U4vA",
+        "width": 820
+      }
+    ],
+    "place_id": "ChIJ6T2g-OfzK4gRMQifckFDEwI",
+    "plus_code": {
+      "compound_code": "FF8H+Q3 Waterloo, ON, Canada",
+      "global_code": "86MXFF8H+Q3"
+    },
+    "rating": 3.4,
+    "reference": "ChIJ6T2g-OfzK4gRMQifckFDEwI",
+    "scope": "GOOGLE",
+    "types": [
+      "night_club",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 46,
+    "vicinity": "56 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4670208,
+        "lng": -80.52252109999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46834433029151,
+          "lng": -80.5213442197085
+        },
+        "southwest": {
+          "lat": 43.46564636970851,
+          "lng": -80.5240421802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Empire Nightclub",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJK2xKPBT1K4gR60SEhnngvSM",
+    "plus_code": {
+      "compound_code": "FF8G+RX Waterloo, ON, Canada",
+      "global_code": "86MXFF8G+RX"
+    },
+    "rating": 3.2,
+    "reference": "ChIJK2xKPBT1K4gR60SEhnngvSM",
+    "scope": "GOOGLE",
+    "types": [
+      "night_club",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 21,
+    "vicinity": "56 King Street North unit 3, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46702039999999,
+        "lng": -80.5227058
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46835703029149,
+          "lng": -80.5214402197085
+        },
+        "southwest": {
+          "lat": 43.46565906970849,
+          "lng": -80.5241381802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "The Drink Uptown",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1427,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107096279172521454221\">The Drink Uptown</a>"
+        ],
+        "photo_reference": "AeeoHcL4Lo0f3PTvnNXcNc0nE5UMCUIy0EqxCujNe-kJEVkJDuuleyPkoMjCeGNOxyiHEOdAT1q02c-V2LpTXp6l4UEMW2JT75NYoKaaESmwjBTpHGRQIsxfuDY7AipD9DlgayvxCdjZhw2qAvTbqrprD8DflOcvoSQj2DJ5SQ6JvtGHLpILLLIqI7w-AEDKf6486CcFdvqIn1ouhcyyNnOm9QXLrHxxodoFIKspzx0wxwTAz4GsMK6d9z6GgJjDMJky_q0zZdAfEg2hz05cHjHX6Bsr1usNtUtk88Z2XsCOaTTKaHkDeMeh7tzrLhbUCAcNKtaMjOhfd-s",
+        "width": 2557
+      }
+    ],
+    "place_id": "ChIJn6eLTi71K4gR1CwEySm3YNQ",
+    "plus_code": {
+      "compound_code": "FF8G+RW Waterloo, ON, Canada",
+      "global_code": "86MXFF8G+RW"
+    },
+    "rating": 2.8,
+    "reference": "ChIJn6eLTi71K4gR1CwEySm3YNQ",
+    "scope": "GOOGLE",
+    "types": [
+      "night_club",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 232,
+    "vicinity": "56 King Street North, Waterloo"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 43.4682802,
+        "lng": -80.5201955
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46952308029149,
+          "lng": -80.5187936197085
+        },
+        "southwest": {
+          "lat": 43.46682511970849,
+          "lng": -80.52149158029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Geo's Anticafe Lounge",
+    "permanently_closed": true,
+    "photos": [
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102006368369170998905\">Felipe Gonzalia</a>"
+        ],
+        "photo_reference": "AeeoHcIedj_x4pGutS-TiJOyhLykLwXgtb5LkrAs3ZwUCiCuWbFSezy4eAIkYrfg-8e7_lGil6l8FEidlXPynfK3hhDHU9wMoOphWblIGEosJrWtkyaeOYCcifICyYMShXYKMfyacafEPR1AiMFrA-_BFSn8eM6gB_dvsIG7C61V3n6t3VbV0IxhOUGTHIHDvPcxB2rkMJhVQTotsHJHdOd6Huyh6cnR-eqmwTRd317YUEug4lEHuRzbHmL1mSvvSPNqxjHN98tgyuEePv1tQPtzngEjLTqf-tnHVOel2aRlorUEWWNYipZ1lC0tZQ6YS7UkpzSMS5tUYKtTFrYI_PhhNntIKJZUyDXOajqgRQOeJSSsbRuJiX42vfSXG_JaZgvLpbucpCSZ1TqpE697qtagbM3Eg9oczaS1H10rYWBFX7dVMtHBDHqWBZJVAtH9QYktHGAMeb17dwl8EpF2eT8GLPqFqGWxWm17EvbR7LS2xhtmkGxrVfL6jVanwiuV6SSHcTHZdwY9vDWbw5VxCW1XcCVoICODPJF-yEizPUH5Rnp798jMPlQXdhrHBArN4tJe1dlgdnB8aISehY_1VFAp0UY0B85i64XaMw-fhnRgzMBcstEEhZ9iXiN8kgZk1On6-DbWeiXg",
+        "width": 4160
+      }
+    ],
+    "place_id": "ChIJ3QuxFp71K4gR4jGihWFx3x8",
+    "plus_code": {
+      "compound_code": "FF9H+8W Waterloo, ON, Canada",
+      "global_code": "86MXFF9H+8W"
+    },
+    "rating": 4.3,
+    "reference": "ChIJ3QuxFp71K4gR4jGihWFx3x8",
+    "scope": "GOOGLE",
+    "types": [
+      "cafe",
+      "night_club",
+      "bar",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 12,
+    "vicinity": "42 Bridgeport Road East Unit 3, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.468278,
+        "lng": -80.5228892
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46960488029149,
+          "lng": -80.52170026970849
+        },
+        "southwest": {
+          "lat": 43.4669069197085,
+          "lng": -80.5243982302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Revive Karaoke",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114224073212879076999\">Nick Stanley</a>"
+        ],
+        "photo_reference": "AeeoHcIFoKMXv71q52DtGOT3GmuLdEz8qlxMcHmPVpZKn9CYHsagSrsxFj6GxzOFec2X8BtBM2zzBCyk5Wwb4XsLHjEqnGf4YvyQCFXMRa3NFxaPja1j-5fpEwjVa64cbeCTTLKp0UXIdkQxdDHPtupHJIqe7QbWV2j-VA6xJq6cRYxqCXu3futsNZSmAUfy48QtH1Y999Fy6laSP19lmnsbdo4GMFy59vK2daV6Iav4v35nKyQX9wnalBygnEhPdkm0_1EOXCFNBqm-b8rc0YYDkr_6g0uO9NRLSMaUeawije3YtIz9QOUucMru-XQiS0erb3Fv3LWp-h0-_Mpxf5-IVBsMrG6pz6o79Ku_QP0hWjRv5DE-FIU66s-Phv78TOlEOkGNhORUbxbXLiZ3ZO-SqXmuvEG5xs7jnXm6LTe01OEHr69xMFNbImRKzmagtZAi_EnwLRxFimtc5WrhfYhvAWxqql1rl6EbqKZY5MrWseWylbTzniyNVV1M1gKslyvg6zWteWyP7cgxxLJFTiIf0xDgPrmXijO-M7RLKHOSY1PuAfgVybQyfmHXyQKBQ4P9HJmijgR_hrBkKAwoqV56TVzjAYmD2GkVxNyeyIfTMLbv67hszCfnAC0XkVlcIJ0gfiozKw",
+        "width": 3000
+      }
+    ],
+    "place_id": "ChIJUW5LL4D1K4gRB65llOYgQE4",
+    "plus_code": {
+      "compound_code": "FF9G+8R Waterloo, ON, Canada",
+      "global_code": "86MXFF9G+8R"
+    },
+    "rating": 4.2,
+    "reference": "ChIJUW5LL4D1K4gRB65llOYgQE4",
+    "scope": "GOOGLE",
+    "types": [
+      "night_club",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 232,
+    "vicinity": "90 King Street North, Waterloo"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 43.4712359,
+        "lng": -80.53242469999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4726301802915,
+          "lng": -80.5309971697085
+        },
+        "southwest": {
+          "lat": 43.4699322197085,
+          "lng": -80.5336951302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Sirens Waterloo",
+    "permanently_closed": true,
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100588151515073046338\">Sirens Karaoke Waterloo</a>"
+        ],
+        "photo_reference": "AeeoHcIsiQWTSAPJFw1ZKeJ8uQjG0iCpXgFVDzoS3ihij3naezHfC_PRMmt0t-sO1yYtu3TWC5UxRHD7eTsjOYDKyWU3C7WxX1VVyAFaBUlj6BgrR31z8Y7FFnGce7LChOGl840AJSHQUUqJ84-ESDrgdg2u5Dw7p19A8Ycn1mHMVSP8LxXcoHyAia4tuvPpEMIoaX18jIiKBiuKsj1Ta0Rvz7_MpudIEOL_mNzsb-fGzaanZP5IImmUh1ERwys0b62M9TjV5k4_w4dV9sAnVQLMGXa8C6ejrppa5eFnPCHfj2B5EiGigK5mAXANgFR4wuD_wb64pBVM1yM",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJeTh6oQj0K4gRwOd6qnZNFao",
+    "plus_code": {
+      "compound_code": "FFC9+F2 Waterloo, ON, Canada",
+      "global_code": "86MXFFC9+F2"
+    },
+    "price_level": 2,
+    "rating": 3.4,
+    "reference": "ChIJeTh6oQj0K4gRwOd6qnZNFao",
+    "scope": "GOOGLE",
+    "types": [
+      "night_club",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 116,
+    "vicinity": "181 Lester Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4546916,
+        "lng": -80.5111142
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4560735802915,
+          "lng": -80.5097303197085
+        },
+        "southwest": {
+          "lat": 43.4533756197085,
+          "lng": -80.5124282802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Poty club",
+    "place_id": "ChIJx2-5FgD1K4gRqs1paJEbAzk",
+    "plus_code": {
+      "compound_code": "FF3Q+VH Waterloo, ON, Canada",
+      "global_code": "86MXFF3Q+VH"
+    },
+    "reference": "ChIJx2-5FgD1K4gRqs1paJEbAzk",
+    "scope": "GOOGLE",
+    "types": [
+      "night_club",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Park Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4766941,
+        "lng": -80.5254824
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4781196802915,
+          "lng": -80.52394956970848
+        },
+        "southwest": {
+          "lat": 43.4754217197085,
+          "lng": -80.5266475302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Pasha Resto Lounge",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 576,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101712971300462300170\">Pasha Resto Lounge</a>"
+        ],
+        "photo_reference": "AeeoHcJciidHuEkUWaxB03nUyPpWkYA7VPyVmJTvhJQ6FFJ2W8gHc6uqXI9aWCekxE-spf-0lmWaAQhbUftVCCQ4elUiX9-e--iPhL0Om-u-FZYyE3ThhGY2-FlXZLjVr8QMI_DwPZA6_G4RvTw1XBzou-0aShZ-iKtUM7I5gOKYieRIFIgDl1ONvcZBnBx43pzMNN1wUy0adWtiKaJDWZ7kyJ57AM7x4msd4j378rO2LxovkEnQUnIQc61UFq7BiOlhVA9O5d2xmrVZki3k6yrd_L0E2OHsnpVkaA_MLg4ZxWra_xr8pzTAXg0HKVi1J0Vvmql9EyQ__C4",
+        "width": 1024
+      }
+    ],
+    "place_id": "ChIJi9fdZTvzK4gRIhvEh_rA6Kg",
+    "plus_code": {
+      "compound_code": "FFGF+MR Waterloo, ON, Canada",
+      "global_code": "86MXFFGF+MR"
+    },
+    "rating": 4.6,
+    "reference": "ChIJi9fdZTvzK4gRIhvEh_rA6Kg",
+    "scope": "GOOGLE",
+    "types": [
+      "night_club",
+      "bar",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 1251,
+    "vicinity": "253 King St N Unit: FC6, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47712139999999,
+        "lng": -80.5248326
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4784353302915,
+          "lng": -80.5235927697085
+        },
+        "southwest": {
+          "lat": 43.4757373697085,
+          "lng": -80.52629073029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Pair A Dice Cafe",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111641851254820082135\">Pair A Dice Cafe</a>"
+        ],
+        "photo_reference": "AeeoHcLOjZfyELTW_W0aHRrXUETORtwp1MKaS7Liv9RGSjCyl1qTvH-JNW87dFVxONxR9WQio5At-yO79WLHi_ifCnKJU3v4n59cmLvO79l5zZPwvIYimcXon51FPoBEuBsbE_UaDHDjSYm5ZnSSjZm6GA-djsvhCiMUxzmECX8QfPANdmXgAWHU3x7G5cvJEUznZkOZRBJ6AdqBg_oehUmvDqBaNfhguYJdq-BCImIWa-cCeevRtR5_Q4AxdeaQriI-3jU9-ejBoEJCJJ7SXget_02jTEJ8S7lzU81pWJqA2WCbGkK-GrkhwJKG6d9r7O-t-5M2Ou3i",
+        "width": 6000
+      }
+    ],
+    "place_id": "ChIJ_-EUaPDzK4gRSfnWfAVxCJc",
+    "plus_code": {
+      "compound_code": "FFGG+R3 Waterloo, ON, Canada",
+      "global_code": "86MXFFGG+R3"
+    },
+    "rating": 4.2,
+    "reference": "ChIJ_-EUaPDzK4gRSfnWfAVxCJc",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "cafe",
+      "night_club",
+      "bar",
+      "point_of_interest",
+      "food",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 229,
+    "vicinity": "258 King Street North Unit 11, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4810417,
+        "lng": -80.52305559999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4823535302915,
+          "lng": -80.52174731970848
+        },
+        "southwest": {
+          "lat": 43.4796555697085,
+          "lng": -80.52444528029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Games on Tap Board Game Café",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 809,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110890274808953171109\">Games on Tap Board Game Café</a>"
+        ],
+        "photo_reference": "AeeoHcLVmsIibB1tM8qF-wDdSiPEhQtgVCaX0QRwSEJUcouyH12_rlJXBygwOVpzijTmYQq7trlKYt6KqYXXD4Mstq2PF6MRe-Q4fqsbebHkUFfL7G_xguibKKGnQjFkHKd4OoWGST0L3f1x0Xcsqfn4C9Am3rFgqw7_Likx8Vb7d69sOekSEYmPCcJLPIQJswZ7euviQtcEOsIt21R_0wLabK3e98pVE8eSCyiteDNhx1L0Qbe09imiIVysOb_JNGoKLjtkKur0bnL226amZ2zh3DLrq6cQ9akoZ9jzQjYfBzV3MUKv61Q2d0g5HLCEZNQuRtBWIueLtiY",
+        "width": 1440
+      }
+    ],
+    "place_id": "ChIJwxh4IPPzK4gRuIPgRNKmccs",
+    "plus_code": {
+      "compound_code": "FFJG+CQ Waterloo, ON, Canada",
+      "global_code": "86MXFFJG+CQ"
+    },
+    "price_level": 2,
+    "rating": 4.7,
+    "reference": "ChIJwxh4IPPzK4gRuIPgRNKmccs",
+    "scope": "GOOGLE",
+    "types": [
+      "bar",
+      "cafe",
+      "night_club",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 857,
+    "vicinity": "321 Weber Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4813921,
+        "lng": -80.5254824
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4827003802915,
+          "lng": -80.52411501970849
+        },
+        "southwest": {
+          "lat": 43.48000241970851,
+          "lng": -80.5268129802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Lilmout Lounge",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104597842887792121126\">Lilmout Lounge</a>"
+        ],
+        "photo_reference": "AeeoHcImY3fAGHPDdI7pYKABlNEPUpIZuio4xSmRoJ1-fP7jedlyYyXZNp0iYENDK2jknZomeklt_GMN0HHV0vuOxKB_nP98tEBCTF4onvr73dlXP5kraL0x861DHDTK8nGUgr1adwLczShEll8Gsq0GGeooyLlfgy5B5RrFxEyipWdwVybDw_9sIe0eUQLwIzPstM1GCTrg_YqU9lzw2DDnfnNkZkvAZ2ct8e4qdzVtPCH35BgOxDGm3X5Ha8IKdwRO6ALoMRN9YL0Lg0oL-s4jWx-MWpo8DdMqElSAyb2alCEe7qEewKxjMWbTDczP-0y3bYQKeIUEdpg",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJBWFhuS3zK4gR63Hd6mBUPbQ",
+    "plus_code": {
+      "compound_code": "FFJF+HR Waterloo, ON, Canada",
+      "global_code": "86MXFFJF+HR"
+    },
+    "rating": 4.6,
+    "reference": "ChIJBWFhuS3zK4gR63Hd6mBUPbQ",
+    "scope": "GOOGLE",
+    "types": [
+      "cafe",
+      "night_club",
+      "bar",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 73,
+    "vicinity": "354 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47149640000001,
+        "lng": -80.5453764
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4726598302915,
+          "lng": -80.54400616970848
+        },
+        "southwest": {
+          "lat": 43.4699618697085,
+          "lng": -80.5467041302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "SLC Great Hall",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113471006621208920475\">Mohsen Diraneyya</a>"
+        ],
+        "photo_reference": "AeeoHcImEurzfchGCJPbWbX3MrWTslz1uYxHzhTntpmLB8CUljUh5Zs87M_7gcN0ohWLDyhjKfpOI_-xANw6kPrCXNXywE9rkF6olsOCgucRP47T3fa9lLIplVqlmWbSztrQRoaR7LOe-CK4v-tDdtV9Ehzk0RFX50brihccFfrWcOoouG-ns-vMrYQV2GE_ZAbKBj7Z1YWu08gXertNDqE2NPRSCn5g8fjoUtlZwdwdqUBDHsCi-rs1s9tdPEqfL4n8LFSOgT9PgdERNEUUU_umqkZ9DfaYGGJqbS4AsnXqIAN4xQyMD_WXpzgFou-YzAhF5R3Jz3PncM29wXwXE_9tnHlnu7dIpVSbEHy0MG2aWT8m94d4TSnMzBqQJkVC-snFjLvnAg61W-JKxwxm8aQCthZzXHCqRhnFVdQKP4pxj9ArQvLc6OR5_xyABCyntozlcF8E-4jZcY3Y61XoKVPszR7Qwqz1TZZKCkVjw0CpzQsxOkEr_SSmpuYLY781XWIdxB21yZgdnwNZsZKuXBBtS0oLMUOZZa2sjUESOgkrZAl26bt8PtqMBTybnlVXnEIJSrc1WKfOJs4M0QYffU0vxSaFAY9redj5JIOU5fqLLpBp_1hDbHiQDq9yVf7xPjtka0rvIg",
+        "width": 1280
+      }
+    ],
+    "place_id": "ChIJVRwxIqr2K4gRl6AVcQMGIRY",
+    "plus_code": {
+      "compound_code": "FFC3+HR Waterloo, ON, Canada",
+      "global_code": "86MXFFC3+HR"
+    },
+    "rating": 4.3,
+    "reference": "ChIJVRwxIqr2K4gRl6AVcQMGIRY",
+    "scope": "GOOGLE",
+    "types": [
+      "night_club",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 104,
+    "vicinity": "University of Waterloo, SLC Great Hall #1102, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4526295,
+        "lng": -80.4986624
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45393513029149,
+          "lng": -80.4971403697085
+        },
+        "southwest": {
+          "lat": 43.45123716970849,
+          "lng": -80.49983833029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "The Dispensary Cafe & Lounge",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102598288886895888830\">Hanin Alkabbani</a>"
+        ],
+        "photo_reference": "AeeoHcLbWMljpPSjlmzCLKSAWwcmdlAK3ZxmtT_Sj98xa4M478PO0NrCGWSmNZ9rzONX_kS0zqoRQ746GwoZqL9Yd_tF7c_saOBfsb8g4_tnodidJmycd_TVHUhLTNm7R9mBRxH2FwPYy1fXeYEHvkegNLizhY2KqaPOQ9rtMasJDdjwcyGQslCwPEmYXGcsCIZCGJznsAT3VcjH4xA6qzP65b2WcVwPovdjdQmLgBqpE-10Oj7ZlEJNPBn-LCxp5wiMuSlYhfP7S0IyiKyVrkCFg8Zflk4-RUg-5mddZNkkyc9p_htbXtZsDwtT5qM64j2WLKv0MoSaIdL_BRMWs__OqLtvssuLTujHfCrFcCJN62EEiThqmbqiNEc3oOw4-SlpdprHvAbxdVoIlmtFLBZxC2495dFY8PCS-ThsBtZ-2pxJuIpo9m0SPXqA_DUblgwLwNJ0u2H1YVIFlp_5WcwLZQVKKZ48dMljUvWiHxcGWnousvHKYrCO6oCvByqRG9BxlfpXUnoHvIvAkK0iZ4b-ufT0nyOVnWtAETj6zU-wNIX4hl_CFqdtCzrIDtFR8doPOUAIKM61CyT38LxalP_frs9tXxDE8NrVcMhS6iPG8bx2fzZm0cpb3ICOhxis1sKU",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJGRXtWvX0K4gRj2dNlpBFSbU",
+    "plus_code": {
+      "compound_code": "FG32+3G Kitchener, ON, Canada",
+      "global_code": "86MXFG32+3G"
+    },
+    "rating": 3.4,
+    "reference": "ChIJGRXtWvX0K4gRj2dNlpBFSbU",
+    "scope": "GOOGLE",
+    "types": [
+      "cafe",
+      "night_club",
+      "bar",
+      "point_of_interest",
+      "food",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 12,
+    "vicinity": "10 Victoria Street South, Kitchener"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 43.45137500000001,
+        "lng": -80.4976636
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4527755802915,
+          "lng": -80.49613666970849
+        },
+        "southwest": {
+          "lat": 43.4500776197085,
+          "lng": -80.4988346302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Grain Food Lounge",
+    "permanently_closed": true,
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110118659515067149750\">Dave b</a>"
+        ],
+        "photo_reference": "AeeoHcIgBV2MFkOaXNy7tB2-0icwJVrOuLNH5Z2dzhdutCuyvlTw-n6mMsR-YmAXTFEU-R1j_HL07KvYfezXbWv8o7tyxvNFHAdUmG0arQtc8e9dhwGVFnFkk1ZqC3tshkK0A7XqVmZncH9FMyrNyWCsuOut5Uuk1FJ4C8RjApMA7EalWo9l5pr0E10_5dKKc4nBjTntxc3QBTWcKwActbnaV8ZvkCNNL23MwYVvNQhWXio3uzmH42YP6mqAQTJUplEJN31aC1WJTnCpj57DJiOojSxqvIpnqbnL6BSAtQfTSoEq2khIDlUwE5xlFTg5tcxGNaQeolpkMEPVA7pskl7iWQIdvFzcW2UW4K2_WGgYmdtfNYJ0d79GmFFOelXBEElQTc6l_P-Fd0HAF_2SzL387TmX0d_qHSqAJpfRuetcWsmUZnreNF6fPf6uAXA0zHpSJvpFd-vNfC8TN1kugN0VOTIHtgYvUenqYcR12qKLd1etk6KdMznEGr5ZWkFfD4EpdZM8qUI1tJjDm6zBwl9LHqdn2pdbI2DEj8XrlYUwxb1bTrskUcUFX-wVNsI0aA8HpNx7e3jZ-sYlJtFmQZw2j_RoQ12jLsLqO4PaII39859j-_-clMKai_lLpDV3nXfL",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ_yedKYr1K4gRft7AEkNOkME",
+    "plus_code": {
+      "compound_code": "FG22+GW Kitchener, ON, Canada",
+      "global_code": "86MXFG22+GW"
+    },
+    "rating": 4.4,
+    "reference": "ChIJ_yedKYr1K4gRft7AEkNOkME",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "night_club",
+      "bar",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 48,
+    "vicinity": "121 Charles Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45062799999999,
+        "lng": -80.4914888
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4520125302915,
+          "lng": -80.4901153197085
+        },
+        "southwest": {
+          "lat": 43.44931456970851,
+          "lng": -80.4928132802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Hub",
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110990918539352341025\">Grace Antler</a>"
+        ],
+        "photo_reference": "AeeoHcL3DM6njUz0wvdD6jqtMlvXJs8Kd8XNCT1YK2Fb7UQhu0HkDSTqkUuWE5POtTnmSpHBe1Cvyv7En7fx6c5e34cgdL42l7HgRmIuhvT1pvgqGqAoXZt3iP-ts63mNYxNUZibacNvkAIVkLffmWxtBVEBUe6pbRvABDwrCbYqCGXeXqgO9rbRr2xAeQLNUwI-fCpNBcava98sbyFDcpvQtsKPiyRBf5gY0h-cOGdcTWVxgbNedNNSYlDPKkjaeuyeYLV-Q8zC2LavsqS5bRRZS-afWI40VMt4w8UcanMoc6ln9zsG6YO5YOAOJtkw3uCsmJZTl0laxIsDQxztoTUPw5Je6jM7WfAjK6PxUVOIUtmPnm7kpKC0GWUndNSR5modJf1A9ycwiNUf_gQs4mQDQ_31iQtVmAIZjE7oaGllYeZc4VRfYs5uODDxzj74LgiXKz0DLNHYGyYVxWSMhg7SnCiu4GtE-mUI2HwM9b2i-V8ljGBnnKFbuRbTnNeDsYYmT51gdsu9aKYpWpFyBu_afi0UNb-4fnUFsGr93-PqIsMZ33TB_AkgtPl4x95TQmElSE0TOo-OWMtYt5_YvkzeYsDhkM-rF8yv2n9rvJkg9j27GuGnbubwE797bZ9SE-e9G2P8og",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ5XfD1wr1K4gRiq8RnAVn9pQ",
+    "plus_code": {
+      "compound_code": "FG25+7C Kitchener, ON, Canada",
+      "global_code": "86MXFG25+7C"
+    },
+    "rating": 4.3,
+    "reference": "ChIJ5XfD1wr1K4gRiq8RnAVn9pQ",
+    "scope": "GOOGLE",
+    "types": [
+      "night_club",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 61,
+    "vicinity": "125 King Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4865616,
+        "lng": -80.54017019999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.48787198029149,
+          "lng": -80.5388545197085
+        },
+        "southwest": {
+          "lat": 43.4851740197085,
+          "lng": -80.5415524802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "E Sharp Karaoke Lounge",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4912,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104042287983940070472\">E Sharp Karaoke Lounge</a>"
+        ],
+        "photo_reference": "AeeoHcIcuWwRnN7F4t_97fufyfDQ8IiCOOaJf4zkJToZ9HKZke5zWN5TjRJ1m7ftOELWb8qTQP-tUVl-SnZr44m-iQp5OU57X7Dw-elIZBgmSv2hb_NoZER4ZzCPFen8lRqfbDK-iIGOCPkNy-tiLkJrI0L6KXhTg_tAKOCW_tjFCXQpIDVFkRd_DSOh7E7a1V0gIUAa5kv3_8NyizeIv2dA6-QHfti3R70YiWbnrtW6YjxQFBYkNKlHTu3JKpa3n-19govTPDvx7KKejndCJMSx2RFd7eUZyt1BDm2aZCRp1NCZjtDJcpdmEnKbgRCcv24kheotQVjxdAk",
+        "width": 7360
+      }
+    ],
+    "place_id": "ChIJt3wv497zK4gRNyXY1g4kYrI",
+    "plus_code": {
+      "compound_code": "FFP5+JW Waterloo, ON, Canada",
+      "global_code": "86MXFFP5+JW"
+    },
+    "rating": 4.6,
+    "reference": "ChIJt3wv497zK4gRNyXY1g4kYrI",
+    "scope": "GOOGLE",
+    "types": [
+      "night_club",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 332,
+    "vicinity": "488-B Albert Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4592511,
+        "lng": -80.4816388
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46052713029149,
+          "lng": -80.4802451697085
+        },
+        "southwest": {
+          "lat": 43.45782916970849,
+          "lng": -80.48294313029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Savannah Lounge",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118141292848437638476\">Marta Borowska</a>"
+        ],
+        "photo_reference": "AeeoHcIE_YUx7XECovXovUh8ezKchG03UCqpDAttn2fmMCXeh-q-Lo-hNlJu7kGhW3voKpcjUasEfkSEjEc5I6n6dZEvgDXYhhP3Zd-85f4NmWDy5HyUSa2cdefAIyXR-xHjfbagpMaxZYH9R2QMjmVL3TGvLZvs9gykObiMtqaFFgovPj3ErfBsN0iAzU7OwTWQKfJcECZ8sK2RmHcOvdSDVdr5uQq_9eWllfM-ntTJRmUP9H895xYhSloKQkV7Vzz8mYPbKOPw1tcYif0cdl8Cy1JaAI-dMSw27G4QIY-Gg8E1MnLLrWkJu0bOZRBSMfckPlLaRYG5pvNXZGMt_C98jLv4sJtD04WzRLevpz0PRWy6qwp5xgHjXyp6DV9vJm5dkmsDsDtfy87sCTGCdOYIVQXfgJ_cIF5N_2o4B74W5q8zz0G3DbvjUTDSP46_NUPUCTlfv_2lQVKeln-hQds_hm2Cp0PNrjDM8iICz9pNiCDgBXZQvhfRYj5FyxJMfLKxmSsALDL4CpLxN9O0hHgouXzUXLrL1LO8ISGpuheVTBu6SjGC41IGRHFYe1GlYsS8RC8TcpTGocfxtjwVcdi_YCHPQfp9YIbMG0cfpGfXzQwcDrbDk27pIWRv3Ngw25xWJFgTU6XQ",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJDS3kvwD1K4gRLVQRYHqIvo8",
+    "plus_code": {
+      "compound_code": "FG59+P8 Kitchener, ON, Canada",
+      "global_code": "86MXFG59+P8"
+    },
+    "rating": 4.5,
+    "reference": "ChIJDS3kvwD1K4gRLVQRYHqIvo8",
+    "scope": "GOOGLE",
+    "types": [
+      "night_club",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 17,
+    "vicinity": "376C Victoria Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4486055,
+        "lng": -80.4859
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4498931302915,
+          "lng": -80.4845996697085
+        },
+        "southwest": {
+          "lat": 43.44719516970851,
+          "lng": -80.48729763029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Alba Shisha Restaurant and Lounge",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110758507604929545613\">Sara Sarfaraz</a>"
+        ],
+        "photo_reference": "AeeoHcKTyU3xLn9Ka5V776aYMbZZU9vMWuIYViDnWrtHyBLYR9rW3h0giGp5xR5P5kwK0WIXDm3cgq4Box8rx3yDFGSpb615LvYbWT9t-6sbJ0jPS-Dc1traNgGXwvRaOzsyatCJgSB0o2ZEjDr6d8QyhKR7JijsVxQcA_uoWLeRgaVN12GD1rnFxfSbvYk621EWUzmkLaetwCmo403CpcxO2iA-JBJbMPWSPdTYcDmm6VSNa6qNtfoKUwqjjJrEPFcDvam7ANzV8srjhThrVK1ZZKsFrLHKqrUbpfhZmH2D1Jp-PvIV444LikRLUgMTyF6ArW8LJbb_o3nhtqZEHpRsmACZGKHrPk_tTiqvN1JZWWy04RbYJVFKs5l-B-khWb3EQpJ7opkOjN4H-dQAFp9gdDTNXbiOEGyuexKeYaxOETVWOqvCj0Rek365f14CAj9Z9Qvt5B0m0wJpun6zpqXpwD5sHjZzRaHVzC7vamzmd5Eek5hGLPw1F3Eil17NqiLwGXhHVzUw_9nftfOq-n0DewyAgULj3ewTozT_ZONZT-n9Sin4-t02D0y2M63EoKfXqaBPkgPxdddd68YxRf0syFCAjegzubptKnQmoZkbUHla1wXmaHrlVvCPPPHJvhVwqhgwuw",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJfbK_kcf1K4gRkpt_b6G7wWs",
+    "plus_code": {
+      "compound_code": "CGX7+CJ Kitchener, ON, Canada",
+      "global_code": "86MXCGX7+CJ"
+    },
+    "rating": 4.1,
+    "reference": "ChIJfbK_kcf1K4gRkpt_b6G7wWs",
+    "scope": "GOOGLE",
+    "types": [
+      "night_club",
+      "bar",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 48,
+    "vicinity": "200 King Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4414402,
+        "lng": -80.4886073
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4428349302915,
+          "lng": -80.4872146197085
+        },
+        "southwest": {
+          "lat": 43.4401369697085,
+          "lng": -80.4899125802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Courtyard Rehearsal Studio",
+    "place_id": "ChIJdRecyvr0K4gRHGBZxgboTgg",
+    "plus_code": {
+      "compound_code": "CGR6+HH Kitchener, ON, Canada",
+      "global_code": "86MXCGR6+HH"
+    },
+    "rating": 5,
+    "reference": "ChIJdRecyvr0K4gRHGBZxgboTgg",
+    "scope": "GOOGLE",
+    "types": [
+      "night_club",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "141 Whitney Place, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4362959,
+        "lng": -80.4769493
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4376543802915,
+          "lng": -80.4755893697085
+        },
+        "southwest": {
+          "lat": 43.4349564197085,
+          "lng": -80.47828733029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "HB Lounge",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 666,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113541077270283769054\">HB Lounge</a>"
+        ],
+        "photo_reference": "AeeoHcKaySaMHocuWyzpICQmYvZUPbtG_oAguiRdSekKpg6abJEvH9I0aI_RfCfSY5qwXDe2nCiPwvoOyd-UNaEx7GUG4WUWE2837U91Pe-6bHtT4q3oVWNzPqUOwG2PTgVqt9dekNiR80fne2oZQK_HZhuh1yQPP0nIlf8iG5bgWgpY13sSnYAf1F5muXvF7Idflso9I0W1cSCsDxLAtVUf34JIdO7Lp_Q9Nz97SM_fyofHSLBRiWIwtcyfyJvla4MtseolruNfzNW8ttJxCjnLZYpzIstLxED7sSyuAY9-hIpOfMBoZNmD6Hjah1XRz3epaxzWgsq7_a8",
+        "width": 1170
+      }
+    ],
+    "place_id": "ChIJXb4E4a31K4gRoqnE4A0c4ww",
+    "plus_code": {
+      "compound_code": "CGPF+G6 Kitchener, ON, Canada",
+      "global_code": "86MXCGPF+G6"
+    },
+    "rating": 4.9,
+    "reference": "ChIJXb4E4a31K4gRoqnE4A0c4ww",
+    "scope": "GOOGLE",
+    "types": [
+      "night_club",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 47,
+    "vicinity": "241 Ottawa Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5109491,
+        "lng": -80.5212154
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5122685802915,
+          "lng": -80.51990011970848
+        },
+        "southwest": {
+          "lat": 43.5095706197085,
+          "lng": -80.5225980802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Browns Socialhouse Waterloo",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112884713513009459064\">Browns Socialhouse Waterloo</a>"
+        ],
+        "photo_reference": "AeeoHcKE91fBDk0bRuh5UBUmxwq-i6DTG7Rz3keWk8w4RTZJaT2WxHiXikqlDSvTX88_gtInUv_5_UhaoPCBiShhMN9eTfgbUXhB3QnhWLoz-tb0_N2QAFQVFqVzC4KD-4Dee8hjZ_PIADyNUnm2I-gCoh1JCgmxhaZmzs-aRFsR5m_nOXxpRagYKvzjlQMrEQttC4ypaHmweYJKM4pLKtsQ5iCopZtRs1WP1ATDXuLQl0__d1VGoNdCNSagJnUiWbyxzYX0FPFq3OizS7u1JIhbKAa6yWcNfN42c_SKqsI1OVC2wA6xlYUg-RDLG4Ff6Yfva0DtLmHue04",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJyZxyGgjzK4gRv6E2THbdL-U",
+    "plus_code": {
+      "compound_code": "GF6H+9G Waterloo, ON, Canada",
+      "global_code": "86MXGF6H+9G"
+    },
+    "price_level": 2,
+    "rating": 4.7,
+    "reference": "ChIJyZxyGgjzK4gRv6E2THbdL-U",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "night_club",
+      "bar",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 1656,
+    "vicinity": "259 Northfield Drive East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.43127010000001,
+        "lng": -80.43286979999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4324322802915,
+          "lng": -80.43140196970847
+        },
+        "southwest": {
+          "lat": 43.4297343197085,
+          "lng": -80.4340999302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "ماي وي",
+    "place_id": "ChIJuVcXR2GLK4gRO70I2gl_Xt4",
+    "plus_code": {
+      "compound_code": "CHJ8+GV Kitchener, ON, Canada",
+      "global_code": "86MXCHJ8+GV"
+    },
+    "reference": "ChIJuVcXR2GLK4gRO70I2gl_Xt4",
+    "scope": "GOOGLE",
+    "types": [
+      "night_club",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "164 Jansen Avenue, Kitchener"
+  }
+]

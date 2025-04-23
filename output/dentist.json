@@ -1,0 +1,2969 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4694716,
+        "lng": -80.5231858
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47079868029151,
+          "lng": -80.52200526970849
+        },
+        "southwest": {
+          "lat": 43.46810071970851,
+          "lng": -80.5247032302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Applewood Dental Centre",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3036,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113103337690212661376\">Benny Rathwell</a>"
+        ],
+        "photo_reference": "AeeoHcJbophuGIHuc_Xm4F_uG9LtDGVUq6GS3-5C5CuSXpKxe5ypbB21R_zrWaQ1tBoa0wjMYSi_soIqufc3hJRPm2LbM_eOWoqCjdKDPJ00MBg13JomBJn3jKVl_bhCaWuQr_YMmlGVsW2NEpSq7qc995nDaG8wPikn5Fk-LAn5VIyy1lR__YBTum-Jg447V_ui5Wy9cJlDVQOSbrN6tGcsEoUmCr1YTfWbOzEOMZVFAjL5hznz0nkW0AQxcHvly0-d9ESGOtCHqIcDniGJgh8ZabriwA7J8osJqqTVrVNhQ3HEhLrtuygesgOtwpyP_3jqsno1Xhpbg182nhzPcWqYcgtRgRkZ5SIKIQyCGYdRsLpeCQs08uH4NB3SX5yS_odgsFofWOn0fKuSKLbBXxWbKFMzzHVA2W0iJJ6G6piPaERXwthnqYbtJgK4Px2vLA3eNHmA2cGMsTgOLiRihwLbY9XjPctw4OxvI2s4LXGuG9W4lxV7eEQX3kenVJdBSLszmP9xtq21aldf6WffxqVuCvyFa7Id_E8NbumcEENe0y7wDkgIp-b7mR6ntse_Ex8eugVodBzzSSPkHJB0M0mbW7yKBy3jlURkgJbpjndlYJur8ge2i99lphPV-5W53kyeQAvvhw",
+        "width": 4048
+      }
+    ],
+    "place_id": "ChIJG4KBZAv0K4gRwgX6osnsBd0",
+    "plus_code": {
+      "compound_code": "FF9G+QP Waterloo, ON, Canada",
+      "global_code": "86MXFF9G+QP"
+    },
+    "rating": 4.9,
+    "reference": "ChIJG4KBZAv0K4gRwgX6osnsBd0",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 127,
+    "vicinity": "118 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4688158,
+        "lng": -80.5172798
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47013888029151,
+          "lng": -80.5160454697085
+        },
+        "southwest": {
+          "lat": 43.46744091970851,
+          "lng": -80.51874343029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Waterloo Dental Centre",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJq_VZ8XP0K4gR6zOtDP8E3z0",
+    "plus_code": {
+      "compound_code": "FF9M+G3 Waterloo, ON, Canada",
+      "global_code": "86MXFF9M+G3"
+    },
+    "reference": "ChIJq_VZ8XP0K4gR6zOtDP8E3z0",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "60 Bridgeport Road East #104, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.447584,
+        "lng": -80.484247
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4489774302915,
+          "lng": -80.4828633697085
+        },
+        "southwest": {
+          "lat": 43.4462794697085,
+          "lng": -80.4855613302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Goran Rakita , Rakita Family Dentistry",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 270,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101059548261685085431\">Dr. Goran Rakita , Rakita Family Dentistry</a>"
+        ],
+        "photo_reference": "AeeoHcJSsfc0NaEyQTzKw9i_SNotwId1iKqiLR4jlh6FtdggghL4PIIELa4eb_l0jDlyc61GG_F7naxBBdAkuMspjF96cnju8g4_DZq6oUMdxhxl90vlqfPBCDCf3Wt8GImqopa7zFVKW9MdCLbOkdJYiVIw7xVXnOHhsUuxdlWozZ_z6l98JScuH06D9-nLvciWlfCo5LkFcfw82wbzoMmspes4-cnGdrdOfbQB7YrASNbvfanlv0jO0XlWX4DK1L7PCBHO0rs_tSVWZUG3DtawU_extv2s-EFC6SmF-_HoJZ6g4HlpDtleU-UO4v7BnO-5Vc2hLnIoL60",
+        "width": 480
+      }
+    ],
+    "place_id": "ChIJm20BGOz0K4gRMF8jVerW5TA",
+    "plus_code": {
+      "compound_code": "CGX8+28 Kitchener, ON, Canada",
+      "global_code": "86MXCGX8+28"
+    },
+    "rating": 4.9,
+    "reference": "ChIJm20BGOz0K4gRMF8jVerW5TA",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 18,
+    "vicinity": "301 King Street East #205, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4523666,
+        "lng": -80.5556122
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4537205802915,
+          "lng": -80.55422901970849
+        },
+        "southwest": {
+          "lat": 43.4510226197085,
+          "lng": -80.55692698029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Carere Vincent P Dr",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJA_LIGpr2K4gRcDx3u4r5ex8",
+    "plus_code": {
+      "compound_code": "FC2V+WQ Waterloo, ON, Canada",
+      "global_code": "86MXFC2V+WQ"
+    },
+    "reference": "ChIJA_LIGpr2K4gRcDx3u4r5ex8",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "450 Erb Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.42933980000001,
+        "lng": -80.53094050000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.43060848029151,
+          "lng": -80.52953296970851
+        },
+        "southwest": {
+          "lat": 43.42791051970851,
+          "lng": -80.53223093029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Westheights Dental Centre",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 5712,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100041496990278447080\">Westheights Dental Centre</a>"
+        ],
+        "photo_reference": "AeeoHcKYVVmpIExm0L2uY-jdrGE8bzbL5uB7td5t_Ycvqe43A5YMTz6QzxtYCn6Xpo8FnkmE0_RfrnaTjDQ4ebznsAsTEwMpQDMafLSeX80hBPmmGU4kIzZzr5DAnJcgqOfYpggr88U8cbWNoun02NHFZ8GTh5fAtQSL-oOz763fkqVlEZe2ndmjgY4lYPmA4S8zSUnqJvMmaT_blgjr3G6_nx9ixPM3Ocj_KmO3KOB2aUJkiO926YNTPrdjZznwE5pZ351rzRdmcVN51QuxbbjuTmlpty17QADCdWNfkvPVKWdaO0mKAkLun1MlmXgve0irl168WAGPVD0",
+        "width": 4284
+      }
+    ],
+    "place_id": "ChIJ4ekLNc71K4gRBreMVXTiX48",
+    "plus_code": {
+      "compound_code": "CFH9+PJ Kitchener, ON, Canada",
+      "global_code": "86MXCFH9+PJ"
+    },
+    "rating": 4.6,
+    "reference": "ChIJ4ekLNc71K4gRBreMVXTiX48",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 197,
+    "vicinity": "#103, 10 Westheights Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4961134,
+        "lng": -80.55070839999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4976142802915,
+          "lng": -80.5494006197085
+        },
+        "southwest": {
+          "lat": 43.4949163197085,
+          "lng": -80.55209858029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Waterloo Dental (formerly Northfield Dental)",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3168,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115078826306454436661\">Waterloo Dental (formerly Northfield Dental)</a>"
+        ],
+        "photo_reference": "AeeoHcKOzeRaYPK3hu75-kSzXeaE5mTBnGiPDx9Vg3qvsy-FDCz_QqFqGiyKqO9BQnRdkapwh-SwdN0eVlHlCVpGX44AoUnrT7tbJEH21MoGaM5QRnpSLaLB4FUok9pBeHqC4Q_C4rgkdqD6KBkE62bdjCaIw6FqJ9NCddsbi0cq_NzQfde3-FXQGODbtzbT4dUQk_RjB-6UxJ1p24_RjqBv932wzyK-ZoAas10XxfJzAG7I3UBQn3SUKU82ruYOURV33NGJ9yCBhTnlWtTEP8iiZvryxgKQ7D6alvo-yyAUfQNZ9SCqUka_SclspNxZmgIuttSvTtOY6ow",
+        "width": 4752
+      }
+    ],
+    "place_id": "ChIJBbwKTWfxK4gRa4ES0Ns6Ay8",
+    "plus_code": {
+      "compound_code": "FCWX+CP Waterloo, ON, Canada",
+      "global_code": "86MXFCWX+CP"
+    },
+    "rating": 4.7,
+    "reference": "ChIJBbwKTWfxK4gRa4ES0Ns6Ay8",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 365,
+    "vicinity": "585 Weber Street North #5, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45953590000001,
+        "lng": -80.4700632
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4609801302915,
+          "lng": -80.46876871970849
+        },
+        "southwest": {
+          "lat": 43.4582821697085,
+          "lng": -80.4714666802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Tao's Dentistry",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117137193641711273178\">Tao&#39;s Dentistry</a>"
+        ],
+        "photo_reference": "AeeoHcJTdEIX0SF3kHDoO29uyVsPemt3jKEDMEDkYPgYyq82912mehSWG1wKCfFPV_SemPH7qOhqYEn5NvZr5G_GY6T449WyydJVAKcaIjaKxyM-Nx7hQeBbbZn-6IJrEjFCU8FrDqvNygqUEqgWG3wOGyHxM0Ydl703UpUf1rK0bOGAx2zEsa2PBJFHm9GXrI2dAS3bZHjwA9VGF2kAZ6dMaIZ6jFnlB8eb3VlfRqva5LVr3ZwPqvA2gzPXSccE_KsRVq5CFIGr2o0oXUC_w_KZdmfQUpurObC4gDGKALMn9A2mQ_5n3rf7e43WIsbCyH8SY0phQ97evrE",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJhQEDObv0K4gRF5c7yZmpUOw",
+    "plus_code": {
+      "compound_code": "FG5H+RX Kitchener, ON, Canada",
+      "global_code": "86MXFG5H+RX"
+    },
+    "rating": 4.8,
+    "reference": "ChIJhQEDObv0K4gRF5c7yZmpUOw",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 93,
+    "vicinity": "526 Frederick Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4263387,
+        "lng": -80.5451059
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4276807802915,
+          "lng": -80.54380086970849
+        },
+        "southwest": {
+          "lat": 43.4249828197085,
+          "lng": -80.54649883029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Winter Patrick J Dr",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ36S0LnH2K4gR1ez3VpRIRIs",
+    "plus_code": {
+      "compound_code": "CFG3+GX Kitchener, ON, Canada",
+      "global_code": "86MXCFG3+GX"
+    },
+    "reference": "ChIJ36S0LnH2K4gR1ez3VpRIRIs",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "420 Westmeadow Dr, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5062054,
+        "lng": -80.5413124
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.50770018029149,
+          "lng": -80.53971721970849
+        },
+        "southwest": {
+          "lat": 43.5050022197085,
+          "lng": -80.54241518029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Barth Dental Laboratory",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111163270083144688979\">Andrew Barth</a>"
+        ],
+        "photo_reference": "AeeoHcK2TsBjq_IJop4TO3gG8ptKXe4ShUAqazjRQ2qQg8YOvsEcXv7xvU2oPq0MtCkX8p6hZ7sI0qFKbCz_QOC1LAmKyPm8zec8UNjWmV8FKNcoFi4pNTLRCyPtfFqy5Vu9KLhHP2eJFk4YJO0EVYR33GiUr7RuxvGZ0NSH3x-E7-ks_9YUUwBnPkbX21mCP-dab6skg0dlutCdqSMiDzOUlUMXLZqYkHHijaOZrNVO9IJnwU5OBsK6g36EhLUZ81KkDqWYXK-L9W-fNiQYyKIL5keRVetKMjgFjcO42jiwVA0u9YuxdlR_thP3tFMn9L14aV79xz6ck4OIlWL0KwGYtrgN8hFoc2sc7eyuSCx4jULvxrUpQLlZ6GbKpoIvmLgsu3dmzrQdjHTdfVfkHvPpS2UOXiJOXF_Y5zjbndn7XaCSBiNX1pTftL5zT_xeZnf8iGlMsWth9CYkHR1GgbcVOhzWdFbAKIhtrMzcwxIQxhLk5NMACYebxvxD_oHbs8YhAiYLXIEED_mFkJa8TDM8UNpNWMj4f3Vh_J5bwnyKo3ShoaWB0Puny2WcaiTPGGpdKWFZ4Tem-R1UXB0_GVSgRtKl42RHq6pBaKxMdlRhD71aBeAJOvQj9pl6XHjtyvPrNre4zg",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJDcwEANfzK4gR80qmFw0iJWw",
+    "plus_code": {
+      "compound_code": "GF45+FF Waterloo, ON, Canada",
+      "global_code": "86MXGF45+FF"
+    },
+    "reference": "ChIJDcwEANfzK4gR80qmFw0iJWw",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "3-634 Colby Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.462431,
+        "lng": -80.5254561
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46391633029149,
+          "lng": -80.5242149197085
+        },
+        "southwest": {
+          "lat": 43.46121836970849,
+          "lng": -80.5269128802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Chiu Dental",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1012,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112352111184121599187\">Chiu Dental</a>"
+        ],
+        "photo_reference": "AeeoHcKwXYwi8YCGMtqdQ77gM6F7uPUlX0B1mOiqkLl1zhOFEE-EgWSmkYbQH9XuK8IMv2Fxtre9ZTlab5MyAYewozCXsNiRUbcnSlc4wxNNBw23C19v2b9cdX8vx-d26S7SWDPjMMkSZ_KBHUvnIP6ONKUw5Yu4a8uW2CIXnvL0itsRjaqbFHXcaNJ_TLbn2Su7foTVklc5AHNyOHceI5m3hddLwht-pdjiuVcdB8lxabfD_l7cDJJ_mGdg3LDWhLam63mv4lXBLG8XLUEJt2SPhHNM8ZiFqukl7SBtDqeCIMc0nOk_m1pR72UBVYefyFETwDVMFOLqYU4",
+        "width": 976
+      }
+    ],
+    "place_id": "ChIJhdhKSxL0K4gRreE3jYyjtNk",
+    "plus_code": {
+      "compound_code": "FF6F+XR Waterloo, ON, Canada",
+      "global_code": "86MXFF6F+XR"
+    },
+    "rating": 5,
+    "reference": "ChIJhdhKSxL0K4gRreE3jYyjtNk",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 126,
+    "vicinity": "5 Father David Bauer Drive Unit 113, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4249987,
+        "lng": -80.5108502
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4264125302915,
+          "lng": -80.50947211970849
+        },
+        "southwest": {
+          "lat": 43.42371456970851,
+          "lng": -80.5121700802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Greenbrook Dentistry",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101463067163890227083\">Greenbrook Dentistry</a>"
+        ],
+        "photo_reference": "AeeoHcIVo6CZORL6SaxZUMcXoK3VxWQfWvvyqGhe4_NxontHrzWV9uatYR-AlJwzgmZ_GZeNXcHJIc_ftgej_2sb3vTOV7QyGofNPkMRR93w7_icsC_TUpny6yRcBF_4QE6Ri17drWWnMXDNw8h428ekNlAFCSRXm62o3IBf_AQnIHMmUi9_bXxD8ljp6Z7sDFFmhD3exBSQau-hCzYbTAz-ATr3DxZa5crUCoPogRohMfx5p27IFIRdahD0he1rVJ0BQZY33YGI8PpWlz8K_vHY1T-22KNi-klmailHlE--ZTWSgywQNqs3CftuVC1aSmqdi562hYe4",
+        "width": 6000
+      }
+    ],
+    "place_id": "ChIJNdQVGbD1K4gRcqL9SezR45A",
+    "plus_code": {
+      "compound_code": "CFFQ+XM Kitchener, ON, Canada",
+      "global_code": "86MXCFFQ+XM"
+    },
+    "rating": 4.2,
+    "reference": "ChIJNdQVGbD1K4gRcqL9SezR45A",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 35,
+    "vicinity": "421 Greenbrook Drive Unit 23A, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4468529,
+        "lng": -80.5706439
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44811548029151,
+          "lng": -80.56929671970849
+        },
+        "southwest": {
+          "lat": 43.44541751970851,
+          "lng": -80.5719946802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dentistry Plus",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 483,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104969179525830259260\">Dentistry Plus</a>"
+        ],
+        "photo_reference": "AeeoHcK2W_3o8i-zJrvk4BQcJdyGEd_PfabLQtyevjpr3B16FH4BS5hngX9mhBS4hdmQ0i7w9XU6Qb7Af7r7j1KPh4MlHK1mChYjXcoiTXhJcEF54CY874v__u_Zjj8qPaff-smErxdETkMWi7_W77te8j5fpraUkDNvBBQCtAN2KyQoIqMQaZW8ITLjfegFd9DAhjG0LUbQoqyeEhn5pbBqFY6nZf0armq8ot3-fN7wbEgZFXth-pgjQhhs3OGpyl1j3XrIBkLQdIvk2thLMFD6gWLh7s5Be8v-dKj8z2lJ_xToPslRxgLxjI3QdPs6ANEwnuoXWy186n0",
+        "width": 725
+      }
+    ],
+    "place_id": "ChIJS3FsYfH2K4gRt11zDvb2S9E",
+    "plus_code": {
+      "compound_code": "CCWH+PP Waterloo, ON, Canada",
+      "global_code": "86MXCCWH+PP"
+    },
+    "reference": "ChIJS3FsYfH2K4gRt11zDvb2S9E",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "646 Erb Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.43760149999999,
+        "lng": -80.4595051
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4389957302915,
+          "lng": -80.4580676197085
+        },
+        "southwest": {
+          "lat": 43.4362977697085,
+          "lng": -80.46076558029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "King East Dental Care",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114109298179442429126\">King East Dental Care</a>"
+        ],
+        "photo_reference": "AeeoHcKOUMZ-DCGogEghe1PB4AVpxaBZhJ2GTeoX62la2JrdD8hJ2yiYMiZGIBnCDHStLP_Cx3gboK6NMgo_jhKnFzUZVNqiMdgEt5DGKdQfEPuS1JNF9nsIZafFFguzr-Rhivy3gn3TG2waGMOP0FZ9T90DNTcPupxx-r9voOEX4fs9Ht2TncXxGEC-C6hU8ZsR14F6c3CUwjWFved1RGFs1PIK5IaGv0YL8Ab-74ooy11zfUOS_Exs1ba-1wDvOfuNWF_mcQYsRj2BWXgLz5rptFMWYg2yjK4bcszEXHk44TaqGnKmxCpDdEa9-FTxlOWsTkN0543-ocQ",
+        "width": 3070
+      }
+    ],
+    "place_id": "ChIJHw7iycT0K4gRP3uC06WUSew",
+    "plus_code": {
+      "compound_code": "CGQR+25 Kitchener, ON, Canada",
+      "global_code": "86MXCGQR+25"
+    },
+    "rating": 4.9,
+    "reference": "ChIJHw7iycT0K4gRP3uC06WUSew",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 276,
+    "vicinity": "1780 King Street East #3, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4522343,
+        "lng": -80.51759109999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45362798029149,
+          "lng": -80.51611831970848
+        },
+        "southwest": {
+          "lat": 43.45093001970849,
+          "lng": -80.5188162802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Arnold Fleming",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3264,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110347332453591134117\">A M</a>"
+        ],
+        "photo_reference": "AeeoHcLbRWWAFtuHoS22VZnxYS8qcMZvv1wnDrNXgoU7IrrHOG_4U8OSxyBKCjntQjJy-v-RALrccFly7ZplS_YVIkHsAWz5INmyIxWlQYo1lDakgwhUqbb9y18iCTyeY5rv_9CxbRhlbQeOq4yKXnKZKP_MpQtc7K97qES3pdLYJIWh03kwO34j2xp_BcVbYlsf6CH_e54F5-BzCGFKH4TOOfRLBxeYgsd3Wz5ml2x-R61irnwxDcldMjvgnSXmqUUxMKKEuxDT85wN0_3pR6B4ObVBP_SepOO7NXI50f_iT2nNjFQs5cLpKwJDEHXiPM79iaJrmHLfVp4JI3dct-2-MK0gJCCEO9bRADmLDpkubQH_Uf-RfJevRJAlGP2HCntzR70GThIoL1Qv8cR8Z9jAPvRfyJ6SH65LdGqMPWIGXQJDZRva0U2QZ2egP6HEpIktFLduxtRrXeZfEx2f17JAa51kfgFWeAosnbofoItPkkUleXMIcKHN61c7qnnoaBgOGWskaBEHrQ_1TEH_7kllim-Zvj3W9NCYsV3xfPor8pcEbFEZFgnp_GX4eW_PB-aqqo_wlrsBEA0IVjSQOFuXd-aLgaI-4B-C8XEZ6ZW9kjfh8TGgFZpcxBNDQN6FY6P3",
+        "width": 2448
+      }
+    ],
+    "place_id": "ChIJPdHFmEH0K4gRAZDTvf2qFTg",
+    "plus_code": {
+      "compound_code": "FF2J+VX Kitchener, ON, Canada",
+      "global_code": "86MXFF2J+VX"
+    },
+    "rating": 4.3,
+    "reference": "ChIJPdHFmEH0K4gRAZDTvf2qFTg",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6,
+    "vicinity": "657 Belmont Avenue West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4770981,
+        "lng": -80.5256898
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4783280802915,
+          "lng": -80.5243585197085
+        },
+        "southwest": {
+          "lat": 43.4756301197085,
+          "lng": -80.5270564802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Waterloo Dental Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3741,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100264854495775585226\">Waterloo Dental Clinic</a>"
+        ],
+        "photo_reference": "AeeoHcJnB3nq_GB9P7p_AelNiX3QrJ6g53OPuHlmebf0Gf6Na7Fs89jaCnvWD4NedYFtIrFUiba0qwxpnrSLWjaXElwGAkjp0RKGdgy0PY7YF5kbwCzx6NLyz5SImyf-6jedPttGkdlhmlbeV3wmsxsi3B1PqjWcAzgBzXC4CvArku8EhJHB6_hvN6vNEDCSdHKHKoU-0qsyTYyC60XJQL3qCOvi6kEQ9_Qib8MXyyUN_RnUTlQBB2IUm8SK71G9GNH62DCwKN7DkPY_Qq64K6HKdxnN2wC-m6Fz6Uc79hnv0mfwJIjrtXlxUEPPU7JNcDvH7uxAJixIbR4",
+        "width": 5612
+      }
+    ],
+    "place_id": "ChIJk2a2SfTzK4gRBCWNBjheyxc",
+    "plus_code": {
+      "compound_code": "FFGF+RP Waterloo, ON, Canada",
+      "global_code": "86MXFFGF+RP"
+    },
+    "rating": 4.9,
+    "reference": "ChIJk2a2SfTzK4gRBCWNBjheyxc",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 14,
+    "vicinity": "255 King Street North #204, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4953651,
+        "lng": -80.5009918
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4967364802915,
+          "lng": -80.4996045197085
+        },
+        "southwest": {
+          "lat": 43.4940385197085,
+          "lng": -80.5023024802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Bridge West Dental Office",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116508611527836892913\">Bridge West Dental Office</a>"
+        ],
+        "photo_reference": "AeeoHcKP598dshwUDoTNtMiwo2xsnKQcq1NZNn1dEuzjxWDZcv4edjf9VSQXyszz6QRB9pVDuXrTZckLxMOhO5EyRJBsi2YS7dy6fDwUwbJUnSk6295cya0b3g2hmedji76ZYM3GtkjfmkUfDmNxP9YvqJIN2JqU7U69S9amElDtpBUAAKD3F5yI-IOnxkqvNUZntwG-g9lHA8cBmRYRDfEt6vsxf9MxYcdctPlT-BpXJ6Wz0TkwT6l0mSpwlqEXNQMzPlWA99WhgqTVNSMRapraSVBBWZddr4bN2vu9xfbGMUJWvl7rPWxdn_UpW8pJ9NczA9gOl4CNXwY",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJd7-rzqDzK4gR0JGGy9scsck",
+    "plus_code": {
+      "compound_code": "FFWX+4J Waterloo, ON, Canada",
+      "global_code": "86MXFFWX+4J"
+    },
+    "rating": 4.9,
+    "reference": "ChIJd7-rzqDzK4gR0JGGy9scsck",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 109,
+    "vicinity": "373 Bridge Street West Unit 9B, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4626184,
+        "lng": -80.5288346
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4640452302915,
+          "lng": -80.5275186197085
+        },
+        "southwest": {
+          "lat": 43.4613472697085,
+          "lng": -80.53021658029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Huay-Leng Lee Dentistry",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103177136806073636615\">Dr. Huay-Leng Lee Dentistry</a>"
+        ],
+        "photo_reference": "AeeoHcIkaxf5YbTAXAZbBC0Hd-ASF6B9sxtjWtC02QuIUAF-sLzpGBaoHYdxjLbhuJmfWTzqCyNmC4tesgBhk-S477Ri3HYTQBJkB_6gH5TusSt7wwIx7Yoyi-Zm73_LYXqNNKSG9UmmLhdtWy6Gn2cNoxlr0-o-BwgIvtMWeaaJ9bfU0lg_4chh5zr7QPYFx1LSns5mIUwgyYWKJv5S2qPYfa_OsgvFCv_x71YHeHn1DJYuHOc8Jr-OnzuPjhw9o1FcjoImVNy7BjpWG3IsV9DtgTC1fJ02UP5X3ZIONcFtG13HlasqLaFDFr-YTvlLac1bghiPlKfHx6w",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJw_tOChH0K4gR-pl6iP9sqZc",
+    "plus_code": {
+      "compound_code": "FF7C+2F Waterloo, ON, Canada",
+      "global_code": "86MXFF7C+2F"
+    },
+    "rating": 4.7,
+    "reference": "ChIJw_tOChH0K4gR-pl6iP9sqZc",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 12,
+    "vicinity": "3 Menno Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45129600000001,
+        "lng": -80.4899435
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45260148029151,
+          "lng": -80.48848746970849
+        },
+        "southwest": {
+          "lat": 43.44990351970851,
+          "lng": -80.49118543029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Tucakov Ivan Dr",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 523,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103105191019965103313\">Tucakov Ivan Dr</a>"
+        ],
+        "photo_reference": "AeeoHcKMM8K_M00V1yPzWOsJujV_aCI-KgABLTey_J3IHnEjUw67KyTnMvmIRR9wUxqqoDsZMdg7Z5qX4HmawDCEgEYntXaRIdRb5xP3C32jrNi321FuNhWVPQecvYCzb1mfI66LYzFTeavTBHT06nCPpOMUIuq5NpLbjstPFGsKK_2r1fyP9Bj3oaGF0GbkTTK10-bjH5z1WG1Wipif4_oX3T5fNzHDEs-fEmYQbs6cssv638rBPqF2_xwjO6svhZmdRyufWT5VcirF39LIiyqKDr4Ekyl2hhgUjgCHxvDjgG-yCzsHaalz_pAqGQj-uO5cApkmCEjy",
+        "width": 1483
+      }
+    ],
+    "place_id": "ChIJ__eqwPL0K4gRcVwB8tyfiRk",
+    "plus_code": {
+      "compound_code": "FG26+G2 Kitchener, ON, Canada",
+      "global_code": "86MXFG26+G2"
+    },
+    "rating": 3.4,
+    "reference": "ChIJ__eqwPL0K4gRcVwB8tyfiRk",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 43,
+    "vicinity": "60 Ontario Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4546467,
+        "lng": -80.50449440000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4560091802915,
+          "lng": -80.5031804197085
+        },
+        "southwest": {
+          "lat": 43.4533112197085,
+          "lng": -80.5058783802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dentistry On King",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJRyVPymD0K4gRaThHZBPDuQw",
+    "plus_code": {
+      "compound_code": "FF3W+V6 Kitchener, ON, Canada",
+      "global_code": "86MXFF3W+V6"
+    },
+    "rating": 3.6,
+    "reference": "ChIJRyVPymD0K4gRaThHZBPDuQw",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 14,
+    "vicinity": "679 King Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4511487,
+        "lng": -80.486037
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4525383802915,
+          "lng": -80.4846720197085
+        },
+        "southwest": {
+          "lat": 43.4498404197085,
+          "lng": -80.4873699802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dental Solutions - Dr. J. Gangwani & Dr. Mike Narayansingh (Orthodontics, Cosmetic, General, Emergency)",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4480,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116244239623490123121\">Dental Solutions - Dr. J. Gangwani &amp; Dr. Mike Narayansingh (Orthodontics, Cosmetic, General, Emergency)</a>"
+        ],
+        "photo_reference": "AeeoHcIpKyH_c2i4JaL3fwfx6oO4UodWCDKU2MM6QOYZ8kMHxa8R6jdArMF1KFogWQMJ5Huv4TLo1-V2zwwdh_R9jzszaIZ316ArWQ8nbfUnf66bEF9c-cj_sylWYJVQk7qEVdehEPq2ncHMGbsbJWrTTNEg5y55f_OAjW1gTXCulhrAN3I7uhf_vOYIKvKoBQsv38sljETO7TYE01Ey8X6q32Af-kbDewTA9wnGZPAXTHhMH96olG6b2JQ-kx7eCX6oQYAK3uwDn4pxBs1kTUnljMdQ9NZL8rUnlTwYsPWQZt6XLVMv5Fhxfxi8QLK1Mm5F9HOID1keRZA",
+        "width": 6720
+      }
+    ],
+    "place_id": "ChIJkSuHk_T0K4gRl52I3TROdSw",
+    "plus_code": {
+      "compound_code": "FG27+FH Kitchener, ON, Canada",
+      "global_code": "86MXFG27+FH"
+    },
+    "rating": 4.6,
+    "reference": "ChIJkSuHk_T0K4gRl52I3TROdSw",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 93,
+    "vicinity": "97 Frederick Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4489078,
+        "lng": -80.48561269999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4502841302915,
+          "lng": -80.48433271970849
+        },
+        "southwest": {
+          "lat": 43.4475861697085,
+          "lng": -80.48703068029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "King & Scott Denture Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102824176067937656860\">F. T.</a>"
+        ],
+        "photo_reference": "AeeoHcLbn990WjZ13GThRaZE3QpWIw1dFaPLyKwFD9oZrazqxIg3O5ecMdsrkwEan5Pcr2o5rof19I6oRGX5vIVUYVYDdiVA4s7C4DY9NbigtQ5MZxw9kt_LdD3OHt3R0xyIYTbxf9_67KeqT4sNYEsOg8wIIOruJpqHvjxlt2TbV7qxzhCkOshuFPfNPterQv695ipOoFx9lqK3818h_tHRGBdf6f2lwymVOdIh9U55g0BW-msJbXXKNhNEzJip8bN4SBoPOTRr_d6mws_-p0JcmmV_EslfFta9cyp9FhCYj78_mJO_z0fAf5Q2AMlCbx7jvywRKkZSEGX0K6HZ69noSGAVSkflE4n3tHSwzLneQgaSYvEzyUsKNPHVmdU5VAspEB43b3IanJjbidAygOJHz0aqEO47c3zkqKqlIS2XXgtyPbV0rsOuI8dC2E2PA_CmDBqbLoQtjNL9l9S7Nv-9IxBhUFHs7w_qV5l2uiBHPNdMhJ4Lp3j1siRrdtHpfWxnrhg95ybwtQNXkG06YtJQas6vcpcdjDtP3MnCjrddIbkIiqB80noqJsynpNAmUMQOrIjlD3km-eFH1OM7wTasxG7EQ657a-xQTtIoUA4ZKcI30gscWEA1MdSrSXiHig5Be8xSoQ",
+        "width": 3120
+      }
+    ],
+    "place_id": "ChIJYTmgre30K4gRMB1Zany4JCg",
+    "plus_code": {
+      "compound_code": "CGX7+HQ Kitchener, ON, Canada",
+      "global_code": "86MXCGX7+HQ"
+    },
+    "rating": 4.9,
+    "reference": "ChIJYTmgre30K4gRMB1Zany4JCg",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 16,
+    "vicinity": "15 Scott Street #1, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44248,
+        "lng": -80.41497
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4438584802915,
+          "lng": -80.4134779197085
+        },
+        "southwest": {
+          "lat": 43.4411605197085,
+          "lng": -80.4161758802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Lackner Woods Family Dentistry",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116654572236418458705\">Lackner Woods Family Dentistry</a>"
+        ],
+        "photo_reference": "AeeoHcJFHXD6t2peOfs416Yan3p7kilKaksjhn0IzwcEADewmYxnmMB3UcBc317l7ZPeKD9QTvXo7mAcALx_6rZHHJbouKxpDKv9o3v3dHKu2O_Ewi7DxKaRvnpganPxyR-g_vRd9ztC4HK7SfUYXkso_zjfXLKTxhPz3mOt9P-AUoJCKMnUJaCdHuDykF4xldtAHA3-v-0chr4WClEW4P68ByXhc2QPuHfS6NcI5I_-db2U6Qq3MlEnfWo4kaiS6m8oqxPTVfObVxRIEDVn7AhgCv2iBXoZQ1hZZO53N1H7G2casjVfcfQrQM6lpRx_fbYGNvj6gchY",
+        "width": 3008
+      }
+    ],
+    "place_id": "ChIJG_tumQuLK4gRtZuZN_6Ymik",
+    "plus_code": {
+      "compound_code": "CHRP+X2 Kitchener, ON, Canada",
+      "global_code": "86MXCHRP+X2"
+    },
+    "rating": 4.8,
+    "reference": "ChIJG_tumQuLK4gRtZuZN_6Ymik",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 583,
+    "vicinity": "900 Fairway Crescent #4, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4540819,
+        "lng": -80.5542956
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4553559302915,
+          "lng": -80.55287531970849
+        },
+        "southwest": {
+          "lat": 43.4526579697085,
+          "lng": -80.5555732802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Roth Valerie Dr",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ6xwbhGn0K4gRnHMP3zH3-o8",
+    "plus_code": {
+      "compound_code": "FC3W+J7 Waterloo, ON, Canada",
+      "global_code": "86MXFC3W+J7"
+    },
+    "rating": 4.8,
+    "reference": "ChIJ6xwbhGn0K4gRnHMP3zH3-o8",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 18,
+    "vicinity": "18 Fischer-Hallman Road North Unit 202, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.442063,
+        "lng": -80.54372149999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44343213029151,
+          "lng": -80.54232636970848
+        },
+        "southwest": {
+          "lat": 43.44073416970851,
+          "lng": -80.5450243302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Haley Blair Dr",
+    "place_id": "ChIJedRdBCr0K4gRek9VrNvCoD8",
+    "plus_code": {
+      "compound_code": "CFR4+RG Kitchener, ON, Canada",
+      "global_code": "86MXCFR4+RG"
+    },
+    "rating": 4.8,
+    "reference": "ChIJedRdBCr0K4gRek9VrNvCoD8",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "910 Glasgow Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.495152,
+        "lng": -80.54792499999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4966192302915,
+          "lng": -80.54651941970849
+        },
+        "southwest": {
+          "lat": 43.49392126970851,
+          "lng": -80.54921738029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Iris Dentistry",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111451963374504818482\">Iris Dentistry</a>"
+        ],
+        "photo_reference": "AeeoHcJFTyXvyG6QtOb-0uKly8m8QHo7yyL2sTVxa3MzGXMJyIPqu6b4nnFas9E8pt2sP7qoUQD7D9uGGCjgmRMo-VwbDGzTAWbjadg1CcJE2xbxip4gM6ac7CgzXR0oGVkrrbnGsCun3W0dG8NeREzM1BdyFzFK2SAoCebX95X5FAGgIdPmDVjK3QisULsqy95GtLVlr3DzL15jw5ZXtk0xr_KcBlmUGL1Mur2Xaea2CC3eaYPiRjGmUfK9TPd7-0oypwrZqhcTIYAs_gu9mqZy6WrFJ8zvspP34pSsmFwmaTVIVvFlM8mh1SySkhtZmNSjsDIg0gfFYLo",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJr37tFl7xK4gR5UhpYVG5BR8",
+    "plus_code": {
+      "compound_code": "FFW2+3R Waterloo, ON, Canada",
+      "global_code": "86MXFFW2+3R"
+    },
+    "rating": 4.9,
+    "reference": "ChIJr37tFl7xK4gR5UhpYVG5BR8",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 84,
+    "vicinity": "564 Weber Street North # 8, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45496299999999,
+        "lng": -80.4747174
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45637763029149,
+          "lng": -80.47346816970848
+        },
+        "southwest": {
+          "lat": 43.4536796697085,
+          "lng": -80.4761661302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Kitchener East Family Dental",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104674451881709485741\">Kitchener East Family Dental</a>"
+        ],
+        "photo_reference": "AeeoHcItvjUoVoc4q-yGEO2wlEMSUF5Lnwuro0YgH3Bohoq4kVj6sGgt_lzDYlMItPUhtGF_CxlteGMh8dNTmL1BqgzT6cBOgyEzi_H53ZpDEK7H5bchpwsml0HwjymgiaT9tGOeHbfKiPCEnMsct_9x08tdJatLbbYl0oHnJadEgglvlhIw5IpaUhPScKPiUG8L6HfJAr47dlFuZnr4ChkXZEwueyqgwAlOenvVE_951B50GqUe6K8ysdFqJdtyMUartJf3g_8ZT4CDrghz4BSXIKDPGSK26IINMGs38H5JSRYdD3X1uaFYD1raK-X3k3C557HISY73zMg",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJiTnmfL70K4gR_JW9gzLqRMg",
+    "plus_code": {
+      "compound_code": "FG3G+X4 Kitchener, ON, Canada",
+      "global_code": "86MXFG3G+X4"
+    },
+    "rating": 4.5,
+    "reference": "ChIJiTnmfL70K4gR_JW9gzLqRMg",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 66,
+    "vicinity": "85 East Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4205632,
+        "lng": -80.4480354
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4219274302915,
+          "lng": -80.4466582697085
+        },
+        "southwest": {
+          "lat": 43.4192294697085,
+          "lng": -80.4493562302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "TriCity Orthodontics",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 665,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113135466124478591681\">Bridget</a>"
+        ],
+        "photo_reference": "AeeoHcJHDiJ8Qme3WyLGBW4Q4GPpZuhqaz1DkqneVv1NxcNGYDVF1d3LrmZFNdyVJMuZ84L5cNI4eumjTOW0Ld5c7FvtaDp2769eY36yCBlO6zBFx7a8D03tsoc6eXMylsgFzGxwVWKBkDBW_eU3oN_0GCQOzUKuz_UDO2iVZsFjIY1NGMoBNAlGwrNUzZdngCZUitBlX_GCUcbSbp1QcJQvSdgjPaJmQ2xgVa561amQzMXOPm3jtH-OkOmNFJzvTAsCTDV1z7cyWRkVroglkF_wEa1QhIGezjUU7p4hynSIBX3j-kUVFyEIwsZxXrfWKBxUGyjS3I5AFEc7RNFlqWiADh_wwjvEFfzIFUS2GTHugc8-YRF63rv1q0JxgtZY5JMs-M4iRMjY8gH2RTYF-Dq-NeRqbh4D9HGyouEwTjrgr8F4Gx_XAmYsyYBssdNx_DJUuPoZ7yDAPBzk3lK-stDhtXgZkGgtKi0HEhCo5NvL62Aw83pC2j8rAKoaNC2WY_m9Xq0ddz9JwNLHWOOCM8AZ7nQiklF9cGrwfthBaPGWuTXnAWceMBOX0JMUhuotvC6j0JzF0p1kFzZrq69SIjUJJNf3BXgLmU6z-BwS2Ussfexy35dImnV8UQry5uRWDcY5YsbmLA",
+        "width": 1000
+      }
+    ],
+    "place_id": "ChIJHYiABJD0K4gRfP5-NraJRic",
+    "plus_code": {
+      "compound_code": "CHC2+6Q Kitchener, ON, Canada",
+      "global_code": "86MXCHC2+6Q"
+    },
+    "rating": 4.8,
+    "reference": "ChIJHYiABJD0K4gRfP5-NraJRic",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 318,
+    "vicinity": "500 Fairway Road South #202, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.41533,
+        "lng": -80.5136799
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4167627802915,
+          "lng": -80.51247041970849
+        },
+        "southwest": {
+          "lat": 43.4140648197085,
+          "lng": -80.5151683802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Sunrise Dental Arts",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108237590378412620881\">Amy Savigny</a>"
+        ],
+        "photo_reference": "AeeoHcKQsgVzftejK0E-IQs4gq0j3MWjU8aeateeRVq3rtmYTgkJGNOSWvZYK_eA8mEdcIRsBQaz8pBJnyc3oZH7yK-9EfqRPXUEL693vw13WXp2fc8-FcwkCs-ugxeFiL5b6vobjsftu0j8RBnO73vnclT-lHWQq8Wu5oF7rI4k_8CNfEv-Q2VJMg8GDkUCGQl0sncFghMQj0AL2tVxjm7IUhyAIc7XbbsOwubrPkqkwo2hSrMV91BfKmdSnn7JcXpptiQW8dR0MN6A09RTrVAZpGtu2SEN_IksAQewpU_LEoRVGOcWHt_QHQgZ7ucAs51KHhrwL6joR6T5PWhYHEZoCKiHwzaxWnUW_LP1tNL2Vn9PULg5rx2PpYLcp6PAy8vIoTgE5I0sG1OvVJrA-XerkqhVIkN3vtcJ9D85A37-mJn_cc7pLAwm7fVWEZpy8UNvjbWo3arAg6XUQFLPwf4RuUZEshI0XSHZh7C6Q7HH4WGX0m2kmbPqKLGdSb79KpUCJecFtNgBjDjW9Oq9WLy7riMm3rRa8W9fK1bFGo2TKHFwMkGdjgyYbp0G0QBnTEepBiNTD-wnjnxrBXn1-SYJ4Gab9en3lSZhU1H5UbgSE3IuPCLjSUZQZTNapzOADQjx",
+        "width": 2080
+      }
+    ],
+    "place_id": "ChIJOaWEnb31K4gR4-DyYCPvb30",
+    "plus_code": {
+      "compound_code": "CF8P+4G Kitchener, ON, Canada",
+      "global_code": "86MXCF8P+4G"
+    },
+    "rating": 4.8,
+    "reference": "ChIJOaWEnb31K4gR4-DyYCPvb30",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 50,
+    "vicinity": "1400 Ottawa Street South C2, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.426027,
+        "lng": -80.5108719
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.42743583029149,
+          "lng": -80.50964326970849
+        },
+        "southwest": {
+          "lat": 43.4247378697085,
+          "lng": -80.5123412302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Forest Hill Family Dental",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108523615629517283661\">Forest Hill Family Dental</a>"
+        ],
+        "photo_reference": "AeeoHcILa6htqBRbkIhY7e7AoDw79zraxN_vDjAKp-U2EJh6nIblvqRNarb7_D8uRKqYMQCB4rtGYBYaDLKnu9yuB1DpnfDX2PRVltob3D4DWWI_1blQirAj2ADM_5Fl1R9BwuYAV-TZI74GLGMtcVR4nTlQYMB94P0_9j9eldcCze40anlg52Wa8pYJ6DI1Gr8dhJhpWm6wcV7P1vKcrue9X9BlBWKpek0Om7gTJOAjhjopf66pZLTF0eI6ZHDy2sSksQ2mQwa3-B8I8A9kFHIJAhCf9JmHCijlRIBNaPGycR62oJRzau-nH_h0nU0ogqEsK6L_SxpxSKU",
+        "width": 1088
+      }
+    ],
+    "place_id": "ChIJtaUuGrD1K4gRJNKYOIM-dLQ",
+    "plus_code": {
+      "compound_code": "CFGQ+CM Kitchener, ON, Canada",
+      "global_code": "86MXCFGQ+CM"
+    },
+    "rating": 4.8,
+    "reference": "ChIJtaUuGrD1K4gRJNKYOIM-dLQ",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 59,
+    "vicinity": "395 Greenbrook Drive Suite 26, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4378629,
+        "lng": -80.56003369999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4391677802915,
+          "lng": -80.55878961970848
+        },
+        "southwest": {
+          "lat": 43.4364698197085,
+          "lng": -80.5614875802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr George Ho",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 270,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104765585141617573401\">Dr George Ho</a>"
+        ],
+        "photo_reference": "AeeoHcI4b1qgTMRx1k0fHJ1O9WHfTo4j91woEoMMhm-wsKpPG2khUa1-RyRsjIcM8wdRjzHvxb2JjVQwizjuUnoFUL4oGPVoBMJJPP3plLQjK-hdkWUXahiHq-pfcBArXRn2iKuxZiDlYBbK8_UjCgtemRi3D1yurxjYq-GOpVUOF_zKX-Ar-FkDK2idTjpYJn3M-GNIVrTzONgYFKI_bVbhI0lw2rvKYl7rFDS5Zy8cFoCI6ycHysJlZFWGc9xX7znZyL636lS-2-Z6wVcnmYoWVD4cYCGus5PzDzoW1X9LuMCrM9w4R_DG3UQFjjIUm3DkxoJEcMPcskI",
+        "width": 480
+      }
+    ],
+    "place_id": "ChIJFT-vJmL2K4gRjPh0HM5hYX0",
+    "plus_code": {
+      "compound_code": "CCQQ+4X Waterloo, ON, Canada",
+      "global_code": "86MXCCQQ+4X"
+    },
+    "rating": 4.4,
+    "reference": "ChIJFT-vJmL2K4gRjPh0HM5hYX0",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 7,
+    "vicinity": "520 University Avenue West #202, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4634857,
+        "lng": -80.5097122
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4647874802915,
+          "lng": -80.50843646970849
+        },
+        "southwest": {
+          "lat": 43.4620895197085,
+          "lng": -80.5111344302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Aura Dentistry",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2252,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105577164648700957617\">Aura Dentistry</a>"
+        ],
+        "photo_reference": "AeeoHcI8JdEBMTo5AHNqTqzKUdNZogaIFM-vdb_0ts-StZ-tOlVfMjUKBS-mCqKHJ30ePOUwt1xJhT8IQWXSRGKY7ZzHEAqWL6kFq_vKKV2ZhV4YKRZP3zQeKJ-DDHV6BMQ0FfKn5kUukWejwWFWAF13c-21pGgb2FXGjeGK4uy4Uy3HLNeq0OAjbgfeK4nYeoSJq1gwOTnFg-Nup6EakQ6WzqY52qkFne16vYwXGo08Inbg1g2wL0XZqcw1K9qi1o3AQTcabTcsZwB2ZU-u87iovkfVDVHP2SL9Wya_U7VxnUnlubAksYSidPortX1rYj4QxBYOBS6L29U",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJtxBZsnr0K4gRqA1DLx1Vsec",
+    "plus_code": {
+      "compound_code": "FF7R+94 Waterloo, ON, Canada",
+      "global_code": "86MXFF7R+94"
+    },
+    "rating": 4.5,
+    "reference": "ChIJtxBZsnr0K4gRqA1DLx1Vsec",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 51,
+    "vicinity": "131 Union Street East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4533713,
+        "lng": -80.5558241
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4545553802915,
+          "lng": -80.55438166970848
+        },
+        "southwest": {
+          "lat": 43.4518574197085,
+          "lng": -80.5570796302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "mujalcareredental",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 400,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107101255815337550589\">mujalcareredental</a>"
+        ],
+        "photo_reference": "AeeoHcKFSYLonp-iADfOICtpEpJ1qdWjUmzqh9xDH_zdTRXrHLhiMzv4IFGqinPFEQ1peU3pmaa2EKHi4yR2J6O-b-Dv0W4Upph-XSKZfQMxG12bDO4Xz7iaY8t7TEouvsw7fzttv5x7wMIZYQg-K1ccyg7K_pDBCWZ0NmOhDluygUJ2GfQWL1RU0OtO2SUHm4aTJGHtmQQ8huDw8gdkzoJTILZRHVfPItfXepqFeprqp7LH26m2r138ecLCVyD22bfUJB1R6_NAKn9Nn0WVzd3zDJ8rglc6DYCbt5vAv1-rDP-9mOCNcfuj1Nzf5s3iky0d9kF3P04xPeo",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJg8CgrpD2K4gRy04DnLqYPKw",
+    "plus_code": {
+      "compound_code": "FC3V+8M Waterloo, ON, Canada",
+      "global_code": "86MXFC3V+8M"
+    },
+    "reference": "ChIJg8CgrpD2K4gRy04DnLqYPKw",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "450 Erb Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4379705,
+        "lng": -80.4589639
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.43935708029149,
+          "lng": -80.45756401970849
+        },
+        "southwest": {
+          "lat": 43.4366591197085,
+          "lng": -80.4602619802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Rockway Dentistry",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJryr4RdL0K4gR-39m9Agh68o",
+    "plus_code": {
+      "compound_code": "CGQR+5C Kitchener, ON, Canada",
+      "global_code": "86MXCGQR+5C"
+    },
+    "rating": 4.9,
+    "reference": "ChIJryr4RdL0K4gR-39m9Agh68o",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 242,
+    "vicinity": "825 Weber Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4665303,
+        "lng": -80.5207902
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4678066302915,
+          "lng": -80.5193419197085
+        },
+        "southwest": {
+          "lat": 43.46510866970851,
+          "lng": -80.52203988029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Advance Dental Care",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115734982592403890628\">Advance Dental Care</a>"
+        ],
+        "photo_reference": "AeeoHcINqib16G2ld7Xcp4pilbcL6E-aWregoaygegWeGv07E5_Qo6OHeaMh15Ae_pSB2QAwViz4jnBRpfWeGTZhv_Y_QFIOOuOsS56qTZ-9yh0Et5aHLGkHoGRHifR1PrScY-pV8x0z3Lsp7HeT0IR6rLoOs1_mQi98j-O-uNo8g-GGhTYMiaEuEb0aGUavh4qMZBBFuJJlH5xhWIyFyjNp4PX2PP-N_kbPMmB8UynY-tXf3wLqWDzMSFQRdHmO2l6lwzW815clSYu3473jJFMguFLs-7Xxk4gmnVF6maFpCOsC-cZL38pfpJgxON5rpF8roG82TmdbN0M",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJA5X_MxcDWkAR6MG_6rAxTNY",
+    "plus_code": {
+      "compound_code": "FF8H+JM Waterloo, ON, Canada",
+      "global_code": "86MXFF8H+JM"
+    },
+    "rating": 4.9,
+    "reference": "ChIJA5X_MxcDWkAR6MG_6rAxTNY",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 136,
+    "vicinity": "30 Dupont Street East #203, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45827,
+        "lng": -80.5142147
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4595656802915,
+          "lng": -80.5129775697085
+        },
+        "southwest": {
+          "lat": 43.4568677197085,
+          "lng": -80.5156755302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Kevin Patrick McSweeny Orthodontist",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ2wqJafP0K4gReGlurVSPSRE",
+    "plus_code": {
+      "compound_code": "FF5P+88 Kitchener, ON, Canada",
+      "global_code": "86MXFF5P+88"
+    },
+    "rating": 3.6,
+    "reference": "ChIJ2wqJafP0K4gReGlurVSPSRE",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 20,
+    "vicinity": "966 King Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4562781,
+        "lng": -80.51565289999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45772193029151,
+          "lng": -80.51428111970849
+        },
+        "southwest": {
+          "lat": 43.45502396970851,
+          "lng": -80.51697908029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Park Street Family Dental",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 993,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109812680356812593599\">Park Street Family Dental</a>"
+        ],
+        "photo_reference": "AeeoHcJKWUMdlqbpsTyBJcOhjdSog__12xmvannhE1KhnSVPSlfRXTxOr1LiqS26SuavJEbXtpYZmsWQapmbfxecx7BlXEDMGjNjLuO19ShSsBGk6P8NkTmQQEPfk_Hlnld9KUhirfnUq7NFTDfjtgvDSPVzoMYos3syDR6G_LrFxE6WoP3KJY7zGMJICRsIqvyJTLHxrJA8HUeXH71ktZJJ6pX-LtouwdEIy5QwFYm6M4-AYS_lWLF0MNQS0t89CSNEt-LyxuT9fNAKZKNeH7WYZvdt3QO5NRi-03blVSQqW7fQzi1an8NRsEIwdaVvFevpXaXeBhMfNM0",
+        "width": 2040
+      }
+    ],
+    "place_id": "ChIJlYSAg2n0K4gRXVAGpN73Etk",
+    "plus_code": {
+      "compound_code": "FF4M+GP Kitchener, ON, Canada",
+      "global_code": "86MXFF4M+GP"
+    },
+    "rating": 5,
+    "reference": "ChIJlYSAg2n0K4gRXVAGpN73Etk",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 20,
+    "vicinity": "535 Park Street Suite 1, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4720826,
+        "lng": -80.5143106
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4733489302915,
+          "lng": -80.5131082197085
+        },
+        "southwest": {
+          "lat": 43.4706509697085,
+          "lng": -80.5158061802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Twincity Dental",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101038344528051208666\">Jeff Mulder</a>"
+        ],
+        "photo_reference": "AeeoHcJkp2RdoOirtNgI_U1dbZ0-4LwYy6oGV3m7uXnBadknIxuYgD0yvGvdK6r-UfAWCUScXgTByvfSVFu5Nklj6_YMOHe6g9PHMAB111Q-RycYbcFO3zmHEWaILxmToUW9WcTRoBsW4WR3GrDlQVpMifukcuEMsaxlhiTAYl8XFPUJy81ZPmR2NJk_WhlfTQHlPm1aenmEe7s_LgHAGuMMPUJow61bMs1qNrZVxfDCgs4Ho-6UbC68IXffUMOEBj2DPs1vWO9M43lKJSGL9cqu1ITkCqB4x-vKzhXryco2kkkjXQV3xwFCH85RGH_XWG_E285XyUyP1Dn7WpC8JTtziKWkGKOy6BChshc6fsOCDfzHGhY-GM-vmCzKaWaV8UqP9qxygN7cBmZbdK8VkMZYgxzAoOmmFFK9GHW81-OzEQwISzC5tTkpU1mFB-BLkDGSG6ftQCBcuOGqeMvOq6wFqd8taq7EOml_d0NRA9TIJF59V-gTOqGQ_l_pxMzvYip8Y2cF50xFz5WPzHmR-51YmQ6cnmNDy9PYTSJW9EJThDJtC6H7L__BkMk4UeuwVqbkgsWSxKQ5YRdwYxftIyp-3vzQl28zfgmLgwScp6svoTfXys7j13GIi8zfkBUzBGctKvJHrvNs",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJwaeyQHb0K4gRZXcLisYskpQ",
+    "plus_code": {
+      "compound_code": "FFCP+R7 Waterloo, ON, Canada",
+      "global_code": "86MXFFCP+R7"
+    },
+    "rating": 4.3,
+    "reference": "ChIJwaeyQHb0K4gRZXcLisYskpQ",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 16,
+    "vicinity": "122 Weber Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4721992,
+        "lng": -80.5144426
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4736001802915,
+          "lng": -80.5130254197085
+        },
+        "southwest": {
+          "lat": 43.47090221970851,
+          "lng": -80.5157233802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Jahandari Vinolea",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJE5csFXb0K4gR_ujdgE_lZtM",
+    "plus_code": {
+      "compound_code": "FFCP+V6 Waterloo, ON, Canada",
+      "global_code": "86MXFFCP+V6"
+    },
+    "reference": "ChIJE5csFXb0K4gR_ujdgE_lZtM",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "132 Weber Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4522403,
+        "lng": -80.51761719999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4536715802915,
+          "lng": -80.5163062697085
+        },
+        "southwest": {
+          "lat": 43.45097361970851,
+          "lng": -80.5190042302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "KW Periodontics and Dental Implants",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110613967909633462299\">Jackie Strub</a>"
+        ],
+        "photo_reference": "AeeoHcJN4iEj2MG1dRzT_1ruNzkmC3SypB_PqulLyHxFIIyoAeZ401jNK28sCIXsNwywDwkdXqRI6Ls2Z1mNc56BT-hCIfIZvLmRzNMQ-YHac41EdCp7qnyo-5CzMpjvzY4PSsDA5mrAxtVLaxWl0aqka0QwjY0kH0NjizM33Xp_VMQ6e2PAkNBLdLnn4tc8_NwbM4cj2d4YInbsoUSUxzfGMAYRndX9fFQ088hr7IbGPOSucqz1xa9Ronry3XMxi1wqCJl2q0xzT09tR3JG-DwTnvtqb5JEaOkxg9KWnxV-RJ5W0ATfILPx0wD1ejPbHSufFPzKRENjB6TSyMGzQiOguPrZna_-keIVCjGy7X0EgBjUrl1quBXTzRBnJnOrqfmpedzFB5MUi7n4K8sGF2-LhBqtAzVoNi8xogYeOpgHvcjc4En-Fj6NaW4nnWyM9qWOhPZTlaCEtHF1Yh3QdLyyfNZIqQ78GYv-bMxSMW_SCFdRuy5-XwZ-sNmTSFt8wA1tJgUUR0ie0sg_FZJp7vGN8-cUGblfvC4sjZ-qOIpNVzAfRFll7hpx-AVpIQ1RkFWBAAul7CCYRxBNmP05Inpq8GtVOn8whbBED3-yO-FptNnj916NDTcauPtje-bgbtDJ",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJRfWsmEH0K4gR3kkCC2Lr6Gc",
+    "plus_code": {
+      "compound_code": "FF2J+VX Kitchener, ON, Canada",
+      "global_code": "86MXFF2J+VX"
+    },
+    "rating": 4.2,
+    "reference": "ChIJRfWsmEH0K4gR3kkCC2Lr6Gc",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 33,
+    "vicinity": "657 Belmont Avenue West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.476853,
+        "lng": -80.5247043
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47819623029149,
+          "lng": -80.52354531970849
+        },
+        "southwest": {
+          "lat": 43.4754982697085,
+          "lng": -80.52624328029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Waterloo Dental Centre",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2358,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114503651243673884230\">Waterloo Dental Centre</a>"
+        ],
+        "photo_reference": "AeeoHcJgUtidxkvAJOW2LfhM70SHhs5WblRBnL4Cw6x3p1y2gQoPkGjzbMFm6xUY_cjtzgerMdhZA3XyuoWb2xdjo5-UamfbhzAZGd0_LRAzpaDcoENtLm_udh87FfncAI7c7v_7vQhATLUMRPz-8HMQXK4DjE9fXXClV-hvPEU6-I6oYjzmtBhGZt1KhaX3251lXxBxueeIbD02NYgrQQfVdLSj2qy3M9BgUVM7FO033LJtWoKY_pqCWuPThAzmBhtNOGIK-k9OEUF1n367zTsRSMxwOpKsI62AgCwoEU4VAS8Fkd03zqCQP7Gcw6a7BLWNQ9Sl4eY6Jz8",
+        "width": 4192
+      }
+    ],
+    "place_id": "ChIJXyvRUPTzK4gRs8lqRsvYrfQ",
+    "plus_code": {
+      "compound_code": "FFGG+P4 Waterloo, ON, Canada",
+      "global_code": "86MXFFGG+P4"
+    },
+    "rating": 4.8,
+    "reference": "ChIJXyvRUPTzK4gRs8lqRsvYrfQ",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 154,
+    "vicinity": "Unit #7, 258 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4502753,
+        "lng": -80.51566059999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4515851302915,
+          "lng": -80.5144034697085
+        },
+        "southwest": {
+          "lat": 43.44888716970851,
+          "lng": -80.5171014302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Western Dental Care",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJOwuf5EP0K4gRhHfS5DSRG_s",
+    "plus_code": {
+      "compound_code": "FF2M+4P Kitchener, ON, Canada",
+      "global_code": "86MXFF2M+4P"
+    },
+    "rating": 2.5,
+    "reference": "ChIJOwuf5EP0K4gRhHfS5DSRG_s",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "568 Belmont Avenue West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4543741,
+        "lng": -80.50369839999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4557933302915,
+          "lng": -80.50230756970849
+        },
+        "southwest": {
+          "lat": 43.4530953697085,
+          "lng": -80.5050055302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "City Smiles Dentistry",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106062162484585978322\">Vincent A</a>"
+        ],
+        "photo_reference": "AeeoHcIJ4IrEDvSnn2CmqMbGMlEMpQNJQNpKqeViz5fgqOgZrXhwGnq-scArX98Ber0kHExQb40ik7swxgYG_0LjXjVhj_A9g0WEr8aDLE4GJuqE_AKEpXFca9pty6wo0T-1HuTGW7MhDefi3Kft8yN8bu7JEVX8dzVSdxvgpq5Cat8iaN6WeRSAua34qfVMnqKFGZ_eweqHDwjwZkPzLSe5ayr-ogXMVXqUR3KKFgmK7zGvcP7bokn1c1kyx976O6nJv99V47zVP9SvuZ9qA-905JkyoAXN0n-zaVtiRRNIle5DNpZ74Hk7kPGoVU68AIDjovDhz-AZBdq4CZoc52OU567TlWc41x_oliL6GyQmsXGrvEt59ElFBIaZsj3YGFn2fJrlsyHOK_Pf0wBfIqZc8HtjhkM3UlWpmsqRCzBOOYnUpKVw6zZ0FR0vaHsNsHZCF-KcGoucLEXIM8CmjMJG9XN4iYFLQRGWPUemvDhX8A4gnQFT2A6tYnhu0etwwP-6BThzIfa_j04WMj-6gWFJGkLVbnWO8yjONKDFMifJKUKFeVRcA0TQPYjlJVFQdlT25daQSSq3zLmBTf1tfWJdUrPR-jCpz4AYcCo2_-J8NZG1-_5k7l4ytZ_w5N8MZiaB2qSYMg",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJXfQNwGD0K4gRprqbcxj7jp8",
+    "plus_code": {
+      "compound_code": "FF3W+PG Kitchener, ON, Canada",
+      "global_code": "86MXFF3W+PG"
+    },
+    "rating": 4.4,
+    "reference": "ChIJXfQNwGD0K4gRprqbcxj7jp8",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 67,
+    "vicinity": "655 King Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4417888,
+        "lng": -80.5137342
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4430665802915,
+          "lng": -80.51250861970851
+        },
+        "southwest": {
+          "lat": 43.4403686197085,
+          "lng": -80.51520658029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Liana Cardieri Family and Cosmetic Dentistry",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112028606478560351494\">Dr. Liana Cardieri Family and Cosmetic Dentistry</a>"
+        ],
+        "photo_reference": "AeeoHcLovPZhwtnYpdkSGZep_ux_0xGujiHNBf2oiwqhJAdn5bL69v6Y4mEQ8c3gc6fHLkvCTmSeMbuENtXxaiNQ98ZICiBbVadGrTRT6uXGyUhbhaLR3PO2rA1QDW6Td6D4EXREfmVjj4nB9N1fu_bf7SFc49rgVLCJ-Qll_M7EdA0BoZyz4a2gj7YKHwDHqPoYkSZQUDylKSdi1BhPEHD9ZjnV2wU5mpQ8Kh_4mmharNCeTrpIuIUzIXTP39AvQTt88gLWK6jEU5hS5rD7Q0ofL-msJhtblT0M_v78J1EaX3JIZacIueCu2B3C49svzkYFx4VJlNG9vc0",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ_5k15U70K4gRyIK8tPMxTdY",
+    "plus_code": {
+      "compound_code": "CFRP+PG Kitchener, ON, Canada",
+      "global_code": "86MXCFRP+PG"
+    },
+    "rating": 4.9,
+    "reference": "ChIJ_5k15U70K4gRyIK8tPMxTdY",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 241,
+    "vicinity": "322 Lawrence Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4424806,
+        "lng": -80.5433106
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44369973029149,
+          "lng": -80.54174721970848
+        },
+        "southwest": {
+          "lat": 43.44100176970849,
+          "lng": -80.54444518029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Midgley Dental",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 391,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118052465709720645244\">Midgley Dental</a>"
+        ],
+        "photo_reference": "AeeoHcLAf8u2-oaMmJ6ePcK2z_xqWze8O9NACjgEjU1GzBMkfxECU3MDIz8XbDzzokmBOX7L4euXylHum_eiwJjtJ81-hxiik65DLeFUYpROy6IPdvq27dRwtX7-qi59Mq2DX705rixmRqNLXTK6g5ftJH5j_3KNv15ly1lXdsgxQ6gDiFbHGMD6wVg3tyC-A2slk675kF6DhRjxuJNL7vACz82ibDuIlUEIs0rUGc0NUtuTFvBUdL36NuqElk6E7YmoE-XDn-qrgVNJ62EEIIQvrmvlOVnW3xFdjLQt-l1ND2Bcsn1hU7WNlMksSS-P-5xukH_svXVWUSw",
+        "width": 693
+      }
+    ],
+    "place_id": "ChIJ1SDiBCr0K4gRA-bXUtEb2uk",
+    "plus_code": {
+      "compound_code": "CFR4+XM Kitchener, ON, Canada",
+      "global_code": "86MXCFR4+XM"
+    },
+    "rating": 4.3,
+    "reference": "ChIJ1SDiBCr0K4gRA-bXUtEb2uk",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 11,
+    "vicinity": "890 Glasgow Street Unit 6, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4523765,
+        "lng": -80.5556081
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45372288029149,
+          "lng": -80.55423136970849
+        },
+        "southwest": {
+          "lat": 43.45102491970849,
+          "lng": -80.55692933029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Ajay Munjal",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJ96nAupD2K4gRNQ9CNJWz4Lo",
+    "plus_code": {
+      "compound_code": "FC2V+XQ Waterloo, ON, Canada",
+      "global_code": "86MXFC2V+XQ"
+    },
+    "rating": 5,
+    "reference": "ChIJ96nAupD2K4gRNQ9CNJWz4Lo",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 13,
+    "vicinity": "450 Erb Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44755019999999,
+        "lng": -80.488571
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4488781302915,
+          "lng": -80.4872880697085
+        },
+        "southwest": {
+          "lat": 43.44618016970851,
+          "lng": -80.4899860302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Monarch Dentistry at Benton Medical Centre",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2752,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105474621569205137954\">Monarch Dentistry at Benton Medical Centre</a>"
+        ],
+        "photo_reference": "AeeoHcJeNgZ4XceNOfqwpbCV-moQHouR9zjVVqLCJn6U2Oe6MrESbah5nKnz7oohikfDTE0WXnn_FCOe_CLjmKixpMBAPIoFC0V1L0TjzjAA85TV8zKSIg8VS_NBvcizk0GXJ_GHLkcafCc_YgqQrFxNSMxBaiE2Z1G_I60KZMmsBwtyLDb1SUqYvRBY1eV7oZqDo3S-PVFRdpUdGvaDxHvv7uCHGnt_dh87Vawf38No03_rPci9HqcZjQUe9gLow3qCbQfnoVMrXJTtlMAPB87U9cGK48xehlBQdnjneDjM5oKgKzdBs-evODkNgGV0WTdhhPMZ4RoTNAY",
+        "width": 4128
+      }
+    ],
+    "place_id": "ChIJPW3OBfL0K4gR2FKZFEmEobk",
+    "plus_code": {
+      "compound_code": "CGX6+2H Kitchener, ON, Canada",
+      "global_code": "86MXCGX6+2H"
+    },
+    "rating": 4.5,
+    "reference": "ChIJPW3OBfL0K4gR2FKZFEmEobk",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 186,
+    "vicinity": "51 Benton Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45496299999999,
+        "lng": -80.4747174
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45641043029149,
+          "lng": -80.47339861970849
+        },
+        "southwest": {
+          "lat": 43.45371246970849,
+          "lng": -80.47609658029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Jitendra Gangwani",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJlWfmfL70K4gR7dUSqqH9AtE",
+    "plus_code": {
+      "compound_code": "FG3G+X4 Kitchener, ON, Canada",
+      "global_code": "86MXFG3G+X4"
+    },
+    "rating": 5,
+    "reference": "ChIJlWfmfL70K4gR7dUSqqH9AtE",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "85 East Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4352226,
+        "lng": -80.49011829999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4365341802915,
+          "lng": -80.48888686970848
+        },
+        "southwest": {
+          "lat": 43.4338362197085,
+          "lng": -80.49158483029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Deer Ridge Periodontics",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102557450747469228066\">Deer Ridge Periodontics</a>"
+        ],
+        "photo_reference": "AeeoHcK2-hLe50xM6dUv14oG4otqpQdpFxKj_6ilUAw5Eoq2EJOfAw3cw1ZDcTb4iG33CAiWRFsIAXTWDdjUN7PSCrxjgKr-x8nGTtuiOSPJ2FymHc1pbNTH-XLSLR2HoRt-p_ELzcs5CJpkjVk2FrbIUsH1EssJ624A-ovbzV8Fa7781LXZz04kZiXfR6fJQT1ICW3igiMiR-a7Qf21vnK4WCE0632IQQQxcDH8KJ2oaMlr_KEqlcRCNMaS6U0-aEh_P_PkIy8KpMIzJWMrg3KcvY1NiUZ4WV5gA7zXZQx7Un917rES-8gRIaG9D6TJWdFGB2G1VtUtcdg",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJHeVL5EKKK4gR3oZt9vnc3zo",
+    "plus_code": {
+      "compound_code": "CGP5+3X Kitchener, ON, Canada",
+      "global_code": "86MXCGP5+3X"
+    },
+    "rating": 4.1,
+    "reference": "ChIJHeVL5EKKK4gR3oZt9vnc3zo",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 22,
+    "vicinity": "296 Highland Road East Unit 1, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4593758,
+        "lng": -80.470371
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4607030302915,
+          "lng": -80.4690922197085
+        },
+        "southwest": {
+          "lat": 43.45800506970851,
+          "lng": -80.4717901802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "KW Dentistry",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 7360,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102205400251770863586\">KW Dentistry</a>"
+        ],
+        "photo_reference": "AeeoHcK1LKvplG0A3jLoyGMS4wmpj-ZDBOEGmhu4UJRBotD7vCUVJOYyJXenF9a0mooBZbA_g7swY7DM28eb4ljUhiaSk5cW-oZew9cFEd7wcLs_Gos4Ipo7iFfu3Qm5g7_5iKxw4VFZ19nnGEZFh88L4e4c-s8k1AobQ3ueKPjSx-aFBenUCdeQsl9wudmY5trAQcO2CIcQBoLOXf5SlQdY92nOlkNjom9-u9lL1sCf18FZjvjtMYnlV-CqqncgAkBUHxkEyrIIybPTCsDvxOS43ZaBY7V3WaWGo0e7kdXRC8PrkMUaZQIilMf2QCBJvHlGvmq4fudDamo",
+        "width": 4912
+      }
+    ],
+    "place_id": "ChIJE3j9Rrv0K4gRMrHZutXtH24",
+    "plus_code": {
+      "compound_code": "FG5H+QV Kitchener, ON, Canada",
+      "global_code": "86MXFG5H+QV"
+    },
+    "rating": 4.8,
+    "reference": "ChIJE3j9Rrv0K4gRMrHZutXtH24",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 30,
+    "vicinity": "510 Frederick Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4402508,
+        "lng": -80.564961
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44151258029149,
+          "lng": -80.56354801970848
+        },
+        "southwest": {
+          "lat": 43.4388146197085,
+          "lng": -80.5662459802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Toothworks The Boardwalk Dental",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3168,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110093285900574219213\">Toothworks The Boardwalk Dental</a>"
+        ],
+        "photo_reference": "AeeoHcKTTOErXqDL2FhTCQ_UYgwZQtRVhMwTsrHha7g7IkTtthvFLorkXpXcSiLJC9LVMBRm0usPMkW9helKx9ZycQnv-SKAVRxnwvLT07BYELqPjxP3ZpNhKFfhG0cq2k3L-K3wDUQR6We74YXpWwlC3DQpnX5vtG5rIUVuINikXP-o1gVy-x_wy_w-B7GkOmKygrUlBNIlv4YzpDnw84kJH__FiEi21oe9G63ofbdKA7dXlSsAghpkzUI7MsjVxMxvpn4gVeB6CKlEZWC3Q5Mo--LXMdET5jRpdmvuPoA46OUw5IcauHbdpK0-Tp6LpkHY2qgFUKfukb0",
+        "width": 4752
+      }
+    ],
+    "place_id": "ChIJGcDgdGD2K4gRZxy6FiHgrcE",
+    "plus_code": {
+      "compound_code": "CCRP+42 Waterloo, ON, Canada",
+      "global_code": "86MXCCRP+42"
+    },
+    "rating": 4.5,
+    "reference": "ChIJGcDgdGD2K4gRZxy6FiHgrcE",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 484,
+    "vicinity": "430 The Boardwalk #106, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5042883,
+        "lng": -80.5090195
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5055852302915,
+          "lng": -80.50763711970849
+        },
+        "southwest": {
+          "lat": 43.5028872697085,
+          "lng": -80.51033508029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr Krebs Ralph",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ7f0S1ZfzK4gRgMftwnnDrTg",
+    "plus_code": {
+      "compound_code": "GF3R+P9 Waterloo, ON, Canada",
+      "global_code": "86MXGF3R+P9"
+    },
+    "reference": "ChIJ7f0S1ZfzK4gRgMftwnnDrTg",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "370 Eastbridge Boulevard Suite 1, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4560592,
+        "lng": -80.46099840000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4575174302915,
+          "lng": -80.4597420697085
+        },
+        "southwest": {
+          "lat": 43.4548194697085,
+          "lng": -80.46244003029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Kitchener Dentist Sherwood Dental",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 834,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113429730751709709011\">Kitchener Dentist Sherwood Dental</a>"
+        ],
+        "photo_reference": "AeeoHcKUwGv_zn7icGGsAOsXXViW081FSPG5ECA_V1qaNKoGCdVqO1H0l53GiUc2DCNuWwRnAJpZIK0URZLjBm6l35dZKII6SeSY3kPnJCC3lz4cLLfE5CbLv1p7S_5u5_PetWFYaobKbahUFwODibrVdJ1qt_tJIvyYQxlknlEhYZxvu-BImo52DpmRfnjiTw80v524PxzhCiMsZlUT-3J3Fdy4f8joUXckwjhgqPDHEuSnXaNrYVPVNsyUDuAGm9YBIecvjaN1pZFM_6hr-T-xoYc0ypFERpHrqqZTxw75kdJML6Z_-ulD9OqHgDlt6MvfSWa2qIS8rb4",
+        "width": 1484
+      }
+    ],
+    "place_id": "ChIJzQd7c7H0K4gRySyXRSfUJWs",
+    "plus_code": {
+      "compound_code": "FG4Q+CJ Kitchener, ON, Canada",
+      "global_code": "86MXFG4Q+CJ"
+    },
+    "rating": 5,
+    "reference": "ChIJzQd7c7H0K4gRySyXRSfUJWs",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 50,
+    "vicinity": "501 Krug Street Unit #113, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4243973,
+        "lng": -80.5534596
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4258506302915,
+          "lng": -80.55231376970849
+        },
+        "southwest": {
+          "lat": 43.4231526697085,
+          "lng": -80.55501173029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "DAWSON DENTAL CENTRE-KITCHENER",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1367,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107678884569328968108\">Dawson Dental Centre</a>"
+        ],
+        "photo_reference": "AeeoHcKlUuLG4X8Y4KJKOakunI-rBfQAF4ipyyQcUnhKRZBP34eTip10A0uOVQo8PB73sy779KmjKVcl0VvA__ZRppIWReU5uo9njeP_PXayKsVp6zpSReq4EhtdAN780kC7JKVTDhxMzBWmBEwqEIsCGI3Y2hzN78d2hzwXwZ0DATfNgMuetlPbVsz4jXaD8tVFITsq8CNvyWMCpOjpshWRgTzbw8ay9ldtyJ5akYrQD25cjqZuc6her9dkui6P1fcGAc2TK_XBnuDY080X99VQl8UhIsJqUx0UgppEXanI7ZzZmZ0h5lUtfbI-gWBPZ2niDGZ1OjN-PL8",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJ0a4G6nH2K4gRuxW424JTypY",
+    "plus_code": {
+      "compound_code": "CCFW+QJ Kitchener, ON, Canada",
+      "global_code": "86MXCCFW+QJ"
+    },
+    "rating": 4.6,
+    "reference": "ChIJ0a4G6nH2K4gRuxW424JTypY",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 183,
+    "vicinity": "235 Ira Needles Boulevard, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4135459,
+        "lng": -80.47218319999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4149637302915,
+          "lng": -80.4708908697085
+        },
+        "southwest": {
+          "lat": 43.4122657697085,
+          "lng": -80.4735888302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Country Hills Dentistry",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108609285206510048288\">Country Hills Dentistry</a>"
+        ],
+        "photo_reference": "AeeoHcJWD2EGTQ1no-B2m-MtJiffpXavo-cwFuXAIYqxFclcbocwhsgdtYh-ups5jR_oi9CGp-VAxAzfVNqrEs4zEJLvM5O6T_sDNQwcdq6vbdJk5JH_sNZ5Auzoz9hq4NjCUOzn6QLKGA46cGyAy6rSlGC74T-mKlWFh7Q5sGGunVSI8fLK-JkmsmHp8AVuzdw-Boh0s4_mTYu2hCeSVTfBos5Pum6p_7AM_AR819Ux8bDSz9vR8M67D1EmE8qu0HwHMPWErZCwqO3E_SSZX-K-0QnrlQh2LNZ73hCMRr6fnf09P5gZKHEibIMOB-qhCMErNN6m7VwVieI",
+        "width": 1500
+      }
+    ],
+    "place_id": "ChIJR8cQPj_1K4gRWMdjxKG9JEo",
+    "plus_code": {
+      "compound_code": "CG7H+C4 Kitchener, ON, Canada",
+      "global_code": "86MXCG7H+C4"
+    },
+    "rating": 4.8,
+    "reference": "ChIJR8cQPj_1K4gRWMdjxKG9JEo",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 335,
+    "vicinity": "153 Country Hill Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4494707,
+        "lng": -80.44553429999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45094718029149,
+          "lng": -80.44388801970848
+        },
+        "southwest": {
+          "lat": 43.4482492197085,
+          "lng": -80.4465859802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "STANLEY PARK DENTAL CARE",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 406,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106059713513086680501\">STANLEY PARK DENTAL CARE</a>"
+        ],
+        "photo_reference": "AeeoHcJV8TwA68Efd0WWbUUPVnvDr9A0H-0Xc478u1-qawJffXBdLCwDQ6c-554X_O6vKNMIJZC3KXGLgddVaPhuEsMoxoLaFo7myjf9VO1kgJAG3bEn5gP1tr3LQ0aJx3zCnm73QunoMsN7c5a0e9ITJMeuVZhstcI5iqBbZvvdYJw5ndAlDNqcw2vsBNDhFrnt3WllPg0sjqgKAvdWCMW5hTMB1tadlTu_5wIWrQSQVVAYgWcd5nQZiIBfm-mxmC5L4OZlTzf_4zZrTWAzfyvWT0bnpfs-UPz3VGbpF--5uYSLQO3GzzxvuLpusfn_o2Xv1h9IxSCB2AM",
+        "width": 288
+      }
+    ],
+    "place_id": "ChIJQ9DlEkiLK4gR0sWbGBmOfkI",
+    "plus_code": {
+      "compound_code": "CHX3+QQ Kitchener, ON, Canada",
+      "global_code": "86MXCHX3+QQ"
+    },
+    "rating": 4.6,
+    "reference": "ChIJQ9DlEkiLK4gR0sWbGBmOfkI",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 84,
+    "vicinity": "1005 Ottawa Street North unit 29B, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.419066,
+        "lng": -80.46917169999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4203497802915,
+          "lng": -80.4678165197085
+        },
+        "southwest": {
+          "lat": 43.4176518197085,
+          "lng": -80.47051448029153
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Sorin Mitrana",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJy0yhrjv1K4gR8OcA9ijpG6Q",
+    "plus_code": {
+      "compound_code": "CG9J+J8 Kitchener, ON, Canada",
+      "global_code": "86MXCG9J+J8"
+    },
+    "rating": 5,
+    "reference": "ChIJy0yhrjv1K4gR8OcA9ijpG6Q",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "1450 Block Line Road #101, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.418924,
+        "lng": -80.450133
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4202780802915,
+          "lng": -80.4487536697085
+        },
+        "southwest": {
+          "lat": 43.4175801197085,
+          "lng": -80.45145163029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Solar Dental",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 510,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110943268867085644872\">Solar Dental</a>"
+        ],
+        "photo_reference": "AeeoHcJlYoT_YmBC6jjisibkrm1cUpoLEzKyNDZUAD_pAcW5DZCLMddluJz9-YMyDEzT5CSeX_5S_2kNY973jCcTP9y5y4j68rzn06ceACa-4BU2iqzv3JQvOyAlvpcVuJajRKAn6W_mbmcOWZlbwJ1Jhr0Zr9hCt0C5ijLIeGe2X_bCSGIsk0nB2afnqIVmeRTgqI8gVvMwADaygaXg95ewRLduKkW5Q0U_JSc4qjBOW2R1cIQmOQEKSWfFKlf1det2XH6-jMSohzSb62m-jjlk_fdoN7SeCgVCX6jXRJeXxhffyoiZp_WsRClTxnYrYPpuzToxbDxabnE",
+        "width": 680
+      }
+    ],
+    "place_id": "ChIJd6UExs2KK4gR8g74s9Q9JGs",
+    "plus_code": {
+      "compound_code": "CG9X+HW Kitchener, ON, Canada",
+      "global_code": "86MXCG9X+HW"
+    },
+    "rating": 4.7,
+    "reference": "ChIJd6UExs2KK4gR8g74s9Q9JGs",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 704,
+    "vicinity": "655 Fairway Rd, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.423933,
+        "lng": -80.44028399999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4253232302915,
+          "lng": -80.4392860697085
+        },
+        "southwest": {
+          "lat": 43.4226252697085,
+          "lng": -80.44198403029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Toothworks Fairview Park Dental",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3168,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111682799624777434142\">Toothworks Fairview Park Dental</a>"
+        ],
+        "photo_reference": "AeeoHcLNpApezsaJHc93tqFQESfDiSfoLzweQgKDA24XVikv2S8oAwCpZyvE6jjEhMSy812VL5tvz04C5REv5DG2nU8C8fk3vatJNl_hNqYM1G0YkpD3XEdPckloEuNrk_jFg_dIj3mSTSsi5wnHKAWkVbdwf_7VYFKbOgVPR8nxDSkSN4tvaKYENmJZyUx0k2ZuEoroTrSBvGLtQeL9IP6c2xswZOfw5Mn104h5TfiaYR1dnDEdxndWE2LKSDrhmd97MQQT4fDmQr6SWRDCZiSuTGmihmjZFgxvBjWQRD3dVO-xCtB4clBr7VmtxmoK7w2WOPRGVcAM",
+        "width": 4752
+      }
+    ],
+    "place_id": "ChIJSU3NWtmKK4gRUqMKP8F25J8",
+    "plus_code": {
+      "compound_code": "CHF5+HV Kitchener, ON, Canada",
+      "global_code": "86MXCHF5+HV"
+    },
+    "rating": 4.5,
+    "reference": "ChIJSU3NWtmKK4gRUqMKP8F25J8",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 641,
+    "vicinity": "2960 Kingsway Drive Unit K004A, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4199106,
+        "lng": -80.44075839999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4214084302915,
+          "lng": -80.43945391970848
+        },
+        "southwest": {
+          "lat": 43.4187104697085,
+          "lng": -80.4421518802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Kitchener Dentist Fairway Dental",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1365,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101857177244646976886\">Kitchener Dentist Fairway Dental</a>"
+        ],
+        "photo_reference": "AeeoHcK7_DwOwTSQ2wNEQ5jVojMKVYufTXwXEA2HkjE-iMj1hTMYe3-7ou80P8dOd-EjB9F9QPl-eCk1YR9NUUTikNuNi83ag14-IfyfgFxhjUtvAnxswj8IFyLZExzKBfnlgufUTBglT9E33yGUssxp-eoQ6pMWn64qBeQRmudbc9ud3Zt5pPI_bUFbRuPdGfPFZXtnZgN8bAAG-VLFfmYam7xgEV0d13M57sRDw4RmL5cBY-0EL1JVMLQmlTYbYFV4_TQ-BMNgQTU97ZbSmjtyCAUaTvE4xNQsvIFo40vqQxdxV5rAiF7vxC-rDWP8fphsuofR1T0ivkw",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJw8-d19qKK4gRps4cBbqZMSw",
+    "plus_code": {
+      "compound_code": "CH95+XM Kitchener, ON, Canada",
+      "global_code": "86MXCH95+XM"
+    },
+    "rating": 4.6,
+    "reference": "ChIJw8-d19qKK4gRps4cBbqZMSw",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 170,
+    "vicinity": "Unit # 203, 385 Fairway Road South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.433415,
+        "lng": -80.4273688
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4348136302915,
+          "lng": -80.4260651697085
+        },
+        "southwest": {
+          "lat": 43.4321156697085,
+          "lng": -80.4287631302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "River Family Dentistry",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110902262496373426430\">River Family Dentistry</a>"
+        ],
+        "photo_reference": "AeeoHcIG8YfVFmFQXvE7uXlWCFEvpNZAh8OUXZGihnDyE7Y_PS_VLsPq0cBXaOuov8laD480n_I_0iBVBRBAuOcwz5TZnWWPrsAExmSmupkp9ImgQ9-lwGxFMUuh0BWkHFnSN2qPJ8IiU8kItaoXwdsl0mGwu_e99IHG-EE90QJOEJ99WqSCvubTYG7cTdgL60sSIaOQ8AinMbjr9QLq4dMoR9iHYR-_YadGuLbeo4ZnS2QhPjv9u_WEtJg4u9RAqn6CkLu-YVYn9TrxuIFsDru4eLIvM5PS-6anyogLIx9M9YrTNIJWq9MHadG5Itggf-pnxSHXSp4oCbg",
+        "width": 1000
+      }
+    ],
+    "place_id": "ChIJP3JkbhmLK4gR4yyzAOGZl2Q",
+    "plus_code": {
+      "compound_code": "CHMF+93 Kitchener, ON, Canada",
+      "global_code": "86MXCHMF+93"
+    },
+    "rating": 4.9,
+    "reference": "ChIJP3JkbhmLK4gR4yyzAOGZl2Q",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 366,
+    "vicinity": "1401 River Road East, Kitchener"
+  }
+]

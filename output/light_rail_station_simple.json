@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Waterloo Public Square Station",
+    "coordinates": {
+      "lat": 43.464142,
+      "lng": -80.523
+    },
+    "longitude": -80.523,
+    "latitude": 43.464142,
+    "types": [
+      "light_rail_station",
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Grand River Hospital Station",
+    "coordinates": {
+      "lat": 43.4573,
+      "lng": -80.512034
+    },
+    "longitude": -80.512034,
+    "latitude": 43.4573,
+    "types": [
+      "light_rail_station",
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Grand River Hospital Station",
+    "coordinates": {
+      "lat": 43.457268,
+      "lng": -80.51207
+    },
+    "longitude": -80.51207,
+    "latitude": 43.457268,
+    "types": [
+      "light_rail_station",
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Northfield Station",
+    "coordinates": {
+      "lat": 43.497187,
+      "lng": -80.543229
+    },
+    "longitude": -80.543229,
+    "latitude": 43.497187,
+    "types": [
+      "light_rail_station",
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Fairway Station (bus)",
+    "coordinates": {
+      "lat": 43.4223529,
+      "lng": -80.4420037
+    },
+    "longitude": -80.4420037,
+    "latitude": 43.4223529,
+    "types": [
+      "transit_station",
+      "light_rail_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  }
+]

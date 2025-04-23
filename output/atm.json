@@ -1,0 +1,2037 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4782106,
+        "lng": -80.52041349999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4793760302915,
+          "lng": -80.51897491970848
+        },
+        "southwest": {
+          "lat": 43.47667806970851,
+          "lng": -80.52167288029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+    "name": "TD Canada Trust Branch and ATM",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114595817457583994169\">J C</a>"
+        ],
+        "photo_reference": "AeeoHcI6wWBZEfeOrnM46k_K5Lw5EoJ1jlK5llOWWyzx8_H7V2RrLa5nGw2OAE69Db0IxiUxYhnUZKEyxeBLrpZ8trq7Krl1dFYTxB-CSI4AeDz1C9jEopYK92I_BcHgQV_VV4_aLKFsfGqJXJhWDzNqRQDXsvotJejjP_6Y3CHtVIgvgmhf7uGO36chrAHlUrCXOF_gcv0_f8p3UEaSfcKFYW-00Nl-pYOVG3oHAW5EaIsgF17k-8jh3qPweY-Arr2U6V-OT9njblRiV4ADzYRDIN-gt0xRgnl-vxqDyetiJIdfhI7pxR6yywzZj8OFD_6rFAzAMoO6KastehaVwmUbCpPB01dOeK1Y2tBRCXLUYwmnvcZwf5zxUCs1lwpqEm8N2IjHRmaDvCtMpp1drxB5kfikr1KvBP5PifBxf80kSbyWYm_I4xxoAomeKnqiWF3HHZKZiUSh87-hAhSlnWBnNVdclTBK1LK2_rtaCFkq-DZOado58asJ7pHOgKbmY9WVpnlRGIN3sKSVKtHSOwnWIF2guNuaHsBVrr3cdMIBiLrVNgu7kwhA0y7lkvoatLZSznjpjeRAHEn8pHHKx37RTIp8ezt21VuArGbpe1rvWU9mg7rFxEqGwYYWNGHh-fAeIK9yoKby",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJU_ZSyfTzK4gR6mGGiqf_l5M",
+    "plus_code": {
+      "compound_code": "FFHH+7R Waterloo, ON, Canada",
+      "global_code": "86MXFFHH+7R"
+    },
+    "rating": 3.2,
+    "reference": "ChIJU_ZSyfTzK4gR6mGGiqf_l5M",
+    "scope": "GOOGLE",
+    "types": [
+      "bank",
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 99,
+    "vicinity": "68 University Avenue, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4626254,
+        "lng": -80.52188629999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4636679802915,
+          "lng": -80.52044931970849
+        },
+        "southwest": {
+          "lat": 43.4609700197085,
+          "lng": -80.5231472802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+    "name": "Scotiabank",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102013327316992119002\">praveen Kumar</a>"
+        ],
+        "photo_reference": "AeeoHcJ6SdZxdqHt0CZmqjXu_se1HaEqtcnkKuga2JmznnTzNRcFLoRJeWInNnnFAlQiTRMBLB2b1TI0SIL3mU5205rSexxM9Wx8e4fzVN1kzoIa9Wd1Zu7f3w5ltdbcw0xwroIM1bWmlFrO3FoCOlWdfcdLMXYegRrzVxPhFbxAhbFh687PIb0dQIeV_sT22hYIc3ey5pO8NZLckstC2d78efIRwclvyvACi3he7_-p8dJJEokP83MxuIPx_wvVduqMWodrSB41ka9mfPxHVHwbHgdmgokz3N6qZURNDX3pLrCBdFl7jgJCU03vGxlBi2JtMTKkasO8uN9ArAjkoF3QN9FeV7qee-TWy9aKA2DaxSXExRZOm1iA2yMvui56G4zEwyu4sRlc7VaQixvhdBupsdf5ZQI-htoZlXlTSdMLh1CEzEd2v3OUnjPieCcC22xASDFlKd4uhFSFdSiPobGw8pFc4A2PMJaFfZg1v8W4J8IxgcH2iZ4pc1vmim-jaZ27p5BgMipO1T6S-7f7uCb47SspuCdjEzAcs8P61f7lX-sxHdWvst1hEAg3MwtMOQjX18x-FbwfAnGbg3HNV_hVBbJI1NnHJVwh6Pe6BnLQQN-rE4T0_AThTXqbAOd4tzWbGQcXEQ",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJg34IKhP0K4gRHqH48_uugMQ",
+    "plus_code": {
+      "compound_code": "FF7H+36 Waterloo, ON, Canada",
+      "global_code": "86MXFF7H+36"
+    },
+    "rating": 2.6,
+    "reference": "ChIJg34IKhP0K4gRHqH48_uugMQ",
+    "scope": "GOOGLE",
+    "types": [
+      "bank",
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 98,
+    "vicinity": "115 King Street South #90, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47609249999999,
+        "lng": -80.52452730000002
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47742888029151,
+          "lng": -80.5232802697085
+        },
+        "southwest": {
+          "lat": 43.47473091970851,
+          "lng": -80.5259782302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+    "name": "RBC Royal Bank",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109983615008258508692\">Pranav Sidharthan</a>"
+        ],
+        "photo_reference": "AeeoHcKtt8znWRV4opOpDlsu2f6vXhLrA5UPDhxoeuvo3ArUZm3KF_giAJPSOXMH8HrTp1O90YQmVsomf4mSi5I6RjtmUTU5UZ6oZExYOqVUgfl_orjDitjp_1VsD2vmY5y3EXJDmua8C9vY-bE7-KyewKI3N7haFT6ZgQfs3dZpCSYLkucOHQDbvn6Y1ZokJ-VWT2G0n3UKxG0bJBdkertW3u-9EfC5ga2zVNMzYpXIYaVUN9qsPwmKVsYKaH5UEv4u7-NvrG4zZWL0_TpMK1OtrqH7EeCb3wzRu-Sx2N3wdXUEhlzxEyAqfHSo90NKGMVi7iHKaRSsOPQ0l1nQRNQTVjQ-iE_XG3ZaHvhrzqNQUFnf1-BtZubuONl2vDwlK3mZUXx7j9s6UsuEQis_1UUCbyPfsiG6qTwDbh2rt0EZyZzkngRgDLILLLyzIGbNHTxTNLu8j2H7lRX3RC9jiYyMBeUfkTq39232fIYjtl3rZgWkAtbfLA_5z1SSNIsYfGlYStiL2EJbfYDre3f1i9CLTK3A8mu6ictGQ7C9GueT_rgMsKtHz3cuAbkPAUvgzubCSHOs0-r6xvmRlsToDtIadGr1X7UBMhcZ2_ncOThgQyYvRvHOqAcxx_ltyZnmQUpa8VhOUvkz",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJp4Grr_XzK4gRRhZg67Plllw",
+    "plus_code": {
+      "compound_code": "FFGG+C5 Waterloo, ON, Canada",
+      "global_code": "86MXFFGG+C5"
+    },
+    "rating": 3.1,
+    "reference": "ChIJp4Grr_XzK4gRRhZg67Plllw",
+    "scope": "GOOGLE",
+    "types": [
+      "bank",
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 101,
+    "vicinity": "248 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4147609,
+        "lng": -80.5102857
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.41624048029149,
+          "lng": -80.50896346970849
+        },
+        "southwest": {
+          "lat": 43.41354251970849,
+          "lng": -80.5116614302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+    "name": "RBC Royal Bank",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2988,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101074119486983296330\">Darryl Verduyn</a>"
+        ],
+        "photo_reference": "AeeoHcItZTCBEOGu8oIvKFUZ8mMWUArRbumSd-M-dAP_P17LhpQnOulvuzOr0EkuiJrPvgL-hZg2cTeqmWftkHQPU_mBHYmCGZ00O1GGn-bQt3_GiYiPfJflp1zitI5pPcNfgh1aSdIVrNNbRuzqvylWstJ_xYTbeYL23tiLXvBfNoMEk7XvkAK8iQYJV94Qyt1MBsVMAiG8hOZjibyUg-hO9_TtJiqDEC-wjDOKeQCSBVUh-jaTLkEzFSwotOUwp6DD5AMiIiqVy9fdgy-KjyfJIeRh78a35aGAOJRs_bvjjOa53T1du7GL2-XcwhEs9tUin5lwqxaHV71GlDHw0xdK8hgoI8sdsGEj-NqBL6jpQsaCm79bw5qNqam3IaK7Kn_vVuHyzUT8VyK2Bg5aWS-ulAj11kfBoKh9w3YJZKej3PHiNFdhzESe2R7KbK6J0nj3EgnHilKa3uMTTWIratC5t5d63h-pE9xnJqGAPl5wkfuVHsHR9GkUCCAoTvysvbu_d9Jp6e2Q736okiUQtnxYnpxQ1hm2MNZbxHa15U-7S6s65NOFcLdyu56XSaHBcPTx5WdRtfue6_vYyNUWdrxha2qjT0dNlQLx6yASAn2c3yLhW6gyzoholPZN-AiIaMhcilDGpN92",
+        "width": 3984
+      }
+    ],
+    "place_id": "ChIJlTbuqqL1K4gRq82dlRhKVDs",
+    "plus_code": {
+      "compound_code": "CF7Q+WV Kitchener, ON, Canada",
+      "global_code": "86MXCF7Q+WV"
+    },
+    "rating": 2.2,
+    "reference": "ChIJlTbuqqL1K4gRq82dlRhKVDs",
+    "scope": "GOOGLE",
+    "types": [
+      "bank",
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 91,
+    "vicinity": "715 Fischer-Hallman Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5010291,
+        "lng": -80.5332962
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5023110802915,
+          "lng": -80.53205606970849
+        },
+        "southwest": {
+          "lat": 43.4996131197085,
+          "lng": -80.5347540302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+    "name": "Scotiabank",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 897,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102884814698418699128\">TP G.</a>"
+        ],
+        "photo_reference": "AeeoHcIMOiHH7iVRlzVNBzaD7J0zMYd6FsfsGI4cP3NCLZ7lFOazu7tp9t1taWZ0UDPm3tgooKIAvj11iWWMZlwZCxlOKnWJNoxucSanxOaBQCsEPtcKYyPLe_Nl5qF-RZ8i5zUN_iAfLnRmG1gI-ZbUU5QiGyDNFu1X66bRryYYu_1koVEqZdk8LQCwsr3mF6ZWs78Suv9CxvRoe2hkqonu14GL-fwQfaMbmGX17uEG58-P4ToOTFm23NPT9PrxKsYTfZBxMBOfIsO5JvQO97O8bJjOfmcO1Zb5fZ3NKZGNE_0TdBGkGvrvhPMbVficE6WgqjcOEzWd69Rt13qTU0cD-sQw8jKno0khbcp6kw58M5SAzUTqd3t-kLxYcChfQVre3MMQBw8W9Yjq2D17huxorjOJlsXDjgCtGP-tdEmCUAp4LxjR6CMCktIROo9xQktBi_kxhvWPUv4bxnAeBSAfjBKOGozwI5dpNLHQR0BVeVTXH-Mxl6eU6LmiJ_kU139xRJVSHAGU5n3FHxdzjwb4Q9JFNZsfA9giC_bzp9rgijY9D2ApGn76_WAij5UBUrcVmOjInLNiovuN0nn27Lpw-eTtWWMI0DPEW6eUly1yy41JQEPslLGcUaoP4ptHDULHlHR4vZ1i",
+        "width": 1420
+      }
+    ],
+    "place_id": "ChIJEXOaKtvzK4gRwIJphEwhbww",
+    "plus_code": {
+      "compound_code": "GF28+CM Waterloo, ON, Canada",
+      "global_code": "86MXGF28+CM"
+    },
+    "rating": 2.2,
+    "reference": "ChIJEXOaKtvzK4gRwIJphEwhbww",
+    "scope": "GOOGLE",
+    "types": [
+      "bank",
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 59,
+    "vicinity": "569 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4510535,
+        "lng": -80.4918722
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4523236302915,
+          "lng": -80.49057756970849
+        },
+        "southwest": {
+          "lat": 43.4496256697085,
+          "lng": -80.49327553029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+    "name": "RBC Royal Bank",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101276968877339321445\">Sohamjit Das</a>"
+        ],
+        "photo_reference": "AeeoHcJruP0gODDRF0jWJHBSzYgenyw-lNUyoVlAFbu59ZTgLFrZIkLPRWeauPfPRKd7RT3MnhaDM9U8m63wieSzJ3uSon956DbnKhSVOGQY7Uj0WKNBSvjWxaOUKm-PYFjBcAEP2tSeiAwrsjva3duDLUiBiRqaseIgEz6LARlglmINO6LqpWDUvBkmrI5bs646a0cE_IbM_7DZqkKZy1HpKlD1lE1QvyfkJ3hEssM-U2WM_3zgxFQ0zDoXdyHHYYA9aynL-WhhpbDgT4Ek0B0lPqtXVI-z77cujaVj1mVYapAfRgbFXP90E9NExgBAM1AfvLm5BJOpAow2mkc0ogT_cGEcBvaqyjxdrlK9jEQFuIXuetyEsGmlMmcWHT-j1m2iKJuuIKzcpb5UVmqQnZg789FHgVU5LDPalxWaW2tDF_zj8fSEsm5FZeDOLw-27JWTNbyLPjSnfBgMk3FSTkJu18BbspS6O0J6UpyMxgA733ZqCKunkn4Eo9dGQ4_G8xgocwSBTNg2me18H9cyQquLOZV1b-bJd1oiERznsVk8u_vgYzRRIQum37mE1EFyV2WYuFFlhxsBmbMoiX-EZODmJZYYLQXuyrqoICxfGiQnsJdf9AgMDXkmC83mADaQX8aelmFi0g",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJLVsLufL0K4gRmW23FNn1Py8",
+    "plus_code": {
+      "compound_code": "FG25+C7 Kitchener, ON, Canada",
+      "global_code": "86MXFG25+C7"
+    },
+    "rating": 2.8,
+    "reference": "ChIJLVsLufL0K4gRmW23FNn1Py8",
+    "scope": "GOOGLE",
+    "types": [
+      "bank",
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 58,
+    "vicinity": "180 King Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4461947,
+        "lng": -80.5726481
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4476095802915,
+          "lng": -80.5712794197085
+        },
+        "southwest": {
+          "lat": 43.4449116197085,
+          "lng": -80.57397738029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+    "name": "RBC Royal Bank",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112482415753734225075\">Chung Hsien Lee (Jason)</a>"
+        ],
+        "photo_reference": "AeeoHcLf_LFTJ5WQTUtcK0Xaw165-YNZhKE03SBAl_DBAL3GeBBzWB_1dZGvTMSWo6lhZQsUaCT5PZIxf7JL8jjzNxTtd2GwLf5hWF8CQPMLsfpPdsmW6ekcg1qREwX8itrpZD3VmSphs-6v0I-pKrGEobmzxOtz5DhekmwEYsrOragoyv7fZWJBQzqV7tmJXri3UyXFOz8HQYRiIyDuj4IAoK-MmPK2VS9n3sW5LiT6jN3BFA104pUxtUk9SSIzYCVQX8lHK4a43Fqb6VZ6AzOVT75TPMvvp4PW6oeh62fw1z7y9lhaa6hYv0HruGho85OcYgBkzatNbdLa6WuVWYaJWmd9Lmeg4h4IP1xMvSfadu1c7n1p0GwIShwAzAzJSJY0njTBhKzxF0LyQ6obmrYWRmUsfrJnO-W1wkmC4TRRrrzPsAzBW4Dtiq3uoYofUCF3CQukDck5Dxb26pNeg1Z87bO1ymdhY02hppoczMffi0081KD00avBI_fHVKdyy1z6phhK65yUTLyiQtfoq5_szIbnbvIDCuPKzQ5oi17HxKt_hf_rdxa9zkvuIJw6oZ_k3R_yD36UhCLssjJGPXTfV-tASGreXatbY5uiEoeGkeX1w-_nUnBl2g_8KVXIQogIoqZy6g",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJG3RsYfH2K4gRjSxIz495l0Q",
+    "plus_code": {
+      "compound_code": "CCWG+FW Waterloo, ON, Canada",
+      "global_code": "86MXCCWG+FW"
+    },
+    "rating": 1.8,
+    "reference": "ChIJG3RsYfH2K4gRjSxIz495l0Q",
+    "scope": "GOOGLE",
+    "types": [
+      "bank",
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 75,
+    "vicinity": "652 Erb Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.435458,
+        "lng": -80.51427749999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4368801802915,
+          "lng": -80.51296856970849
+        },
+        "southwest": {
+          "lat": 43.4341822197085,
+          "lng": -80.51566653029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+    "name": "Scotiabank",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109755365417170039354\">Chris Colliver</a>"
+        ],
+        "photo_reference": "AeeoHcKt0MJ1VNfUWO72aesew-2t_GbBF45lwQpeAdFHhffMwUHFdgCncXtnBbjP7JEdTZU6sIWgHeFbgWXqIYEGAUi6zOIFp4qFyl5q0DV6nWPm_hado2Zz4vP1eJT5cHSKZ6TqPRBKJ1EmK2RLN1PzxOAbrjmEL1lr2yX9posc27UvfG_ZcDxO72XvneEEGdim_XAQW03GOH_yYrG7YbAjLBrMEVKFQvx5G8EbYDt_glsuu7_YrHBqnPpM9v4PBArPdkmC8nqZPFNq-oenthuZ-vUr-vAvHfuvYGhJC4rBZRM3XFEmn4gxnKhQ5z1_uVoD_0h40937R_sML8SkqqsjurRYMSr9P5srgu9m_qv0qm7yLTMGUAA51oMkil791xwS_XLDkgYmFLsAiGlhAKCgTpcUEv1ulzZrJEKmVltrFLginBiwzOjz6Nrfx3SED6zIzzdd-L7t7IuWCyh2PB7lH7hdLIngJ7kJL7uIEBjvOasb_m9W3ArnwcxvdPeHZAgE_QngyimAOk3ggF1j3Vg8GuKMy_GohbwgQyehJQ0ybqXA5rb3biqbm1f9XQ2t0OLmfPJQ0FWpUmdVgrUJxMGyFOnHp49uBsITWxKFwZGLP_aqWi3DQTxbPHTysrt3qbq3qHEQ2MWi",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ9TYMt0z0K4gRtMSLrHyYxFU",
+    "plus_code": {
+      "compound_code": "CFPP+57 Kitchener, ON, Canada",
+      "global_code": "86MXCFPP+57"
+    },
+    "rating": 2.7,
+    "reference": "ChIJ9TYMt0z0K4gRtMSLrHyYxFU",
+    "scope": "GOOGLE",
+    "types": [
+      "bank",
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 151,
+    "vicinity": "491 Highland Road West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4677274,
+        "lng": -80.5192
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4690879802915,
+          "lng": -80.5180570197085
+        },
+        "southwest": {
+          "lat": 43.46639001970851,
+          "lng": -80.5207549802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Kindred Credit Union",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2729,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107075419234810220288\">Kindred Credit Union</a>"
+        ],
+        "photo_reference": "AeeoHcI_ZFRhZGXr4pC8hu1NlsRHt1esziaZq5kerhSyuCJRR4FVCVymQhr15TjjJTbQHAPNJsngEQNOcO5W4kD4pVYCEXZ1q6IR58_JYSIjStN5ftrTSju4fkjuG5UINmWDIVESKNMsN7hT0zQ__ZD6MWczK7Wzsk39X2EnquNbfY7HGqpCGLLGb6RJNmMzgflC5TP7LyilnZ8AXTJL6g2Rb1BJa_1kqy7_avLPY3rCK-wqjyGoMHvCn94q5OvlGy2Q-sxABUjn5PncKkj4a69n5oMS0g5PY5Vc7vykNhoC5J7IgS4296ulTmMbmP6K9fyPOn2a9h2jGfU",
+        "width": 3689
+      }
+    ],
+    "place_id": "ChIJO1L7j3P0K4gR9cnVHzUl8V0",
+    "plus_code": {
+      "compound_code": "FF9J+38 Waterloo, ON, Canada",
+      "global_code": "86MXFF9J+38"
+    },
+    "rating": 4.3,
+    "reference": "ChIJO1L7j3P0K4gR9cnVHzUl8V0",
+    "scope": "GOOGLE",
+    "types": [
+      "atm",
+      "bank",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 18,
+    "vicinity": "53 Bridgeport Road East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4220954,
+        "lng": -80.48914429999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4235367302915,
+          "lng": -80.48782081970849
+        },
+        "southwest": {
+          "lat": 43.4208387697085,
+          "lng": -80.49051878029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+    "name": "BMO Bank of Montreal",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 768,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118141292848437638476\">Marta Borowska</a>"
+        ],
+        "photo_reference": "AeeoHcLP7eJQswWpqGl8vVHFkrQJvEHtnCxgBgDrSzCtQbXJNznShhmF8HLUEiPM5T8GqGH3anb5xukS3g7FjvKjs6tlz3OD8kt_KgFBOHYb-6w3zEs353Zbv1VNhLQGfI_tbb_3CD2nSAA4vHl90TBgAigVSMxPo6cNwuxeDbIy6ullTPpaCJXsRGSKqdHPER1JDhveArYo2PtRZPH5UgYpcdifeevMBKDzQI9knvdl9zAQRWSlDJalKyX4QRExPtaiSpU9-JxRIhnz3SioXFLZjL_rRubJc9hTFS86pgx6YkEWTnYEQCG3TPdJS1F9wFNTtknHvlBwZq42iS5BlURbNr7RZsZLaSQn-Lp5ez11soZ7f40gZr7RMXu02u7Q6JK1ITW7W65RIvEX0wLu_CYPV8yicd0OtNVkxfxu-YQddj149d6uoE6-adqS5W4Y3w5-t2TMPJQqvvN74H7BFFF8vfC0YDYT4sBOxwK_yTu5nHyvVXpcKB45ExQzQEOB7DLSSAyPBO4OKPWWjAp5es7b03TL8D5FZj01O5ouOQ4aKkLJPW5Jytwl_2lT3fRkrjD-UgDtQeTdZLoV2b4Ic59KYAmbhaa_DPVaB0rAlTu1vVRbdWgj2lh-125LS-ZAjeV63RKTcyYz",
+        "width": 1024
+      }
+    ],
+    "place_id": "ChIJn2FuRQ30K4gR9dWdWLkfxW0",
+    "plus_code": {
+      "compound_code": "CGC6+R8 Kitchener, ON, Canada",
+      "global_code": "86MXCGC6+R8"
+    },
+    "rating": 3,
+    "reference": "ChIJn2FuRQ30K4gR9dWdWLkfxW0",
+    "scope": "GOOGLE",
+    "types": [
+      "bank",
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 56,
+    "vicinity": "795 Ottawa Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.415744,
+        "lng": -80.5109021
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.41712158029149,
+          "lng": -80.5094980197085
+        },
+        "southwest": {
+          "lat": 43.41442361970849,
+          "lng": -80.51219598029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "YNCU",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118141292848437638476\">Marta Borowska</a>"
+        ],
+        "photo_reference": "AeeoHcLIzlAkITstsIJSi3SZAcQE0nyzj_p1sCQGqf4CDMlBw9aBgxkNwib1FMzsdzHkoSjAm4ssUb39agXTCSbJQusdVsKiqCJPfjPhNn1pZospINA5L0vzZNL4QQjyobRa4wPVjkvgGXTthsU9BeiP4eQVG4IiyO5OmmFsa401N65UHPLe4rPLQ-jiucuNnL7AsVdQ-qozfs8r4_B886kT4kwOV2Qunkdrvun7r4urgYMjw98qzKNc9iU2bxhK1JOdZNHUufr82I-N1Klc8YGMJ1z53njy_DFFVSSWGN8zedvyGbuVYyhG77eVX597JoeaynvlRQ48mvke8wEP_AApqfy3oM_FtFiMBCx6M0iXBce-spLbNsX9YQxl-au__diYdCdmgDS6-lTiDJnD2IfKUHVHMVjQ-FFZyGxMLwHrk7AUcfmGSkq3Y5s_fzlUVVg5DZg7EwopnsaUfNNg9sj1cLcpUjaNzFG_s9Hxwb29GOtS7Icp2cKEk7rA9gEh9qMirv5x3IbkIXlRN6Q64kf60t1H2RkHjRmTtoNGdIlFGkXTFYLJeoM6e1wWIUXpM7ffh-pffJ2O2Eqikyc1k0_Dmwabxoq0KpwidkCWFj29d_o3oyyFJ9f833IJGjxZB49H-0CXhA",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ_1Vv_pf1K4gRqi01XQb-dyk",
+    "plus_code": {
+      "compound_code": "CF8Q+7J Kitchener, ON, Canada",
+      "global_code": "86MXCF8Q+7J"
+    },
+    "rating": 3.2,
+    "reference": "ChIJ_1Vv_pf1K4gRqi01XQb-dyk",
+    "scope": "GOOGLE",
+    "types": [
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 16,
+    "vicinity": "685 Fischer-Hallman Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44954859999999,
+        "lng": -80.4449721
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45098613029149,
+          "lng": -80.44364151970849
+        },
+        "southwest": {
+          "lat": 43.4482881697085,
+          "lng": -80.4463394802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+    "name": "TD Canada Trust Branch and ATM",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105948976188393920878\">Apurva Jani</a>"
+        ],
+        "photo_reference": "AeeoHcI9mYZS6t_WlgAOn0QTyXcqPwFGXzN7Px052A0cFCm3YFR52AxWtPHiPTee_8vbJk26Q50_ofyjjOQk3up9hE1Sr4LQWtoq1KCeYaD_Zc7LO6RWPHkwFa1PVc3QgZZ6JftZv9JF2Hj0MOO0e3H9zPzFX-Ht6p62rCUp5tOx7AyuhlysHsTuYofUWqxs97rIJK44QhPvmJF27GvV7SUCfR7D-CXJFU0E5GN4ORt-Sapwp06ADV3BFunuM_ihRu179pUIW6jl20Egz01-EVg_-hsxJZatEggEH6A5Ca20R6jYv7yKk7pskzns_-1XNsnCP-gqGKeyz0gl9TVHqVfWCoWdGJbnvzeG5deCKI6c0O88VFXSZb1lyNtezq7HKNS3BVQtknQuLJtDg8XCclBtxnPuS1aqX8x1loB6ziG9eKl8l_VWGAnSBXZbslJhyjyAv7qZY0wsfddPJfBjOsGYn3MQQnz3htNRsz5smdKiC6lGmhbi5t8uEmSm79b4pIXy23ujJ9VqisUGaaYylOTZoElFg5oLwtfbS2ekThX-czZC5mw55fNxX-BoKrAjVjn5l-IemGnlo1CmZyUubXYTEkFJyd1dRWOi-iv_OTjbWFL42wRRNSI4HvVE4xOkiUP7xF-QW8J4",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJWVmSGEiLK4gR0ggI2uu74ik",
+    "plus_code": {
+      "compound_code": "CHX4+R2 Kitchener, ON, Canada",
+      "global_code": "86MXCHX4+R2"
+    },
+    "rating": 2.6,
+    "reference": "ChIJWVmSGEiLK4gR0ggI2uu74ik",
+    "scope": "GOOGLE",
+    "types": [
+      "bank",
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 106,
+    "vicinity": "1005 Ottawa Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4564156,
+        "lng": -80.4607087
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4577868302915,
+          "lng": -80.45939946970849
+        },
+        "southwest": {
+          "lat": 43.4550888697085,
+          "lng": -80.4620974302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+    "name": "Little Short Stop",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJgeF3dLH0K4gRcRd3OM4CzKY",
+    "plus_code": {
+      "compound_code": "FG4Q+HP Kitchener, ON, Canada",
+      "global_code": "86MXFG4Q+HP"
+    },
+    "rating": 3.8,
+    "reference": "ChIJgeF3dLH0K4gRcRd3OM4CzKY",
+    "scope": "GOOGLE",
+    "types": [
+      "convenience_store",
+      "atm",
+      "liquor_store",
+      "finance",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 18,
+    "vicinity": "501 Krug Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4440185,
+        "lng": -80.46900629999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4452925302915,
+          "lng": -80.4676715197085
+        },
+        "southwest": {
+          "lat": 43.4425945697085,
+          "lng": -80.47036948029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+    "name": "Little Short Stop",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2736,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108822761296561478687\">Patrick Asselin</a>"
+        ],
+        "photo_reference": "AeeoHcJUiHuKE8DmDmkSnEHLlB1bZMxKcCnlN1oqJxdPpYFiYauTHNT8c-4WhLpTOoeZLxeJFzMvH3rRo20MaOGs0s0Abaxsn3wEMDDNanCE2Dasc0MagZS8MX_niL9eS90JrJhhnh66dWGYQMWdUkCsM8t2oCp3G7Y_ILzznecydcjOLP9qlcn5lPFRAlF_6dJOKNtFvwwXOQ8IcaHCn-7KUlZyls2JwwnTmVIj2oLUJZhhpNPtF_O1LqELk5uON_SPtwdmwBbhMBKXBClNnfX4LhWVraAI-lxc_vTdt7XHjJ8iuhY1vkwqyJGWJwn2N_XKTAyZ0Kar77HOnrmAp8SjfZRvN4-NvFn-mb8FI30N3vMEJr6M5uBzBzX2Ue1tD0XERn9vbxVbbboEG4KWUREIgbWplNY97y8V5VsyyMwV5cNbc7M-WVYDK1a1DqvRdfvfhlBZwYYqoLFsKlOjJtZPaQImTJKRN-p8OhJpzz9xp1lJyzj3qbv3C0o9xpTXLcN2jzkU-Rd0fW5sCHANhGgfFT5fslIj4Vjiwc05Px8XJBhgL3etGgkcX8BuwXqG3vAxrOSNxN0FkeISZlAgZ89YB0gYNIWDiEimLsoP0-QwPOh4x7n6dSEIq44oPGYhIKNQy6YXvg",
+        "width": 3648
+      }
+    ],
+    "place_id": "ChIJW3lvVcT0K4gRwe8tM0Nh2Cw",
+    "plus_code": {
+      "compound_code": "CGVJ+J9 Kitchener, ON, Canada",
+      "global_code": "86MXCGVJ+J9"
+    },
+    "rating": 4,
+    "reference": "ChIJW3lvVcT0K4gRwe8tM0Nh2Cw",
+    "scope": "GOOGLE",
+    "types": [
+      "convenience_store",
+      "atm",
+      "liquor_store",
+      "finance",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 30,
+    "vicinity": "120 Ottawa Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.50320829999999,
+        "lng": -80.52783219999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5045414802915,
+          "lng": -80.52642941970849
+        },
+        "southwest": {
+          "lat": 43.5018435197085,
+          "lng": -80.5291273802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+    "name": "Little Short Stop",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3464,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113512457090145462310\">Ruben Agadzanian</a>"
+        ],
+        "photo_reference": "AeeoHcK-qC0-jMExTem2Q_sQ81HAWuCz4B1uRd79gsQSXYmKu2RRfc-59NbesM_nve3-SL_VxaVRIQxzypFhqdur4MoXVNT3mB_a3ndJKzAlhu2rtM1eiRzlFG4bX1dJ__Cjp4-l-CBgXjzdCVzjUrXPjbCy7R668AiXOVzG2d5eCoft6F8ylMsljRTYqmJ_bc-i38sIw9XyV4MYL9naYyfn0ghlMSaA2u7sY9Gdnhv1nwh9C83esK-0PC7xzuK6EYVmSChFbYGg6CeYH2q_13NqepJnX3jsUbekn0XuFK7cnm-yOeXyDj5zpKryvMqIBCMUVDvhvH1MFdOjGHagM_JlFeHUOyJUeaBoUCjEQanS2tLCcKyYU5J5Je2BvqQtKNK5116y-rxId09IIChvcvy32ejyEZuLTl9fAh66TfJk4Wvi9cnOPrKuM15Vqt1isYAm9Ph2uTf7xMyAXwgp0v0KmCztJLfoi698Lndf4xhk-yI4gwFULRUh_9haQTgs7BkL8jVQjCwQf0KvRU-UWcuxvz0XctPmMjHKIpRTwMlC_zp-37c3Lyxv6-QSG6w968O41x6L8XujIBQYqGchDbLNfqkL9v6Fk13NmgzT29I360tx8pVZUxyrz7vJJr75Mah67FEH7A",
+        "width": 4618
+      }
+    ],
+    "place_id": "ChIJoSw0aywCWkARx-D1IB-1vbY",
+    "plus_code": {
+      "compound_code": "GF3C+7V Waterloo, ON, Canada",
+      "global_code": "86MXGF3C+7V"
+    },
+    "rating": 3.5,
+    "reference": "ChIJoSw0aywCWkARx-D1IB-1vbY",
+    "scope": "GOOGLE",
+    "types": [
+      "convenience_store",
+      "atm",
+      "liquor_store",
+      "gas_station",
+      "finance",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 35,
+    "vicinity": "55 Northfield Drive East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.451598,
+        "lng": -80.44366200000002
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4529255802915,
+          "lng": -80.4424443697085
+        },
+        "southwest": {
+          "lat": 43.4502276197085,
+          "lng": -80.4451423302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+    "name": "RBC Royal Bank",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 16320,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114138184057500141438\">Jaydeepsinh Darbar</a>"
+        ],
+        "photo_reference": "AeeoHcJvxprFNdJuytLpyhQubUdpBGSBXwC60ZE6Eds0pG5XlWB7n1EdiUQfPt4fYZSKNhfJkGnWlPQt1XRzh7_geppB4wsxITZsKKh1sIaHHOFNS6Qko_kw9rzsVrz1EynI00NuKKQ0mI_khq6pz5IumChalPm8xbhX6MmI6iuRN_S_g6hHaOlK77ETINQbk6JTEvuOAhIXxMTgd9-5tFxAdRODD1YlIaulqRZgu9GTENOcUaLM-vVCeztUJ-JZE5oC3dqmAb9TSubC2GhC08rLN7b8jzTBXZHKOaKDSV6d1Yi8C3nfe1ZrFudlgZsCWHB2UsdWbrfB0vrmasJxvr93HvPjmzcDG3rqHtAI3Sp9g7PS6pewA34d9iUC7fC8uLd5M5ddpJOP-tDASgCY4_cJWL15CP_qTndcFe2I7Cgv-rRPpmj0lgo-L9YXGkAk1N2NRxmP8QiTaW3LNezWN53D0-krfRcj6AJIQugm98Xd8-Tt3NtgHuGF6ZGm5R-TtSl8FVtWwaclxnzouiZ-zlbYCpcqMcARNpZPmgNBkyhGptyr4WNK0jmFKhL7fxNsdVzDE_5BAK5zrNZLeoVWy6y1kjQz9C-2bo5HjQRX27HbIVIazGW7cwLUsa23YT1qiw",
+        "width": 12240
+      }
+    ],
+    "place_id": "ChIJ6aZSXkiLK4gRl49V0jeL8x4",
+    "plus_code": {
+      "compound_code": "FH24+JG Kitchener, ON, Canada",
+      "global_code": "86MXFH24+JG"
+    },
+    "rating": 1.9,
+    "reference": "ChIJ6aZSXkiLK4gRl49V0jeL8x4",
+    "scope": "GOOGLE",
+    "types": [
+      "bank",
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 53,
+    "vicinity": "1020 Ottawa Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47624880000001,
+        "lng": -80.5253354
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47768833029151,
+          "lng": -80.52393981970849
+        },
+        "southwest": {
+          "lat": 43.47499036970851,
+          "lng": -80.5266377802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+    "name": "CIBC ATM",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102824176067937656860\">F. T.</a>"
+        ],
+        "photo_reference": "AeeoHcKBb3ETc3xGvgYdxd_gu1l5t8KmOh9iDIP9E8s-7pyRrv8PZraBLEsKaN7NwqBhy16BsFnKUupv6ZKMZhJADCm-1AEfdsmzfTAf6PS48oNYW-zz7oLCZrMrk_XK827RT8hc7HDoMG_TTI1HMDnUw5gNyrbYIONbCa2Hm0SgqW3NbjSj-s_LcF_qlcn9b2sXFflLCkoxjNyXfhWbhKjjB5FKUlJtWyXlRq5rLmZ5V1XrjIEuME3jQyWat-vc8GxlR-zLn5uPwpodhcsRut7GKbNbMKeUtHC4f17VXB7UUPItvsDnHETRzGfGjW7hyhbpKqg1uuonLb-FKEH1HA6_x4TAxHjYF9-rzRpiDuyUAV86d_aLZ5BXxcIpQcuOKd36R6YdvV4vCws1Ajd8nuWTYJAwFS631_wZvMYrW_nMV0FUg2Hf3Az_d7Be_J6N2JfvuIxONHzJrqZmwG_qrdufISKyVkVKNo-e_GQmvNvkxrB-K5OyDWQmsHoetTtK90BvuXqvYqFXOn-RSuFtYv4ghmqPY8tcEVTCrxqm9HRouLRG18iSMCuhR5xy7Y1DDnNq26qAQanmwgl88GbQWZRydM7D5vBHhMxdjNVv8OAjtSF43KIVPEk4otmORhtB_z2H",
+        "width": 3120
+      }
+    ],
+    "place_id": "ChIJM3posfXzK4gRpdtOlTb4hEY",
+    "plus_code": {
+      "compound_code": "FFGF+FV Waterloo, ON, Canada",
+      "global_code": "86MXFFGF+FV"
+    },
+    "rating": 3.7,
+    "reference": "ChIJM3posfXzK4gRpdtOlTb4hEY",
+    "scope": "GOOGLE",
+    "types": [
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 9,
+    "vicinity": "247 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4462426,
+        "lng": -80.5235608
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44773148029149,
+          "lng": -80.5221798197085
+        },
+        "southwest": {
+          "lat": 43.4450335197085,
+          "lng": -80.5248777802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+    "name": "Hasty Market 24 Hrs",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116690524333425749888\">Hasty Market 24 Hrs</a>"
+        ],
+        "photo_reference": "AeeoHcLasoDuDWBO5l5T8H6oQZUWYH_JFIkbl5WHdkxzDS04H6TRF7zo7v8HR7z4yQOce82myUHC3xCVmM0P68NJ_k35nLMfEtoq7VlmmA8H6yqnyJ96fRnC1ulq8NoyIpqz7Zw7Ao1D2rc3ePJ49EG2KdwdbRs1v9jg6LNtIUqFWVsdkN3g7NYIi-q55njWbX3Rm6bbq641w2qTp8rEw7WT3BRPIXO9q7OGZWA6O_xen2QWTXNGzfPK3LfbohcR3h2n-zm5Vlr8b0jruRxkLeeTlJrRSZxbc_GG03KKI9SxpG0hjbWkAtAQIdxPja86kJlUa0rr9bT_j_c",
+        "width": 3999
+      }
+    ],
+    "place_id": "ChIJC9WP3Dj0K4gRvoeGPGVdBDM",
+    "plus_code": {
+      "compound_code": "CFWG+FH Kitchener, ON, Canada",
+      "global_code": "86MXCFWG+FH"
+    },
+    "rating": 3.4,
+    "reference": "ChIJC9WP3Dj0K4gRvoeGPGVdBDM",
+    "scope": "GOOGLE",
+    "types": [
+      "convenience_store",
+      "atm",
+      "supermarket",
+      "grocery_or_supermarket",
+      "finance",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 79,
+    "vicinity": "11 Westwood Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.48365,
+        "lng": -80.506722
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.48503178029151,
+          "lng": -80.50539716970849
+        },
+        "southwest": {
+          "lat": 43.48233381970851,
+          "lng": -80.50809513029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+    "name": "President's Choice Financial ATM",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJsfCZFpvzK4gRXVZtow_k48A",
+    "plus_code": {
+      "compound_code": "FFMV+F8 Waterloo, ON, Canada",
+      "global_code": "86MXFFMV+F8"
+    },
+    "reference": "ChIJsfCZFpvzK4gRXVZtow_k48A",
+    "scope": "GOOGLE",
+    "types": [
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "315 Lincoln Road, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4862677,
+        "lng": -80.5409225
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4876028302915,
+          "lng": -80.5395612197085
+        },
+        "southwest": {
+          "lat": 43.4849048697085,
+          "lng": -80.54225918029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+    "name": "TD Canada Trust ATM",
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100288079624296874756\">Sri</a>"
+        ],
+        "photo_reference": "AeeoHcKgS2svXI1BgnHyyG6QIyvoeYTLgUcOevX0WYOdl4JRBT0ipfxEVHqH3Ngo9MlvF_tzro9Cyzn52vqXEE681RkjMaAAqQOvIg-_qRZK4zdTK3GEULnidhBHFYr9lvrwgYBX7-sIy6n_iUHcJ2nQ0apf-W5WEt5IGADQMO-gfigqjbwsAUbjQ7MT-VmD9FNaBVi-hfBRYcztZ8CCI_ZPWTI-yxr5qk0BxRvgXzwJvcU7EbANVQXaZAwRp3xLt6LblKeHCtVhqVaXWO8aD828CGseDV-jtTc-7zfXxqnSFRADOeBeI0Exbbo0nhAgdMjUTDF42GqBGC9jWvRM0GL5PmCm35Zjznn3dMCmjaEhEZZh2JfPYTyzsaRDdecM4IJRtdyWUzp4cB17VKswRkayQ3kOgdnzs5xxv-SD3I9gcPuXfHCU_pT8lJXL69doxtSCIwcPk1KunlOtDkOa3zkFKkGzwy7BpishmPip_19aKsA3swqYGwbv1RH1FXsdAPb8ngwa5aTxDdDXMT5pV9OY5GxNRW9pYJ7vPnhvbOzRMsioFhiji0OBdqMXVbIXDjvICgws5bfX6rgWhri_NXlJHZ56ASRPbi28fa6hOuCv6je2uxhbbKOjJwra9NQ0t8z4MlKQgQ",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ2_qdIOPzK4gRpAXDKYOGhBs",
+    "plus_code": {
+      "compound_code": "FFP5+GJ Waterloo, ON, Canada",
+      "global_code": "86MXFFP5+GJ"
+    },
+    "rating": 4,
+    "reference": "ChIJ2_qdIOPzK4gRpAXDKYOGhBs",
+    "scope": "GOOGLE",
+    "types": [
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "Kiosk-468, Albert Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4912454,
+        "lng": -80.5262144
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4927156802915,
+          "lng": -80.5245785697085
+        },
+        "southwest": {
+          "lat": 43.4900177197085,
+          "lng": -80.52727653029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Manulife Bank",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111945997059265620087\">Jennifer</a>"
+        ],
+        "photo_reference": "AeeoHcKBiYX0RoxvaMXXTafhjFL7ELcfszcYE4EobV1xs_m0to0ZVDqxl8Jss2BoUXg0iGxS9qei7xKXqhW0BgFw4WHpTZIM6-NvtPS94_rS0F4OuHO7WgzXKPKqzdT3FIoZkaLOlURIPtAZzi32Firmo5LNbccGYznNhiJCIxUWbUmfpguOef7HJr8It6ighFsgBuiKqQavJ4ABumMpYaE-cmNs2ZwAkFW6lug3a-RyI_uMwz2TnA0C5e7zAQZMvUHiuDVd5W4lAhvyWejmSBrnbvnv6W8ponTjI_Ah3l3PkWznfNjE2fkFOqBVhbOBmsjd_FOCOrH9hFNLfokRUv8FETcXPOGbbFX7Sz2TBaBZwjMi0J9cSUT4yBbpz00tt9Fix-elUFh8_sxHGzuFcLfdyGenyBfWkkcGMjQhC705rPdaYdBWNWmiP1LBvz2HyfJS4QSLNQS-2FRq8zhq8ex3PM8Ss3zGfXWilkRDLoXdNCaeNSmaq64hiFfRJHe6efdzikvGsFcRCX9hPOYrl-7A011jG1p4LIKfB28GEqV00HyY6-PwnxcnOgw99z-GpfO7lxovLVBNBLF1k2_IKSSKkWa7TKLBox8A4s9Nxs9wYUGfBQYuGIDuonX2NgDRdcheoWpnuxPd",
+        "width": 3840
+      }
+    ],
+    "place_id": "ChIJwcu_M-rzK4gRp6LVKNvomA8",
+    "plus_code": {
+      "compound_code": "FFRF+FG Waterloo, ON, Canada",
+      "global_code": "86MXFFRF+FG"
+    },
+    "rating": 2.4,
+    "reference": "ChIJwcu_M-rzK4gRp6LVKNvomA8",
+    "scope": "GOOGLE",
+    "types": [
+      "atm",
+      "bank",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 44,
+    "vicinity": "500 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45299600000001,
+        "lng": -80.55534
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4543643802915,
+          "lng": -80.55393596970849
+        },
+        "southwest": {
+          "lat": 43.45166641970851,
+          "lng": -80.5566339302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+    "name": "President's Choice Financial ATM",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ90ZMs5D2K4gRa5jVQH4u0BY",
+    "plus_code": {
+      "compound_code": "FC3V+5V Waterloo, ON, Canada",
+      "global_code": "86MXFC3V+5V"
+    },
+    "rating": 4,
+    "reference": "ChIJ90ZMs5D2K4gRa5jVQH4u0BY",
+    "scope": "GOOGLE",
+    "types": [
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "450 Erb Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.496854,
+        "lng": -80.52506
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.49854313029149,
+          "lng": -80.5236855197085
+        },
+        "southwest": {
+          "lat": 43.4958451697085,
+          "lng": -80.5263834802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+    "name": "President's Choice Financial ATM",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJn1vSz8DzK4gR0_ZRuoq3uwU",
+    "plus_code": {
+      "compound_code": "FFWF+PX Waterloo, ON, Canada",
+      "global_code": "86MXFFWF+PX"
+    },
+    "reference": "ChIJn1vSz8DzK4gR0_ZRuoq3uwU",
+    "scope": "GOOGLE",
+    "types": [
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "555 Davenport Road, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4980778,
+        "lng": -80.52803670000002
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.49945943029149,
+          "lng": -80.5267919197085
+        },
+        "southwest": {
+          "lat": 43.4967614697085,
+          "lng": -80.52948988029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+    "name": "TD Canada Trust Branch and ATM",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106736152411781504073\">Rahinatu Abdulai</a>"
+        ],
+        "photo_reference": "AeeoHcLTylNfeWsaHClEER_yAdOYsMD5AQTv257sOd82PpEeKxzeTCx9G0rD8w-RpO0RDT63-cahbKtHRoP-sl7YpScq4vx6Dp03iYsY0Hv1DMg-m6YMICy21-mEIxuAq5373gG26s2y-klvRQUjEHpf6vkmzehEjYTuMxwYT0ThMfIOdkvfN69OGS7N0WQbpS9B9T9eCNqaOWmR596I2NaVjL5dSPpbVRcTyvBYmqfEMwqXtx5bXepQ_Z2vXH6lY55m__MpC_mENVG55vWOoGVnnPXAciXJi2kRBalEp7t2NK6fkqMiqfmjI70ig5085huOENE_rFqEkS9YZGYH8_Xn5dv4Bu7z7It-Qr3CxMwk0K5xTb6dB88sxTtq_zPkDAny6sEvTLA9EHQ95ROBP5GZ3rRb5jvhF-kUtkuh8CiCqk6qQZggexBf57tH3YRZ9dUPPLfkNsAGfS0QWtWTtJrRm7ol8L_6LB5Ov3g1taoyTMTsiDpc090cJ8TYv3YHqKpdnvbMPcHqYvnG9UObAF3rzZK-J4Ad-4_ayA2y4A4RJGyZ9mnXq_cBmjeGxBsNvSk9NVIo19dYL9J1QrrRAaWm9iPYITHLtrkBtnqGv89v3ZRSvFOxuTF5GvaGZPXwm0KaMtMGfQ",
+        "width": 3072
+      }
+    ],
+    "place_id": "ChIJyfPf8MPzK4gRxlDs8FnRYMA",
+    "plus_code": {
+      "compound_code": "FFXC+6Q Waterloo, ON, Canada",
+      "global_code": "86MXFFXC+6Q"
+    },
+    "rating": 3.2,
+    "reference": "ChIJyfPf8MPzK4gRxlDs8FnRYMA",
+    "scope": "GOOGLE",
+    "types": [
+      "bank",
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 58,
+    "vicinity": "550 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.429586,
+        "lng": -80.52648099999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4309347302915,
+          "lng": -80.5251328197085
+        },
+        "southwest": {
+          "lat": 43.4282367697085,
+          "lng": -80.52783078029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+    "name": "President's Choice Financial Pavilion and ATM",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118141292848437638476\">Marta Borowska</a>"
+        ],
+        "photo_reference": "AeeoHcIM0B2ByvkRBFh_PHvsUcF9Kb33xtkm4zXFTLZ0oYp7Ovaxg-Q-2UNO_pTdCu4rW6TwxB7v0W_2RPVdlRn6AK-h9CLf4i-5LJbuwjlU4y4QK1pePCJLpLc_RkIjIJX1KnAzY_45db3NSmSvyankc80cVKAgz7D5sqM4rU551xw80rdXFGfF5ORwpiK7_8Mq5W5gcZXNby1qxqD7BXNf-g6QfN5AZ_zOf8e6oAzbC-uwVKE6jBgtyy3-Gcu7G9hiqgRv1dUjXAiq_OKqSIeUmHdLm8sUkB3aA61fJeopUQTOkQFpSR4RyW-EiUTPDNkDl0YnkfzPH2V1gZJwbegxu0JX_3sgYhwczFDgHtO6oOOHVszs9RI4sRu81blK1j5aqVfIGUUTuXwW9grRFmMSDHiNxIYFUVCV3vcljXV8MWtRxZKVsJFmflhTmt2JSfzVMLVhk7lSyi8KhskXGDABENYIZ84R1SGFn-T8mi4qzSGAlBLzY7WJ_fSQVHO_ydOS4nyfGgbmAS5biFe5jNUl_S-AIPcZmvSrbIy_WqjoOzceW65GedljKUiImHXo8qOWQ_VjI2nYXssKSU1RcnhKepoLodo2ej2PBPSe-OcA3Z0-wQ9G7Ty_DLj-ttiuYsOD",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJVbB-Osn1K4gR81fQbY7Y3vw",
+    "plus_code": {
+      "compound_code": "CFHF+RC Kitchener, ON, Canada",
+      "global_code": "86MXCFHF+RC"
+    },
+    "rating": 3.2,
+    "reference": "ChIJVbB-Osn1K4gR81fQbY7Y3vw",
+    "scope": "GOOGLE",
+    "types": [
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6,
+    "vicinity": "875 Highland Road West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4632365,
+        "lng": -80.4655744
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46470628029149,
+          "lng": -80.4643764697085
+        },
+        "southwest": {
+          "lat": 43.4620083197085,
+          "lng": -80.4670744302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+    "name": "TD Canada Trust ATM",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104311765193328473985\">Evelyn Low</a>"
+        ],
+        "photo_reference": "AeeoHcLLohzDeJ0A64dksLdUwy_SL6pErHzzwz6ItZ6jDhHzHbV0VsNf3o3kcE8v-H7j1khHwdZd7N1SR4sLypIf9SZtVYnwdYD8PQbPgqxjjMVf61D8Mm_fRybx26dxf10iYSWBy1fYqu3N7nGFQYN1UYFx_xdHhihvSQOCIeTSyK_HFiVp5N8HGcijBnJPw0cknlb1xP08cmW4xZi0jcG7aTFUkTrmSb7GkL01HEpZE-i1cYvTgTvb2L2G4XR77wzzqVMiCpNPH1bx6p8Fyc_tnCMJjIaeCyxLi4f9sTkH4oCIvH52Auui3dSvqmPo0ukiDYb1UEnMbIkgb98l9Tz1X23PXMrbD9bR9Ri5TOxVmZEwOGW18FEso3Lt8LXXm7FIFGCBe8WZ2nCAMntTW0-QhXTh2PQ3QT0-MyWHXWx4BTdhXXbpQkDFGclNiuVRwCvFHX4_JKU90AVamO-K8OT9ooRRUhV4zHpyRwrZms9oiKor4w021GEumoEyTe_6c9ZXlhBF07PQS_Ftqk6-sSZSr4Ot84DHWXtQO8381oQHY9JfZaprSVuEQ7l-NIdkGrwIRDu8Z1_2AnsH4rC6inqKCY-I_4ohuU9n8UkGLZmSehIcsZq-OGrHNMJzm6cvT4tV19e16A",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJn-7-9KX0K4gRujV2YjjFZks",
+    "plus_code": {
+      "compound_code": "FG7M+7Q Kitchener, ON, Canada",
+      "global_code": "86MXFG7M+7Q"
+    },
+    "rating": 1.7,
+    "reference": "ChIJn-7-9KX0K4gRujV2YjjFZks",
+    "scope": "GOOGLE",
+    "types": [
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 26,
+    "vicinity": "871 Victoria Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.440213,
+        "lng": -80.5640159
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4414765302915,
+          "lng": -80.56276386970849
+        },
+        "southwest": {
+          "lat": 43.4387785697085,
+          "lng": -80.5654618302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+    "name": "Scotiabank",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110308553522588002339\">Aaron Bruce</a>"
+        ],
+        "photo_reference": "AeeoHcKRrSaIWwnsLxMQhQEIYGkF0arh949-KH55leR8t8C8nHgyohtQg11MUky_VBZkwjJItnQZR7ULptPtQnvN8Dt97eqAjRWtteg9yhl3VFs30ZqLFX6dx4hIbDoA0m4EPIzi1Jxna0QsOkIqrRw9amVTq5IiGI5xNRVxyFeYIpeVFw1E2nk-L8yTX_TG4x8rS-b2TV3e-JCIbd3j9ltq0zLCw-h_tDyvMLyDfG9bZhaS1DijdGYLeB6gTBFVFnAmsvwUUrkQwnGlhkRZjgTRzwSvAAZgXLY1RYXZTF_7jXntl3pp4tHRA-F78ogFtujMFjhTJBLeqLdEFKHTVyuQjiOlB-4vbHmo61hXHTli54sJ3gdGxE2DHfP4fnoztua6aUZoD9M_cA_ajT8QAwpp9annho4E9YsxZTgv3JGzqzU0aFSMDHM4syxHgpl__JaDfmO46n7Nt_oiCeHYkBVKH7dp9PtjOVZ3YHWx_BNUV8i2vYC4jatfG8hLHO7CblbhFHuNj_OIA6ILjGibafoQmDvE0RRczgUcc7KlC2QHJKBXaa-BJjcCn2mlrm1Ib9PW38ckXboGtCQSzDPK9XTky_LYmuFz8ixVJQtGcwpAJvD-M3pdMDJz3fSTow9sSKPmWraOUHoM",
+        "width": 3840
+      }
+    ],
+    "place_id": "ChIJPaFOYGH2K4gRhJHONNxZWGY",
+    "plus_code": {
+      "compound_code": "CCRP+39 Waterloo, ON, Canada",
+      "global_code": "86MXCCRP+39"
+    },
+    "rating": 2.2,
+    "reference": "ChIJPaFOYGH2K4gRhJHONNxZWGY",
+    "scope": "GOOGLE",
+    "types": [
+      "bank",
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 79,
+    "vicinity": "420 The Boardwalk, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4424022,
+        "lng": -80.47165369999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4435915802915,
+          "lng": -80.47051956970849
+        },
+        "southwest": {
+          "lat": 43.4408936197085,
+          "lng": -80.47321753029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+    "name": "BMO Bank of Montreal",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 750,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118141292848437638476\">Marta Borowska</a>"
+        ],
+        "photo_reference": "AeeoHcKr-hei8Vr1sbmWAG_h9v0304Ze0xaHaKTzMWt4AWD73VIHnHbSYHefJLYHkL5FM2eejniQ7I7ro6hT08x5aMA2rw5gjEo3xx8rNNUEbdbasW_D424Mx7MdxooR-76EsvcOzKz0OsKE4Box7fpnIm5P_zLg8A4ITe2Cw7U9cEzm8gDqyv-dZyu7UWmQgH5e3fY3qBfG8_2nV2FukbdvDKfK2B5sKJxF3Zwj9Yjhnpeez-RTrVHS5fWkt6cvzeDeM6GqxlUqYDb_46Pvgio0ncknpIFpA_kJwVTFSQwOOg74QaFbT8lfFXqVFMyBau9_-GUAWggeNdFxAn33FXNB17l3Hnk-RAL6q9rrhAaRXXIsW0yPSydoo1z3PwuiiN_zKOnGzpm2AsSBG6xAyf_FL01bc-LEVcYMQqY0yJl_0Rx6pOgVblptAZgb90Zi46FWhr5vcrbBXh2MwKkT8VIi8VCCYVTIBl9vc3usSNEj2BrMMYcOBnLixLAUthuYW0kdaWqnL6_NnpGBozV0s8koThzkLI8GFAaE2Ycer7rcPAP3I4QTroy26lzL6XhlkJs0JPzxiJFgYNUJWJxl1zpE_x4_eA_hUElUMKJQ6017RueRe7iglYg9-rMC0AjiSCc13DmVBQtT",
+        "width": 1334
+      }
+    ],
+    "place_id": "ChIJ43evoMT0K4gRD6AJaym3rGg",
+    "plus_code": {
+      "compound_code": "CGRH+X8 Kitchener, ON, Canada",
+      "global_code": "86MXCGRH+X8"
+    },
+    "rating": 2.5,
+    "reference": "ChIJ43evoMT0K4gRD6AJaym3rGg",
+    "scope": "GOOGLE",
+    "types": [
+      "bank",
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 24,
+    "vicinity": "1074 King Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.441621,
+        "lng": -80.4716157
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4430650802915,
+          "lng": -80.4701839697085
+        },
+        "southwest": {
+          "lat": 43.4403671197085,
+          "lng": -80.4728819302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+    "name": "CIBC ATM",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1440,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106932570450153816646\">George Abraham</a>"
+        ],
+        "photo_reference": "AeeoHcJBH1BXnOTxvjC1Gt2tgXQVLT1ExjWWu8SSdgvTRnbbaVJCh3SmlYLalXIJ6mc5WO_hVq2PBei4ok9ORY8VfzTLGtHnXK6YGXLYMyguYA1-B6Yo1zSVCCOikpo62JC6L_WklCyjPKliWBT5uHUJjrHOc5VTpoUA4QguVNtWi8Av0FGxwYwEVXQqz9kP5ykMDvViPdoae71vjt490tz16JUlGF6HCHzo20-HRaOr8iyZ0hGO84tS_Mq5MubZMoYVPrIXL2qotaFTsvDznznZFMzfOUq-gdo_YfvuF-UHp1auE0p8vzRDe_KeTuIDMrlSFziXsxwlwVfEiHB_gfFeiCHnTQz5A5zGW1iy_FCfbin24Tnza1A6xc6kEAFQSkMHbh6oGZ_CHluvUpN6RDng0HRoPdOYxr_9aAObaiT5DmZUcDK4w4g_IkoK0JeIwqxCQlW8S-Z9UUKIY5VBdFxyxcv_YL2NDlrHzX9PsV-qqfls0wWphA_OM8CBvI0HExcDSPCjsWOUPIPYfma0eA2CFpLwYducgUtf4x8ORAPQdbyCTem6K3FfGlEvjTgF5H8XRVY-vBH-1hQetmVYjaG7eEJgcEjKteSgoNRuvMMrCEZ2zqT6cS5UV7mbVrGgO34WSbCXTvSl",
+        "width": 1088
+      }
+    ],
+    "place_id": "ChIJqyuCV8P0K4gRrbtEKJi69Mk",
+    "plus_code": {
+      "compound_code": "CGRH+J9 Kitchener, ON, Canada",
+      "global_code": "86MXCGRH+J9"
+    },
+    "rating": 2,
+    "reference": "ChIJqyuCV8P0K4gRrbtEKJi69Mk",
+    "scope": "GOOGLE",
+    "types": [
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 9,
+    "vicinity": "1105 King Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.423785,
+        "lng": -80.487398
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.42532193029149,
+          "lng": -80.4859352197085
+        },
+        "southwest": {
+          "lat": 43.42262396970849,
+          "lng": -80.4886331802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+    "name": "President's Choice Financial Pavilion and ATM",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109755365417170039354\">Chris Colliver</a>"
+        ],
+        "photo_reference": "AeeoHcJfSPZQ6cCQ5xBUAJrafxQYshhob3kFHROiL90lWJqT5AE-3C_sCrulV3rIwFJnEahAJwKm2lqD61GETWHSqyY3m5whRTxkKBhTKrPPDY-RKxtMN8f0hDYi4PpkQv7BydVkvWn81Oiq_4CB_OJzmaZ0CsvHlLo-cdR9BVtTMaEM-Yy0cLOMYbIRj885rJrWUiWNMz-E2Snz7VW6XEjCprPicVMNWVeVTa4-tpVENzrRtu7A0hPML2OFNb433GYRKFVKk02dwnDZQQ0uiLzByWuofEXwpjWNUrkYhY8PuG7ytIdlMxsTUMJPapQW91RJr-D3k_NFMbAWMpBCIxTldCWMGaiwJcf0EvPuV06cfUCmhD-j4JMsVgH86VDTQs6aGmPRh3tet149xr7z2HsyX1zP8x7r1IK0HmMJm_HuWTxvX-K0zrGqci9K2ySlYFf3Op3sHBH7SqMOKfQG47vH5uYaOz8sheHHOfBlXr-S4FaY9dFu5w_Yvt_xABroUSZ6J11-HbxIz1kauSCOvT3QhuZDyh_-UhQqPWxstk46-kFBKo4BHrA4gVSJJGbU7AEaN9fbeQ1lSt6OsY6ZR1QfI_h5mLdTbxz9N3gZbng8dDb64z7F0bk56RQIPhsVoadPJfSUeA",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ01WFpRr1K4gRrZPMKLFCnUY",
+    "plus_code": {
+      "compound_code": "CGF7+G2 Kitchener, ON, Canada",
+      "global_code": "86MXCGF7+G2"
+    },
+    "rating": 2.3,
+    "reference": "ChIJ01WFpRr1K4gRrZPMKLFCnUY",
+    "scope": "GOOGLE",
+    "types": [
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "750 Ottawa Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4330801,
+        "lng": -80.44863649999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.43454088029149,
+          "lng": -80.44723071970849
+        },
+        "southwest": {
+          "lat": 43.43184291970849,
+          "lng": -80.4499286802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+    "name": "Little Short Stop",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4284,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115983266722296307734\">Sony Abraham</a>"
+        ],
+        "photo_reference": "AeeoHcIdCrJGjxAuXksaALVuwPgq9bgVHX4RRjqWimm3B_P_OYvn0CilqJxPjuEUYG72OxXOixCc-ep2Q41MtnJ-tjGatt0mLpq6i_ghIQgzTWUPIasPKE20espThAAq5xOqMf4NOW3mojkI3ErnUhp5qVRvnqHuC6CLJyMRboE9jFvEynN5KWJjcyCEzzqQ3DCJuqZdcuj_z6Tec6YjWxOgqG1TsN-lAPdAjF7trc4C7oFd4piBP0zICYIb1fouuwoUxDmx7jwYxZVPHUKtofXuj5p_j4TL3gdJ6wh3VSx8bEBWp7QICNUtnUD4Np7qoWg6BcW1aT3llWoabo9KNEzrYps27T_eXka0AQWJR_Vk0Z5f1RDeHj1rpuuKbnPqaf43peNWxc8TSQJq28kI1cnxz-cs76EoIPVJ7IeoP38NdkhJdVVVwI9nMrHmhfi50TBIUWWRH5kZRmkO61PnZ8CSH0LVbgUjQOdILjA3836VgA72qDcdhxMu76jBpg8mrBMy6R2Xe8JpWlkmlYaLcw60kwl9F9pieSo84Z5aUs733XNx03wc_2aq0wKx2jsl1obd8VC4i8hSBgx4It_B4Z7yHXnGKQR5QxWIwIQuoRBM4KIewZ9IF3NJudxbsuZ7myOjj_IKmA",
+        "width": 5712
+      }
+    ],
+    "place_id": "ChIJfTnvaSmLK4gRYxcj8iLawek",
+    "plus_code": {
+      "compound_code": "CHM2+6G Kitchener, ON, Canada",
+      "global_code": "86MXCHM2+6G"
+    },
+    "rating": 3.8,
+    "reference": "ChIJfTnvaSmLK4gRYxcj8iLawek",
+    "scope": "GOOGLE",
+    "types": [
+      "convenience_store",
+      "atm",
+      "liquor_store",
+      "finance",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 46,
+    "vicinity": "2399 Kingsway Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44947,
+        "lng": -80.445534
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45094683029149,
+          "lng": -80.4438878197085
+        },
+        "southwest": {
+          "lat": 43.44824886970849,
+          "lng": -80.4465857802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+    "name": "President's Choice Financial Pavilion and ATM",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJQ9DlEkiLK4gRuYNKgOuTD7Q",
+    "plus_code": {
+      "compound_code": "CHX3+QQ Kitchener, ON, Canada",
+      "global_code": "86MXCHX3+QQ"
+    },
+    "rating": 2.6,
+    "reference": "ChIJQ9DlEkiLK4gRuYNKgOuTD7Q",
+    "scope": "GOOGLE",
+    "types": [
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5,
+    "vicinity": "1005 Ottawa Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.50814680000001,
+        "lng": -80.4622187
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.50951533029151,
+          "lng": -80.4607718697085
+        },
+        "southwest": {
+          "lat": 43.50681736970851,
+          "lng": -80.4634698302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+    "name": "Newer Technologies Ltd",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ06ASP9byK4gRjqBvrLLXsLI",
+    "plus_code": {
+      "compound_code": "GG5Q+74 Bloomingdale, ON, Canada",
+      "global_code": "86MXGG5Q+74"
+    },
+    "reference": "ChIJ06ASP9byK4gRjqBvrLLXsLI",
+    "scope": "GOOGLE",
+    "types": [
+      "bank",
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "811 Sawmill Road, Bloomingdale"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.41885579999999,
+        "lng": -80.4700436
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.42021063029149,
+          "lng": -80.46875061970849
+        },
+        "southwest": {
+          "lat": 43.41751266970849,
+          "lng": -80.4714485802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+    "name": "Little Short Stop",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102824176067937656860\">F. T.</a>"
+        ],
+        "photo_reference": "AeeoHcLqFhMa9nbU6gievSaUitPvdUe0C0T_mMyFgUJkBiRx-jowjRZQ2SXSOngNZJAXJOdbO0cOXWz6pTKUb8ACQrm91pkETofC8Y5O6LhVSbHjW8xAia5fJ9lI-9QfwrvnNDRi_WolCJXIz6SmbIcH_CWx8qffruC-piq6E0u6DeqRCibcbXX79AWDciBEgjGPx81VCkGKEUFwFx_AdhWC5xJVTWoZg80iVsv3rnU5RUcB1YFKCwi9Xawd-exygqRSKZfcQHQlTg4383SBZ7WvFw-jOTqnhZa7rMOOp7V0m0dOQ8ZMfE53pCQF4fQZ-uNLwGwNosamdBA2Exi3MUOxLtHnDyjI21C0bFJcq5FvUNjG00XwHt3sKafZx5lzpm6yURRTuxlq1_92ooj7ECso9D_iMeUO3uTpPsp7aIDsPxyaAke2pjoN3E24muTpOPP3pI5NqhBc_yGCNeWgKhWf5J_LvqME2lNy7y2eYxTCzV1r02sKNl5s8vWHUdnxKnLiqyZy6dAK-woAOT4xb1J85TlkI6naMdYLCVHVtpDfmhvWjGoZYhVmy7oYn4ziikzs3Ot9C09U-H1Bz_lF6b9YOV-8ZCNLB635fg-oJwRZDXjqc0Y-wW-dOJotQetVVDMI1zhTqQ",
+        "width": 4160
+      }
+    ],
+    "place_id": "ChIJy0yhrjv1K4gRPM6FrP_UKow",
+    "plus_code": {
+      "compound_code": "CG9H+GX Kitchener, ON, Canada",
+      "global_code": "86MXCG9H+GX"
+    },
+    "rating": 3.6,
+    "reference": "ChIJy0yhrjv1K4gRPM6FrP_UKow",
+    "scope": "GOOGLE",
+    "types": [
+      "convenience_store",
+      "atm",
+      "liquor_store",
+      "finance",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 33,
+    "vicinity": "1450 Block Line Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.40633320000001,
+        "lng": -80.5005573
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.40774768029149,
+          "lng": -80.49932466970849
+        },
+        "southwest": {
+          "lat": 43.40504971970849,
+          "lng": -80.50202263029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+    "name": "TD Canada Trust Branch and ATM",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118096419969733266973\">Aman Bal</a>"
+        ],
+        "photo_reference": "AeeoHcIOhnmyMlGKCRU4ZwqPne_f6nXCZxoTjPrWXM_2oE-l1rWlV7Dvw9sD89-sJ2d65Two49ckaF9fpbS71nbx0TnO1bTt8FChAaHR4lAjPcrg77i8K_E7E4DaIqqtG6CUK_polTRl76rlrgT-BjNKri-c7HfnqEzbF5UKQL5z8B4gt_vQfUlx8fhyvVhtrEw18hYanIXfS37OG5fLJ69vGTBnxXlOA_-lOGnRrB_rrOelJEnYcJvAlJ5X0_as8v4OD-xe0b74O_IPmmpAkBofvN5PT93v-4BugYdJi5OkNeSZJmLTe-stAa0GJU7lTUVksGO6_1AVi-D-aLhc7cbQ-aPokf25sSPNbf9RUStNTmoWRGoMjWUB-GhyuY6PPT9uDuIeCHwy5fZDAV7jJTAmVlQ9YkcfiblCS-l184KMefK8rJoVRJ5npWx99JsVF96fKvm8D3Y3NY8ZGnYOUmSt9wDmpjKKfBbpMssEUDxg8qht_4bAULYvU2Epg6_ULZpoz3cw9cIbUUGB0tKoLG9USsbBvggI2EDWVD-9HaxKz4-yNs-wVJSmMu9fMIBAWb19IwVyCICS2PE5FxqQLiYJAh7vk7gLLWUg3bvNDkUSu61MWTjUKWxySXaLb4axFEOkZZlgMw",
+        "width": 3120
+      }
+    ],
+    "place_id": "ChIJ1Yfg4pz1K4gRVL_OVdBXZo0",
+    "plus_code": {
+      "compound_code": "CF4X+GQ Kitchener, ON, Canada",
+      "global_code": "86MXCF4X+GQ"
+    },
+    "rating": 2.8,
+    "reference": "ChIJ1Yfg4pz1K4gRVL_OVdBXZo0",
+    "scope": "GOOGLE",
+    "types": [
+      "bank",
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 89,
+    "vicinity": "1187 Fischer-Hallman Road U 200, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.43217799999999,
+        "lng": -80.441518
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.43367058029149,
+          "lng": -80.4403096197085
+        },
+        "southwest": {
+          "lat": 43.43097261970849,
+          "lng": -80.4430075802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+    "name": "President's Choice Financial ATM",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112075672177668946516\">Gordon Kennedy</a>"
+        ],
+        "photo_reference": "AeeoHcLIXdYw2u132G5Tif1-4NPvztQQRRmzJbb-Ejwj6ZCMgvL0bZhAc4gjZLEqlMvwBoQkNUJdvmNUmqR4rbd2jUVpNYSvWNF1VvQIf_abhjp5H8smCXD7Wh8-hcxBEiT4ptB0LWC58v7kzXC--KSnUJaUrVaZLHWc64oG5927lVxEjs1lSXXytSj-1hL7noojWGIoG2JLI41bT3Q7j9Lmqv6cxM59VMXb1toPZ-ERumYKMnaNaI7dGPhOKlWX4WB0A21vlTADdi1SXHn0H52ulQwj_gvscMsxZf83E86vWmarrdjkK1KYEECBoPCeOxi1nRPaH3gG8TdE2ZEhkSC-OXOka_SiULYJ5n9A6b9A4C5OvGQ1xMB-57sPQ11IhULPIch-ONmw_QMEOMq6EXlgXumCAcNz4YLd6i9icKZ97C1vmgoZ8ndvwL9zfhLcMfwC1XoYUBGrqImC_O9cVXsVPByKL3g-IPCK9rU2wr1jEfwgWyJ53jXYQbbDZX3OxagDBPD0wZbbVmP-oecJI1k7nHGtyMJYyBkjJ_6vfXQ_Lu00HqU6jxBlLQX6iWkVvQjUxDL5ubnVphHnK51nhEreTu5hs4_9Ld3Zl6YU9bIM_1aumh6J1sGy1y-dTD-jYOwdS7imzg",
+        "width": 3120
+      }
+    ],
+    "place_id": "ChIJ59UJWiaLK4gRiEbMYwr0DoU",
+    "plus_code": {
+      "compound_code": "CHJ5+V9 Kitchener, ON, Canada",
+      "global_code": "86MXCHJ5+V9"
+    },
+    "rating": 1,
+    "reference": "ChIJ59UJWiaLK4gRiEbMYwr0DoU",
+    "scope": "GOOGLE",
+    "types": [
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "1375 Weber Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.41891899999999,
+        "lng": -80.4531251
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4203807802915,
+          "lng": -80.45164246970849
+        },
+        "southwest": {
+          "lat": 43.4176828197085,
+          "lng": -80.4543404302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+    "name": "TD Canada Trust Branch and ATM",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102824176067937656860\">F. T.</a>"
+        ],
+        "photo_reference": "AeeoHcI3A-5w8mrpdzzqu9jkX3LVV2ilGjpTAyPJ_k-8foEoyijKcw7dHgOmUcoiNYzcSfRezkKzZZxGJqlWIxGn6HsD7PfFd9KRJP7knH3pDick4QGuGuSTkhAIq9d2RSXXMfGl484PWWdYn9sqV3SM-gewdr3owVTjqSJXPSnTl5t66G_nRDrOQBsIl7MS_PSc-_vph1iua9knwcLRnETDavN2wHHz-9mYDXwXSzGspZSDnurI8qPn4X9_PQFbICLV4BvWSE5WR1iXgrKCYu8TmOb9MesDU_ll9VRC1MRaNYWiSVuvufwF0V7m_Zv5dvjOBaa4u-h7lSREnLbKJ5VijqMavfV8VVTfh6z7RvAEkYUgUBWb68YU8BoGypT2s53lNpLNgzAT7Qg4B3ITNHHO8Rtj6WXxW8yau8Dj3_bmbcXoI0NbA693OXwRBNS64QeABER0-sX0qhZyo1MFs--90UxvjqpX9bTuK4SS0vpyvRpVKvsUBmKhS9qUosSGQ5EPUEXGBplHr3mUNaJptgrMK0eMXLZpdWvB603vESiSMlReksCZsSFnAXta5_s7B01RAoP0sq2KzBr4yuqlU_cqJ_ul5QFeO-3sWuieUvYmbjEESVMBCe279QbgcCx5LyUZr9_mwmvp",
+        "width": 4160
+      }
+    ],
+    "place_id": "ChIJlzTT5duKK4gRgbM02vyFGUs",
+    "plus_code": {
+      "compound_code": "CG9W+HP Kitchener, ON, Canada",
+      "global_code": "86MXCG9W+HP"
+    },
+    "rating": 2.7,
+    "reference": "ChIJlzTT5duKK4gRgbM02vyFGUs",
+    "scope": "GOOGLE",
+    "types": [
+      "bank",
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 135,
+    "vicinity": "10 Manitou Drive C1, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4033274,
+        "lng": -80.4807628
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4047330802915,
+          "lng": -80.4793325697085
+        },
+        "southwest": {
+          "lat": 43.4020351197085,
+          "lng": -80.48203053029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+    "name": "Communiteq Systems Inc",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJIYUUlpiMK4gRSuyQohpGEWQ",
+    "plus_code": {
+      "compound_code": "CG39+8M Kitchener, ON, Canada",
+      "global_code": "86MXCG39+8M"
+    },
+    "reference": "ChIJIYUUlpiMK4gRSuyQohpGEWQ",
+    "scope": "GOOGLE",
+    "types": [
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "240 McIntyre Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4238972,
+        "lng": -80.4840929
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4252842302915,
+          "lng": -80.48278396970849
+        },
+        "southwest": {
+          "lat": 43.4225862697085,
+          "lng": -80.48548193029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Chicago Pub & Billiards",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115397600676171121982\">Chicago Pub &amp; Billiards</a>"
+        ],
+        "photo_reference": "AeeoHcKQYcAbz41U9gUCcyZ9tHP_uFuHwvzRcR-u3ucLCaMGrLY7TyvlBy36VUEFBmgUQ1P_0HnlL103cbgmsFTbVdmo78gVbFYx0zKDDy2rLvFdzWnCr9U6nQh1tPFstexP5CxYYTAhU5sCBU_RzJfjU8q76zrSRAVJR-Nzzac7h6OU4OEsBV59fICVKT7J494K8tMnHGRr_8sw_cBTSYkjP102HGNflBFbp6l-fs4sIHkYp9DP_7zbreFhLS03GlvszE6QcG9YOh_KSqt0HZTKKVzlNet0lKyHloQT04KiwMxef3rtRbB3X7ZBRg74a5OfVaNCcyLRq_s",
+        "width": 6240
+      }
+    ],
+    "place_id": "ChIJRUR9Rxr1K4gRtkmFGYdIT3A",
+    "plus_code": {
+      "compound_code": "CGF8+H9 Kitchener, ON, Canada",
+      "global_code": "86MXCGF8+H9"
+    },
+    "price_level": 2,
+    "rating": 4.2,
+    "reference": "ChIJRUR9Rxr1K4gRtkmFGYdIT3A",
+    "scope": "GOOGLE",
+    "types": [
+      "atm",
+      "bar",
+      "finance",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 990,
+    "vicinity": "725 Ottawa Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4103235,
+        "lng": -80.46188
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4116738802915,
+          "lng": -80.46061176970849
+        },
+        "southwest": {
+          "lat": 43.4089759197085,
+          "lng": -80.4633097302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+    "name": "TD Canada Trust ATM",
+    "place_id": "ChIJYexuJEb1K4gRq9Ba2C16ldY",
+    "plus_code": {
+      "compound_code": "CG6Q+46 Kitchener, ON, Canada",
+      "global_code": "86MXCG6Q+46"
+    },
+    "rating": 4.3,
+    "reference": "ChIJYexuJEb1K4gRq9Ba2C16ldY",
+    "scope": "GOOGLE",
+    "types": [
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "300 Bleams Road Kiosk-300, Kitchener"
+  }
+]

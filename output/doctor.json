@@ -1,0 +1,2807 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4521022,
+        "lng": -80.4989738
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4534430302915,
+          "lng": -80.4977348197085
+        },
+        "southwest": {
+          "lat": 43.4507450697085,
+          "lng": -80.5004327802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Centre For Family Medicine",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106654238242725598603\">Robin Roonacker</a>"
+        ],
+        "photo_reference": "AeeoHcLhH-a7ETMl8Bk0HLms572bOoVrPaI9IK5C7yLrP_fbw0LwboE8DAOelSGFYxOudCP7oOZc0Cl6a7BvPcDAp6wg6wzibXKtwpyumBtHdWtIUZ_liwgs-KG_6G1c12xAqDkhe5Z84-5oKMOS1SreRx0OeXK1mqvJgKDYsSdITX5YgF38kaMKF2n0zAnM_TufzWkB6SI7Lzy1PQgYMmrFmQPKXKU_GMR2ro05OP5KRBA1s5jfs1QglRn-FqcmLLpYfV8pStrU4KH6OCS5dHWACGDRz2f7MRwO4Qew_4y5pE41LyjI1XTAFLagI7d1lz6yWCsQzRrpcNe_2VSoRMjIoOLWcAayP815oJ3B6QTCEYxYiwlEG09yPtac_r9AUx-mB-qDuJoh-Gtl-kn7DNlVvhQXccpmQTJoLa5sfuI06GQDKT6ZSYRbhABgaNDh2ObySyXgrLzX9PCZ05UXEME-Ld-hVtljMxkAOURb1lff-gFq1MhJYRXmNds1O-LXxuNIGduAHlX74V-uMPk36btaEnp7pO2ohpKid8nh8rmbt93dxUcJKrUJkWQYqsJiBhuOqLR-KqlnBrR8OPxE--I_DRtTJAesPs4aTrLs6G2qEV7VLcy1Ab0iWmvAbGs7VYv_",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJnasg6PP0K4gRZRIhgXgidR4",
+    "plus_code": {
+      "compound_code": "FG22+RC Kitchener, ON, Canada",
+      "global_code": "86MXFG22+RC"
+    },
+    "rating": 4.2,
+    "reference": "ChIJnasg6PP0K4gRZRIhgXgidR4",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 66,
+    "vicinity": "10 Victoria Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4501658,
+        "lng": -80.5154397
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4514597302915,
+          "lng": -80.5142611197085
+        },
+        "southwest": {
+          "lat": 43.4487617697085,
+          "lng": -80.5169590802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Arif Ismaili MD",
+    "place_id": "ChIJZf0YBWf0K4gRAts7AnJ28Lw",
+    "plus_code": {
+      "compound_code": "FF2M+3R Kitchener, ON, Canada",
+      "global_code": "86MXFF2M+3R"
+    },
+    "rating": 3.3,
+    "reference": "ChIJZf0YBWf0K4gRAts7AnJ28Lw",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 24,
+    "vicinity": "564 Belmont Avenue West suite 202, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45151379999999,
+        "lng": -80.4854338
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45299328029149,
+          "lng": -80.48381856970849
+        },
+        "southwest": {
+          "lat": 43.45029531970849,
+          "lng": -80.4865165302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "LASIK MD",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114227034148335818003\">LASIK MD</a>"
+        ],
+        "photo_reference": "AeeoHcLzKrengY6zXAktjWixaTE0kLe5JkpHwkW9qPqEccCTX4MtmFYkBsf6WOKClJb33Xyd-XPl9anBJb-N7wqHYnpv4UponyWUDAL3EqDsh2KWcW5tbqMfePys4Uzz24YHhY1KyEoVgfKn3VxU4yexB6tjI3qIs30DYlw-AJqhg9OD0tz9ShUDE5RIYTyRkyqRLLFRFmMop8Ig7F4FGYip7FrEFObssJPgd7ecWm8w6uan_vI272F2LbKWYAMOQWHsk5KcNI79I2PbqVsHS6IP8WNcXRIJznCmfBo8_Fug_FfPYhQ25YyJEiHqosY1tzma3LkvMhYSoPU",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJwZPrL-30K4gR8rePP36bqBM",
+    "plus_code": {
+      "compound_code": "FG27+JR Kitchener, ON, Canada",
+      "global_code": "86MXFG27+JR"
+    },
+    "rating": 4.9,
+    "reference": "ChIJwZPrL-30K4gR8rePP36bqBM",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 908,
+    "vicinity": "101 Frederick Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4649404,
+        "lng": -80.5185475
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4660937802915,
+          "lng": -80.5171981197085
+        },
+        "southwest": {
+          "lat": 43.4633958197085,
+          "lng": -80.5198960802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Amplifon Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 5300,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115912135467584157005\">Amplifon Hearing Clinic</a>"
+        ],
+        "photo_reference": "AeeoHcLh3Mcq0tGIm26QlD4sIo6VWyXEJmAdfM_zvwYQrcqhmvzkXsmf-qFRGyVDfzRUbth-zHyQrDRXRTrZGZVm7cLmgZAtjOtXnHFtRscGKdjMT5HmwVRsWVFE9KMwWm_-C_15Zj2Obfs11V-6tKSNuWwAVoF20EJgyMPDvSwdaTn-XbCwP5D135gKSj9oAoGPfEU9E-GTK1fReodJk6I6d8cELAP11pUsApCycSkYFHBYaKz6hRf-PpYSb6M1tYRxh07O_5jibYGt_RwsJjxZWEdDUw9m8NREa4QyHfhnnoFQ-o5ZnGrWp8fXOjhaYK96yGo4rJl-0W4",
+        "width": 7950
+      }
+    ],
+    "place_id": "ChIJIXsCJmf0K4gRJX4AIYNL1rI",
+    "plus_code": {
+      "compound_code": "FF7J+XH Waterloo, ON, Canada",
+      "global_code": "86MXFF7J+XH"
+    },
+    "rating": 4.8,
+    "reference": "ChIJIXsCJmf0K4gRJX4AIYNL1rI",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 26,
+    "vicinity": "55 Erb Street East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4652669,
+        "lng": -80.5185791
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4668296802915,
+          "lng": -80.51720276970849
+        },
+        "southwest": {
+          "lat": 43.4641317197085,
+          "lng": -80.5199007302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Banerjee Avik Dr",
+    "place_id": "ChIJ0-bXCUT0K4gRu5W6DbSpqcM",
+    "plus_code": {
+      "compound_code": "FF8J+4H Waterloo, ON, Canada",
+      "global_code": "86MXFF8J+4H"
+    },
+    "rating": 3.1,
+    "reference": "ChIJ0-bXCUT0K4gRu5W6DbSpqcM",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 15,
+    "vicinity": "55 Erb Street East Unit 310, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5002361,
+        "lng": -80.56717479999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.50168178029149,
+          "lng": -80.5657388697085
+        },
+        "southwest": {
+          "lat": 43.4989838197085,
+          "lng": -80.5684368302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Starling Children's Mental Health Centre",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 924,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107229178324748880780\">Starling Children&#39;s Mental Health Centre</a>"
+        ],
+        "photo_reference": "AeeoHcIFVMoTPK1-4_t_fq0zOs92MmT5jZBI5PzIeHCpBnhSav5BlTb9GbLtxTGyazWbYC9Zt6fvP1PaTRJfxeVjiHzNIlRog78NLYyOeS-5R89tVwl4YYqg8lmUy41NiWTtVF3USq906KXhudrNxWDUo8KlmLJIJhvkrbxxA7vxSr30OqiqvAb_uygdMTBAga1y-xVr4uwNY7eOj_qQPSfPnO6dkXR38Na6Mx5JXSkPA2LTIZYDD1YNR9k3Hw7XhtV_xleCZsy82z0WjHfr6rm15ILRCEWP3CVwroatJUkvCAttg_ttz5_QiQcgHEpDvA57T1YPXRS6tP0",
+        "width": 1640
+      }
+    ],
+    "place_id": "ChIJaZVVFhbxK4gRFKbNLm3NEr4",
+    "plus_code": {
+      "compound_code": "GC2M+34 Waterloo, ON, Canada",
+      "global_code": "86MXGC2M+34"
+    },
+    "rating": 4,
+    "reference": "ChIJaZVVFhbxK4gRFKbNLm3NEr4",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 44,
+    "vicinity": "285 Benjamin Road, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4635976,
+        "lng": -80.5093572
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4649862802915,
+          "lng": -80.5079979197085
+        },
+        "southwest": {
+          "lat": 43.4622883197085,
+          "lng": -80.51069588029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Kugler Pierre Dr",
+    "place_id": "ChIJE164tnr0K4gRgHCRdP740Kc",
+    "plus_code": {
+      "compound_code": "FF7R+C7 Waterloo, ON, Canada",
+      "global_code": "86MXFF7R+C7"
+    },
+    "rating": 3.6,
+    "reference": "ChIJE164tnr0K4gRgHCRdP740Kc",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 17,
+    "vicinity": "135 Union Street East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5046643,
+        "lng": -80.5256373
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5059205802915,
+          "lng": -80.5242315197085
+        },
+        "southwest": {
+          "lat": 43.5032226197085,
+          "lng": -80.5269294802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "HearingLife",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1914,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112824598140970146761\">HearingLife</a>"
+        ],
+        "photo_reference": "AeeoHcIGa5sZZ3r_sOtGJRyLhrhbKH1f1-06LXlqgcxl2AHmdsrqppVAHXp_vAwnheKsKF7bVLLXHj5GL4cMfotrcgES0wzq9Nwa5NyxQ7vcuZcNUKrZ9ScTvR8_gFmZbhuKeafjQ1iWjPsO3F5dF3caDO0r5s1s7oZmzI6ZZ9uBfDdtryrPx0TnpTjohQmrIYDxzc-kaYp8OBCpPVxVXKajSa8ci1WzDDiZoNpy_1mo5FsFp_sBFDQSIVSYPbFe7l-j9xj9hOkUDsn6UWNWWiYSC_IpgXV-MuOfuXF5bYSKBLraXOIbJyimbfzmH7WZWxBTT8xTEvn6j34",
+        "width": 1914
+      }
+    ],
+    "place_id": "ChIJjYR8wcjzK4gRtD_6lxTdyJE",
+    "plus_code": {
+      "compound_code": "GF3F+VP Waterloo, ON, Canada",
+      "global_code": "86MXGF3F+VP"
+    },
+    "rating": 4.2,
+    "reference": "ChIJjYR8wcjzK4gRtD_6lxTdyJE",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 23,
+    "vicinity": "99 Northfield Drive East #304, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4653468,
+        "lng": -80.51861640000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46686853029151,
+          "lng": -80.51721961970848
+        },
+        "southwest": {
+          "lat": 43.46417056970851,
+          "lng": -80.51991758029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Jose Adrian Prudencio",
+    "place_id": "ChIJx2PoW3L0K4gR_JaYYZcqRlE",
+    "plus_code": {
+      "compound_code": "FF8J+4H Waterloo, ON, Canada",
+      "global_code": "86MXFF8J+4H"
+    },
+    "rating": 4,
+    "reference": "ChIJx2PoW3L0K4gR_JaYYZcqRlE",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 41,
+    "vicinity": "55 Erb Street East Unit 310, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4552499,
+        "lng": -80.506648
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45660403029149,
+          "lng": -80.50524471970849
+        },
+        "southwest": {
+          "lat": 43.45390606970849,
+          "lng": -80.50794268029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr Peter Evans",
+    "place_id": "ChIJ8534GGf0K4gRFE1MZ9ofiBU",
+    "plus_code": {
+      "compound_code": "FF4V+38 Kitchener, ON, Canada",
+      "global_code": "86MXFF4V+38"
+    },
+    "rating": 4.3,
+    "reference": "ChIJ8534GGf0K4gRFE1MZ9ofiBU",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 28,
+    "vicinity": "737 King Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44035,
+        "lng": -80.565
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4417684302915,
+          "lng": -80.56369596970849
+        },
+        "southwest": {
+          "lat": 43.4390704697085,
+          "lng": -80.5663939302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Alison Salhani and Dr. Andrew Stewart",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJsxYz2nL0K4gRVuk2SN1AXhc",
+    "plus_code": {
+      "compound_code": "CCRP+42 Waterloo, ON, Canada",
+      "global_code": "86MXCCRP+42"
+    },
+    "rating": 3.5,
+    "reference": "ChIJsxYz2nL0K4gRVuk2SN1AXhc",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 52,
+    "vicinity": "430 The Boardwalk #306, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4878028,
+        "lng": -80.5290424
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.48914698029151,
+          "lng": -80.5276925197085
+        },
+        "southwest": {
+          "lat": 43.48644901970851,
+          "lng": -80.53039048029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Stevens David Dr",
+    "place_id": "ChIJa7quxHr0K4gREEnMPc4ipIo",
+    "plus_code": {
+      "compound_code": "FFQC+49 Waterloo, ON, Canada",
+      "global_code": "86MXFFQC+49"
+    },
+    "rating": 4.3,
+    "reference": "ChIJa7quxHr0K4gREEnMPc4ipIo",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 20,
+    "vicinity": "435 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.440229,
+        "lng": -80.56499
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44147248029149,
+          "lng": -80.56384726970849
+        },
+        "southwest": {
+          "lat": 43.4387745197085,
+          "lng": -80.5665452302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Kathleen Bedrosian MD",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 438,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106306539990694109079\">Kathleen Bedrosian MD</a>"
+        ],
+        "photo_reference": "AeeoHcLYgy_ACwVLIjJhoxeekqN9yx7O1XUkGzAMAkaqG_hm8CT7POXGbNHdcdeEYEzZgGAMhzrDx71YoJxJkJRCndORRRj_LxDRoXIGjDOKCKxb6FQLZ225Wj8F19Z7vpqk1DMBEDqwE9mSh29MdjfdGkcN0wfQjBz5qZCB2fd8V-bpj3zNeWckIq46R5_N3yJJiG2DVlcJokiFMmbVON4Or3-nK0YSrIQ3TJFQeCkulpag6eaIjnh74yCq5Q2wL3zyrWO6dIQjI7YS4aBpG0da9ZhvwWi7aubU-xEdeeXgHH_NTDbwruaeOMdUSEZgaTWogvNh9DZx",
+        "width": 1291
+      }
+    ],
+    "place_id": "ChIJsV20BoL2K4gR--JcMrBQ7H0",
+    "plus_code": {
+      "compound_code": "CCRP+32 Waterloo, ON, Canada",
+      "global_code": "86MXCCRP+32"
+    },
+    "rating": 4.9,
+    "reference": "ChIJsV20BoL2K4gR--JcMrBQ7H0",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 27,
+    "vicinity": "430 The Boardwalk #305, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4556767,
+        "lng": -80.51397899999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4571384802915,
+          "lng": -80.51256261970849
+        },
+        "southwest": {
+          "lat": 43.4544405197085,
+          "lng": -80.51526058029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Tomescu Counselling & Psychotherapy",
+    "place_id": "ChIJDVlRsGn0K4gR2SGL0FuDMt4",
+    "plus_code": {
+      "compound_code": "FF4P+7C Kitchener, ON, Canada",
+      "global_code": "86MXFF4P+7C"
+    },
+    "reference": "ChIJDVlRsGn0K4gR2SGL0FuDMt4",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "485 Park Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4889101,
+        "lng": -80.49413179999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4903172802915,
+          "lng": -80.49283571970848
+        },
+        "southwest": {
+          "lat": 43.4876193197085,
+          "lng": -80.49553368029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr Michael Sorg",
+    "place_id": "ChIJ928MsWn0K4gREuetNuCpo5k",
+    "plus_code": {
+      "compound_code": "FGQ4+H8 Waterloo, ON, Canada",
+      "global_code": "86MXFGQ4+H8"
+    },
+    "reference": "ChIJ928MsWn0K4gREuetNuCpo5k",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "375 University Avenue, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4249987,
+        "lng": -80.5108502
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4264125302915,
+          "lng": -80.50947211970849
+        },
+        "southwest": {
+          "lat": 43.42371456970851,
+          "lng": -80.5121700802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Greenbrook Dentistry",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101463067163890227083\">Greenbrook Dentistry</a>"
+        ],
+        "photo_reference": "AeeoHcJ631eTt0SQLqjQn1aCCK_IVr82h8TKTT06rIUZUyvH931cuXHWsVPQ_BxeM9KdW29Ga4J3DHKEBnSVf6WSXcrkbuOOuyZ4fWwcvBNnzkdyfUzpDySfcb3Y5zy-3WXgsWpHFso2QQk5DHRC7MOIvUog_Py0fm860A147Mbv0pndXrODhPscc8fS3VZehdE1-misIsyRCnTEzVklzJpZ5XE2JOELSresX752FVKY7NGfBu8aI1g3km9uVp6toe7YohaGiwn-3yNU_noE3GcanEgLseJANip_ZWn__-aD-PziGq0KuTZWXSJOu47UE0o54XVOD-L6",
+        "width": 6000
+      }
+    ],
+    "place_id": "ChIJNdQVGbD1K4gRcqL9SezR45A",
+    "plus_code": {
+      "compound_code": "CFFQ+XM Kitchener, ON, Canada",
+      "global_code": "86MXCFFQ+XM"
+    },
+    "rating": 4.2,
+    "reference": "ChIJNdQVGbD1K4gRcqL9SezR45A",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 35,
+    "vicinity": "421 Greenbrook Drive Unit 23A, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4516757,
+        "lng": -80.5568273
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45308438029151,
+          "lng": -80.55544266970848
+        },
+        "southwest": {
+          "lat": 43.45038641970851,
+          "lng": -80.5581406302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Siva Appavoo",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJIbxU03P0K4gRYqOtrZLIStg",
+    "plus_code": {
+      "compound_code": "FC2V+M7 Waterloo, ON, Canada",
+      "global_code": "86MXFC2V+M7"
+    },
+    "rating": 3.2,
+    "reference": "ChIJIbxU03P0K4gRYqOtrZLIStg",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 15,
+    "vicinity": "445 Beechwood Place, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44917479999999,
+        "lng": -80.4447294
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4505508802915,
+          "lng": -80.44335181970848
+        },
+        "southwest": {
+          "lat": 43.4478529197085,
+          "lng": -80.44604978029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Total Hearing Centre",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3168,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114568766837437870908\">Total Hearing Centre</a>"
+        ],
+        "photo_reference": "AeeoHcJvpsVPRiX8hnwFwA5w-rvN0x9E6pi_5k6XQKV2kQNRucWM_YpCUA4gdmlj9y0Oy6uI8YE32kRDouQUsPhp6gJBODemunflCV28ii6ouzYgA7cs-0oAsX1TxdevSBIETYbBBh5_YkXXF8LU3fVqHQobgmPH9_03jl0G_vtWg6esnPc9b9DROuAD7Gd-iBai2Wq6c-VNXS4ZPjOCQRSg_LAvHr_dbAfTmH_cJXS0mfcw91JH2kGMwDJWWSepWVepEgySDoa8KcPMlDW8ZJ6Lwh5Y14K6l6VwcS8gd9sDNRheIgs1rB2FqoNls_9jwHNxpUd5QCBSKsc",
+        "width": 4752
+      }
+    ],
+    "place_id": "ChIJHWA_TkiLK4gRtv2PzEaP8eU",
+    "plus_code": {
+      "compound_code": "CHX4+M4 Kitchener, ON, Canada",
+      "global_code": "86MXCHX4+M4"
+    },
+    "rating": 4.5,
+    "reference": "ChIJHWA_TkiLK4gRtv2PzEaP8eU",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 31,
+    "vicinity": "1005 Ottawa Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4680461,
+        "lng": -80.4846261
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46940593029149,
+          "lng": -80.48311311970849
+        },
+        "southwest": {
+          "lat": 43.46670796970849,
+          "lng": -80.48581108029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Health Momentum: Centre for Therapeutic Medicine",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 640,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100398048424856284531\">Health Momentum: Centre for Therapeutic Medicine</a>"
+        ],
+        "photo_reference": "AeeoHcLWHla_EAHaJBwr_Xuf-rhQk24BHac8Mj4QxOaYaxh-aMKTyEWnjcKUfjR-fIEwi301d2WfG9G4PN1VNFXflnUg_GVcri65iX_1zMbNoBGKd2End4ajhQdBFzWLeN3qBlZ0mvJe0WX-05lYqHqrCAH1SrKPwuhaGbmZSbotccQcmYPEAJhQ8pRcZu8BO0X8uOD6yZuhwJIsgbos_O2mU_TwQc03_W0q2EjS-NJwIbffdpCQBr60SLHAPcEn_1iZQeNt-8DGyc7vraOkAuIYdGIMGEumv1t_qwYB_iB6r8hxHJiNVU1UgmIxgC222eS7B-avZ8JaUfI",
+        "width": 640
+      }
+    ],
+    "place_id": "ChIJySItT5z0K4gRhEzAayLSH3g",
+    "plus_code": {
+      "compound_code": "FG98+64 Kitchener, ON, Canada",
+      "global_code": "86MXFG98+64"
+    },
+    "rating": 4.8,
+    "reference": "ChIJySItT5z0K4gRhEzAayLSH3g",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 30,
+    "vicinity": "275 Lancaster Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.40544,
+        "lng": -80.5020399
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4068403302915,
+          "lng": -80.50055476970849
+        },
+        "southwest": {
+          "lat": 43.4041423697085,
+          "lng": -80.5032527302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Ear & Hearing Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118141292848437638476\">Marta Borowska</a>"
+        ],
+        "photo_reference": "AeeoHcJABETXoHzyf1uXMQtxB6vvLzYIsp32J0moqcsxfdJ8IcqR2-aIFlQacQ12JSJOZoKD6wsz2JMnY2BF8lsFKVlA3pjwr0_UBMf1mG-rCv6qNJcK7YjcrE_RyYPKedIFnitrAwca4-F1N7s_p2madaa19lP5OZJMfFKNfZF0_aFovkUI1YolVd1hmloEiXT6DBZ3tWjaKiisvC07fcqotVjiYgCy4Tfrb0-fitHSgjiq_o9M3RCyiI4JqdlEkJHmMTFtmh1ZQiUc8OixIZ8uDGCD1JVA0lVd5llV4yM3bzaiOQesnTIqOGChbZFZS-FDKHc3HglvJRYty3kuGLu3YJ63tfAToRj92caivIhT8X1NMAlyezTBeMVSw_S5AZFPst8PU9ICkGp8ntGUY5pM1vB4Tds-FSNbwKl_0w1tU_yGklHTcMPZcoJIiMvTKxGK3iM5llwgBghg1-thMqU_KzpCRutyF64QV5_anW7D22LicWraw3Cpz4YOo61uuSJOuDick-d9hVoY2nbzgvedgTCUYK0pxYVGDQhJmxRYlfj-MT3obJ6Cnfs7gI_pbEueH4GN_Vsly28kS35R0TY1NTP-zYF-ZaKGxBnTSod0y0Kyz3pDag_XhZrzKzlPP5tmT_THeQ",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJQcwICZ31K4gR-n0wdlWAdvQ",
+    "plus_code": {
+      "compound_code": "CF4X+55 Kitchener, ON, Canada",
+      "global_code": "86MXCF4X+55"
+    },
+    "rating": 4.5,
+    "reference": "ChIJQcwICZ31K4gR-n0wdlWAdvQ",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 40,
+    "vicinity": "1187 Fischer-Hallman Road #629, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4679687,
+        "lng": -80.4844683
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4693672302915,
+          "lng": -80.48303536970849
+        },
+        "southwest": {
+          "lat": 43.4666692697085,
+          "lng": -80.4857333302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr Sarah Millar, ND/ Owner Health Momentum",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2912,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101676652994120976803\">Dr Sarah Millar, ND/ Owner Health Momentum</a>"
+        ],
+        "photo_reference": "AeeoHcICbpQ8N6ATLZ9FDE0BOk5iSw-LiA0kibJkZDo7uhcVJXOPaILuc9wEUZhdl42o21AuxmE8FMJ5KiJ2lpx_nCTt_x9VMOMPTycgMdH8n3X8GI5nbMSBJiaHaRrkVfKQvQHu5a6x2OH6mYnZbqgB8-BSu9py1dNpmQiSrBPEnw8Povsx_4sk1mBUsbiLlT1j78emc-slYbtz7QdLnYVNvRXuNvG9D9o2Ylyjg8L1TG3P_4RLqmBYV9Wk4aFAaAXRadfT17VJivQ7spTmiYAq0N69KD-C9nw4E9xJwztK3hZ7n-wX6IrUYVSw-6fog8zf5TKyBi_DaVQ",
+        "width": 4368
+      }
+    ],
+    "place_id": "ChIJlaEtT5z0K4gRDJUr7eKEx_g",
+    "plus_code": {
+      "compound_code": "FG98+56 Kitchener, ON, Canada",
+      "global_code": "86MXFG98+56"
+    },
+    "rating": 5,
+    "reference": "ChIJlaEtT5z0K4gRDJUr7eKEx_g",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "275 Lancaster Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4590713,
+        "lng": -80.5369748
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4604517302915,
+          "lng": -80.53555276970849
+        },
+        "southwest": {
+          "lat": 43.4577537697085,
+          "lng": -80.53825073029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Ellie Fuke, ND",
+    "place_id": "ChIJZdt7Ihn0K4gR59nzhcNb8JA",
+    "plus_code": {
+      "compound_code": "FF57+J6 Waterloo, ON, Canada",
+      "global_code": "86MXFF57+J6"
+    },
+    "reference": "ChIJZdt7Ihn0K4gR59nzhcNb8JA",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "15 Westmount Road South #301, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45019930000001,
+        "lng": -80.5155637
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4514975802915,
+          "lng": -80.5143407197085
+        },
+        "southwest": {
+          "lat": 43.4487996197085,
+          "lng": -80.5170386802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Wilson Ian M Dr",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJu0-m5UP0K4gRLDQjdl78q6I",
+    "plus_code": {
+      "compound_code": "FF2M+3Q Kitchener, ON, Canada",
+      "global_code": "86MXFF2M+3Q"
+    },
+    "rating": 2.3,
+    "reference": "ChIJu0-m5UP0K4gRLDQjdl78q6I",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 15,
+    "vicinity": "564 Belmont Avenue West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4378629,
+        "lng": -80.56003369999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4391064802915,
+          "lng": -80.55858046970849
+        },
+        "southwest": {
+          "lat": 43.4364085197085,
+          "lng": -80.5612784302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Ballantyne Schaffenburg",
+    "photos": [
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109952888823695087549\">Jason S (WhiteCap)</a>"
+        ],
+        "photo_reference": "AeeoHcIkWOStM-TlBXHgCmhwenOov_1O2yckl5HkyIt0VnU5QLf6MCeccD_hALaLxG3mO_WzpHERI5pkllX4EzSL_jo6-GMXSbltIL4qXrCqm-U6h1ASbKuj4hVze4ISVnsaFUjUAr_szhuT2UjWVxuzAQJPx_ws-32o1E8NbXpCpAHyBNaUHbmuPTh-SF1evMGe_3Ir817dimmAf3aUMNyQ3_zBNxjc9jvp4R5z_FTYJYI7JQs2g6akQ-_IyngDjG7_5wtj21qnGjf0vZD2hNaxedUhYf5BG6rvvfWsxPnAa1DrpM3YW6Jf6csJfA9-UZr7VZlXWhoidXz9oIjMf1DCaZBaPqvrmpaoHDxJFsYAHHZJFQ-QNC6Hw0rX7YfPklMKwWyNebTYb2XZgU-vkILYE5ZV7XDZVN1goEAvNMtm_8fCtqPBpqEcyvdVAVTCN-Epi_IcW4oc_M2Tcy5paKOs3rgOpnsq_qHrxzDQxHmXVY87A1QcB0lktC0qi_mJN2eHq-iE-kj08_U-cEHGCZnC1axALCarC-SBqpQ0f7A_CiKD2FpPV8584X2zcEuw_T0-PegM3GRBtDwRawkLu7nEtJ7LvznFp1NXywlP0wPhKmm6kFqaPp2BVhHcvmpsSbbF0l404w",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJhZdyhIH2K4gRZgP1ryqayk0",
+    "plus_code": {
+      "compound_code": "CCQQ+4X Waterloo, ON, Canada",
+      "global_code": "86MXCCQQ+4X"
+    },
+    "rating": 4,
+    "reference": "ChIJhZdyhIH2K4gRZgP1ryqayk0",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "520 University Avenue West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4563855,
+        "lng": -80.5157076
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4577707802915,
+          "lng": -80.51430571970849
+        },
+        "southwest": {
+          "lat": 43.4550728197085,
+          "lng": -80.5170036802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. M Hafidh",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113664309233820834071\">Ron Dutton</a>"
+        ],
+        "photo_reference": "AeeoHcJ69HqKphVKEI6iFml3UrypnPOB7y_qP0lOIib0u9Dly0O2hmuw64lAzCa_lOPrOoeYX9agY6RLUU0SqsrCjDUJfGb7NKroarkyu0wc5dK5rYQ9q7HJZ17qnJBOTLHGcCK4ZkDDLubAJogdZc0lX7yiL-Jz1pDh1IqawUGQrRWhbzdyX4kUjH7C4ZF8CTZRe__nxPtg5MwvQGeRHaf_ThVd4HcrrihjKulMYfddatO_a7pypr_WE3TGeottngP_nw2sxdeJ03YNhQkm5huRCFevXBUiyRpycZMvZEGFLK27f96drDAF_q2mzc33ZZScW4r-uMwRV8b-05_ucDCZEE2okpdjZsEwiGb5SpJ24Ivmsb1T_8Y130vedV5MrijP9rVj14ReIQpaaVv4tjm3Q6KZLa5tUx7VgIXLVUfRVVW3PVzgINmFapP8L0R51VNX-YADOoqbJslz-g8uDx4OW_l_zs6hSdTSzltquYwU09ITbLQnOY3kxZnpcqW5-g0OYTgjPkGNebMOqLS9Y_MaPXN65sE4GxpKLXDopbrTUpSNXu4S_NdGz71XPudKlj11QGIPnFW5UTo8u685RQXfkZc_mTtU8I58s0cJv5XINWpISO_UHZEsuxKQAkoWvGVuRLQdWQ",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJu0-m5UP0K4gRXZ8lYEHeH-Y",
+    "plus_code": {
+      "compound_code": "FF4M+HP Kitchener, ON, Canada",
+      "global_code": "86MXFF4M+HP"
+    },
+    "rating": 3.1,
+    "reference": "ChIJu0-m5UP0K4gRXZ8lYEHeH-Y",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 56,
+    "vicinity": "535 Park Street Suite 1, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4533005,
+        "lng": -80.51767199999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45462533029149,
+          "lng": -80.51639236970848
+        },
+        "southwest": {
+          "lat": 43.4519273697085,
+          "lng": -80.5190903302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Arla Kasaj",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJyyNlv0H0K4gROZVosxmwSB8",
+    "plus_code": {
+      "compound_code": "FF3J+8W Kitchener, ON, Canada",
+      "global_code": "86MXFF3J+8W"
+    },
+    "rating": 5,
+    "reference": "ChIJyyNlv0H0K4gROZVosxmwSB8",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "690 Belmont Avenue West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4774197,
+        "lng": -80.5204428
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4787723302915,
+          "lng": -80.51918951970849
+        },
+        "southwest": {
+          "lat": 43.4760743697085,
+          "lng": -80.5218874802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr LEE",
+    "place_id": "ChIJmdl8P4vzK4gRmecWVsd58Ao",
+    "plus_code": {
+      "compound_code": "FFGH+XR Waterloo, ON, Canada",
+      "global_code": "86MXFFGH+XR"
+    },
+    "reference": "ChIJmdl8P4vzK4gRmecWVsd58Ao",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "65 University Avenue, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45609939999999,
+        "lng": -80.5056759
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45736213029149,
+          "lng": -80.50437366970849
+        },
+        "southwest": {
+          "lat": 43.45466416970849,
+          "lng": -80.5070716302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Handworx",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1711,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107205464170089353008\">Handworx</a>"
+        ],
+        "photo_reference": "AeeoHcKr4Agl2-Idrc9z5D_zHGIVCbZrsLucwc8vStUcfBdHvTJxLNeyB7JFf-R5P6YlF39FR685NPn38Wfv6DpOl-vKNQ2rWSA-S9ZJ_-bRvBZDI75xO1z4mwE18LEUnNmNHbUnHM1kEx6lOJ2CqjOSwJPhRM8gGxkSSbcgQYagyHahQy5coggT21Qjq9h4hYwGbcXbMYb8nvWmvS-dZl1554yRyhVEeJ8dBoqEc7k2rxMLqYTyvny_oz5QvAC7E4KtOIkMG6Es1x5J083AWOQx4wk9pD-1S5iCv5mNR6W1s0WE3BAEGx8bVrkklK_ue4cjQI5wQHIH",
+        "width": 4618
+      }
+    ],
+    "place_id": "ChIJHzAyhDX0K4gRwdz5qdeXlPM",
+    "plus_code": {
+      "compound_code": "FF4V+CP Kitchener, ON, Canada",
+      "global_code": "86MXFF4V+CP"
+    },
+    "rating": 3.3,
+    "reference": "ChIJHzAyhDX0K4gRwdz5qdeXlPM",
+    "scope": "GOOGLE",
+    "types": [
+      "physiotherapist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 55,
+    "vicinity": "16 Andrew Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45609939999999,
+        "lng": -80.5056759
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45736213029149,
+          "lng": -80.50437366970849
+        },
+        "southwest": {
+          "lat": 43.45466416970849,
+          "lng": -80.5070716302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Peter Schuringa",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJBcdblzX0K4gR6DFFCOEvSwQ",
+    "plus_code": {
+      "compound_code": "FF4V+CP Kitchener, ON, Canada",
+      "global_code": "86MXFF4V+CP"
+    },
+    "rating": 2.9,
+    "reference": "ChIJBcdblzX0K4gR6DFFCOEvSwQ",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 11,
+    "vicinity": "16 Andrew Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4503239,
+        "lng": -80.5154886
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4515598802915,
+          "lng": -80.5143031697085
+        },
+        "southwest": {
+          "lat": 43.4488619197085,
+          "lng": -80.5170011302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Richard Weinstein MD",
+    "place_id": "ChIJu0-m5UP0K4gRYc2fPffOsgs",
+    "plus_code": {
+      "compound_code": "FF2M+4R Kitchener, ON, Canada",
+      "global_code": "86MXFF2M+4R"
+    },
+    "rating": 5,
+    "reference": "ChIJu0-m5UP0K4gRYc2fPffOsgs",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "564 Belmont Avenue West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.450235,
+        "lng": -80.5154529
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4515190302915,
+          "lng": -80.51428771970849
+        },
+        "southwest": {
+          "lat": 43.4488210697085,
+          "lng": -80.5169856802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "BalanceLab",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJu0-m5UP0K4gR1Qtcc5_udHg",
+    "plus_code": {
+      "compound_code": "FF2M+3R Kitchener, ON, Canada",
+      "global_code": "86MXFF2M+3R"
+    },
+    "rating": 5,
+    "reference": "ChIJu0-m5UP0K4gR1Qtcc5_udHg",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "info@balancelab.ca, 564 Belmont Avenue West Suite 200, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44776760000001,
+        "lng": -80.51485009999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4490637802915,
+          "lng": -80.5134601197085
+        },
+        "southwest": {
+          "lat": 43.4463658197085,
+          "lng": -80.5161580802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "InMedic Pain Management Centres",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117066122909686832298\">Michael Young</a>"
+        ],
+        "photo_reference": "AeeoHcKCepQPN4wJu2TeBkhS9mLHOVaC7QKqwIlA3RR4AofrqATtsKludKNrmXbNOmvYI_MOrBpxOf-FvZHlEWFL1M2getWb7_Nib3JqoP0DzC5oWTjCedesqVsY6kxRSHLu6AFuFOAFpm7DJWZOCCBFn1OgC3AHB4-L8Or8T0Gsn9Z8rcn6JFzhYSdcfJtbAVEL1EJ77JdoN2yvXBAKUUZMo5ckOkDnKxdpTcs12eGTFDbuQgfFNE5f2rj--_DUZpuwsDZolmT2hHYopMAv818SOV-blDoOOrXd1s8OfmklMSBOBCwyPYuUD8VGBhgI_TJvn1X5F6K7ZvvefOVW0xK_QzIW5du9pI2oAhgppylUqcbEUmj-Y1JTqNE16LK_5ZHAjgov_fsDKygfivLs0pATAak35L9AIuTa8TZ9o5fxFYNf09XcACKUUb_hW25uhKnz69Dd_JKCcGmo7ZKOojC5LPaceWLI8KqzglLIw2XxsLdX8oymkfkOBgMD7k68JY0AV2sgJvA068ZT14MaYyvv1g0uT1PrSE4EYO-tS2_qYbtUpr12MfDwa0nlarnGCSpBANjdkyDxq8aSXNg7kLFOIYwljpXAa44-neS-GxhzKuH38I0dQXbPNDQ2Br4OeCl-acmO1Q",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJQV85SUT0K4gR2OHRdwIAgKE",
+    "plus_code": {
+      "compound_code": "CFXP+43 Kitchener, ON, Canada",
+      "global_code": "86MXCFXP+43"
+    },
+    "rating": 5,
+    "reference": "ChIJQV85SUT0K4gR2OHRdwIAgKE",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 26,
+    "vicinity": "525 Belmont Avenue West #110, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44594959999999,
+        "lng": -80.5137199
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4473417302915,
+          "lng": -80.51221016970848
+        },
+        "southwest": {
+          "lat": 43.44464376970851,
+          "lng": -80.5149081302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Kitchener Oral Surgery",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJsd1mokX0K4gRA0Jk1WeyxsQ",
+    "plus_code": {
+      "compound_code": "CFWP+9G Kitchener, ON, Canada",
+      "global_code": "86MXCFWP+9G"
+    },
+    "rating": 4.6,
+    "reference": "ChIJsd1mokX0K4gRA0Jk1WeyxsQ",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 32,
+    "vicinity": "449 Belmont Avenue West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45226919999999,
+        "lng": -80.49915589999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4535181802915,
+          "lng": -80.4978651197085
+        },
+        "southwest": {
+          "lat": 43.4508202197085,
+          "lng": -80.5005630802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Marc Sawyer",
+    "place_id": "ChIJKx1PE531K4gRwD-5QvgBV2s",
+    "plus_code": {
+      "compound_code": "FG22+W8 Kitchener, ON, Canada",
+      "global_code": "86MXFG22+W8"
+    },
+    "rating": 5,
+    "reference": "ChIJKx1PE531K4gRwD-5QvgBV2s",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6,
+    "vicinity": "10b Victoria Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.487639,
+        "lng": -80.5281175
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4890796302915,
+          "lng": -80.5266184197085
+        },
+        "southwest": {
+          "lat": 43.4863816697085,
+          "lng": -80.52931638029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "MSK Centre",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 533,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102963411004828693460\">MSK Centre</a>"
+        ],
+        "photo_reference": "AeeoHcLOpHbicvw-_zti3Lf9ZMWTZpJVPgaTfmfsHXMWocVI0jzXxwHyqOGDMETItGROxuQvYp6_o9jWpTokWEUvOP-V2P1TFh-NMBJV6f3FgsP5JKDPMmW0-MmLW6Zc5Zf9DJDRGwChPxjDg_HBUD-o8OrNN3pzpdC163VZdaq8cY5TneUqMQxc4xHhQS88WAtoILPfdvN_DBd6RlwM1YMRtLkM6GezZWlMFrv5QYIMMYMfyxJDvz3Z7jZcZdP4xWJvcgM7kvWQ7SZr3zHgpockhosHNpuR3fhdjwfpK4P_JbruvMujQMShSK3fZI0TVB4swEWSMK-By7k",
+        "width": 800
+      }
+    ],
+    "place_id": "ChIJixgayfn0K4gR6aIXdo0sBYY",
+    "plus_code": {
+      "compound_code": "FFQC+3Q Waterloo, ON, Canada",
+      "global_code": "86MXFFQC+3Q"
+    },
+    "rating": 4.3,
+    "reference": "ChIJixgayfn0K4gR6aIXdo0sBYY",
+    "scope": "GOOGLE",
+    "types": [
+      "physiotherapist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 274,
+    "vicinity": "435 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4878774,
+        "lng": -80.5290424
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4892107802915,
+          "lng": -80.5276905197085
+        },
+        "southwest": {
+          "lat": 43.4865128197085,
+          "lng": -80.53038848029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Thomas M. Hupel",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJs8RsM_j0K4gRhHLIiRbiSU8",
+    "plus_code": {
+      "compound_code": "FFQC+59 Waterloo, ON, Canada",
+      "global_code": "86MXFFQC+59"
+    },
+    "rating": 4.4,
+    "reference": "ChIJs8RsM_j0K4gRhHLIiRbiSU8",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 14,
+    "vicinity": "435 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4386027,
+        "lng": -80.5220176
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44004193029149,
+          "lng": -80.5207368697085
+        },
+        "southwest": {
+          "lat": 43.43734396970849,
+          "lng": -80.5234348302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Immigration Medical Examiners: Kitchener",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1388,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117772451993971044229\">Immigration Medical Examiners: Kitchener</a>"
+        ],
+        "photo_reference": "AeeoHcL2OqjEAOkWiNyJWfjo-YKKh94msztM4-zNLfD3WqqnAOdEWbPXgHwKso8X-Wy1E5GV-uRqkUcafh1UUU2VLYuJDPPkqzX6acPWWB8iGJLF2h148Fh0KFr63bS9cfqY5bKSkRC33CX5LyKqTOo42cwYM-kMo5GyXbURC8v4yHXrFs4_u4KB9JzpitwV3Ivif7kxKDGbFAow8JRQOGRw7hXcLJrWAtxtL60rQI18mKmoLMa_cudqMaztD-aH4i2yd7lFC16TundmnYUzswAFuRZgwqRegHBuAJWOdeY8n90qoidk9pHUnipzuC_N1rszSk9mzvjZ",
+        "width": 3202
+      }
+    ],
+    "place_id": "ChIJHzAyhDX0K4gRDb3nnK1_0Zw",
+    "plus_code": {
+      "compound_code": "CFQH+C5 Kitchener, ON, Canada",
+      "global_code": "86MXCFQH+C5"
+    },
+    "rating": 4.8,
+    "reference": "ChIJHzAyhDX0K4gRDb3nnK1_0Zw",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 159,
+    "vicinity": "B106, 751 Victoria Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.450876,
+        "lng": -80.488613
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45225618029149,
+          "lng": -80.48723936970849
+        },
+        "southwest": {
+          "lat": 43.44955821970849,
+          "lng": -80.48993733029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Cure Hearing Centre (Downtown Kitchener)",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 650,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117282444937934537363\">Cure Hearing Centre (Downtown Kitchener)</a>"
+        ],
+        "photo_reference": "AeeoHcLcdFF7__RXSTBN_pqq289TZ5PYRgoEFmLZpiGw_cQJSUD261dUoHCDrzrEIBQIzwLVTZK1Ui2hlNvrUAWcI8GEXdtvr3ifetR4W3Aj4AiFpnWY8jmv1CeG-hk5u6CBbxoObaHl2CA5dpvvGf9ggUu1rTTc5OLShZbW2J2qrY_5qYQZSwlU6vPSHy-iTrjDVRf5siuroHGN052d9fhpZIjT73drYhQcXUQ7Ny6rDkUq8OfxcLx7tW7q1t5W7aWV4ASVcAX2l4WXSadypySmBaJPvxesogeLrR1tAowugRxKKtFNnDxUO7C7dnRWUriLXZHJRMHPGHQ",
+        "width": 960
+      }
+    ],
+    "place_id": "ChIJSylTn_L0K4gRjZjII-3z8_w",
+    "plus_code": {
+      "compound_code": "FG26+9H Kitchener, ON, Canada",
+      "global_code": "86MXFG26+9H"
+    },
+    "rating": 5,
+    "reference": "ChIJSylTn_L0K4gRjZjII-3z8_w",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "7 Duke Street West #207a, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4425533,
+        "lng": -80.5446396
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4439536302915,
+          "lng": -80.54322186970849
+        },
+        "southwest": {
+          "lat": 43.4412556697085,
+          "lng": -80.54591983029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Kevin Mayer",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113748814334247196985\">Arun Tonio</a>"
+        ],
+        "photo_reference": "AeeoHcIIsNvsTnDw63w0UqXb-lx71ppPYD9a9sOSSwoyJ_diVbaFqpRfDFqsdDrbhrqBmUy5e6VI4gckkLnNlAbIv3jtXvJYZ41HphIC-2H1Si6EfB6bqme1rZw8M8-TZJtEDSma643kXrF7gWhC7cr1SvuVVhlSfFJ0JGOinrPyysg4VHrFHB-s1FdGEIPZqPjXu0O3WyKgpvYPKjWZ4D75jOE3Ipg0-GNIxmdM4FATKpQ8_a8iWqC7UMlJQoecflkV_sVdPozsfZDwiXvei9xIAML_hM9aMmsM1z2Ni0S7f6cptp7Y2BzKOvgHnPy2RFL0GxKxCzFnPZhywVfv0-3gNXMwFlMsJtBO1USfzrO-Pd3bLApB9CIzXZ3r4l_Bxh_Jv_CBOcrWWiZRRMaxtC9WNw9VKLr5eajEBMovgE-t71PFS3uQ2qjf-_4-fcbwgq3rqIPDrNL9WpHkt6tlqD2GpwLdZotRRgfvAKDpKBDRoSNcyVO4XKncdU7sieElxRxFlsf7Zsqm1uwOQgrYAEWh-J-JVmx6DS43qJjKIwZAwOrjXWihBlG_G4qxn17vklA1eV75IU_uQ6z2b4mQhYMa_t7DFK8M5ORUjEGiWEM07sAcQnqQYnlhXhII-cwzElANW2yAFA",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ_d0rVVb0K4gRkPGW7CqEJa8",
+    "plus_code": {
+      "compound_code": "CFV4+24 Kitchener, ON, Canada",
+      "global_code": "86MXCFV4+24"
+    },
+    "rating": 4.7,
+    "reference": "ChIJ_d0rVVb0K4gRkPGW7CqEJa8",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 14,
+    "vicinity": "851 Fischer-Hallman Road Unit 203, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44760420000001,
+        "lng": -80.4835331
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4489250802915,
+          "lng": -80.4824855197085
+        },
+        "southwest": {
+          "lat": 43.4462271197085,
+          "lng": -80.48518348029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Sanctuary Refugee Health Centre",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110225783489475303671\">Princess 14</a>"
+        ],
+        "photo_reference": "AeeoHcJ4nCUJEkkcP5AVh6Wi_inZ2yZEO5cc6_TdGEsh9rjR-DFVpHFj-ARekEWVP6az__DjcJvhh_w3DoQwtmZo43nfmCdXvBkFszDv1FBKqcdjaVPxxp9igTgbZJe5LAxNMXe3v2lTy6DoYtahAZ4IJfFlRjp6CakP5MGf3TwjN3Bbav2giOaWfXSsPMAKr4Mur2uDz09D4KRLolkgZBCi9d9ZHvQ4ePLODuRHgGrUPkWIS5pTHPcDoqIqWU_XSBTHu5GpsOsFEitW6jQC4cO3Emxuej1AEfGQpfHqlfUOFuQLT41JtV-DB5cf5RCpdGMtGwOV_0XCh6D5efEUQDRaRR5xlhuflR0yN-nw41qPfePc4pzWBlBt6Pmhd5NmYSwpDqRNbb-FMalT555uKurSOZKsue9Q-j89ua1WfVSQVZGhQkZqGIO0XSAWfKDQcO3mqNu-Iyf_kRNaECoA8FbrtU2KUS5oe03WFBxvy0csP_2Pi9SLe-qd7SnuibAWoeWTLdAuGXgTI5l6KLi1zS-sx0c0a5ukOySDbbL_kiGQbMJv_0HqBPxADmPqPMNYqZdAX9vnRZ2_UBW3WGQVtlYOzWl8H0GEAWs57pTZarDSl4mJxHINZJaZOTBg1gQgYyIwUwPK4g",
+        "width": 2560
+      }
+    ],
+    "place_id": "ChIJk0QGy2D0K4gRFOK9xDCWFMk",
+    "plus_code": {
+      "compound_code": "CGX8+2H Kitchener, ON, Canada",
+      "global_code": "86MXCGX8+2H"
+    },
+    "rating": 4.6,
+    "reference": "ChIJk0QGy2D0K4gRFOK9xDCWFMk",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 41,
+    "vicinity": "310 King Street East Suite 203, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4893063,
+        "lng": -80.4918768
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4906520802915,
+          "lng": -80.49056751970849
+        },
+        "southwest": {
+          "lat": 43.4879541197085,
+          "lng": -80.49326548029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "University Downs Family Practice",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107885330154435206326\">Ameen Wassif</a>"
+        ],
+        "photo_reference": "AeeoHcJSajwBrCDoI_F6ugEklytmwuPjy8T28XrG4g2D9V4p-ihlsUo7hI_InxH1Vj8rm-tuCOLjj_3_JEDfqVCZl8Xnm8Xw9ft_Up8wwn3pZutmSjxx8x2qwKdtr04hQcuNrena5iY9dWGL0IyJ5CaujOVFcC8Q5E5jqIvtctSbz5k9o8ohPHep_Xxw2xZBIkKmVfdun2YapHo6Cls4xLjHpWbgPqWwnj4r2RVNPdyrBr_UdHPBymx66rFLk5cfeKNflaUeOKpYflNL5acoFN_1hS0cX9uSrZWtcwtjCnATGK5vfhV9DQ4R3NB9LqmAzrg-m2VAOtn_EB8Swo1TO7i5Kfnf2vUDZo1_MLjCpWrsaKgYQkBaDUsvs0yfTnr0SkFTfl92zIqvZ6HzM-UIrBrRQbI8qKfhBEmDxHp1p1MYtNyPY0D-JnZiFy6vIzUGY7j7uSwq3DgjYfw_CgoKND5C--HoMJxTrlrynJmCyY0kO2Qab92GoGh1q8odyriXX0lqEZ2CiCrcPaGwJnOObAthDwWw9PDyp6DkrLeg6HrsLVk6A5XLUWuevyjh1KVqidcUOP1lG8QsPEI8OQtyevAB-wVTQcKZuyn7KweJixSK1Ay83xAk3oEDxftsc2ZBGDJ21XivUw",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJuUAXYHPzK4gRH2CpIDak8FE",
+    "plus_code": {
+      "compound_code": "FGQ5+P6 Waterloo, ON, Canada",
+      "global_code": "86MXFGQ5+P6"
+    },
+    "rating": 3.8,
+    "reference": "ChIJuUAXYHPzK4gRH2CpIDak8FE",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 51,
+    "vicinity": "425 University Avenue, Waterloo"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 43.49737509999999,
+        "lng": -80.54723129999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.49890313029149,
+          "lng": -80.54594941970849
+        },
+        "southwest": {
+          "lat": 43.4962051697085,
+          "lng": -80.5486473802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Revita Medical",
+    "permanently_closed": true,
+    "place_id": "ChIJV2azHWHxK4gRUGV2jPLyPTI",
+    "plus_code": {
+      "compound_code": "FFW3+X4 Waterloo, ON, Canada",
+      "global_code": "86MXFFW3+X4"
+    },
+    "rating": 2,
+    "reference": "ChIJV2azHWHxK4gRUGV2jPLyPTI",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "180 Northfield Drive West #4, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.42559929999999,
+        "lng": -80.5103001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4269215802915,
+          "lng": -80.50905451970849
+        },
+        "southwest": {
+          "lat": 43.4242236197085,
+          "lng": -80.5117524802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "New Vision Family Health Team",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3480,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102964840660068033997\">Alex Haack</a>"
+        ],
+        "photo_reference": "AeeoHcL2O3nMAxTwkLryywHLuitYZQX5U26VXDgivjupF23MK064vnTQJEDFicdwyunp4uzlI8_T2RWEfV0AnT0_QPtBtK5edc7R0SkVYAmGv0Yr8ICqGUghUcbto5nE5RYJcRXQsrG63FFYDDYJy6OceRbMkT7EcrmDVbhzEvKTLJYsybyEm4hz-QceRLhc9dcBQwwlSWbskcWG8rSWJmQOgLVh1VJJzYMroeJi7PlX0-ODFA58rIKMBF-wqzrZF950TG7BFUsRpX_CFq1LwlJGbAln2w-xem_NAeexnUkXx53sM-H3qB0w0TT2Ign-ioJUetDcaehrGhueXaq74YuHXSP_Cj0jsJuCdeILzBYtQw6gWMnu8K7DV0LJgAjqRjSGOkoplWVyhMO_4a58EeOehX0HoHawh-prE_FYhU0jEKk4DtRdxjMTDt0Ej93ItmKkTL7jAcuwwryZ2TvO51OIT4JIWPnNVP1ZPRtBo07OzMKIACwz7lONcilgWaKZLNYeoH2x9q2gxCSXrpRYxIhFO5X3Du6maRcD_ChVwlhNBbs__dzYAqyMrHUt75vgquYq9lk-aP4O0qoISKGPuoQyEmvuxBwPOLHWI6girDnUfz2vp46Y4awShF6iFRcdqIoxrMYrILtT",
+        "width": 4640
+      }
+    ],
+    "place_id": "ChIJLeUerrr1K4gRv-mLF1HPsSc",
+    "plus_code": {
+      "compound_code": "CFGQ+6V Kitchener, ON, Canada",
+      "global_code": "86MXCFGQ+6V"
+    },
+    "rating": 3.7,
+    "reference": "ChIJLeUerrr1K4gRv-mLF1HPsSc",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 149,
+    "vicinity": "421 Greenbrook Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.42520630000001,
+        "lng": -80.51060269999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4265490802915,
+          "lng": -80.50923951970849
+        },
+        "southwest": {
+          "lat": 43.4238511197085,
+          "lng": -80.5119374802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Thomas O'Brien MD",
+    "place_id": "ChIJLeUerrr1K4gRu0WeS-37ED4",
+    "plus_code": {
+      "compound_code": "CFGQ+3Q Kitchener, ON, Canada",
+      "global_code": "86MXCFGQ+3Q"
+    },
+    "rating": 3.7,
+    "reference": "ChIJLeUerrr1K4gRu0WeS-37ED4",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6,
+    "vicinity": "421 Greenbrook Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4401442,
+        "lng": -80.5648495
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4414643302915,
+          "lng": -80.56347931970848
+        },
+        "southwest": {
+          "lat": 43.4387663697085,
+          "lng": -80.5661772802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Boardwalk Occupational Health",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1356,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116672967402698256486\">The Boardwalk Occupational Health</a>"
+        ],
+        "photo_reference": "AeeoHcJzQIDu7C_w96z6gYK6u98qkmA3YFGyN5YGfkhTqsT66dJiXYG1thDEVIBuAoxh1esnOEOPlRVys0d86Vrk8bqMfPxvDhaI-TezHe1ndt62vvWy-fuXprbin6mqqEbutCNGmk5RI7AWaXhUWXfCEHxnD3Kb2x0pnyQCyPet8bYaTCvAMQilLXhFtLASLQdiJaAIwP6jyp1Ddw4D6BGqQMPdQdTl3tOF7VjgDgxWG9l5cUPmVJlBuyff9nXdqww-x7jVt6kYnQVQetg0qTiKhY607_ICs3MG1ltY6X_cU84iEZTcaaF8TBxO5c2NQkklNjFMf1BJPuQ",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJq_5IBmH2K4gR-m8srjVm3jM",
+    "plus_code": {
+      "compound_code": "CCRP+33 Waterloo, ON, Canada",
+      "global_code": "86MXCCRP+33"
+    },
+    "rating": 3.1,
+    "reference": "ChIJq_5IBmH2K4gR-m8srjVm3jM",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 10,
+    "vicinity": "Suite 307, 430 The Boardwalk, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4402508,
+        "lng": -80.564961
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44151258029149,
+          "lng": -80.56354801970848
+        },
+        "southwest": {
+          "lat": 43.4388146197085,
+          "lng": -80.5662459802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Toothworks The Boardwalk Dental",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3168,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110093285900574219213\">Toothworks The Boardwalk Dental</a>"
+        ],
+        "photo_reference": "AeeoHcKCnGPZ-B7LQEKGDsOvVsVyfYKQgjsvzD9NnhytjyQzbkSJaueqYhDPTsV6EmzVuUxquuhn9np340UZgpLts0n2FqpIXFnvfdruPnRwimIiy4EhhwcdUPIE2h6P3fNCO5_AeZnxPoEYIGMXyGZ0aK1ESY-2aff5tDCRieJ-Nqqv2TDOqiiYhSXUo9K7j79-zy6N6PrcxMDn3D-Z-pZycTfPyYS9_5LB2osBnEdh0CsRuuURbCp7bYjawrL_-Un8d6TcTc5Iw4sIPMKjajZ2PSgBQrdoPWAlM9DG2EgAZs8IlT98D6g4pev5RzSLoppacUOFiUdrSLU",
+        "width": 4752
+      }
+    ],
+    "place_id": "ChIJGcDgdGD2K4gRZxy6FiHgrcE",
+    "plus_code": {
+      "compound_code": "CCRP+42 Waterloo, ON, Canada",
+      "global_code": "86MXCCRP+42"
+    },
+    "rating": 4.5,
+    "reference": "ChIJGcDgdGD2K4gRZxy6FiHgrcE",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 484,
+    "vicinity": "430 The Boardwalk #106, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5046643,
+        "lng": -80.5256491
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5059205802915,
+          "lng": -80.52423736970849
+        },
+        "southwest": {
+          "lat": 43.5032226197085,
+          "lng": -80.52693533029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Waterloo Dermatology",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 403,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116621830005230069655\">Waterloo Dermatology</a>"
+        ],
+        "photo_reference": "AeeoHcK6UdpQ6QYGrP_iKMGg8AKVJQFRVqHkn-8wjyfxL_dXUqunzccNOqcY1fGZRZYYzKljpvRiZNJa6esMtQaww0GCazBA9_y-N6azMx7OrbZf284FMPYzDAxYubGOsyXSIhE5aszpLE_9GLsrSpX4aNI-wy-AH6a6zGiytBnr9awRHzApC1mYdyQqJP2G1pxGcJDKb7tDMBRfzCAhIPqN9uRxtIBK0d-aNok47U-LTQ8zVVXNsE10gtjhYbTngrqWzI02dugbMKtdfZT0FUOOYzJ0aJCaYIYTdxjGkwi5iT0y3eEn3nsk28zokhni7HyGuTQg9Wu13c4",
+        "width": 536
+      }
+    ],
+    "place_id": "ChIJKQx76MjzK4gReiAgMxaUakY",
+    "plus_code": {
+      "compound_code": "GF3F+VP Waterloo, ON, Canada",
+      "global_code": "86MXGF3F+VP"
+    },
+    "rating": 2.3,
+    "reference": "ChIJKQx76MjzK4gReiAgMxaUakY",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "306, 99 Northfield Drive East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4243973,
+        "lng": -80.5534596
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4258506302915,
+          "lng": -80.55231376970849
+        },
+        "southwest": {
+          "lat": 43.4231526697085,
+          "lng": -80.55501173029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "DAWSON DENTAL CENTRE-KITCHENER",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1367,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107678884569328968108\">Dawson Dental Centre</a>"
+        ],
+        "photo_reference": "AeeoHcKdtAmgHrGKq2kFDsXCc88WelhJ5HQaOOdhR6QJtvzBlk5etviesNxXMqEZzeS5-Str2lttvqmJBt-NZQ9u9k2TIaSylrel_0-M2J6KBydDcxc-ACzc7BW-5q-b7tCihAoZdS6Ml1dNAz4tNSjWv7gMs8OqWV2apCxLjG_3LvgRytCvj5RoKEm-OfNNBKJmjRPVl8qu_vG7NUM7zYKJO54cWN3Qezr6BxjwacRQJ9lSSO7twr3kn_QUIO3TZt6dBN_knPPPzQ8s8GW0utsmpyyz_cse0wAYxnyhO9UgVePZkSOtT-N5OGpH0qXq2j2p88nCGys-i4w",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJ0a4G6nH2K4gRuxW424JTypY",
+    "plus_code": {
+      "compound_code": "CCFW+QJ Kitchener, ON, Canada",
+      "global_code": "86MXCCFW+QJ"
+    },
+    "rating": 4.6,
+    "reference": "ChIJ0a4G6nH2K4gRuxW424JTypY",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 183,
+    "vicinity": "235 Ira Needles Boulevard, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4177723,
+        "lng": -80.53611839999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4191562302915,
+          "lng": -80.5346724697085
+        },
+        "southwest": {
+          "lat": 43.41645826970851,
+          "lng": -80.5373704302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Shireen Saban",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 438,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114869143984383524167\">Dr. Shireen Saban</a>"
+        ],
+        "photo_reference": "AeeoHcJEg2D5H7j42YyJ9n0cwYaZwB37pwL1bjlt8Uv0RujU8f-1uTYpxgq2Sajwhy7Wktq0BnI0cRvWIY1Bfa-LxSJdiuLdI17rCEoec_LqQAUwhrC01g8FGrzC4W2ZLHEglb1ZZ4N7UIyTbY6gyGyN3I_Cm9kx9K_Ks4Eyht73Hn0yU9aNQLxtwVRaTf7RwcPqgh_uIaMDg467pIHfiG25iw0LuU4FkI2oyOxkYb_NHKs7RiVsWMZ_8BFPmC08SKU2_lG6RtpJ0HxJLAM7b_crfvibvVB64MWWQQiI_3de9Tgyb4o5HcIFhv8iwg_tZvGbjOvlR392-Ac",
+        "width": 783
+      }
+    ],
+    "place_id": "ChIJwyh2wcjzK4gRy3HyHzjTKIM",
+    "plus_code": {
+      "compound_code": "CF97+4H Kitchener, ON, Canada",
+      "global_code": "86MXCF97+4H"
+    },
+    "rating": 2.5,
+    "reference": "ChIJwyh2wcjzK4gRy3HyHzjTKIM",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 18,
+    "vicinity": "#15A, 450 Westheights Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4135459,
+        "lng": -80.47218319999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4149637302915,
+          "lng": -80.4708908697085
+        },
+        "southwest": {
+          "lat": 43.4122657697085,
+          "lng": -80.4735888302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Country Hills Dentistry",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108609285206510048288\">Country Hills Dentistry</a>"
+        ],
+        "photo_reference": "AeeoHcJ9qol5LQ_kvExWhbfWMYEKKHInHse5eu__yJqXIf4GyLr57_UTCyvt7DI17zI5JTghlWxarmwlcwob_bAQXzAgnGGqf845nNhB_cWwWRhEVLRq2l1epf_LtsAGKm0GTtqGN2rBB0KeB-iri8tGvoiAu0wdU58i6zwpIQCTa-x0oitsQmC38viqEw5NB6yclxUCRV2TKEgGzk0eKBK02f-1xEKuPPPeyvyA6HVvbRRnFCUifjfxrEHgkTJM1jxYOmVpNrE-rBNhYqVv3nwFyrE6HQEh8JH7Cx9ZPSZvyssDUuMtMigMUbeWdK9Lp8o9MvhQYDUCYSM",
+        "width": 1500
+      }
+    ],
+    "place_id": "ChIJR8cQPj_1K4gRWMdjxKG9JEo",
+    "plus_code": {
+      "compound_code": "CG7H+C4 Kitchener, ON, Canada",
+      "global_code": "86MXCG7H+C4"
+    },
+    "rating": 4.8,
+    "reference": "ChIJR8cQPj_1K4gRWMdjxKG9JEo",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 335,
+    "vicinity": "153 Country Hill Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4448062,
+        "lng": -80.4375532
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44614148029149,
+          "lng": -80.43633061970849
+        },
+        "southwest": {
+          "lat": 43.4434435197085,
+          "lng": -80.43902858029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Arthur Mueller",
+    "place_id": "ChIJOa2nzD6LK4gR6s9czPzwS44",
+    "plus_code": {
+      "compound_code": "CHV6+WX Kitchener, ON, Canada",
+      "global_code": "86MXCHV6+WX"
+    },
+    "rating": 5,
+    "reference": "ChIJOa2nzD6LK4gR6s9czPzwS44",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "115 Wren Place, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4285369,
+        "lng": -80.43600649999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4298803302915,
+          "lng": -80.4346608697085
+        },
+        "southwest": {
+          "lat": 43.4271823697085,
+          "lng": -80.4373588302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Weinstein R Dr",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJlTbuqqL1K4gRxcHz7NOQ8Dg",
+    "plus_code": {
+      "compound_code": "CHH7+CH Kitchener, ON, Canada",
+      "global_code": "86MXCHH7+CH"
+    },
+    "rating": 2.7,
+    "reference": "ChIJlTbuqqL1K4gRxcHz7NOQ8Dg",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 22,
+    "vicinity": "31 Kingsbury Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4328395,
+        "lng": -80.4389407
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4342168302915,
+          "lng": -80.43771071970849
+        },
+        "southwest": {
+          "lat": 43.4315188697085,
+          "lng": -80.44040868029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "HearingLife",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103440831285289090636\">HearingLife</a>"
+        ],
+        "photo_reference": "AeeoHcLS-NcRzYDkbLONAUhs67aMvR3chq6ObQtR5znIh7RdiW_CluRbI8jyGO8hccSjsYDuQkErfzyMYc2oPMVVrddKuAQ8PthcNk8CXXocdgB5kv_AV9r84rbEQAylVxPHyiI8bRXbKoiFCAEHfRBCVV3tTeFyesRymyLw-_JSGiKi8xb1UZ7agkkK7I4gnfOmTBUp9dhgz6I85DE4rlYgMKMik6BWszEos0p25ogt7VxHgkSNhWLDt77S7qKSzXrZ3SRYLs8bzV298AgSUN_k8FmxTkKv32E0VUgtIQgncr2oF2rIKTw5y091kUsbRhGCBOLt8EJ4rYE",
+        "width": 1506
+      }
+    ],
+    "place_id": "ChIJPV9duiaLK4gRPuvhBGSyyls",
+    "plus_code": {
+      "compound_code": "CHM6+4C Kitchener, ON, Canada",
+      "global_code": "86MXCHM6+4C"
+    },
+    "rating": 4.3,
+    "reference": "ChIJPV9duiaLK4gRPuvhBGSyyls",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6,
+    "vicinity": "1400 Weber Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.423933,
+        "lng": -80.44028399999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4253232302915,
+          "lng": -80.4392860697085
+        },
+        "southwest": {
+          "lat": 43.4226252697085,
+          "lng": -80.44198403029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Toothworks Fairview Park Dental",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3168,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111682799624777434142\">Toothworks Fairview Park Dental</a>"
+        ],
+        "photo_reference": "AeeoHcLEb3jv7jCiubmCV6u6szSmBaHHq1CJMtWl7pjQxH1qs7Ghj2fJ4h0_5qqmlAg5yKqoUc12AjujuU8Pjeq8Ls7immbLCAYaUOXmzIMfdYpDiY0tvuy6xKGZnSnJuLqxMqyz1sS_cLXCLO_fN2CcdOXFLraAKDbh2gEqgNxdW1ksEpO53OgN-8djeuWXCzENAsAuJJq4VQKgWej4mBp5ZZDQ28UskAEM0TmFmHJ_cIF8I0UJXxYlZfAXqEsR1KxVBKdZxr4oligFAan_Rp6ad4kkhAzjnlbjPH-SqJeMzBYcBNFZE3Fd1BVYae5zOwu2zlp1oaH9",
+        "width": 4752
+      }
+    ],
+    "place_id": "ChIJSU3NWtmKK4gRUqMKP8F25J8",
+    "plus_code": {
+      "compound_code": "CHF5+HV Kitchener, ON, Canada",
+      "global_code": "86MXCHF5+HV"
+    },
+    "rating": 4.5,
+    "reference": "ChIJSU3NWtmKK4gRUqMKP8F25J8",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 641,
+    "vicinity": "2960 Kingsway Drive Unit K004A, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.419863,
+        "lng": -80.4410051
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4213053302915,
+          "lng": -80.4398089697085
+        },
+        "southwest": {
+          "lat": 43.4186073697085,
+          "lng": -80.4425069302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Kordish",
+    "photos": [
+      {
+        "height": 2988,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100826979862352267820\">Patrick Kozierowski (WickedAwesomeAgent)</a>"
+        ],
+        "photo_reference": "AeeoHcLhSGrxeet6FFsji11tV-32H_xmQy3AL1QuMu_3MVRNPP3EqPl_Lh9k37GMy2t4qojFZ8QvhFY0FjK8PqwuSgzS0YXreEK4UhIDITr5lTxSpWlF_z6kCY0Y4nmFHSxp6tXMjgkxGlpFWu5DkbA69iaOo4yiGxt8Pnd8F_VNOKIkCIEOSYqbp-y3jP3JfRP8evbFYB_i6dp0SVBol067T7zSg5psvFV36s2H2ykG4eI24EfaoMIKKsz0od2jzv0khzell4Imf50OJ_fpdAkCap46hObk45khbXE4g67a1-6FTNsCL50Nifm6NEUeQm0--NCIGlCmDvUYfUkLZNLjTxpTjzlaywZP94jyRRWGRwKt21xlw_aFBWkJ4fOpeTGMvPLFzb22aEIznoqVUsHvBnKC0A4NOuAqxthg0FzUXDv1_vE0crJV7usgISvCm-GSvLK7ccfNDjRSgn4PgKszNdcaw0NNRtgHEiI_LYoNxV2cO3-oHQP7pXIfT1HO8E-KK5LYv3hGsj_mFBqrotTXq5nMXOjUospa5NSmbvkD383g2r065CmcFRSF7rbHpDy1GW-McB0Up4Dtzp22NUt6PRhBldjQkLqVcXt04blrdun6S9fPBjWTUW_jesaKEHG1fXBkzhbZ",
+        "width": 5312
+      }
+    ],
+    "place_id": "ChIJ85Hu1tqKK4gRVsu7rG-ADpw",
+    "plus_code": {
+      "compound_code": "CH95+WH Kitchener, ON, Canada",
+      "global_code": "86MXCH95+WH"
+    },
+    "rating": 4,
+    "reference": "ChIJ85Hu1tqKK4gRVsu7rG-ADpw",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "385 Fairway Road South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.420371,
+        "lng": -80.4401563
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4216391302915,
+          "lng": -80.4390413697085
+        },
+        "southwest": {
+          "lat": 43.4189411697085,
+          "lng": -80.44173933029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Amin Murji",
+    "photos": [
+      {
+        "height": 2988,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100826979862352267820\">Patrick Kozierowski (WickedAwesomeAgent)</a>"
+        ],
+        "photo_reference": "AeeoHcKMRIpH5VANvhjjx_8T_rGHo1p33qWlMsDxLxKEkC0fTRHa1HmQIT7ZfLNIrwDo1DrKM1xLy_zdngkJdaCY6Zk8sFrSSwfPm-Nkv7Fps_YU4dAJZFJUQcG7HqWcRXiYD85OzD4MTp_5qtrARJS3Ak-DiH6RMThyfNaKz4rkSJid4ueo7O9krqx5WAr7VrSaOpX-xFtSV3mOC3Oc1YfVB7PwauLp9B7ZnouiSQn1ulsaBP5LRy08geTdQzJ2ZvIdD2OM52Y_It-h0o_1LZlQzByz_k9CaVKdv3MND5_sTi8-Uuk_7Z3jC5VBJuDizM7sYeR00LhFQlYjpil9ApeFGkSGWvZWKuAIYwUs7Rp0fwfjlYkkAfzajbbJe2FR6MoZsNx8_D_OyHevrHfyDUgy2Cq7Rb0wUyrOEBNGsHcJ9obidrv56mHLqQHMTEm5lQDm-3A_0hqjzWz3fbzj192DY8bhKUeVvEzqCsPDMtd0ijlgRYhSAktb0WzhvM8nQjLOS2icMx6yDSLwm__pe605Ri_lUK_0sGEAGExBgvRaNyrYvVfn5KGrl0UDMEJA1mk3A7Vxq3DbmZbR0wsvDlCotSHrTKJYiU2nvTvL_ffHuPl0Nc2v5XNI3zB9lFip-9OPwVwfYDyJ",
+        "width": 5312
+      }
+    ],
+    "place_id": "ChIJ85Hu1tqKK4gRXpJZ70m3HHo",
+    "plus_code": {
+      "compound_code": "CHC5+4W Kitchener, ON, Canada",
+      "global_code": "86MXCHC5+4W"
+    },
+    "rating": 3,
+    "reference": "ChIJ85Hu1tqKK4gRXpJZ70m3HHo",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "385 Fairway Road South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.448849,
+        "lng": -80.5155912
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4501874802915,
+          "lng": -80.51419751970849
+        },
+        "southwest": {
+          "lat": 43.4474895197085,
+          "lng": -80.5168954802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Carruthers D E Dr",
+    "place_id": "ChIJN2ZFDkT0K4gRbHSaJl5kD6M",
+    "plus_code": {
+      "compound_code": "CFXM+GQ Kitchener, ON, Canada",
+      "global_code": "86MXCFXM+GQ"
+    },
+    "reference": "ChIJN2ZFDkT0K4gRbHSaJl5kD6M",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "535 Belmont Avenue West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4292047,
+        "lng": -80.5266534
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4303631802915,
+          "lng": -80.5251492197085
+        },
+        "southwest": {
+          "lat": 43.4276652197085,
+          "lng": -80.52784718029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Primacy - Highland Medical Group (Dr. Butris & Dr. Nedimovic)",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 336,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113362007821844022625\">Primacy - Highland Medical Group (Dr. Butris &amp; Dr. Nedimovic)</a>"
+        ],
+        "photo_reference": "AeeoHcKgXIIJFU4_NISvenlPGlStPnvX70V2-ydeTAVw1Bhx1wcYuxWtV7JJbgn3-rhHSD5FN1XSPSubtoFL3nGmvW69Aqwp5r5aOE1GO1Ocf6ivdm_HrYm6EdA03Uji001nUyWslyivgAtUoDPSJCYIr7tTsqYwE4MBUzaDtDiMDhSI1d4TPQKhUY24D1kPV9K0ItYAiOVz33J0XP7HbQx42OTxFQ912LcAdav6_XsvjyjNpOlj64vAMo9XOWf_tB6pgz9oSCu9FKPoU2DgtaZRcxvnAGSeMtnkVZP8FAyuVjR5tue8YyxmrBn3ipvLLk7uRJP04EnbASM",
+        "width": 448
+      }
+    ],
+    "place_id": "ChIJk1sgMsn1K4gRNmSEVLliF1E",
+    "plus_code": {
+      "compound_code": "CFHF+M8 Kitchener, ON, Canada",
+      "global_code": "86MXCFHF+M8"
+    },
+    "rating": 3.8,
+    "reference": "ChIJk1sgMsn1K4gRNmSEVLliF1E",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 15,
+    "vicinity": "875 Highland Road West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.42477460000001,
+        "lng": -80.51087369999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.42615368029149,
+          "lng": -80.5095015697085
+        },
+        "southwest": {
+          "lat": 43.42345571970849,
+          "lng": -80.51219953029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Adler Ruth Dr",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJLeUerrr1K4gRmxf5cQe2WWw",
+    "plus_code": {
+      "compound_code": "CFFQ+WM Kitchener, ON, Canada",
+      "global_code": "86MXCFFQ+WM"
+    },
+    "rating": 5,
+    "reference": "ChIJLeUerrr1K4gRmxf5cQe2WWw",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5,
+    "vicinity": "421 Greenbrook Drive, Kitchener"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 43.4381505,
+        "lng": -80.47762279999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4395730802915,
+          "lng": -80.47619011970849
+        },
+        "southwest": {
+          "lat": 43.4368751197085,
+          "lng": -80.4788880802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Kitchener Massage Therapy",
+    "permanently_closed": true,
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112012689163682030613\">Kitchener Massage Therapy</a>"
+        ],
+        "photo_reference": "AeeoHcLve_SodsA6PC5W6wFtUFGVFkYmaaiBx49kXHRG8yCozLssotOBqJLBx6vvlKRc_4cLTfSu3gWRtnGWVhYchm4YziO7A0TFXpBJqPovZ3_GX4VE2OgvGFeirTlVsG9xh2cWj1TGJ2GRNBwcEDyiDuMrMnDDJsqRTPIdb5TI_UYIVaEf6zwsldHJRZ9Yl94ZYEqVAjK55CMd5dvWn-L3k01Nciz5WTu1pFt0mNCv4Ao9_A3ddgWaKmh_YCt_UUow9uLz5_pBrQ9iIQfss8eoeeLtEUDOP7F_a4sov9YAQ5PS0RSO6QSFRDYO1KF3gFBpukF_kIMvqdw",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJ-dQYaZT0K4gR0nvCREi3ZTs",
+    "plus_code": {
+      "compound_code": "CGQC+7X Kitchener, ON, Canada",
+      "global_code": "86MXCGQC+7X"
+    },
+    "rating": 4.8,
+    "reference": "ChIJ-dQYaZT0K4gR0nvCREi3ZTs",
+    "scope": "GOOGLE",
+    "types": [
+      "physiotherapist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 44,
+    "vicinity": "125 Bedford Road, Kitchener"
+  }
+]

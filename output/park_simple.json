@@ -1,0 +1,867 @@
+[
+  {
+    "name": "Kiwanis Park",
+    "coordinates": {
+      "lat": 43.5031741,
+      "lng": -80.4719449
+    },
+    "longitude": -80.4719449,
+    "latitude": 43.5031741,
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Bingemans",
+    "coordinates": {
+      "lat": 43.4735004,
+      "lng": -80.4500826
+    },
+    "longitude": -80.4500826,
+    "latitude": 43.4735004,
+    "types": [
+      "campground",
+      "amusement_park",
+      "movie_theater",
+      "bowling_alley",
+      "park",
+      "lodging",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Waterloo Public Square",
+    "coordinates": {
+      "lat": 43.4639429,
+      "lng": -80.5223647
+    },
+    "longitude": -80.5223647,
+    "latitude": 43.4639429,
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Moses Springer Community Centre",
+    "coordinates": {
+      "lat": 43.4739274,
+      "lng": -80.5114325
+    },
+    "longitude": -80.5114325,
+    "latitude": 43.4739274,
+    "types": [
+      "stadium",
+      "gym",
+      "park",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Victoria Park",
+    "coordinates": {
+      "lat": 43.4457166,
+      "lng": -80.4986983
+    },
+    "longitude": -80.4986983,
+    "latitude": 43.4457166,
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Waterloo Park",
+    "coordinates": {
+      "lat": 43.4675513,
+      "lng": -80.52717299999999
+    },
+    "longitude": -80.52717299999999,
+    "latitude": 43.4675513,
+    "types": [
+      "tourist_attraction",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Exmoor Park",
+    "coordinates": {
+      "lat": 43.4882097,
+      "lng": -80.484358
+    },
+    "longitude": -80.484358,
+    "latitude": 43.4882097,
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Yarmouth Retention Pond",
+    "coordinates": {
+      "lat": 43.5086081,
+      "lng": -80.499212
+    },
+    "longitude": -80.499212,
+    "latitude": 43.5086081,
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Montgomery Park",
+    "coordinates": {
+      "lat": 43.4400819,
+      "lng": -80.4579341
+    },
+    "longitude": -80.4579341,
+    "latitude": 43.4400819,
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Veterans' Green",
+    "coordinates": {
+      "lat": 43.47560970000001,
+      "lng": -80.5281307
+    },
+    "longitude": -80.5281307,
+    "latitude": 43.47560970000001,
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Peter Russell Rock Garden",
+    "coordinates": {
+      "lat": 43.4714845,
+      "lng": -80.5434537
+    },
+    "longitude": -80.5434537,
+    "latitude": 43.4714845,
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Auburn Park",
+    "coordinates": {
+      "lat": 43.49380389999999,
+      "lng": -80.49330549999999
+    },
+    "longitude": -80.49330549999999,
+    "latitude": 43.49380389999999,
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Shadowood Parkette",
+    "coordinates": {
+      "lat": 43.4864886,
+      "lng": -80.4856176
+    },
+    "longitude": -80.4856176,
+    "latitude": 43.4864886,
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Driftwood Park",
+    "coordinates": {
+      "lat": 43.4135186,
+      "lng": -80.53794160000001
+    },
+    "longitude": -80.53794160000001,
+    "latitude": 43.4135186,
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Joe Thompson Park",
+    "coordinates": {
+      "lat": 43.48039579999999,
+      "lng": -80.48096980000001
+    },
+    "longitude": -80.48096980000001,
+    "latitude": 43.48039579999999,
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Dunvegan Park",
+    "coordinates": {
+      "lat": 43.49350099999999,
+      "lng": -80.50206800000001
+    },
+    "longitude": -80.50206800000001,
+    "latitude": 43.49350099999999,
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Bomberger Woodlot",
+    "coordinates": {
+      "lat": 43.4927166,
+      "lng": -80.4927843
+    },
+    "longitude": -80.4927843,
+    "latitude": 43.4927166,
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Wintermeyer Park",
+    "coordinates": {
+      "lat": 43.4999994,
+      "lng": -80.4960851
+    },
+    "longitude": -80.4960851,
+    "latitude": 43.4999994,
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Tufx-Fort Inc",
+    "coordinates": {
+      "lat": 43.5056187,
+      "lng": -80.54306079999999
+    },
+    "longitude": -80.54306079999999,
+    "latitude": 43.5056187,
+    "types": [
+      "park",
+      "general_contractor",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Peter Hallman Ball Park",
+    "coordinates": {
+      "lat": 43.424889,
+      "lng": -80.47036899999999
+    },
+    "longitude": -80.47036899999999,
+    "latitude": 43.424889,
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Park Inn",
+    "coordinates": {
+      "lat": 43.46678109999999,
+      "lng": -80.52974820000001
+    },
+    "longitude": -80.52974820000001,
+    "latitude": 43.46678109999999,
+    "types": [
+      "park",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Guelph Street Community Garden",
+    "coordinates": {
+      "lat": 43.4613746,
+      "lng": -80.5020175
+    },
+    "longitude": -80.5020175,
+    "latitude": 43.4613746,
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Hillside Park",
+    "coordinates": {
+      "lat": 43.4840696,
+      "lng": -80.5177976
+    },
+    "longitude": -80.5177976,
+    "latitude": 43.4840696,
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Evergrow Plant Care Inc.",
+    "coordinates": {
+      "lat": 43.45101169999999,
+      "lng": -80.49884709999999
+    },
+    "longitude": -80.49884709999999,
+    "latitude": 43.45101169999999,
+    "types": [
+      "park",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Carl Zehr Square",
+    "coordinates": {
+      "lat": 43.4514591,
+      "lng": -80.4926679
+    },
+    "longitude": -80.4926679,
+    "latitude": 43.4514591,
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "The Queen's Greens Community Garden",
+    "coordinates": {
+      "lat": 43.4446781,
+      "lng": -80.494203
+    },
+    "longitude": -80.494203,
+    "latitude": 43.4446781,
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "GROW Greenhouse and Herbal Gardens",
+    "coordinates": {
+      "lat": 43.45545589999999,
+      "lng": -80.48226180000002
+    },
+    "longitude": -80.48226180000002,
+    "latitude": 43.45545589999999,
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "May Place Community Garden",
+    "coordinates": {
+      "lat": 43.4492699,
+      "lng": -80.4826131
+    },
+    "longitude": -80.4826131,
+    "latitude": 43.4492699,
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "The Hydrocut",
+    "coordinates": {
+      "lat": 43.42820709999999,
+      "lng": -80.5646478
+    },
+    "longitude": -80.5646478,
+    "latitude": 43.42820709999999,
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Laurel Creek Nature Centre",
+    "coordinates": {
+      "lat": 43.4774393,
+      "lng": -80.5865085
+    },
+    "longitude": -80.5865085,
+    "latitude": 43.4774393,
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Michael Donnenwerth Park",
+    "coordinates": {
+      "lat": 43.4014726,
+      "lng": -80.5232218
+    },
+    "longitude": -80.5232218,
+    "latitude": 43.4014726,
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Huron Natural Area",
+    "coordinates": {
+      "lat": 43.3981265,
+      "lng": -80.48235989999999
+    },
+    "longitude": -80.48235989999999,
+    "latitude": 43.3981265,
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Riverside Park",
+    "coordinates": {
+      "lat": 43.4691726,
+      "lng": -80.4094164
+    },
+    "longitude": -80.4094164,
+    "latitude": 43.4691726,
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Crown Land Trail",
+    "coordinates": {
+      "lat": 43.403735,
+      "lng": -80.59422020000001
+    },
+    "longitude": -80.59422020000001,
+    "latitude": 43.403735,
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Landings Campground",
+    "coordinates": {
+      "lat": 43.3843407,
+      "lng": -80.5446504
+    },
+    "longitude": -80.5446504,
+    "latitude": 43.3843407,
+    "types": [
+      "campground",
+      "rv_park",
+      "park",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Grand River Corridor",
+    "coordinates": {
+      "lat": 43.4090831,
+      "lng": -80.4331737
+    },
+    "longitude": -80.4331737,
+    "latitude": 43.4090831,
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Bechtel Park",
+    "coordinates": {
+      "lat": 43.48570220000001,
+      "lng": -80.4925724
+    },
+    "longitude": -80.4925724,
+    "latitude": 43.48570220000001,
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Schneider Park",
+    "coordinates": {
+      "lat": 43.4228342,
+      "lng": -80.4144979
+    },
+    "longitude": -80.4144979,
+    "latitude": 43.4228342,
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Laurel Creek Conservation Area",
+    "coordinates": {
+      "lat": 43.4904715,
+      "lng": -80.5705126
+    },
+    "longitude": -80.5705126,
+    "latitude": 43.4904715,
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Breithaupt Park",
+    "coordinates": {
+      "lat": 43.47023129999999,
+      "lng": -80.4955174
+    },
+    "longitude": -80.4955174,
+    "latitude": 43.47023129999999,
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Egg Fountain",
+    "coordinates": {
+      "lat": 43.47177569999999,
+      "lng": -80.543335
+    },
+    "longitude": -80.543335,
+    "latitude": 43.47177569999999,
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Green Acre Park",
+    "coordinates": {
+      "lat": 43.485512,
+      "lng": -80.589759
+    },
+    "longitude": -80.589759,
+    "latitude": 43.485512,
+    "types": [
+      "campground",
+      "park",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Los valles",
+    "coordinates": {
+      "lat": 43.4642578,
+      "lng": -80.5204096
+    },
+    "longitude": -80.5204096,
+    "latitude": 43.4642578,
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Uptown Waterloo Ice Rink",
+    "coordinates": {
+      "lat": 43.4636511,
+      "lng": -80.523355
+    },
+    "longitude": -80.523355,
+    "latitude": 43.4636511,
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Heritage Green",
+    "coordinates": {
+      "lat": 43.4617,
+      "lng": -80.52109
+    },
+    "longitude": -80.52109,
+    "latitude": 43.4617,
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Waterloo Horticultural Society",
+    "coordinates": {
+      "lat": 43.4650212,
+      "lng": -80.5242952
+    },
+    "longitude": -80.5242952,
+    "latitude": 43.4650212,
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Brewmeister Green Park",
+    "coordinates": {
+      "lat": 43.4612772,
+      "lng": -80.5211485
+    },
+    "longitude": -80.5211485,
+    "latitude": 43.4612772,
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Good Earth Community Garden",
+    "coordinates": {
+      "lat": 43.4658706,
+      "lng": -80.5151688
+    },
+    "longitude": -80.5151688,
+    "latitude": 43.4658706,
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Mary Allen Park",
+    "coordinates": {
+      "lat": 43.4634962,
+      "lng": -80.514844
+    },
+    "longitude": -80.514844,
+    "latitude": 43.4634962,
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Alexandra Park",
+    "coordinates": {
+      "lat": 43.46053190000001,
+      "lng": -80.5242592
+    },
+    "longitude": -80.5242592,
+    "latitude": 43.46053190000001,
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "East Gazebo Waterloo Park",
+    "coordinates": {
+      "lat": 43.4667492,
+      "lng": -80.528041
+    },
+    "longitude": -80.528041,
+    "latitude": 43.4667492,
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Victorian Gardens",
+    "coordinates": {
+      "lat": 43.4673384,
+      "lng": -80.5280881
+    },
+    "longitude": -80.5280881,
+    "latitude": 43.4673384,
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Brighton Street Trailhead",
+    "coordinates": {
+      "lat": 43.4704186,
+      "lng": -80.5176434
+    },
+    "longitude": -80.5176434,
+    "latitude": 43.4704186,
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Brighton Park",
+    "coordinates": {
+      "lat": 43.4706444,
+      "lng": -80.518317
+    },
+    "longitude": -80.518317,
+    "latitude": 43.4706444,
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Glen Acres Park",
+    "coordinates": {
+      "lat": 43.4678261,
+      "lng": -80.5114866
+    },
+    "longitude": -80.5114866,
+    "latitude": 43.4678261,
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Butterfly Garden",
+    "coordinates": {
+      "lat": 43.4673872,
+      "lng": -80.52970499999999
+    },
+    "longitude": -80.52970499999999,
+    "latitude": 43.4673872,
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Waterloo Park",
+    "coordinates": {
+      "lat": 43.470147,
+      "lng": -80.5281976
+    },
+    "longitude": -80.5281976,
+    "latitude": 43.470147,
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Laurel Trail Weber Entrance",
+    "coordinates": {
+      "lat": 43.4718458,
+      "lng": -80.5146819
+    },
+    "longitude": -80.5146819,
+    "latitude": 43.4718458,
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Waterloo Park Baseball Diamond 4",
+    "coordinates": {
+      "lat": 43.4692127,
+      "lng": -80.5319341
+    },
+    "longitude": -80.5319341,
+    "latitude": 43.4692127,
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Argyle Park",
+    "coordinates": {
+      "lat": 43.4542189,
+      "lng": -80.5195682
+    },
+    "longitude": -80.5195682,
+    "latitude": 43.4542189,
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  }
+]

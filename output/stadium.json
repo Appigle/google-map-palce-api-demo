@@ -1,0 +1,315 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44724,
+        "lng": -80.4669309
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44929744999999,
+          "lng": -80.46476994999999
+        },
+        "southwest": {
+          "lat": 43.44557005000001,
+          "lng": -80.46945855000001
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Kitchener Memorial Auditorium",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3168,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110555499888796780149\">Kitchener Memorial Auditorium</a>"
+        ],
+        "photo_reference": "AeeoHcKmimLzRpuyHOlNJ3lKeSNtk1RMRiKpCsqW478qibCtJlCosaiZFd7x8Assd_Ep5qZe5Mww0nTZS8HRY42PnomzX47na84wo3r3tRCMzu7MlGGsc1wEcuMtLnX7VwpcdVajqZ1lsHdMsMlH9eYx1VJ52d0whKN8_ObyLDa3HrDrqDMTz7GcQ3tbrl3Yr0amcyTHxUeUB7aR8Cpa1Jx7Bgxt_5BfaUSM0vkUJ6aTW69rLz08Q--fuHMFTNC3DshTK_xtney4tPlEqfFwmjA_DJY3OD14ANRiCZ9O_3_T3FE5FEYeRck8CI6LA1G3y5YdC2ASMCTyB3I",
+        "width": 4752
+      }
+    ],
+    "place_id": "ChIJt4btPMb0K4gR2OQPfbNnuDY",
+    "plus_code": {
+      "compound_code": "CGWM+V6 Kitchener, ON, Canada",
+      "global_code": "86MXCGWM+V6"
+    },
+    "rating": 4.4,
+    "reference": "ChIJt4btPMb0K4gR2OQPfbNnuDY",
+    "scope": "GOOGLE",
+    "types": [
+      "stadium",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3917,
+    "vicinity": "400 East Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4739274,
+        "lng": -80.5114325
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47479405000001,
+          "lng": -80.5101742697085
+        },
+        "southwest": {
+          "lat": 43.47132744999999,
+          "lng": -80.5128722302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Moses Springer Community Centre",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100993546268435292320\">Moses Springer Community Centre</a>"
+        ],
+        "photo_reference": "AeeoHcIs66sRXILFHElIaYkqQAjprrQ5yQroPBUcin1z0CtSwj53MD254fTBEAxvvRJo43c9AI3-u2OzzOpByO0KFXvkXWyWUtngxJ21Hyoo_RGEkXlilcWr8vZYjt6vzwzubTPd_qhnvUhd-ZPd-_PZVKO2JPzSz00zPJ21KEOizQ_kg_ImWos_QNP337O8MfDgP53VTlW-RKqsUUOEM1WhcgOORFEe6i-RR8NnjrBhvL8_ECA-8P-sAlFLI7MEeAHRy9iGm4HNVKg9wbTYJ0bBl7JdD4RbST-v6mHPNJ4ACiOrsvnZJpsSoRbIlt6S6bSbYKZNq4at-Bg",
+        "width": 900
+      }
+    ],
+    "place_id": "ChIJObXF73f0K4gRaQisv51gIrU",
+    "plus_code": {
+      "compound_code": "FFFQ+HC Waterloo, ON, Canada",
+      "global_code": "86MXFFFQ+HC"
+    },
+    "rating": 4.2,
+    "reference": "ChIJObXF73f0K4gRaQisv51gIrU",
+    "scope": "GOOGLE",
+    "types": [
+      "stadium",
+      "gym",
+      "park",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 333,
+    "vicinity": "150 Lincoln Road, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4707228,
+        "lng": -80.5304409
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4724286302915,
+          "lng": -80.52928511970849
+        },
+        "southwest": {
+          "lat": 43.4697306697085,
+          "lng": -80.53198308029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/stadium-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/stadium_pinlet",
+    "name": "University Stadium",
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114504165741696251274\">Paulo Barbosa</a>"
+        ],
+        "photo_reference": "AeeoHcIdtMFumv90eiBVwzLkcQwkG0w2_CH0DMUt_F1Adv1XPz1JPBibLWzR6ZNodqHL1bYF78B877wDxCSW9JNTqskRAg1YFfr2r3T4119eyr68tCq1f--aWVKldXV8zpOQXTnMx5fbqsr9Xf4plj5dsxgsWQPFaDOzT_dEj-GedBiratwxLr0_wiU7c4wA24Hwtw8fHTOFrW0jbCPSfu1az_06yLICPfYDI1esr-eL6JEJZiZ1b4LUaDqPxQ-r1f9EJEUlCVRqqOF6_Hda452f2E6Iue2yhLMkBx1u6CVNRCgq3elPoF2oDQehoQBgsqsorvLyIEBiN-m5ViQkoKG21aeJ8tGwni3Cgh7KaZxLCz8oYUAz5L87frfHJ5-jPhHYQIv8DiDPWLmEYMew7P7rjM0WzPiKhxGAKpxUDe5vSCwCHVf82ppbi5qtcqIF_x22azZASkI4-_LsIFTpmvGp9YLEHKJtNYFVfdd1E8wi5cPjIaL51VZ06aru-Wizi3ATDk5n1jLHwyB6XAL9XfM0hHRlFwNYHtm7bkIiUEaHdGgC0wxJE99sY1EuvHRrvCIld58oAScZQdEcsj-Yss2CbQC_uKBvx4N6h_z52DmNk9XRP0EsAHJ_Qyjy1Y8O5Dls",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJAa5j1gj0K4gRnOxi2h706m8",
+    "plus_code": {
+      "compound_code": "FFC9+7R Waterloo, ON, Canada",
+      "global_code": "86MXFFC9+7R"
+    },
+    "rating": 4.2,
+    "reference": "ChIJAa5j1gj0K4gRnOxi2h706m8",
+    "scope": "GOOGLE",
+    "types": [
+      "stadium",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 149,
+    "vicinity": "81 Seagram Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4741599,
+        "lng": -80.5497645
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4752731302915,
+          "lng": -80.54825181970848
+        },
+        "southwest": {
+          "lat": 43.4725751697085,
+          "lng": -80.5509497802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/stadium-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/stadium_pinlet",
+    "name": "Warrior Field",
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110619505372025639118\">John McKinney</a>"
+        ],
+        "photo_reference": "AeeoHcJk0hmjtXrit4Gg7gUpiIQ0jFZI08ivSrGXoPT1GPsmxRy6Q-Nv57kc9sfXozljVw5mKtEC7IyHPAaJlNpx2V_RDwzMf_sP-TH8uoDrKog4mnVdixsYG_A0bWQl8LbVziCDiUrsjenmSuldcV9Jw5Mo39JJ9DTSw1-gVi4GDolmg0Rxp8R2-_SSmicCbCjVUIwKMBqKFHB1rTvYZnK3CRAhTN5reDzJxBHhwwqwVnw34he7l0YDisZe3vTE76-NresMEFhEHZdnzp0GteGShBdT0BXB8IC9UiyTYDvcvZACC6Y3Bc9XmJrBCRgUgqqAt-9vtvDt26C_RTB4KCiJAnaAOq9njBk9H6tB4qufURbk95zV4GurC5HQiuAs8YB3d-yW8abO40Ms_A9h50D0t5uoVdYgghicCBKmLALvrq2iYbWVPNDOnTopqYgAdzw4sMqNLPX5_COtqrsZiF0u7xkQgwqEfySdD4gXD8symeo0idht9MrpBsxRGVZKvHgMzecgw6qGAwqueAXuPEyNaJv816x5f4RNkMrxDYTw3izF4xFLQn68ipIQJAKcx9j45Zc6kKXQst8NpSHCvnWiNQyMR5vHtrl_6adUGjwUmsEEIfrziFlwKNu7bGg3qESUAbLtEQ",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJuaB_g6z2K4gROOsLnu_zL6Y",
+    "plus_code": {
+      "compound_code": "FFF2+M3 Waterloo, ON, Canada",
+      "global_code": "86MXFFF2+M3"
+    },
+    "rating": 4.5,
+    "reference": "ChIJuaB_g6z2K4gROOsLnu_zL6Y",
+    "scope": "GOOGLE",
+    "types": [
+      "stadium",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 107,
+    "vicinity": "220 Columbia Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45195219999999,
+        "lng": -80.4923304
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4534350802915,
+          "lng": -80.4908824697085
+        },
+        "southwest": {
+          "lat": 43.45073711970851,
+          "lng": -80.4935804302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/stadium-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/stadium_pinlet",
+    "name": "Civic Square Rink",
+    "place_id": "ChIJL1v3avP0K4gRPfBA5BUcMRs",
+    "plus_code": {
+      "compound_code": "FG25+Q3 Kitchener, ON, Canada",
+      "global_code": "86MXFG25+Q3"
+    },
+    "rating": 5,
+    "reference": "ChIJL1v3avP0K4gRPfBA5BUcMRs",
+    "scope": "GOOGLE",
+    "types": [
+      "stadium",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "200 King Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4578901,
+        "lng": -80.4744972
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4591255802915,
+          "lng": -80.4730360197085
+        },
+        "southwest": {
+          "lat": 43.4564276197085,
+          "lng": -80.47573398029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/stadium-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/stadium_pinlet",
+    "name": "Weber Park Rink",
+    "place_id": "ChIJq6oaq730K4gRYWvKMzRvqf8",
+    "plus_code": {
+      "compound_code": "FG5G+56 Kitchener, ON, Canada",
+      "global_code": "86MXFG5G+56"
+    },
+    "reference": "ChIJq6oaq730K4gRYWvKMzRvqf8",
+    "scope": "GOOGLE",
+    "types": [
+      "stadium",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Frederick Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4467763,
+        "lng": -80.4642877
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4479940802915,
+          "lng": -80.4633086197085
+        },
+        "southwest": {
+          "lat": 43.4452961197085,
+          "lng": -80.4660065802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/stadium-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/stadium_pinlet",
+    "name": "Jack Couch Ball Park",
+    "place_id": "ChIJVVVV6cj0K4gRKUIWh0M86Ks",
+    "plus_code": {
+      "compound_code": "CGWP+P7 Kitchener, ON, Canada",
+      "global_code": "86MXCGWP+P7"
+    },
+    "rating": 4.4,
+    "reference": "ChIJVVVV6cj0K4gRKUIWh0M86Ks",
+    "scope": "GOOGLE",
+    "types": [
+      "stadium",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 8,
+    "vicinity": "Eugene George Way, Kitchener"
+  }
+]

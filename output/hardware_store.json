@@ -1,0 +1,1152 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4141612,
+        "lng": -80.5163919
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4155565302915,
+          "lng": -80.5149523197085
+        },
+        "southwest": {
+          "lat": 43.4128585697085,
+          "lng": -80.5176502802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "The Home Depot",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112803035955873075932\">Athul Asok</a>"
+        ],
+        "photo_reference": "AeeoHcI1LkJGl22pVkIbKZVjaH4lTgf4FKFlgH2Ub0SAQzL-IjCHYVeI83vjLy8uheTa5v1kpR7Imts6x5HQKK9RgcfS9FDn_DYOP7-bRiM1xGe607qhKWZZCxRKQVA7W1_GJNiRToSsOQP3JNb-cqRCAoUGUVCM2QwkDtASuu8yYR13nxkrb06-Kv5O9a0x9VFAzPZLplZh40y1BHPqVUcVRNwPdvyoY5uZDQXn02Pz62V9_gmWqkR6Ax_n15Km7MojM3mvKNixPEyiEstsOuSUN2Aais937xZMGW9R2hmMmebj7Uooz2iK2Xd7o6r34-wEssMZUlGNSZH7fJvUjUJ7lhk4UG04DdfkcueM4PrfGyHDpA07ghZOJZmQYcGaVfomn8QugR-IaO3DlwRh0r5lm05mm0USowhIIvvEHXyfwbrkBazxY3BOSOPIDI2aERhWnRwL6dUoe-s5b3BLNAjBhQfqr65UpivOJoDI4axt-BYhsNZTkpNXz0wel3Fwqg0YPTlY6ubbB5SXDBMUzsvgS8zuJdHbrxrun2fwa4qOwOlW8cLWqSYAkTVf72yUzRC58jJFcLX_HTtYvS_6GWqtLStPGdfCy19Bll0UFpj73aC4Kcwpld7nfwmI-uy7Koo6UXhp726m",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJSaACNL31K4gRSvyYxGKA0QQ",
+    "plus_code": {
+      "compound_code": "CF7M+MC Kitchener, ON, Canada",
+      "global_code": "86MXCF7M+MC"
+    },
+    "price_level": 1,
+    "rating": 4.1,
+    "reference": "ChIJSaACNL31K4gRSvyYxGKA0QQ",
+    "scope": "GOOGLE",
+    "types": [
+      "hardware_store",
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2052,
+    "vicinity": "1450 Ottawa Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5029945,
+        "lng": -80.5335083
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5043587802915,
+          "lng": -80.5323398197085
+        },
+        "southwest": {
+          "lat": 43.5016608197085,
+          "lng": -80.5350377802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "The Home Depot",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2988,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117828214916149999922\">Ali</a>"
+        ],
+        "photo_reference": "AeeoHcLozBz9MDVUp1GzoaR1Eo970g6pHhMbUdVcCru4fmDiD_gRODfflJTOhXCqss8V8WRJMwRAAuXA7RRgCsp4OUd5CsoMzzNychZVyykywFbBCXBLO6hc7t2fu39cbEaT-px4bBI203pJ72FPKdbJVY_2g4RP_jvUBTXjapC83mjQo2NyADs0NhTfGZDkj7L6FRy4YmuqJvOUuClEMVwV3p6sjZr9JH4Nt1IYLE3AZLklbW1zl0NLPJNi-EdP6wr5v8lRWzKe4hpQL9xyov5giJYWULiFIGTnIieVU0CR88pOEAjRyQIJm3qH2a_pO4U3ExjejItVJ5sk6fwKPuIgJhOISKgwE6u36s8apEaFlIfrs_OzygPI8ff2HPZK2L-VrGs5HlYc0Ck7zSyrKLEA_mNH0sl6tt5PNVK1ZZV0gcJhCLzFOu-ZcT_OjxRa0A8kVyrychSz61HuEZRwfEAZs-BOdFl9apDFGkIAEiu6gfrZ34RVtOgKEoCjRSfMqRbCXVLsK-E_FSAHBQRNMhu2FFT0zuUnGcNaVLF-YLZQBD_cO3fJA8XlP71YE1QLHjBDFENXWLHjpGeTr6p9NpvtrDI-YgQMuxeMPYfczzmKXQWe79xlmsKytjIjg9ecZxKnv5qeWg",
+        "width": 5312
+      }
+    ],
+    "place_id": "ChIJrzar1trzK4gR3zMgkt83wKQ",
+    "plus_code": {
+      "compound_code": "GF38+5H Waterloo, ON, Canada",
+      "global_code": "86MXGF38+5H"
+    },
+    "price_level": 1,
+    "rating": 4.2,
+    "reference": "ChIJrzar1trzK4gR3zMgkt83wKQ",
+    "scope": "GOOGLE",
+    "types": [
+      "hardware_store",
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2263,
+    "vicinity": "600 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4623952,
+        "lng": -80.4675113
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46400843029149,
+          "lng": -80.46589381970848
+        },
+        "southwest": {
+          "lat": 43.46131046970849,
+          "lng": -80.46859178029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Spaenaur",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104746994993859585479\">Spaenaur</a>"
+        ],
+        "photo_reference": "AeeoHcIy7ruxXwTwRBIxEwtfTj3z6yjHMMD88oJUKk2GGktCy0cg00zmCdwGIwsp4JaeKvnqr46Q6JtuFqNwyzUfCcuSg4Nvq65rXD3wadw1zQPdCYdSeAqB5xK2XVo4zkcYcMk6HTjwKh2oSLU7HmVrK7kbqGWvD-SYKEspptR9B_lh71Qq0DEJHwDa0N9Z8-LrFYl4XB02IP5RhM8NXhzQfwgV03YIsmX_G7lEedWn9sVr9zUk0QO-BHNMS_O4P75eYNFXpU4aOyf08lZ9VZhfDY-MjUPuURsR4SU-piuKljZ0yMj9AMW53O1XO25kHqutgMRBfTPY4W0",
+        "width": 1200
+      }
+    ],
+    "place_id": "ChIJO4drsKX0K4gRjcdZrvlU13s",
+    "plus_code": {
+      "compound_code": "FG6J+XX Kitchener, ON, Canada",
+      "global_code": "86MXFG6J+XX"
+    },
+    "rating": 4.7,
+    "reference": "ChIJO4drsKX0K4gRjcdZrvlU13s",
+    "scope": "GOOGLE",
+    "types": [
+      "hardware_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 57,
+    "vicinity": "815 Victoria Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4795385,
+        "lng": -80.5197948
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4808039802915,
+          "lng": -80.5186808197085
+        },
+        "southwest": {
+          "lat": 43.4781060197085,
+          "lng": -80.52137878029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Glenbriar Home Hardware",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 918,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108407070166289303569\">Glenbriar Home Hardware</a>"
+        ],
+        "photo_reference": "AeeoHcL03PKDhwESLFa_oYslCVC__SU0MLbz4Q73aBCMzIeaf69W39OmY5MrseNBkEaxvfeSSuo-K44FbxxjxwA7p_M7Z7rzKKvSjEyKGWqWFv4oOk_PlnW-v_2Ozg2sNoUgcR7wGvJXlbLgTbEuQCBYMYDVCwbF5rtuyUMmo0IWPMQ4lMAZf6LkO9UxT9BdN9FU72538G-RVEWsEAJPvDCKoOOvqdoMv5DVRudCYwq0XbHUX3ZA3-750doiKO9msNJNkGQbxskM_zg-YlEAWvSfSwasaD-G12AFDjruxsSBFzKU3qVz2IzmmAjoCZBADxC3OyXGeFjPX-g",
+        "width": 1614
+      }
+    ],
+    "place_id": "ChIJY1VjpYzzK4gRA8HjqmOBMCI",
+    "plus_code": {
+      "compound_code": "FFHJ+R3 Waterloo, ON, Canada",
+      "global_code": "86MXFFHJ+R3"
+    },
+    "rating": 4.5,
+    "reference": "ChIJY1VjpYzzK4gRA8HjqmOBMCI",
+    "scope": "GOOGLE",
+    "types": [
+      "hardware_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 459,
+    "vicinity": "262 Weber Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46198440000001,
+        "lng": -80.4733962
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4632591802915,
+          "lng": -80.47182831970851
+        },
+        "southwest": {
+          "lat": 43.4605612197085,
+          "lng": -80.47452628029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "K-W Surplus",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3036,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108724181586263211701\">Randall Culp</a>"
+        ],
+        "photo_reference": "AeeoHcLVnadSjeR61eMWcpmjPPwXVfoBGrBcKl14U2AH3Jqg6i7f4dENWNBHyFNXG_md3tR6FubENsBlb8uQGrR1-YywUBtvsADu03zWqP4RYlLM_KOiktQp0Gly9mNO9mJlvfNHVRSYSmPekNp1hLCif2nHdHJWKehen0Qa55p-G3CDYcI0O9iXX0O5iLtIu7OZ0fBfWkZU9wHrP7qMvzwXAdvTfKXE8dzS8kU59in11dJ1BmJS27CA_Ut_NSEYNlBqsEMvwh3ME-RjXAQzf2W84dR6_VJIs1FdlQx1v4bFWZU0wu_LeFoL60nsA3aGV_AsH1nvttRRmgkjfKQhsUntyqcE7voAu3-AII_Gcsfgns13B1XmCSlWQ3Pj4ns7rh6DoM9170wMQTmH4KVyOXD1qa6oqk_CN_lqo5w9y4KMpVRCPW3lhL0RRIp_YrhXynsRSLNUbjBoy-g_craACdKJU8dLnroit1RdrshD6ULfYu2Dszt_iyJ79c8pbdLriK3dlQ3GKBJ0eErntMxq15nSM8O2xLvdkR6tvd8C5yNTJaWdS-qJaHpIqcP1xxgBMeAqlf0RTcNsWt4VM2b0LKQbnfBAU_58DUNLrQXdlvJlBB-vNRigyh7t67-XcecHJAqtMT_2bJaE",
+        "width": 4048
+      }
+    ],
+    "place_id": "ChIJG57aQaP0K4gRhm6ypVOz74w",
+    "plus_code": {
+      "compound_code": "FG6G+QJ Kitchener, ON, Canada",
+      "global_code": "86MXFG6G+QJ"
+    },
+    "rating": 4.6,
+    "reference": "ChIJG57aQaP0K4gRhm6ypVOz74w",
+    "scope": "GOOGLE",
+    "types": [
+      "hardware_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 637,
+    "vicinity": "666 Victoria Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5044517,
+        "lng": -80.5286883
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.50592878029149,
+          "lng": -80.5271182697085
+        },
+        "southwest": {
+          "lat": 43.5032308197085,
+          "lng": -80.52981623029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Lee Valley",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3464,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113512457090145462310\">Ruben Agadzanian</a>"
+        ],
+        "photo_reference": "AeeoHcIie_40uoBJeohuGiNbQiLzSnVoWuS1LDYjlLNuEJZdcHOdqMdXR3PnVPoXfteMArUe0NVazmKxnvlUvVdTV_ZIuGU3pKvBiMcPenJsIj6ASYayn_kn_zUlxudaj6nkRL5XQaUjDkZc5K4dKV7s7JaFxsG5QR0YklnGvpoeHuvlmE-Vz7ukq0urAZGJmRbAUDpBjx1OHNZqiQi6PJ56x2GfiDcUoplFzY9eRbpkhlW3wNZfdVSftEWXg4Ige3NTVAuN-9zA6rKAqnP_I0MXZuZR5pYMeZJKTBuLpmwYlTVopKbOGYLr_PQ3lDZPZOCEZhySvNyxPml1wFm9sqd0EVvDF9ErI36SHgHKuijpoqhQ_UraT1lp62s7UyjUxP_HlLQZEODS-toIZeY_UBqWgwpG113rKm5rin6Qv1oz38Stiiy3XV1vbFl6RiLbzjnbVT19ccJACldJKDP7pwd6d8vjVKH_PHWThm1rg7sK2qpSBGtTE571j4fYUeXYvoX1Iv--mUI6mHRTjRCBiWTVg7_Jo2XGQVZcD5k1r2dckGXBDFO7f0N711iNJnBBcLPhSnIJY-FrxvCTvl1PBnrcoBkttpfLREinGL4fiudBB5oM6QTdEVvbSOzJE3wkgWrWznGf5Y0W",
+        "width": 4618
+      }
+    ],
+    "place_id": "ChIJ1yYIXs_zK4gR0SltY68CwP0",
+    "plus_code": {
+      "compound_code": "GF3C+QG Waterloo, ON, Canada",
+      "global_code": "86MXGF3C+QG"
+    },
+    "rating": 4.6,
+    "reference": "ChIJ1yYIXs_zK4gR0SltY68CwP0",
+    "scope": "GOOGLE",
+    "types": [
+      "hardware_store",
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 313,
+    "vicinity": "620 Davenport Road, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5398651,
+        "lng": -80.5531055
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5411558302915,
+          "lng": -80.5519519697085
+        },
+        "southwest": {
+          "lat": 43.5384578697085,
+          "lng": -80.5546499302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Home Hardware - St. Jacobs",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114224073212879076999\">Nick Stanley</a>"
+        ],
+        "photo_reference": "AeeoHcKwr7HGOP7hGlmMRwqse2wG17wBaLqrmYd-7aoQ0XWOsR2taXKu49xWg3lwd8D9Ov8yiFR5rAgXLuCmvqTgfMvsUdrSpogK5QiFIYbSMdBO3UPbJJDvBR_50nA2b16i6VfGlAJcXYtnOTXAAAbOZ4cnH5NWHEZnCHNNr7d3cinggObliFjNU0QomSjTAEUSmJ8LOI1r_Wir5guo6u2mx7wPnCQokLOZFP7w3mXOozWKQOUpKRwOiD2o0uk-J5ZdIfpD9J6PKb6TiiqTBXyuQ0Uwx1JjazGFnlLgaC-1mg8EIAxFDtGGDn3KcAZnCNv07_51M-4bTiO70JffO84rsfBRqxe8R-K52KDS_uBqTSQ2-QGlKHh3XGuWurvSE1ieQ4G20LPAfBXKivGE2rl0dmvz1mzbXN9Avi2apE4cmWwrGOu5otbublb0X_IUUTV3x0r0zNIGIUNYnrMSDjzvpq2mTUQpJL-4o0mKFZ0exVq5mm3jX_5ARMBqBAfBA7_54VdAVbHzpnUh-kjZryBQ8inT1SVNEVqOi_AcrgfPDAURuZ38sNpVpGYYpElnnnkO5nRIqGuiD9L_3OQoOQmKKskK8j9USmcDezNH-v0QSvDuxLp7lqeT_WUYKMpetd9eeL32bTwh",
+        "width": 3000
+      }
+    ],
+    "place_id": "ChIJ9zMewPHxK4gRNPaAeCrwBiY",
+    "plus_code": {
+      "compound_code": "GCQW+WQ St. Jacobs, ON, Canada",
+      "global_code": "86MXGCQW+WQ"
+    },
+    "rating": 4.6,
+    "reference": "ChIJ9zMewPHxK4gRNPaAeCrwBiY",
+    "scope": "GOOGLE",
+    "types": [
+      "hardware_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 383,
+    "vicinity": "1420 King Street North, St. Jacobs"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.50347300000001,
+        "lng": -80.548081
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.50447168029149,
+          "lng": -80.5464551697085
+        },
+        "southwest": {
+          "lat": 43.5017737197085,
+          "lng": -80.54915313029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Commonwealth Plywood Distribution Waterloo",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 684,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104050351738521868327\">Commonwealth Plywood Distribution Waterloo</a>"
+        ],
+        "photo_reference": "AeeoHcLEcQPIObaDgS40w5qiveKQkSpQB534cGLMl5FTX9apEF3cEGQ9532brkDp5p6UrQcAQEwWH9YT0jKmI7yf5aJb8_Lbw_lcYm13D8aw3AFHhIazF5ceMdqNvSkVOBjbJKMH6r_0wGGMw9L5vQrTHcRqJhyPMjuVzq12SNi77nV20IW2RxRb7A1ApXSZzTzIkJQ2SJB-tUWC8SABKVJcqgLZ6hUrEnElJxtwqeNfqcq9t3xcwTdNx0WStN4VccD6tVMka2LwbozKocqPaz_RnTLaQMndwWdrJ4Izr1g3cCJqeqd3zSEQmOEbJrzDZCJEDFRdUaFo",
+        "width": 1600
+      }
+    ],
+    "place_id": "ChIJO3zWEGPxK4gRHwFjxxTlYK8",
+    "plus_code": {
+      "compound_code": "GF32+9Q Waterloo, ON, Canada",
+      "global_code": "86MXGF32+9Q"
+    },
+    "rating": 3.5,
+    "reference": "ChIJO3zWEGPxK4gRHwFjxxTlYK8",
+    "scope": "GOOGLE",
+    "types": [
+      "hardware_store",
+      "general_contractor",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 17,
+    "vicinity": "100 Randall Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5101238,
+        "lng": -80.55767510000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5114791302915,
+          "lng": -80.5562514197085
+        },
+        "southwest": {
+          "lat": 43.5087811697085,
+          "lng": -80.55894938029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Peavey Mart",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1599,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112287480721104398145\">Azhan Haq</a>"
+        ],
+        "photo_reference": "AeeoHcIra_9iuxkIFnxXcqGJZmun6o1K_7aEPoQpSj8sDVKLX6d1bznDjIYrkfMpnSYZNvbsFVB9JfRkqMnWD73idDW7u0sTdBrjAjvjxP5ZwdM8hztL2mrzs2aRUZ4IfSFJJ0ILmtgQJjgPd8ttp247Szq_Ar30thRQVB1lDACH5ThAEvp-Cn1FVoyz31xp0Ki43zsWtTTlxnH7XUk6f50THxdpcTsf_Ti5M4-J9o8JAlBlFlnDqzPH_KRQ4Hqh_zBNyeBFhGB3wKtErNwnwqYzljNWYGMe-92x3NfaSHfjgMyo7f7u1kJ6ZbQfggIXAJjMYprB5Pd__WQEALnfztGTSd-7S75CUgily2E8OVKX-a8lM6GiJeLwn3TG9iNJyYJ7rYstuCBXPsvgyXmorzdJIW2NkV77q36pq0iy9txVnz1rz1Gi6kS_PHE8mzKN2LrzQRHxi1jQDNFUfKRsStXi3WFGMeNYz_wpgKMz04P-_YJophdUWwbCes_Y-x_6odsT2L2f2FJ29Z4UJXnFBtDvkbxTJs_ZbY67f0R7vo7Fzsdw8kp18Xck6ESDZZaN1dKheQTsXZ7Hb0VX6kCxuh4Hup-Ew2sJoOOb9hIRLjqFKGSv3UWh6u8lST2GpT9A_85O",
+        "width": 777
+      }
+    ],
+    "place_id": "ChIJY4SsK3HxK4gRxYdvXL0rbbQ",
+    "plus_code": {
+      "compound_code": "GC6R+2W St. Jacobs, ON, Canada",
+      "global_code": "86MXGC6R+2W"
+    },
+    "rating": 4.2,
+    "reference": "ChIJY4SsK3HxK4gRxYdvXL0rbbQ",
+    "scope": "GOOGLE",
+    "types": [
+      "hardware_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 503,
+    "vicinity": "849 Weber Street North, St. Jacobs"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.41421709999999,
+        "lng": -80.442202
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4158500802915,
+          "lng": -80.4406706197085
+        },
+        "southwest": {
+          "lat": 43.4131521197085,
+          "lng": -80.4433685802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Cosmaroma Home Renovation Supplies - Kitchener",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1458,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107858818089230908547\">Cosmaroma Home Renovation Supplies - Kitchener</a>"
+        ],
+        "photo_reference": "AeeoHcJOmZIrtmFxDfeF9MhT4cQOR2UVl_MGpWJ-590G1NsUS9mWhNjmqOhw6TZn60VKYbNbDsabA_4gSa-TQoiywtxA4ZRNaFaKYDqaEQSiXhvcMhI9R4946aDO4x4ZmAfIoIkedShL9I6j-WAmrWUq8BTE4zcPOSATW4J02AdqMPt27DegRWSrQlPx6gAased1hae-JdpfEr_Mim4b8EImZWAsEcidSN9O5943qlF8GExcc3l5U5k_ULM8hYUF-l0YaMy-XrKzKG_0ru9vn2Vfp0PXoVDcPa99mesDyTg-kJzNuhXeAKplR4K58DeGYhZHVZ8wO1Q0",
+        "width": 1458
+      }
+    ],
+    "place_id": "ChIJKwNjcsaKK4gRqVpmwuzudqA",
+    "plus_code": {
+      "compound_code": "CH75+M4 Kitchener, ON, Canada",
+      "global_code": "86MXCH75+M4"
+    },
+    "rating": 4.8,
+    "reference": "ChIJKwNjcsaKK4gRqVpmwuzudqA",
+    "scope": "GOOGLE",
+    "types": [
+      "hardware_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 266,
+    "vicinity": "780 Wilson Avenue Unit #A2, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.41347510000001,
+        "lng": -80.4416977
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4153652302915,
+          "lng": -80.44068526970851
+        },
+        "southwest": {
+          "lat": 43.4126672697085,
+          "lng": -80.44338323029153
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Onward Hardware",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 360,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102785076680597431328\">Onward Hardware</a>"
+        ],
+        "photo_reference": "AeeoHcJeJGqYYBg7Yx1ULAZZW9upKzrHDB7V0nWLKYF7ypokat_qXGUxSDh22ORixWW7MtXQUEW4OB8FfUM3-hWbfi0rpcfzoCkgQTcZ3ju2qnxQ80fbMlB0cMViF0f2kg7nEC3YbtAGLBuR3ILM7GC3S2-q79hcuhCvO1TaX8Q4rBnDo459EorNubucmLH26rA6D3i1wUEIpYTUMX-zQxqjH97wjWH0ti-XQNLIBDEFg1-deSemVhbmn0sv3N_x4PJ97Z8froNOXDJT6PIViNk0TSe9BckT6OelxuyZmt6z79xnkgaHwNTI4iaXmeS5avITOTuYp63bdvs",
+        "width": 700
+      }
+    ],
+    "place_id": "ChIJ4d9MXcaKK4gRWvDMUu6mMfk",
+    "plus_code": {
+      "compound_code": "CH75+98 Kitchener, ON, Canada",
+      "global_code": "86MXCH75+98"
+    },
+    "rating": 3.7,
+    "reference": "ChIJ4d9MXcaKK4gRWvDMUu6mMfk",
+    "scope": "GOOGLE",
+    "types": [
+      "hardware_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 15,
+    "vicinity": "Unit 2, 800 Wilson Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5309063,
+        "lng": -80.55546819999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5321308302915,
+          "lng": -80.55387111970849
+        },
+        "southwest": {
+          "lat": 43.5294328697085,
+          "lng": -80.5565690802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Fairway Lumber Home Building Centre",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109897218748710067406\">Fairway Lumber Home Building Centre</a>"
+        ],
+        "photo_reference": "AeeoHcIEB5p54tpCmM3rPwd3kR5lhHGD1v2rSVJffx4W7CEIkPzp0k0s7YRBWMGmGVoDjYBLcuD9mj56gk-yj-3YAVx8RD1AnDVShxok2lHAVQxrD1i116aYZFhxOPQblOCYfFUd5MxDEjBDWpdg1IITHOFvJJRWQRBX0iEKeV3dzcJ82TEGxPhU_GOwvPm_74oJuriMj_gR2gwFRm0BWbd7oYs2urXXbkG1lWOGidKPCUrmCFI0Ql9vKOOBehl2QSJHSfQ1DwKeRxoAwbr6gD0GzZpwmb-F9UzBhiQsZK1z_TJVsyGeZVCVtpdh63zNZy8eaWQY1CgOork",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJydfCCpLxK4gRRWZqyi__9qc",
+    "plus_code": {
+      "compound_code": "GCJV+9R St. Jacobs, ON, Canada",
+      "global_code": "86MXGCJV+9R"
+    },
+    "rating": 4.3,
+    "reference": "ChIJydfCCpLxK4gRRWZqyi__9qc",
+    "scope": "GOOGLE",
+    "types": [
+      "hardware_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 132,
+    "vicinity": "1205 King Street North, St. Jacobs"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5399055,
+        "lng": -80.5538277
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5411990802915,
+          "lng": -80.5523106697085
+        },
+        "southwest": {
+          "lat": 43.5385011197085,
+          "lng": -80.55500863029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Home Furniture",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 312,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109482868050160117327\">Home Furniture</a>"
+        ],
+        "photo_reference": "AeeoHcJ_Waw9JMxVwsiMAzEvB34tSToLJpq0xPLvaL3O6EZ49VWSC9D8AOK35jFyF7eQjKstozdXYeise5Oi2VlncbYLpd-Wyq5OraibSk1FznHMpnIVBB9AdspOKJeeDUlsHlskp5ohCiGrKzMrOL7NihjM5y0IyFwuklox2XyquKKoz5SbXM9s_i2Kaq8jji0jxllr0RYIfy58-Awhl1sibb6j1vJkrt8Md1D-aoyaGAWjSQHNQTT80FRuBhs8Ry9DvLhbxztd8fyLAqD0nfj6_XkeNnHK_ySbcKsUy4Lx9IFbBbHIqkGkCrE7ahCFYcNKxBMznYbc",
+        "width": 820
+      }
+    ],
+    "place_id": "ChIJ9zMewPHxK4gRrnZLEcVJVEI",
+    "plus_code": {
+      "compound_code": "GCQW+XF St. Jacobs, ON, Canada",
+      "global_code": "86MXGCQW+XF"
+    },
+    "rating": 4.4,
+    "reference": "ChIJ9zMewPHxK4gRrnZLEcVJVEI",
+    "scope": "GOOGLE",
+    "types": [
+      "hardware_store",
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 120,
+    "vicinity": "1421 King Street North, St. Jacobs"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5003885,
+        "lng": -80.5360572
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5018348302915,
+          "lng": -80.5347492197085
+        },
+        "southwest": {
+          "lat": 43.4991368697085,
+          "lng": -80.53744718029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Northfield Trim & Door Inc",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103768672724352593865\">Northfield Trim &amp; Door Inc</a>"
+        ],
+        "photo_reference": "AeeoHcLvoRuRPVzbzOFrbervXOzTJvNzlOx0Lhr2JewHBL9J3RZTS-3ea0mnRgwMUjyt110EjLq48QtujHiU52w61KC8AKA0wM5j_i1YXPTM9FU0G8kviN50WeYlwnEoe8B1NJnSiM4KaeWE1zpsKb2cGzSUchKuvDRyzGIyBgPzRAOZvDiwln7fDTUVFQoKfalMOGX-hOXAlIxCi1wXNbKB6WQ7vbXEfsgwKej7RYRtT4yYlJsKgn-LBr0W9AbuIP93L4-BVoJs4lY_uv4rCV0ENR18UrkdtyL6j_E2tCy76U6cIyzMxJ8hTNH6EItcryFWAWeQvQszPqw",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ5T_cpNvzK4gRmhb6wRvdvYc",
+    "plus_code": {
+      "compound_code": "GF27+5H Waterloo, ON, Canada",
+      "global_code": "86MXGF27+5H"
+    },
+    "rating": 4.7,
+    "reference": "ChIJ5T_cpNvzK4gRmhb6wRvdvYc",
+    "scope": "GOOGLE",
+    "types": [
+      "hardware_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 127,
+    "vicinity": "39 Northfield Drive West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4842139,
+        "lng": -80.5271322
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4856135302915,
+          "lng": -80.52556346970849
+        },
+        "southwest": {
+          "lat": 43.4829155697085,
+          "lng": -80.52826143029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Dollar Planet - Houshold, Stationary, Luggage, Mattress",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1142,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101730572077241186489\">Dollar Planet - Houshold, Stationary, Luggage, Mattress</a>"
+        ],
+        "photo_reference": "AeeoHcL7iyt5otuGI7-dB5xnAvQrbS6WQo6XZvT-_mkiJRYULKKiR_t8NrJmGTb315arGO1nh3E02kiQx_BV5plQIlKzOApHf7eHnUohzmruyWJ84J6WX4UXN2h6NIq-vS-uRGf8uq0E13kwEm3qpSqexCMeANGLyphashdc-WHQ1oLhQMAtXsSuGhlhEpFDUo4B3sNcIY0p2PdA1eXshYVVarRsd0VUhVmO0a0ARy3I6qXZwcEWoyYVh5LQSQjfofRI81XXmNsHXpEehbalI3adZO7m2ocvpeHzH1UMGYu0t1Ehe87UIyfhwYF01dJE-iMLdC-_xnaCMzI",
+        "width": 2032
+      }
+    ],
+    "place_id": "ChIJk6fCwinzK4gRkzMhps7invY",
+    "plus_code": {
+      "compound_code": "FFMF+M4 Waterloo, ON, Canada",
+      "global_code": "86MXFFMF+M4"
+    },
+    "rating": 4.6,
+    "reference": "ChIJk6fCwinzK4gRkzMhps7invY",
+    "scope": "GOOGLE",
+    "types": [
+      "hardware_store",
+      "furniture_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 162,
+    "vicinity": "405 King Street North, Waterloo"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 43.4883421,
+        "lng": -80.515857
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4898719302915,
+          "lng": -80.51465181970848
+        },
+        "southwest": {
+          "lat": 43.4871739697085,
+          "lng": -80.5173497802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Maker Supplies",
+    "permanently_closed": true,
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105518811996576887999\">abd30 deluca</a>"
+        ],
+        "photo_reference": "AeeoHcLFMTMeJIwFCbhN8p6UMbT9gGX-yD6CbzIyL02m2ANVGzrb3rWY54qMgu6vKbn4Zu6MccAwokWlox-U8QrOqwxQvanwYBmj3ZgoumaQf6oZIE0v7JqgAcJx5gllgmFHPzsjxRh9uIeFvcbchOxk0Z7L6XNA3kg7Qll-qHiF3Ny_mxhky2JsXOOUJXcHtY7jzc-qGT0AWOj2g-XtfOndPDbOFGh0Pf4bLeIu_vR44wyu1Bld4J4grQOcCSwdM_eWSCeUsQGUBhatzUCQ_9B_lYkldFuiEpQsMpM-Zvk7acoo0ON495oXYikS5RTjkv9STcrOPN9U4R0X7g3D-Utm75YlUZ7tTBwx7uqoicDA1JyTkpd_MUAcqfDydKoprGGIivRxR9fQVIdg0WmqE5dqJZiLg6qoX2NgYufoVymLXQkbh5AT6Yt1IuncDp6PKARpGSubXsMvOZHSDP2pe_i04MhkN_lq4fhdytMSvti_vQmS129nsCTHx7R0DebZlqqV3G_ekdjpwpt2XfA3-VTkpgmpAZBJiVhbt14rU8JlT2_HTXb3Z1xVjpVTsJ9YcrcKz2XnBKnw74Uf29HCzdqHZZ5mn4ySTM2KeupQMXUDlQX3UElj6nwAMVRb5_TtAOKp",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJpYp8b3r1K4gRNp43qjU141E",
+    "plus_code": {
+      "compound_code": "FFQM+8M Waterloo, ON, Canada",
+      "global_code": "86MXFFQM+8M"
+    },
+    "rating": 4.9,
+    "reference": "ChIJpYp8b3r1K4gRNp43qjU141E",
+    "scope": "GOOGLE",
+    "types": [
+      "hardware_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 10,
+    "vicinity": "165 Lexington Court #2, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5055261,
+        "lng": -80.5298588
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5067277302915,
+          "lng": -80.5283180197085
+        },
+        "southwest": {
+          "lat": 43.5040297697085,
+          "lng": -80.5310159802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "S.L. Marcella Carpets",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 540,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113659510884607217894\">S.L. Marcella Carpets</a>"
+        ],
+        "photo_reference": "AeeoHcKrKUrQ8nPHZpqqASHJGPD9qsGm94luWfTsxMS8CXyu_0DffngXQwU5dqOvOt3EZ9DudM9L3p9ZwQio9pLmpwNoFtEImIRj6VYfsgnLabxMAZtnpsygVCmlcexKRfflNjiGZRqhDRPOcKg9eLd2z1YBJmQZKpv5kRVKdJEjZ6CSdonxgTIohDO7uAph25AeGFhaQTIludcEiZno_xZ7-wI_jAt0Y8MDPQY3V-YwD8CpXtAqQpFIBu-dKovmBeBE_jFlNG-YvoSWToWZsOAHRSgk4KmRqCn1U6CgrHHbDfFygDaliYZzIwg2S1Jfd3a8y5B49OriOb4",
+        "width": 960
+      }
+    ],
+    "place_id": "ChIJvXkNTsnzK4gRrqGtp3jrjkM",
+    "plus_code": {
+      "compound_code": "GF4C+63 Waterloo, ON, Canada",
+      "global_code": "86MXGF4C+63"
+    },
+    "rating": 4.3,
+    "reference": "ChIJvXkNTsnzK4gRrqGtp3jrjkM",
+    "scope": "GOOGLE",
+    "types": [
+      "hardware_store",
+      "home_goods_store",
+      "general_contractor",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 32,
+    "vicinity": "110 Frobisher Drive #1, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.51139149999999,
+        "lng": -80.52032670000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.51283078029149,
+          "lng": -80.5192482697085
+        },
+        "southwest": {
+          "lat": 43.5101328197085,
+          "lng": -80.5219462302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Advanced Flooring",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1026,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113631154115818192854\">Advanced Flooring</a>"
+        ],
+        "photo_reference": "AeeoHcJuQd98D0dLk_upJUwoBnrADq3eS6pzvRpyatk1TDsqgIsEcxzncj3fN28oSnKCHDPQhpKJ7GI3tJr4ntSvNis3VmOfNQQqree3BYzdzG6FIAUJLD1r7mb7NmFrk6HQusGxcMREPXlCWDJW5hO1hFbu4AhQIM9Nd2EQjflTCCbOK1HbeEB85pIrYJizXvDKB68cWH96a32vn7N6AzQG3YeIOzLcoMACn-1PSlOV28Ip4HzTJosiYbUbIFaJ6ol13HIUgXdCxiQmrQY8xgLsZ0yIEb4_DhQEcU4aYrXdut2x-jCvoVHQVoepcg11PqpT6KTiYEpSPoo",
+        "width": 1568
+      }
+    ],
+    "place_id": "ChIJc6XV1MrzK4gR_iWYhic4__I",
+    "plus_code": {
+      "compound_code": "GF6H+HV Waterloo, ON, Canada",
+      "global_code": "86MXGF6H+HV"
+    },
+    "rating": 4.8,
+    "reference": "ChIJc6XV1MrzK4gR_iWYhic4__I",
+    "scope": "GOOGLE",
+    "types": [
+      "hardware_store",
+      "furniture_store",
+      "home_goods_store",
+      "general_contractor",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 124,
+    "vicinity": "283 Northfield Drive East #11A, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5106561,
+        "lng": -80.5368708
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5119605802915,
+          "lng": -80.5354035197085
+        },
+        "southwest": {
+          "lat": 43.5092626197085,
+          "lng": -80.5381014802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "William Knell & Company Limited",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101038344528051208666\">Jeff Mulder</a>"
+        ],
+        "photo_reference": "AeeoHcIl80bYULZn90A5LpuVniwCOoqnSnCJAyxNx8YdD4rPuTaLNHlVZeYlXQz7H40CBqYG1mHu-N-Peb6XOa-ktgRqpR3fVjNa1kJWao0QeOIM-69wbBWynWIq5zKdKJZvgPVKDU9Rgd45LuGJNmR4twGayFA2kBYivjrAVJKckP-AdHWykIgkClBYrH9vPIELLAmQaAnqG-hkxs49_jlV4IbfboTvzM_Zsq1ndi_r-tUJw9AWZAMN82aK6ULbQvjf9KCaNDWkmhhri4OsoA7zq-g2onSam1mqMvv-jR8TOm8Jt5wXMWvebOCErzpeT-mMnb-_GumEuOx1TVMV4qwp2CzRF_0xWC_VN_k9iP_v3dAhdW5qD7b89D42WroTDkVPIejTMMhl4pZWRWkv1CASjFySmnu12H0Dc3T57I-TPOKY7uvJLTJEB_s7nyKYvKZ5iFkjCYeAs_EUaNSF6H35-VRm_lCsuyJp6lIBlbWoZXz8uESsDe2A4FGAjSJRn3NOUmiLS3sMVzVSr_XSZfJwa6g12PX4kb_8eUff38MvB7o0NYp7hCRufutKfha4ovKUGVICI_v6Bu7G_ctBiCWY9O7eHXYYET2N73yJh21ZmUomy9e_aRyPObHR4LK9NLe246Go9Q",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJl3VPFxj1K4gRKu6TN_hKqe4",
+    "plus_code": {
+      "compound_code": "GF67+77 Waterloo, ON, Canada",
+      "global_code": "86MXGF67+77"
+    },
+    "rating": 3.3,
+    "reference": "ChIJl3VPFxj1K4gRKu6TN_hKqe4",
+    "scope": "GOOGLE",
+    "types": [
+      "hardware_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "70 Rankin Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47011750000001,
+        "lng": -80.4545079
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47166273029151,
+          "lng": -80.45330746970849
+        },
+        "southwest": {
+          "lat": 43.46896476970851,
+          "lng": -80.45600543029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "RMW Electric",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107407784395704085850\">jon ouel</a>"
+        ],
+        "photo_reference": "AeeoHcLU51tFkEGsNFwLmQJpyYh1TpXbRqJ0CMOud4MDJcWj_QsrWjXhGQLkVx_6paYgSYU5u8W5fZ3HE2qfc77t0hNHU0v5M34y3mJgfm2IwxwhKfuI6AyeASyMvPS545TpiFGljVPFwZGPsbqS8kCKMO1u01GeHi4OaXhGWzhLrrFVb8ci6lV9qdHTIUOZafxCRyF05CmBhxT0dx542zSDBx8O7TSDrUpHCWsR87du6dMK4sjo1_kLbZlML-D1LaweTUlrltm0rn2dXNw-nGZfPLVrXLLc1z1rmw6mER7L60kU2nx0HQwGIckdrct8ygbwTxkgpsmzwMTc9BcxZ5cj-fgcA7sUx2rFjjqhlO5Sov8pl7e2oaxnBDQv-l4_ByX-Y3mhZUie5AbRpTXrf3lbT4YasnDo2Y8BR3jDny_w9uXLCv1MLOOKzoaNTAc4zfm_h-1BJIk-aUZCOljmQUYNAcggJ9TRaIDYwAYYnYzzuJqRL6OaG0P1R9kQVfWsnrqbLs3iFOg55aZl_PBiC_XXZL-GtYeHbiSValW2iMFamWP8t-58lAF3tl387r6UikxEJU1nAOlqmbiUawIbH7JXmPZL7hu9EMlaEoT7LLCHpHpyZwnaJDaKstggcTBRc5FEnJvrlw",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJ_bcS06qMK4gR5X48uCbw67o",
+    "plus_code": {
+      "compound_code": "FGCW+25 Kitchener, ON, Canada",
+      "global_code": "86MXFGCW+25"
+    },
+    "rating": 4.8,
+    "reference": "ChIJ_bcS06qMK4gR5X48uCbw67o",
+    "scope": "GOOGLE",
+    "types": [
+      "hardware_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 90,
+    "vicinity": "350 Shirley Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4106473,
+        "lng": -80.4721028
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4118618802915,
+          "lng": -80.47068876970849
+        },
+        "southwest": {
+          "lat": 43.4091639197085,
+          "lng": -80.4733867302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "G N Sales Inc",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJCeja1kD1K4gR2VHLNiTU89k",
+    "plus_code": {
+      "compound_code": "CG6H+75 Kitchener, ON, Canada",
+      "global_code": "86MXCG6H+75"
+    },
+    "reference": "ChIJCeja1kD1K4gR2VHLNiTU89k",
+    "scope": "GOOGLE",
+    "types": [
+      "hardware_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "38 Sandsprings Crescent, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.54108069999999,
+        "lng": -80.5014036
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5423514802915,
+          "lng": -80.5000676197085
+        },
+        "southwest": {
+          "lat": 43.5396535197085,
+          "lng": -80.50276558029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Ryan's",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107387321470373487407\">Victor N</a>"
+        ],
+        "photo_reference": "AeeoHcISEvzE2YlQd29KB0rFWRzsP4_HmcolzuZSnlYwJ41cjMgUEtEi3WuO81JQaYQAovJAfuLW9Oa0HpQk7dE0gL7MvwWVSGLB9Bfs4Bfn-syT1k0DG9d7uzgQ4cEI0CzQY3YJHiYGrerzaniym7P5Z1z9hByCXVGkhV1dGr4GLQq-SJ-8s5R-x4qazl4pXOLRU6vfbmeB3vOwPmpnP6jq4Vs-t10erqmqggC6sX6J94vPQLhvki5WJWAeRJ8w_55O5lcRABepKO8LOJAbF7akpLzcxKe1Sf3XckOKclxGJH8KAvJ44U1ArSn2PDd73-DiNMKUf63w1sx-ZrJ3LowXSp8MyuUaPgkAXvi4B5Q6R7mmsJaVrqkdvPEd6TBFNjMDRvtRK9t2qlYzyGRXcdVQ0_fnXViQiPvm79xIvY1zK_s4rOwt21vegV_HTLPdRfrbz9UDnuZl7-jLfd4aihI1Y_U_U9zR_0Lr4uURw1Ghawwd6K2OYWNPTEeQg0uSszLGE7xk2xeEdDu_QD_0g5_EgUlCEUVRsp1GkwV4jX390x8Rrr8PDuvly6bQLGpJqXFa2FxRrcChVya52vIJsX9ulW8ITOoTFYl8q8Gan5hYwcBykcO4D8MM0etcBcobmwmCFntYvw",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJ5xphD33yK4gR7aWXEY5gbP8",
+    "plus_code": {
+      "compound_code": "GFRX+CC Conestogo, ON, Canada",
+      "global_code": "86MXGFRX+CC"
+    },
+    "rating": 4,
+    "reference": "ChIJ5xphD33yK4gR7aWXEY5gbP8",
+    "scope": "GOOGLE",
+    "types": [
+      "hardware_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "1842 Sawmill Road, Conestogo"
+  }
+]

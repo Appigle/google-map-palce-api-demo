@@ -15,7 +15,7 @@ This project fetches nearby places of interest using the Google Maps Places API.
 
 ### Prerequisites
 
-- Node.js (v14 or higher)
+- Node.js (v18 or higher)
 - npm (comes with Node.js)
 
 ### Steps

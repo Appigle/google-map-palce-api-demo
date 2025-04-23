@@ -1,0 +1,2975 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5011167,
+        "lng": -80.53968549999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5025570302915,
+          "lng": -80.5382175697085
+        },
+        "southwest": {
+          "lat": 43.49985906970851,
+          "lng": -80.5409155302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "U-Haul Moving & Storage of Waterloo",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104755898070836936531\">U-Haul Moving &amp; Storage of Waterloo</a>"
+        ],
+        "photo_reference": "AeeoHcKsXo_iKj4oQHhjwQ7ztAde_KV23Bc-ihqIxwv-ByZ0KmZMjuTswoO6b2XEyxw0ZrtGD_mOwzfbIpj2laNuId_rMnBFuLp3SNJ3w6WdA-sg8mUeqwgG3XlAGZq9V1sst89wLzMvC25gyflHk3D9yy9fUjAp4zlZQhph6G1x2WiY4CCmcPlh9abFyF4cI7ee93bzSNImW52mr20qbgzFvybTfEoiP0m04BdmJhEOXPfEVT3kwzUia8rHomptnWUsHAyiaY-xDnHAlVt36I7Vn8fB-Dvm03Le4aqvDe3Y8dhl0oGRgRFh5Ezsv7XPfSCxDcPJ1dZ8",
+        "width": 6000
+      }
+    ],
+    "place_id": "ChIJd-XgfOD0K4gREEmBEhI24B8",
+    "plus_code": {
+      "compound_code": "GF26+C4 Waterloo, ON, Canada",
+      "global_code": "86MXGF26+C4"
+    },
+    "price_level": 1,
+    "rating": 4,
+    "reference": "ChIJd-XgfOD0K4gREEmBEhI24B8",
+    "scope": "GOOGLE",
+    "types": [
+      "moving_company",
+      "storage",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 302,
+    "vicinity": "585 Colby Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4518848,
+        "lng": -80.4981263
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4534134302915,
+          "lng": -80.49666891970848
+        },
+        "southwest": {
+          "lat": 43.4507154697085,
+          "lng": -80.4993668802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "U-Haul Moving & Storage of Downtown Kitchener",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 506,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115637428822247397710\">U-Haul Moving &amp; Storage of Downtown Kitchener</a>"
+        ],
+        "photo_reference": "AeeoHcIO-iJ_IQo53Ugr5dbHpqogTeS_XTjNFhU9gKmYAgSpZN35CSaxJGl1X2y7MIRhLGNJE0ISyWHFYyeGgcFb8KyFvbudWrBiSfzl2HwMxipV-xgoq9KNCSy5Z_Ly-nOaxDft5KL3vF7AEd9DqjKVDqkjJZTCBJovCgbCHADqa-GI5cSBHAAWfQi1GdyWkslunqjavibTwkdZKAEgz_JDIiHnPwBQ8k4d4eiL4LwgSi_CqQRnTT5CVt5bebgm2hrJOcP2ABWOlXl6sZRi2C_sJrgg10yfDmu-v-aiPhTKqE_pvmcmNS9xwLoI-zio9DZ0gpWy8oespBc",
+        "width": 938
+      }
+    ],
+    "place_id": "ChIJ3WxPQfX0K4gRvYvaCa1YeJQ",
+    "plus_code": {
+      "compound_code": "FG22+QP Kitchener, ON, Canada",
+      "global_code": "86MXFG22+QP"
+    },
+    "price_level": 1,
+    "rating": 3.6,
+    "reference": "ChIJ3WxPQfX0K4gRvYvaCa1YeJQ",
+    "scope": "GOOGLE",
+    "types": [
+      "moving_company",
+      "storage",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 450,
+    "vicinity": "144 Charles Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4816381,
+        "lng": -80.5166528
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4829803802915,
+          "lng": -80.51565616970849
+        },
+        "southwest": {
+          "lat": 43.4802824197085,
+          "lng": -80.51835413029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Apple Self Storage - Waterloo",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103408556952568299545\">Apple Self Storage - Waterloo</a>"
+        ],
+        "photo_reference": "AeeoHcLD28YJNTf1MvSq7hVrWLBst8wXsavF0HJpmBo5b7VgtRw2bMJWr6XG8zEXLbAtE3Fg788CRk9Zw7DpcUcrKM4LB7rvgF4jsV_km1m586CDSMInSZCsnILtSuXUdz_6vjh8S50hDXg14HMSq-6VQPLdDHxiznEVpabt3jNYxule7CzMGwuRG4BtUGUoqWTCiu_y335ChJopTu8LteMwAVvgKwHnbhk8NDnw28yLaFXyXHKVF7WxPmpqEbOJoWNCpolqS_NfEXUXhESdn1jwx7WQ4yT2krQtAJYHC8Y_lfswmlggCe7kJPRze5k13gclPcrj4ZSKIUc",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJCfmox43zK4gRYOGn_1jgI9U",
+    "plus_code": {
+      "compound_code": "FFJM+M8 Waterloo, ON, Canada",
+      "global_code": "86MXFFJM+M8"
+    },
+    "rating": 4.8,
+    "reference": "ChIJCfmox43zK4gRYOGn_1jgI9U",
+    "scope": "GOOGLE",
+    "types": [
+      "storage",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 219,
+    "vicinity": "290 Marsland Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4453709,
+        "lng": -80.52144559999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4466770302915,
+          "lng": -80.5200907197085
+        },
+        "southwest": {
+          "lat": 43.4439790697085,
+          "lng": -80.52278868029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Vinomiro",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 370,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110675986848271625543\">Vinomiro</a>"
+        ],
+        "photo_reference": "AeeoHcKFQ3L3-kA3cB977Xo3uAaiCAQd4VJHjPysuO3ev2mFMz6OaCE5LCY5BIfcqLmtvuE8HMGiUfitl45fTUTG3sOxXNWyEEgG4j-1TGNIcR_rdQrQTpglEm6-NLPh53k4u-2mvibIcIX_oam7M8OEx-P2bex7JTrsd1taMyGfLi5mszvU-qsyIvYCtJ85fdM7s4bZQG4GZ0vjk5-hVvqp8AVzEI5ao6Awp327EYy4bMiENNu3P7xkTK8ngEXi50wWCNpITCG7bjhfUM98BPxeuXp4qawUW0Cpu3ta22HXHu8WMFueAHjRmXlMYLcIvVL16sB7xkElPq0",
+        "width": 800
+      }
+    ],
+    "place_id": "ChIJVYBdAEj0K4gRwtuoQroMkIU",
+    "plus_code": {
+      "compound_code": "CFWH+4C Kitchener, ON, Canada",
+      "global_code": "86MXCFWH+4C"
+    },
+    "rating": 5,
+    "reference": "ChIJVYBdAEj0K4gRwtuoQroMkIU",
+    "scope": "GOOGLE",
+    "types": [
+      "storage",
+      "liquor_store",
+      "point_of_interest",
+      "food",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 25,
+    "vicinity": "407 Gage Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4057588,
+        "lng": -80.48977339999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.40708328029149,
+          "lng": -80.48839721970849
+        },
+        "southwest": {
+          "lat": 43.4043853197085,
+          "lng": -80.4910951802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Brenneman Filing Systems",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4896,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116563018040794561392\">Dan Weaver</a>"
+        ],
+        "photo_reference": "AeeoHcKfHzoA3cCozEDtWjH7Gh6FAgBiIjZ4NGXj0W1Hk9_7eiwDjhfl-mkjJgbzpUw9h33cY0k7KUOgA6qLErykOiVn8d-xj2UUi5h_pFvpN-iNi2jcAQtsjTMxci99XZ-4Ynigtovv2KdpYZasl8Ws7rzWkneedJkbdpu05AD35PwEcgU_p25SA1os_he8Qcat09hVRuef1WCIuCTjf5WpgqtbvwVFyImcqtNQjcQSOdp65oNE5-CABExRlnHdAu9Q8-vazcqRDyk5uQDXq0IfBpdqr4FIzojK7cXIbr4dsWPPQF7JuDxFZbgR9zo3sS2pJle8te7gp-E5xZCLcqKL9HoHhIS0qHhSJTa5L0INZ1qdlISq8tVogveWBBUBhlWWfrbAApjsDv81WPsWFljhSqCW96tqaOygfAhysOf3KqVuNNgbiGHcgo4VfqTtHhqyEToM_qKLuo3ggT6BQjd9ZwQioRtJ4-DWg_mAwkVDWKhUZIrtfiGRwFeCO4LS-ZhXb4OCoAU2sK50Q1T2_PSgU-qBXWFf_euX-_ITItwEcI_iSJXUxf0BFfAuBKyXCNtsYeplhEgJGrg2jEfDe7cs_A3gyFfiA8c17gy5JgwTK9saRrb19qcHKE5GPZLmILlUaM1nmw",
+        "width": 3672
+      }
+    ],
+    "place_id": "ChIJUUp1PNHzK4gR0kCytETX9_c",
+    "plus_code": {
+      "compound_code": "CG46+83 Kitchener, ON, Canada",
+      "global_code": "86MXCG46+83"
+    },
+    "rating": 3,
+    "reference": "ChIJUUp1PNHzK4gR0kCytETX9_c",
+    "scope": "GOOGLE",
+    "types": [
+      "storage",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "3 Hedgestone Crescent, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.493567,
+        "lng": -80.5428891
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4950296302915,
+          "lng": -80.54149376970848
+        },
+        "southwest": {
+          "lat": 43.4923316697085,
+          "lng": -80.5441917302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Delivery Guys Inc.",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJtcTZNZ31K4gRps1m74NoWPk",
+    "plus_code": {
+      "compound_code": "FFV4+CR Waterloo, ON, Canada",
+      "global_code": "86MXFFV4+CR"
+    },
+    "reference": "ChIJtcTZNZ31K4gRps1m74NoWPk",
+    "scope": "GOOGLE",
+    "types": [
+      "storage",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "550 Parkside Drive #16, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.41930349999999,
+        "lng": -80.482241
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.42074423029149,
+          "lng": -80.4808074697085
+        },
+        "southwest": {
+          "lat": 43.41804626970849,
+          "lng": -80.4835054302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Evergreen Transfer Moving Services Ltd",
+    "photos": [
+      {
+        "height": 1868,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102085737921979410746\">Chris M</a>"
+        ],
+        "photo_reference": "AeeoHcJi1Lagc21FZPsdk66wfXF--ngy3JMh4i9A3i4c5cT-5P_dIrzx9xHmG-TR-ubTAmqtBJ0JfyIQc3g6bJ6gWtiHvRQ2a8EI0fJETMNSa0Zzb__kDXsA6aWz4h9HfG4zzHn2BkhMjNqGSh6_VS5uNQf9xw2D5Czghcwzz9vA6xjAyzcyBZovyB5OAYhoncpmYFePCn06wVKE5V8VSGmy3VmHzy6e00KvO0e3bmrBeEqxuNSTX4S28vtgJKsJrxckglutvy9wzIF8uoRKrDo6u8bqA8k4I9UgA9wVtZbdjvneu8pOY0cQKRDZU0olw9GTJ0usUTDhwlVfDa350g0QPzxgA7Q3-VCPb6XlELS_qOFqU36jeF_6-8plFFcxG2RmAO0g3RbDcx5gCWoHHs25PQDSw-LQFhjuOL-zkvESz9NVuMTwQN-c6inB9aDdux-Y8ThDjPdG5VNW1jrYjgzQYRMMYjs6Enp3nmbabymBWAyZ7uQ7FV3O9d_vbBedcTowktbG0LIyo4f1IlrvsD8UZi1A1nlomGGn2je_rSTLEXphv15IursTVoBeFaqhr6LOqEGcnStGO8XwiGVJ3fDxlY7wqJcbA8F7XfJG5gIBqJRlxSBkvast6AyUy-wl8DyPbCpZPlkf",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJFeiexxb1K4gRrsox-A2aBZc",
+    "plus_code": {
+      "compound_code": "CG99+P4 Kitchener, ON, Canada",
+      "global_code": "86MXCG99+P4"
+    },
+    "rating": 4.9,
+    "reference": "ChIJFeiexxb1K4gRrsox-A2aBZc",
+    "scope": "GOOGLE",
+    "types": [
+      "moving_company",
+      "storage",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 66,
+    "vicinity": "82 Lucerne Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5118554,
+        "lng": -80.5253623
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5130849302915,
+          "lng": -80.52435301970849
+        },
+        "southwest": {
+          "lat": 43.5103869697085,
+          "lng": -80.5270509802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "St Jacobs Furniture House Warehouse Pickups ONLY",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102964840660068033997\">Alex Haack</a>"
+        ],
+        "photo_reference": "AeeoHcJEazuQzItCFRE5qR8N3JLi-ePNyL0Qbc5IWP0WPu3jGCDiIZ2ivcqohgShiMe4uM6Jv7BZnjyjE62yg8y6mW0QEjRXjcg8Lomv7Z40uIAGEGDGaA4K4yqPyHG7abtdU3k695hGsJcwEj59pktklIS9VSEULcqmGDkVIatz-4DLxNs4mmWseFE4vuHjy6uefwcvoUCxa17dmvACTpxJ915YqGTNajD9fsJB9PgglpAJ8wiHJAsG37FiSJr0MYxEqdd9oPv5eRbRJ2X4CDBZ8pRyYSjkpf-9eVq3kEv-gCIFtCGznOL7ku06K_6fqMAYvUiqeyoGA3bhxG-7hYfzlvvHQzVj9wIjH9dhx97cFqj0bKX7xjwoYv33P58tEZfgh7NgydBkBY6HoMMQz1C_gIVoTHclKNWGMCb3AOQlzC1Gu5bWLUwqz-rL6i-5MSH4Cm4dkVXaXPtDMcwB6pLyjQJ9SrHnKReTxqOrAwF5deNIbAHDAwNbOg5GumIw9Mu7r1XVqj8NNtlXYFZQ_vcNC2bpV_1oL5htH8NP4z_a_rZzNtMe1WK9EFNZO_ToWnDS1PZRszpl5wlw-oRiPuUAgoQ87qH0pcXs5nzT57eSyUg1q-f0hoLY41lAI8eiiyiY3baHZQ",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJpf5if2TxK4gRZ8Tenf7zQVg",
+    "plus_code": {
+      "compound_code": "GF6F+PV Waterloo, ON, Canada",
+      "global_code": "86MXGF6F+PV"
+    },
+    "rating": 3.9,
+    "reference": "ChIJpf5if2TxK4gRZ8Tenf7zQVg",
+    "scope": "GOOGLE",
+    "types": [
+      "storage",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 13,
+    "vicinity": "660 Superior Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.48162549999999,
+        "lng": -80.5167415
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.48296878029149,
+          "lng": -80.51570031970849
+        },
+        "southwest": {
+          "lat": 43.4802708197085,
+          "lng": -80.5183982802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Family Movers Tri-City",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1152,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106160692632711817572\">Family Movers Tri-City</a>"
+        ],
+        "photo_reference": "AeeoHcK5GnAAQlTONnmsBZuDUcvNbmnlfEuEeqijEqCSDMgzn5XyiKhmc2Q2F3E6xH0WbYsZeWBr00EhxnHsIwwA-cUIYl5BkM0Gs1ONc_zewnBCoF-tH35tNuYjrGzECfg2U-zqz15OUbjIl55kivl0yUcHIs4fh48sYJXJzSSYN8BcDR92mtkbUlyRkumh812uFKbCRRVZR-bMYv1DOoyiPxj4uM0YJEFGljax3tjIDoFBAd_5T0r1QPdUiqb455UCM7BLr3mFEWuMsZqA16GJT5MeTtK5tqKEWK3ylRTMeJqEEEUQ9XPBgHhiyjX0n-x3qihNgzOMSF0",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJ6SWVxo3zK4gR2apfaP2yuVg",
+    "plus_code": {
+      "compound_code": "FFJM+M8 Waterloo, ON, Canada",
+      "global_code": "86MXFFJM+M8"
+    },
+    "rating": 4.8,
+    "reference": "ChIJ6SWVxo3zK4gR2apfaP2yuVg",
+    "scope": "GOOGLE",
+    "types": [
+      "moving_company",
+      "storage",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 22,
+    "vicinity": "290 Marsland Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4463338,
+        "lng": -80.5195646
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4474649302915,
+          "lng": -80.5181403197085
+        },
+        "southwest": {
+          "lat": 43.4447669697085,
+          "lng": -80.5208382802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Steve's Moving & Storage",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107084617862330119926\">Ruslan Melnyk</a>"
+        ],
+        "photo_reference": "AeeoHcJICeH8G6ycmVg3lQAd4hPS2FgjiVSrD1-s4q7tLrUR0Kzu8AyCBYqaL05rDljoQQy48h0pxuDQr1ajRpiYQaxWq_MY_BRLI5tqH2SqvDvgzUXIJz0eGQzR7NWACzGDBHLgrwZEOiL39IMnWkTsLnbcYNqLaAS1wi-9hp1qlJ9NDdSi-uzKwnp0QBnSJEnJCmKyXJszGTRLl_kYnvq81X0LJyQwxWrnrGA9i_4wOdh87hv4LEcJAkGnsdJzHA7r8VFHQpMyEq6LNULI7QHa0tj7iDOMX3b5046QzJXTtG10Brnlg5UCEK3-ryvKTz2uiQDP4Rg9mngeU-WWi0WjLrg6ioh3UhT-rRgw4Of5sZ_D2giTNfHc8R0Z7axAMI-gxZM18QblNkUI3WjbhA33fXeg_fCWYYF11gKrxklMs_jmnj8NVdnmKrW17KSgCHPMeVcp_6Sl5CudBU1Sg--V5a82GkUZJ0QOKw-GkLTvELiz6o0-9IEgpaXziBgLGV_iVIAi-LQEYwbi0KLsehGsEPn4Shu1Ui1VCis8ln9S7zuMMZPm88ZFkWGezte_wWMKQADjLpiw-wV9QzRTNWe0ZEuXoa_klAeTv1ZmhUJg5feMJfISkEW3EUeOt1CYccO7VBCpAw",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJ5wP_M0b0K4gR09C6_mJQ-FQ",
+    "plus_code": {
+      "compound_code": "CFWJ+G5 Kitchener, ON, Canada",
+      "global_code": "86MXCFWJ+G5"
+    },
+    "rating": 4.5,
+    "reference": "ChIJ5wP_M0b0K4gR09C6_mJQ-FQ",
+    "scope": "GOOGLE",
+    "types": [
+      "moving_company",
+      "storage",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "335 Gage Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4777399,
+        "lng": -80.5401093
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47917183029151,
+          "lng": -80.5387262197085
+        },
+        "southwest": {
+          "lat": 43.47647386970851,
+          "lng": -80.54142418029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "YouPackWeStore Student Storage",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 510,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110197536520705999686\">YouPackWeStore Student Storage</a>"
+        ],
+        "photo_reference": "AeeoHcI37ewY-0IQf3TKJ32x_oZjcR3L290OWRfos9LjNQHH2HXichMvhsHC3toK6qrDmTIZMueU6SCSSPBdm4bFFTZrJs-ynPsXxwOqzgNQMvWw435WtBfy3uJ0G7UH6gIXR374p4GW0fdswpA36pALYynL9v44-7J2iHWQaH-NdzbQ1PO8Sj8OwTL27DCcdsbigzz5Ep2G-HzQzLTG5xENz0di47GpDxZTPReCHk1UFTJn5xcTKVUQSOBpT4iAfXzM29lSoiXcF_7msry7T_1lrauBgREOPJkKPTeBURLX_MgnMmn1s_TeBgAvU0aWAoZdhQeuQUoj1e4",
+        "width": 510
+      }
+    ],
+    "place_id": "ChIJHbYgA__zK4gRzC5uz8u52zg",
+    "plus_code": {
+      "compound_code": "FFH5+3X Waterloo, ON, Canada",
+      "global_code": "86MXFFH5+3X"
+    },
+    "rating": 4.9,
+    "reference": "ChIJHbYgA__zK4gRzC5uz8u52zg",
+    "scope": "GOOGLE",
+    "types": [
+      "moving_company",
+      "storage",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 368,
+    "vicinity": "368 Phillip Street #6, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.48748669999999,
+        "lng": -80.51786969999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.48882878029149,
+          "lng": -80.5164415197085
+        },
+        "southwest": {
+          "lat": 43.48613081970849,
+          "lng": -80.5191394802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "QLO LUBE SUPPLY",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJZWZbjpPzK4gRcUAEJFA0-sI",
+    "plus_code": {
+      "compound_code": "FFPJ+XV Waterloo, ON, Canada",
+      "global_code": "86MXFFPJ+XV"
+    },
+    "rating": 5,
+    "reference": "ChIJZWZbjpPzK4gRcUAEJFA0-sI",
+    "scope": "GOOGLE",
+    "types": [
+      "storage",
+      "car_repair",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "130 Dearborn Place, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4397683,
+        "lng": -80.4774573
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44099468029151,
+          "lng": -80.47590526970849
+        },
+        "southwest": {
+          "lat": 43.43829671970851,
+          "lng": -80.4786032302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Heidelberg Foods Cold Storage",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107327108231768869183\">yuvraj singh</a>"
+        ],
+        "photo_reference": "AeeoHcLg-33BxeXbGpEqjYW-geklVXvBS4_t_SdxoXITjntUBwOV6KYLpYTUNUPjpqj7fnKC7zLaxSXP3RvDqL63PHQ7t02Kmbbb_CxolNod39hk-xbZA2GDjp2O6Y3_ZJUTiDT9lLXbKOstrpw4rCpkgKpALYrHFPSxwNlWjQBa6nfS06VnQr3OLlPX6V-vwPxjEZUtLPzlq1UkamnSzHEXNDEam5Shc9T0OYk20fkKwy8zabkHOHrnDQD6ynN0DDB5n2N6anzvJZ7VtlythTMtPc_GDt4YaQ57zPVehkDzZMPeDh0tDBBUcipZUm-RAT3XZo1_Ny85A9kbKlOLPR5GeGR5-u-QmI0CAgAO-wQqUPSdePPvb5XmVJXqlfeij3w4hbl9K5DcI1EIX0gsr5EzoBm-Fc27JGYlDTObOq0MMCc94Gq4EUw1Sl8eq5Fsd2mv8Bhgq1MM5eDf2EU-5lOLZRhb7i7z3uilPfuwxD2YpYThQHAOZXL16WAdeatAM2SKdu8LESFNX3nvnmE7sULyLwWdDAl8JPMy7XzEBjoZEkfDG1yXlPlqYp5KAkg8gPjDGxrL3ZTnUQflFiBu_j94YI1N7xA1rmZoQqQQ76k_KFPI7JySlv6um4DKV2PHH6ZK8I7gy0zC",
+        "width": 2268
+      }
+    ],
+    "place_id": "ChIJAW0Ohuf0K4gRM7nLN4rcKzA",
+    "plus_code": {
+      "compound_code": "CGQF+W2 Kitchener, ON, Canada",
+      "global_code": "86MXCGQF+W2"
+    },
+    "rating": 4.3,
+    "reference": "ChIJAW0Ohuf0K4gRM7nLN4rcKzA",
+    "scope": "GOOGLE",
+    "types": [
+      "storage",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6,
+    "vicinity": "150 Borden Avenue South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44173209999999,
+        "lng": -80.4745196
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44284143029149,
+          "lng": -80.47261781970847
+        },
+        "southwest": {
+          "lat": 43.4401434697085,
+          "lng": -80.4753157802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "RecordXpress Kitchener",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1098,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114155399547635664090\">RecordXpress Kitchener</a>"
+        ],
+        "photo_reference": "AeeoHcIGf3j440hvro5DYYzz76bZRDIzglEf2fwTIsArgSfqosWBafvGdEUiOWQUg5z-h3KMP_qg4WJ1NTUxG9pYsiRBTtCOfwpuUXNLZrLU3qjOApAuLefanVVIKOhoOuwkCDABpjN1mmMdd8sDcCWO9gvX39vgd262MVRUKAZebdkoVkLCbBE8cimkcTtJErtBcNSU6mtSqJvU5yMkEq9L-sZHcUwfQ5N_GJOXoSs2M6TqEfOLMotAr7fy37vLXR7LWGprMkl5fobvLJo4BZfE1AlP6JQNbIbP48fyRm0ZuSRuClhzoj-OJhj2G2JYx7elJTkqEy4qGFc",
+        "width": 1650
+      }
+    ],
+    "place_id": "ChIJiSVPTcP0K4gRtpVqAp3idRg",
+    "plus_code": {
+      "compound_code": "CGRG+M5 Kitchener, ON, Canada",
+      "global_code": "86MXCGRG+M5"
+    },
+    "rating": 4.1,
+    "reference": "ChIJiSVPTcP0K4gRtpVqAp3idRg",
+    "scope": "GOOGLE",
+    "types": [
+      "storage",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 7,
+    "vicinity": "50 Ottawa Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.503199,
+        "lng": -80.540088
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.50438733029149,
+          "lng": -80.53899231970848
+        },
+        "southwest": {
+          "lat": 43.50168936970849,
+          "lng": -80.5416902802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Kumpfort Zone Warehousing Inc.",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117849112336426037210\">Mohamad “Mira”</a>"
+        ],
+        "photo_reference": "AeeoHcI0DUNzJ2U5lhcsCIitcbo2_1KvsNFH2CgjeEdnFSNmhbjsF5NibLoFSVgZs0IkGEf3ONkQ5XDHZ-osYEcknegCbzjd2ORubITpKJ-A7sWD2l52hv9ZI1wCFSxrsLGFnzjttxzdCwhxABrAzp883RetbM0hnZSoMJ1HvKND69am9dpjpnbTCxNaXMVixXzlpU16VRG9D2tbUSVez8l0sQvwFM8GTJCDpJmUcPalTqgcn2Ygtqpgbvb5_AzUT59zIR9moun1JgZatw3TxKtVWrzlHxlfhZeX1X9h65usSVfI4f1o47gz3pLAjj88rqcGki8pX3mqXnm_9ku7wRvwSyhbRFA_RCBC5kmqeqNYr0up--fFF6YLtNuV8jvw_bkVFh6TKKiJpv_m18PvNOIAvMHTD6Vw_4DBjk989fCAgTU45F3atHwE5CV9HmSTpEA1DE-e_wg4mCI97Ef9eHzy9_KnD44seuDUvJa59uMX6OS0BqOkM3tCWtFrZrLt4yD1BuAkqsUeIPpuKFPmHhXHfiYighRqCfW_HsmtlY5wrZ-MdqkFr6hLSb6gj0jHY4XHoQS-6xNNKPo0UMXV36jToK0VDoeFqET4NAIthG031bF-mXcjJzq-Em4Y9H169RIDLyJVRoBv",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJNR97y9nzK4gRMWq4r9EOZ_o",
+    "plus_code": {
+      "compound_code": "GF35+7X Waterloo, ON, Canada",
+      "global_code": "86MXGF35+7X"
+    },
+    "rating": 4.1,
+    "reference": "ChIJNR97y9nzK4gRMWq4r9EOZ_o",
+    "scope": "GOOGLE",
+    "types": [
+      "storage",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 14,
+    "vicinity": "598 Colby Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4250033,
+        "lng": -80.46962839999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4263228302915,
+          "lng": -80.46832666970849
+        },
+        "southwest": {
+          "lat": 43.4236248697085,
+          "lng": -80.4710246302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Access Storage - Kitchener Alpine",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100525707678539846160\">Access Storage - Kitchener Alpine</a>"
+        ],
+        "photo_reference": "AeeoHcL-zHQL6gXsdRJIJr33NmzgCk-NQqty_LIkQ4pZBodDXgUkMcCqbtvvg7UDRgZu3DQyHoiR4IeLmcuoC1a1X_867J2e0sB_RDQuWdbA7XrIi7-uLoSQRLEC5Y1GjAMLdauXI1MD6JvffRGzWGfLK4ayJhi_B1-XweNlpLdX1fx-6VExeCFfJfGHSIlRRiHLt7aR44r1SK0nBU0512hIyDnDaquqVGEdH7G9pdtDQqRV2OKmqIuI1xXwLSRhbclNXKUHgvtfhkgEpeN043a-AHHx70yLEXlvjNMntHI82jRUVHFuESqOLKCSuEH5sNSB55yAiUdYc-I",
+        "width": 1280
+      }
+    ],
+    "place_id": "ChIJo4-yRST1K4gRXAldtfi8GPg",
+    "plus_code": {
+      "compound_code": "CGGJ+24 Kitchener, ON, Canada",
+      "global_code": "86MXCGGJ+24"
+    },
+    "rating": 4.6,
+    "reference": "ChIJo4-yRST1K4gRXAldtfi8GPg",
+    "scope": "GOOGLE",
+    "types": [
+      "storage",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 278,
+    "vicinity": "176 Hayward Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4717642,
+        "lng": -80.4380496
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47358268029149,
+          "lng": -80.4370055697085
+        },
+        "southwest": {
+          "lat": 43.4708847197085,
+          "lng": -80.43970353029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Access Storage - Kitchener East",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101039561252581970430\">Access Storage - Kitchener East</a>"
+        ],
+        "photo_reference": "AeeoHcKxc2n_g-TqPGrEZi8xeLlUpx7SjNA4A3aTGIiOif631VlFR3NXWlJQ9x9tPBguuHXLuvC7qEoqMUqdGhiTXu6wvxsGo1dcq6e8aiUw-K6BmuQ0AU2QnGX1KpC35nGux7LLw5xO37EYz-puYJI4CdMW4n44gA-0PfmFh1RTCZT4G6JuLB8AE4K_IAYeE6OinsEF7Us1XuqcNmomb2K-D_vgKPEdwvtvZP26vWgs-ZpJIxXffyp4n_McRNyhUTUzYUA2fpJGxcL1qDTNiozpzufXficynFMuIaG8Ed2fJFJ1O0A00Y6TtEUWYnIPfgzvu56Rc0Bvz0k",
+        "width": 1280
+      }
+    ],
+    "place_id": "ChIJJ-QWCKSMK4gRiFuDdM2bMV8",
+    "plus_code": {
+      "compound_code": "FHC6+PQ Kitchener, ON, Canada",
+      "global_code": "86MXFHC6+PQ"
+    },
+    "rating": 4.8,
+    "reference": "ChIJJ-QWCKSMK4gRiFuDdM2bMV8",
+    "scope": "GOOGLE",
+    "types": [
+      "storage",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 375,
+    "vicinity": "1545 Victoria Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.40468889999999,
+        "lng": -80.47691789999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4061413302915,
+          "lng": -80.4755961197085
+        },
+        "southwest": {
+          "lat": 43.4034433697085,
+          "lng": -80.4782940802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Stallion Movers",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3036,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108561735555077143898\">Stallion Movers</a>"
+        ],
+        "photo_reference": "AeeoHcITTFKI2PE442sJwyVEVXuHPi8cSn2yIiWq--2xeujtd-iDKQWqUHboeTbYdcQMpDx30RcZN2gHwG5pZpWTwxFvnH9tnb8zJF-xR0CTmjmYv3OVVM03TOtn8CaVt0sEHpKMu0yblF9bfAmrhc3F0PBmTz8WeaP17ImkuptorclAclty_0OMaJT_9qUHPJrPM9buh0lhkDaoqIGgzmfreBt2x30MmP9mb2n__ZC3IZDIgsrKlD7IIlsOUqj2qW8POw-R2dcNIHWV85OJywACfZVqSZMrY1xdo5teQWgiChH3pvCksFjLqa9cyzXBb3BEdCK9bEYLcdM",
+        "width": 4048
+      }
+    ],
+    "place_id": "ChIJP1wTB6uKK4gR1nJiCs8EV6w",
+    "plus_code": {
+      "compound_code": "CG3F+V6 Kitchener, ON, Canada",
+      "global_code": "86MXCG3F+V6"
+    },
+    "rating": 4.9,
+    "reference": "ChIJP1wTB6uKK4gR1nJiCs8EV6w",
+    "scope": "GOOGLE",
+    "types": [
+      "moving_company",
+      "storage",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 124,
+    "vicinity": "52 McIntyre Place D, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4209793,
+        "lng": -80.4476892
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4222484302915,
+          "lng": -80.4463154197085
+        },
+        "southwest": {
+          "lat": 43.4195504697085,
+          "lng": -80.4490133802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Agreed Moving and Storage Inc.",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108241470916805940337\">Agreed Moving and Storage Inc.</a>"
+        ],
+        "photo_reference": "AeeoHcKqSqFfDIPhQUwJ9oh3ywidKfo-IzE5xG3BXwyFChOixkHU1SAAMJzRRcFrkiCAn95Ic2kMTbvoJNnUPzBvs4c5d0uLHeEJRrgdAZ-pZEHWtNuI3t1ulUML75Yom2hUrdCVALORBgYdN2h4P3Dd-VNSnQnuKPj84J6YD8xg-f2kXk91pQmG5WNootzZbf55v8tkVSOKgkxS5fV6RFjWQIW0dhanc60zZFoxoHprLcPN5Envnd9jY2JhUW0-YbMq2piUiAP_YyIkhiENDUtHd9leq5WfVH6vdqnaCh0psj4hpjG1s3fl9rgVbKMEt089tjI2J_fFM3U",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJH1G_aYH2K4gR-XDobI5nexU",
+    "plus_code": {
+      "compound_code": "CHC2+9W Kitchener, ON, Canada",
+      "global_code": "86MXCHC2+9W"
+    },
+    "rating": 5,
+    "reference": "ChIJH1G_aYH2K4gR-XDobI5nexU",
+    "scope": "GOOGLE",
+    "types": [
+      "moving_company",
+      "storage",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 197,
+    "vicinity": "500 Fairway Road South #171, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4799612,
+        "lng": -80.42676399999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4811376802915,
+          "lng": -80.42522041970848
+        },
+        "southwest": {
+          "lat": 43.4784397197085,
+          "lng": -80.42791838029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Access Storage - Kitchener North",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103189396662784303597\">Access Storage - Kitchener North</a>"
+        ],
+        "photo_reference": "AeeoHcKG_s6OwqArF70NuOECRLlRrhGzo9Shja7KjvYJONe7PVoHitMTVtM2NoI8ECn0b8B5TPxcLHgwcxZgaSfHT0QnQ9ipCEoRPE8nyRFq2yCez2wsHzgK9iq8lcctIjN7CAoDzF6n04Pnso1LP8w4QQgQYIfABkP0MijTzy-ALcvq6Ck_e4mjMPHo0VKzqMT4QARKERIXLkZ4DH_WiLRSUWZBASYg88Zhg5z3Hn7AR4Ak_2UxW790eSsU2NeosMoYqpc_fs2xoowfZNg4yIQm2eIb4PTitCcZZUwpFZT3BORTPA75-hqDyAjaK_eDlY5ewMMh-2bXF44",
+        "width": 1280
+      }
+    ],
+    "place_id": "ChIJXZ9yrJaMK4gR0xZeS84Q1RE",
+    "plus_code": {
+      "compound_code": "FHHF+X7 Kitchener, ON, Canada",
+      "global_code": "86MXFHHF+X7"
+    },
+    "rating": 4.9,
+    "reference": "ChIJXZ9yrJaMK4gR0xZeS84Q1RE",
+    "scope": "GOOGLE",
+    "types": [
+      "storage",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 292,
+    "vicinity": "2444 Shirley Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4033297,
+        "lng": -80.4617983
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4045809302915,
+          "lng": -80.46048911970848
+        },
+        "southwest": {
+          "lat": 43.4018829697085,
+          "lng": -80.4631870802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Commercial Moving Services Inc",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ8ez2gGbxK4gRWzoO-HPlJbA",
+    "plus_code": {
+      "compound_code": "CG3Q+87 Kitchener, ON, Canada",
+      "global_code": "86MXCG3Q+87"
+    },
+    "rating": 4.5,
+    "reference": "ChIJ8ez2gGbxK4gRWzoO-HPlJbA",
+    "scope": "GOOGLE",
+    "types": [
+      "moving_company",
+      "storage",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 11,
+    "vicinity": "250 Trillium Drive #1, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4085635,
+        "lng": -80.4496511
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.40979293029149,
+          "lng": -80.44833516970849
+        },
+        "southwest": {
+          "lat": 43.4070949697085,
+          "lng": -80.45103313029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Universal Truck Rental, Moving & Storage",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 375,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106789707975363991662\">Universal Truck Rental, Moving &amp; Storage</a>"
+        ],
+        "photo_reference": "AeeoHcICXOvz9P5fnLtxOFWqT4YSwIUuYTlBhQIvaEzS8GMPLwI7DUAT8uuBNTGLR24kfRLvvPFRdHRrFrH5vinWGJxOBZ746J8OtHDpeDnw8q0TsPZmH3amx-o8KBQRrEtCCu-orJd_YZulSU5szMmYn_DsBI8fLAM40m5_71fgBywLadDFqwwgxf959-Ugf19_xv76GJ3-TEqnsgzqhEyfVNftFbI71buB5A85GRIGuZUN7CmzQWYJWDFyUNLs33VfKkdLfTrUU5Src1QI5lf18KNd0C5wQ1KeDG28xuY4-ys0WGs585f3hnqR8UcKuzS0bJdn786mcl0",
+        "width": 500
+      }
+    ],
+    "place_id": "ChIJf78su7aKK4gR9V2Ns8_nQAM",
+    "plus_code": {
+      "compound_code": "CH52+C4 Kitchener, ON, Canada",
+      "global_code": "86MXCH52+C4"
+    },
+    "rating": 1.3,
+    "reference": "ChIJf78su7aKK4gR9V2Ns8_nQAM",
+    "scope": "GOOGLE",
+    "types": [
+      "storage",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 8,
+    "vicinity": "227 Manitou Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4022964,
+        "lng": -80.4623642
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4037140802915,
+          "lng": -80.46072821970849
+        },
+        "southwest": {
+          "lat": 43.4010161197085,
+          "lng": -80.4634261802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Capital Traffic Systems Inc.",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112472138060324560760\">Capital Traffic Systems Inc.</a>"
+        ],
+        "photo_reference": "AeeoHcKr_FN-8EZUXlxnH07RbSNzdrdByr8UOpAkkr0pv7rNuKxwMNPimavUtZ1VWevYrv8vbv-deSzxiIME-q1Y83CT3yErNta1166ViBfCMqE7CIFJNFBgMuVkOOYv-iOnXV0N-JDxqhjyITnsQ9DNGuOf8jK0TSk5HyUt1wAVao8KYxzXShBrJbwJ7Gf9HS8u1SYJT4zzVkAMEypsNC64wA9TFkW3YRQGNYSyuBAJL8tKDWsoIGFG4cMYTTqaOUvix8UbqLEfe3sS1VpgfFzly8usES0q2c_EHv4eTeNya0W7gBrmtDEsiiL-XwAK91DaqpSwwx4QUCs",
+        "width": 900
+      }
+    ],
+    "place_id": "ChIJC5LVv8OKK4gREaBr5_Mh7hw",
+    "plus_code": {
+      "compound_code": "CG2Q+W3 Kitchener, ON, Canada",
+      "global_code": "86MXCG2Q+W3"
+    },
+    "rating": 4.6,
+    "reference": "ChIJC5LVv8OKK4gREaBr5_Mh7hw",
+    "scope": "GOOGLE",
+    "types": [
+      "storage",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 11,
+    "vicinity": "269 Trillium Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4653139,
+        "lng": -80.467428
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4669365802915,
+          "lng": -80.46556171970849
+        },
+        "southwest": {
+          "lat": 43.4642386197085,
+          "lng": -80.46825968029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Onward Manufacturing Company | Central Distribution",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ0Yz3Nab0K4gRolpdkkoUZrw",
+    "plus_code": {
+      "compound_code": "FG8M+42 Kitchener, ON, Canada",
+      "global_code": "86MXFG8M+42"
+    },
+    "rating": 4.3,
+    "reference": "ChIJ0Yz3Nab0K4gRolpdkkoUZrw",
+    "scope": "GOOGLE",
+    "types": [
+      "storage",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6,
+    "vicinity": "6 Shirley Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4006651,
+        "lng": -80.4725423
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.40213043029149,
+          "lng": -80.4712025197085
+        },
+        "southwest": {
+          "lat": 43.3994324697085,
+          "lng": -80.47390048029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Baird Moving Inc",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2992,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111970719074596540369\">Tim Ryeland</a>"
+        ],
+        "photo_reference": "AeeoHcIAyo_nZFY6VjmYk0piniZX4Uci-MoiOb0uSKILPfZUebmCj6pjKrKg8KV27oDDBMcDF11f_kiyfwuaKBfU5FOfgPFieyljs_icXwje2IRQFbInotORWebqB4fWpQZzMJ9BVkaVkkIGnpRhARwHF45r5aYxIYui9L9NZK6HQHHN_9CufJ1VR208D8HRvv_YPIbCYQ-vG7uAhA8Nccz35TLzDX3Bl8PR14uq4lBi-B0SjEiYl_jtdQYKMMYHKndeDlWZypBAKbh1AZx-leV__yxzgn7BfUtt14YQrtEYBd6oXfF1RI8ZxjCbMeQDMDluaVKc__IjbCdu_WOL3FDTNfJVBqxmd8CM2n-Ka5X8KmLMUhZi1PBJrwFHUVG0CRJUQb01KShsNMgckIenTMgr0Vlp6M9F1DAVSzJLd3nXLGFCxD6Roy5jf_eFrhwDCsFO8xGxqyOC4Llll-_9u77Axd6qQCl350RG_SJmPZ5Jle8LujpBaL76AIZztah4woUxfOMup8ToHPaL0turooqlzB0r80ZzN0s1EsjV8CVvo4LOWsIm_CSer1rjz2VhVJbUT2cbl3p9NiLrfEy_mKO_S9m76_KfwPGs5EA3saa8BzHjXnjJ-yY6iMcf-dlAkOTvurvWPg",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJD3atRVz1K4gRChsejM0uEJM",
+    "plus_code": {
+      "compound_code": "CG2G+7X Kitchener, ON, Canada",
+      "global_code": "86MXCG2G+7X"
+    },
+    "rating": 4.2,
+    "reference": "ChIJD3atRVz1K4gRChsejM0uEJM",
+    "scope": "GOOGLE",
+    "types": [
+      "moving_company",
+      "storage",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 32,
+    "vicinity": "550 Trillium Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47167269999999,
+        "lng": -80.4382693
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47349788029149,
+          "lng": -80.4372296197085
+        },
+        "southwest": {
+          "lat": 43.47079991970849,
+          "lng": -80.43992758029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Self Storage Plus",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 310,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114425160425489114951\">Self Storage Plus</a>"
+        ],
+        "photo_reference": "AeeoHcIOr6fy76rehtQwtbLWrbfe3JJzasZ0YJbrVoqHLdc8LuYUl_P_Fdowk3livULXvPK4xc-DMI0oO_jjpJ7yNkm1HBQbmYk6-XQCxC7QnpLIBG7eTYatjZdzepEhIECfzM_Mqb2CIDueJaqJxaOLw86ekS0TOE85mMDGJMNW1NgmS1DZVDPQMEVYRwWDeaihLZjRafQCpd8ea91rqD14_ZaNeUxc_aWCql4UOc4bOgqmryd-_G-JLN_m-AXTsev_l6SjpOQZ5ai11XarW-shcHt0g2Y2o8qfbZrOKGH5BSGuwbyqINBuoAuWjQ9T7NNCPlooZSfPvX8",
+        "width": 676
+      }
+    ],
+    "place_id": "ChIJe_UOjaOMK4gRV8A38Ko3-Gs",
+    "plus_code": {
+      "compound_code": "FHC6+MM Kitchener, ON, Canada",
+      "global_code": "86MXFHC6+MM"
+    },
+    "rating": 3.9,
+    "reference": "ChIJe_UOjaOMK4gRV8A38Ko3-Gs",
+    "scope": "GOOGLE",
+    "types": [
+      "moving_company",
+      "storage",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 12,
+    "vicinity": "1545 Victoria Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44145899999999,
+        "lng": -80.47384559999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44267878029149,
+          "lng": -80.4722143697085
+        },
+        "southwest": {
+          "lat": 43.4399808197085,
+          "lng": -80.47491233029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Access Storage - Kitchener Central",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1050,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112876241486690220032\">Access Storage - Central Kitchener</a>"
+        ],
+        "photo_reference": "AeeoHcJIceENX72-Ye6TLu_BU-umPGJSMK8FuBtdVmUtq64RY9gnJjjBEijzHivdTMBGVGVtqnEVh2Up8rmCzS7CcDTIWq2oZvLDo-D14deECt4tsDn01OMVraVhe_1hCdcUMhMvAdRXk4aXAupnqglCYSIs_eomHTciXMrJva9Kd8y6GJoQ8eESeDZqGYwtGbXTpx9UgB-2HLug4SWDYq3eYu1inPJdEk5DAI1QpdJhGGaSa9d2AAmzK8V8ehxXIvUC3awISvSDObSoS4yXwiaTCM0VUX1ki_mCS0keoii0LLeoi1IJXALEQEPTdn5_1ciryqr0T-P6tbk",
+        "width": 1461
+      }
+    ],
+    "place_id": "ChIJl85ITcP0K4gRGtd4vRq9fHM",
+    "plus_code": {
+      "compound_code": "CGRG+HF Kitchener, ON, Canada",
+      "global_code": "86MXCGRG+HF"
+    },
+    "rating": 4.7,
+    "reference": "ChIJl85ITcP0K4gRGtd4vRq9fHM",
+    "scope": "GOOGLE",
+    "types": [
+      "storage",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 367,
+    "vicinity": "50 Ottawa Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4499365,
+        "lng": -80.4904389
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45143798029149,
+          "lng": -80.4889732197085
+        },
+        "southwest": {
+          "lat": 43.4487400197085,
+          "lng": -80.4916711802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Kitchener Waterloo Movers",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1431,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113444682802370028699\">Kitchener Waterloo Movers</a>"
+        ],
+        "photo_reference": "AeeoHcLxLCLJSiHpFQAONmwK3kcvoO09MRrT6HT1p0QbFMliWSMMZHaE3631zwBbw7W5bKbC5cyDIGKpD-2nTtUlZIQvtaUbc-iHyv-DaTT9bESd9JG1exaHeLZ91xD5heesmPX-iW2IxHiOZ63aSA39U238HTOWJ9IOvjS3OFwq2qJQPO4_AIF0nmqlEo2DpNXFLICyXWeGFBQ9muL4ebCi4DFT6fmOR8UauCZKlCtb3NQAaAgzoO4MWsb3N_rRg1Lc6nQhpZ7niG2qLLcQNna-uhZYFEdAVAy8_4JxyYpT5NCTFS-LCtw0LI0RPm483y8o8dK5bbdqwg0",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJfQ2uQUUrK4gRXf4zBkyPkg0",
+    "plus_code": {
+      "compound_code": "CGX5+XR Kitchener, ON, Canada",
+      "global_code": "86MXCGX5+XR"
+    },
+    "rating": 4.2,
+    "reference": "ChIJfQ2uQUUrK4gRXf4zBkyPkg0",
+    "scope": "GOOGLE",
+    "types": [
+      "moving_company",
+      "storage",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 10,
+    "vicinity": "55 King Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4627411,
+        "lng": -80.51032909999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4639694802915,
+          "lng": -80.50888971970849
+        },
+        "southwest": {
+          "lat": 43.4612715197085,
+          "lng": -80.51158768029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "KW Safe Storage - Self Storage Units in Kitchener Waterloo",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 270,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111582994747880309566\">KW Safe Storage - Self Storage Units in Kitchener Waterloo</a>"
+        ],
+        "photo_reference": "AeeoHcIUYbBP8gPar3DzkO5viaJmlO4gYbkDr3Kl6qvQH4vmiYGz9nG8iaklntCJX0lE3BtjtC1tEeKbgtJUDWc9_b8yGe9rQ7u3uP2c7B3xBMLw4A4rs3WGg-l2oEs6t-nLwpNcXtUBoW4sUBTUVhewhwihtZG8MHTmHuj5XlmpgShbpq_qVRBgEcCAs4ZMMoYePq4T_T9x4cFEXqI7ePIBtdm1-8n3X6qWyjTuCB-kYSemxWn5zFce0LBej3MJ-DTNmWeqsTN_YNbQsRA5B1KgphiGGHUA1N_TytvKQCHV8ldYCQDjdwmfprqGthgiJXiaPpwSESeuVas",
+        "width": 480
+      }
+    ],
+    "place_id": "ChIJdaATXGX0K4gRWC2kYz0BLEc",
+    "plus_code": {
+      "compound_code": "FF7Q+3V Waterloo, ON, Canada",
+      "global_code": "86MXFF7Q+3V"
+    },
+    "rating": 4.8,
+    "reference": "ChIJdaATXGX0K4gRWC2kYz0BLEc",
+    "scope": "GOOGLE",
+    "types": [
+      "moving_company",
+      "storage",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 70,
+    "vicinity": "136 Moore Avenue South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4656952,
+        "lng": -80.47928639999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46781845,
+          "lng": -80.47703605
+        },
+        "southwest": {
+          "lat": 43.46498745000001,
+          "lng": -80.48062984999999
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Access Storage - Kitchener Woodside",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105455178583530767148\">Access Storage - Kitchener Woodside</a>"
+        ],
+        "photo_reference": "AeeoHcKhSVkEOZQ_kqaZZw4PBmqVrtrAFSDqrzymA9LgEa4VWQTs6jZY6w4tMWKfnsjhTem9bdiybGAnqElrR5Wni7ZlXJG4Gcv6jIv8dYxHm4dZs_vVEO2NbK51uhcsbRog0NzliCu828l-ATSKiWrqtgCIfjV-Vm9nhR-C_ltK19WpK2fx0pBeiNGCUbAPXLlgMHLDmc6CXzCG4hNqwN8NqAwklDsshPrPW1BncyZszeyj4P0S49FJQuBMea7mj51PAXVn1AepmO6IZye3zw_kOuSphcgjZ2v2qVHI-zc78c2DIyd08_xaJgL-XD4mavAWXbU6LR02BfA",
+        "width": 1280
+      }
+    ],
+    "place_id": "ChIJzVDiap_0K4gR0KWImdCECV4",
+    "plus_code": {
+      "compound_code": "FG8C+77 Kitchener, ON, Canada",
+      "global_code": "86MXFG8C+77"
+    },
+    "rating": 4.8,
+    "reference": "ChIJzVDiap_0K4gR0KWImdCECV4",
+    "scope": "GOOGLE",
+    "types": [
+      "storage",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 224,
+    "vicinity": "891 Guelph Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4422521,
+        "lng": -80.49527619999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4436813302915,
+          "lng": -80.49454255
+        },
+        "southwest": {
+          "lat": 43.4409833697085,
+          "lng": -80.49747715
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Access Storage - Waterloo - Kitchener",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109570720125231096413\">Access Storage - Waterloo - Kitchener</a>"
+        ],
+        "photo_reference": "AeeoHcLiCFCBK7sT_3koW5eELqjTcYXetEDH8OmCa4FfeNao0qzjhKrtythCNe0eACOX2OS161-euAlCdJOQs6gdJHWRsLgg7I4Zg_dIxhSh8NXanL4biFn_2Eyc2VUEtcx3mM4nxXZei16qeoTtHB7nxvIe8mZ1JgnnP5CBWpC2RuNJQgG70bqHSL8ljcCXcKMshBi3UB2mgHzvXG2aWQw5p9NKjkbMRB_uuJPuuvDOeOlonaV9eJxy5DJL8Xhsq3kYwLlQ_1r2NYWaw1PPLm6u2a8cy133_sx7iAEw3AmfqeHNjmSE95gRp0oDr4BysiDt94Ir--jG0fw",
+        "width": 1280
+      }
+    ],
+    "place_id": "ChIJcZZsM_j0K4gR-z7ukuS3ZkY",
+    "plus_code": {
+      "compound_code": "CGR3+WV Kitchener, ON, Canada",
+      "global_code": "86MXCGR3+WV"
+    },
+    "rating": 4.7,
+    "reference": "ChIJcZZsM_j0K4gR-z7ukuS3ZkY",
+    "scope": "GOOGLE",
+    "types": [
+      "storage",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 248,
+    "vicinity": "675 Queen Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.39930529999999,
+        "lng": -80.4777622
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4006437802915,
+          "lng": -80.4762788197085
+        },
+        "southwest": {
+          "lat": 43.39794581970851,
+          "lng": -80.47897678029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Crown Courier",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118392836599019021159\">Crown Courier</a>"
+        ],
+        "photo_reference": "AeeoHcKKHfRnqO6GgKUdRh9VIYVmRcLZcWExD-HXuPoH6KZEoByVnqMf4XlvyqVA36M0QtHpBjev24P6dWYaitDXsw5QpE6x1fPXlt5JYbgEv6u9le1h9mXSGfZ_dyI8mPor4VMahsVmr45KTmSDCbXFNUqvxUaiOkoBRoEZWIXxqjPNrixcRGnaxqXwP8fAre9idMnlbhuzPArd2Lh89RHB9-AdoFjFqAwA3MN8GfVjH15eLp3yGZXFbyIY5rNzgeHjMuc1ddYVJOTmhmVM4vv-xgopiLCpNHUnkP9pcPPTzgtkk1SAgUIvjtlH5I-B3ZlS4RjwzbeEbbs",
+        "width": 1280
+      }
+    ],
+    "place_id": "ChIJlwN-8F31K4gRILaeVwB2gOY",
+    "plus_code": {
+      "compound_code": "9GXC+PV Kitchener, ON, Canada",
+      "global_code": "86MX9GXC+PV"
+    },
+    "rating": 4.4,
+    "reference": "ChIJlwN-8F31K4gRILaeVwB2gOY",
+    "scope": "GOOGLE",
+    "types": [
+      "storage",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 23,
+    "vicinity": "680 Trillium Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4932581,
+        "lng": -80.53401319999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.49462638029149,
+          "lng": -80.5327025197085
+        },
+        "southwest": {
+          "lat": 43.49192841970849,
+          "lng": -80.5354004802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Schooner Self Storage",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 904,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112159157470426237864\">Schooner Self Storage</a>"
+        ],
+        "photo_reference": "AeeoHcJztkF8Awthz1tcYnvezUig5arRJa9uD80zym5WTTmaB8nP0Wg3FTPnLTw_gJN8HACV0sUq9a2cVNPc_5vOx7QQzgF9ic_4YYAODY5FC9a7DRn9IzPR8Y9Rkm906MSxhn1Ptg2mbbmageTmBXrThGYWDEUMk8ygNW7Tp5eRj12rfdH5VtNFpz16QbC7CBatkT_S-YIkP4xwnb2i9Hn6pkBZMR14ubGdfShNgOn4L_NL_c0vQLejOzv_Z3VnDS011-X0hKlgcPO6wZcwrNe90LbqaP3leYoKAfS5Ob_wGvZOZ7JhZQffvs9UcBUQdaiqsJGarXSY",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJXUVmpOfzK4gRNEx5lfC7pCM",
+    "plus_code": {
+      "compound_code": "FFV8+89 Waterloo, ON, Canada",
+      "global_code": "86MXFFV8+89"
+    },
+    "rating": 4.2,
+    "reference": "ChIJXUVmpOfzK4gRNEx5lfC7pCM",
+    "scope": "GOOGLE",
+    "types": [
+      "storage",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 31,
+    "vicinity": "70 Belcan Pl, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44635539999999,
+        "lng": -80.5161602
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4478336302915,
+          "lng": -80.5148995697085
+        },
+        "southwest": {
+          "lat": 43.4451356697085,
+          "lng": -80.51759753029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Space at Hand Self Storage - Kitchener Gage Avenue",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 683,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103326858062955170915\">Space at Hand Self Storage - Kitchener Gage Avenue</a>"
+        ],
+        "photo_reference": "AeeoHcLDc8_2F1juKF-wRxO-uiUdAHYF0IfDsQdiUUl28HYcPl1PeQefF2CyEcqe0EQm63KkaPla1XUi1jiQjsdNsJPqrwfooaMBYCXCSmYo6eqJaGeBQhE57u5OhXcjD_oBsBTkmK_pFC51LmFuTBuNftuBpwVIQgJ9gOZx29Uwv7koev_oTnsOWWp45bNAfBdaSbFTZyWAiIdYuv_2H8_kaf6zV2kqRswheyQZkbXkkusdQeygEj_7a9qpk_lKw2sOJMIerQN4jVPar1ufg3kdpYhn9tet7eIZExAmE8_udNM1OSvjPrZYkRUlS8ioM3nGQBlb3P5Txj4",
+        "width": 1024
+      }
+    ],
+    "place_id": "ChIJSW0A10X0K4gRdAJTJVRTAZs",
+    "plus_code": {
+      "compound_code": "CFWM+GG Kitchener, ON, Canada",
+      "global_code": "86MXCFWM+GG"
+    },
+    "rating": 3.5,
+    "reference": "ChIJSW0A10X0K4gRdAJTJVRTAZs",
+    "scope": "GOOGLE",
+    "types": [
+      "moving_company",
+      "storage",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 14,
+    "vicinity": "240 Gage Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4008413,
+        "lng": -80.4760041
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.40220673029149,
+          "lng": -80.4745649197085
+        },
+        "southwest": {
+          "lat": 43.39950876970849,
+          "lng": -80.4772628802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "USC",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2992,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111970719074596540369\">Tim Ryeland</a>"
+        ],
+        "photo_reference": "AeeoHcLPSuGx15Wa0lCHjwUWAxvmYPCuUxgg42Ixuppd1J_XBxcEt18hS4w3XxzlAa79farTomy_VU5i_ZXQBNOiVzHKg8XEuQQEM2M6GvB4MNpo4ucKfYSDyu9lglqI2RJbs6kKqqyVrY7m83mD9iGubD_j-_zEALOfIryz-NVdxAxbWe8AZjVVSS-3S7_pT9ypr-mcstbjUh0IHBRZWknCAM9ahm_W4d1_dhkNmSkgEb1WbpyxsIdmep1lnVcU0by3VDZLj5G6nT_BhOkEAjPk8gR34nSnkohxJ8_GA8pog9YkMZyM1x_m5bON6ZBlVN0djG1UL5dA8PM8jV9N1XDLYAAB4WGzwx_uVKCFAlPVcww7bouZ_s6glJmtHh6gncpPTq2-w-1-k1s-IAkuEkYByI5ayfc7valYpLMxA7fb-zJQOebHbVhj0hTqRt6_0r13_2fzgBDUAT6Jrz_iFOoti3sxMXaRAPvBtItgJrzxIqCieKIGnQ5RS8PzvxNvYTCQlNG-JoLQp2M2hGNqQYrHtsMrripIdXx8eSnIuQZFxHeO4weAEPfAUJc9emcmqd3_448BkrhfVwQCh8ZNXw96HzyUWgyHnXVzYB2-zykW9LnAPhS_PgiUo8XYlfeU9Ot1iV4Mcw",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJSwAoDV31K4gRAdwUFAfegUg",
+    "plus_code": {
+      "compound_code": "CG2F+8H Kitchener, ON, Canada",
+      "global_code": "86MXCG2F+8H"
+    },
+    "rating": 4,
+    "reference": "ChIJSwAoDV31K4gRAdwUFAfegUg",
+    "scope": "GOOGLE",
+    "types": [
+      "storage",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "43 Mcbrine Place, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5170406,
+        "lng": -80.573849
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5184005302915,
+          "lng": -80.57263166970849
+        },
+        "southwest": {
+          "lat": 43.5157025697085,
+          "lng": -80.57532963029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Additional Self Storage",
+    "photos": [
+      {
+        "height": 4618,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118351107485671881207\">Mark Zammit</a>"
+        ],
+        "photo_reference": "AeeoHcIMt8UoTM8LocIfEfHj0ytZdGbog50U3DlEJwGHTnBP-a4NkSx_oXppCnL3nJZOibVPgRl3Oqn4DqQipDFbhlR6XRMd7UqEOhBCXBtGeW6tKeT2dQ1LjRTEDxMisZVa6oZmUnwGZh6FQmLzmWBZdmrQFv9cUJDmaOdmqMyXFEyf98pOCSwoM8uzoy9K_b1KanQOkKi6jDMFjSFL2uPdDJ3Ygm7_gaZ7fcBKTwmSEm2ymFFLKYK0Pssyh0eu4Ffio1Kk93kWMle6xlUQbp71ygnCg4FpM61Ug4VfZC8rO43wQNEBBcPRpwyPRmt05s89X_uzi4LncTDrRCRkEJpGx2j6xRWo3QphlqnFmHXg7CVHaAHt5_u0qA4EPTSkjdSuLRieeU07kwtQpXly4wyI83rqk9u0AgsfxYl8b2RGfuqSiivOCSaw1LfCvRpEYGZ21hAMsib-2S1x97yOdVPWNBUAnSTml8H9S_mI-vnoGGEoaFGDTqn8sP1zobvTDPO4pqolGi7JCb3NfZHptv7qC0UrW_0a7GlDujnxVgrcfbFv3CCqg9SB_GN50tDPl8bDTKmqgPZgp8p0oOFE6FI8Id-dxKsunJotzxWNumVq0EgOFRHEe1Wla3u_zOZn8AJ3kKFLjQ",
+        "width": 3464
+      }
+    ],
+    "place_id": "ChIJf0AVcqfxK4gRPbonc9jFji8",
+    "plus_code": {
+      "compound_code": "GC8G+RF Waterloo, ON, Canada",
+      "global_code": "86MXGC8G+RF"
+    },
+    "rating": 4.5,
+    "reference": "ChIJf0AVcqfxK4gRPbonc9jFji8",
+    "scope": "GOOGLE",
+    "types": [
+      "storage",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 15,
+    "vicinity": "6 Bast Place, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.494644,
+        "lng": -80.53406679999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4960304302915,
+          "lng": -80.53247416970848
+        },
+        "southwest": {
+          "lat": 43.4933324697085,
+          "lng": -80.5351721302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Canada Moving",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106637887846687289129\">Gertie &amp; Wayne</a>"
+        ],
+        "photo_reference": "AeeoHcIy8sjpmrC161pSDKRC20Mk9fSSBQMPAmIPuVkEHO0kMbEdeMoYSgAnhDkY2kVvF9xN6ZVxJqHoUKT71iEyKg_ppcmb_WdHgV3dTfD7FG8p9K25977wkyyYXcU6oGkjcuZzNmptulUPcTdv07g-LVd7hbQ-z7dBJXHRt_vTwEOMc1szv8u7vuHUDPfUR9PUpTp5F46C7P4dcKh2fC0PhZCdd2g1lTdKo_9qneIFKt0OJ1WUrVMD9q-4rgarf-eQapAubYDZw3gLqor67Pj56aaMYbq_9x8kvgRdZ-nLUmkI3QrJqV_u59SSkuH6en_hqjaQZtipt7PdaSpuE-EWMXq7QTgZ38K2zg_oEQ7XB-1fDRZ17ky5JusfgEwCZTUmv4eOi0Rz23v0RWr7B-DhFAETKD6l3Uga_tfz82QQloupRJYFqubKlM1ybXIaXztxoaKwyssdQOog4Schu4CZCBItjC-THKaBHwpIQ3YZjoxDxp6TAl5e-Fm4AH1Dpc7s-Xd_qdOa9NCMtA11Uxp3Ol_HAs6MuMlHYWaxq8ymykb-5NzB3ch71MxSePuJ8qDzRrskUwnSMkQkPJsT2WyUVebZ_lU6vCp07BUg5wJx78txkxQ_i5vgn5DNN0Pos4EQA7RWEA",
+        "width": 3456
+      }
+    ],
+    "place_id": "ChIJJZRQ9NvzK4gR72Sb_Vh_SP0",
+    "plus_code": {
+      "compound_code": "FFV8+V9 Waterloo, ON, Canada",
+      "global_code": "86MXFFV8+V9"
+    },
+    "rating": 4.4,
+    "reference": "ChIJJZRQ9NvzK4gR72Sb_Vh_SP0",
+    "scope": "GOOGLE",
+    "types": [
+      "moving_company",
+      "storage",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 54,
+    "vicinity": "515 Conestogo Road, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46425800000001,
+        "lng": -80.52041
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46561983029151,
+          "lng": -80.5190643697085
+        },
+        "southwest": {
+          "lat": 43.46292186970851,
+          "lng": -80.52176233029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "A-Plus Office Movers Inc.",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2736,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112925489060011431727\">A-Plus Office Movers Inc.</a>"
+        ],
+        "photo_reference": "AeeoHcKl6hUbVhg8CaMOs-kFePq69h2elM68pbF0qw_zqCnfr_wK0nuVGJcYuiMixGDIuRaRqET4K5pgd2RedYGmHy3VgoNbptWtBoyrKgsACJ_WEYJVgKNSLzPrbWUGFh09_UmK56jfaxdFKda7UEGdGxtJAm1AXcAPkZATjzE9Pvwv3z3_LDFJcoq37t1xFLE1w42ta27Xffxc841DnflutH62Y-zKgo1qcp9kO3rmPlUMobxY83c6v9lHz2ElTALzb91U8BIIpdzE8bYDQF8NnrNsMaoOLLJqPwCsKQq7z4xYehq3Dtuu_Vm__Jd6d-hqn8O-TqM14Z4",
+        "width": 3648
+      }
+    ],
+    "place_id": "ChIJu_bqydvzK4gRlNY730AOBpA",
+    "plus_code": {
+      "compound_code": "FF7H+PR Waterloo, ON, Canada",
+      "global_code": "86MXFF7H+PR"
+    },
+    "rating": 5,
+    "reference": "ChIJu_bqydvzK4gRlNY730AOBpA",
+    "scope": "GOOGLE",
+    "types": [
+      "moving_company",
+      "storage",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 8,
+    "vicinity": "665 Colby Drive #6, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4648076,
+        "lng": -80.521577
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4661517302915,
+          "lng": -80.52025891970848
+        },
+        "southwest": {
+          "lat": 43.4634537697085,
+          "lng": -80.5229568802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Ecoway Movers Waterloo ON | Moving Company",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 900,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103091477801163240734\">Ecoway Movers Waterloo ON | Moving Company</a>"
+        ],
+        "photo_reference": "AeeoHcJEquQAr9UTa2GQuDEm0UBGU0dqDZLG2xb5sL3ZuPacYu-6pENbRi7rewcQ8d_U1nOUz4qOT5gvpDz4Q8tBkPoS4XV7GBRFozWTMa_nud5uL5Xljt-JKtS-yS_gO7l1BopV42Zya6eorol0dDSjby6LlMSUX8yEaGOkdPamxP-5hzEfYwQAhVldyhrScywp3ddTSMH_6rm6_Rt84SCusy-ARzxKmEnDtcvk0A9Ox1u2q_RbJj8MoUXpecSJG0RtN-3C039oqR5zFTtL9jQmrXcHNkdR_x3KbMQjJRu0ANHhbxQ1tOfhgKcT4OjpW_AmZMtm5Q8Vcpo",
+        "width": 1200
+      }
+    ],
+    "place_id": "ChIJdQsYkebxK4gRrWiw5iL_Xm0",
+    "plus_code": {
+      "compound_code": "FF7H+W9 Waterloo, ON, Canada",
+      "global_code": "86MXFF7H+W9"
+    },
+    "rating": 5,
+    "reference": "ChIJdQsYkebxK4gRrWiw5iL_Xm0",
+    "scope": "GOOGLE",
+    "types": [
+      "moving_company",
+      "storage",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 20,
+    "vicinity": "105 Randall Dr, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46468419999999,
+        "lng": -80.5219077
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46601048029149,
+          "lng": -80.5207141697085
+        },
+        "southwest": {
+          "lat": 43.4633125197085,
+          "lng": -80.5234121302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Metropolitan Van Lines",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJaXZjhlT1K4gRD05cW4wU8Gg",
+    "plus_code": {
+      "compound_code": "FF7H+V6 Waterloo, ON, Canada",
+      "global_code": "86MXFF7H+V6"
+    },
+    "reference": "ChIJaXZjhlT1K4gRD05cW4wU8Gg",
+    "scope": "GOOGLE",
+    "types": [
+      "moving_company",
+      "storage",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "#881, 22 King Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46229719999999,
+        "lng": -80.5020262
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4635588302915,
+          "lng": -80.5002009197085
+        },
+        "southwest": {
+          "lat": 43.4608608697085,
+          "lng": -80.50289888029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Public Storage",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101444796745227512390\">Public Storage</a>"
+        ],
+        "photo_reference": "AeeoHcKcu0OOVW2WxoVc91MGzYKUZ5paV-gkYzRoa9wI4fkgfpdjFlRjqhl_BTNdeXFfQ5P1528jmfpijupH6R9H9kDEVJ3VEyabz5rCnGP9VMElAjmZ30SvCXB17loOS8nFq77H8Hv3Yi6bz34H7rBqYweIR0i2AHGTgggBLBO2i8iJOVuMhZPXXngU68L2MoGGzKOIHWs2P7plU-_NIX6eXsNplQBy6_p6E1MoaoN90J-X0Wvy_M8HLxZjsYX4nLbOKIfvZnWz5IEAgkHny1JwP3yOgyYVDOZittFpk8wjN6B79qvAXcwXn6AD2KBC5uwYNnJSVQZ7D3o",
+        "width": 960
+      }
+    ],
+    "place_id": "ChIJpXzXy2L0K4gRMRtBublVDSo",
+    "plus_code": {
+      "compound_code": "FF6X+W5 Kitchener, ON, Canada",
+      "global_code": "86MXFF6X+W5"
+    },
+    "rating": 4.9,
+    "reference": "ChIJpXzXy2L0K4gRMRtBublVDSo",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "store",
+      "storage",
+      "establishment"
+    ],
+    "user_ratings_total": 755,
+    "vicinity": "409 Weber Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4781427,
+        "lng": -80.52318629999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4795688302915,
+          "lng": -80.52188406970849
+        },
+        "southwest": {
+          "lat": 43.4768708697085,
+          "lng": -80.52458203029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Joska Inventory",
+    "place_id": "ChIJ8eAHl_TzK4gRiLIJUyoGjrM",
+    "plus_code": {
+      "compound_code": "FFHG+7P Waterloo, ON, Canada",
+      "global_code": "86MXFFHG+7P"
+    },
+    "reference": "ChIJ8eAHl_TzK4gRiLIJUyoGjrM",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "storage",
+      "establishment"
+    ],
+    "vicinity": "300 Regina Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45406879999999,
+        "lng": -80.4995891
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4555796802915,
+          "lng": -80.4981529697085
+        },
+        "southwest": {
+          "lat": 43.4528817197085,
+          "lng": -80.50085093029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "CanCompare Movers kitchener",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 950,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100232531323172376258\">CanCompare Movers kitchener</a>"
+        ],
+        "photo_reference": "AeeoHcKwLTcwTu-mwWoWXLgOBt5TzQMkBQEjn57zc1kNATRvWqLn7BpgKHNkQQZe4KuoheJOdvAV2iC_z3LZLNdkZvptHNqFs1VOV60HtFHktb6za_NVW7UDZ6rauwOvLlN970h46pGbp5S1FAOU48yPABLpXkv9uQCs4v8al2_xnvLR9-9LiedZEaUQf_1PciM4GThDQkL1iizqAtCRWtaxDAUqN_McgFZMAdYdPq4JogYY8QImqobhge6YClC6ef9-oCYaUxcX0JywBjLGGFhAz7hURSvDkUTXh-G-y6YoixzKTPL2rqrm-UV4GQZwyipRGN9Y0BO_OoM",
+        "width": 1284
+      }
+    ],
+    "place_id": "ChIJ3Tkk6gDA1UQR5N_vBuZwNcI",
+    "plus_code": {
+      "compound_code": "FG32+J5 Kitchener, ON, Canada",
+      "global_code": "86MXFG32+J5"
+    },
+    "reference": "ChIJ3Tkk6gDA1UQR5N_vBuZwNcI",
+    "scope": "GOOGLE",
+    "types": [
+      "moving_company",
+      "point_of_interest",
+      "storage",
+      "establishment"
+    ],
+    "vicinity": "51 Breithaupt Street Suite #100, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4452928,
+        "lng": -80.5188311
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4467764802915,
+          "lng": -80.51741011970849
+        },
+        "southwest": {
+          "lat": 43.4440785197085,
+          "lng": -80.5201080802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Move It Right",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 807,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110905244421882962200\">Move It Right |Kitchener| Moving Company</a>"
+        ],
+        "photo_reference": "AeeoHcKe9tIUswr7vTRGZ4Uwr_FgsUxa_XgBXkZWa64RdyOiA3aDwfW7oc7qUOKUx_D-Whfpz83jr3oet18X4MK8_2FyUG1UelU5RtaPuLJB88WzRNFOw1xVp1OfLmk5KtGYpGPTIrhoobfOhhauCo8K0aptKr-qrIUPEPGapJcObitDEABvF3LT4fSKtU-tpveivi9l5mW0rBq1TOppIkWXqgA0fe4TYhCXXeqBNpP7s2Dd66HS8zliKyb50opVqd8O81vEQUyIdGCDTe4eUQ_hMmu1RHVoO-_J3KIrQQEHcS1RL4CFHByHMk_fIlO4iVqvabCi-MOOl2w",
+        "width": 1440
+      }
+    ],
+    "place_id": "ChIJx0YqWgj1K4gRW7FaSDTjdSs",
+    "plus_code": {
+      "compound_code": "CFWJ+4F Kitchener, ON, Canada",
+      "global_code": "86MXCFWJ+4F"
+    },
+    "rating": 5,
+    "reference": "ChIJx0YqWgj1K4gRW7FaSDTjdSs",
+    "scope": "GOOGLE",
+    "types": [
+      "moving_company",
+      "point_of_interest",
+      "storage",
+      "establishment"
+    ],
+    "user_ratings_total": 26,
+    "vicinity": "330 Gage Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4444588,
+        "lng": -80.5172284
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4459576802915,
+          "lng": -80.51597771970849
+        },
+        "southwest": {
+          "lat": 43.4432597197085,
+          "lng": -80.5186756802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Reship Forwarding Center #34",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ58QHa0T1K4gRJsxJhGOvFFA",
+    "plus_code": {
+      "compound_code": "CFVM+Q4 Kitchener, ON, Canada",
+      "global_code": "86MXCFVM+Q4"
+    },
+    "reference": "ChIJ58QHa0T1K4gRJsxJhGOvFFA",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "storage",
+      "establishment"
+    ],
+    "vicinity": "77 Brybeck Crescent, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4519504,
+        "lng": -80.4984592
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4532434302915,
+          "lng": -80.4971440197085
+        },
+        "southwest": {
+          "lat": 43.4505454697085,
+          "lng": -80.4998419802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Climate Controlled Self-Storage",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJESeWQ_X0K4gR03Q47q2MODI",
+    "plus_code": {
+      "compound_code": "FG22+QJ Kitchener, ON, Canada",
+      "global_code": "86MXFG22+QJ"
+    },
+    "reference": "ChIJESeWQ_X0K4gR03Q47q2MODI",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "storage",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.452125,
+        "lng": -80.4978972
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4534918302915,
+          "lng": -80.4965372197085
+        },
+        "southwest": {
+          "lat": 43.45079386970851,
+          "lng": -80.4992351802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "U-Box at U-Haul",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1224,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109003522556156739078\">U-Box at U-Haul</a>"
+        ],
+        "photo_reference": "AeeoHcJDHWlVgVAvdQq1NPpBDjfnK44o17egcet0VAor_SRjpaFtRRsYyCx-nadsnHEhZ0ouBT6bnvvUqis3l060kinYKwzKjPDjjaSCLfOPw6U0haeQAg6MPcWLL69-ZL59zGC5laxmo46ZGOxcGU9XIM-6yUqKmKEpirBm8a3gqKzbYfOoaKnyXbtMtXs0Gd9kDpxTY89N-RIpK3wE_Ak2gw2M8Dk3UU-PHSO9ITIQ4nTLOSIYfFlpZvSvtm8qgS9d8vzdSpR8mzMOb5CNJRwMyWs6n74VujonbDI51H-2ckFiMkrPW6w1SONn70lWEAMpipRMz-ytaTw",
+        "width": 1632
+      }
+    ],
+    "place_id": "ChIJhzWt6lj1K4gReukcfm7_DVQ",
+    "plus_code": {
+      "compound_code": "FG22+RR Kitchener, ON, Canada",
+      "global_code": "86MXFG22+RR"
+    },
+    "rating": 5,
+    "reference": "ChIJhzWt6lj1K4gReukcfm7_DVQ",
+    "scope": "GOOGLE",
+    "types": [
+      "moving_company",
+      "point_of_interest",
+      "store",
+      "storage",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "144 Charles Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.452125,
+        "lng": -80.4978972
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4534918302915,
+          "lng": -80.4965372197085
+        },
+        "southwest": {
+          "lat": 43.45079386970851,
+          "lng": -80.4992351802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Trailer Rental at U-Haul",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107921845391577083027\">Trailer Rental at U-Haul</a>"
+        ],
+        "photo_reference": "AeeoHcL3v9U6qXATy5g4YMo4Kony9CCgkBEWkYlyqAXxrpl5sP2AUEwNXHpSxQSEXMkskwhu1-yrly-Eyl-lLdjqiHp19xCVD_5Ku-yMrOCYerPemc3ENd-vIgf3FpMpGm7vkhExQsMv6j7ZEE94APFX8eE-e1swfLrhI3nOEmdb7VXV1NO5JaddqWlwxhBo-63Bty0zQQrlpoBurDjdUeqE250q5fdKB_gIBylcnSPUL0tdaLWcOUahbQVX2ndXdVtiUrCFN3rUH2gbrUVrVV_njuflMIKOHWmR_xnyF2xZVOWMVYdH2QfJtk1xWfn5AyXp8MQJtxfAd6c",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJXXD6vpn1K4gRaOT74UfADHw",
+    "plus_code": {
+      "compound_code": "FG22+RR Kitchener, ON, Canada",
+      "global_code": "86MXFG22+RR"
+    },
+    "rating": 3.3,
+    "reference": "ChIJXXD6vpn1K4gRaOT74UfADHw",
+    "scope": "GOOGLE",
+    "types": [
+      "moving_company",
+      "car_repair",
+      "point_of_interest",
+      "store",
+      "storage",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "144 Charles Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.452125,
+        "lng": -80.4978972
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4534918302915,
+          "lng": -80.4965372197085
+        },
+        "southwest": {
+          "lat": 43.45079386970851,
+          "lng": -80.4992351802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Self-Storage at U-Haul",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 533,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106201152436415913524\">Self-Storage at U-Haul</a>"
+        ],
+        "photo_reference": "AeeoHcIwuy5OEocksNA3AimF521YcU9KXYJYpNTfWgC9N52qtzhavlunJ081pjZBWEyAZ88dBl5Bc8inlu7-LeWqlj1bjWxplnI3lU1w0-fciXBSw5ooiC7hTTIXhmHXFa57KThci98uBKpW0VdQCgwnX_Rxzf4428DK7lKXkF5Rl-ymRvYPeMnLQcmvTrH32z_I1vZzv80xzGznU-zW1fIejnP38kj7VFyos47R6OyZtb2C6jmNQ-fMDpz63WcRfTrzjS2NcZbChPQO_aRfxiAobpm4V25MYg2vmVlgEfvOCdlJJ_9bk4dBTbf1otrWuKjPrjuwHJBuTYo",
+        "width": 400
+      }
+    ],
+    "place_id": "ChIJy8J_wC_1K4gRxf3uadunNuE",
+    "plus_code": {
+      "compound_code": "FG22+RR Kitchener, ON, Canada",
+      "global_code": "86MXFG22+RR"
+    },
+    "rating": 5,
+    "reference": "ChIJy8J_wC_1K4gRxf3uadunNuE",
+    "scope": "GOOGLE",
+    "types": [
+      "moving_company",
+      "point_of_interest",
+      "storage",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "144 Charles Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4816396,
+        "lng": -80.5405461
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.48288058029149,
+          "lng": -80.53944506970849
+        },
+        "southwest": {
+          "lat": 43.4801826197085,
+          "lng": -80.5421430302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Home Hardware Innovation Centre",
+    "place_id": "ChIJ9yxj4irzK4gRAn322DsuY2Q",
+    "plus_code": {
+      "compound_code": "FFJ5+MQ Waterloo, ON, Canada",
+      "global_code": "86MXFFJ5+MQ"
+    },
+    "rating": 5,
+    "reference": "ChIJ9yxj4irzK4gRAn322DsuY2Q",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "storage",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "440 Phillip Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4517557,
+        "lng": -80.49360229999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4529658302915,
+          "lng": -80.49233626970849
+        },
+        "southwest": {
+          "lat": 43.4502678697085,
+          "lng": -80.4950342302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Omero's Moving Kitchener Ontario",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105040189079449479764\">Omero&#39;s Moving Kitchener Ontario</a>"
+        ],
+        "photo_reference": "AeeoHcJ9j9KmEqcYPtAQ7AqVaMsjJRyj916MkoxqXxgJOGj59a1D0JmhpAk-uaH-CiFradGlkChYOkvOAzfNwH5935giqCgMiKaW8hl8eNuvdRnqMrwGF6NHMe2JXEitDYVCof-Ru27aSdVAvf7gLbT_bmSQFMbfFTLjSSIOREuVE-hsrs2CnS8vSgoq0rhlYIpZgcbXBY_o6QemE5CWTFtzwQ3KzI43_6ShW_zFw0KdWCwSF3jDSD7Efw5QHnpcGc-jkEc0W0-_HOEuquWESxp6iqoXpXl6dljqqWy3aHCiJD7YTvXWgOTWlV5BYQ-N7W23c4Y-AhRhtEI",
+        "width": 3072
+      }
+    ],
+    "place_id": "ChIJIZPlpmT1K4gRM6CqrSK_dnY",
+    "plus_code": {
+      "compound_code": "FG24+PH Kitchener, ON, Canada",
+      "global_code": "86MXFG24+PH"
+    },
+    "rating": 5,
+    "reference": "ChIJIZPlpmT1K4gRM6CqrSK_dnY",
+    "scope": "GOOGLE",
+    "types": [
+      "moving_company",
+      "point_of_interest",
+      "storage",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "250 King Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.450029,
+        "lng": -80.4878044
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45126743029149,
+          "lng": -80.4863980197085
+        },
+        "southwest": {
+          "lat": 43.4485694697085,
+          "lng": -80.48909598029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Panorama Windows and Doors Kitchener",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2667,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101745494477781883234\">Panorama Windows and Doors Kitchener</a>"
+        ],
+        "photo_reference": "AeeoHcKjm0xN7u1_Q03VeB8u5RbwC_7O2Nz7KSe1ts6wmP-535U4e-juZ2wfdT-3XOGj-6UjQsvZgY9jfqBCsDVJagJutLiTymIO-xmjH4D-WlZzKUKDtAgwe_eUNBKJEFMorVBta37We6PylPnnNhQdR4f_VNl2y9hrLzGFVsR6mACMon1jXmm6eo5uxtGk-N-Mm53_kV-QtCcZGS4-obJzPqv9Fh0Zeh1ES_8i-ZqZq35hpZimetxYNI6rwqmRFWFqjnfPwS7xytOkngWg6bbCo-P-mh6rSZff8dGuVXXqP_tgJHrWHZPpA6vv4YsVJK-6NmcvCQdanRE",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJGXBJJcT1K4gRO3iCtn2rs_s",
+    "plus_code": {
+      "compound_code": "FG26+2V Kitchener, ON, Canada",
+      "global_code": "86MXFG26+2V"
+    },
+    "rating": 5,
+    "reference": "ChIJGXBJJcT1K4gRO3iCtn2rs_s",
+    "scope": "GOOGLE",
+    "types": [
+      "general_contractor",
+      "point_of_interest",
+      "store",
+      "storage",
+      "establishment"
+    ],
+    "user_ratings_total": 28,
+    "vicinity": "22 Frederick Street #700, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4421438,
+        "lng": -80.4961337
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4436458302915,
+          "lng": -80.4948093697085
+        },
+        "southwest": {
+          "lat": 43.4409478697085,
+          "lng": -80.49750733029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Easy Moving Solutions",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4480,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110991725970587098860\">Easy Moving Solutions</a>"
+        ],
+        "photo_reference": "AeeoHcLSer8MX_r3NrCqN5ejakHcRaldBwKXcLAEC44SDqJeD4gVXkZQ1DypePv7aQt2JGTOOsVGFry17rkHEKpFsX68beCYloebhArOtbMe9hXFSRfAh_hHTa6Zq64JxBjRaEaXok4gv3yDo6QQVTHLx8u0RYFdyfVKmXMIlz0lKG-Fdr56Akx0HuGpyiTDrYAsf1KV6mVKXboVWuLkcuqAtGqchwTIN7w6IlCsyWHhSMbH_oJD2f8eCMWifRr5wABWHWfqKygFr5b19TbJCT0rWiuB4U-lGv3kgddTb_Zi3EfKOK8aOLYl8wAnOvECI-Pl-dNPzEIg_WQ",
+        "width": 6720
+      }
+    ],
+    "place_id": "ChIJc0ZBbdmKK4gR-DTGtVeYidI",
+    "plus_code": {
+      "compound_code": "CGR3+VG Kitchener, ON, Canada",
+      "global_code": "86MXCGR3+VG"
+    },
+    "rating": 4.6,
+    "reference": "ChIJc0ZBbdmKK4gR-DTGtVeYidI",
+    "scope": "GOOGLE",
+    "types": [
+      "moving_company",
+      "point_of_interest",
+      "storage",
+      "establishment"
+    ],
+    "user_ratings_total": 276,
+    "vicinity": "675 Queen Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4693737,
+        "lng": -80.4818555
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4706572802915,
+          "lng": -80.48074076970849
+        },
+        "southwest": {
+          "lat": 43.4679593197085,
+          "lng": -80.4834387302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "KW Storage Solutions",
+    "place_id": "ChIJtbEJhDD1K4gRXw0h0zvbedc",
+    "plus_code": {
+      "compound_code": "FG99+P7 Kitchener, ON, Canada",
+      "global_code": "86MXFG99+P7"
+    },
+    "rating": 3,
+    "reference": "ChIJtbEJhDD1K4gRXw0h0zvbedc",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "storage",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "108 Birch Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4707429,
+        "lng": -80.4813418
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4720289802915,
+          "lng": -80.48015671970849
+        },
+        "southwest": {
+          "lat": 43.46933101970851,
+          "lng": -80.48285468029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Delivery Guys Inc.",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 250,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109775772920550779312\">The Delivery Guys Inc.</a>"
+        ],
+        "photo_reference": "AeeoHcI3a_GxMKkctlwAKZKvJIUh7FxWcxSeAeJj84jg5vfnIcCYExUkKx3isSEEWsiyfFJrJDn4CjHB4W4z-h02F7n9ysZVWgmFuCOzShTIM39zqo-IiwBWyx9UqN2ztJJL-8iI9XvYAlT_Aupyn62kppxVKUZFOhnEFYoK1WRBYL5SyUqAYVNf3aAcRO2PBlScFrx4LAkES9mu3eRaKjBHrcB5BO2iEYcPNHZi0Z2MR1EdAJXrcf7dF0dTPCxYqGH0dyGJ2Mx0QdcWz-fVglzOke6D6fct9_bh4C69FangB9irmw4ZmeOBYDX56pJdlEuqMQorAKltfMU",
+        "width": 250
+      }
+    ],
+    "place_id": "ChIJFdgi57OKK4gRjp5fGK3BohY",
+    "plus_code": {
+      "compound_code": "FGC9+7F Kitchener, ON, Canada",
+      "global_code": "86MXFGC9+7F"
+    },
+    "rating": 5,
+    "reference": "ChIJFdgi57OKK4gRjp5fGK3BohY",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "storage",
+      "establishment"
+    ],
+    "user_ratings_total": 42,
+    "vicinity": "400 Maple Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.49344139999999,
+        "lng": -80.5218897
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4948191302915,
+          "lng": -80.52064516970849
+        },
+        "southwest": {
+          "lat": 43.4921211697085,
+          "lng": -80.52334313029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Kratos Moving Company",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 801,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112809006635574400986\">Kratos Moving Company</a>"
+        ],
+        "photo_reference": "AeeoHcJyt-Qp2VvuKgntlUFxQgxO-5IK96Y0clg2_8DVQDudmUCft3Wz-HdkpJXtz8ItZc4fgPVy-Nx8GOPAK9T-jQ-z0RBuyBWf1eHZyKQ3r75oUjk9rZQLBX2cU1rh2HV3AiRwWaXftSSU64hZw-SWUZdmO75jO0MPTVtLMdirrB_hCA66IMc-yN05jx-sHDUNGqIsTIOM52SaWNt63R_CxBJR_Rs6y8df41pFJLfsG7pbmlTBUneCqLnxkVicihps9lcZF2HCGaD_ztoAY8gpV9loMgrUf6-PktvhhvztvuBJRN7RThvhRlN3ro6zFnpTAFQHtwDa83E",
+        "width": 1421
+      }
+    ],
+    "place_id": "ChIJl718KavzK4gRNnEcce_8Ia8",
+    "plus_code": {
+      "compound_code": "FFVH+96 Waterloo, ON, Canada",
+      "global_code": "86MXFFVH+96"
+    },
+    "rating": 5,
+    "reference": "ChIJl718KavzK4gRNnEcce_8Ia8",
+    "scope": "GOOGLE",
+    "types": [
+      "moving_company",
+      "point_of_interest",
+      "storage",
+      "establishment"
+    ],
+    "user_ratings_total": 67,
+    "vicinity": "456 Kingscourt Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4695781,
+        "lng": -80.4804305
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4707702302915,
+          "lng": -80.47905031970848
+        },
+        "southwest": {
+          "lat": 43.4680722697085,
+          "lng": -80.4817482802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Access Storage - Kitchener Northward",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1050,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105440990437220230700\">Access Storage - Kitchener Northward</a>"
+        ],
+        "photo_reference": "AeeoHcLbDj4Wgh-rbkXKigsrnbWg23gX3Dtm-u_MRBtX1oeD-iW8Yc0HBpgK6QgWMJJxnNP7NUNb1j5gpCaDyRSgq9wHaO6IL8vmYCasVS72_bBHEH58t8bMQJfh3vCm22HNYVMlFRSnkrScEOm4J0_0V2KOUxDjciPIDhHLxi1Z-EmMttdOraGJ1hPyltIO5tR3m6zcG6hhSG7BUahyL1nc9Oq0w3r6ux_bW570I_9tpYsiDCoZtQZ_2Mqm2B_E_MFbr2BnltG4-wv6fEd84aw90rXjfUDr6KK-JlZdi0h8qZbVLLtJZz9JCpXa40zeQ2fZaqFEVa_zXUE",
+        "width": 1654
+      }
+    ],
+    "place_id": "ChIJp9L0ub_zK4gRt7wxZ6FYcbU",
+    "plus_code": {
+      "compound_code": "FG99+RR Kitchener, ON, Canada",
+      "global_code": "86MXFG99+RR"
+    },
+    "rating": 4.9,
+    "reference": "ChIJp9L0ub_zK4gRt7wxZ6FYcbU",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "store",
+      "storage",
+      "establishment"
+    ],
+    "user_ratings_total": 522,
+    "vicinity": "352 Maple Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4506278,
+        "lng": -80.4839871
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4518791802915,
+          "lng": -80.4827224197085
+        },
+        "southwest": {
+          "lat": 43.4491812197085,
+          "lng": -80.4854203802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Superior Mover",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1667,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102874363501309688044\">Superior Mover of Kitchener - Moving Company</a>"
+        ],
+        "photo_reference": "AeeoHcIkvm268gHS0MJU90ni3W_hJUPcJLfH0VY5LZxcYQbkiuOVrJZz7SFLowPAtdORtIL7cqOGGMzVzu5IQhG7x9_glx7V04ChxS5PlnIWL715OzlUbtzPvlVdYfgSGrNRctyvbr3a8ksKKFfHNWoLw-3Hc5KrKvtS97ZV9kY8Tn_AeneoRUE59owNQPu01sZ8kMEOOxm2akT8KZR0-G1GlaDrkio7O6dckAfqAxs0OAsRlJSFXRUseL2FiEr3wkq7vweJ1DZDpmSXdSrI6iA_zyqZPEuHwbgEh1NnC4oqgc135I16O5aQvSk-YRSlSV0CZA_3gngeW0Q",
+        "width": 2963
+      }
+    ],
+    "place_id": "ChIJLWs9Jc71K4gROMf10wqQA4E",
+    "plus_code": {
+      "compound_code": "FG28+7C Kitchener, ON, Canada",
+      "global_code": "86MXFG28+7C"
+    },
+    "rating": 4.8,
+    "reference": "ChIJLWs9Jc71K4gROMf10wqQA4E",
+    "scope": "GOOGLE",
+    "types": [
+      "moving_company",
+      "point_of_interest",
+      "storage",
+      "establishment"
+    ],
+    "user_ratings_total": 38,
+    "vicinity": "66 Weber Street East Unit 101, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4666313,
+        "lng": -80.4786793
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4681103302915,
+          "lng": -80.47739396970849
+        },
+        "southwest": {
+          "lat": 43.4654123697085,
+          "lng": -80.48009193029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "High Level Movers Kitchener | Moving Company",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110244268256372413301\">High Level Movers Kitchener | Moving Company</a>"
+        ],
+        "photo_reference": "AeeoHcLI5fsYRuxTCAqjwberqY0hS-_LqOeuMklzpMiZhJV4dtsecfkA4OfRyiVqGz0R4BneJ-rVNYoDuKyYF-J5EsV8rCsdsxb2IIVmFloLgaCCUBNVPmHYk0jhCkwzX3ChajqpOgu5Fq-zeRwYWPoTG0qpsKRE1QYKRffBhkDo-ct_SpPVkUWqByUFGUggumePIlwE6jOIYFVk_uYr-g6pN9oXnTRoGVRTfZNXoezD9045_1H68Fi-LtFL2DIcYcoXvFPblFft7isEQPNzFXlDu2v9Coxj6aRyJulqF49tIHe0nZISht-CereLSFSeA3JGfZ9kRiogasg",
+        "width": 1600
+      }
+    ],
+    "place_id": "ChIJWxQnsLT1K4gRv2KrFOaiWUw",
+    "plus_code": {
+      "compound_code": "FG8C+MG Kitchener, ON, Canada",
+      "global_code": "86MXFG8C+MG"
+    },
+    "rating": 4.7,
+    "reference": "ChIJWxQnsLT1K4gRv2KrFOaiWUw",
+    "scope": "GOOGLE",
+    "types": [
+      "moving_company",
+      "point_of_interest",
+      "storage",
+      "establishment"
+    ],
+    "user_ratings_total": 24,
+    "vicinity": "891 Guelph Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4806221,
+        "lng": -80.4850094
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.48191458029151,
+          "lng": -80.48377186970849
+        },
+        "southwest": {
+          "lat": 43.47921661970851,
+          "lng": -80.4864698302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "ALTBIN SELF STORAGE",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJBwBQfG_zK4gRZMRUuyyh_rY",
+    "plus_code": {
+      "compound_code": "FGJ7+6X Kitchener, ON, Canada",
+      "global_code": "86MXFGJ7+6X"
+    },
+    "reference": "ChIJBwBQfG_zK4gRZMRUuyyh_rY",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "storage",
+      "establishment"
+    ],
+    "vicinity": "20 Shirk Place, Kitchener"
+  }
+]

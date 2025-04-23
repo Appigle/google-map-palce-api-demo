@@ -1,0 +1,2562 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4719522,
+        "lng": -80.5390279
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4733062802915,
+          "lng": -80.53754316970848
+        },
+        "southwest": {
+          "lat": 43.4706083197085,
+          "lng": -80.5402411302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Waterloo Walk-In Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 6656,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114536697962809562771\">Waterloo Walk-In Clinic</a>"
+        ],
+        "photo_reference": "AeeoHcLRuhty5zKuHrKUz5R0euBB6TAv7Ak1a1G-8s20BT2aQmUcNW3pCtQU73rgo1U2dEvM_ET73lSdhdGAQPY0DYcT7rMoDPJ4CutFIkEoD8pAq3RlFtoi37wXhYx890tZGN5KKWKOCefFwSrxT7AwTR_gVc1bu8SAh9wjnPnH8q13D6opAM3bm6XAi-cGX5wv-YB2UJN7p2kQLU_OJ0DU4GavJFhxG79A4thY2k4OrIw2v_YC5WX_WFF-pzv2vVTEM8Fm4ICi604XFVJlHKXarYaAwiSmz-v0AK7Y4ejuTGmVRwWMzkDL-Nj6WGqwM2U5vMpZIEfmOAw",
+        "width": 13312
+      }
+    ],
+    "place_id": "ChIJQdQ9MgH0K4gRIfW8ouHsR0w",
+    "plus_code": {
+      "compound_code": "FFC6+Q9 Waterloo, ON, Canada",
+      "global_code": "86MXFFC6+Q9"
+    },
+    "rating": 3.4,
+    "reference": "ChIJQdQ9MgH0K4gRIfW8ouHsR0w",
+    "scope": "GOOGLE",
+    "types": [
+      "local_government_office",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1459,
+    "vicinity": "170 University Avenue West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4517589,
+        "lng": -80.4924168
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45339388029149,
+          "lng": -80.4909711697085
+        },
+        "southwest": {
+          "lat": 43.4506959197085,
+          "lng": -80.49366913029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Kitchener City Hall",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4564,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114290482632882768604\">Gryphon Hudson</a>"
+        ],
+        "photo_reference": "AeeoHcK4BFFtevAzMuyI5E2doS8V_yG_BS38x6x2pnPTnP0EQ8Gn4DMFW1Kq_bXI1ZNb2DT9yV9FnfOcdS0Mawn6uRJEpuqQY4w8ylLoQgPT2e-UBK59NarepVUJZezzJ2l2HHfUbWShpXo9oehdyCofLeBhqpBswUvMwlmjkZOZsAPOkyejsgptAW_mH3OCp0l67X2js1jTDwhZvamASPbjKTe7E8jZAbJL8pCDc-8qIaCcztJC1-J_VVOFgUQRCC8Yj5PGlw0tTPa_8FFd-Hmded5TU-vk2jRS7TpV78vkh0us1xC_RkHq1bY6l58XOLIRDNZ6PSAnVudtvPQD6J1_IHldf9QrZM0dp_f60QvWayakd2iq6eXnfvcM9u_edit4lIDPlwShAH3B33iqo5RJW8MzgeadJK7qsTQTasPcqhp0U7loNrUxcpTsDXpiVMX_AG9LbuOcFX6snpfRD6ZU4GKOf4gZatjdMPc8J6kg26cYatxj8eapiStlGsBEyLXIWWr6vVUXqyGzf476c6qoGrvxEmzLWNPTx_5Wyra0iqyyBhNGXdtwf2xW7oKLdQ7xTbkbCA7pZMSuNaRTVseV0qPTHg0gsQ0Pn6aVXOFLD01KpxKVdCZpYe_2eRYyr3DDcN1amhrN",
+        "width": 6846
+      }
+    ],
+    "place_id": "ChIJHb0SQvP0K4gRfXg4iSIxRZ8",
+    "plus_code": {
+      "compound_code": "FG25+P2 Kitchener, ON, Canada",
+      "global_code": "86MXFG25+P2"
+    },
+    "rating": 4.3,
+    "reference": "ChIJHb0SQvP0K4gRfXg4iSIxRZ8",
+    "scope": "GOOGLE",
+    "types": [
+      "city_hall",
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 252,
+    "vicinity": "200 King Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45109900000001,
+        "lng": -80.4848554
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45230393029151,
+          "lng": -80.4835688197085
+        },
+        "southwest": {
+          "lat": 43.44960596970851,
+          "lng": -80.48626678029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Passport Canada",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107228843544633114010\">Prashant Samantray</a>"
+        ],
+        "photo_reference": "AeeoHcLt34s77Lw0YVEBjzmf81NMol5ESCkoFOL5m6EqQo-QMcwGuY3vR28xmYc6fU3o6qT5Ql4oUsdhfqEt-AaV9NTPE8YunDhAYjW_tpZRmKEg0Vs_wkvkOY4WqWvKN1tm-wrZoTc3IquGL4eXrsuoRk0TKrxRIwmrxW0nl_JAQXvd_9XvA-kyE9zEcCoVpX3qGNRvcHP2NZrGWTCpJhPvHoY_-TYB7JPmjnjpp5gLRsLkkJaYLB9H3an7quAnwT3qZ_aRdzFTSPN9gJSSlhiNMgqkBAakup_IFfeeiS8La-IiwUcIKnTgD1pYwCs7AqBIrEsxNqlHhZzOPZ0hNfDvIHU2NVW5AXCz16NFGKhjQhglz_1uq5VGOKc9KaH48PWuqfl-Q_LryKbpbduJrzqO2uz_SKFiBolJ9uet1oQVXyxBYTi03moLuii_K-BZ8oihJO1g0UVvWaZt10JP4rtr3ERISavnZATmakxrDOGP90hdH3gLLAX4wnRNalattihtP8o82Ee6xkjlEPO-a_NPTqa6Ii2wic2txVJxTkTLSPJGRFfkMgYk-pW4LyFc0dQ66yu52diyTCF3tjTrtLZ4slI25e2D3Mx7QeNtXZlrUbRRLlyvo3AO_RT1OibTkISH1SpEVQ",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJH0W72-z0K4gRWZZVLVZ5CyI",
+    "plus_code": {
+      "compound_code": "FG28+C3 Kitchener, ON, Canada",
+      "global_code": "86MXFG28+C3"
+    },
+    "rating": 4.3,
+    "reference": "ChIJH0W72-z0K4gRWZZVLVZ5CyI",
+    "scope": "GOOGLE",
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 452,
+    "vicinity": "40 Weber Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4501669,
+        "lng": -80.48917929999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4513862802915,
+          "lng": -80.48792951970849
+        },
+        "southwest": {
+          "lat": 43.4486883197085,
+          "lng": -80.4906274802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Waterloo Region Small Business Centre",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114642011791541793882\">Waterloo Region Small Business Centre</a>"
+        ],
+        "photo_reference": "AeeoHcJ_mQsodqKsVYRzGep7XS9QX9pQZzbLEEUTBqW9PhjhDpcmuikb28DUViZVdkKFPAk4vUvLcGiVI4BJUF2ibIef6xiYfAor3BPqsB_2PGmsqRVGwcKkbXF-lytusO7DLD9SHLiwYr_oI8K2oXkHK7JwQhvRUjEgh59ZtNXCGbWZpVyLCxR7C-_jljBUyigyhJ0aD6uiMXQitiXMZO24E1LWRMUNitSRXX3cDTjwzol0v8bMF-xngKH4ggo702O_kbxHa3mj1O3CS6AjNob0sRVAYXjzwgIdA_HY9QD09nd0NnKDevEvCnyrAFaATSWvoOX0qhqr1y8",
+        "width": 4160
+      }
+    ],
+    "place_id": "ChIJHb0SQvP0K4gR8qHOITJ6sE0",
+    "plus_code": {
+      "compound_code": "FG26+38 Kitchener, ON, Canada",
+      "global_code": "86MXFG26+38"
+    },
+    "rating": 4.6,
+    "reference": "ChIJHb0SQvP0K4gR8qHOITJ6sE0",
+    "scope": "GOOGLE",
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 12,
+    "vicinity": "2 King Street West Suite 100, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.49451359999999,
+        "lng": -80.5372752
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4958053302915,
+          "lng": -80.53601211970849
+        },
+        "southwest": {
+          "lat": 43.4931073697085,
+          "lng": -80.53871008029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Brian L Shantz Ltd",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ-1b1tODzK4gRB7bvV63IC3k",
+    "plus_code": {
+      "compound_code": "FFV7+R3 Waterloo, ON, Canada",
+      "global_code": "86MXFFV7+R3"
+    },
+    "rating": 3,
+    "reference": "ChIJ-1b1tODzK4gRB7bvV63IC3k",
+    "scope": "GOOGLE",
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "490 Dutton Drive b1, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4628506,
+        "lng": -80.52086779999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46422468029149,
+          "lng": -80.5193357197085
+        },
+        "southwest": {
+          "lat": 43.4615267197085,
+          "lng": -80.5220336802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Infant & Child Development",
+    "place_id": "ChIJPwk2OQv0K4gRbD1fYprU2Q0",
+    "plus_code": {
+      "compound_code": "FF7H+4M Waterloo, ON, Canada",
+      "global_code": "86MXFF7H+4M"
+    },
+    "rating": 5,
+    "reference": "ChIJPwk2OQv0K4gRbD1fYprU2Q0",
+    "scope": "GOOGLE",
+    "types": [
+      "local_government_office",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "99 Regina Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45448270000001,
+        "lng": -80.51902009999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45586488029151,
+          "lng": -80.51757236970849
+        },
+        "southwest": {
+          "lat": 43.45316691970851,
+          "lng": -80.5202703302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Ledgers (Kitchener)",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 460,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111371239313211870032\">Ledgers (Kitchener)</a>"
+        ],
+        "photo_reference": "AeeoHcI2yHnj18vcA3QOXuNdrOMN9ejI8lVitq_2Dr0c48ZjABzFPgDJ6luvuSKjCCJk8D0-Dw3USjNxZplOn8QbgvZqgspOGkiz8xiSZZM2fH_zdTKsP32FWooFXyKyqYBIq2p2sDp1M6Q5rcqizdX0pUpLrjjdIPhsfap1nvM4pLci7zkr2bOS24l9t_WfR3tvn0SSp-VkiBfOUB3LP50fRLX57Sx01eXXsVKgfCcM_S8gskD67W6kfce0YTXMEB2lbwOj5yhfpcC6qwDczpJxx8OXaDWySp1YfyOem9nDNvyI4VqUQVsEeKcuzlts60YRVOVgT6Bresk",
+        "width": 460
+      }
+    ],
+    "place_id": "ChIJb0zmjLz0K4gRxDiuogm66bY",
+    "plus_code": {
+      "compound_code": "FF3J+Q9 Kitchener, ON, Canada",
+      "global_code": "86MXFF3J+Q9"
+    },
+    "rating": 4.9,
+    "reference": "ChIJb0zmjLz0K4gRxDiuogm66bY",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "local_government_office",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 24,
+    "vicinity": "737 Belmont Avenue West Suite 3, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46336899999999,
+        "lng": -80.520139
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4649000802915,
+          "lng": -80.51888381970849
+        },
+        "southwest": {
+          "lat": 43.4622021197085,
+          "lng": -80.52158178029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "City of Waterloo By-Law Enforcement",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ9UDJJJP0K4gR6i9jO2EJp1c",
+    "plus_code": {
+      "compound_code": "FF7H+8W Waterloo, ON, Canada",
+      "global_code": "86MXFF7H+8W"
+    },
+    "rating": 1.8,
+    "reference": "ChIJ9UDJJJP0K4gR6i9jO2EJp1c",
+    "scope": "GOOGLE",
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 32,
+    "vicinity": "100 Regina Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4632454,
+        "lng": -80.52010949999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4645609802915,
+          "lng": -80.51899376970849
+        },
+        "southwest": {
+          "lat": 43.4618630197085,
+          "lng": -80.5216917302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Waterloo Information Systems",
+    "place_id": "ChIJW_s4P230K4gR6cZEGg7be0U",
+    "plus_code": {
+      "compound_code": "FF7H+7X Waterloo, ON, Canada",
+      "global_code": "86MXFF7H+7X"
+    },
+    "reference": "ChIJW_s4P230K4gR6cZEGg7be0U",
+    "scope": "GOOGLE",
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "100 Regina Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4629081,
+        "lng": -80.52080289999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4642769302915,
+          "lng": -80.51930931970848
+        },
+        "southwest": {
+          "lat": 43.4615789697085,
+          "lng": -80.52200728029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Region of Waterloo Public Health and Paramedic Services",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1465,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116904170041930054649\">Region of Waterloo Public Health and Emergency Services</a>"
+        ],
+        "photo_reference": "AeeoHcIPHMhuNJl5ds1sn0QNkgGfWbqTsaO6wDJ8FFNlAb7nLNnHSyAXPqLJLljfSjqiZBy2-HzOVe37O-3ujdw323NobbK4758TF6yYpQwcjVo93yg1iYDhjbuMkfjxMnBLhMTyjsLKMWAVkRoBhvtzubUfQ5dQ18QpjC4Hi7QJV9N4mocy-KHinQTrhhGXFxrlPCyLS2-tzd_WOIhDZI04dShA6jw2AS4YJMvdwnZ0yUGOWjZ9Jmt-cSeAhIbxNITlqTGNl20-lwgoN9-MyGyZosWM7Av-Aqo72sWi6pGhdiH2X1aWJsd7SIORjGPopiaA9wHEobCY-to",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJn9fGPG30K4gRRpH04euF12A",
+    "plus_code": {
+      "compound_code": "FF7H+5M Waterloo, ON, Canada",
+      "global_code": "86MXFF7H+5M"
+    },
+    "rating": 2.5,
+    "reference": "ChIJn9fGPG30K4gRRpH04euF12A",
+    "scope": "GOOGLE",
+    "types": [
+      "local_government_office",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 39,
+    "vicinity": "99 Regina Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4705902,
+        "lng": -80.5228295
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47195118029151,
+          "lng": -80.52136896970849
+        },
+        "southwest": {
+          "lat": 43.46925321970851,
+          "lng": -80.52406693029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Waterloo Dental Svc",
+    "place_id": "ChIJX_AoOQv0K4gRXlY49Furzd4",
+    "plus_code": {
+      "compound_code": "FFCG+6V Waterloo, ON, Canada",
+      "global_code": "86MXFFCG+6V"
+    },
+    "reference": "ChIJX_AoOQv0K4gRXlY49Furzd4",
+    "scope": "GOOGLE",
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "99 Regina Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4639295,
+        "lng": -80.53292669999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46548608029149,
+          "lng": -80.53121111970849
+        },
+        "southwest": {
+          "lat": 43.4627881197085,
+          "lng": -80.53390908029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Waterloo Arts & Culture",
+    "place_id": "ChIJAQAAnBr0K4gRLCEZpJc_2rk",
+    "plus_code": {
+      "compound_code": "FF78+HR Waterloo, ON, Canada",
+      "global_code": "86MXFF78+HR"
+    },
+    "rating": 4,
+    "reference": "ChIJAQAAnBr0K4gRLCEZpJc_2rk",
+    "scope": "GOOGLE",
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Kitchener-Waterloo Kodiaks MSL Lacrosse Team, 101 Father David Bauer Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4509118,
+        "lng": -80.5135779
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4525012302915,
+          "lng": -80.5126591197085
+        },
+        "southwest": {
+          "lat": 43.4498032697085,
+          "lng": -80.51535708029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Regional Tourism Organization 4 Inc",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117823406383089305701\">Regional Tourism Organization 4 Inc</a>"
+        ],
+        "photo_reference": "AeeoHcLJz-eLa74xFlenVlGtZTggxu9l-ikSMxvES4jCnLgfLmUOofaGJVgINWE762_E83ZUbyiHfmmel6IQ6Ly7h7SC609AvUTN-GhBrvSIb3AYKGbKz4Ks3es-Y1XuTzsTbIy-mO2q08XrqnHZwfupgPudliCEGAQqgFcTnFVSNpi2EuQ3rmQJ9hNn4QIlGreKcAzxJZohsn7FYetGyGuKU7RcAmQbjn_z7qwG4Mlxl6zxLyMT7f-dsQIeRvkd5Lou2Y9lXLWHd_qdrsgxjRALr7wppooeEzsJ0Bz3msCuSMu5JmLTuP8g14LZyRslIoPlQeKRZuiyAGU",
+        "width": 1000
+      }
+    ],
+    "place_id": "ChIJZxJzvMutLogRf3WOz_WLa98",
+    "plus_code": {
+      "compound_code": "FF2P+9H Kitchener, ON, Canada",
+      "global_code": "86MXFF2P+9H"
+    },
+    "reference": "ChIJZxJzvMutLogRf3WOz_WLa98",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "137 Glasgow Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4802267,
+        "lng": -80.52338329999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4816030802915,
+          "lng": -80.52192101970849
+        },
+        "southwest": {
+          "lat": 43.4789051197085,
+          "lng": -80.5246189802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Domus Housing Office",
+    "place_id": "ChIJq2iMtjD0K4gR653ghZJHJJI",
+    "plus_code": {
+      "compound_code": "FFJG+3J Waterloo, ON, Canada",
+      "global_code": "86MXFFJG+3J"
+    },
+    "rating": 1.2,
+    "reference": "ChIJq2iMtjD0K4gR653ghZJHJJI",
+    "scope": "GOOGLE",
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 21,
+    "vicinity": "#7, 295 Weber Street North #7, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4865738,
+        "lng": -80.51779300000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4879784802915,
+          "lng": -80.51646686970851
+        },
+        "southwest": {
+          "lat": 43.4852805197085,
+          "lng": -80.51916483029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "ServiceOntario",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110247988637539420752\">Kian Ming Aau</a>"
+        ],
+        "photo_reference": "AeeoHcJYbfFsho2aKt0aNyB7rJt39M2PzgRAEIB1G3eSt4qFU1gnYDQLmeb1qflFgaPAH1kUJsGwUQqZB4mzNzfczdtCOW7eOjuKM6lYRzFRYAw10oGm3ZYLPP0ndyAHuNPwWOzjmaZjWPukTWJMCdxq1qD4XlfAEUE1yoYekEXLrNaQklt47Lbj60z44YceNinehPtFWaCqqvmSVET8Lr2455ebcgDgni_DETu135j-sC0y8bpLUgL2cRZxA_8LNlrfpwN4OoorPkHVggDSgvdT0b8Jr2WHzcFxcATK2AT70Bahf9QepLuJVXfcceClN7elQCa-beEe1pAkaY8lSxoSFKKPqnfVpQIoR2-mJKs5UnM_6JqGRvGQiXHBEWYxFmjrSBwYT61tXWeqlOco0jwAPITJTc8wPcdkRfYVwQGtAtxfz3aqlfMEMbEGsnBbDqHd3l94i2uKF_cM4UKh_DBrNnhKI-CC5Gblpuyk5Q1IZUuY55T89mCi6R8BkECZD7oJF3hitAJLhdEOO3IhnAAuHfYtYJ5wUl5GUTOtWtPyxNbQrSqpCVqVxL5_Iq3pLyeE0GRoPkN3wZq56I-PC_VOgriQUC0qnUxIz_RNfTQh5jianQ-V31x5nifvdJySBge7b4vIHufU",
+        "width": 720
+      }
+    ],
+    "place_id": "ChIJKb3b65PzK4gRFU2EiDf3YpI",
+    "plus_code": {
+      "compound_code": "FFPJ+JV Waterloo, ON, Canada",
+      "global_code": "86MXFFPJ+JV"
+    },
+    "rating": 4.1,
+    "reference": "ChIJKb3b65PzK4gRFU2EiDf3YpI",
+    "scope": "GOOGLE",
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 476,
+    "vicinity": "105 Lexington Road Unit 16, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4515477,
+        "lng": -80.4950016
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4527762302915,
+          "lng": -80.4937419697085
+        },
+        "southwest": {
+          "lat": 43.45007826970851,
+          "lng": -80.4964399302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Perimeter Development",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 689,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109390414217154189399\">Perimeter</a>"
+        ],
+        "photo_reference": "AeeoHcJgRItO--y8SBgi3RnP8VyK3JxZtXbSslDhaMvgj1cZhauknhYUzA_HFR6WbgONyd9P9A1yx6rbHqE2DiFNW9jht_MlYcP_8DBtSb0J5TltXPd4BgVYwnONufEnDx8rLg8pA8_Sw0kRZukicxHEOO-oDG9GcSBiaubNq7sjVqeJRylsqTLMwh_9sQgXDy0Lv-1d3u1knfnTToOp6KHh1kq_olXd0HTzX6mSZlVy17z6zwAAyLXuMGZBBSv3HlG0U7udCtlFNBHuGTvRzS8rYOZY_d1XpAlEDavVQ0Z4iKyDyWD31cE5Xl1g5e-G9XMd6O3M2UOTjC0",
+        "width": 1033
+      }
+    ],
+    "place_id": "ChIJNdwLBwQ1K4gRRe6mLxNUARY",
+    "plus_code": {
+      "compound_code": "FG23+JX Kitchener, ON, Canada",
+      "global_code": "86MXFG23+JX"
+    },
+    "reference": "ChIJNdwLBwQ1K4gRRe6mLxNUARY",
+    "scope": "GOOGLE",
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "305 King Street West Suite 302, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4526054,
+        "lng": -80.4923081
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4540036302915,
+          "lng": -80.49108956970849
+        },
+        "southwest": {
+          "lat": 43.4513056697085,
+          "lng": -80.49378753029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Kitchener Building Permits",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103634708711974066884\">Riya D&#39;souza</a>"
+        ],
+        "photo_reference": "AeeoHcIcvtxVTsejqjsQvwATVubxneCS8CGbRT6Czp_O2t6As7vo0-P2cgGhm4jbLPWJbKKTPAOHOj1OiPPVaTwSvD9m8atQGD_ApsJsL5l70ZrQOMm7SCjb9kUdwzlz5cjDO_g0Fu1bYwefngnmlI8FEWG9c_R8FVbn4tra2RTbJy0i2XhvpR32iBKzG4F7IF92v0H3F10HGoVqVNQW-1yUVlcXdhVz7iewDAyi6nm_L_CEARLmB1nu9Aq6CGHh6vmZUiOFHPj2VeV1WJ059W852ePzgTi8kOLVfysq6JGVkPQWKkzUzWukXc9AG1NIxNV7lML31F0EucIG6e8FpKPpx1RXccVZRj-TP0u8cSFXPM5KrekM5R35ajjXd9AsuWkzmpA3hCJrhdeHRrt9_rpVZkuBHrhJzUejUmCU8rtlNNkbi8GgoYURpDyNt2aG8W51FvSI_AYSf9Su7JU_BSKiYmeBY6uTTrKnhQK70kRYC5lUfv7h9C2jAd0gQton8JE86LaGFoMso_jRlPY3soLzxiyCi7LU0lcVSGZA2aFgISdFrDcDNiuuEZOKb0lWGGvtmPJ_jaWkPhuXIoL00X8apwVhZlK9zjiVCyb70Of7r3_E0u8Wk9lzv4rUnxYn4dPKmU6IDQ5V",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJL1v3avP0K4gRw2hR7DtucOc",
+    "plus_code": {
+      "compound_code": "FG35+23 Kitchener, ON, Canada",
+      "global_code": "86MXFG35+23"
+    },
+    "rating": 4.5,
+    "reference": "ChIJL1v3avP0K4gRw2hR7DtucOc",
+    "scope": "GOOGLE",
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "200 King Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4518808,
+        "lng": -80.4925196
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4533849302915,
+          "lng": -80.49089416970848
+        },
+        "southwest": {
+          "lat": 43.4506869697085,
+          "lng": -80.4935921302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Kitchener Sports Fields",
+    "place_id": "ChIJL1v3avP0K4gRflK14r2xFvA",
+    "plus_code": {
+      "compound_code": "FG24+QX Kitchener, ON, Canada",
+      "global_code": "86MXFG24+QX"
+    },
+    "rating": 1,
+    "reference": "ChIJL1v3avP0K4gRflK14r2xFvA",
+    "scope": "GOOGLE",
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "200 King Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45195219999999,
+        "lng": -80.4923304
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4534886802915,
+          "lng": -80.49092796970848
+        },
+        "southwest": {
+          "lat": 43.4507907197085,
+          "lng": -80.4936259302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Kitchener City Clerk Office",
+    "place_id": "ChIJL1v3avP0K4gRcX-MeW4P3bk",
+    "plus_code": {
+      "compound_code": "FG25+Q3 Kitchener, ON, Canada",
+      "global_code": "86MXFG25+Q3"
+    },
+    "rating": 5,
+    "reference": "ChIJL1v3avP0K4gRcX-MeW4P3bk",
+    "scope": "GOOGLE",
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "200 King Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45195219999999,
+        "lng": -80.4923304
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4534350802915,
+          "lng": -80.4908824697085
+        },
+        "southwest": {
+          "lat": 43.45073711970851,
+          "lng": -80.4935804302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Kitchener Arts & Culture",
+    "place_id": "ChIJL1v3avP0K4gRzriFlyThqfM",
+    "plus_code": {
+      "compound_code": "FG25+Q3 Kitchener, ON, Canada",
+      "global_code": "86MXFG25+Q3"
+    },
+    "reference": "ChIJL1v3avP0K4gRzriFlyThqfM",
+    "scope": "GOOGLE",
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "200 King Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4522358,
+        "lng": -80.48662270000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45362773029149,
+          "lng": -80.48537891970851
+        },
+        "southwest": {
+          "lat": 43.4509297697085,
+          "lng": -80.48807688029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Waterloo Region Crime Prevention",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3380,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106014767931774402244\">Tim Piehl</a>"
+        ],
+        "photo_reference": "AeeoHcKRpPHqgCDtOa7Fu4z4RSn0t1Tpn4DUEihp5EScb9JSNs_dYTJqcpR6jn_gx_WXEq8PspLNW0s8x5pAWzgsPz0G5_zAjKXrtLb3ilRM9dmGdmVQBh7lzhJs1mHp-bmgnzp24i3dmarX91yqdUfYmzot6tC4ykHVZP1G1GRcN3I7D4DoVrgASIsYW2NcfGP4sgH-0jxGIr1wjZshRdOGHj5pif6ddofYrH5hoV_GdRvSlnhphJFUWZFCusWZYGuN6hb_RmrKAqy4FwjMcabDt7yZ0H46_6n_jeSW9WuvYDBdDwfb8PzE2KR0QHcVQtluw_IxDUOpH40tmFSkxNzMp55zcOyInsOOQvdbMIDYV2Zdt5oRAagihtgOddggZs0SLLEy6KU-KRQyus0CTDm-HjVLAy63i9fzMVGTMH8etL3TEzznPY3b2m2BBd1keHEcrnvlN1AD7CzED65ORUQA_RWj89yNimmGKhBH7QQPt19q61ckQWdryAmb4lyLkvAmZPv47xSKXSiefB9kA60HIlavfQp5GMP8hXfrvpWQrjmMDe5zgLKS9SOKor5dFe6iGcGrTr0szUWOWNwiTl0mnk7op5Qhp3rFE6VQuG016847KFtYHJZVZG2nQ3wC06UoIRc1_KzZ",
+        "width": 6009
+      }
+    ],
+    "place_id": "ChIJX_AoOQv0K4gRRPfqMEEZ9v8",
+    "plus_code": {
+      "compound_code": "FG27+V9 Kitchener, ON, Canada",
+      "global_code": "86MXFG27+V9"
+    },
+    "rating": 3,
+    "reference": "ChIJX_AoOQv0K4gRRPfqMEEZ9v8",
+    "scope": "GOOGLE",
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "73 Queen Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4520379,
+        "lng": -80.4865732
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4533480802915,
+          "lng": -80.4851256697085
+        },
+        "southwest": {
+          "lat": 43.4506501197085,
+          "lng": -80.48782363029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Waterloo Region Housing",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2304,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118047142053878260613\">Elizabeth A Kennedy</a>"
+        ],
+        "photo_reference": "AeeoHcIRPmGLUhVN1sIeJO1CDjTuludYumy5wAUvkcWnTexZfBR6lStNf4Do1ZvCBvVezaCxZfk2RD-ZdxTxmCN2468eSiCzqOig0Jxzf6o38M2Sme9lcOOhGeGaiIdtlXML1XdufZhq0hhE9voJZKG6lTdz5db_mQPUy-S0PD5_8UW4abWXjtP9VGkiiMyo9v0iL1wz_EpPpZijNualMhaEs36wM3pVHzcx_eo-b138hwR44S-uCgZJ5BgJhyenI705me-zscXAIlYuvVZbVkLGftCDMASHWZGtNGNqtm1gMvqjYyTV3-DQdxoIoA6Q-MTJPfiYdUNp9f4jei04fe1aiMOKiu_dCc_Q6CiJoXXCTe_19oIAzR8lDPRIDmPdy9NZmC22yMVEnvIW-Pl99uo9od-MnHIJyl5WE1Uu_fWjrLvsOaNwoTVRbad8KfodwBBBx-YCl9rCNyboYUAqqphiY_S_fgAuqtix7LYxTPeruO7GuKEyUlR2Y1-G-Og-oscJ-L-3AzjIWkP2PfgaDjZWGzlwy4xG05ihWfWmWfbvzm-P7joZvsWImMT9sP-DrrNpne8bLhF4uaA1tnTWANidmNnvPOqTTjEQWBxdtqKC8-C5Bgl3Sp0dNo53tZD8A8nR",
+        "width": 1978
+      }
+    ],
+    "place_id": "ChIJN-Imy-30K4gRpZVUP6znito",
+    "plus_code": {
+      "compound_code": "FG27+R9 Kitchener, ON, Canada",
+      "global_code": "86MXFG27+R9"
+    },
+    "rating": 3.6,
+    "reference": "ChIJN-Imy-30K4gRpZVUP6znito",
+    "scope": "GOOGLE",
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 14,
+    "vicinity": "20 Weber Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4494158,
+        "lng": -80.4875347
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4507768302915,
+          "lng": -80.4862209197085
+        },
+        "southwest": {
+          "lat": 43.4480788697085,
+          "lng": -80.48891888029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Water Efficiency",
+    "place_id": "ChIJlzfPnO30K4gRYeBIZOfq1lc",
+    "plus_code": {
+      "compound_code": "CGX6+QX Kitchener, ON, Canada",
+      "global_code": "86MXCGX6+QX"
+    },
+    "reference": "ChIJlzfPnO30K4gRYeBIZOfq1lc",
+    "scope": "GOOGLE",
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Frederick Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4525863,
+        "lng": -80.4848222
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4540254302915,
+          "lng": -80.48368196970848
+        },
+        "southwest": {
+          "lat": 43.4513274697085,
+          "lng": -80.48637993029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Waterloo Councillors",
+    "place_id": "ChIJ9UDJJJP0K4gRsjk3v_lBxlk",
+    "plus_code": {
+      "compound_code": "FG38+23 Kitchener, ON, Canada",
+      "global_code": "86MXFG38+23"
+    },
+    "reference": "ChIJ9UDJJJP0K4gRsjk3v_lBxlk",
+    "scope": "GOOGLE",
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "150 Frederick Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4535032,
+        "lng": -80.48307419999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4546934802915,
+          "lng": -80.4815646197085
+        },
+        "southwest": {
+          "lat": 43.4519955197085,
+          "lng": -80.4842625802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Waterloo Corporation Archives",
+    "place_id": "ChIJpye4Z5P0K4gR1MTyv0APKDw",
+    "plus_code": {
+      "compound_code": "FG38+CQ Kitchener, ON, Canada",
+      "global_code": "86MXFG38+CQ"
+    },
+    "reference": "ChIJpye4Z5P0K4gR1MTyv0APKDw",
+    "scope": "GOOGLE",
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "190 Frederick Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4663195,
+        "lng": -80.4556072
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4676643802915,
+          "lng": -80.4542729197085
+        },
+        "southwest": {
+          "lat": 43.4649664197085,
+          "lng": -80.45697088029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "ServiceOntario",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3036,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113664309233820834071\">Ron Dutton</a>"
+        ],
+        "photo_reference": "AeeoHcJI1H58pHeem2Xf_8os2woxv10adbWIJpaBJMOCwIkoEjy7ky3ktUeBZ7SmJDiwnyrO1Wv2BGXgJpMx5Fa9PYg1VKWWelFIJdZKkh-5p3y-AS0wu4cIOsrOe3cSJ0oyuY7x-nIP8oQm96bUrU9Qk_9ZTNqz1gNdbFRtW7gfNLJdunt-1jhlbVdj4at66J-fet873e6MzOLJ9SzRdK14a2lDzvqw116Ufq7QHq3pi3PhsPvb9PTwj7hM1GavmCFTPjSSJCWWffsNk60XPRnbj2enUSOfOQilkCePUg2Puu1RXoOwdNDqiWN-5_hlkyGGT80uX0ArFxg5lsOCaUXmT0ui6I1G39qAls4MU5cuhhPtEzb1ZonD95dClpaXgjDFGpehrFjQnWLDTBqZ_gByF70qO_yUhIObjFEiWHPpRwNF1xVg4p7hCywXR6mXCcrkrzo4WCxs0xb239_yWztBn5JvIHuG4VjnWvh08D_w6JiVDm_hrUonu_ye-ypsQLvZvMqM6Mpn_xsv4xQF1yCDps3xtfVUwhinJLwJtC5PsxxcqM-Safw0Ye52QkI2XWQIa8AQugyviQxGbvCafbxc2SNFO_8VGyniZc5PK0pUsJ2aacwv1xMNLu6NZ-ayV1w_uTho9Q",
+        "width": 4048
+      }
+    ],
+    "place_id": "ChIJhQWI1qr0K4gR8QhpylRXyoQ",
+    "plus_code": {
+      "compound_code": "FG8V+GQ Kitchener, ON, Canada",
+      "global_code": "86MXFG8V+GQ"
+    },
+    "rating": 4,
+    "reference": "ChIJhQWI1qr0K4gR8QhpylRXyoQ",
+    "scope": "GOOGLE",
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 364,
+    "vicinity": "1151 Victoria Street North Unit 5, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4147959,
+        "lng": -80.5102921
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4162579802915,
+          "lng": -80.5089666697085
+        },
+        "southwest": {
+          "lat": 43.4135600197085,
+          "lng": -80.5116646302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Province of Ontario",
+    "place_id": "ChIJdeXgfOD0K4gRqNwEdS0aw98",
+    "plus_code": {
+      "compound_code": "CF7Q+WV Kitchener, ON, Canada",
+      "global_code": "86MXCF7Q+WV"
+    },
+    "reference": "ChIJdeXgfOD0K4gRqNwEdS0aw98",
+    "scope": "GOOGLE",
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "715 Fischer-Hallman Road #401, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4249393,
+        "lng": -80.47422790000002
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4261881802915,
+          "lng": -80.47275831970852
+        },
+        "southwest": {
+          "lat": 43.4234902197085,
+          "lng": -80.47545628029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Advantage Accounting",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105306773549297829173\">Advantage Accounting</a>"
+        ],
+        "photo_reference": "AeeoHcLhZc8XEDin47fHjvX0kmHX1iEZs3zyVtWlqZFwXllrga2lxK4FgHYhpSSVwOxEKVEvUYUAUL8gDDPqWfLBf0iobbpKT7OicxqKvzLR1uKlLAXVTrXPAW_jU8ZjIPZoMlsxCEkx2FWTkpcuDSHoekOfq9mX_eD01FCIDjMnhnnzZ6986KVCbmJac8Qp5ITa7D0n0kbQkX6KZLGZ7TzYdcXJmxmy-lIP0ysAZqNjL4XcmIFo5LLvNYyT_ZKL9bcdW_Ih0H8DJjmx8Qhv88834QyToV_enSYrwWDvLprdP0PYdxyUzGVAraTzSXEFeMsWRA_so1ybdlE",
+        "width": 1200
+      }
+    ],
+    "place_id": "ChIJpyPz2MyKK4gRsIHRKcz5jvs",
+    "plus_code": {
+      "compound_code": "CGFG+X8 Kitchener, ON, Canada",
+      "global_code": "86MXCGFG+X8"
+    },
+    "rating": 3.8,
+    "reference": "ChIJpyPz2MyKK4gRsIHRKcz5jvs",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 17,
+    "vicinity": "20 Hanson Avenue #5, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4156956,
+        "lng": -80.4492829
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4170194802915,
+          "lng": -80.44799156970849
+        },
+        "southwest": {
+          "lat": 43.4143215197085,
+          "lng": -80.4506895302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "ServiceOntario",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115855371926521574872\">Jeff Eng</a>"
+        ],
+        "photo_reference": "AeeoHcLGuZ_ibZb4FWLoskwhZLBdCekso6S-NSZT98kDV86hxcLqG8ZEKDpWLWNIJhWmJLS4ubb4sm2Gkns1cHaGQjTd-KIMdhGN_M_t5CDAsGBvlsQ9w-SZT_pIz0EPn98IRq7rM3OQEZfgy5CZkz41JU628vyM7ZnmlICeXQQwqwLS7xCC_qqjWN_OBPAnep0Zu5nOt-uYNaxPsJSEX_oRdoAszFmq1jk-5Wjl9kV8_WPGxOi_Lsx-CPDbGYrwmCbZRM9wOUw_WX3Qa-OeVghVCFeaz6teUmiIEeI3mxBAgbqepLy64uBxyL91DXCvR2-9CdnAsuz8WiGmSaisbzWQxvGMB3F-0A66coDeHSlGW5q4wzWRhYerNVDGEp21ZYsEWb9Tl7P0z7HDlLpHCsx7a_mlBD-TwrV6VBHAcSE1P0mCR4iZJCq8F3Y8OtrgpAF4QA0mDb3dJm7u0by4sScsZllKLHRvEZMFISAV8a8_ad_kake0aST6U3KeMEF7a0Y6XZOgxec375OU2ym2pAt2kbes-gPXE8CJA94sdnTzucgnMnZ--mggXsH-bh6NqTc2nvPWn31Dng-SboqKkUiofVqLdNwXDPuU5ZaWBVatNrBghEyuwS6DgkjCl8YmWdMzrG-01Q",
+        "width": 4080
+      }
+    ],
+    "place_id": "ChIJQw5sAMyKK4gRH9EakMm3RCQ",
+    "plus_code": {
+      "compound_code": "CH82+77 Kitchener, ON, Canada",
+      "global_code": "86MXCH82+77"
+    },
+    "rating": 4,
+    "reference": "ChIJQw5sAMyKK4gRH9EakMm3RCQ",
+    "scope": "GOOGLE",
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 434,
+    "vicinity": "Unit 2A, 30 Manitou Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.41981229999999,
+        "lng": -80.4409098
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.42127998029149,
+          "lng": -80.4397613197085
+        },
+        "southwest": {
+          "lat": 43.4185820197085,
+          "lng": -80.4424592802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Ontario Housing Ministry",
+    "place_id": "ChIJ85Hu1tqKK4gRv9TCYJAFv6A",
+    "plus_code": {
+      "compound_code": "CH95+WJ Kitchener, ON, Canada",
+      "global_code": "86MXCH95+WJ"
+    },
+    "rating": 1.5,
+    "reference": "ChIJ85Hu1tqKK4gRv9TCYJAFv6A",
+    "scope": "GOOGLE",
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "385 Fairway Road South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.463073,
+        "lng": -80.5201428
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46450763029151,
+          "lng": -80.5190162197085
+        },
+        "southwest": {
+          "lat": 43.46180966970851,
+          "lng": -80.52171418029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Waterloo City Hall",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3265,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109239383266622276951\">Waterloo City Hall</a>"
+        ],
+        "photo_reference": "AeeoHcLuaE_DZsNDzf6u58zETJmw53rKl3FigPKIgcTpkFYHTLTeIB6DZhA1hyZXSiAO6n0UKQZ0ctS8HfIaoKXETJG_qHiDv05A6pMSBs1oIwbQwKCCrdEIOfv5KkBdfyAqzu0Wqz7f8-opdQJqyaR2Od_JEfhBob19e5eYmIfXFFKz5ywt68gqGJmSzoR63O8wopuFOaleOxc7I6E-2LLABWk77QNbIDc9ORjEbq73zq4wsfD4xt167fOF0MKLaGRndYpuuDfQFCCR_wfwt33bIfOo8F-BRXg50zJIJaMQExccnyQEGmXeovd-hKwThQUUjHELtx29uK4",
+        "width": 4898
+      }
+    ],
+    "place_id": "ChIJDyA5P230K4gRWbPaJ-gTEl0",
+    "plus_code": {
+      "compound_code": "FF7H+6W Waterloo, ON, Canada",
+      "global_code": "86MXFF7H+6W"
+    },
+    "rating": 3.9,
+    "reference": "ChIJDyA5P230K4gRWbPaJ-gTEl0",
+    "scope": "GOOGLE",
+    "types": [
+      "city_hall",
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 59,
+    "vicinity": "100 Regina Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47353849999999,
+        "lng": -80.5426742
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47494593029148,
+          "lng": -80.54144871970848
+        },
+        "southwest": {
+          "lat": 43.47224796970849,
+          "lng": -80.54414668029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/parking-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/parking_pinlet",
+    "name": "UW Parking Services",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 624,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111166518812247554114\">UW Parking Services</a>"
+        ],
+        "photo_reference": "AeeoHcJ13hCBujSqpkVXuYxtjxf3-h6P3LqDM39hCgs8BLgxQtz7eeZSULzmG1G-XQz0l_O9GMiIWgPlNpVFZNXtE9cIoSEIVONO0lD8K9dRKTnzSPTiKZaOY-2H-AHdU7TgsMMsVds0d9pN5Qv-uRLg2xYmwjQ_PPyoz91yLf0pzmp1VEu5zvVMGx0MYoDQeUkNtoUxpCK6rBUiBdMtJCTG7GeLpc68qsPCuTYxPIOTDQQm6Kuui_ZGmyZO6krYpz-ZcnW5SM39O5DRTc_eJAERZu0W8JpUiufcMvRiR1mbPQukvwdJzRMVYwDNRaobeEfIlR4E7lBgrF4",
+        "width": 1000
+      }
+    ],
+    "place_id": "ChIJLxH9PgD0K4gR4xOvz8dgPD0",
+    "plus_code": {
+      "compound_code": "FFF4+CW Waterloo, ON, Canada",
+      "global_code": "86MXFFF4+CW"
+    },
+    "rating": 1.7,
+    "reference": "ChIJLxH9PgD0K4gR4xOvz8dgPD0",
+    "scope": "GOOGLE",
+    "types": [
+      "parking",
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 83,
+    "vicinity": "200 University Avenue West GSC 1112, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4509118,
+        "lng": -80.5135779
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4525012302915,
+          "lng": -80.5126591197085
+        },
+        "southwest": {
+          "lat": 43.4498032697085,
+          "lng": -80.51535708029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Explore Waterloo Region",
+    "photos": [
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102284191121886290504\">Explore Waterloo Region</a>"
+        ],
+        "photo_reference": "AeeoHcIDWGe_2uJYMN-_czZTIk2IMjTvLy0ORilxHdsjQoGE9HC8cE6OSZj5om9GJXeUJ82Dn-8PxjUkCVdwc832K6rJOptRqhbGEPAWmNxWA5sDkPL9q3JDdnPtlaDM3ePZsX2E-RjlwLlTrc__e60VKHB6FrabNf8t1YRbblLF62oU1xO949c0Tq1-SzcgOzOxZ0ZV74Pw6iqn-xdVkqZR7dQdiOAvVExIy2cEzid3Xyz4AOjA9C3qkpxuZjMhNyS9xxCuVCWN-D-93vFQ7thhh1LlgJUFlE0xdync30fln1gfBmj3U7ZqRFcchYC0i1-HtUKDrCA2kdE",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJ207Ei_P0K4gRq3NV_OBhDNE",
+    "plus_code": {
+      "compound_code": "FF2P+9H Kitchener, ON, Canada",
+      "global_code": "86MXFF2P+9H"
+    },
+    "rating": 3.7,
+    "reference": "ChIJ207Ei_P0K4gRq3NV_OBhDNE",
+    "scope": "GOOGLE",
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "137 Glasgow Street Suite 210-12302, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46336889999999,
+        "lng": -80.520139
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4646842302915,
+          "lng": -80.5190252697085
+        },
+        "southwest": {
+          "lat": 43.4619862697085,
+          "lng": -80.52172323029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Waterloo Region Small Business Centre",
+    "photos": [
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102006368369170998905\">Felipe Gonzalia</a>"
+        ],
+        "photo_reference": "AeeoHcIP2DIyD9_nrb5o5Vih6OWZPnWDBkrt093omJ61QA0ALYI02a3uzjeH0a8aE37nEuGtic6-6GhQXUWKHEJH1HPx0U3mHTu5vWClobclEL5q6Z79cm4DEZm4pp5KDILxscx5eC1H7P176sO8MRRIJNUM0zpUr0cMFp4IGsKrRYpGry8gK1dYcKaz26jdHxBc9g-6xd2_lLE2ARoOttPiTyYLy_2Kq1w6oZsbtlqruQ_JX2GsyNZ8RmCA6MLTLt3JIzWoVRX5b01oJA6RPH6_ZET5Ga41hP7RxEzJf1SApMdRAfSBwhiSpAZbAy0GCagY_4tIPRauZdbHdSEM-CpPRs1vkYtHqDGcGuQZAXL--_g7oHwDH7gt78uEfWdKFKgH0r_k88PWYn6QEc60rwuRFIHq_HalbTHv3IeIi4fLHWwnKO-ekB7dOvVRPB_fpKG3frJ6eMRwEOS33hSqgS_s2VMrxoq3bxY9KrhoFV2YdymOFxm_d14RWP19loc4YouG1Ev-bFvXU62vUT4ykYJAj1V9qDD2eQqEvspNGpc4XC45pA-ErPX-ydM5T-1DC1Sq6q7EFqq1jcbpeO_dXW6JRPUcynkGjLxPqN1jmuaKSAsPd9nhk63EdT65LGtTlPwbVCH4Xw",
+        "width": 3120
+      }
+    ],
+    "place_id": "ChIJDyA5P230K4gRIFSJ2YZSqGg",
+    "plus_code": {
+      "compound_code": "FF7H+8W Waterloo, ON, Canada",
+      "global_code": "86MXFF7H+8W"
+    },
+    "rating": 4.4,
+    "reference": "ChIJDyA5P230K4gRIFSJ2YZSqGg",
+    "scope": "GOOGLE",
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 8,
+    "vicinity": "100 Regina Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4632454,
+        "lng": -80.52010949999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4645609802915,
+          "lng": -80.51899376970849
+        },
+        "southwest": {
+          "lat": 43.4618630197085,
+          "lng": -80.5216917302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Waterloo Community Relations",
+    "place_id": "ChIJW_s4P230K4gRR41jckOv3Qs",
+    "plus_code": {
+      "compound_code": "FF7H+7X Waterloo, ON, Canada",
+      "global_code": "86MXFF7H+7X"
+    },
+    "reference": "ChIJW_s4P230K4gRR41jckOv3Qs",
+    "scope": "GOOGLE",
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "100 Regina Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.463031,
+        "lng": -80.521486
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46435533029151,
+          "lng": -80.5202936197085
+        },
+        "southwest": {
+          "lat": 43.46165736970851,
+          "lng": -80.5229915802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "PMG INTELLIGENCE",
+    "place_id": "ChIJL4DZAgD1K4gR8OUsDBW_q-8",
+    "plus_code": {
+      "compound_code": "FF7H+6C Waterloo, ON, Canada",
+      "global_code": "86MXFF7H+6C"
+    },
+    "reference": "ChIJL4DZAgD1K4gR8OUsDBW_q-8",
+    "scope": "GOOGLE",
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "96 King Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4627516,
+        "lng": -80.5207326
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4641184802915,
+          "lng": -80.51925341970849
+        },
+        "southwest": {
+          "lat": 43.4614205197085,
+          "lng": -80.5219513802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Waterloo Children Svc",
+    "place_id": "ChIJvwxKOm30K4gRp08DY6gQ7Vw",
+    "plus_code": {
+      "compound_code": "FF7H+4P Waterloo, ON, Canada",
+      "global_code": "86MXFF7H+4P"
+    },
+    "reference": "ChIJvwxKOm30K4gRp08DY6gQ7Vw",
+    "scope": "GOOGLE",
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "99 Regina Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4627516,
+        "lng": -80.5207326
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4641184802915,
+          "lng": -80.51925341970849
+        },
+        "southwest": {
+          "lat": 43.4614205197085,
+          "lng": -80.5219513802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Waterloo Family & Child Family",
+    "place_id": "ChIJvwxKOm30K4gRtNUsrbzJU38",
+    "plus_code": {
+      "compound_code": "FF7H+4P Waterloo, ON, Canada",
+      "global_code": "86MXFF7H+4P"
+    },
+    "reference": "ChIJvwxKOm30K4gRtNUsrbzJU38",
+    "scope": "GOOGLE",
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "99 Regina Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4627516,
+        "lng": -80.5207326
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4641184802915,
+          "lng": -80.51925341970849
+        },
+        "southwest": {
+          "lat": 43.4614205197085,
+          "lng": -80.5219513802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Waterloo Infectious Diseases",
+    "place_id": "ChIJvwxKOm30K4gR_j_qFj0YJX4",
+    "plus_code": {
+      "compound_code": "FF7H+4P Waterloo, ON, Canada",
+      "global_code": "86MXFF7H+4P"
+    },
+    "reference": "ChIJvwxKOm30K4gR_j_qFj0YJX4",
+    "scope": "GOOGLE",
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "99 Regina Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4629564,
+        "lng": -80.52150979999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4642685302915,
+          "lng": -80.52029281970849
+        },
+        "southwest": {
+          "lat": 43.4615705697085,
+          "lng": -80.5229907802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Regional Signs & Signals",
+    "place_id": "ChIJLfF9yxL0K4gRqhghQNOAMnM",
+    "plus_code": {
+      "compound_code": "FF7H+59 Waterloo, ON, Canada",
+      "global_code": "86MXFF7H+59"
+    },
+    "reference": "ChIJLfF9yxL0K4gRqhghQNOAMnM",
+    "scope": "GOOGLE",
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "100 Waterloo Regional Road 15, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4629564,
+        "lng": -80.52150979999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4642685302915,
+          "lng": -80.52029281970849
+        },
+        "southwest": {
+          "lat": 43.4615705697085,
+          "lng": -80.5229907802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Regional Roads Maintenance",
+    "place_id": "ChIJLfF9yxL0K4gRyRWaSbzTB5M",
+    "plus_code": {
+      "compound_code": "FF7H+59 Waterloo, ON, Canada",
+      "global_code": "86MXFF7H+59"
+    },
+    "reference": "ChIJLfF9yxL0K4gRyRWaSbzTB5M",
+    "scope": "GOOGLE",
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "100 Waterloo Regional Road 15, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4705902,
+        "lng": -80.5228295
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47195118029151,
+          "lng": -80.52136896970849
+        },
+        "southwest": {
+          "lat": 43.46925321970851,
+          "lng": -80.52406693029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Waterloo Infection Control",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJX_AoOQv0K4gRC3ue4Io4VsY",
+    "plus_code": {
+      "compound_code": "FFCG+6V Waterloo, ON, Canada",
+      "global_code": "86MXFFCG+6V"
+    },
+    "reference": "ChIJX_AoOQv0K4gRC3ue4Io4VsY",
+    "scope": "GOOGLE",
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "99 Regina Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4705902,
+        "lng": -80.5228295
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47195118029151,
+          "lng": -80.52136896970849
+        },
+        "southwest": {
+          "lat": 43.46925321970851,
+          "lng": -80.52406693029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Waterloo Community Safety",
+    "place_id": "ChIJX_AoOQv0K4gRDorc9hprcks",
+    "plus_code": {
+      "compound_code": "FFCG+6V Waterloo, ON, Canada",
+      "global_code": "86MXFFCG+6V"
+    },
+    "reference": "ChIJX_AoOQv0K4gRDorc9hprcks",
+    "scope": "GOOGLE",
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "99 Regina Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4718992,
+        "lng": -80.5156181
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4731391302915,
+          "lng": -80.51426761970849
+        },
+        "southwest": {
+          "lat": 43.4704411697085,
+          "lng": -80.5169655802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Manulife Financial Corporation Securities Class Actions",
+    "place_id": "ChIJP9drcXb0K4gR5kkXYazgKd0",
+    "plus_code": {
+      "compound_code": "FFCM+QQ Waterloo, ON, Canada",
+      "global_code": "86MXFFCM+QQ"
+    },
+    "reference": "ChIJP9drcXb0K4gR5kkXYazgKd0",
+    "scope": "GOOGLE",
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "133 Weber Street North #3-505, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.472824,
+        "lng": -80.524593
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4741459302915,
+          "lng": -80.52308351970849
+        },
+        "southwest": {
+          "lat": 43.4714479697085,
+          "lng": -80.5257814802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Maison Canada",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115630165309783790483\">Maison Canada</a>"
+        ],
+        "photo_reference": "AeeoHcIxT0FBblyzdT-XBLxj6lDJO2cE55Nckp3K8MzglDgORWGb1NylYgZaohYXB7NBe3K77p4ZS4nAvwJeUY-fnx-suVVGjjC4-hwi6dLAbZhqYVSzs_AdCAl9BUXQaeHR_5Qw1KQY1NNMKjCOVGMK4l3ShEf3KnMH7ok13vnLd3RxSd4MYwezFAwSAjpzKGMq6ObLUgqOUN-1aVbdgeAgTXS8Z4vq11nlnCFDPrm6FTHtIlkk3YwDCZ9EISCQoo5HhXYSMMgAL15OGYxk9SQDrxsIB0-VxykHHylAscLkTzbQ_kW9yu8Q4fV7ydBYHBReubYy8_jrTIQ",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJA337Xgr0K4gRmb0JqLoQqnw",
+    "plus_code": {
+      "compound_code": "FFFG+45 Waterloo, ON, Canada",
+      "global_code": "86MXFFFG+45"
+    },
+    "rating": 3,
+    "reference": "ChIJA337Xgr0K4gRmb0JqLoQqnw",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "local_government_office",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 68,
+    "vicinity": "185 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4703383,
+        "lng": -80.53243619999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4717527302915,
+          "lng": -80.53116006970848
+        },
+        "southwest": {
+          "lat": 43.4690547697085,
+          "lng": -80.5338580302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Waterloo Rink In the Park",
+    "place_id": "ChIJAQDArAj0K4gRxYqG9WRhhxU",
+    "plus_code": {
+      "compound_code": "FFC9+42 Waterloo, ON, Canada",
+      "global_code": "86MXFFC9+42"
+    },
+    "reference": "ChIJAQDArAj0K4gRxYqG9WRhhxU",
+    "scope": "GOOGLE",
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "99 Seagram Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.457703,
+        "lng": -80.5067397
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45900733029149,
+          "lng": -80.5052964697085
+        },
+        "southwest": {
+          "lat": 43.45630936970849,
+          "lng": -80.5079944302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Kitchener Mt Hope",
+    "place_id": "ChIJYxhzlGb0K4gR1dyGbJyK9cQ",
+    "plus_code": {
+      "compound_code": "FF5V+38 Kitchener, ON, Canada",
+      "global_code": "86MXFF5V+38"
+    },
+    "reference": "ChIJYxhzlGb0K4gR1dyGbJyK9cQ",
+    "scope": "GOOGLE",
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "40 Linwood Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4646026,
+        "lng": -80.503468
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4659522302915,
+          "lng": -80.50225471970849
+        },
+        "southwest": {
+          "lat": 43.4632542697085,
+          "lng": -80.50495268029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Waterloo Archives & Records",
+    "place_id": "ChIJaQnu6nz0K4gRSQolUdH9nE4",
+    "plus_code": {
+      "compound_code": "FF7W+RJ Waterloo, ON, Canada",
+      "global_code": "86MXFF7W+RJ"
+    },
+    "reference": "ChIJaQnu6nz0K4gRSQolUdH9nE4",
+    "scope": "GOOGLE",
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "150 Weber Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4646026,
+        "lng": -80.503468
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4659522302915,
+          "lng": -80.50225471970849
+        },
+        "southwest": {
+          "lat": 43.4632542697085,
+          "lng": -80.50495268029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Waterloo Transportation Enqrs",
+    "place_id": "ChIJaQnu6nz0K4gRr-5k2H29aOE",
+    "plus_code": {
+      "compound_code": "FF7W+RJ Waterloo, ON, Canada",
+      "global_code": "86MXFF7W+RJ"
+    },
+    "reference": "ChIJaQnu6nz0K4gRr-5k2H29aOE",
+    "scope": "GOOGLE",
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "150 Weber Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4646026,
+        "lng": -80.503468
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4659522302915,
+          "lng": -80.50225471970849
+        },
+        "southwest": {
+          "lat": 43.4632542697085,
+          "lng": -80.50495268029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Waterloo Water Supply Oprtns",
+    "place_id": "ChIJaQnu6nz0K4gRrKEYwkBhL9o",
+    "plus_code": {
+      "compound_code": "FF7W+RJ Waterloo, ON, Canada",
+      "global_code": "86MXFF7W+RJ"
+    },
+    "reference": "ChIJaQnu6nz0K4gRrKEYwkBhL9o",
+    "scope": "GOOGLE",
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "150 Weber Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46127979999999,
+        "lng": -80.53753929999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4625496302915,
+          "lng": -80.5364374197085
+        },
+        "southwest": {
+          "lat": 43.4598516697085,
+          "lng": -80.53913538029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dorfman Mark L Planner Inc",
+    "place_id": "ChIJfe8_dhz0K4gRJ891QKwq3fg",
+    "plus_code": {
+      "compound_code": "FF66+GX Waterloo, ON, Canada",
+      "global_code": "86MXFF66+GX"
+    },
+    "reference": "ChIJfe8_dhz0K4gRJ891QKwq3fg",
+    "scope": "GOOGLE",
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "50 Westmount Road North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4773461,
+        "lng": -80.5256995
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4786753302915,
+          "lng": -80.5242346197085
+        },
+        "southwest": {
+          "lat": 43.4759773697085,
+          "lng": -80.5269325802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "MODE Immigration| Canadian immigration consultant service | Work permit in Canada | Canadian Immigration Lawyer",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114592533029149437253\">MODE Immigration| Canadian immigration consultant service | Work permit in Canada | Canadian Immigration Lawyer</a>"
+        ],
+        "photo_reference": "AeeoHcLTw7DD4T6QQsyyGD3r1G9iSSQxflXLDIlikAXFwbmVBUvHTIB07ExxjvI69SJ61sXzeYi9tImYR47MMfrKw6l9GrKvECTcZQnyknGKulisMihV-JNQU9wBn75n62bGhLN3FHmAEYRAfGTscPmqOVp2s08h-j6J485VzRrDMliNtYQevhbFbBDGayCJiTzT1xqrt9x3VW7J948tG5Ao-L73EmrUipWfFRL3UD_MYt6o_8O-PM-1DVlX_PHAJHrBsD9JeKvPeUYRV10ZzULlqqruh5dKh616Yc_oW4Occy4C5MThD8C6qLsJK9a0tvExwkVObQnUKaM",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJ9145LxrzK4gR1vtYNWNZZ_c",
+    "plus_code": {
+      "compound_code": "FFGF+WP Waterloo, ON, Canada",
+      "global_code": "86MXFFGF+WP"
+    },
+    "rating": 5,
+    "reference": "ChIJ9145LxrzK4gR1vtYNWNZZ_c",
+    "scope": "GOOGLE",
+    "types": [
+      "travel_agency",
+      "local_government_office",
+      "lawyer",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 325,
+    "vicinity": "255 King Street North Unit 404, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47675700000001,
+        "lng": -80.53833060000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47808063029149,
+          "lng": -80.5370472697085
+        },
+        "southwest": {
+          "lat": 43.4753826697085,
+          "lng": -80.53974523029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dorfman Mark L Planner Inc",
+    "place_id": "ChIJnasOL__zK4gR-Wo4y-pBpMs",
+    "plus_code": {
+      "compound_code": "FFG6+PM Waterloo, ON, Canada",
+      "global_code": "86MXFFG6+PM"
+    },
+    "reference": "ChIJnasOL__zK4gR-Wo4y-pBpMs",
+    "scope": "GOOGLE",
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "145 Columbia Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4745941,
+        "lng": -80.5413009
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4759846802915,
+          "lng": -80.5398247697085
+        },
+        "southwest": {
+          "lat": 43.4732867197085,
+          "lng": -80.54252273029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Waterloo Social Assistance",
+    "place_id": "ChIJ4S3YYwD0K4gRvZbOEUqJNl4",
+    "plus_code": {
+      "compound_code": "FFF5+RF Waterloo, ON, Canada",
+      "global_code": "86MXFFF5+RF"
+    },
+    "reference": "ChIJ4S3YYwD0K4gRvZbOEUqJNl4",
+    "scope": "GOOGLE",
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "99 Regina St S, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4830449,
+        "lng": -80.5175805
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.48465838029149,
+          "lng": -80.5162193697085
+        },
+        "southwest": {
+          "lat": 43.4819604197085,
+          "lng": -80.5189173302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Conestoga Community Career Centre",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109773976647997850200\">Conestoga Community Career Centre</a>"
+        ],
+        "photo_reference": "AeeoHcLaSudsFpYZwHOy_nUqFHO1waNMo6LoS2ivlqvreRFFSJcBZ-OAUk8Rjrgg-a_AYZ1i6-4fkLeGXP6soBdg8yL5JwBDpLKfr16pKKOd9L1b7d5B4bAWrHsReeD9BXWDL9uAHqj_30TnR8rw2uGZfJ_vdN78exDsoNrUBdYSJcGpl6MT_nLY5VYAAn5CPU_xzvXJGX5guQeTXg-ujNXUQwYxaadqCj7bhawH9tWNr2bP5nWQjszEbsBzDL852Qy-mIptI1t4Xg-NeNaxsDZb13D_2L1P78GfiUOb2tbwVgycwYQFpx09qLSfuMXzzLzYh17y8ERn",
+        "width": 960
+      }
+    ],
+    "place_id": "ChIJs1AYY2vzK4gRxyXpPjV743M",
+    "plus_code": {
+      "compound_code": "FFMJ+6X Waterloo, ON, Canada",
+      "global_code": "86MXFFMJ+6X"
+    },
+    "rating": 4.4,
+    "reference": "ChIJs1AYY2vzK4gRxyXpPjV743M",
+    "scope": "GOOGLE",
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 8,
+    "vicinity": "332 Marsland Drive Floor #2, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4510566,
+        "lng": -80.5002653
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4524526302915,
+          "lng": -80.4987543197085
+        },
+        "southwest": {
+          "lat": 43.4497546697085,
+          "lng": -80.5014522802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "GSP Group Inc.",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2395,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112326872172774730053\">GSP Group Inc.</a>"
+        ],
+        "photo_reference": "AeeoHcIL0GShaWN0rE2me4gwK9kvtrlbqk-WDIBQh8Z58d1YtF61aAVUZNW0xgORD9k6U-TbsnWiZ_smATVeipQ1mRjKv9PEmvmNzGEO5pFDoZ7fphwtlQM1QRiGIsQNIKFUTq4tnmO4yzmEzQNOrTGF1S7yvYIgWxz2YvBtdNjEFwAuNx2pDYssC2rL3bnTuWBY6EkazgAJmtEGqlBJsEOyX2atSpSGAnI3ELE8q-SSYq4ky2zVtvj6PXQvVthqWHukSeGFJg3CSMLA1tjk1LF7XLHIkyn5bte0LO02rBDqOpwLLWvTBtMSjnQHJs7Csr4U-VeJE6oFbGg",
+        "width": 3600
+      }
+    ],
+    "place_id": "ChIJ0ZjrhF_0K4gRDo9vnqdh2Dk",
+    "plus_code": {
+      "compound_code": "FF2X+CV Kitchener, ON, Canada",
+      "global_code": "86MXFF2X+CV"
+    },
+    "rating": 3,
+    "reference": "ChIJ0ZjrhF_0K4gRDo9vnqdh2Dk",
+    "scope": "GOOGLE",
+    "types": [
+      "local_government_office",
+      "general_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "72 Victoria Street South #201, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4868458,
+        "lng": -80.517072
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4881376302915,
+          "lng": -80.51590271970849
+        },
+        "southwest": {
+          "lat": 43.48543966970851,
+          "lng": -80.5186006802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Motor Vehicle Licence Office",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJKb3b65PzK4gRTSzapSLUXts",
+    "plus_code": {
+      "compound_code": "FFPM+P5 Waterloo, ON, Canada",
+      "global_code": "86MXFFPM+P5"
+    },
+    "rating": 4,
+    "reference": "ChIJKb3b65PzK4gRTSzapSLUXts",
+    "scope": "GOOGLE",
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 12,
+    "vicinity": "105 Lexington Road, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4523229,
+        "lng": -80.492099
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4536372302915,
+          "lng": -80.49076136970851
+        },
+        "southwest": {
+          "lat": 43.4509392697085,
+          "lng": -80.49345933029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Members of Municipal Council",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJL1v3avP0K4gRwFWtxQU5998",
+    "plus_code": {
+      "compound_code": "FG25+W5 Kitchener, ON, Canada",
+      "global_code": "86MXFG25+W5"
+    },
+    "reference": "ChIJL1v3avP0K4gRwFWtxQU5998",
+    "scope": "GOOGLE",
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "200 King Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45195219999999,
+        "lng": -80.4923304
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4534350802915,
+          "lng": -80.4908824697085
+        },
+        "southwest": {
+          "lat": 43.45073711970851,
+          "lng": -80.4935804302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Kitchener Downtown & Community",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109557620282108650568\">Vidman Dan</a>"
+        ],
+        "photo_reference": "AeeoHcLgi3lCz_PDQ-KhRt5_ir4ARLHf3XmQcP-0G0u_TB3zwEy9iBDLBPInZNX5g7q4bPEwPpO9UUZUCK2tHSDxWlknb2jrell7ZSObIM98am-x6oRcMCbl1QrfZ_u0nWQeGEPB7GW4xnPVKl1kO3xo9Qv8cBNS3TGyLAh82U274fKp4gfjdX1ww1rS3GbzOyyFDQvFPI_qPVXCqFnSjtAWChb-eSb2DNz-h_j6HMIQDaYSEq2VQ13mbZA8G14H1YvsTY32F9G1QQZgpKhFArfj94QVo9nKQrvK9RaAd8QAfkNHkQjuz1kCEaLGmVmMb3ePnSjmH04yaM_bOhWKQmgCAw7Sv49CLqN1Pxs5TpnBQUxfZh4NX3AVV-xlzpLd26IPt3XkNHTK77tgN2fYBkWshwu-l4-nMT6m532KJLpSW0S-h403i1UDpiMyTqrQLwt0JXO9jhO-dGqVzzFrDoK34c6GVSauleQH29ym4KhW6w8TTr5U7tRas8hlOuwjdj7gxN7a2QU4SEaMWLILojIziqaOIAYC8n_b63Zg3WXfI2THDnU2cx9n9l-yujBVaDEKk9CKCzpXg9g2oDyKvPjfsnzUP9X6_V-CoyJHM9RgoBjvyTuLk0O93o83F_FTXc-qmZf1YA",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJL1v3avP0K4gRTKcxfe5-TTk",
+    "plus_code": {
+      "compound_code": "FG25+Q3 Kitchener, ON, Canada",
+      "global_code": "86MXFG25+Q3"
+    },
+    "rating": 4.3,
+    "reference": "ChIJL1v3avP0K4gRTKcxfe5-TTk",
+    "scope": "GOOGLE",
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "200 King Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45195219999999,
+        "lng": -80.4923304
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4534886802915,
+          "lng": -80.49092796970848
+        },
+        "southwest": {
+          "lat": 43.4507907197085,
+          "lng": -80.4936259302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Kitchener Visitor Info Ctr",
+    "place_id": "ChIJL1v3avP0K4gR91XA0NsPjpg",
+    "plus_code": {
+      "compound_code": "FG25+Q3 Kitchener, ON, Canada",
+      "global_code": "86MXFG25+Q3"
+    },
+    "reference": "ChIJL1v3avP0K4gR91XA0NsPjpg",
+    "scope": "GOOGLE",
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "200 King Street West, Kitchener"
+  }
+]

@@ -1,0 +1,965 @@
+[
+  {
+    "name": "ALDO",
+    "coordinates": {
+      "lat": 43.4991033,
+      "lng": -80.52956329999999
+    },
+    "longitude": -80.52956329999999,
+    "latitude": 43.4991033,
+    "types": [
+      "shoe_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Marshalls & HomeSense",
+    "coordinates": {
+      "lat": 43.4187509,
+      "lng": -80.44885049999999
+    },
+    "longitude": -80.44885049999999,
+    "latitude": 43.4187509,
+    "types": [
+      "department_store",
+      "shoe_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "ALDO",
+    "coordinates": {
+      "lat": 43.4243176,
+      "lng": -80.438563
+    },
+    "longitude": -80.438563,
+    "latitude": 43.4243176,
+    "types": [
+      "shoe_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Hudson's Bay",
+    "coordinates": {
+      "lat": 43.4964422,
+      "lng": -80.5275083
+    },
+    "longitude": -80.5275083,
+    "latitude": 43.4964422,
+    "types": [
+      "department_store",
+      "shoe_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Sport Chek",
+    "coordinates": {
+      "lat": 43.4996081,
+      "lng": -80.52754209999999
+    },
+    "longitude": -80.52754209999999,
+    "latitude": 43.4996081,
+    "types": [
+      "bicycle_store",
+      "shoe_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Sport Chek",
+    "coordinates": {
+      "lat": 43.4239041,
+      "lng": -80.43781249999999
+    },
+    "longitude": -80.43781249999999,
+    "latitude": 43.4239041,
+    "types": [
+      "bicycle_store",
+      "shoe_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Sport Chek",
+    "coordinates": {
+      "lat": 43.43451489999999,
+      "lng": -80.5622508
+    },
+    "longitude": -80.5622508,
+    "latitude": 43.43451489999999,
+    "types": [
+      "bicycle_store",
+      "shoe_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Mark's",
+    "coordinates": {
+      "lat": 43.4357642,
+      "lng": -80.5630918
+    },
+    "longitude": -80.5630918,
+    "latitude": 43.4357642,
+    "types": [
+      "clothing_store",
+      "shoe_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Goodwill Community Store",
+    "coordinates": {
+      "lat": 43.43372299999999,
+      "lng": -80.4402087
+    },
+    "longitude": -80.4402087,
+    "latitude": 43.43372299999999,
+    "types": [
+      "book_store",
+      "shoe_store",
+      "home_goods_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "St. Jacobs Outlets",
+    "coordinates": {
+      "lat": 43.5095311,
+      "lng": -80.55454019999999
+    },
+    "longitude": -80.55454019999999,
+    "latitude": 43.5095311,
+    "types": [
+      "shopping_mall",
+      "shoe_store",
+      "home_goods_store",
+      "food",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "SoftMoc",
+    "coordinates": {
+      "lat": 43.4979896,
+      "lng": -80.52669530000001
+    },
+    "longitude": -80.52669530000001,
+    "latitude": 43.4979896,
+    "types": [
+      "shoe_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Walking On A Cloud",
+    "coordinates": {
+      "lat": 43.4153103,
+      "lng": -80.51534869999999
+    },
+    "longitude": -80.51534869999999,
+    "latitude": 43.4153103,
+    "types": [
+      "shoe_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Sirens",
+    "coordinates": {
+      "lat": 43.4978397,
+      "lng": -80.5262525
+    },
+    "longitude": -80.5262525,
+    "latitude": 43.4978397,
+    "types": [
+      "shoe_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Factory Shoe",
+    "coordinates": {
+      "lat": 43.4622964,
+      "lng": -80.4725316
+    },
+    "longitude": -80.4725316,
+    "latitude": 43.4622964,
+    "types": [
+      "shoe_store",
+      "health",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Call It Spring",
+    "coordinates": {
+      "lat": 43.4991033,
+      "lng": -80.52956329999999
+    },
+    "longitude": -80.52956329999999,
+    "latitude": 43.4991033,
+    "types": [
+      "shoe_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Custom Ortho-Dynamics Inc",
+    "coordinates": {
+      "lat": 43.4543191,
+      "lng": -80.4924826
+    },
+    "longitude": -80.4924826,
+    "latitude": 43.4543191,
+    "types": [
+      "shoe_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Running Room",
+    "coordinates": {
+      "lat": 43.46470399999999,
+      "lng": -80.522573
+    },
+    "longitude": -80.522573,
+    "latitude": 43.46470399999999,
+    "types": [
+      "shoe_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Baby Charlotte",
+    "coordinates": {
+      "lat": 43.45337729999999,
+      "lng": -80.51768799999999
+    },
+    "longitude": -80.51768799999999,
+    "latitude": 43.45337729999999,
+    "types": [
+      "shoe_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Mike Forgrave & Associates",
+    "coordinates": {
+      "lat": 43.4425533,
+      "lng": -80.5446396
+    },
+    "longitude": -80.5446396,
+    "latitude": 43.4425533,
+    "types": [
+      "shoe_store",
+      "health",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "RW&CO.",
+    "coordinates": {
+      "lat": 43.4974522,
+      "lng": -80.5264948
+    },
+    "longitude": -80.5264948,
+    "latitude": 43.4974522,
+    "types": [
+      "clothing_store",
+      "shoe_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Winners",
+    "coordinates": {
+      "lat": 43.4982231,
+      "lng": -80.5258289
+    },
+    "longitude": -80.5258289,
+    "latitude": 43.4982231,
+    "types": [
+      "department_store",
+      "shoe_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Journeys",
+    "coordinates": {
+      "lat": 43.49828699999999,
+      "lng": -80.5267806
+    },
+    "longitude": -80.5267806,
+    "latitude": 43.49828699999999,
+    "types": [
+      "shoe_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Foot Locker",
+    "coordinates": {
+      "lat": 43.4984827,
+      "lng": -80.52711099999999
+    },
+    "longitude": -80.52711099999999,
+    "latitude": 43.4984827,
+    "types": [
+      "shoe_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Penningtons",
+    "coordinates": {
+      "lat": 43.4360283,
+      "lng": -80.5595129
+    },
+    "longitude": -80.5595129,
+    "latitude": 43.4360283,
+    "types": [
+      "shoe_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "The Shoe Company",
+    "coordinates": {
+      "lat": 43.43639779999999,
+      "lng": -80.56001499999999
+    },
+    "longitude": -80.56001499999999,
+    "latitude": 43.43639779999999,
+    "types": [
+      "shoe_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Carter's OshKosh",
+    "coordinates": {
+      "lat": 43.4364599,
+      "lng": -80.56063
+    },
+    "longitude": -80.56063,
+    "latitude": 43.4364599,
+    "types": [
+      "shoe_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Reitmans",
+    "coordinates": {
+      "lat": 43.43517569999999,
+      "lng": -80.5591429
+    },
+    "longitude": -80.5591429,
+    "latitude": 43.43517569999999,
+    "types": [
+      "shoe_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Moores Clothing for Men",
+    "coordinates": {
+      "lat": 43.436269,
+      "lng": -80.5607835
+    },
+    "longitude": -80.5607835,
+    "latitude": 43.436269,
+    "types": [
+      "shoe_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Winners",
+    "coordinates": {
+      "lat": 43.4323085,
+      "lng": -80.55990229999999
+    },
+    "longitude": -80.55990229999999,
+    "latitude": 43.4323085,
+    "types": [
+      "department_store",
+      "shoe_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Winners",
+    "coordinates": {
+      "lat": 43.4165535,
+      "lng": -80.51737709999999
+    },
+    "longitude": -80.51737709999999,
+    "latitude": 43.4165535,
+    "types": [
+      "department_store",
+      "shoe_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Mark's",
+    "coordinates": {
+      "lat": 43.41658919999999,
+      "lng": -80.5147147
+    },
+    "longitude": -80.5147147,
+    "latitude": 43.41658919999999,
+    "types": [
+      "clothing_store",
+      "shoe_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Mark's",
+    "coordinates": {
+      "lat": 43.5118152,
+      "lng": -80.55031
+    },
+    "longitude": -80.55031,
+    "latitude": 43.5118152,
+    "types": [
+      "clothing_store",
+      "shoe_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Hollister Co.",
+    "coordinates": {
+      "lat": 43.4248605,
+      "lng": -80.439278
+    },
+    "longitude": -80.439278,
+    "latitude": 43.4248605,
+    "types": [
+      "clothing_store",
+      "shoe_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Carter's OshKosh",
+    "coordinates": {
+      "lat": 43.41878250000001,
+      "lng": -80.4485219
+    },
+    "longitude": -80.4485219,
+    "latitude": 43.41878250000001,
+    "types": [
+      "shoe_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "SKECHERS Retail",
+    "coordinates": {
+      "lat": 43.42391490000001,
+      "lng": -80.4404318
+    },
+    "longitude": -80.4404318,
+    "latitude": 43.42391490000001,
+    "types": [
+      "shoe_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Urban Behavior",
+    "coordinates": {
+      "lat": 43.42391490000001,
+      "lng": -80.4404318
+    },
+    "longitude": -80.4404318,
+    "latitude": 43.42391490000001,
+    "types": [
+      "clothing_store",
+      "shoe_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "RW&CO.",
+    "coordinates": {
+      "lat": 43.424656,
+      "lng": -80.439037
+    },
+    "longitude": -80.439037,
+    "latitude": 43.424656,
+    "types": [
+      "clothing_store",
+      "shoe_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Ardene",
+    "coordinates": {
+      "lat": 43.4242462,
+      "lng": -80.4392455
+    },
+    "longitude": -80.4392455,
+    "latitude": 43.4242462,
+    "types": [
+      "clothing_store",
+      "shoe_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Journeys",
+    "coordinates": {
+      "lat": 43.4238008,
+      "lng": -80.43893589999999
+    },
+    "longitude": -80.43893589999999,
+    "latitude": 43.4238008,
+    "types": [
+      "shoe_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Mark's",
+    "coordinates": {
+      "lat": 43.42398999999999,
+      "lng": -80.43715999999999
+    },
+    "longitude": -80.43715999999999,
+    "latitude": 43.42398999999999,
+    "types": [
+      "clothing_store",
+      "shoe_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Mister Safety Shoes",
+    "coordinates": {
+      "lat": 43.4111202,
+      "lng": -80.4596388
+    },
+    "longitude": -80.4596388,
+    "latitude": 43.4111202,
+    "types": [
+      "shoe_store",
+      "clothing_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Loop",
+    "coordinates": {
+      "lat": 43.46546430000001,
+      "lng": -80.5227644
+    },
+    "longitude": -80.5227644,
+    "latitude": 43.46546430000001,
+    "types": [
+      "shoe_store",
+      "clothing_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Channer's Mens Apparel",
+    "coordinates": {
+      "lat": 43.46338869999999,
+      "lng": -80.5221688
+    },
+    "longitude": -80.5221688,
+    "latitude": 43.46338869999999,
+    "types": [
+      "shoe_store",
+      "clothing_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Marshalls",
+    "coordinates": {
+      "lat": 43.4348009,
+      "lng": -80.5624703
+    },
+    "longitude": -80.5624703,
+    "latitude": 43.4348009,
+    "types": [
+      "department_store",
+      "shoe_store",
+      "clothing_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Moores Clothing for Men",
+    "coordinates": {
+      "lat": 43.4712132,
+      "lng": -80.514529
+    },
+    "longitude": -80.514529,
+    "latitude": 43.4712132,
+    "types": [
+      "shoe_store",
+      "clothing_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Paul Puncher Men's Clothier",
+    "coordinates": {
+      "lat": 43.464668,
+      "lng": -80.52062629999999
+    },
+    "longitude": -80.52062629999999,
+    "latitude": 43.464668,
+    "types": [
+      "shoe_store",
+      "clothing_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Running Room",
+    "coordinates": {
+      "lat": 43.42097899999999,
+      "lng": -80.447689
+    },
+    "longitude": -80.447689,
+    "latitude": 43.42097899999999,
+    "types": [
+      "shoe_store",
+      "clothing_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "BioPed Footcare & Orthotics",
+    "coordinates": {
+      "lat": 43.5019236,
+      "lng": -80.5350115
+    },
+    "longitude": -80.5350115,
+    "latitude": 43.5019236,
+    "types": [
+      "shoe_store",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Moores Clothing for Men",
+    "coordinates": {
+      "lat": 43.4209773,
+      "lng": -80.4476869
+    },
+    "longitude": -80.4476869,
+    "latitude": 43.4209773,
+    "types": [
+      "shoe_store",
+      "clothing_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Shoes 22 Waterloo",
+    "coordinates": {
+      "lat": 43.4718254,
+      "lng": -80.5155443
+    },
+    "longitude": -80.5155443,
+    "latitude": 43.4718254,
+    "types": [
+      "shoe_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "SHOE PER",
+    "coordinates": {
+      "lat": 43.4185468,
+      "lng": -80.4476576
+    },
+    "longitude": -80.4476576,
+    "latitude": 43.4185468,
+    "types": [
+      "shoe_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Mark Nunes",
+    "coordinates": {
+      "lat": 43.4598069,
+      "lng": -80.51869959999999
+    },
+    "longitude": -80.51869959999999,
+    "latitude": 43.4598069,
+    "types": [
+      "clothing_store",
+      "shoe_store",
+      "laundry",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "BioPed Footcare & Orthotics",
+    "coordinates": {
+      "lat": 43.46406630000001,
+      "lng": -80.4660901
+    },
+    "longitude": -80.4660901,
+    "latitude": 43.46406630000001,
+    "types": [
+      "shoe_store",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "SoftMoc",
+    "coordinates": {
+      "lat": 43.4247757,
+      "lng": -80.4385449
+    },
+    "longitude": -80.4385449,
+    "latitude": 43.4247757,
+    "types": [
+      "shoe_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Foot Locker",
+    "coordinates": {
+      "lat": 43.42454699999999,
+      "lng": -80.43822999999999
+    },
+    "longitude": -80.43822999999999,
+    "latitude": 43.42454699999999,
+    "types": [
+      "shoe_store",
+      "clothing_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Tootsies Shoe Market",
+    "coordinates": {
+      "lat": 43.5081413,
+      "lng": -80.5544353
+    },
+    "longitude": -80.5544353,
+    "latitude": 43.5081413,
+    "types": [
+      "shoe_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Alexandria's",
+    "coordinates": {
+      "lat": 43.4631605,
+      "lng": -80.52332059999999
+    },
+    "longitude": -80.52332059999999,
+    "latitude": 43.4631605,
+    "types": [
+      "shoe_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Birken Stock",
+    "coordinates": {
+      "lat": 43.4717838,
+      "lng": -80.51550809999999
+    },
+    "longitude": -80.51550809999999,
+    "latitude": 43.4717838,
+    "types": [
+      "shoe_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Goodwill Community Store",
+    "coordinates": {
+      "lat": 43.4855612,
+      "lng": -80.5263861
+    },
+    "longitude": -80.5263861,
+    "latitude": 43.4855612,
+    "types": [
+      "book_store",
+      "shoe_store",
+      "clothing_store",
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Shoecrafters",
+    "coordinates": {
+      "lat": 43.4542426,
+      "lng": -80.4925004
+    },
+    "longitude": -80.4925004,
+    "latitude": 43.4542426,
+    "types": [
+      "shoe_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  }
+]

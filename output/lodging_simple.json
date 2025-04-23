@@ -1,0 +1,863 @@
+[
+  {
+    "name": "Weber Inn Kitchener",
+    "coordinates": {
+      "lat": 43.4311111,
+      "lng": -80.4383333
+    },
+    "longitude": -80.4383333,
+    "latitude": 43.4311111,
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "The Walper Hotel - JDV by Hyatt",
+    "coordinates": {
+      "lat": 43.4496232,
+      "lng": -80.4893635
+    },
+    "longitude": -80.4893635,
+    "latitude": 43.4496232,
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Holiday Inn Express & Suites Waterloo - St. Jacobs Area by IHG",
+    "coordinates": {
+      "lat": 43.5091027,
+      "lng": -80.5562973
+    },
+    "longitude": -80.5562973,
+    "latitude": 43.5091027,
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Crowne Plaza Kitchener-Waterloo by IHG",
+    "coordinates": {
+      "lat": 43.44869120000001,
+      "lng": -80.4873382
+    },
+    "longitude": -80.4873382,
+    "latitude": 43.44869120000001,
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Courtyard Waterloo St. Jacobs",
+    "coordinates": {
+      "lat": 43.5064898,
+      "lng": -80.5552836
+    },
+    "longitude": -80.5552836,
+    "latitude": 43.5064898,
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Hotel Laurier - King Street Residence",
+    "coordinates": {
+      "lat": 43.4745585,
+      "lng": -80.5241394
+    },
+    "longitude": -80.5241394,
+    "latitude": 43.4745585,
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Fairway Inn & Suites",
+    "coordinates": {
+      "lat": 43.4287341,
+      "lng": -80.434477
+    },
+    "longitude": -80.434477,
+    "latitude": 43.4287341,
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Kitchener Motel",
+    "coordinates": {
+      "lat": 43.4717559,
+      "lng": -80.44018799999999
+    },
+    "longitude": -80.44018799999999,
+    "latitude": 43.4717559,
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Delta Hotels Waterloo",
+    "coordinates": {
+      "lat": 43.4633637,
+      "lng": -80.52844859999999
+    },
+    "longitude": -80.52844859999999,
+    "latitude": 43.4633637,
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Bingemans",
+    "coordinates": {
+      "lat": 43.4735004,
+      "lng": -80.4500826
+    },
+    "longitude": -80.4500826,
+    "latitude": 43.4735004,
+    "types": [
+      "campground",
+      "amusement_park",
+      "movie_theater",
+      "bowling_alley",
+      "park",
+      "lodging",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Uptown Waterloo Furnished Rooms",
+    "coordinates": {
+      "lat": 43.46964849999999,
+      "lng": -80.51767939999999
+    },
+    "longitude": -80.51767939999999,
+    "latitude": 43.46964849999999,
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Homewood Suites by Hilton Waterloo/St. Jacobs, Ontario, Canada",
+    "coordinates": {
+      "lat": 43.50757120000001,
+      "lng": -80.5540348
+    },
+    "longitude": -80.5540348,
+    "latitude": 43.50757120000001,
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Envisionmatrix Solar",
+    "coordinates": {
+      "lat": 43.4535832,
+      "lng": -80.5834287
+    },
+    "longitude": -80.5834287,
+    "latitude": 43.4535832,
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Accommod8u",
+    "coordinates": {
+      "lat": 43.4723522,
+      "lng": -80.5360449
+    },
+    "longitude": -80.5360449,
+    "latitude": 43.4723522,
+    "types": [
+      "real_estate_agency",
+      "finance",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "University of Waterloo Summer Accommodation",
+    "coordinates": {
+      "lat": 43.4702515,
+      "lng": -80.5539937
+    },
+    "longitude": -80.5539937,
+    "latitude": 43.4702515,
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Waterloo Suites Hotel",
+    "coordinates": {
+      "lat": 43.499122,
+      "lng": -80.53174589999999
+    },
+    "longitude": -80.53174589999999,
+    "latitude": 43.499122,
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Premiere Suites",
+    "coordinates": {
+      "lat": 43.43795980000001,
+      "lng": -80.55625069999999
+    },
+    "longitude": -80.55625069999999,
+    "latitude": 43.43795980000001,
+    "types": [
+      "real_estate_agency",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Colonial Creekside Grand Guest House",
+    "coordinates": {
+      "lat": 43.5010418,
+      "lng": -80.5071584
+    },
+    "longitude": -80.5071584,
+    "latitude": 43.5010418,
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Baumann Haus Bed & Breakfast",
+    "coordinates": {
+      "lat": 43.5387004,
+      "lng": -80.55570449999999
+    },
+    "longitude": -80.55570449999999,
+    "latitude": 43.5387004,
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "1842 Bed & Breakfast",
+    "coordinates": {
+      "lat": 43.5410451,
+      "lng": -80.5015293
+    },
+    "longitude": -80.5015293,
+    "latitude": 43.5410451,
+    "types": [
+      "lodging",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Mayflower Motel",
+    "coordinates": {
+      "lat": 43.4670735,
+      "lng": -80.4534496
+    },
+    "longitude": -80.4534496,
+    "latitude": 43.4670735,
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Landings Campground",
+    "coordinates": {
+      "lat": 43.3843407,
+      "lng": -80.5446504
+    },
+    "longitude": -80.5446504,
+    "latitude": 43.3843407,
+    "types": [
+      "campground",
+      "rv_park",
+      "park",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Green Gables Guest House",
+    "coordinates": {
+      "lat": 43.4574715,
+      "lng": -80.4825757
+    },
+    "longitude": -80.4825757,
+    "latitude": 43.4574715,
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Forest Hill Bed and Breakfast",
+    "coordinates": {
+      "lat": 43.4304914,
+      "lng": -80.503817
+    },
+    "longitude": -80.503817,
+    "latitude": 43.4304914,
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Sherwood Motel",
+    "coordinates": {
+      "lat": 43.4306853,
+      "lng": -80.4382692
+    },
+    "longitude": -80.4382692,
+    "latitude": 43.4306853,
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Victoria Motel",
+    "coordinates": {
+      "lat": 43.4670125,
+      "lng": -80.4539709
+    },
+    "longitude": -80.4539709,
+    "latitude": 43.4670125,
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Green Acre Park",
+    "coordinates": {
+      "lat": 43.485512,
+      "lng": -80.589759
+    },
+    "longitude": -80.589759,
+    "latitude": 43.485512,
+    "types": [
+      "campground",
+      "park",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "The Laundry Rooms - Waterloo",
+    "coordinates": {
+      "lat": 43.4603811,
+      "lng": -80.520197
+    },
+    "longitude": -80.520197,
+    "latitude": 43.4603811,
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "RED Condominiums",
+    "coordinates": {
+      "lat": 43.4601197,
+      "lng": -80.5185034
+    },
+    "longitude": -80.5185034,
+    "latitude": 43.4601197,
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Residence in Waterloo",
+    "coordinates": {
+      "lat": 43.4687866,
+      "lng": -80.52261
+    },
+    "longitude": -80.52261,
+    "latitude": 43.4687866,
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "123 Bed and Breakfast",
+    "coordinates": {
+      "lat": 43.4604981,
+      "lng": -80.5158652
+    },
+    "longitude": -80.5158652,
+    "latitude": 43.4604981,
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Peppler Palace",
+    "coordinates": {
+      "lat": 43.4696717,
+      "lng": -80.520372
+    },
+    "longitude": -80.520372,
+    "latitude": 43.4696717,
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Suite 76",
+    "coordinates": {
+      "lat": 43.4696401,
+      "lng": -80.52213359999999
+    },
+    "longitude": -80.52213359999999,
+    "latitude": 43.4696401,
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Maison Canada",
+    "coordinates": {
+      "lat": 43.472824,
+      "lng": -80.524593
+    },
+    "longitude": -80.524593,
+    "latitude": 43.472824,
+    "types": [
+      "local_government_office",
+      "real_estate_agency",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Backpacker Student @ Wilfrid Laurier University - Private Single Room",
+    "coordinates": {
+      "lat": 43.47441209999999,
+      "lng": -80.5242645
+    },
+    "longitude": -80.5242645,
+    "latitude": 43.47441209999999,
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Scott Street Stayner Ontario Canada",
+    "coordinates": {
+      "lat": 43.4638357,
+      "lng": -80.5354239
+    },
+    "longitude": -80.5354239,
+    "latitude": 43.4638357,
+    "types": [
+      "campground",
+      "park",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Maison louée",
+    "coordinates": {
+      "lat": 43.4654175,
+      "lng": -80.50386379999999
+    },
+    "longitude": -80.50386379999999,
+    "latitude": 43.4654175,
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "ONpoint Rentals",
+    "coordinates": {
+      "lat": 43.4715257,
+      "lng": -80.50698539999999
+    },
+    "longitude": -80.50698539999999,
+    "latitude": 43.4715257,
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Larch St Buildings",
+    "coordinates": {
+      "lat": 43.47702519999999,
+      "lng": -80.5316091
+    },
+    "longitude": -80.5316091,
+    "latitude": 43.47702519999999,
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "The Laundry Rooms - Kitchener",
+    "coordinates": {
+      "lat": 43.45399370000001,
+      "lng": -80.50312079999999
+    },
+    "longitude": -80.50312079999999,
+    "latitude": 43.45399370000001,
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Mobile Head1/4ers : Barbering",
+    "coordinates": {
+      "lat": 43.4541999,
+      "lng": -80.5025368
+    },
+    "longitude": -80.5025368,
+    "latitude": 43.4541999,
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "The Union B24",
+    "coordinates": {
+      "lat": 43.4535945,
+      "lng": -80.5031619
+    },
+    "longitude": -80.5031619,
+    "latitude": 43.4535945,
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "ONpoint Rentals",
+    "coordinates": {
+      "lat": 43.45468229999999,
+      "lng": -80.49909199999999
+    },
+    "longitude": -80.49909199999999,
+    "latitude": 43.45468229999999,
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "United College Graduate Apartments",
+    "coordinates": {
+      "lat": 43.468155,
+      "lng": -80.5459806
+    },
+    "longitude": -80.5459806,
+    "latitude": 43.468155,
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Housing",
+    "coordinates": {
+      "lat": 43.45214989999999,
+      "lng": -80.4941845
+    },
+    "longitude": -80.4941845,
+    "latitude": 43.45214989999999,
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "ZNAPT LPOTO",
+    "coordinates": {
+      "lat": 43.4509036,
+      "lng": -80.4947153
+    },
+    "longitude": -80.4947153,
+    "latitude": 43.4509036,
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Hahahah",
+    "coordinates": {
+      "lat": 43.45175220000001,
+      "lng": -80.49252369999999
+    },
+    "longitude": -80.49252369999999,
+    "latitude": 43.45175220000001,
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Opulent Excursions",
+    "coordinates": {
+      "lat": 43.4402597,
+      "lng": -80.5305759
+    },
+    "longitude": -80.5305759,
+    "latitude": 43.4402597,
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "ONpoint Rentals",
+    "coordinates": {
+      "lat": 43.4710748,
+      "lng": -80.485205
+    },
+    "longitude": -80.485205,
+    "latitude": 43.4710748,
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "HB GUEST HOME INC.",
+    "coordinates": {
+      "lat": 43.4908839,
+      "lng": -80.5180891
+    },
+    "longitude": -80.5180891,
+    "latitude": 43.4908839,
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Toiture Expert 2000",
+    "coordinates": {
+      "lat": 43.4486055,
+      "lng": -80.4859
+    },
+    "longitude": -80.4859,
+    "latitude": 43.4486055,
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Hale community",
+    "coordinates": {
+      "lat": 43.4478784,
+      "lng": -80.48414269999999
+    },
+    "longitude": -80.48414269999999,
+    "latitude": 43.4478784,
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Nest Suite Living",
+    "coordinates": {
+      "lat": 43.4484169,
+      "lng": -80.48296169999999
+    },
+    "longitude": -80.48296169999999,
+    "latitude": 43.4484169,
+    "types": [
+      "real_estate_agency",
+      "lodging",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "滑铁卢男人之家",
+    "coordinates": {
+      "lat": 43.44532969999999,
+      "lng": -80.5557738
+    },
+    "longitude": -80.5557738,
+    "latitude": 43.44532969999999,
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "ONpoint Rentals",
+    "coordinates": {
+      "lat": 43.49076529999999,
+      "lng": -80.54550619999999
+    },
+    "longitude": -80.54550619999999,
+    "latitude": 43.49076529999999,
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Boardwalk Homes Executive Guest Houses",
+    "coordinates": {
+      "lat": 43.4377234,
+      "lng": -80.55780829999999
+    },
+    "longitude": -80.55780829999999,
+    "latitude": 43.4377234,
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "UNIT 4 1st floor",
+    "coordinates": {
+      "lat": 43.4974087,
+      "lng": -80.5471963
+    },
+    "longitude": -80.5471963,
+    "latitude": 43.4974087,
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Park's Edge",
+    "coordinates": {
+      "lat": 43.497852,
+      "lng": -80.56135730000001
+    },
+    "longitude": -80.56135730000001,
+    "latitude": 43.497852,
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Hb Guest Home 3",
+    "coordinates": {
+      "lat": 43.495023,
+      "lng": -80.572476
+    },
+    "longitude": -80.572476,
+    "latitude": 43.495023,
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Hampton Inn & Suites by Hilton Waterloo St. Jacobs",
+    "coordinates": {
+      "lat": 43.5067042,
+      "lng": -80.55405689999999
+    },
+    "longitude": -80.55405689999999,
+    "latitude": 43.5067042,
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  }
+]

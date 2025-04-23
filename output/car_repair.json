@@ -1,0 +1,3076 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4852414,
+        "lng": -80.5226235
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4865092802915,
+          "lng": -80.52153251970849
+        },
+        "southwest": {
+          "lat": 43.4838113197085,
+          "lng": -80.52423048029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Canadian Tire",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100210000187847486141\">Canadian Tire</a>"
+        ],
+        "photo_reference": "AeeoHcJRIBdzmGGJI1L3tJ6W-rnQeVKwNxvhrOfZe7t1Rd6ahgql3UM3WQnB92aHPi_aRTOdEH8AfkEvlcp7AQpvap1XGZfcglR1CE5iQGmbqYzJqrGN1OAS1Kwh-0Ws7bKSWm-M6wAcZ0KvNns8zlkTq--E6B_dP-F15zouRce3fRovGywKiN5yWxWFXwmUNvaoxyrCI8kHZZac9FnyXcT_yELky2DB93JOAle93pEJjirLT6r6pDFUHtOTX1lF07lufbgtp-hZi2mwwfF9ZVbEgbBDnSLGOG5-g_yZQc_NbTwBPvGYEY0rlLJ_mMo-pwpiF7I-RgA8uG0",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJa9M1l-3zK4gR9Y2tWY5npVs",
+    "plus_code": {
+      "compound_code": "FFPG+3X Waterloo, ON, Canada",
+      "global_code": "86MXFFPG+3X"
+    },
+    "rating": 4.1,
+    "reference": "ChIJa9M1l-3zK4gR9Y2tWY5npVs",
+    "scope": "GOOGLE",
+    "types": [
+      "department_store",
+      "car_repair",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2368,
+    "vicinity": "400 Weber Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4484988,
+        "lng": -80.4449983
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4499470302915,
+          "lng": -80.44331521970851
+        },
+        "southwest": {
+          "lat": 43.4472490697085,
+          "lng": -80.44601318029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Canadian Tire",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116878451724222153074\">Canadian Tire</a>"
+        ],
+        "photo_reference": "AeeoHcLyaHxWCcAyST-Ezfthsm4RaxPMz9ZdtLkQ5mcaR9vcIM4ZRQbhLHwTMovvk-ZcF25HvP7fl5CsYDZHhqvhoypRG1hfYIexoaaSXPwfVfcOareoA7Tu4L-eDUbi2Zq1l0473B0xTctBKGLD63Jj3ovYO7UYDMbb9J23nBq0FtKcSIBIW77ZVY5AOemrVaL-jIXj_S50uiQPqSroVBxKEHP5BDPQhT8um0g-V2kjb4UNj2U14lN7G_nsrUpHbUrFSA-Z5ou5qqD-yteCYbKEH8qIm5tg1uECgHwg4H2AgF5HwRXVaxDqGGwISE7XbpWwXfrXY0kpuYk",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJOebAxav0K4gRW0yulB6sujc",
+    "plus_code": {
+      "compound_code": "CHX4+92 Kitchener, ON, Canada",
+      "global_code": "86MXCHX4+92"
+    },
+    "rating": 3.6,
+    "reference": "ChIJOebAxav0K4gRW0yulB6sujc",
+    "scope": "GOOGLE",
+    "types": [
+      "department_store",
+      "car_repair",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1442,
+    "vicinity": "1005 Ottawa Street North, Mall, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.419701,
+        "lng": -80.44115049999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.42128418029149,
+          "lng": -80.4396064197085
+        },
+        "southwest": {
+          "lat": 43.41858621970849,
+          "lng": -80.4423043802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Canadian Tire",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117743815836976235816\">Gary Cameron</a>"
+        ],
+        "photo_reference": "AeeoHcK2L3NLN5XYzdPoH4htDblJOWbPG3lUUFFLupbzYFegXEGMDTcvvC7o5R-4FaATpT_HVPwxaBn7IhHELBrexUMwJulA3DVHN3MoqV8xG0krkQ4zlZzFIkcEWq8nki9edAYAmCyudebzRkqzjFT1Z8JyTYLvBG-D5U8Z_k0OH9wlq83FRE-tH5Dt0MwecSt5p71oxg6azZBZVp66nhrFECN_XiXHzapxGOzo50n9ZxQ-Wg4icc0x18s8uWDMQL8qKQSr-_vKQg8pgz3Wk-msrc-Q8gaifNnDCGIVH8-Sj0afsqoCPFu0JFz7dTioq-FUzebhxS5VPwPoJzB2hEUHqxuskMES_Q78lm0dFFgwG4SRiS7AT4GSnJQnPcdpijMgZTHs-KKt2hvL3tDe5EXqDhhQ_0JGLU8xqbI5YI5HzC4695jgnnKGMXEYSrqrrYrv-8_UFm8F7qbhX-NzaEaXb-B9JMRdvgGshbJWllH_TD5p8b8-Qs-2u7lcysob2Acl6I84suzrdtSWohnHjYWhMUsZLAkLSTI-2TCMgcjo3870T7-A1lOXB6O9TZkioVJGlye1-apqCPOec9mMqj1A1KKYyia8vMqON9k0dLT2LocBk17tyMh73Om2h_TLJfLUKqE_KMhr",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJHZrCuNqKK4gRHShVJkG_Kxc",
+    "plus_code": {
+      "compound_code": "CH95+VG Kitchener, ON, Canada",
+      "global_code": "86MXCH95+VG"
+    },
+    "rating": 4,
+    "reference": "ChIJHZrCuNqKK4gRHShVJkG_Kxc",
+    "scope": "GOOGLE",
+    "types": [
+      "department_store",
+      "car_repair",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2139,
+    "vicinity": "385 Fairway Road South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4475553,
+        "lng": -80.5737841
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4488748302915,
+          "lng": -80.57240276970849
+        },
+        "southwest": {
+          "lat": 43.4461768697085,
+          "lng": -80.5751007302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Canadian Tire",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115209777249363191318\">Sreekar Tripuranthakam</a>"
+        ],
+        "photo_reference": "AeeoHcIJek7pkOI1QTCHhdlzZJ3ekGM8yH3_Yc1lonsgCPRE8U9HMDoLGwmaWKx5r-zzBPD9JOnNHWM21loNPHjfMvEWTRmUsccqn8N71kawenuAhFf_XO_y8lBPIvVndQplp2xIef6odH01G0WigbIyu-_JN4mK19qEuEYXGYHIg2ZWdHZJvZQ1TZcJoxSqT4k9AqtvJhRp5mr6gf8Kl-OydVcy4G8eb1xGdRHV3vgLcY4jwLpUaFTIGdPsU_YPjoWWTrVlYhc-1N4nMLRSLPa_BnlqJP42R8eo9mnXfpQ11Qy6wJaZu2tU5lHYDcN2u4urgyQd-Iu1N3DvQTbn61ZkHZB4SdyZ3rls6MbCF5S9kES1B8wSDGwyNOLKBiWr5DbnDSXch06n4rMgmrMQR_3S9MRlc2UrJA_sIqphuGK9XPUjZ0uDLDHTZY1ZQVP0wb6wfdCr5wLm5E8Fhzej6OKzgGVoX9WuFNLp3XMUB_KyfmqLzQ2Tcq1dIrgEDggtUcOKdLJGmZor07Kb24B1jyO8BrO_9VvwqjsBC5yqHaDcqQ9nqWA-EYmNIRCaaHOcLOaHuGetBSjF-OCnZGgZJRq_RGSlhBJHKRcBNKbMCGIEUHitaAGeuZ7DyFq9uBvbq7L4YEPDJQ",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJuekhg_H2K4gRFuPXSj6YdiY",
+    "plus_code": {
+      "compound_code": "CCXG+2F Waterloo, ON, Canada",
+      "global_code": "86MXCCXG+2F"
+    },
+    "rating": 4,
+    "reference": "ChIJuekhg_H2K4gRFuPXSj6YdiY",
+    "scope": "GOOGLE",
+    "types": [
+      "department_store",
+      "car_repair",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2109,
+    "vicinity": "656 Erb Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4168731,
+        "lng": -80.51328149999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.41806958029149,
+          "lng": -80.51188566970849
+        },
+        "southwest": {
+          "lat": 43.4153716197085,
+          "lng": -80.5145836302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Canadian Tire",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111098051797814145389\">CK DeGraaf</a>"
+        ],
+        "photo_reference": "AeeoHcI4F3DyqzrmQP9WgPzLqcdTP-7TbTZzaZ6JIRXLbnlk7PZuK6OhrsvaGlLEASiRl77DlVhqEwNjw872crFthiTh3yWeIY-22FHr2G7fhjrlMzkD2TAool5erOUo443EFFFC2AIGk-vSn5DIByTRIxnQch4XCbp_tzm_m5BQRMhpFLQMdAeHk01KuClobJu-OpIzC_B_xmarHnJVC7hibVM8bvgPX1D--cymVhMt-5KWRz0IWTzTPlC3aDVv8_MzZz3S275y9rl_ghOiIQaKdqI8jd-shOl9Mhk6d-X1WfzuHAk7xW3wmkyvdFCtwSoNkDEl1hZQgh3QVKYxUbhjgrLpPpDFpSgjuTqb2yYfgwRI9plqdkz6_-IrJlfsbAzrc1xk0w1ZhiMiy6fFN1o0OSoFNqztPgJVZUmshsHPnXM8VlbgioFi6cbzrxmY6kr2pZf9EkwtpAUv0HzJuJd597CYAzjTShl3J2kGhKiBhRF9Xja-xfUx2fVOss_rOav29BOTVLaVr-_VXnS94VNZ7cWjoGihgFGjWDvSy7wH-EZSX7xIAlDEA7kdiV-JBSebtBSJZ1x41UcXlbA8Q6zFDPvg81qmfQo4TnpPem953Hy54wSzrAemx6BZT9hT6OQ5D7ViDsOI",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJOaWEnb31K4gRjtGX1VGpxIQ",
+    "plus_code": {
+      "compound_code": "CF8P+PM Kitchener, ON, Canada",
+      "global_code": "86MXCF8P+PM"
+    },
+    "rating": 4,
+    "reference": "ChIJOaWEnb31K4gRjtGX1VGpxIQ",
+    "scope": "GOOGLE",
+    "types": [
+      "department_store",
+      "car_repair",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2683,
+    "vicinity": "Sunrise Shopping Center, 1400 Ottawa Street South UNIT E, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.431925,
+        "lng": -80.524728
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4330196302915,
+          "lng": -80.52362281970849
+        },
+        "southwest": {
+          "lat": 43.4303216697085,
+          "lng": -80.5263207802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Mr. Lube + Tires",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110744752270892940395\">Mr. Lube + Tires</a>"
+        ],
+        "photo_reference": "AeeoHcJYniweZrNO6NkznfJVPO1MIhB5jSLHTNCAJt8wG0VPqWseVcWw3PnZSzF9OzLnv4RlKdCqwhbYVwfg34f8PuVSIe4ax_pgZOx2N4OfwMc5cEUg8SXSl90BJQJAVMIo_qDKNechp4KqLUyNFUR5d56xghnmeO-VKGLlm1Wv3PC8umPTndhWOqi9AbzxoImXiK2_Ce6g3qEpLQZk3cCd6hcdevq7djbFQUhXCuMdsUbxnqgkXg0S3mCfd4q75vzDzqIwrX7NK3anC5XIlbdVofajoQ6FOM-7p39ux_BqOq2pLTDpTAufuXNagHINYFyC8wvzeejtNsY",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJ5yapzcv1K4gRGbnT156vYA0",
+    "plus_code": {
+      "compound_code": "CFJG+Q4 Kitchener, ON, Canada",
+      "global_code": "86MXCFJG+Q4"
+    },
+    "rating": 4.2,
+    "reference": "ChIJ5yapzcv1K4gRGbnT156vYA0",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 949,
+    "vicinity": "775 Highland Road West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.498589,
+        "lng": -80.5310432
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4999840802915,
+          "lng": -80.5300699197085
+        },
+        "southwest": {
+          "lat": 43.4972861197085,
+          "lng": -80.53276788029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Waterloo Honda",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104519933917556949282\">Waterloo Honda</a>"
+        ],
+        "photo_reference": "AeeoHcLNdGeqEaQMAqjCM1aGaNId10X6xuEQqLbORVtIVJWBY_fjeM_xCkDnOuTlcGgW-XhitHV9kkjrIbbHVaEeLCG7PCAoUA-s6zzdVLhaU92weUKRZ-Vz14EQNorgna1TW10S2OsCpj_NnZ7g_pZqdE6twcbcnm6LH_KBPhnxl61iJtjxGB141-D5aNYF2NsB-h0H0Y05Uzm_mwEFFcbLfDghc9I6mDRBssZvClfRwhqhkGCpv7Qq4GM-KJp86bVH43ZDM8QKjxRNumMJDfSBYo8AfWua5WkJGnvn_hILP5mWa4d68pdHaUDQ7QYFCA52CTA7KsGBYfw",
+        "width": 5184
+      }
+    ],
+    "place_id": "ChIJr7qrncTzK4gRWMEoZMPl-tc",
+    "plus_code": {
+      "compound_code": "FFX9+CH Waterloo, ON, Canada",
+      "global_code": "86MXFFX9+CH"
+    },
+    "rating": 4.3,
+    "reference": "ChIJr7qrncTzK4gRWMEoZMPl-tc",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "car_dealer",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2305,
+    "vicinity": "545 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.496913,
+        "lng": -80.545052
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4983183802915,
+          "lng": -80.54394016970849
+        },
+        "southwest": {
+          "lat": 43.4956204197085,
+          "lng": -80.5466381302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Waterloo Nissan",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1066,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116033263160355911414\">Waterloo Nissan</a>"
+        ],
+        "photo_reference": "AeeoHcL-o7b66fxDK4HHZaaYmpI7jPtCF5OmGaramqDisjRid83UKOZJIPH8RcxITqX5gwk4N_-T7zAIGD2JsTh0v19aK7J2Gom62FpdLDqxCksu89ExbPW8sdpWQbQmKyQkaenJNk_fWWcQ8sihZC4dOQwLaEfOCd-Ht02DrhEVsnCXrHSglEafPL1_7MncsZe8kTj_fT5XQeJr_SbVUH6CuXYA2XbwhVm-5vH1ZCiUF-zes7Os_C9EGxUYqzUUfdroVHPgWQMQV8r6qB9I286sDVe-11dzwj5tMxNbud58pLIlLFXDICOt64xZ5O9dsABxrkx5GLJmzEg",
+        "width": 1600
+      }
+    ],
+    "place_id": "ChIJl9poFnf0K4gROtohky-W98w",
+    "plus_code": {
+      "compound_code": "FFW3+QX Waterloo, ON, Canada",
+      "global_code": "86MXFFW3+QX"
+    },
+    "rating": 4.4,
+    "reference": "ChIJl9poFnf0K4gROtohky-W98w",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "car_dealer",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1388,
+    "vicinity": "141 Northfield Drive West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46338859999999,
+        "lng": -80.5030945
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4646287802915,
+          "lng": -80.50166151970849
+        },
+        "southwest": {
+          "lat": 43.4619308197085,
+          "lng": -80.50435948029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Forbes Motors Chevrolet Buick GMC",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3648,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118379070654110897693\">Forbes Motors Chevrolet Buick GMC</a>"
+        ],
+        "photo_reference": "AeeoHcL087eChmjOptrNdY9piX3E7G9UgIR_mw7hRME6p9PljuIwn7H0xsO0uWceqAIfOhqfakBziZtbbQbeuWbmEoeruNoALABa_oRCV_VEzFwxcBe9hjF7eAqEh31Gsk7wPshi4KbiUdPe-ctRmqwAXyiPrLydalhENZoV9jknNe9BWyIc_GzvbDb7ca7aRTnsy5QGfK3Os0kizLlAYgt4SjXlZ9tnnCtK2gUKPSF5gVNrUehNMMPT_ye4up1xbuVzqYYQLQn83gKzKecv9ykZzyzUlJbSZU2FdR08oliDvrY6V5e4OBpQS2GZ-VXb0xRlwacp6JOBRK8",
+        "width": 5472
+      }
+    ],
+    "place_id": "ChIJ9UVZ2nz0K4gRqaP9ihpiRYI",
+    "plus_code": {
+      "compound_code": "FF7W+9Q Waterloo, ON, Canada",
+      "global_code": "86MXFF7W+9Q"
+    },
+    "rating": 4.6,
+    "reference": "ChIJ9UVZ2nz0K4gRqaP9ihpiRYI",
+    "scope": "GOOGLE",
+    "types": [
+      "car_dealer",
+      "car_repair",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1590,
+    "vicinity": "165 Weber Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4063818,
+        "lng": -80.44803879999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4077662802915,
+          "lng": -80.4468121697085
+        },
+        "southwest": {
+          "lat": 43.4050683197085,
+          "lng": -80.4495101302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Go! Glass & Accessories",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 908,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106265866238530884499\">Go! Glass &amp; Accessories</a>"
+        ],
+        "photo_reference": "AeeoHcKxV6teDe-vKDoJmldU6sBKPWkQPehq3-0Wrm_Gm5WoupQMYwtIPEdhEOJ4PC5vPZokego2cZaZt8hRaSN4i5AVd_5YWjYH3Y1Hz3JSPaL5CCR93PYXMkvq8S8B0M1aAAaI6iMKiL83aeLkY9yBVL8w39QqiDmfrODyjw-YiN45u3yyszdzQQw08gPjPxWMqGtf2TTblqGuZf5wIlViZWkDuWZnLvQfR_foiCEA2HpWqEAbvd8UUpx0vcE98B4iR3cc1MB_HLUgK2zppgm3Y_mWPc7cUO2Sro5_8Ak5YXF6xi2f6bwQmFOb2JmzeEWAuyFuAh6QUJA",
+        "width": 1613
+      }
+    ],
+    "place_id": "ChIJ2fYuu7aKK4gRmLkYdqGYUhw",
+    "plus_code": {
+      "compound_code": "CH42+HQ Kitchener, ON, Canada",
+      "global_code": "86MXCH42+HQ"
+    },
+    "rating": 4.9,
+    "reference": "ChIJ2fYuu7aKK4gRmLkYdqGYUhw",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 332,
+    "vicinity": "300 Manitou Drive Unit #E Unit #E, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.480833,
+        "lng": -80.5210104
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.48213053029149,
+          "lng": -80.51993836970848
+        },
+        "southwest": {
+          "lat": 43.4794325697085,
+          "lng": -80.5226363302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Forbes Waterloo Toyota",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2592,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111692652682283383915\">Forbes Waterloo Toyota</a>"
+        ],
+        "photo_reference": "AeeoHcKwncBRIkRMyTWWdmQCEIrzlc8OibZz9Pe08E2Yp5x9ne49zeNL9GV-_B3CaD6hvdo4fivV5ORz4yCZWyJx3m7l0i9ZmVsPh8I9JgrcQslvRj8iEfIegJVUMjdIs_-lw2Z8AVBBwLKcjTeEG59j7lR-7FbcwDL_ekmeBiigzr1e8iHDcPiS6vBElAHgBRVPAqGrjCKsECEL7nVQSlvXIJYQWq4xqFNQCdyiPv_jAo3kjK2xHi5Ie-IZ8_yQksMOuqf1u_bLGfPImj1UwVBg4saei_9WO9WBzRepOySO-Ln48bJfBcPt4kuVC7naykTWYeLNy66NcY8",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJYXJ5Y9nzK4gRoM6HQv6wAOQ",
+    "plus_code": {
+      "compound_code": "FFJH+8H Waterloo, ON, Canada",
+      "global_code": "86MXFFJH+8H"
+    },
+    "rating": 4.2,
+    "reference": "ChIJYXJ5Y9nzK4gRoM6HQv6wAOQ",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "car_dealer",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 863,
+    "vicinity": "300 Weber Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4614164,
+        "lng": -80.4741284
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46271198029149,
+          "lng": -80.47272601970849
+        },
+        "southwest": {
+          "lat": 43.4600140197085,
+          "lng": -80.47542398029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Crosby Volkswagen",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1365,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112775447930777591207\">Taylor Moffitt</a>"
+        ],
+        "photo_reference": "AeeoHcL5VcheuxQM3ieTYve6tpEax0ND7-VXn-meuFQ_2mdKVWd1KFVUMjfwArc9gKtbM3ae94j4evsTdK85pKE_a690_82HLEKyjroesmusbUiKpOO1CTiQbD7rSGjHg405W6cETKUdyfGym98TVe1UmxU-9kcpDzAdvjooagYzTfZ3_NUChVD9J7p7EYRerW_J5aZCvgitHRmTEUZIJQ4tPb1fr9j8o6FffYwdL5QTVi3kC8dWafKclHbVM_27RipphrkdKh_nE-TFvj_dIGKJegSLS2f95n_AQd3936nRXZDUuHanIa5e_9Z-_fQlX5F3TtuO3izhwvS7R7y3KvHHUMPkmRa4lSyTewKpgPC4yC2rXw6pbRfzbLZ4zOlbk2L6lLRAuzBEyou4l8uQTAD1U-FeWRkpniPHEMyH_BGl3TUlR45MSasmohZQBvYRlScih1btEmHU5mCR7sxHpi2E7xDGrFzS3m1zB2rGAcgRScUPbcpChNi4Z1RPjaEro9DbRs4LiHOTFqYgDfKKKR3LZYoXhYSArAf1kNx6Wc7sliFjAMgKukUHWGiJxhvWeoV2nf-4GbnDiXRWtBe-a1c4kogAjqyY1_QLP4eSN0J7YQUxc6SMLuo2-k3hc8vJM0RB_-7lSQ",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJL8tV1CiLK4gRYlPAujJAhcQ",
+    "plus_code": {
+      "compound_code": "FG6G+H8 Kitchener, ON, Canada",
+      "global_code": "86MXFG6G+H8"
+    },
+    "rating": 4.7,
+    "reference": "ChIJL8tV1CiLK4gRYlPAujJAhcQ",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "car_dealer",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 999,
+    "vicinity": "632 Victoria Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47821389999999,
+        "lng": -80.47249590000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47963823029149,
+          "lng": -80.4710954197085
+        },
+        "southwest": {
+          "lat": 43.4769402697085,
+          "lng": -80.47379338029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Logel's Auto Parts",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 899,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118313555952382236699\">Dana Mihut</a>"
+        ],
+        "photo_reference": "AeeoHcI6xS-iMsO8hfvfvVZBWB9Np-c2n_2vCugMyP8fJ0r3v4lEzvQRCkpLzATnfWgXofAdEbJoJKjHH2b6JhhUyFAh-VeVHegb54fvnwYG0ILuL6mPM6LVTabSQjUktYPbzSyzHllEA-xKJs4Xhb4T9bv5o-CJ4EbMuPCKi4eTs63kX-RKJNYV5kSSdMeFvh1MXMJFN5gvQ0eyAF-zpsTZjIr3_kSw8blCW_T0i1A8xsWTokkFOrPa2J_BbPlykkshD3Dsa9b7t_34tBe35c4luT7_9HDruHmiCt9K2MKejqW08q-fgT_OAlkk71hJ7k3xac2UIZbDbrfQWKQuHboe4pHVm5g209GMGUc2zdDQag1Hr-iZ_Qxb0GSLxSjXjQcCEWyvb2vqj0Gm5BHpdR-Rc5rvZ7eC8ZcTw_0QjXkW1qXnLTrYWZxYsJ8wUWaRgH9vZwuy_snjkjf2Dd-iJ0QMpH381vDBCSHG0MgJmClCmakqLwoqHvoc7TQ1S6WqRjYTnoz6zmMdd4Xey4hKTavIFhvgPp9-rPwfwDh8BIfOTpk0E2cKnIkLY60zPvKEMhNafu7uh3GUHNtOjSJwVx5VPXlaXdbNP49HtGN7nAzVhm1D7gW5MFDuLpiBeY8tF0AoJ3xcqw",
+        "width": 1599
+      }
+    ],
+    "place_id": "ChIJe1rTvVzzK4gRnHM6v8-MKcs",
+    "plus_code": {
+      "compound_code": "FGHH+72 Kitchener, ON, Canada",
+      "global_code": "86MXFGHH+72"
+    },
+    "rating": 4.6,
+    "reference": "ChIJe1rTvVzzK4gRnHM6v8-MKcs",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 299,
+    "vicinity": "116 Bridge Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4935265,
+        "lng": -80.54512799999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4946268802915,
+          "lng": -80.54366221970848
+        },
+        "southwest": {
+          "lat": 43.4919289197085,
+          "lng": -80.5463601802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Volkswagen Waterloo",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100917682718361764873\">Volkswagen Waterloo</a>"
+        ],
+        "photo_reference": "AeeoHcKbMK4YR7kTAW79TS18yO3qouf2OGpo5UAvlS1KaRi9zjrax-zXyyplnqEHPq7412-rUTjGhPqQ4sSvtsamK_dChLzktP5lD6EKVURYddqaAtzPcgQX7KJKalz3jUUfLytgJqqB5_IMtVq2CqbcEC7dkAeq1ycTz95HPSakmeDmTEVSLtKpYVmTZ7JdqZ_9XUAHnxcJA3BDlbIYQcnNG75s7ocSAuzWGek1P2CTahn1h-fZYxqQpsqugAIAG2F6WSCqO6pGxYmgqEqTyZQ4brziKDSR7g9Hw83WQEcx0wrT7R1kQ6UR9N5W9o8JfO7yXGEZzXkw4RQ",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJ1w6RmV_xK4gRA252UchrQDI",
+    "plus_code": {
+      "compound_code": "FFV3+CW Waterloo, ON, Canada",
+      "global_code": "86MXFFV3+CW"
+    },
+    "rating": 4.6,
+    "reference": "ChIJ1w6RmV_xK4gRA252UchrQDI",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "car_dealer",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1038,
+    "vicinity": "550 Weber Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4334221,
+        "lng": -80.4497257
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4348861302915,
+          "lng": -80.44830546970849
+        },
+        "southwest": {
+          "lat": 43.4321881697085,
+          "lng": -80.4510034302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Kingsway Service Centre",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 700,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102294591382038634576\">Kingsway Service Centre</a>"
+        ],
+        "photo_reference": "AeeoHcLQmq-9oHLeWO4gNW05dyD79eWgtZbpU2i33VqZHWIAa9B7eKSNY3mRK1HE0W4PHfNkuxweJ3e8Q3Ft2FRDQQKUoBpIfjegCJriPsCF5dPMxwJ_35IubjnbLb3H-M_x11ZyKiMJ3K6jZoZfIjPMG9vjaQ8GZmqLYnQ9WEGHW3pmlfjNyA-6nId0vbCWwoxrvNYy2R1kNonKlAVe9wprKZkQP6B2YiZszP-m0Ht9B3xe_UWNDJl0kMrCyWdQ7PqXSn2YCcPvpm6v2FLrBNj9_qCm88M-r7dRh_N0-1-E_02fX86uKkK4Oc9d9Eo94oR4g-Xc8WYIjt8",
+        "width": 1002
+      }
+    ],
+    "place_id": "ChIJga-c5SuLK4gRWPGYqbSciHA",
+    "plus_code": {
+      "compound_code": "CHM2+94 Kitchener, ON, Canada",
+      "global_code": "86MXCHM2+94"
+    },
+    "rating": 4.6,
+    "reference": "ChIJga-c5SuLK4gRWPGYqbSciHA",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 145,
+    "vicinity": "2333 Kingsway Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.48030360000001,
+        "lng": -80.4792708
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4817013802915,
+          "lng": -80.4779568197085
+        },
+        "southwest": {
+          "lat": 43.47900341970851,
+          "lng": -80.4806547802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Adams One Stop Auto",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ0cpr7iuLK4gRtpQnPxagLLE",
+    "plus_code": {
+      "compound_code": "FGJC+47 Kitchener, ON, Canada",
+      "global_code": "86MXFGJC+47"
+    },
+    "rating": 4.2,
+    "reference": "ChIJ0cpr7iuLK4gRtpQnPxagLLE",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 12,
+    "vicinity": "14 Bloomingdale Road South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.497528,
+        "lng": -80.5422821
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.49896568029151,
+          "lng": -80.54078231970848
+        },
+        "southwest": {
+          "lat": 43.49626771970851,
+          "lng": -80.54348028029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Forbes Waterloo Mazda",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 677,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116148159293286304612\">Forbes Waterloo Mazda</a>"
+        ],
+        "photo_reference": "AeeoHcJz4FLiht61-0BUrjLkY_gwOpCtdAeIbKh4SjA7X_7fD1W9kNJ8TbdzMcoWPpoy8ZPUahrSKVdc3QVmaoXhkrczFqlEQnHzQtTFIz5QG_qWlZJx2lLon_XpRp26-XxRBo3rDupTmunOr0SPNIeSx6Ra4vIdMyp0C6oygOwgJGtwJv5Y_oBZ5Qxl7I3HqfHnDGE3nsgw0dewDEiUy1CzuDxvm8RRl32kG3Tv8Y6REgznxM_VrxoEbytzsRWWHRot_t3X-Meyy7D94h7hhxlNaUbSP-j14zK7yYccj9UZKuncvYiB_gqFC7IVBoMykb5dV-TIkuB3Tr8",
+        "width": 1206
+      }
+    ],
+    "place_id": "ChIJeRqBZd_zK4gRFu7KrxCk9qE",
+    "plus_code": {
+      "compound_code": "FFX5+23 Waterloo, ON, Canada",
+      "global_code": "86MXFFX5+23"
+    },
+    "rating": 4.6,
+    "reference": "ChIJeRqBZd_zK4gRFu7KrxCk9qE",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "car_dealer",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 655,
+    "vicinity": "115 Northfield Drive West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4469844,
+        "lng": -80.4815476
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4483883302915,
+          "lng": -80.4803123197085
+        },
+        "southwest": {
+          "lat": 43.4456903697085,
+          "lng": -80.48301028029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Yilmaz Auto Repair",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 5760,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116515345268732397134\">William Bond</a>"
+        ],
+        "photo_reference": "AeeoHcIR1ygdcUueLDQf1ZZ1LFqTFDRThtH3kxRxJ9AFbmd3p8c807c3XQ55ZSnasPDsw7tQPtFEWSM-nGc9dGCRmKGF-XM7k-Slc_O0VwvYPe9aCh0nbMIDZVOJ0P_wzgWwQU1ZtuFoOqtnMzTjjls7sels70TEK90p8h9GZaotC37IAaZFLKxJ572yEhY9R_W8YIlMaAdx-jxz2z-Vn3xXVQU_N4o0qgMBnI0YsL-4W8_H0GSMHe2k5NNrz9EYV4o8AxtxKBscv1XfjiHWXWlZFAGATIgfSdLJO3-odOv7zIqZL9BpbEJhzQBrWG_Qbf7Zxnjie5pDe9MtxGuafiE9QKrVMaIBRLCHFp4b0WCJrztMYL-3bTnRh2wfK_Ymj8CfhayC6AJJf74J7Ck0Pj1YCxu92JzAFIHVTfnKccrjWqFg6Cxba7UfdxDADdG_spla8c8SfteN9hnStdnArquj_wpy014lG4wLHLVx7SiY4Zf5tHIhRqABFxs-oce-csUYP_8f-_xz_fIZjQJ9v4SKu3l1LfbTftazRbjMk8cA0f7V8BeAJ0WK6Z7EUh9R_nNmMEvysb-Cguf5EQ02cibnpSTo9ANrIQDeHapNBX-DYeXN4zT3Bho3cQJW7yCQLuG9CCkE9g",
+        "width": 4312
+      }
+    ],
+    "place_id": "ChIJwZ_KGaaMK4gRE6rje9O64TE",
+    "plus_code": {
+      "compound_code": "CGW9+Q9 Kitchener, ON, Canada",
+      "global_code": "86MXCGW9+Q9"
+    },
+    "rating": 4.5,
+    "reference": "ChIJwZ_KGaaMK4gRE6rje9O64TE",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 175,
+    "vicinity": "450 King Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4199943,
+        "lng": -80.4459457
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4213567302915,
+          "lng": -80.4445042697085
+        },
+        "southwest": {
+          "lat": 43.4186587697085,
+          "lng": -80.44720223029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Wendell Motors Chrysler Jeep Dodge Ram",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106351648112516186666\">Wendell Motors Chrysler Jeep Dodge Ram</a>"
+        ],
+        "photo_reference": "AeeoHcJQtYRpbiRzb2pDjpDKKHXlhvRyyE_sE0Jp8dqKK9VzPvuUDXUGVmoMpMADzfHqNum8MMM5TQ5w8my_xICJ8O3FFN6TcCw8V-jDvDP8M8EMbHRw4Z_NmWdNCZKxWiweITmgEJF8hD7cN9M9XbG1GNRLoIRpxJByf-UPQ29E7wwuef5pIoOtIhRNWopCXPF9xSo45xbCAO07F72BF1UJDdrSXxOrkBj_TG60DoaXYJ3ooDoAhkkxEBureyBFodBNQFldqpkE-KrtKBDzZkjeWWLyPFBSFaeLkkzEuiSmU9QazH1yqWcNlpOHK_EqCxn9g-RxsPWLmhU",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJOUjvOtCKK4gRLZa6m59y6vM",
+    "plus_code": {
+      "compound_code": "CH93+XJ Kitchener, ON, Canada",
+      "global_code": "86MXCH93+XJ"
+    },
+    "rating": 4.5,
+    "reference": "ChIJOUjvOtCKK4gRLZa6m59y6vM",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "car_dealer",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1312,
+    "vicinity": "549 Fairway Road South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4262611,
+        "lng": -80.4293028
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.42753868029151,
+          "lng": -80.4277618197085
+        },
+        "southwest": {
+          "lat": 43.42484071970851,
+          "lng": -80.4304597802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Heffner Toyota",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2704,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110126533709389250261\">Kevin Rego (Kevin of 4REGOVERLAND)</a>"
+        ],
+        "photo_reference": "AeeoHcKQ0bBhsqVXgj-j8okeun94AUrJRWsYXoqsSSol3yrJ-_TuaKJXCWyOvQWtkmTBhJ3W2tuqIyCqi6Kqw-cLIWNbdpvJbvApsoqhCddOYO_mo8e4yK-W9nwnSVEo3aha0lgrRVQx_8nY5ETkZGFZT36p-5q2VIUPiQPdCFIL9KoVqtDvl_DeJj3tIx3yGq6ix9jvvrbWdce032Akuo4XEQCvlFQb6G8JOQFZyDy0dfO3Y0IeQUSygQQ82nl4Ie8AgkrnF6N1NsrhZpTrNpyVZVGulAdhtBXy_uGfUkXMOqa2R_TZjPHM9nsY-Xfv0stOR8Ug_bX8xQWxP7OSoiMeZ8vFCX9-T99gdiPN4m4tFUQNA0X8gKz6ns3fuHSW_mM1m52dM5tCb5wHhjKvNwMVMt65WlUeZzU2ERFLvgjAWUGjR0ljohGa_iEURclgzKpB-mQ3DLbO_LL7ilMQWA6Kdq5OH3nNSwLtWbp-yXFYshsVTnYuzEAFjU3OutLtfmGUpeZByIVaQ8OSsIgW9jrEWTh2821_ZwnoXd-ctDLteWUq3AJ0uOQkj7j1-0wBK_MD7iV4kwc2LUs0XneO6iQcuSEDDTGfPH0Sz3R9L84qXnQ-KzV7TxVIud7G7lAvhVPi",
+        "width": 4056
+      }
+    ],
+    "place_id": "ChIJsVNaw-GKK4gRFAiZBzD5hNs",
+    "plus_code": {
+      "compound_code": "CHGC+G7 Kitchener, ON, Canada",
+      "global_code": "86MXCHGC+G7"
+    },
+    "rating": 4.3,
+    "reference": "ChIJsVNaw-GKK4gRFAiZBzD5hNs",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "car_dealer",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2318,
+    "vicinity": "3121 King Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4266388,
+        "lng": -80.4276885
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.42805783029149,
+          "lng": -80.42641991970851
+        },
+        "southwest": {
+          "lat": 43.42535986970849,
+          "lng": -80.42911788029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Heffner Lexus",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106340713967916895843\">Heffner Lexus</a>"
+        ],
+        "photo_reference": "AeeoHcJf_-ODkMwlqDM0v-KPHjQE6WAAxpOdEvYWTkQ60pWVGeguvVGxtksSzYq2u4TCFtKmc4eY6_pQ_-lQquLBjcO4uKVXL8EHbQjHtBxOCn9PHCRqOfEnxfPoepoe9ftgjz1KMgVqNJMRvpFjyOnAHqMlOnZDg5mg3Rr-v_44vvomT3PFIUjCxcetfHh0_ZT_uF8brMHpoAK_fx231jgmKT_M8CE_lVx7goCqZn31YtYoJ6AnLooMG-fWGWtVhbT7bXSFxDz5ZL5P-jyiaVYBZ50RWSdnrfs_3rfeVwBnDCcNEdZ1POZKw_U_pIOPPk-u_aDxRn6fwsg",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJsVNaw-GKK4gR1zUmbYFxY1s",
+    "plus_code": {
+      "compound_code": "CHGC+MW Kitchener, ON, Canada",
+      "global_code": "86MXCHGC+MW"
+    },
+    "rating": 4.5,
+    "reference": "ChIJsVNaw-GKK4gR1zUmbYFxY1s",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "car_dealer",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 787,
+    "vicinity": "3131 King Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4077128,
+        "lng": -80.4999707
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4089929802915,
+          "lng": -80.4986250197085
+        },
+        "southwest": {
+          "lat": 43.4062950197085,
+          "lng": -80.5013229802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Byma's Tire & Auto- Hybrid & Electric Vehicle Repair",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3632,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115719392970673159340\">Byma&#39;s Tire &amp; Auto- Hybrid &amp; Electric Vehicle Repair</a>"
+        ],
+        "photo_reference": "AeeoHcKTxv37ioJ8kkQLArJMSyS1RDfcDFjpLqhHfsUmZvngz7LxcC0Kzlk8SQM1PDSdbZDpAyno6GN44QWNtbv7XMhbxeUNnvGuLsr6KKlimGxiO6-InbmVlsMvqRBNyBYFkXMj8VS_gwfiQ3q_wEkP5hlP6C7BICYJEWE4SMahH5di8tybxxG6jWeeuAseAgrcwi4WExWTQozQaGbjMjY-SGUtPqctfwP874XcPW_WXp027c3mr-0jaGvz4YOe7N9vK9vN691zijmXZ843dGNfZ8MBkyCMn2-sEFpAj9au_U7_Iw0P3qcfSPnuAptkIw7K2-dSjpdeXig",
+        "width": 5456
+      }
+    ],
+    "place_id": "ChIJbUGyrnb0K4gRfJ6EWuD7y6I",
+    "plus_code": {
+      "compound_code": "CG52+32 Kitchener, ON, Canada",
+      "global_code": "86MXCG52+32"
+    },
+    "rating": 4.6,
+    "reference": "ChIJbUGyrnb0K4gRfJ6EWuD7y6I",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 492,
+    "vicinity": "1170 Fischer-Hallman Road Unit #310, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46470219999999,
+        "lng": -80.5037218
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4659734802915,
+          "lng": -80.5023127197085
+        },
+        "southwest": {
+          "lat": 43.4632755197085,
+          "lng": -80.5050106802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Stockie Chrysler Dodge Jeep Ram",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 480,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116725325363512303265\">Stockie Chrysler Dodge Jeep Ram</a>"
+        ],
+        "photo_reference": "AeeoHcItT0ooHYPqncULgkoke8ySydgEPvDAqItmQCU0CbbtMxEmrZgcUWS21t8oqH41TizYZE75QLUPu1FNzugT1gkHnVO4BPUUAGPnDn-woH3qaBqru6O4dKSnuX1XqrpKVnhTI65jykdBk3grzy8o5I-_snRSvNf7enZe_xbIod5z82OebVml1nxi-PSAxy9OFnHunSE6vvutdxif5-ZwcPQcJPQ6M2mx4EsGTHtfWqs66dOiZqwGI-mliNG4poxj0K5ch1fIaZAVgE2rjkofxRkM3LHK_G1Lc_ibeM0dBG02cGUC51BhgtLPrdOffSxLqLRftvNAHuY",
+        "width": 640
+      }
+    ],
+    "place_id": "ChIJWxmv7Hz0K4gRWLKCibWlF38",
+    "plus_code": {
+      "compound_code": "FF7W+VG Waterloo, ON, Canada",
+      "global_code": "86MXFF7W+VG"
+    },
+    "rating": 4.6,
+    "reference": "ChIJWxmv7Hz0K4gRWLKCibWlF38",
+    "scope": "GOOGLE",
+    "types": [
+      "finance",
+      "car_repair",
+      "point_of_interest",
+      "car_dealer",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 616,
+    "vicinity": "150 Weber Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4749704,
+        "lng": -80.4301048
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4763791802915,
+          "lng": -80.42880671970849
+        },
+        "southwest": {
+          "lat": 43.4736812197085,
+          "lng": -80.4315046802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Mercedes-Benz Kitchener-Waterloo",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101324558858173773188\">Mercedes-Benz Kitchener-Waterloo</a>"
+        ],
+        "photo_reference": "AeeoHcIkxk4cJXjLzra3e7Fn1-NfBh4EcWIQceqa_pnQodFScDlS1MWR7LHDM3dW_AwiSKtOSCPboh3cmdOssjWxMD5R3QNtYoCIaUcJ2Axy1JAEZq6HdC_hgcU2yoyUYRdFWYx_Fq-zq_xxHpwtnnu5ZpmKB-vtHJGd0mA_ZAZKljJn9a8DhpylwjB5kng9qn2KpGN1bqHIA2SOeQna8k-jW0xMuJWkhp3TwAQaO16O2nRxRcT2z-_B9vzcCYBzmT_Hikz_JweKm6MoqhLj4WiIy0_h_SAJCUyghVWKlr2tzOluiC2J2wEiKs8iMa925Y837fS_fOpztDg",
+        "width": 6000
+      }
+    ],
+    "place_id": "ChIJgTMifpeMK4gROXRtmdGaASY",
+    "plus_code": {
+      "compound_code": "FHF9+XX Kitchener, ON, Canada",
+      "global_code": "86MXFHF9+XX"
+    },
+    "rating": 4.3,
+    "reference": "ChIJgTMifpeMK4gROXRtmdGaASY",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "car_dealer",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 783,
+    "vicinity": "125 Centennial Road suite #100, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4387264,
+        "lng": -80.4739373
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4401295802915,
+          "lng": -80.4725394197085
+        },
+        "southwest": {
+          "lat": 43.4374316197085,
+          "lng": -80.4752373802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Marken Performance & Restoration Inc",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103453910904577976167\">Neil Campbell</a>"
+        ],
+        "photo_reference": "AeeoHcIAwElj--0P-7EqcUbajgwX0IASviLKjmktjBoQkPt1kr3AvHBuYmBLdYPdLMNifUl9YHUSVInU-Z1t4PdmXoYJDG-_zOzwaC1bFtK-YrmcK3Wu63bEyTOUesIATPdynV2_hMlhBQ5bWYdigknTSGlvXARPACOrJ0SBqaubVRh7w4vpxFPUgCggfIxvwCxYL0dHw8jO0aiE0Vjnq_WVyf_fTG13iJ2zqlf6DXRLGOvXktCE5rIvEsiTxcXHvM1uQxDJPecwztkVlpvynZ0X2yj9Hr7sWCIK7e6krcaJQFBCD0maNA8bGDpZgpzccDC3xsSlRkhtNV_jLeEMmD_HixVZJVSXXRRN1qI8ZBfR-cN3e9no_x6vZEqR7nvEmGYJyNbXe9IEX1VhEAQk0UGtmaH4f-DD-hwtMhTU4xOxA2r3iaG-tK2vfJo_bH3naR-ARYI1IwgqQbskPbNw-ZIQSmvEizRPhwj5vHb4QhOnlwkRZ4agvJ4EAp0TqcMMRO3co9pc2CijtYMk-F4PSO7en5W78KHrsQR7krWpugopDFgHR0ODS7Wjul8zkwBX80R6xlZD6QhLnf54OvDKa7NKqpVbIXSylM8m-ObvaTTz4Nzdjcserjk4J6vyUYL_Kwx7",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ8Vk9AN30K4gRLmtBt2wl9oQ",
+    "plus_code": {
+      "compound_code": "CGQG+FC Kitchener, ON, Canada",
+      "global_code": "86MXCGQG+FC"
+    },
+    "rating": 4.6,
+    "reference": "ChIJ8Vk9AN30K4gRLmtBt2wl9oQ",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 69,
+    "vicinity": "123 Ottawa Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4377933,
+        "lng": -80.4866601
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.43906623029149,
+          "lng": -80.48535421970848
+        },
+        "southwest": {
+          "lat": 43.4363682697085,
+          "lng": -80.4880521802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Jerry Zister's Sales & Services Ltd - NAPA AUTOPRO",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2016,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101265997617824323832\">Jerry Zister&#39;s Sales &amp; Services Ltd - NAPA AUTOPRO</a>"
+        ],
+        "photo_reference": "AeeoHcI-jTI4E5WyZ7wGsC4zrAZl4BVHwCJp9aci6SFUnVEcCrmDSd1nSFGu-aCZWdrgmgj1UhICOVu-I7TawgNAitAodwGTxA0qC67r35yBnZZxblubCgVQt7KyYCj9KWFu1lhmOlVRG9FzxK-e3vuFctzUTdwcxfcAWQckMCqVvbCgIkw_dMTRXrXVM4HT9f3xe-Kezr8hV-B-sctsE0Haz1eCqQ9n9Ur3rZXUqkgt-oJyyS6wPPSre_m0fr_l0iJfhk2B62qJ0yUaKbyaZM7HFFKoHQh8N5jI5_WXeUlpQNR9KIDtJC6TMvpERezRz85Qtl5BM-NSTrA",
+        "width": 1134
+      }
+    ],
+    "place_id": "ChIJo0m3WeP0K4gRs37Jpwb03Hg",
+    "plus_code": {
+      "compound_code": "CGQ7+48 Kitchener, ON, Canada",
+      "global_code": "86MXCGQ7+48"
+    },
+    "rating": 4.8,
+    "reference": "ChIJo0m3WeP0K4gRs37Jpwb03Hg",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "car_dealer",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 381,
+    "vicinity": "236 Mill Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4710208,
+        "lng": -80.4445212
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47221723029151,
+          "lng": -80.4430728697085
+        },
+        "southwest": {
+          "lat": 43.46951926970851,
+          "lng": -80.44577083029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "NAPA AUTOPRO - Techline Motors",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1153,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100985434672369375768\">NAPA AUTOPRO - Techline Motors</a>"
+        ],
+        "photo_reference": "AeeoHcL7u3dKuUHEtjbERo-KtxPNpI6mjWfO8N_grJC3QcxOkdFXSKszrmNgPPVtx1EL2Bm3BsrjgkGFhoEUKkJkiHxzC9GkPlzp6m5GC-5a49TYcxDl5pJlwwO8ISvFna_-29BexcjqmRQzVPp4PnJFLFqxFK9MWvl_BTlc8jVf5p07Iq3NWDk8a4fjw2FgrJDpLNCJW2TkrIvxcFRw-1gxFkJ-YlwnU2f-ODp4bp3p0LF8_95syQyJTlJ8TQ-9Z_h9POlXvsbbYtzEwIU7pbdBhudr9OCvPYXbJzjP6YeA-TakntOlG6U0DfhD7_Ediaq3VMBlI1D5gUE",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJ91fVmaiMK4gRYUFmg4IIjIg",
+    "plus_code": {
+      "compound_code": "FHC4+C5 Kitchener, ON, Canada",
+      "global_code": "86MXFHC4+C5"
+    },
+    "rating": 4.9,
+    "reference": "ChIJ91fVmaiMK4gRYUFmg4IIjIg",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 252,
+    "vicinity": "1392 Victoria Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5045191,
+        "lng": -80.5312725
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.50568683029149,
+          "lng": -80.5297182697085
+        },
+        "southwest": {
+          "lat": 43.50298886970849,
+          "lng": -80.53241623029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "ProMark Window Film & Blinds Inc.",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1365,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109080638481869732026\">ProMark Window Film &amp; Blinds Inc.</a>"
+        ],
+        "photo_reference": "AeeoHcLmEjE3Bd4Lk7hI9HMjTJMc6R0eK1SeWd89ugPYXxRlBXjylNWDZ-WTEdN4-Un3byZ20VR4sX2FGcAq3loV0HbaGTLVpouphcSOK5isBt4-05hxhKsZVBInLPXvg1ghj9ypYHJs1i8HPNnzMI-IMPEBAyKw8fw7sJRckgY4Wk2e6_v1_ril8ZAh-c7C5f67Dub9kpigKJaDvxzhL6AHu0RcWVvrfaKNSoHY3gXQpuNYn1NG1SzJPH4hhc8_8I6CfN_-ltPOvtWy6OcDK4RnF7qjwzbuhQpzf36PWrLzjBH_KxZMxXpjMWppvFaGISol787HD7xS9HU",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJ-69Ojc_zK4gRHAh7vDopBWc",
+    "plus_code": {
+      "compound_code": "GF39+RF Waterloo, ON, Canada",
+      "global_code": "86MXGF39+RF"
+    },
+    "rating": 4.7,
+    "reference": "ChIJ-69Ojc_zK4gRHAh7vDopBWc",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 15,
+    "vicinity": "90 Frobisher Drive #3, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4201303,
+        "lng": -80.4507673
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.42142468029149,
+          "lng": -80.44936721970849
+        },
+        "southwest": {
+          "lat": 43.4187267197085,
+          "lng": -80.4520651802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "PartSource",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1152,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107905855870928614446\">Andrew Morrissey</a>"
+        ],
+        "photo_reference": "AeeoHcL-WL6vCtXsC-aW6VOfXwcgJj0yu42ScaWrsyEDDgVXS2sYPfKkzgpancNyl9HN1xUPN_gmPDw1MImCb0wyOIKgx2t1aBJebKlZb_gx5NRKZbdEryqn4iHGNAu7l_IWNSnO7Cw1AQ4ACs2DFrHr0aTk-z_3ETF9c2vmV--hDi2IC2qAUtM8brcBQMBFiGWMLV_6Z1avsEBhemZ2vPjDqDToP_8anDXaBI5eyG75eUDovKRvDotFLhpqfKBWNL3zLeTvopJCNU3hQ8qvPfpb1jrH2jrf6CTc4aSKhea5pDdh91wiPrUY9yp9IIKQ3n4jELcOb9Pri9irMH1EWexRIUhjqrIIVgY1KGBjQLpT3cOG8QLaPYNv2SrflB1XCSPXXCCa_81cIXNMmOnGQWKj3QvI-VgVYzc2umCux1D_eyqHfGFxZMz3Bs5tSwG_E0PsHmE2H4wzF9DeHoATRPxguHfRvN5b6xu7FVtjK2la7GtxnAl20SwQHufgq5Ac44yWSbxvyAK7_btBq2fgABxVMTww426bb5bWkbsu8M-QpNvmYNJf3aEsBVm6DgqSy0i4-WIX5K7vwSb6eGMI4IgsFnIvPx_P2s-_74188YqurQFc3Uqs-4w9cSZ3csr3zrik9aj3Qg",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJ3ZAF9M2KK4gR-1ZdjCUBMk4",
+    "plus_code": {
+      "compound_code": "CGCX+3M Kitchener, ON, Canada",
+      "global_code": "86MXCGCX+3M"
+    },
+    "rating": 4.1,
+    "reference": "ChIJ3ZAF9M2KK4gR-1ZdjCUBMk4",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 133,
+    "vicinity": "642 Fairway Road South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4729958,
+        "lng": -80.43492069999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4743650802915,
+          "lng": -80.43367371970848
+        },
+        "southwest": {
+          "lat": 43.47166711970851,
+          "lng": -80.4363716802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Mark's Auto Air",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111376984077672712986\">Mark Gaboury</a>"
+        ],
+        "photo_reference": "AeeoHcIYSc46ZXUztk6IiNxKltj9OJW_FMlP2ZVBQR3WcRC0VV5bXWxxF4-dFX4HwuxG6n5csmnkpx1aOMnCqWgGI7Z1juewMbvxIHwN-0y-9BfO6e94wpdAXZ7tSRnFiSqWcxqfPAFwXKUAvgXbl0_aqyMXTxvp_Kvb2_BArkKiJ5qq7wfxfa0nCTFp09Q4SBJx7bYn4lHOkfVpf-jfVRrk3J-BOts0wDCzeWMnrp9XC6d963HR8JxhXJJW9op7_AB7pVXKjR2x46E8gsRot-9MnWyH0J5Glv4Wgy63TfugDyL_PJt3dvksIxqAteIzxLwyG-oauqMfLyHV_VO1x2RIWWhTRMVrJed6ZHSeKEZm6T4N4flzImwFmp298aDHqCgprHhM4WBIRxOI7AB03or5sOSd9r0cU3XS3lWILKJ9Ywdw91EnMYo2oOGu0nHZze--xdnqD7I1v1sbeGpW4NPLKctXirPFlCaGK-etLo0JRWJPtjVUWhFjMWYb3M7JjEx9zaFUWz_Dh2ZqEqZX3qVHzREezQGj7zObLs5hex0pxH3ypzo2zneIisXQ6Ou5IDxYY22Dd5WU3Tvie2Yv_lnaN4yzh6Max9uX-7T8ea97Yq_o6X9fS7llEXLKnpEw-7aFBM6IAg",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJYWFOq6OMK4gRVxj0C9WE0jc",
+    "plus_code": {
+      "compound_code": "FHF8+52 Kitchener, ON, Canada",
+      "global_code": "86MXFHF8+52"
+    },
+    "rating": 4.1,
+    "reference": "ChIJYWFOq6OMK4gRVxj0C9WE0jc",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 94,
+    "vicinity": "1595 Victoria Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.48095289999999,
+        "lng": -80.473934
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.48219338029149,
+          "lng": -80.47251531970849
+        },
+        "southwest": {
+          "lat": 43.47949541970849,
+          "lng": -80.4752132802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Rowa Auto Collision Repair",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101003928305710189405\">Rowa Auto Collision Repair</a>"
+        ],
+        "photo_reference": "AeeoHcLNB7CVgZDdVuygdLFJPBUGxWpnyIVK6czw0O1nS55GiAC4fWcWHnI3Ra7aBWYO3YAysLBQ_WEs4XXBTbOEwNtceynZZnvnmomMjKeFyPO4eMRCGLTJNWJSLLJzs25wbpbXe8Gb-2WkwIkr8wFbXsBxPlKLBGuFoOzLobRUJFkBeRtW9rnLXaxGyJvVTYx-CfzS3my7Me1EpW-_yKxfXe84w26OhoLTfDi5_5EZ19j4GGenWqdq01p4uRGUd2y1MnYx2qZkh6YGFif06vHkOpJlZLIyN6xCclyKRw0RkciU-eer8QciC8SbVgZRJQySASgXAKg6sAw",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJf8sXnaGMK4gRbMTeeyOl_zs",
+    "plus_code": {
+      "compound_code": "FGJG+9C Kitchener, ON, Canada",
+      "global_code": "86MXFGJG+9C"
+    },
+    "rating": 4.8,
+    "reference": "ChIJf8sXnaGMK4gRbMTeeyOl_zs",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 198,
+    "vicinity": "29 Grand Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4061111,
+        "lng": -80.44805559999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4073860802915,
+          "lng": -80.4467986197085
+        },
+        "southwest": {
+          "lat": 43.4046881197085,
+          "lng": -80.44949658029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "AutoSmarto",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 640,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116583787400785010708\">AutoSmarto</a>"
+        ],
+        "photo_reference": "AeeoHcIP0UoYAGmabGbD1vitY1JJwo0DflUH8obIQ08HLU8GTfYdqJwhlDwNU114O9ZojzmKPEGZlVDPivib_M0xSY6d6v7Hb6MwmbwhvyYpWdTh8ypVuNr91aadaAzP6VBWv279Q_ZQATQmJC27WfKxQeNBqtclBiCsyaQ3Y7ZKLC5z65jnKOSJJIBvRrRBiORaKvxSwNTB2GgXqYbiu-2NxWlhCfxrQBASvJCFL7AHbg0EO0N_84YHsRI7tj81gkFznVbJ101AOvSuBl_bwqf6g6j5e_k1II1vNhXSVGzdxFLdGmmq9TrzsbfZVqmFGDlSqf34fBopV_k",
+        "width": 480
+      }
+    ],
+    "place_id": "ChIJsdKCsbaKK4gR5LdHirIqBEc",
+    "plus_code": {
+      "compound_code": "CH42+CQ Kitchener, ON, Canada",
+      "global_code": "86MXCH42+CQ"
+    },
+    "rating": 4,
+    "reference": "ChIJsdKCsbaKK4gR5LdHirIqBEc",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "car_dealer",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 121,
+    "vicinity": "326 Manitou Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.433934,
+        "lng": -80.445932
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4352667302915,
+          "lng": -80.4445929697085
+        },
+        "southwest": {
+          "lat": 43.4325687697085,
+          "lng": -80.44729093029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Mr. Lube + Tires",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117591813938148565776\">Mr. Lube + Tires</a>"
+        ],
+        "photo_reference": "AeeoHcJ4dGZ7eQcDs2hyZVgvFrSyQ6kkM3RbKRzI1ggWkN5Ulotx_ZLcdiELgXt2TS3kPMCoFAnhw3pdOV5TLnBYOzrqLs3j_paeiiWuaMK9Rp_qUS9g5-rjIwEXctBZo5c8vpxySYb3O3Mc76ujj-SqMko_HL45WFZaiwvP3cuWThxMnaCUZSi0idEn66NHtBJADbDue9ty4BVuijUwc9pZCG_-qgrKvSrsxOvQJFdjsqHQPc4ZA9pjKK_6OgU3_XVfbrGzrxaNHytgBNGpecCsCxxmHwzl3vnXRAQG6noPFQOI_QGkqCpe5QbDA5UHV_2EhZUoyvKzsVw",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJOdkA1CiLK4gR8ouXUC5CZbc",
+    "plus_code": {
+      "compound_code": "CHM3+HJ Kitchener, ON, Canada",
+      "global_code": "86MXCHM3+HJ"
+    },
+    "rating": 4.2,
+    "reference": "ChIJOdkA1CiLK4gR8ouXUC5CZbc",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 559,
+    "vicinity": "1191 Weber Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.468452,
+        "lng": -80.4526624
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46956713029149,
+          "lng": -80.45116616970849
+        },
+        "southwest": {
+          "lat": 43.4668691697085,
+          "lng": -80.45386413029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Peter's Auto Centre Ltd",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115786655544903976318\">Peter&#39;s Auto Centre Ltd</a>"
+        ],
+        "photo_reference": "AeeoHcKN6zkS0yDBXGaQuKDqo4wRGb6q_nmD7vOspTebNDvVS4WQj1kxb83VP3EXp99_-WDEJil9M3KnR4lQAPwKSHZtanhlpOXkKOVwqh1enN-DIzGlDxq8_al0vSLQrMB8avwkwaE4qvhk2rfWfBdZjZnf0HKFVn2Xo4xfUx_d6htwY9CeKhD2-0Bdu-wMcKnBhEmD9h792U-7jknScuTfus5NbV6hnOVGvvtK7oG3KveizfCKZp1SYHF7FXG-zB47eTNfIR-9RiBtphtT6MiElsIOjIL9adtjUpHe706orLmMwOLBm5BAf2HMS5gnUiSmKIUnKRZqCLY",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJo_bZZ1WLK4gRIHYvAPDzTLw",
+    "plus_code": {
+      "compound_code": "FG9W+9W Kitchener, ON, Canada",
+      "global_code": "86MXFG9W+9W"
+    },
+    "rating": 4.5,
+    "reference": "ChIJo_bZZ1WLK4gRIHYvAPDzTLw",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 135,
+    "vicinity": "1200 Victoria Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45805299999999,
+        "lng": -80.496516
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45940343029149,
+          "lng": -80.49516201970849
+        },
+        "southwest": {
+          "lat": 43.4567054697085,
+          "lng": -80.4978599802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Quality Collision",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103333544959601481390\">Harv G</a>"
+        ],
+        "photo_reference": "AeeoHcLWIy9Z_9TRxGzCappEZTjjzqOensTHYBf5n2vuoHzWwQaqBuKxKtML0L6a146D2SIfAqkUpZXJX9WQPMXRBaOH9NJ05SPj1C1DDTupMn0ziP2ZpUREV3Cp7NNv6zmO1VOHUAGAnSlz6vAgop4FrJavntLceqvIcK8KiYD6aZblzXJQdzs3ZsspFqqVXYTU67c2KIiqFwwM3EAYK5XsHvgUHGT62HgPx94ihPXthzzbtHQvss-D_lN5FRQyt43TEub6oUAQRE1pCUCQdi8_fqqjWt8tvDIUO2iJX9BvCuQ4Bw6AfUyPs64j_EwF_RCP9FqWDPwh6diBtvVwrrn-SGddlxYWNYQ9Q4lvQwVA9z8KZnpfAu4Z1vhnl8eKBkczK3gBq27MhppSItqYe5q55aePttPWoPyVSFDQIvvhXSUGceu2QpzyfeGbaW6hNH8FXxvwm0lTayBeZDse7i6ozs-PZOjzNW76KkxjXOhzS-voVW0niXsobt2SgVS0FpFJs5V48sKDFoNvzh7BbB_mMPHFCG1yGLdlGJ5JMXwLV9OjsiF3GgY6wIQ6jcRfafSk8CIt7tdppClciDi9R2IXU1OTWaGwsuVCsiikGFvrYpv5B5qqb6VJd7_YuZ2BzabXcFKzawaG",
+        "width": 4080
+      }
+    ],
+    "place_id": "ChIJZyL5fIn0K4gRjzoBQAFXp_Q",
+    "plus_code": {
+      "compound_code": "FG53+69 Kitchener, ON, Canada",
+      "global_code": "86MXFG53+69"
+    },
+    "rating": 3.7,
+    "reference": "ChIJZyL5fIn0K4gRjzoBQAFXp_Q",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6,
+    "vicinity": "178 Louisa Street #5, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4792222,
+        "lng": -80.4838077
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4805513302915,
+          "lng": -80.48249686970851
+        },
+        "southwest": {
+          "lat": 43.47785336970851,
+          "lng": -80.48519483029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Kam's Tire",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113073259936720208285\">Francis Wu</a>"
+        ],
+        "photo_reference": "AeeoHcJRxTjbVbQluyVgg2Xb8Mb1ZNhv5y--o2EYKkZX5f-EoJijSin8rE2rZ3L2ucYAbmBmpw_hoiGoryUAtFulOZ9stk_uX06jFXd1nmDMZva_zFBx3sFByS-NBDEz87btfAn0Ex2S8SSfStLM8o6bpMDHJX3x6OO2PKqfWTEFkW0c-yYrtGNF_ee4Xia7P6-nrcv9idxwIIqB8gKinkDuk1ET8N9uARuk2FC6cPpTJaVmN5HtCNEX3QKyDVrlsSWu9yhws52MMs0Buv5bUbnkurohpl-gt2tc6D0841w0F-R4SD_jaxA6ZX7eOm_Tquv8YSo9hAO1mcfFpprwUHMOv0IYlkt8s-aePxN0ip7ak9lo_t4s5x4Ff5D8H44yF4irLtDRMiSNYCrF2-Cguv2rTEjzBdhgC8SWPDM7lm3GAQu5NtM_MyoT-EsTlRusW_6rsO5NnFhd6arQsP7Leb-vGxbwLaF_GE36YQdti_w-JAsa2cLEtW9IMt2le8jOvrzg5W4M0VxZcBqMHXdcMEl7_Xau-WkepxMK3Cg9q1dyhpqC0k2bc7Rh3u0XhGuDVHW29v5nauLZznBjgRyP42wZSIYGpgi9Af06e4TfdLs_IFfxD9_9QMJzfrvGueLYzbaGv2zc8g",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJJRtFGqaMK4gRGgRnYXZ1K_k",
+    "plus_code": {
+      "compound_code": "FGH8+MF Kitchener, ON, Canada",
+      "global_code": "86MXFGH8+MF"
+    },
+    "rating": 4.9,
+    "reference": "ChIJJRtFGqaMK4gRGgRnYXZ1K_k",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 91,
+    "vicinity": "564 Lancaster Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4412055,
+        "lng": -80.4692623
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4424926302915,
+          "lng": -80.4679885697085
+        },
+        "southwest": {
+          "lat": 43.4397946697085,
+          "lng": -80.4706865302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Hotspot Auto Parts Kitchener",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114349432570493430285\">Pat Hooper</a>"
+        ],
+        "photo_reference": "AeeoHcIda10zaKvo7BRMEjm8WzNw0ClbnxQ8arcJLuLT9GaTl7uRnZbeSRIaI5yABeyQgFr9HBuQzCR02NfP_KGcaJNvpHQpOpybH7PSgwZVeURkltvAul8HLE6TRU9tL6EkcA99CT6Wo1hSamnjekspnXJj9UIXCl112FrK0qn-XClEw0RCz3dGWnf7XxuRZjYZGgDyuKJ_65JwcT7DQ5oA_sS867bkXVs4KF_hD8QcPmPLA8UmwtHn3t6MYkjXUlfmwXS_TvcmdgRXWBKxQufSHPSedHc0-T-C-et4lQi46VRw7vPCFZUBp71B4a8fOCfkmTfP2lHWOen5OVIL8qfsnnB8_XIhuFWdPlTVcALOv-f80G-3JCUdCaWJwji66fHbBMiwo0PGYDTE-vxthRZLPyiIuXSBi0qB9uzr197n1Ezel-kCGyddq0aB5mXep_jUHP7c-Le_X40OZMppr17GhTa9I0F_oCh35CJg-QbSJKN-pOHK9JQPoiGBoth5b_17rAF1QRRCz620EEDo8WPLRnltIcTGe37Aa3rfTeeZ3eYMQTYy8tXyk6tpI4RS19dCS-KS8d0W4CChSwkLxcvNJ4Fj1L30JtBbwOCGXSMRY2terC64TB0cZhIXl3VLH0r8qJi1Fg",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJUxNe0sT0K4gRVhRTq5watt0",
+    "plus_code": {
+      "compound_code": "CGRJ+F7 Kitchener, ON, Canada",
+      "global_code": "86MXCGRJ+F7"
+    },
+    "rating": 4.2,
+    "reference": "ChIJUxNe0sT0K4gRVhRTq5watt0",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 98,
+    "vicinity": "1228 King Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4746764,
+        "lng": -80.5202925
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4760526802915,
+          "lng": -80.51886216970848
+        },
+        "southwest": {
+          "lat": 43.4733547197085,
+          "lng": -80.5215601302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Good Guyz Garage",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111813051877824133530\">Chris Savage</a>"
+        ],
+        "photo_reference": "AeeoHcKOPqREJKxUEEe9yuAcZLV0wC32VRWqU2ohCYC861sM1u4AJCkoO6CV5G3Iaxbr77STV2AtNfCJsjf9t5zUN4ODos4Z5oNoCxvCNrRt4BrCC6m9EleMyTBMO8gjRUgcgG4k_hj__MfC5w24dFwUNDR7lvSf94D-Q1dLt4PFHJzz1vOPXmzb13LWi1manGL-CCpvEarIXIIaLiYQVnU0QJt_1_7GhcSNlZxNHZE7dDq79eyjRefSgQge5LvykrqupSItVihcaW3giX_Kvo-x8n3OJ7phozwdi4BnSdKSPfNp078ASahQwE_VFKsHMSyzK4Q0EMazGfZhNvwL1Pt9kOn-CSh7X-Amz7qXy0hVOYcujGA9AcSvD5uD4fGotG2LmsO2GWvRShcNvbxY9mU9keG9Apzflyg9JQ7NRa0TTuHf4tuvEuj2dwdiuFaAdmesgDnwRdgFGQWX5aDYWMcv19RNsRV5BMpKPA3R9Fs2IiUbAU9ZzMNsFfuSx1th__JqCCW5vFl6SHD21R1I2otbPkk18V212Skqbu_wHGRcb0Tcen27WCbkcL4riP6n0llnylZEUhgx7kaX0_SX8GHk-jPnwQw3K3XAmodb6kEoKFH5BbNzMOk1Fn4a5sel9ZNi",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJnZA9lorzK4gR1cPpXD194qo",
+    "plus_code": {
+      "compound_code": "FFFH+VV Waterloo, ON, Canada",
+      "global_code": "86MXFFFH+VV"
+    },
+    "rating": 4.8,
+    "reference": "ChIJnZA9lorzK4gR1cPpXD194qo",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 120,
+    "vicinity": "75 Lodge Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4687192,
+        "lng": -80.4477789
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47012638029149,
+          "lng": -80.4464658197085
+        },
+        "southwest": {
+          "lat": 43.46742841970849,
+          "lng": -80.4491637802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Beverly Tire & Auto",
+    "photos": [
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113473880070972072977\">Beverly Tire &amp; Auto</a>"
+        ],
+        "photo_reference": "AeeoHcIqMmRIInNOxeTFMWyE0gJ8jFCA3HANEmac9AQm3tqNVRu3zW-0d3rwgqbPx-RVGFsKENN4yidqlPvPhWovKQmxjRlLJ5Qy3yiJgWtf1o6alK7IF42cPIo1X1Uty9HdsgVirrOBVXwDFpiUqMDNeKMIqN20nPpziADHccVQIqwFkKyow_6Ugu4qmqfzbIiunvp3hOw9E6g1ErQEp56P24V7XC3kqgwg3G31N9Xt2TnzM_fADwu-Oo9NgCQb8ipzo9BfNbY19eU2fPbgIocVhy_z9-nVqzyT447YdAOXNi-jKd28f6R5FBmWdh9MBDtxyIUVjWmLBKE",
+        "width": 720
+      }
+    ],
+    "place_id": "ChIJhRgPjamMK4gRDWpZ3dj7_SU",
+    "plus_code": {
+      "compound_code": "FH92+FV Kitchener, ON, Canada",
+      "global_code": "86MXFH92+FV"
+    },
+    "rating": 4.3,
+    "reference": "ChIJhRgPjamMK4gRDWpZ3dj7_SU",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 154,
+    "vicinity": "1305 Victoria Street North #1, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.509363,
+        "lng": -80.529472
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5107828302915,
+          "lng": -80.52821081970849
+        },
+        "southwest": {
+          "lat": 43.5080848697085,
+          "lng": -80.5309087802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Conestoga Tire & Rim",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJx9-STszzK4gRmQWaHTAdleo",
+    "plus_code": {
+      "compound_code": "GF5C+P6 Waterloo, ON, Canada",
+      "global_code": "86MXGF5C+P6"
+    },
+    "rating": 5,
+    "reference": "ChIJx9-STszzK4gRmQWaHTAdleo",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "645 McMurray Road, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.509363,
+        "lng": -80.529472
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5107828302915,
+          "lng": -80.52821081970849
+        },
+        "southwest": {
+          "lat": 43.5080848697085,
+          "lng": -80.5309087802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Carlisle Tire & Wheel",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJx9-STszzK4gRpkU1m8Covvw",
+    "plus_code": {
+      "compound_code": "GF5C+P6 Waterloo, ON, Canada",
+      "global_code": "86MXGF5C+P6"
+    },
+    "rating": 4.9,
+    "reference": "ChIJx9-STszzK4gRpkU1m8Covvw",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 9,
+    "vicinity": "645 McMurray Road, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4799585,
+        "lng": -80.48517609999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.48118008029149,
+          "lng": -80.48384206970849
+        },
+        "southwest": {
+          "lat": 43.47848211970849,
+          "lng": -80.48654003029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Bridgeport Auto Service",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111897967881053469004\">Cosmin I.</a>"
+        ],
+        "photo_reference": "AeeoHcLznhRfKy8FFRG56F4-TTHkL58-bUimoRY5CcNcvF6Lr-DUX-wYE_PtjOPo0NV7E9N_xTgnKUtMiOe46VKclqKAi7-fw8zFfZpuYUOWPxEPzB1fasQ5FANVvluy8Y9eRfef4uq5iA-OLmHlD4hXIUGR5oBlN_v93QBOCgTHNBtRdVsxExQTYOsftuvOk-PBLCKiDcXre-uAt4jC10k12D43FoG2MVLxFTtPpG6wBDDPNMklbEr-vP_McaICEI0h9mcuNIPAAnGFtKiMwOTlDbVSPCusNXgcIWMUa1DcvG7S9hGcmt-n8l7rS-3xavO6Yp6uYxP2CHn3gCC3omzIR8m1zAkCxj3iMNb5rAidnc58y0FcQl37BBY21WBR1ILxNep5lQPH1Ostxikrsngj0Dp_NJvlKjirQLAgYrjql2klS-xI_rcMMz2WXE72bvexYzi3YU9fQsdjKeI2u42kWQEpM7hAfyNCVUWISbI0-n_yH0MykfK_qhdv9JD6Ic5Z-k1n9vJTjfYQat98EqlAkLRL2pZzEbip2RlLzPY78xyj7tkMCQ1r7lE_1JemrSyC7rUMxXVpTQoCfoMmpyGKgq6K9PFwb3RYKOF8hIe96wpnFosx69n8MOBj0ZETOh47gtDWKg",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJ44OSkWXzK4gRb4KVfDIw-Hk",
+    "plus_code": {
+      "compound_code": "FGH7+XW Kitchener, ON, Canada",
+      "global_code": "86MXFGH7+XW"
+    },
+    "rating": 4.9,
+    "reference": "ChIJ44OSkWXzK4gRb4KVfDIw-Hk",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 67,
+    "vicinity": "11 Shirk Place, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4837833,
+        "lng": -80.5404054
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4851973802915,
+          "lng": -80.5392023197085
+        },
+        "southwest": {
+          "lat": 43.4824994197085,
+          "lng": -80.5419002802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "NAPA AUTOPRO - Columbia Auto Group - Phillip",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103994778039187752037\">NAPA AUTOPRO - Columbia Auto Group - Phillip</a>"
+        ],
+        "photo_reference": "AeeoHcJ9qy93NZZzFsp13ZpQUl3bp-VnysmkDPEeg9xvV3Biu1qpju7ss6ZcYv9P-gFobPm3x7UJa_fFATF12mECXsuONgM_ZBveBeBNvzewwxt3oiOMKjbYM1M4EfUQUkar4sUDWBBc-b91o5Yb2jQLUtmmrxQfW3CsDWFw8pTFlCSjrBI2MeRtNHTkiHFjbxdfGvW2mquD8haJRy5wmW6du3Dv00_r-6nxY_mUAaUqmlOlqrPGu0mEcXp5_V2qLCFg2ZDqs6Ry9XZSrCZMM5tTAv9FA4rXP7Duj9GNMy1Bz5goo5TKoBS4qBXOxLkXpYwUrDum5uuootw",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJHcK6bs_zK4gRVDqGjdz1n0k",
+    "plus_code": {
+      "compound_code": "FFM5+GR Waterloo, ON, Canada",
+      "global_code": "86MXFFM5+GR"
+    },
+    "rating": 4.7,
+    "reference": "ChIJHcK6bs_zK4gRVDqGjdz1n0k",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 66,
+    "vicinity": "466 Phillip Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.42751639999999,
+        "lng": -80.4658108
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4289012302915,
+          "lng": -80.46444561970848
+        },
+        "southwest": {
+          "lat": 43.4262032697085,
+          "lng": -80.46714358029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "K-W Spring & Suspension Ltd",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117019342191991026214\">Parikshit Babar</a>"
+        ],
+        "photo_reference": "AeeoHcLJVjksq45zOzA4wJvMiuNWY4-3oRao8s1aOKhS7R1728xGO_gmna4RHMSNZmfBw6P7GeKdLopDTqnJ6Yn8p60jwu_GdBTwNFUdhjRhmwZSF1qR_4PNCZmV966Ulb3yVvwnZZIwKo6LwlE3-kAi85BqVOD5tPXsHC6X50JaG10d6EyfZBLo2g5i5QmBsFQ_Xg0-AWodEvdLrjnSNNK1nIBAWO1Age1a8HS6OOnizPz5hsJL5hxsCZubaY5IZuW3s-RwgzFw6Rjyk0dp_kIuvQRVBLfNKpp_6Qt3XH-Ad986f-RxE7DTjlhQcRaOtEgM28AyvVyi8nYMciEmQnV_u7jKiurDgCX5VHNkG97wgM7kvdK88Ht-dBA7b7f6XoUFvSI0XDFHDCLAKBq-PiM2BtIzlBmjHvchvOyZIqAW9sLe2d4xxJLoxf0UITL9lIYrITtYJqiNizPM0ltLvSU0O5cxemqqob_auGUFTYYstEyRVZRVhr6nA79c0Sb1gIK68ZHJyAngs-bSdQUU6hkWQUd_nquJQx1CBQ7ytfChjRixua1MX1Ceq8R2E4dCeT4nUoTai4OSkL2xahzBG7Sg1gsWyQPbwoe8y0Mz3A2eAY9IQB2TiiLIsLi3SzFI9WxY",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJbVgTGCb1K4gRQ89hrDwp7PQ",
+    "plus_code": {
+      "compound_code": "CGHM+2M Kitchener, ON, Canada",
+      "global_code": "86MXCGHM+2M"
+    },
+    "rating": 4.8,
+    "reference": "ChIJbVgTGCb1K4gRQ89hrDwp7PQ",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 121,
+    "vicinity": "872 Courtland Avenue East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.50358099999999,
+        "lng": -80.535352
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5049410802915,
+          "lng": -80.53398291970849
+        },
+        "southwest": {
+          "lat": 43.5022431197085,
+          "lng": -80.5366808802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Mr. Lube + Tires",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105852663087277221651\">Mr. Lube + Tires</a>"
+        ],
+        "photo_reference": "AeeoHcIB9MqNK-LHLMQyONqq29aGM83BFtzoedn5g9xGMzSZyOr_jP9yn2SkjuemzLUKZUaznd5ZU0qrv0wvDMrnW1ICbp2Xs_oNilJYJczs184cI_o-BCI4pIuxc9XNADRIojx_T_ecbX3zcXuMTvjuwOTW3ResVKM_qEeAJNkPT40wfh86iv4gfIQHyRldW1PCE1KXkK1u5WL_8N-6i04O_p72zkRnRTRt_HjenE8VbVPyawANO6fEXVmWQikr9rgf1N6L6cyp_qyfKaggUyZ6g2YCb9FVrzCwHcMsOEwQM-6w1F4yXpqtmG7M0T14JlyMAwGfThe-sH4",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJx534gNrzK4gR14M9-AWjefg",
+    "plus_code": {
+      "compound_code": "GF37+CV Waterloo, ON, Canada",
+      "global_code": "86MXGF37+CV"
+    },
+    "rating": 4.1,
+    "reference": "ChIJx534gNrzK4gR14M9-AWjefg",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 660,
+    "vicinity": "610 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4883392,
+        "lng": -80.5176537
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4896711802915,
+          "lng": -80.5164955197085
+        },
+        "southwest": {
+          "lat": 43.4869732197085,
+          "lng": -80.5191934802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "NAPA AUTOPRO - Columbia Auto Group – Lexington",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100630161139736257234\">NAPA AUTOPRO - Columbia Auto Group – Lexington</a>"
+        ],
+        "photo_reference": "AeeoHcJ5Y9jJc00HPRHYxzKMvIZwrHrMpbL6zBCcTwT1LNuC81JIOznsaUDO1TwcDhfaKEeNnmreZoTg5AtxQahRedy7nPJ0Aee4HpfF0a8796M4ZmObslVqyD8RZuwJYNwuxCPaOrVT-rGSE-ztXxa7sX0Cxjd5fQ7Yzz5_WxvOE5Ut-_d-xY-3PIpnfgfedY4it0WL23e2Zshp0jXNcHtSkjobTRwUNbseYx8CNwJ7llx9GZmOzV44z-BzuKYdoxVzPzJ5FBWBLxq6rRCwGoSDHH2xsxLO4GtijT3YUX6Hm1cn7Xw4Jad8wQdlurxCsgvTVQ7EWok5QfI",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ-RUvaZTzK4gRntS9jKbsWow",
+    "plus_code": {
+      "compound_code": "FFQJ+8W Waterloo, ON, Canada",
+      "global_code": "86MXFFQJ+8W"
+    },
+    "rating": 4.7,
+    "reference": "ChIJ-RUvaZTzK4gRntS9jKbsWow",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 83,
+    "vicinity": "135 Lexington Court #2, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5032004,
+        "lng": -80.5415355
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5044986302915,
+          "lng": -80.53998046970848
+        },
+        "southwest": {
+          "lat": 43.5018006697085,
+          "lng": -80.5426784302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Waterloo Autotech",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114751048580984665784\">Becky Bembenek</a>"
+        ],
+        "photo_reference": "AeeoHcJBVhScMbxabIjmqL5nR_WHmDouQtWcJVM8c9N92GXTGmcillR1zDTnZEk3-591wB5rQrnyDTUGcTstAZoPcL0wwe-qIyRXPV84E0QQt9NWDLqkO9FpPLbMQqeseyjKgA9xLQET62INvWs3-uTWT3Tf5zTUNhKPZoGxuDE3aLwajgsGgp4TgqFC_Z6el1cGeHFndB6sKwu2OlY313oD_FpAowjpyacdA3cUI2Cx07XQkEDzn0Gn-_Oj2cvq5_8i7d7t0F3QeXFzySfESMLr5bhzoC-stsaUyTCeWTH6I8435EtlB435KHaFfqOL3Zm9ivMPfqRLGK9H-OShd77VwOjprq1kVdxWNLINNBtIqD8TXkwDFENyrl_ej4sUVRVj2TqgMryzjSjx83ZQrwOfD_d-MOKQ7egdZwn0tXtxaZxRaIbl9YDRQ86mlthnDr39zrMtB8NIRprrwy5TPvmrh0z3aJV_0nHlsN-jrnA4QuRtT_GPRkDzsdSFV1fPOzwU_-PR3voq7TdaKvJBIhXlbpxWxhOAdmm9dIOMi1-RNIIjM5LPIW5EJysP0E8s_fNjRqXL66BVX2gZwUnz6Gnt7pOU99iWwfNXIpRvz3PEa1ba-zL6GvagxKYw8RzHMrT43O1eS_Mw",
+        "width": 768
+      }
+    ],
+    "place_id": "ChIJGZ4LNNjzK4gRvfPBxuPFhGg",
+    "plus_code": {
+      "compound_code": "GF35+79 Waterloo, ON, Canada",
+      "global_code": "86MXGF35+79"
+    },
+    "rating": 4.9,
+    "reference": "ChIJGZ4LNNjzK4gRvfPBxuPFhGg",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 54,
+    "vicinity": "599 Colby Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.472606,
+        "lng": -80.4405621
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4737273302915,
+          "lng": -80.4390563697085
+        },
+        "southwest": {
+          "lat": 43.4710293697085,
+          "lng": -80.4417543302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Karrite",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 320,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106039497735475319950\">Karrite</a>"
+        ],
+        "photo_reference": "AeeoHcJ-O7_bQ2cvUg4I2cKT3aDV8g-ehVxq_ZiZZogI1i-kPsxuH538eRuCc_fASk4dZL8NLEFyWS5tsgk_Xn5xn3fRnppRac2EsqgioS8eCYA2gVMuZwlN-JP5WbwyVKuqvquQ5Q6BJX7wjHPCAAfvBkO-j9du8nCemg2-xlfsE_2QGxf-TPbuayayPy-CyJTGQh5FeG55biAlHFJhbWM1f48cDthB34KLiMMKJZFF0xDZWt-svhstC3zarHKnoSctyyuK5RJRnyRiBTcd6_3XEOYC-uTI2B-Oe5gurAUUuAgD0DDOD_oyw0KJlu7RPEKvnb5K_2Fq",
+        "width": 860
+      }
+    ],
+    "place_id": "ChIJg-kjJqSMK4gROw1N-ca1kRQ",
+    "plus_code": {
+      "compound_code": "FHF5+2Q Kitchener, ON, Canada",
+      "global_code": "86MXFHF5+2Q"
+    },
+    "rating": 4.8,
+    "reference": "ChIJg-kjJqSMK4gROw1N-ca1kRQ",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 113,
+    "vicinity": "1486 Victoria Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44145899999999,
+        "lng": -80.47384559999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44283873029149,
+          "lng": -80.47222791970849
+        },
+        "southwest": {
+          "lat": 43.4401407697085,
+          "lng": -80.4749258802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "1-800 Radiator & A/C - Kitchener",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115294009103693827368\">Michael Dailous</a>"
+        ],
+        "photo_reference": "AeeoHcKxcX464GOgBsfTe78Rg7A_shL8vocmB5CLDnzwqpUtg0515fMQPlMoo6_G8gWo3DMLOylrlz6F1mpM4tRD11Oyed3_8RwjXDG_fhiEDe3yuIBfY8FA2QVjsjgGreF41dUAyrt-7iN-ZI54fnr6JvaTS4XOl06CaM4JuLvzUF01gVbdXR1GGlnEtVQqJiezPiCEAwe5trH-FNZHm54S0RhnAcNgn_-KCwB1LwxVJD3V10jA9Y5ulpZ2X67XQnwvcGUUj-gY4zXTShpH0mFVycxtYqbBiWoJbXB7--OQtlwBqfUtk6nRpMvhkWFYsnBceO6uDAvmRa59tFaowXawcopIo8yHZDiLksjB-dxb5iwElBibv8NJIHvOv7CQY5vuH86FblvfVOeGMk0xYEWGu19fD4ZhR3BhkPML_GoVwpfc7O6fqKUUh90Vvts4oQp-tRltqVAqiJoE4RX-_4F5DiwMYuIV1wIFtQ5Kk9GKDW3cU0QMc3d-TGInlq2337ymScp8qMwDTO117gLyTntdPN1oLepUZGE0iMHH84YMy-YIqP3XsOEWzP6q8xWR7c6YytESCHTSpAtH0xJU_HmczCMVV3-Ior2HoyHmC6f8ectwM7jDz3ZCWcKUmJUmkPWRvvQQMgj9",
+        "width": 3000
+      }
+    ],
+    "place_id": "ChIJu7MVHGj1K4gREpOB58L2A7o",
+    "plus_code": {
+      "compound_code": "CGRG+HF Kitchener, ON, Canada",
+      "global_code": "86MXCGRG+HF"
+    },
+    "rating": 5,
+    "reference": "ChIJu7MVHGj1K4gREpOB58L2A7o",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "50 Ottawa Street South #108, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47007600000001,
+        "lng": -80.4448043
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4714821802915,
+          "lng": -80.44350271970849
+        },
+        "southwest": {
+          "lat": 43.4687842197085,
+          "lng": -80.44620068029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Altrom/Auto-Camping",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2038,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101038344528051208666\">Jeff Mulder</a>"
+        ],
+        "photo_reference": "AeeoHcLn2KOL4DFH34YEUlQaXQJYNfbILm4WLJo953Ho8lq8k0GC_0kj7kq5leN4TjN7M8tKeXYoQHAUHe-V34ItLLQSFNtCY4h2XAglzgF6l2GJDRRpHcEE06n_IF3u2d_-hvYNqhAgU15pKMZMkHPasuoZLxhvuxqck5XFR5G9_ViYPSq8zNtKwNtfD3xUkw0PwK04uLHaDCc5ynMexRZPMC6KRFDB-3ZpnVs2n7LtXztSIbx8T598yKuj1nA9XAewttgZzvarWCGFb_sKcz2PJjhA2Cf1VrCUK2USaDrNCS_Xl73DN77RY2EnSK9vBHWGnA9YVSHr1jSU2iNjHq22h3ZYRwTC9CoXgmpk9CIkGnadHDWDTy2WQXuYLIKZ9NQy7pt4jPhHPGjuDKcv7fso17bgDBsv2G9eKkU86sLia9jfynRDsgrLKlJS-c3mVfBzpjpNip4JNhxESk7vueJmSGW9ibeGuhYxcoMH4H8cCzDpEalxLcENyteFfWF5RMoXWfWxnzHW45YLGHoQh-klumhDUpbzXQTJlFHAlzBREKt8HuPIgfxWDH5tpvi0iQP930Ix6ClgfeR_ccgBpSVNm4ALWo_IkotJYMGAViWDl-04wO1AAbmvNzpDQPyfxG_YIc-DymoZ",
+        "width": 3912
+      }
+    ],
+    "place_id": "ChIJJ_9s-FXzK4gRyZkLncJXTcI",
+    "plus_code": {
+      "compound_code": "FHC4+23 Kitchener, ON, Canada",
+      "global_code": "86MXFHC4+23"
+    },
+    "rating": 5,
+    "reference": "ChIJJ_9s-FXzK4gRyZkLncJXTcI",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "1373 Victoria Street North Unit#14, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4701799,
+        "lng": -80.5125319
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4715131302915,
+          "lng": -80.51117176970848
+        },
+        "southwest": {
+          "lat": 43.4688151697085,
+          "lng": -80.5138697302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Bridgeport Road Service Centre",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101038344528051208666\">Jeff Mulder</a>"
+        ],
+        "photo_reference": "AeeoHcKVadOTvpMMdrSIguAonyCKJ9wYnOoGDFyvYeCX-oFrI5Imr2wkbonikTy6aOWJRzrgK6By0GX-g-AXizd5dHB4IWVPyfT08DvIhWJMTKEY8Vpl3zutl0ZzoW0VInahy56hq7svcxA-6kfWsM0jvchSTBP9v2kC1-Yshji50uo_AHThKK6eLM5tVECR1A8GzfujoU69NBxr_8k259Tv-ArI2r9YNt1w4okQH4CndG9MXH5yKzollxE-91ytBgrBT7_6jMQIxG5cwAUHCLJK4CJXvaBne4y_hjck3H16PmNeXSZqr-CrFJve68BqB4U1p5b64WksEBccgje_ogdxRK8JnRBTjl3tv3bdLr1BodPl8KbpbMBkBMvxYXLMYxE7CKeIw1VE_WZoBDBikpyF-vf-j7c_ielaV48ftjzikxNKuvec6pV00s0HPctIxRmuI4VZ0ATnhRVD7BtBUXheVGsLz_9nH1B5LYN7_lkNsa8bTZrrD52CRTOS9ZG32XswbyL8mLpFnT6m8Z2-XKMD6HQi1xduEtjdw2ctHQmyDzmsbbaPZKRL9FaLZpiV2FFUtqud_TFKlbhm_aC_UovnfwuG5QsJrSF5RX3UmRmo2toN7yxP5qhzKFlvoNHZX5cXGWUG_w",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJab-_dXf0K4gRB2BjTbPwQq4",
+    "plus_code": {
+      "compound_code": "FFCP+3X Waterloo, ON, Canada",
+      "global_code": "86MXFFCP+3X"
+    },
+    "rating": 4.7,
+    "reference": "ChIJab-_dXf0K4gRB2BjTbPwQq4",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 25,
+    "vicinity": "120 Bridgeport Road East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4803439,
+        "lng": -80.47654820000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4815131302915,
+          "lng": -80.47532656970851
+        },
+        "southwest": {
+          "lat": 43.4788151697085,
+          "lng": -80.47802453029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Furtmair Auto Services Inc",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJP4m7A2jzK4gRgjSutuFAekE",
+    "plus_code": {
+      "compound_code": "FGJF+49 Kitchener, ON, Canada",
+      "global_code": "86MXFGJF+49"
+    },
+    "rating": 4.4,
+    "reference": "ChIJP4m7A2jzK4gRgjSutuFAekE",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 16,
+    "vicinity": "51 Bridge Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5055472,
+        "lng": -80.5415502
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5067269802915,
+          "lng": -80.54065076970849
+        },
+        "southwest": {
+          "lat": 43.5040290197085,
+          "lng": -80.54334873029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Colby Automotive Ltd",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 5712,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105488642632252226859\">Sonya Taha</a>"
+        ],
+        "photo_reference": "AeeoHcK0Z37nb1RuD5_DW2nyyVn4ryFlbfFYiefZDY1hvBVV1mRb1LIPP3E5YB6RIIqFETQXn8p-LpTG5TGifTyvlmvmR66TzdCtn5Mti7u1vaBORZ61qHSt5fw0asMX14dKbFwByGmR_G7mL3ADHVipSubwzQKtF6lCrO4hscJHie0TF_SFOqygqtmsCeZiCDcOIc5BqT8un99oizMpQlfTmySMiCbSVLuM5bz8uxZxGhim7e-MAb5_4kVfVly4m48GvZN3SDuNLWwdczk4uLqbce1XRzye69pEBXgiTpD3PyoYWD39yc4r35xq6JDriLkw3iCpxYEta31zgzXnFYIlFsnY4aN_nth6Trg6GlXJ-Fqyg2yLARHUgndMV3wc2ETyyDF2tbCBq84m3SR4H0RfmsS5P2ZAhYkhk0rttT0oDzdIa_odkc9cYVb98twkK9_OMwxhBOVG5KTicP_dhmujdo-zp7TWu_hA3H-CuRducsrV0JuDEV0jl4hzNNExBwIzaDFs8wWuARXP4K1wcHRZAYCIsCZCGtr7DgHzdIyLnBZOEtsIlMZT68MusqDELaXDYEclA11v0P_VhlMOGuLjE9TNG2u3nraD4CsnUH6ZyFeRg38f6uSQsABaV1XbYa9IncaQb1nD",
+        "width": 4284
+      }
+    ],
+    "place_id": "ChIJ8cvFk9fzK4gR17_hxx8NSU8",
+    "plus_code": {
+      "compound_code": "GF45+69 Waterloo, ON, Canada",
+      "global_code": "86MXGF45+69"
+    },
+    "rating": 4.3,
+    "reference": "ChIJ8cvFk9fzK4gR17_hxx8NSU8",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 30,
+    "vicinity": "610 Colby Drive #6, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4602819,
+        "lng": -80.4760869
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4616775802915,
+          "lng": -80.4747667697085
+        },
+        "southwest": {
+          "lat": 43.4589796197085,
+          "lng": -80.4774647302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Coast To Coast Transmissions",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112818098383441679319\">Jordan Aaron</a>"
+        ],
+        "photo_reference": "AeeoHcIVnbw5Zr8fRO5f3g2eJqMS-W26pGOFKuLANLFKqNkFWElKfErc4kPt_D2kQRQVJcw6DWD96JoP05DEacpkL0LMjRg69JXxfUfaE4tTomlHb_BzDDtIAO1hq3G4VuQOWeJUHGLdMjFvXB_AxfOLPaQNAza71ezzxoiewtGGpisDTve33nG5c3adEEK-RynfbTByo6Lpk_5Yn4Q7we4A9KVTwonjZjfVo0aq4QKPpwTUYqafOSBNROwWhqPj-G1eDRPnlTT1JjJMT2L194W8Ha4V0JYz-3enZwSlaLrHaKdhej_aWvXizpMxHJ6rder6ofdI2lPgTMxW7n8SOGC2ubjXjPsXSO9WSB8iTtQJe5wQgJoLQU4WTIbggPU2lSblRXKHm03lgCSFIC7ic-L5j6v5sic5fI0MPQhzo4c4vhuYrgn-jC4jdMu_Y62XEHgWIOO2NUXWGg3H5G68S4v9oD_WC5pubmcOh8KDr_4uSi6keypvA7ujDgw4bORhDXD-QUc4AfsViki46UCvAG4XL8dTFerx3sv2ykaT4T5muQndNLRtZerjBVnRgDLWfvUFkfS-vQLEyfsfGP7EaQsLuTrkkACVTbhHsyh-aq0Dul4YOGcbhhXDyPz2Omivu070",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJfVl9Ur30K4gRUKf35hTUM04",
+    "plus_code": {
+      "compound_code": "FG6F+4H Kitchener, ON, Canada",
+      "global_code": "86MXFG6F+4H"
+    },
+    "rating": 4,
+    "reference": "ChIJfVl9Ur30K4gRUKf35hTUM04",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 43,
+    "vicinity": "577 Victoria Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5116205,
+        "lng": -80.5326456
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5131500802915,
+          "lng": -80.53098951970848
+        },
+        "southwest": {
+          "lat": 43.5104521197085,
+          "lng": -80.53368748029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "MKW Commercial Vehicle Outfitters",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117480865676034004694\">Erin Bergsma</a>"
+        ],
+        "photo_reference": "AeeoHcLNPiQwKBWuxz25SB-PqQ114afMIxoJABr7CDPxbsUh7eq72OzSUO42ktoKjAg7V-QhdEDHfSnetNGA4jvF2BpPnT7QSGxwZfiTnhBx9JaQyYkoTJjDx9k-28AxfiamlHQ6H10GcD46P8KwXZe5b8yFagdboIeEbHJyMTagJ0ygfb2X36uLN74IzdrlS_MfPsX7N97DroXuly9Wv2CFGniMxiASL0hf_xEn1oKw1oE8CD9_f_CiS-oeh8TEuOlSGzrLFL39pokIYZUuqTVKkwMoUyhufNf8ByLlABjStn9HY9kkAHnD_xJs8Jouv9D3cad-MDiZAOz0gby0VVizJqaAIZBzy-RRfSijaRIQ8_w5c9eh3YgIuofEQrIjQEDRQ3GveLWzLXCPqd-w7dKxlMD-cwZ42_04nohzDu19wC7yxqi8ucyAAuxiuFFcabO1oUt5JV-UGQvg4cSBcX8Y9fPN8MQ2cdGuKbAGbfKLG6hwLCI0x6PfHT0ZOVrb8KlnXo72aryl6eb1hy_V32H5x_dBXjDZt-jADAM_-ZN1B7bcSjO2rXARAFskacISzl8iVJpPoX5xxDGGecyZEYxPgbyrm67DWU6fqedc6MdbUO0okYvfPUGJb214AgbEqUuS0uaz3g",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJg4mPadDzK4gR_XouOOY3qUE",
+    "plus_code": {
+      "compound_code": "GF68+JW Waterloo, ON, Canada",
+      "global_code": "86MXGF68+JW"
+    },
+    "rating": 4.8,
+    "reference": "ChIJg4mPadDzK4gR_XouOOY3qUE",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 45,
+    "vicinity": "715 McMurray Road, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.432015,
+        "lng": -80.4783393
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.43326863029149,
+          "lng": -80.4770637197085
+        },
+        "southwest": {
+          "lat": 43.43057066970849,
+          "lng": -80.4797616802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Automotive Trade Supply Ltd",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJeTHJ5R_1K4gRjJzRs330qZ8",
+    "plus_code": {
+      "compound_code": "CGJC+RM Kitchener, ON, Canada",
+      "global_code": "86MXCGJC+RM"
+    },
+    "rating": 5,
+    "reference": "ChIJeTHJ5R_1K4gRjJzRs330qZ8",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 11,
+    "vicinity": "14 Hoffman Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.50784300000001,
+        "lng": -80.5433044
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5090866802915,
+          "lng": -80.54212471970848
+        },
+        "southwest": {
+          "lat": 43.5063887197085,
+          "lng": -80.5448226802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Jason's Automotive Repair",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 356,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104592011253710487264\">Jason&#39;s Automotive Repair</a>"
+        ],
+        "photo_reference": "AeeoHcIjpIs9aX2bUd0WSx_uNVHbxPaGN6GhVASP8n8OO0BpRrCsylRlv4ERNO7sv43B75PDkeiMRfiNCMf-0RDTQwXTn0kWA1vZ-UTn_yzkH79a3ZjY_g7MxyXUp4Xl35RnXk0EkjLxAvJjvsDSgHIj8La2BhuJCcYZt5_LiMxgNy27_dwSIdZk2kQVPE_D2ipcLLQfPAw7IPDRCtTdD5fsG7zilVNrd4pxfDFKw6UVoLBLd-6i5T1Vp2bU2WJytC5ZEwZH2BeV5WdBRKDQgz0P3O_hrxG2hpkHcxjjqXTPsd-2ldwWxkHKZ_kLmGSLSB15ryT1j9_8-4w",
+        "width": 356
+      }
+    ],
+    "place_id": "ChIJXUhAMNbzK4gRp8NnnMUwVus",
+    "plus_code": {
+      "compound_code": "GF54+4M Waterloo, ON, Canada",
+      "global_code": "86MXGF54+4M"
+    },
+    "rating": 4.9,
+    "reference": "ChIJXUhAMNbzK4gRp8NnnMUwVus",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 137,
+    "vicinity": "621 Colby Drive Unit 3, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4670194,
+        "lng": -80.4525553
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4682867302915,
+          "lng": -80.4513382697085
+        },
+        "southwest": {
+          "lat": 43.4655887697085,
+          "lng": -80.4540362302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Denomme Automotive",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111950918960803743739\">Alex</a>"
+        ],
+        "photo_reference": "AeeoHcLbPR8AuPbSt-n66-Li84H_GintOpjgmTDVH9eG5MU5AdRQb2pd4c52lxIxW2IsXn2XCsyB0VQd70ruukMCgQ4rqN5MgtKr0Kiau0vZQxO30LvbV_YWYG19m2vTFd3fnu9AwR_zYTS1TZ_TsGdzA_JK-gWCji613jLQOpWSKhv9e1d1jwJdPxa5NXk2YF_Z8k6lF_VHw4c-CYXvOQNIyaXFPypldnnvMwtDgv8nFTup_fOKrWHsj1P5lAdo5LYHIrFzb_jGt6vPeuT2R2g7m_i-5vwigBF8OltaUiJeh6ab5R3gsHjxZ1b6lZJE0Uz9aum80jZ4TtwLaudmPQS3ssGWDzd49YdWv_KrGRvryZ5C-G7rd0HIbmiymKkgwxqhrQu8UIamIfHW90IyPlIqOE4ph6XRDUKG2gutrnXJc65k7ECfUrk7FcDaGur1e4_xLvEWN3cWlLxQg75DDHcG43_wnSqnFLicqLchvRLwtM4PlzEhIDMyhpuBxoB8iqaW5ya8dO-OMEewDDr_PgTO1rtCRrxUPy4oKmmge9XWzkRRqp82wDp7yHQr1saPfMqvT_e-47G7vTrfxNXOUyBb4IZH4J4a60uWdzw9SR4Wsjmnp25F4dDKiWX68bfSYQF84hPKv8Rz",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJd9csDVWLK4gRBEIcqLdmvlo",
+    "plus_code": {
+      "compound_code": "FG8W+RX Kitchener, ON, Canada",
+      "global_code": "86MXFG8W+RX"
+    },
+    "rating": 5,
+    "reference": "ChIJd9csDVWLK4gRBEIcqLdmvlo",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 30,
+    "vicinity": "2 Forfar Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47570129999999,
+        "lng": -80.5236652
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4771435302915,
+          "lng": -80.5223732697085
+        },
+        "southwest": {
+          "lat": 43.4744455697085,
+          "lng": -80.5250712302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Van Holst Automotive Ltd",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107192207269357818602\">Krishna Katta</a>"
+        ],
+        "photo_reference": "AeeoHcI7ZYK2iSETgMHlzMZvZgugsmF0iQ-5IJIbkWoreBf_kqVbQaadk-Q_5b11k75QVokQBnWn4OY9rACNPfXqGfsfMnNuoOB-p2E9vUafpryOvzc2htVjW6l0BYSfKO9qTk_ox240XXJ83kSRBfyZGQbOPSHbqBnZAF8M-Z_ZOUBOdDEOLkV0TCv-947BrrG_xKn-qOI6UYlKAFvdONz6CChXIs-C03GFCjx6yga0OudJyjDN1Wxj5zUV50HYV9WQprvZxPjO5NjoJ-amQIDxT1cVQYrh5rhJQT3vW3Snn78CLBo21MTKUqc0JNLApM81-unU-ap5ltGnQzS6XvmENFucbj0IEpqFXBBCqCn89BN7bdSbFLNKgqvHI0P_kEatewH-sYPlyBZ96JZGoV5tWz_Yd1qm-JhvyuE6g-wzHgj08w3cByEPilz-VGIhAQzFH03nWvq18y3JmzE_73yV5w8iFWjQDltvhkDmy2PY_2ztN7rGgPtzAyHJLL5ajhiga6Hr3LK4Hpt6ChO3uGYJN7lGCpHMdNef0zC3bJa7mp1WbnqrsAUQqULCS-XdAalJ-h_itxeyOAwXGZ0IcfaVQ6WUGXJ5wsNXGxofw1nfRdI_VW2dPV6jYJoxnexmWkb1KuXrug",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJ9ZEsEPXzK4gRtj8up1iPLBA",
+    "plus_code": {
+      "compound_code": "FFGG+7G Waterloo, ON, Canada",
+      "global_code": "86MXFFGG+7G"
+    },
+    "rating": 4.9,
+    "reference": "ChIJ9ZEsEPXzK4gRtj8up1iPLBA",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 91,
+    "vicinity": "231 Regina Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4685176,
+        "lng": -80.4517568
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4697375302915,
+          "lng": -80.4502951197085
+        },
+        "southwest": {
+          "lat": 43.4670395697085,
+          "lng": -80.4529930802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Rennie Automotive",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118141292848437638476\">Marta Borowska</a>"
+        ],
+        "photo_reference": "AeeoHcLvhqd1PFUuaRaclW2C7pZoYZirHNKtxEJA2FV3R2ZBYcyeG08ac-EDD3vKHwQURann-zM4jBGBv84XJOjqIOZRjrqQ6StlLJTTjpscv9hZ0FG6GoyrkOdLhDIRGlsxy34M0eHS8keruK_70Lr-eam6PIj0g3rU6XrjV0BgZ73sAiQiu7ZlfNbPBQOBwe0OiTIeYIw3fzfNI221SWSs6UjgZtIzx7Jr7pQ9DUhAX1AM0tCyvll56BLTfvXzk8300MP-DUnfeChZAmU7BmhjBLidDsHDrVcXMtZ-pJ7V8dM71dAN4Ufl8hbeK9l_imydxvoXbDTqHZHsyu4nfJUDTy3V866lj6b75ddh1GWeKhoYi5plh_vrQiJAMXY3eV1-IjJ_cLGcdLf7D007tcNcyl1Pj29KP8BDGXVhnFHr10kXOqrsddi-ViIh5-y-pN4cX7Kjm01vncWUZNWxr4GXk9aXpT51Z2EdEBFuPBxs9hgEKKGTStfQQ4MyeMEHj0hVO89usOD7fZlMjSgEmwdJok87qStFjIHjUbghPJVPnKxJk9x5R2TimtZVG8QzjbRlzWwtFew6-21K4S29TCCm0RRmTwdQ-nPZSgBSL4vlWEgMiuej9TKHu-n8lhd26w57dR5I-w",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJN_NUX6T0K4gRmHbuh0QWDjk",
+    "plus_code": {
+      "compound_code": "FG9X+C7 Kitchener, ON, Canada",
+      "global_code": "86MXFG9X+C7"
+    },
+    "rating": 5,
+    "reference": "ChIJN_NUX6T0K4gRmHbuh0QWDjk",
+    "scope": "GOOGLE",
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 150,
+    "vicinity": "1244 Victoria Street North, Kitchener"
+  }
+]

@@ -1,0 +1,1115 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.483147,
+        "lng": -80.5251168
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4846033802915,
+          "lng": -80.5234253697085
+        },
+        "southwest": {
+          "lat": 43.4819054197085,
+          "lng": -80.52612333029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Enterprise Rent-A-Car",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4284,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117911398905601370106\">Amin ghasemali</a>"
+        ],
+        "photo_reference": "AeeoHcIBFSIspa-mvZ5YVYG4WDaFLSbetDHJ_Cb0wcwitPvTd9uXukpWU7WA9baHwHkIDLjOCaFS_8wDFxh8DK3niDvZK6eHsDumDkvMzKab0Svd1A8ULU7Fb3AILug5YJTExntLFL-pMbmfww1RaAi7IwMq-friO8S43sW-6kNHNnqceoSZoWajfc3vrleusqC6gvI3d1N-RW7zEWwpf-glwoTxFE451nQ7v2wlnamLBQ4LnkpRST4O1l7SPu3Cnx2rJuOVfxVZ73aiEChfSp4WBlP1Fkr9BKklr4j9GONQqwkt8hxfGE__0xlJpi2U6GodiVzTef5Ey0uokQ6h8tZiic-cXR1xymZWVmKmb1nkhlxeaoNBs5w3Pfkh1_pc-iYilDBP0fVx-oMcEn2jIKJAyxDDPi8oYCh-n002_MsCU_LASBFTbr6wyFY4AxyaQHbhVg7YR7y8bKtU45s6EynvC9DIdPHrAJ-cun9Zxtj9ETTUTcOouBNQN3IFDDUjD6CwOoxCaCpHz0WBoKzxJSH0xUO1HIUtXMkWPDeFDaTRjOR_GBky68qaGbjLiIb8xK9vTuJLfbgBKyBhNCQPAfy0EW5IiL_YX-owbT6U2Rdn6kEQ7Pg11YR0uLVe0WDu65bpkFISgw",
+        "width": 5712
+      }
+    ],
+    "place_id": "ChIJIaURh_LzK4gR5RbOc2gtNiw",
+    "plus_code": {
+      "compound_code": "FFMF+7X Waterloo, ON, Canada",
+      "global_code": "86MXFFMF+7X"
+    },
+    "rating": 4.3,
+    "reference": "ChIJIaURh_LzK4gR5RbOc2gtNiw",
+    "scope": "GOOGLE",
+    "types": [
+      "car_rental",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 844,
+    "vicinity": "379 Weber Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4196629,
+        "lng": -80.4536246
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4209547802915,
+          "lng": -80.4523229697085
+        },
+        "southwest": {
+          "lat": 43.4182568197085,
+          "lng": -80.45502093029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Budget Car Rental",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 278,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106854727078189628693\">Budget</a>"
+        ],
+        "photo_reference": "AeeoHcJFEbPssLPsHQbKM3ouw0JOCXU6IJjml1B4Bj5UVbu0i7rNivXzBjo4lba6swp8O5zunjfNgVS48kKDAqceZKF-ReIfEMb3X_qquYa4bqKz0tFHvAwt88pj47KwbSHSJwxo5buLXKARMuMwPmdi1BgD2si4xDp09BzrkZ0MYaI-WT49pMNplauWAgPpDw4SpiWDKnZ8PUTNh4MnXn8M8F9XE8uRr7fEiC4fWU9ZWSEgFfDGk1LCp1p6lzRq1XQMsQf9SaaI9hxIalEngaiDo1RbZ5aRediaDRhyx0DIanFGDx1hscWZ2kN7akk0H-G0agV_9fblke0",
+        "width": 494
+      }
+    ],
+    "place_id": "ChIJ3T_BbM2KK4gRGADq-QYv8ug",
+    "plus_code": {
+      "compound_code": "CG9W+VH Kitchener, ON, Canada",
+      "global_code": "86MXCG9W+VH"
+    },
+    "rating": 2.6,
+    "reference": "ChIJ3T_BbM2KK4gRGADq-QYv8ug",
+    "scope": "GOOGLE",
+    "types": [
+      "car_rental",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 69,
+    "vicinity": "696 Fairway Road South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4196577,
+        "lng": -80.4537294
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4209485302915,
+          "lng": -80.4524195197085
+        },
+        "southwest": {
+          "lat": 43.41825056970851,
+          "lng": -80.4551174802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Avis Car Rental",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 630,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110053354030006279765\">Avis Car Rental</a>"
+        ],
+        "photo_reference": "AeeoHcIeMK3ky7IacP_eSx-tUSYtCpPpxxFc_2B6-HXNl9DGuKuXsiMeX8O6fZ6fyc3m-cvivdN4qViitqYT0C5HknLuZ7p6pjB9X6q7i08sfD32cbnjIiHBUZrS8q-oFkdtk5gAEwUnWCBa88EjEXU4jQ7RPEQeYxB1nbtZ3QwWkB0z1CGSt1sOmE92L1ZECwTACKq6sHZoKD7Rfn4gjA7pEvkZawuhwuU9JJp-BxWcpUmbAAe4RMQFZyvFz-g0290yzHsKMmIYvYyIa7rnaFTxI0i4GpDOhkZ7WcMQ37Pu6DodMxN0uAx65WR1wu8t0BQnIM_kslpRRLg",
+        "width": 1120
+      }
+    ],
+    "place_id": "ChIJ3T_BbM2KK4gR8BcwDTiBRWE",
+    "plus_code": {
+      "compound_code": "CG9W+VG Kitchener, ON, Canada",
+      "global_code": "86MXCG9W+VG"
+    },
+    "rating": 2.6,
+    "reference": "ChIJ3T_BbM2KK4gR8BcwDTiBRWE",
+    "scope": "GOOGLE",
+    "types": [
+      "car_rental",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 115,
+    "vicinity": "696 Fairway Road South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4720987,
+        "lng": -80.5153117
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4735536302915,
+          "lng": -80.5138328697085
+        },
+        "southwest": {
+          "lat": 43.4708556697085,
+          "lng": -80.5165308302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Hertz Car Rental - Waterloo - 133 Weber Street North",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117894199359394292924\">Hertz Car Rental - Waterloo 133 Weber Street North</a>"
+        ],
+        "photo_reference": "AeeoHcKVex9SrLHcsLVKnI5SYvvOAPpDxQL6CicJNa2abrKjbudMvi_gV109xrzPPyjYDU3sgiNHwwuFSD8tW8noHYN1o-VDgbJXTA4GKyKCnEqFiORr2R-FxDEIRJHI8mPsJ8am0TJIdJGxpaIEyyvr1uOUZnT3KQg2m3vPqD07OKkb35_4wNmtt0Hr8hvajb5ERwc1TzOJ8BgdNOEb7L1dhrIe0_rD0nsNkxQ1bL_fPcqhMRc_fYs6-QTdQsdA6RK4ZPk22ZhdZvaz09ItDw1aexiIeZfWSr8N_EPx_mm_JJjeZnEcCWjpZY7Cx7MgnI_FEjosihOjC5Y",
+        "width": 720
+      }
+    ],
+    "place_id": "ChIJW4EgQnb0K4gRmh61fYINFx4",
+    "plus_code": {
+      "compound_code": "FFCM+RV Waterloo, ON, Canada",
+      "global_code": "86MXFFCM+RV"
+    },
+    "rating": 3.4,
+    "reference": "ChIJW4EgQnb0K4gRmh61fYINFx4",
+    "scope": "GOOGLE",
+    "types": [
+      "car_rental",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 231,
+    "vicinity": "133 Weber Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4641817,
+        "lng": -80.5028028
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4654112802915,
+          "lng": -80.50157871970849
+        },
+        "southwest": {
+          "lat": 43.4627133197085,
+          "lng": -80.50427668029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Budget Car Rental",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108963302768457861638\">Brandon Piereder</a>"
+        ],
+        "photo_reference": "AeeoHcIghFIqN9mJOL5UHK7wlKLGtO5ZkT-W_279PllaAVUArf1YBHO0FkfnrLipZsPs92tkVmefdQm6c5T8qFpwddWyCW4LJsVpBXnMfMZ8sRn1uPvBoNQJn-to5u4gDs4mPiWmNqzBb5YU241hE1cio_bUxFoFN9RhA6BuY-DtfGfu9I4um3k7A30W9mi80zTbZza2T37IgwZY4rIKci-6S4ctWBgdoZTo-qOp61rK-vOiIc2TditQDKFfXQKrll6bqAQ2mF0hTJYR0hmblTYW5FfbRm1PPgk5sn4pKvDiW7LSafFEj4yBvJHCRfCZ-ea0XBKuHn41Sn_qoGF-o4369qxd7cuewdPwZAxqzyC_f13w8e9o-a_DrQmaheBphHx5Z-g75jYc4zLOHBkxkQJTXe6DrCGKcpf0fQyMRg_blJfF4sMicoYv1l0EbRDcajalFpsxWM85NR6o1QNWSfHbvs0xPoWSZjKGdQG52F9b4h1zufz5AwbklThy7DwTJkTYo7jinAZbHNO_K6dIkJd4A6NNH8IqV195ZQCjmrZqOGVsdtE0n1A3VrqYWVHBjjrjVTSbNFY-gK4lBpN1bPnM1obl0kxplTaoTMuBi-HP9fcaxXVqZPyD75cm2j0gMVHqTMAhBw",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJzznT53z0K4gRDgI9X9OVr-g",
+    "plus_code": {
+      "compound_code": "FF7W+MV Waterloo, ON, Canada",
+      "global_code": "86MXFF7W+MV"
+    },
+    "rating": 2.8,
+    "reference": "ChIJzznT53z0K4gRDgI9X9OVr-g",
+    "scope": "GOOGLE",
+    "types": [
+      "car_rental",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 72,
+    "vicinity": "160 Weber Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4583301,
+        "lng": -80.4966671
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4597265302915,
+          "lng": -80.49512971970849
+        },
+        "southwest": {
+          "lat": 43.45702856970851,
+          "lng": -80.49782768029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Xtreme Car Rentals",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110122850081867561504\">Xtreme Car Rentals</a>"
+        ],
+        "photo_reference": "AeeoHcJkyEv9jqmGGy5y2CLOvzvEILQIUcPLcOhP6rSzJK7oD68Co-AyCzSndGl_dbv6xA3cfvjMcONebZ5aJVqgSg0l-c43K0k5AeSVcd8wdFK4RN_3RXy28jrUiLtvS3-kAZa21xxXwM-3NHhBbjWU0UD29XkXT_-aNq7qVZ9XSH4Fj6zTKiyo7ndeqAarABqjVmyMu-JstNU694rhXzZmjB_2disbQxX7uYlE_dhju-7l0ChENZhC5wLpKOwq7hR_V6LghRWSrwG6KnGV-LhvagT73le5LwYfs8nhIyY2inS0rX7xSANqFAyzacfDMRJQCbcP6Iklszc",
+        "width": 900
+      }
+    ],
+    "place_id": "ChIJGelVfIn0K4gR62UmZjeWCSg",
+    "plus_code": {
+      "compound_code": "FG53+88 Kitchener, ON, Canada",
+      "global_code": "86MXFG53+88"
+    },
+    "rating": 3.9,
+    "reference": "ChIJGelVfIn0K4gR62UmZjeWCSg",
+    "scope": "GOOGLE",
+    "types": [
+      "car_rental",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 219,
+    "vicinity": "178 Louisa Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.424669,
+        "lng": -80.491159
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4261296302915,
+          "lng": -80.48960781970851
+        },
+        "southwest": {
+          "lat": 43.4234316697085,
+          "lng": -80.49230578029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "GRT Mobility Plus",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJF4I_RAX1K4gRfWZZyVjT6AI",
+    "plus_code": {
+      "compound_code": "CGF5+VG Kitchener, ON, Canada",
+      "global_code": "86MXCGF5+VG"
+    },
+    "rating": 2.3,
+    "reference": "ChIJF4I_RAX1K4gRfWZZyVjT6AI",
+    "scope": "GOOGLE",
+    "types": [
+      "car_rental",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 32,
+    "vicinity": "250 Strasburg Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4287737,
+        "lng": -80.43397379999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4302351802915,
+          "lng": -80.43256331970848
+        },
+        "southwest": {
+          "lat": 43.4275372197085,
+          "lng": -80.4352612802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Enterprise Rent-A-Car",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113932187865128667984\">13 OTHI</a>"
+        ],
+        "photo_reference": "AeeoHcJpHU4jnMCrTZP_QZKQ2LVxo0cxkPgP0KTjpsPZnGN1IQ6PTo_YGLxSbXkXAAScitEOB5MlWiHEPNFzk-tq-1jAm3atM52SIcz7z6euQwAKHjvtD7H7pQ7tzeTv0Ryhn-8fbacPdei6u-EN-MnjOl06RAWRgSRHphgaNAM1MC_xoBN7JkhFgPqMt-niagXi5Vu6Fj2j-_OMbEYZXDvn3I-VfM3bG1dFfQng6a6bLm3NwwHruj4C3UJRHIhkBKUxHfulp1pFdEb3s4nq523iT5ZycN0L0YiwOQBr0GjICvpdeiKVnwuXVwyG_qQFyyfJBpPJPfRr_CJbkJku7uKLtF8FBP2JXBAmROTBUyypaDWprPCdyfGVB8oyop3U_8xdk8iUxJTU-VnxVG15SWeZYnB-FM8we3UVTRv6DwKHhvWGo9krC3EPCbFNIPODYZGLPq5q0wCAiPiC8SiiQZpkzGfiJL72L5l7s7Sp5mYbj7RxAo2LmGjxeSJklS_bHejyd4j1e8w7GGQecdUTTdg4o4s71GWai_G2M_aauopIbxWDaKmBcLx3OeP97-Ec75zG0ZTm-pgWk21XCz-sqgjJmgdzt0Qxx_BNFI39hIKBhN7aV_Wuiq9mlwDzLw5iDEXU",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJv4HKt9qKK4gRelZ4t1pSqJo",
+    "plus_code": {
+      "compound_code": "CHH8+GC Kitchener, ON, Canada",
+      "global_code": "86MXCHH8+GC"
+    },
+    "rating": 4.1,
+    "reference": "ChIJv4HKt9qKK4gRelZ4t1pSqJo",
+    "scope": "GOOGLE",
+    "types": [
+      "car_rental",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 552,
+    "vicinity": "2959 King Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4280851,
+        "lng": -80.4666049
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4293567302915,
+          "lng": -80.46540181970849
+        },
+        "southwest": {
+          "lat": 43.4266587697085,
+          "lng": -80.46809978029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Jamieson Car and Truck Rental",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111400822637515911098\">Jamieson Car and Truck Rental</a>"
+        ],
+        "photo_reference": "AeeoHcJs3BNqosbTCDMYaqARI2FrvS1yNlYPsvNafb6MLAbmwPhUzsh3bfZ3F1j70EVvBUdg8diW69VN23-VpB0tZfn-YUKJzvYligF2Ie4hou2NbUmitIGoGXPkxkKkKNuYDMomK88ihw1FuYVf_zcxolqgRM2XD66LJDlR4Fk0HMyWMAOuJ2iWYoWsPrdzHxgH5qfvVI-WrmqIRdoPWAD_E3uJFfkfzVDleLmk0P-36TCoq63Emlq2e6GYsPSJpuwCm8bh31DSLkJqqcgkCgbanoK_uKeZChXykBaaym9eaeApat_PctCJk-h6ROR1Q6sUs9anr4mz9dQ",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ3SQHGCb1K4gRl8IFp_oWvbo",
+    "plus_code": {
+      "compound_code": "CGHM+69 Kitchener, ON, Canada",
+      "global_code": "86MXCGHM+69"
+    },
+    "rating": 4.4,
+    "reference": "ChIJ3SQHGCb1K4gRl8IFp_oWvbo",
+    "scope": "GOOGLE",
+    "types": [
+      "car_rental",
+      "finance",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 109,
+    "vicinity": "64 Walton Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.464185,
+        "lng": -80.50281679999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4654159802915,
+          "lng": -80.50159126970848
+        },
+        "southwest": {
+          "lat": 43.4627180197085,
+          "lng": -80.5042892302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Avis Car Rental",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101038344528051208666\">Jeff Mulder</a>"
+        ],
+        "photo_reference": "AeeoHcLG-24AZkG5XVO39D4MIkoJOCwYidhwjWO_YWifdGoPyyq35R55GYO1Eu3YYXzf8zFHx_K-4MkZJRknwQCQWNtn5v_BFxrk6kpLhDjhIii_6nCr6tw0J2JaImmV7bb1yVvX_nNgIVQxvgoKQODn3G-lzjWtRsiCAfXrGDhpwsA7HPkoVsItqKJefhNf0yZX0PdwUN6S59OqQQpweOSeSTM1JB1Q1njRy97kRxxQaQrAbc7rcVCxhrL7eAMqu4m5MSp7QmnBzDIc_GlBWXCSIKwBmY60EFRwgDwcaVtoBczVTKPL9YwoEUIZNLPiDl73udI-3FPT2J2SWqt7fh2MGZosYIo45DzQqh56R3qV4MY2YoYwieeSMvuTTgMe-PfhDfEgQy3wKGRaMhmk1Zz2-w2vAXr3m715oMLDPOQT13reEFprbiuzzvB8ZvXQpJUZmti3ccsvZeNKU-rDTJWrt3v5rwoqyxvX7TON74v5F5S8XwTrmZh8j2-jbGUNMOpmDd2fI2uqBMqh4zPj7mQN85R-odRtV4YpxzQTRx9TufhuwPMYbLQYIcRoGznJj3Jz-6AHY2GlMJy3moVc0Hr2ZzylHdLuL1mxrW7129-S2VyfvNxunf5u2mhgzC83MrXxYlGZow",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJDa3s3Hz0K4gR0Q3yJScn7_o",
+    "plus_code": {
+      "compound_code": "FF7W+MV Waterloo, ON, Canada",
+      "global_code": "86MXFF7W+MV"
+    },
+    "rating": 3.6,
+    "reference": "ChIJDa3s3Hz0K4gR0Q3yJScn7_o",
+    "scope": "GOOGLE",
+    "types": [
+      "car_rental",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 174,
+    "vicinity": "160 Weber Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4285974,
+        "lng": -80.4776167
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4299330802915,
+          "lng": -80.47634346970848
+        },
+        "southwest": {
+          "lat": 43.4272351197085,
+          "lng": -80.4790414302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Altruck Idealease",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJm2x5Zh_1K4gRKI5gh281V4U",
+    "plus_code": {
+      "compound_code": "CGHC+CX Kitchener, ON, Canada",
+      "global_code": "86MXCGHC+CX"
+    },
+    "rating": 3.8,
+    "reference": "ChIJm2x5Zh_1K4gRKI5gh281V4U",
+    "scope": "GOOGLE",
+    "types": [
+      "car_rental",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "21 Ardelt Place, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47199210000001,
+        "lng": -80.5150926
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4732941802915,
+          "lng": -80.5137707697085
+        },
+        "southwest": {
+          "lat": 43.4705962197085,
+          "lng": -80.5164687302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Thrifty Car Rental - Waterloo - Weber Street",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJMUu5rbD1K4gRKqki4tNvdkM",
+    "plus_code": {
+      "compound_code": "FFCM+QX Waterloo, ON, Canada",
+      "global_code": "86MXFFCM+QX"
+    },
+    "rating": 2,
+    "reference": "ChIJMUu5rbD1K4gRKqki4tNvdkM",
+    "scope": "GOOGLE",
+    "types": [
+      "car_rental",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "133 Weber Street North Suite 4, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.472,
+        "lng": -80.514692
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4733299802915,
+          "lng": -80.5133771197085
+        },
+        "southwest": {
+          "lat": 43.4706320197085,
+          "lng": -80.5160750802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dollar Car Rental - Waterloo - Weber Street",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJbQnMfdX1K4gRzpxsCrtktVY",
+    "plus_code": {
+      "compound_code": "FFCP+R4 Waterloo, ON, Canada",
+      "global_code": "86MXFFCP+R4"
+    },
+    "rating": 2.1,
+    "reference": "ChIJbQnMfdX1K4gRzpxsCrtktVY",
+    "scope": "GOOGLE",
+    "types": [
+      "car_rental",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 10,
+    "vicinity": "133 Weber Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46491109999999,
+        "lng": -80.5054082
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46631963029149,
+          "lng": -80.5040351697085
+        },
+        "southwest": {
+          "lat": 43.46362166970849,
+          "lng": -80.50673313029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Enterprise Rent-A-Car",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103187237961007451348\">Enterprise Rent-A-Car</a>"
+        ],
+        "photo_reference": "AeeoHcLwRpvvWk_wlNbxTdJABEolruP1Qh6s--uNErPOtKhP88u1xYo8-QNiMe9ALeRpS7yW49p5mlUxYZMxoSNsdXlaytfUjZrn-9k3csIdhs5iwVqAVWw5PBJHPH9siDC08b1sABndim55V0roJsxE85Td4wCac3wRMXy6iuh0pTWy9wBV1-E169cJ5jUDVDdReht8fvCB4GwWGjzScpBXiHy2494ROrIA-Iy4IYOPx1dJOOv9mqBOpfpuNqxRMYTcHQc32xpk_VfOD11Xtud9UjDlRO8NPw-Jt-1KycrjLVdmA_CkJEH91Q6OsEZN0T4B9JVz-WHoy-I",
+        "width": 720
+      }
+    ],
+    "place_id": "ChIJJX1dg8H1K4gRt8GrceViT5M",
+    "plus_code": {
+      "compound_code": "FF7V+XR Waterloo, ON, Canada",
+      "global_code": "86MXFF7V+XR"
+    },
+    "rating": 4.5,
+    "reference": "ChIJJX1dg8H1K4gRt8GrceViT5M",
+    "scope": "GOOGLE",
+    "types": [
+      "car_rental",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 172,
+    "vicinity": "195 Union Street East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.471096,
+        "lng": -80.532421
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4724126802915,
+          "lng": -80.5311273697085
+        },
+        "southwest": {
+          "lat": 43.46971471970851,
+          "lng": -80.5338253302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Zipcar",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJeTh6oQj0K4gRUd423Q2RFuw",
+    "plus_code": {
+      "compound_code": "FFC9+C2 Waterloo, ON, Canada",
+      "global_code": "86MXFFC9+C2"
+    },
+    "rating": 1,
+    "reference": "ChIJeTh6oQj0K4gRUd423Q2RFuw",
+    "scope": "GOOGLE",
+    "types": [
+      "car_rental",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "181 Lester Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4641817,
+        "lng": -80.5028028
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4654112802915,
+          "lng": -80.50157871970849
+        },
+        "southwest": {
+          "lat": 43.4627133197085,
+          "lng": -80.50427668029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Budget Truck Rental",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ2V7K7nH1K4gRMODo_JBqkcQ",
+    "plus_code": {
+      "compound_code": "FF7W+MV Waterloo, ON, Canada",
+      "global_code": "86MXFF7W+MV"
+    },
+    "reference": "ChIJ2V7K7nH1K4gRMODo_JBqkcQ",
+    "scope": "GOOGLE",
+    "types": [
+      "car_rental",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "160 Weber Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4798492,
+        "lng": -80.5241365
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.48117878029149,
+          "lng": -80.5229628697085
+        },
+        "southwest": {
+          "lat": 43.47848081970849,
+          "lng": -80.5256608302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Zipcar",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ41MfdPPzK4gRnMNBa64muyc",
+    "plus_code": {
+      "compound_code": "FFHG+W8 Waterloo, ON, Canada",
+      "global_code": "86MXFFHG+W8"
+    },
+    "rating": 1,
+    "reference": "ChIJ41MfdPPzK4gRnMNBa64muyc",
+    "scope": "GOOGLE",
+    "types": [
+      "car_rental",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "328 Regina Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46982029999999,
+        "lng": -80.480509
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4709688802915,
+          "lng": -80.47944861970849
+        },
+        "southwest": {
+          "lat": 43.4682709197085,
+          "lng": -80.48214658029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "O.N.E. Transportation - Medical Patient Transfer",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111223569108428539883\">O.N.E. Transportation - Medical Patient Transfer</a>"
+        ],
+        "photo_reference": "AeeoHcJyVT_OB-a0jVUbev74jZknGOAP10bymWF5KmlyK2RXaW7mpz2OZnx6w22VJl4DqsFeqU-MXKkYP01GXvUnRHBDGUQBjEw5FGkacWFutajaBOFCoNLPb1L2ygOG5ZcrQuuNKNIsNtEmI7HkmkpcLdHsR_tvZ6bOk5Jz383y7SYvdk7p7b1aLgUzYQAKWGMleoWtVmp4U4Ts7KnS9cuuar6we0qwQCXHVV8AyrGqE6RXCKrByIUEq4JwbdsKSl2w9rUlFDqABT4a3A_hWleWv6gAJdAAGaOR08fHQX54o2tz0OaeuTVjUg7YYC_q2eSzBebQMWOYgsU",
+        "width": 1707
+      }
+    ],
+    "place_id": "ChIJ-V2E72d1LIgR2L0E3hruBxo",
+    "plus_code": {
+      "compound_code": "FG99+WQ Kitchener, ON, Canada",
+      "global_code": "86MXFG99+WQ"
+    },
+    "rating": 4.8,
+    "reference": "ChIJ-V2E72d1LIgR2L0E3hruBxo",
+    "scope": "GOOGLE",
+    "types": [
+      "car_rental",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 42,
+    "vicinity": "352 Maple Avenue Unit #203, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4466101,
+        "lng": -80.4687932
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4479590802915,
+          "lng": -80.46744421970848
+        },
+        "southwest": {
+          "lat": 43.4452611197085,
+          "lng": -80.47014218029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Commun auto",
+    "place_id": "ChIJd1_THwD1K4gRjnT_X_VupRc",
+    "plus_code": {
+      "compound_code": "CGWJ+JF Kitchener, ON, Canada",
+      "global_code": "86MXCGWJ+JF"
+    },
+    "reference": "ChIJd1_THwD1K4gRjnT_X_VupRc",
+    "scope": "GOOGLE",
+    "types": [
+      "car_rental",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "&, East Ave, Borden Avenue North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.42322,
+        "lng": -80.4785799
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4244949802915,
+          "lng": -80.47711766970849
+        },
+        "southwest": {
+          "lat": 43.4217970197085,
+          "lng": -80.4798156302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Enterprise Rent-A-Car",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113784914123577529327\">Enterprise Rent-A-Car</a>"
+        ],
+        "photo_reference": "AeeoHcKrlYRz3lafOOqrasQ8XjjjoTjH0Q_GFv5QfqxKOyPLvakQzirXHGkpHPARbp8sjtnW6q90M829VRRzh9gpWYYHFeOnyGNlhwMQTj6o9ZYjD8VvU9ohEWqjnSWcjXE7Q6My_IKWRDOT0wLqNU2nTCf1IaeQ0iIj05jx2X0ePX3uKz8uSchfYqDxupznYsQige00JdBTeh-h_sRjGmGMeQY8xmEVLJwwNuamf5ZCgnCnq3d7QCU7OBV530l1teCA2Nmr5VhuThsPvUZCgguBiA06QlnFJX_BLDkLiQ-pWVVlumt-qbV5tqKljgrsuVFoDarcTYoDce4",
+        "width": 720
+      }
+    ],
+    "place_id": "ChIJq02Ivv_1K4gRQWHC3bisOGg",
+    "plus_code": {
+      "compound_code": "CGFC+7H Kitchener, ON, Canada",
+      "global_code": "86MXCGFC+7H"
+    },
+    "rating": 4.1,
+    "reference": "ChIJq02Ivv_1K4gRQWHC3bisOGg",
+    "scope": "GOOGLE",
+    "types": [
+      "car_rental",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 358,
+    "vicinity": "70 Alpine Court, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4738531,
+        "lng": -80.4327825
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4755638802915,
+          "lng": -80.4316701197085
+        },
+        "southwest": {
+          "lat": 43.4728659197085,
+          "lng": -80.4343680802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Affordable Car Rentals",
+    "place_id": "ChIJCc_GLICNK4gRJ2oO3NdC6Zg",
+    "plus_code": {
+      "compound_code": "FHF8+GV Kitchener, ON, Canada",
+      "global_code": "86MXFHF8+GV"
+    },
+    "reference": "ChIJCc_GLICNK4gRJ2oO3NdC6Zg",
+    "scope": "GOOGLE",
+    "types": [
+      "car_rental",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "1659 Victoria Street North #1a, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4196629,
+        "lng": -80.4536246
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4209547802915,
+          "lng": -80.4523229697085
+        },
+        "southwest": {
+          "lat": 43.4182568197085,
+          "lng": -80.45502093029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Budget Truck Rental",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJpbZGMbqLK4gRuP3cFDiDQEM",
+    "plus_code": {
+      "compound_code": "CG9W+VH Kitchener, ON, Canada",
+      "global_code": "86MXCG9W+VH"
+    },
+    "reference": "ChIJpbZGMbqLK4gRuP3cFDiDQEM",
+    "scope": "GOOGLE",
+    "types": [
+      "car_rental",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "696 Fairway Road South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.41627419999999,
+        "lng": -80.4488923
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4175691802915,
+          "lng": -80.4475886697085
+        },
+        "southwest": {
+          "lat": 43.4148712197085,
+          "lng": -80.4502866302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Enterprise Rent-A-Car",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111666523442925761438\">Enterprise Rent-A-Car</a>"
+        ],
+        "photo_reference": "AeeoHcKRiPIIOJ62436uHmHJCM68J6vLsw9scfln1wRsFslK19jtpfdOulrrQPYA3t53SAJMensRqQyqWmvNdb2aarVcPItx4PY0L2NbFFtCRq4jsBcRxY6bsM3sy_xmSGFZGmMazuqGE_TIhPxpLpO_TUnH8ODNQKGgEqKHJ1cfraB8NS4OhfnifABwCH5WUJ7WQxGuw8cQkEQMV7oB-Tf5Y4GJ_5PBzecufx0k48glr7MbiB3oxqINmsTsEUdw8cb13U2iDNAdEz_ibkyU6Uyd2vbMrwv4HUPzUKCU1xiWvCCll2fjIR6FQyisYYmiEe0wn6QdRwCk8ZM",
+        "width": 720
+      }
+    ],
+    "place_id": "ChIJ9QcZUBiLK4gRXI5F1jD0cwQ",
+    "plus_code": {
+      "compound_code": "CH82+GC Kitchener, ON, Canada",
+      "global_code": "86MXCH82+GC"
+    },
+    "rating": 5,
+    "reference": "ChIJ9QcZUBiLK4gRXI5F1jD0cwQ",
+    "scope": "GOOGLE",
+    "types": [
+      "car_rental",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "100 Cress Lane, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.3869762,
+        "lng": -80.4897005
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.3884011802915,
+          "lng": -80.4883816197085
+        },
+        "southwest": {
+          "lat": 43.3857032197085,
+          "lng": -80.49107958029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Tan Car Rental",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1170,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102203035963027504057\">Tan Car Rental</a>"
+        ],
+        "photo_reference": "AeeoHcIhOR4qtSgNB1M7CaNv15XzrX0SvKs941iuyy48xEmizObrv039-0zsTxtxP-JT_WTslCx3XUkvkbpn6pjiv2wNCAMGCXqwOgKxij2ykQI3X-R0clADMuL7e07vTh3d0XVz8b6znbdi_dtd7_k7_tm4nYNXosq9Cy72Do4dPBiyk1S6H84El1UNFmWu48I5jN0RMD9y5J54mYzyT1lYb9n5-Q2VMtzXAHQdF50w2hf7D5gMSfdmJGkHnRHH9Gl6YSrj260kMKBOF_QXMKfdnpnyrMqsqc8zXynTzxVtYBL_Y1Lxo2e1hjr6-Z4mRp_2sBmiDtNk4pk",
+        "width": 1720
+      }
+    ],
+    "place_id": "ChIJ46La7cULLIgRYIqr8fDySWg",
+    "plus_code": {
+      "compound_code": "9GP6+Q4 Kitchener, ON, Canada",
+      "global_code": "86MX9GP6+Q4"
+    },
+    "rating": 4.9,
+    "reference": "ChIJ46La7cULLIgRYIqr8fDySWg",
+    "scope": "GOOGLE",
+    "types": [
+      "car_rental",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 78,
+    "vicinity": "125 Seabrook Drive, Kitchener"
+  }
+]

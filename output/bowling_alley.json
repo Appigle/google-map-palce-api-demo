@@ -1,0 +1,222 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4559333,
+        "lng": -80.472717
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4573375302915,
+          "lng": -80.4715325697085
+        },
+        "southwest": {
+          "lat": 43.4546395697085,
+          "lng": -80.4742305302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "AMF Frederick Lanes",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104321193258486018289\">Safwan Nakum</a>"
+        ],
+        "photo_reference": "AeeoHcLJysR4id6MhsedppVbhKG8XFmLsNfOJIah5B6R9VetWYvGdxUDlV--kvbuecc1K4P7eD1YTh4hFKz3RbHOT6-EpkC0eUNs1CGQvDmDGHEV6rf6xb4_ZbwtqRvI_CDKR8TBu_f2bzpUlPnp0aUfjXOCnlbJnyE1J7IdrsPDWxPn6d7TgjyyKY9XCG0eEFw1hjbLBAowZWbINqY4g1P4kH5kURexAeSGizUfYRTHHzSLDdXdvt46tTB11-DfHF5owEg2Vx89cPKQ0YLRdzxqi3yJIYOf-rj7CsDZyyJNzlh7dOG9YWI91PhtSirI9Wn4stj9OriP3Ld4kRGzPl7P6me6065hHCHirGkwquFvtOi8Eji9YmhKjtX1MpdWad3z_CpK2eRWWpbqlOiGxb7MxucGZ7vfkrJ46EEVTP7XibiRD3-ZAqhCZyO7aIh__FnWa0d_0ZQs9TK-ak-N_RMRy_dNEVuK8nayEKvz3Fd2N20tygVynyKDzjFEUKqQN4dMchoXiIvQ75DzLFqRiEQ4G-aj-R-xj4kMQpFxEf1ooDjuckg-b5oau6H6hVMHpth4gubpzHLSMZoDxatmTmVlg3V74O5Yn6CFB4NbYfc6fNxE54IQxg6IMIldKDUgIhY5",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJRYbDIrz0K4gRkqJUKe0eEdI",
+    "plus_code": {
+      "compound_code": "FG4G+9W Kitchener, ON, Canada",
+      "global_code": "86MXFG4G+9W"
+    },
+    "rating": 4.2,
+    "reference": "ChIJRYbDIrz0K4gRkqJUKe0eEdI",
+    "scope": "GOOGLE",
+    "types": [
+      "bowling_alley",
+      "bar",
+      "restaurant",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1490,
+    "vicinity": "385 Frederick Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4735004,
+        "lng": -80.4500826
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4751583302915,
+          "lng": -80.44931665000001
+        },
+        "southwest": {
+          "lat": 43.4724603697085,
+          "lng": -80.45238044999999
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Bingemans",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2656,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108908011889920527735\">Bingemans Camping Resort</a>"
+        ],
+        "photo_reference": "AeeoHcKBZ60JjXGq60DY4kCL53I9AmTnUZybG0P0M45P29l3AwEm3mFNFc9f_GX4IcwNxXtzijNJXY7QE4s3pps4TwmkbSC-IQoqkp4beBOgRS3WLOwAq4_Gw-9xCixUbCDO5LBhPjK0_UlqMXn1PTdDwzE_GY3nR5BL4-N94i4AcDes4-kynVeY1ZwhoUaif12PH8R0WE1RVxYB8Uj1s1s6XXUKQ76xdBGAi2dTO1Ng34ed4EGeqbjdyOJAg9nTgUfyMLtSS9zrCV-FBHzdTeXGrP1NZE3FieM9EPpLu4YudgSSddiWfhie8M0kB0p_TEzoLifT-npbxQM",
+        "width": 4360
+      }
+    ],
+    "place_id": "ChIJ1V_snq6MK4gRA8suIZwOe_4",
+    "plus_code": {
+      "compound_code": "FGFX+CX Kitchener, ON, Canada",
+      "global_code": "86MXFGFX+CX"
+    },
+    "rating": 4.1,
+    "reference": "ChIJ1V_snq6MK4gRA8suIZwOe_4",
+    "scope": "GOOGLE",
+    "types": [
+      "campground",
+      "amusement_park",
+      "movie_theater",
+      "bowling_alley",
+      "park",
+      "lodging",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6106,
+    "vicinity": "425 Bingemans Centre Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4829251,
+        "lng": -80.5192738
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.48401853029151,
+          "lng": -80.5178235197085
+        },
+        "southwest": {
+          "lat": 43.48132056970851,
+          "lng": -80.5205214802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Splitsville Waterloo",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 924,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106693467645164792740\">Splitsville Waterloo</a>"
+        ],
+        "photo_reference": "AeeoHcIgiM7dYIdghwQeW6l_4n1m-p9pKMD1vOUKCjMvIYHg174SnjruN3arXdDqH1SGB23rsLgiyqTeTyHyjD0-rJ2sy3B5Ib_na8lhzxmULuVmPBghwgH9QDV3kL98PwdjImd2BMR-N_cGD_3EzLrlgGpyg7b_Tgd1Ho3nS7StT9jm4tNfETDAxipnTQOsR27sHA-Gt-HKGdVod39vtip368w0v2R-UakIDW6DqjBCI9u8zea-i5aHkjGWLZuCbruxulKKQBzbVLrTLFgG6PnUATV8farEcw5FZJpNJugJ0xamF1FJX9_68qd4Rbav4vt4O9Kh8xyNy1A",
+        "width": 1640
+      }
+    ],
+    "place_id": "ChIJ1wMSTdPzK4gRiZPX9OYf9AA",
+    "plus_code": {
+      "compound_code": "FFMJ+57 Waterloo, ON, Canada",
+      "global_code": "86MXFFMJ+57"
+    },
+    "rating": 4.1,
+    "reference": "ChIJ1wMSTdPzK4gRiZPX9OYf9AA",
+    "scope": "GOOGLE",
+    "types": [
+      "bowling_alley",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 307,
+    "vicinity": "341 Marsland Drive unit 1, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47221769999999,
+        "lng": -80.4507351
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4734798302915,
+          "lng": -80.4496072697085
+        },
+        "southwest": {
+          "lat": 43.4707818697085,
+          "lng": -80.45230523029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Kingpin Bowlounge Boston Pizza",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113620916731503737299\">Kingpin Bowlounge</a>"
+        ],
+        "photo_reference": "AeeoHcLq_oAvO4paZRRfEIdd2_Tqg0q2L_FpZ10ze-HorPaP5UQAQzButmTuhRsN29IMXH8DKuDmDS1BuWKQaWIH9dDsJoMK650vZ3JSKjPp3Q4rAgq7LWMUZO4oRxj6-oL0gY1OtGyVvTw_JG30fCvY0m-zTyPqgomvCcmNerR6doPiBCPJ7UO7dJ4mespZWMP9Mn-OQqv6I75eVmfaTg0KTCl4H6gy4fMsyhqsYPp0myaAGteWtSllON8RxyT71NnkcZ_jgIDe4jlYKKWrduUmmUar6XP38Z6jDaSjjDa8HZP7qO_5mPQcUynwy-5zL4Di6PIrIntO7ic",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJs2YQ4auMK4gRJ2yXPgC2V2k",
+    "plus_code": {
+      "compound_code": "FGCX+VP Kitchener, ON, Canada",
+      "global_code": "86MXFGCX+VP"
+    },
+    "rating": 3.8,
+    "reference": "ChIJs2YQ4auMK4gRJ2yXPgC2V2k",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "bowling_alley",
+      "bar",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1577,
+    "vicinity": "425 Bingemans Centre Drive, Kitchener"
+  }
+]

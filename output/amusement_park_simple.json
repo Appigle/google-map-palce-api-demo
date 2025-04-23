@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Bingemans",
+    "coordinates": {
+      "lat": 43.4735004,
+      "lng": -80.4500826
+    },
+    "longitude": -80.4500826,
+    "latitude": 43.4735004,
+    "types": [
+      "campground",
+      "bowling_alley",
+      "amusement_park",
+      "movie_theater",
+      "lodging",
+      "food",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Funworx",
+    "coordinates": {
+      "lat": 43.4724001,
+      "lng": -80.44995279999999
+    },
+    "longitude": -80.44995279999999,
+    "latitude": 43.4724001,
+    "types": [
+      "amusement_park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Waterloo Park West Splash Pad",
+    "coordinates": {
+      "lat": 43.4655488,
+      "lng": -80.5336007
+    },
+    "longitude": -80.5336007,
+    "latitude": 43.4655488,
+    "types": [
+      "amusement_park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Splash Circle at The Boardwalk",
+    "coordinates": {
+      "lat": 43.4361389,
+      "lng": -80.561798
+    },
+    "longitude": -80.561798,
+    "latitude": 43.4361389,
+    "types": [
+      "park",
+      "amusement_park",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Bingemans Big Splash",
+    "coordinates": {
+      "lat": 43.4724462,
+      "lng": -80.4500466
+    },
+    "longitude": -80.4500466,
+    "latitude": 43.4724462,
+    "types": [
+      "tourist_attraction",
+      "amusement_park",
+      "point_of_interest",
+      "establishment"
+    ]
+  }
+]

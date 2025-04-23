@@ -1,0 +1,669 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4978748,
+        "lng": -80.54458489999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.49920443029149,
+          "lng": -80.54295376970848
+        },
+        "southwest": {
+          "lat": 43.49650646970849,
+          "lng": -80.5456517302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Waterloo Fire Station 3",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2176,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104188599540043908898\">Abhinav</a>"
+        ],
+        "photo_reference": "AeeoHcLHAAfsCCd5sssqBt3uwO5fi_knVX2R9LhxW5OolZYWamTX5XrGI5BHARQ9m3ebsyKi1wpiJMzvPHq_RPa9Xdh-2fC5CI_9cKodXSUcZsKC1TaO68XT8wZZFcPAn8it2og4XLTJjItaUvU59UMZdfLFVNaxz7SfHHWTn9v9E-UVUClAmDzSH81-dT0yAkMTK7BXQzqLIOAzubMUqqACx01T2mZXWJGv-oxOEtfjhdmAr1k0rzRiD7mu4BWhQswh0d4iOyRbM2t9ylT_wBrsLWLSd7q--SUNJ4XPKTSIlDZKjCZWi_0z8FqBoqOKJXQxJPl1emWtcBxP3fG03BHkPzays_yl9W4v4bLxzuILmSC3DvqiWulliegjd7Q1jUSrT_m2eEO9DyCsROsWgWhBSETGCZsFU58VFXRgzizqr18u98xyhCZzSEQ5Aj300dNeQHvZLUri4RO0tlFt2Ja8UbEG1aZoMqt9JNy_Q1Hxn1pdsqBLWxdKM2JYS6GMAGCcgk03IwF5RdFKFus2St58t2qSHrhn-S6raam23KbOKDrBqfmOa9pnkUc6_gY_pEb8udPs_j-YUAIn22Yd56KIDvf8EsawWhBxN_L97dVS7yoIiDBHhpuVcJZ8EHdK4mOqW9gMUw",
+        "width": 3840
+      }
+    ],
+    "place_id": "ChIJT5YJTWDxK4gRfqCuV6l6YEE",
+    "plus_code": {
+      "compound_code": "FFX4+45 Waterloo, ON, Canada",
+      "global_code": "86MXFFX4+45"
+    },
+    "rating": 4,
+    "reference": "ChIJT5YJTWDxK4gRfqCuV6l6YEE",
+    "scope": "GOOGLE",
+    "types": [
+      "fire_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "150 Northfield Drive West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.42369809999999,
+        "lng": -80.4893092
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.42500088029151,
+          "lng": -80.48772356970849
+        },
+        "southwest": {
+          "lat": 43.42230291970851,
+          "lng": -80.49042153029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Kitchener Fire Station 1",
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109755365417170039354\">Chris Colliver</a>"
+        ],
+        "photo_reference": "AeeoHcLTjhH39eBWGeVDbdPjUO-vbhg1m43d3hdPCnsou3-CcMyj3lUBVfMuddL8nMbG3dwZmVXL1BcE92gP7_ezGxczmc0JxrtNHNCKa5_HKxsLbw1BGUbIBPUgc7ZKE670mCDhC7_NPBOofcIVik79L4lYrWfvTOQ3Lr0TvqbJAnWat8__VCUI2crEIImLyFckz64TOBNPRgwL2__oKIXLFv_-wM-w7NFCXv2ow_yJvlcsCB9ZxtbEE7afQS6TqvMItNRkgCt3MmSudYA7tUT6I0L6lr2EGghISVvvtAO46O28hnr930oSaxPWoMGWis-iblvj8UFP4wObOf_BKD3XkT1UayxChcBTatoOD5xB6srLeKzrmB9Ca5QijPY5M9D4akruFiO9F1y1bdn0WnnWbLi7eWMT-bNIp3BjlTUWBF6s0sfg3onPAoceCRBmvkF9yw9X6U_UpIHjHEimVHeJXgho3u6bRHF0TzbFvFe4m3Xd8o1pcS7Es2ht7AQ3MBUByhXSjtyBBFT9RFZc8Qp-94x8cpP9Ne2Go_n83oNs2S98hcxIwNBJPqw9Qlq3Zh6p-WFOsbUhEj7pOWBXLzzt_MF-SuX6aXMofZt_hf1iiO-aumH8POsxOfqrbRz_VGcZ",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJd_WjXgX1K4gRmumbIEiYMEw",
+    "plus_code": {
+      "compound_code": "CGF6+F7 Kitchener, ON, Canada",
+      "global_code": "86MXCGF6+F7"
+    },
+    "rating": 4.8,
+    "reference": "ChIJd_WjXgX1K4gRmumbIEiYMEw",
+    "scope": "GOOGLE",
+    "types": [
+      "fire_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6,
+    "vicinity": "270 Strasburg Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4661693,
+        "lng": -80.5713373
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46738218029149,
+          "lng": -80.5703621697085
+        },
+        "southwest": {
+          "lat": 43.4646842197085,
+          "lng": -80.57306013029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Waterloo Fire Station 2 (headquarters)",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 667,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112464278168814745295\">Waterloo Fire Station 2 (headquarters)</a>"
+        ],
+        "photo_reference": "AeeoHcIgxztxvzFzHSfH3oNKulGCXDZjS_cwzrOwQnsxgSnjlk4ECat5-_57_B87zUuXFMb9G3mKSv8wssLtcqswOV2fTcoHmWHnp3bPTvnGE3a3NVrTBf53AF_9C-mcOQIi0LCJtF7oBOk30gI1q6V7xU6HUilzCBbwJIJ0owiav_I_3Pm8glQ2C2S1AiKyOFCRowYNgNc8oOTIZleCGBVI-TFI1luhQyGjvcIJWFOzKz0oJyozWMgLWopU94x7p_E8mC3VHld37W3aIX2pVhoeI8S5xXrR2u8M0DqOuGYOoE_APahXH4d4EjMjqE9rCyly0bbH83CUkOM",
+        "width": 1000
+      }
+    ],
+    "place_id": "ChIJ05weh8b2K4gRn9iC8uCBcOQ",
+    "plus_code": {
+      "compound_code": "FC8H+FF Waterloo, ON, Canada",
+      "global_code": "86MXFC8H+FF"
+    },
+    "rating": 5,
+    "reference": "ChIJ05weh8b2K4gRn9iC8uCBcOQ",
+    "scope": "GOOGLE",
+    "types": [
+      "fire_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 9,
+    "vicinity": "470 Columbia Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4771997,
+        "lng": -80.51833289999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4785221802915,
+          "lng": -80.51704651970849
+        },
+        "southwest": {
+          "lat": 43.4758242197085,
+          "lng": -80.51974448029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Waterloo Fire Station 1",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116827753539876816947\">Waterloo Fire Station 1</a>"
+        ],
+        "photo_reference": "AeeoHcIDYSUUu4KrzmI8Dh2fAhVSSwT0J_bF_o6NaRBpjSPU511tQe6fD-kaa7R6Ix5CszW5DaPFBzEDYFkxSTUzIvOOqdDAZch77gP2GK9CWhUdquUwx9kLsbm0_c82T6k5dBQKZ-z7jhFBKoJs6Cp21nUBfMwn5_dioFDd4LS-Plpqnq4cvFZ1RAYKCu97WcaAQ0hDNlf6QvLyYzpfsUBYadbnce9nqVYkDYjup9prhS4TiokSBHan_29a5TyIpxgsTCSQiVCmG9coTPx1AckVE-rpL81nPXlXABOH6pYghtpMx2mIp0k0zhitwxSWp7PjnKe2ps3WeSM",
+        "width": 1600
+      }
+    ],
+    "place_id": "ChIJcRc5p4vzK4gR0mWPM646mAM",
+    "plus_code": {
+      "compound_code": "FFGJ+VM Waterloo, ON, Canada",
+      "global_code": "86MXFFGJ+VM"
+    },
+    "rating": 5,
+    "reference": "ChIJcRc5p4vzK4gR0mWPM646mAM",
+    "scope": "GOOGLE",
+    "types": [
+      "fire_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 7,
+    "vicinity": "216 Weber Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45089249999999,
+        "lng": -80.4429974
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45213768029149,
+          "lng": -80.4415522697085
+        },
+        "southwest": {
+          "lat": 43.4494397197085,
+          "lng": -80.4442502302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Kitchener Fire Station 3",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 777,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116041606311538312152\">Kali Anyx</a>"
+        ],
+        "photo_reference": "AeeoHcIzMdzarj1gL4Xfe53uAfrZUfxwKomyQQ8dbNxxkvI49PF1IxL3-CwL5IWIUUrm7fPWKgh5fxcPuXJGJj4xmiLY7hESG-RdQGBnEqz5LgnAZI5pYPxRBJ7UJNmGE0woHB4XhGHd0i3WACIs-TCVwv1i5cjc2BpWyzMMtIfhyIftjOBtAVjAVspvZt-ScqVvWHOn48stw0wXOsQSe-zwSgTO6XG9_fYGUZg5lRsJbJVlmMT5Tru_EeiFehF3hZTzKeQWhfA_i447srFNKMEBqsjiNz4tzxZEZ3XLVoZTEkQsaIZVXDshlXgGaxOh3tzRYVltS62kHtihgRW7FZk8JjDC7fcBgDKz4M9HzKmMu-YRUHwbt33hH5okn6Tt-fzWivM9nZOKXxf10sMD_5zFd421rd3gYnoFhArOyKc657tQX-GJvhJK5vktXw6AvlmNLQomQ5q32M-AlQ1OxYhISbuc_BoE5cmyj8DXXrzL_GBCVCHDrelapfbd0BeKpSu5aiLuxR15jWLS1JOCOkyftoOu_LouwwOfyFY-2gvKf6OO8bafvDq943GhUswvnQx31HSxOdBZ0yEDpk12_xQZnPTVLaFDIebZ4ka4XUnHZLFatvIGCoI5qaKsCbpH0BE1cfI37w",
+        "width": 828
+      }
+    ],
+    "place_id": "ChIJLdEvZkaLK4gRFaQ1-s3qUrY",
+    "plus_code": {
+      "compound_code": "FH24+9R Kitchener, ON, Canada",
+      "global_code": "86MXFH24+9R"
+    },
+    "rating": 4,
+    "reference": "ChIJLdEvZkaLK4gRFaQ1-s3qUrY",
+    "scope": "GOOGLE",
+    "types": [
+      "fire_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "1035 Ottawa Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4767849,
+        "lng": -80.5162071
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47810373029149,
+          "lng": -80.5149389197085
+        },
+        "southwest": {
+          "lat": 43.4754057697085,
+          "lng": -80.5176368802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Fire hydrant",
+    "place_id": "ChIJ7_OIZgDzK4gRgO8VhVjNLaM",
+    "plus_code": {
+      "compound_code": "FFGM+PG Waterloo, ON, Canada",
+      "global_code": "86MXFFGM+PG"
+    },
+    "reference": "ChIJ7_OIZgDzK4gRgO8VhVjNLaM",
+    "scope": "GOOGLE",
+    "types": [
+      "fire_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "house number, 121 University Avenue East #91, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4651845,
+        "lng": -80.4846972
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4665284302915,
+          "lng": -80.4834654197085
+        },
+        "southwest": {
+          "lat": 43.4638304697085,
+          "lng": -80.4861633802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Kitchener Fire Station 2",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2498,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111333994052824392226\">Sim-On Mahary</a>"
+        ],
+        "photo_reference": "AeeoHcJfZVpFM_asKHw2QNgrnY0Hc_vEXPWYZ1Gz-4YEQ_1eQ1vzbH4-ktoHI3plY3b0XZ8OIiVP65MDqIj3BFC0Rzj-kjLQ-aKtAnm6zbQvHGqbPZCy3_JR6QFtDD95e4MvSM3nw4jTf_Vkkr6X4Q2Qet-xAkjpXCO_q2APdusygMYr2uB_nKQahRSC9xfI29nPh8KUDKlqkKzoUuHj-O1YbM6vRGFmGOL45NolBQ246IWER4pBjpDCkRwj8Ers6xsGJrYFLe3ZNHp6fbirWM_Ff3NiXV2QCY0rVQLeMGvwcpgKcu1fB3S9mWsycoARmkUcMaObFwch5IuOQqimgDgjb0kp8PmfhCMXTGp_RqiauaHCxuCOnyRgZ0zqUz1Yo57W88FJnWLjqX93FucXX7SJfTSBSB7o2r8oU2w5eJ9OKQZLpPD7WnXh9q-upp9Iofeff2_dHLI8hdWYw0aJbOX1DaxH_wEcSSLumqcZYZc4S5Q1h2PhtbAeLz8Swnb74AZQAvVvpd48-ZTF1q6t3JW_kjfov0StED4LHmHIvA-IWK4Aqnhp_L6Bf84hDN1xsXTfEibvKR8bm6nUABTuR9zWiTOMXab2FDs0CQ8h1X-8Wcwk4QcmEXJ-393tC1MR-ND0QJ94QbkJ",
+        "width": 3060
+      }
+    ],
+    "place_id": "ChIJD7A1l5v0K4gRO4N2gb2D05A",
+    "plus_code": {
+      "compound_code": "FG88+34 Kitchener, ON, Canada",
+      "global_code": "86MXFG88+34"
+    },
+    "reference": "ChIJD7A1l5v0K4gRO4N2gb2D05A",
+    "scope": "GOOGLE",
+    "types": [
+      "fire_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "187 Lancaster Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.427488,
+        "lng": -80.5280605
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4286630802915,
+          "lng": -80.52658656970848
+        },
+        "southwest": {
+          "lat": 43.4259651197085,
+          "lng": -80.5292845302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Kitchener Fire Station 5",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJNTVURM_1K4gRG8KXWCcxX0E",
+    "plus_code": {
+      "compound_code": "CFGC+XQ Kitchener, ON, Canada",
+      "global_code": "86MXCFGC+XQ"
+    },
+    "rating": 5,
+    "reference": "ChIJNTVURM_1K4gRG8KXWCcxX0E",
+    "scope": "GOOGLE",
+    "types": [
+      "fire_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "1700 Queen's Boulevard, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5141526,
+        "lng": -80.4979997
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5155602802915,
+          "lng": -80.49660901970849
+        },
+        "southwest": {
+          "lat": 43.5128623197085,
+          "lng": -80.49930698029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Waterloo Fire Station 4",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ_0HqQf_yK4gRwNEmWy5RgX4",
+    "plus_code": {
+      "compound_code": "GG72+MR Waterloo, ON, Canada",
+      "global_code": "86MXGG72+MR"
+    },
+    "rating": 5,
+    "reference": "ChIJ_0HqQf_yK4gRwNEmWy5RgX4",
+    "scope": "GOOGLE",
+    "types": [
+      "fire_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "911 University Avenue, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5409146,
+        "lng": -80.5030601
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5423384802915,
+          "lng": -80.5017019197085
+        },
+        "southwest": {
+          "lat": 43.5396405197085,
+          "lng": -80.5043998802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Conestogo Fire Hall",
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116828691239420691038\">Kathy Renwald</a>"
+        ],
+        "photo_reference": "AeeoHcKuPU94LW7icBVPfnJo-Hti-XNsBU3iplgt9n3FzH_AFCgOkoFfXC105VCsrWsaDRUwp2gxNYIb32vuLRfdWF7bP5LSDS6rQx-RXyTUGpYpsH5BIPpkRAPrQOlDGQeaR1bEAOm4f1BFiJDa6pjY3nnQkvt1g4hMYcm1nB-6WHt34sMOodnCm8QfilPoolDjjq7hZayCixdTs6neLYwJxQKGvU6F-ZBc7nLlTmwPdTI33_VA7YZBf3JAU2BmAYLNBC5L6CAtML_CGmoXALUrfgxJCFMsN3RaDAhvpqQmvaxNbx6soNyatIwiDZrlOuLAoKAmXNq4_v_PdbrjENcHkUhJYpkQ7k76r9_jxe-ExDAVIdd0PLjmlAAIpjmMI-2QfF5yrqTxC3a5lDEzoMHgxZTM5dOelp9J8lGRW-mFuZ51rkH7v_Jcgu5XUocV2-lu3Oxr2mT8Y5mH9qr77c2ZRoH4S23xiZL46l9jkTQ15lGJWXs6DjBM95YS2YgA4aGdONkEmkBTLk2x2k5mlL6msHBkOJKgolLxJ42w3kAVsKlzV9Ns6bCHqLcYTGnDwtuHe2wwBvRfvrcEWRPM0oqnR49G1ZjvG2KnKWrVfBe6J3HBVZEiuVdalOgnU-QsBeAnM1msoA",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJR_IKV3ryK4gRmeh9t5XEqC4",
+    "plus_code": {
+      "compound_code": "GFRW+9Q Conestogo, ON, Canada",
+      "global_code": "86MXGFRW+9Q"
+    },
+    "reference": "ChIJR_IKV3ryK4gRmeh9t5XEqC4",
+    "scope": "GOOGLE",
+    "types": [
+      "fire_station",
+      "department_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "vicinity": "1869 Sawmill Road, Conestogo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4288102,
+        "lng": -80.4314883
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.43019778029149,
+          "lng": -80.4303500697085
+        },
+        "southwest": {
+          "lat": 43.4274998197085,
+          "lng": -80.4330480302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Kitchener Fire Station 4",
+    "place_id": "ChIJpc135R-LK4gR6AbVDewbr4Q",
+    "plus_code": {
+      "compound_code": "CHH9+GC Kitchener, ON, Canada",
+      "global_code": "86MXCHH9+GC"
+    },
+    "rating": 4.3,
+    "reference": "ChIJpc135R-LK4gR6AbVDewbr4Q",
+    "scope": "GOOGLE",
+    "types": [
+      "fire_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "25 Fairway Road North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.538824,
+        "lng": -80.5509853
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5401121302915,
+          "lng": -80.5496480197085
+        },
+        "southwest": {
+          "lat": 43.5374141697085,
+          "lng": -80.5523459802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "St. Jacobs Fire Station",
+    "photos": [
+      {
+        "height": 4608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100286882733426059495\">Lynn Usher</a>"
+        ],
+        "photo_reference": "AeeoHcLyd1buHbPizdloiMFt9gVu3jVlgmgJaFvW9Sf6DbADMGQuavWXfe40DMQa8o_4DuiAKorhwnhvKxwYeJlVyFmCqg6Z8yjazEHfVfiJI6tlJLYgh8l9w2Qhu4PqAlahs-75QEfnAWe4UcCfjDqwGgX1gLGGvkGQZvkgEiV9bg6SAy8n-uEofRH7eq2bSktP4zHkhzMkENygZzqNEItiLRrsNWMrWrZhsZswi4YzCK2pumyNAW0c2iW0Oyftiuqtx_yzJQW1FmDWfyoTjWkoJXYwtDRD9HL6QSfd9lTLvOzRcHuliWI4_xmoKWKZx4IWem2XRkpVvVl47MUB35Q01rhvUjiBJSUhMKuWPbkZi8H5rTWTd41Jyy9MDzQarKxT8TqQDdYiMkJ4N2rrfBYQjacGifF5LGCOw1pmD2PcftgVRvhawfwyD20L1aifZOd41ZkN9J9evBLImZbFqDEfHpGYMTyygc9oV0K_wwWNcX1r3B431JtcNydHSVs6LarlW23UKn1m2GaNsUn9bM50Guk4n2sXhKsNBgsfi3-txtoRQfGPFsT-3cGyenKPCUAvnpvrwrOCmrgzjzGiQrjFEjb30937VqUraRvHIr-LxGeb_RsSqtOyK53myOTSTIIj6ZQ1Ug",
+        "width": 2592
+      }
+    ],
+    "place_id": "ChIJX45vZ_HxK4gRgRWiMMjxzM4",
+    "plus_code": {
+      "compound_code": "GCQX+GJ St. Jacobs, ON, Canada",
+      "global_code": "86MXGCQX+GJ"
+    },
+    "reference": "ChIJX45vZ_HxK4gRgRWiMMjxzM4",
+    "scope": "GOOGLE",
+    "types": [
+      "fire_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "3 Water Street, St. Jacobs"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4879324,
+        "lng": -80.4150524
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.48936533029149,
+          "lng": -80.41368821970848
+        },
+        "southwest": {
+          "lat": 43.4866673697085,
+          "lng": -80.4163861802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Woolwich Township - Breslau Fire Station",
+    "place_id": "ChIJG7oXa_WMK4gRHrM9Ie1XvyQ",
+    "plus_code": {
+      "compound_code": "FHQM+5X Breslau, ON, Canada",
+      "global_code": "86MXFHQM+5X"
+    },
+    "reference": "ChIJG7oXa_WMK4gRHrM9Ie1XvyQ",
+    "scope": "GOOGLE",
+    "types": [
+      "fire_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "51 Beacon Point Court, Breslau"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4691726,
+        "lng": -80.4094164
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4704929802915,
+          "lng": -80.40812656970849
+        },
+        "southwest": {
+          "lat": 43.4677950197085,
+          "lng": -80.4108245302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Floradale Fire Station",
+    "place_id": "ChIJlyucCX6MK4gR3bAfpl918Ag",
+    "reference": "ChIJlyucCX6MK4gR3bAfpl918Ag",
+    "scope": "GOOGLE",
+    "types": [
+      "fire_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Breslau"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.38148749999999,
+        "lng": -80.4912686
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.38299093029149,
+          "lng": -80.48997121970848
+        },
+        "southwest": {
+          "lat": 43.38029296970849,
+          "lng": -80.4926691802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Kitchener Fire Station 7",
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112840399113562308493\">Scott Simpson</a>"
+        ],
+        "photo_reference": "AeeoHcLp_TCHaOOQ6lthBkEMBZGipg_cDuqGBitM6gaKLqs3ijpWiFxd87YM1witG5dORCo1WLISsaqb7ehp6QIxf-5m8N16kr6mMyXONG6l5Txe8ZbQ4H4lEYsi0H5ET5flOqy-PgwM_elc_C0yWQ9-b07F4iuv5xOg2ZKLjnERqM6rnUrFNqBNsJX-6cpPNc-kPmRy25D6m8DYUL6qdVr2J8G0V6ytf3Zo2LrPKpjPsY68S1i9N4kePaAxF834swrQ9qw3TVT-9szDtol5doA-1wl-8fQ_vddvR0mpXZH2By0wOxEdshjqhvX4wDUmsLW4P_YUTh1iofkjkstxvkRJ_WOE1Zla6AMqB-NReMquBAH-T6XEZm5Pdy7k672WbAn9FSg1D1Vr1JrNAlTvD3sndgENai7Cfij2phtgF6H8DuGhujjYJp-g3i0EqZvBhYLJMWCNRfJhYc9gi8dnN4c-EEe9qLI5MAqpEwtc88YfbA-MriCbwE6_IUB8kZZMohWpHJIGNKfz6IY-l8sBtiu5hnW3xK4mkUuz8-QpVq0KTc4OmdWP_lw9KfImzKAc7wJZ_dUQinv61kpkqERhoNGIgQCyaBPMG2JiMIHk-m3yv9GyDBniiR_Bp064FABYwcHi",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJvw1uiY4KLIgRn3m7SMsHqPY",
+    "plus_code": {
+      "compound_code": "9GJ5+HF Kitchener, ON, Canada",
+      "global_code": "86MX9GJ5+HF"
+    },
+    "rating": 4.6,
+    "reference": "ChIJvw1uiY4KLIgRn3m7SMsHqPY",
+    "scope": "GOOGLE",
+    "types": [
+      "fire_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5,
+    "vicinity": "1440 Huron Road, Kitchener"
+  }
+]

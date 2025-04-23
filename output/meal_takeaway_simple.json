@@ -1,0 +1,996 @@
+[
+  {
+    "name": "Subway",
+    "coordinates": {
+      "lat": 43.49690339999999,
+      "lng": -80.5268127
+    },
+    "longitude": -80.5268127,
+    "latitude": 43.49690339999999,
+    "types": [
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Domino's Pizza",
+    "coordinates": {
+      "lat": 43.46752929999999,
+      "lng": -80.5684411
+    },
+    "longitude": -80.5684411,
+    "latitude": 43.46752929999999,
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Highland Halal Shawarma",
+    "coordinates": {
+      "lat": 43.440994,
+      "lng": -80.50661459999999
+    },
+    "longitude": -80.50661459999999,
+    "latitude": 43.440994,
+    "types": [
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "University Garden Chinese Cuisine",
+    "coordinates": {
+      "lat": 43.4888585,
+      "lng": -80.4919948
+    },
+    "longitude": -80.4919948,
+    "latitude": 43.4888585,
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Crystal Palace Restaurant",
+    "coordinates": {
+      "lat": 43.46499,
+      "lng": -80.52199800000001
+    },
+    "longitude": -80.52199800000001,
+    "latitude": 43.46499,
+    "types": [
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Kam Yin Chinese Restaurant",
+    "coordinates": {
+      "lat": 43.4522286,
+      "lng": -80.5558827
+    },
+    "longitude": -80.5558827,
+    "latitude": 43.4522286,
+    "types": [
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Pizza Pizza",
+    "coordinates": {
+      "lat": 43.48640809999999,
+      "lng": -80.54069969999999
+    },
+    "longitude": -80.54069969999999,
+    "latitude": 43.48640809999999,
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Campus Pizza",
+    "coordinates": {
+      "lat": 43.4721532,
+      "lng": -80.5380266
+    },
+    "longitude": -80.5380266,
+    "latitude": 43.4721532,
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Classic Indian",
+    "coordinates": {
+      "lat": 43.50509659999999,
+      "lng": -80.5379851
+    },
+    "longitude": -80.5379851,
+    "latitude": 43.50509659999999,
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Pizza pizza",
+    "coordinates": {
+      "lat": 43.450881,
+      "lng": -80.492495
+    },
+    "longitude": -80.492495,
+    "latitude": 43.450881,
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Moxies Kitchener Restaurant",
+    "coordinates": {
+      "lat": 43.420655,
+      "lng": -80.442247
+    },
+    "longitude": -80.442247,
+    "latitude": 43.420655,
+    "types": [
+      "restaurant",
+      "night_club",
+      "bar",
+      "meal_takeaway",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Mei King Restaurant",
+    "coordinates": {
+      "lat": 43.4568861,
+      "lng": -80.4891361
+    },
+    "longitude": -80.4891361,
+    "latitude": 43.4568861,
+    "types": [
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Twice The Deal Pizza",
+    "coordinates": {
+      "lat": 43.4844996,
+      "lng": -80.5263456
+    },
+    "longitude": -80.5263456,
+    "latitude": 43.4844996,
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Double Deal Pizza & Wings",
+    "coordinates": {
+      "lat": 43.43991459999999,
+      "lng": -80.5267381
+    },
+    "longitude": -80.5267381,
+    "latitude": 43.43991459999999,
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Pizzaville",
+    "coordinates": {
+      "lat": 43.4248838,
+      "lng": -80.55417159999999
+    },
+    "longitude": -80.55417159999999,
+    "latitude": 43.4248838,
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "WingsUp! Waterloo",
+    "coordinates": {
+      "lat": 43.4766499,
+      "lng": -80.5209852
+    },
+    "longitude": -80.5209852,
+    "latitude": 43.4766499,
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Subway",
+    "coordinates": {
+      "lat": 43.4148333,
+      "lng": -80.51057449999999
+    },
+    "longitude": -80.51057449999999,
+    "latitude": 43.4148333,
+    "types": [
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "KFC",
+    "coordinates": {
+      "lat": 43.4969302,
+      "lng": -80.5263955
+    },
+    "longitude": -80.5263955,
+    "latitude": 43.4969302,
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Most Convenient Food Store & Pizza",
+    "coordinates": {
+      "lat": 43.4795269,
+      "lng": -80.4848757
+    },
+    "longitude": -80.4848757,
+    "latitude": 43.4795269,
+    "types": [
+      "convenience_store",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Subway",
+    "coordinates": {
+      "lat": 43.42487759999999,
+      "lng": -80.5541556
+    },
+    "longitude": -80.5541556,
+    "latitude": 43.42487759999999,
+    "types": [
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Famoso Italian Pizzeria - Waterloo",
+    "coordinates": {
+      "lat": 43.4643793,
+      "lng": -80.5223374
+    },
+    "longitude": -80.5223374,
+    "latitude": 43.4643793,
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "iShawarma",
+    "coordinates": {
+      "lat": 43.46925139999999,
+      "lng": -80.5161677
+    },
+    "longitude": -80.5161677,
+    "latitude": 43.46925139999999,
+    "types": [
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Mr.Sub",
+    "coordinates": {
+      "lat": 43.472353,
+      "lng": -80.526339
+    },
+    "longitude": -80.526339,
+    "latitude": 43.472353,
+    "types": [
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Taste of Mediterranean",
+    "coordinates": {
+      "lat": 43.4563652,
+      "lng": -80.5124501
+    },
+    "longitude": -80.5124501,
+    "latitude": 43.4563652,
+    "types": [
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Subway",
+    "coordinates": {
+      "lat": 43.4562336,
+      "lng": -80.51204589999999
+    },
+    "longitude": -80.51204589999999,
+    "latitude": 43.4562336,
+    "types": [
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Bento Sushi",
+    "coordinates": {
+      "lat": 43.47350239999999,
+      "lng": -80.5287001
+    },
+    "longitude": -80.5287001,
+    "latitude": 43.47350239999999,
+    "types": [
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Domino's Pizza",
+    "coordinates": {
+      "lat": 43.476829,
+      "lng": -80.5208554
+    },
+    "longitude": -80.5208554,
+    "latitude": 43.476829,
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Subway",
+    "coordinates": {
+      "lat": 43.4771252,
+      "lng": -80.5256113
+    },
+    "longitude": -80.5256113,
+    "latitude": 43.4771252,
+    "types": [
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Subway",
+    "coordinates": {
+      "lat": 43.4716654,
+      "lng": -80.5453139
+    },
+    "longitude": -80.5453139,
+    "latitude": 43.4716654,
+    "types": [
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Subway",
+    "coordinates": {
+      "lat": 43.4517258,
+      "lng": -80.4938067
+    },
+    "longitude": -80.4938067,
+    "latitude": 43.4517258,
+    "types": [
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Shiri's Kitchen",
+    "coordinates": {
+      "lat": 43.4888369,
+      "lng": -80.51512249999999
+    },
+    "longitude": -80.51512249999999,
+    "latitude": 43.4888369,
+    "types": [
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "The Cactus Mexican Restaurant",
+    "coordinates": {
+      "lat": 43.48458129999999,
+      "lng": -80.5408135
+    },
+    "longitude": -80.5408135,
+    "latitude": 43.48458129999999,
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Domino's Pizza",
+    "coordinates": {
+      "lat": 43.44093830000001,
+      "lng": -80.5057545
+    },
+    "longitude": -80.5057545,
+    "latitude": 43.44093830000001,
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "SUBWAY",
+    "coordinates": {
+      "lat": 43.47627919999999,
+      "lng": -80.48501189999999
+    },
+    "longitude": -80.48501189999999,
+    "latitude": 43.47627919999999,
+    "types": [
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Subway",
+    "coordinates": {
+      "lat": 43.4569775,
+      "lng": -80.473384
+    },
+    "longitude": -80.473384,
+    "latitude": 43.4569775,
+    "types": [
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Subway",
+    "coordinates": {
+      "lat": 43.4293349,
+      "lng": -80.524982
+    },
+    "longitude": -80.524982,
+    "latitude": 43.4293349,
+    "types": [
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Wok Wagon Express",
+    "coordinates": {
+      "lat": 43.4677879,
+      "lng": -80.5686987
+    },
+    "longitude": -80.5686987,
+    "latitude": 43.4677879,
+    "types": [
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Little Caesars Pizza",
+    "coordinates": {
+      "lat": 43.43547179999999,
+      "lng": -80.56090160000001
+    },
+    "longitude": -80.56090160000001,
+    "latitude": 43.43547179999999,
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Panago Pizza",
+    "coordinates": {
+      "lat": 43.4461988,
+      "lng": -80.5748334
+    },
+    "longitude": -80.5748334,
+    "latitude": 43.4461988,
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Subway",
+    "coordinates": {
+      "lat": 43.4668734,
+      "lng": -80.4585738
+    },
+    "longitude": -80.4585738,
+    "latitude": 43.4668734,
+    "types": [
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Tandoori Xpress",
+    "coordinates": {
+      "lat": 43.4153256,
+      "lng": -80.5113537
+    },
+    "longitude": -80.5113537,
+    "latitude": 43.4153256,
+    "types": [
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Arby's",
+    "coordinates": {
+      "lat": 43.51082559999999,
+      "lng": -80.5495677
+    },
+    "longitude": -80.5495677,
+    "latitude": 43.51082559999999,
+    "types": [
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "City Pizza",
+    "coordinates": {
+      "lat": 43.4071901,
+      "lng": -80.5002241
+    },
+    "longitude": -80.5002241,
+    "latitude": 43.4071901,
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Tito's Pizza",
+    "coordinates": {
+      "lat": 43.4137081,
+      "lng": -80.47206419999999
+    },
+    "longitude": -80.47206419999999,
+    "latitude": 43.4137081,
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Domino's Pizza",
+    "coordinates": {
+      "lat": 43.43301009999999,
+      "lng": -80.4452312
+    },
+    "longitude": -80.4452312,
+    "latitude": 43.43301009999999,
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Subway",
+    "coordinates": {
+      "lat": 43.42493890000001,
+      "lng": -80.43891219999999
+    },
+    "longitude": -80.43891219999999,
+    "latitude": 43.42493890000001,
+    "types": [
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Jersey Mike's Subs",
+    "coordinates": {
+      "lat": 43.419799,
+      "lng": -80.447664
+    },
+    "longitude": -80.447664,
+    "latitude": 43.419799,
+    "types": [
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Topper's Pizza - Kitchener",
+    "coordinates": {
+      "lat": 43.4386971,
+      "lng": -80.5101951
+    },
+    "longitude": -80.5101951,
+    "latitude": 43.4386971,
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Subway",
+    "coordinates": {
+      "lat": 43.47879299999999,
+      "lng": -80.4150617
+    },
+    "longitude": -80.4150617,
+    "latitude": 43.47879299999999,
+    "types": [
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Domino's Pizza",
+    "coordinates": {
+      "lat": 43.40547029999999,
+      "lng": -80.4980288
+    },
+    "longitude": -80.4980288,
+    "latitude": 43.40547029999999,
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Subway",
+    "coordinates": {
+      "lat": 43.44260379999999,
+      "lng": -80.415067
+    },
+    "longitude": -80.415067,
+    "latitude": 43.44260379999999,
+    "types": [
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Pizza Pizza",
+    "coordinates": {
+      "lat": 43.429735,
+      "lng": -80.52513499999999
+    },
+    "longitude": -80.52513499999999,
+    "latitude": 43.429735,
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Little Caesars Pizza",
+    "coordinates": {
+      "lat": 43.49554000000001,
+      "lng": -80.50144
+    },
+    "longitude": -80.50144,
+    "latitude": 43.49554000000001,
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Pizza Pizza",
+    "coordinates": {
+      "lat": 43.453371,
+      "lng": -80.555824
+    },
+    "longitude": -80.555824,
+    "latitude": 43.453371,
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "New Orleans Pizza",
+    "coordinates": {
+      "lat": 43.4887212,
+      "lng": -80.49207129999999
+    },
+    "longitude": -80.49207129999999,
+    "latitude": 43.4887212,
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Casey's Grill Bar",
+    "coordinates": {
+      "lat": 43.4668036,
+      "lng": -80.4571718
+    },
+    "longitude": -80.4571718,
+    "latitude": 43.4668036,
+    "types": [
+      "meal_takeaway",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "The WORKS Craft Burgers & Beer",
+    "coordinates": {
+      "lat": 43.463159,
+      "lng": -80.52148799999999
+    },
+    "longitude": -80.52148799999999,
+    "latitude": 43.463159,
+    "types": [
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Fratello Pizza",
+    "coordinates": {
+      "lat": 43.4679793,
+      "lng": -80.5229387
+    },
+    "longitude": -80.5229387,
+    "latitude": 43.4679793,
+    "types": [
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Pizza Pizza",
+    "coordinates": {
+      "lat": 43.4522316,
+      "lng": -80.444167
+    },
+    "longitude": -80.444167,
+    "latitude": 43.4522316,
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Subway",
+    "coordinates": {
+      "lat": 43.4385596,
+      "lng": -80.5101298
+    },
+    "longitude": -80.5101298,
+    "latitude": 43.4385596,
+    "types": [
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4517589,
+        "lng": -80.4924168
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45339388029149,
+          "lng": -80.4909711697085
+        },
+        "southwest": {
+          "lat": 43.4506959197085,
+          "lng": -80.49366913029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Kitchener City Hall",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4564,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114290482632882768604\">Gryphon Hudson</a>"
+        ],
+        "photo_reference": "AeeoHcKUvJI9HnnUEW8kAdyakI3Tvf1J-yYemKK7ELLPM4XZcrLk5rlpqfmL4MJKrvmoazPCFs4l8hSeazzyQA0fNp-9WZNZMRaFI4KBqIz2G_QOcixaT1mTgod8zIitZxQnn1BYCScIaZDwcKff4ziaEfawVTGlkWRjx6mV0rPKW5dAmrGqNoJ4QNmt6dW6RcqlkR97Wd5JpIlpKeXII5VgSx-QlfCNd4nKMeBkFl-2Hn2Z_02SXDhi2nOSc3Tch1k491BHVIDngBOoPnnVEqyy3d7WQXfNsLgU8CZDtqNvJ9iFvFitROY0L2LKdan2j-XmXzp08XSfrlfoBNzNyk8HoSv53PEphFzfh7GeV1t6XbEm30c9C1WQ3wnIBkbt6glrusaHswdsOvzNHfBSmbclCoW5vz9PpKjGhTcMr9LbDe8B0o9KGdrvoNn0xbLUmjjPNMjzDjaQdBqlfAsAdT1VArEGbk21Be0Wmk65foF5HU0UcUVROZkfSiQwhcN27FUiXFlvNXQ779LlZCZhgUBFiTkbqUj8k0uEIDKgeKzbExaQbTblrp3TbuWvuBQFnjI7AjtnC0Xk3z-dxcDZartnfsqKJsrL-GIJ0IBjJk2a7phuKGM3an4fYu9vRF8D27JVuIcocVsF",
+        "width": 6846
+      }
+    ],
+    "place_id": "ChIJHb0SQvP0K4gRfXg4iSIxRZ8",
+    "plus_code": {
+      "compound_code": "FG25+P2 Kitchener, ON, Canada",
+      "global_code": "86MXFG25+P2"
+    },
+    "rating": 4.3,
+    "reference": "ChIJHb0SQvP0K4gRfXg4iSIxRZ8",
+    "scope": "GOOGLE",
+    "types": [
+      "city_hall",
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 252,
+    "vicinity": "200 King Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.463073,
+        "lng": -80.5201428
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46450763029151,
+          "lng": -80.5190162197085
+        },
+        "southwest": {
+          "lat": 43.46180966970851,
+          "lng": -80.52171418029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Waterloo City Hall",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3265,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109239383266622276951\">Waterloo City Hall</a>"
+        ],
+        "photo_reference": "AeeoHcJ4Xn0wledp4CmuMrCCD0oaQYoTW0n5rD9_3KlGicg0Ur_LZJlrv7zavm-soKAaaTC9odWgRvk0Mk-veQxgUqcSTKQPCxd0QHgQL-XhnwnHeEFY2UVTn9y5CN9uOQ_L8YNm7TcvoLmy_EX1Qh_l1K1o2bex4wV1ttTeL2SUL1XIbxX5EIiUy62Va2ZyXafDGIhfMdRAJ6MUhJVYig_D_yTEoT5dwv5YzHFCLOZe-ejSoIWt1llNVqAI9SCAM-TvNG83v5i4XBF3EGE8g9lmM6gcSch1C_p5YWFVXtjCkc_epf1BHzqG6ZCWkAaG_mT-j7f29SDY5pw",
+        "width": 4898
+      }
+    ],
+    "place_id": "ChIJDyA5P230K4gRWbPaJ-gTEl0",
+    "plus_code": {
+      "compound_code": "FF7H+6W Waterloo, ON, Canada",
+      "global_code": "86MXFF7H+6W"
+    },
+    "rating": 3.9,
+    "reference": "ChIJDyA5P230K4gRWbPaJ-gTEl0",
+    "scope": "GOOGLE",
+    "types": [
+      "city_hall",
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 59,
+    "vicinity": "100 Regina Street South, Waterloo"
+  }
+]

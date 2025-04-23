@@ -1,0 +1,859 @@
+[
+  {
+    "name": "Waterloo Walk-In Clinic",
+    "coordinates": {
+      "lat": 43.4719522,
+      "lng": -80.5390279
+    },
+    "longitude": -80.5390279,
+    "latitude": 43.4719522,
+    "types": [
+      "local_government_office",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Kitchener City Hall",
+    "coordinates": {
+      "lat": 43.4517589,
+      "lng": -80.4924168
+    },
+    "longitude": -80.4924168,
+    "latitude": 43.4517589,
+    "types": [
+      "city_hall",
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Passport Canada",
+    "coordinates": {
+      "lat": 43.45109900000001,
+      "lng": -80.4848554
+    },
+    "longitude": -80.4848554,
+    "latitude": 43.45109900000001,
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Waterloo Region Small Business Centre",
+    "coordinates": {
+      "lat": 43.4501669,
+      "lng": -80.48917929999999
+    },
+    "longitude": -80.48917929999999,
+    "latitude": 43.4501669,
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Brian L Shantz Ltd",
+    "coordinates": {
+      "lat": 43.49451359999999,
+      "lng": -80.5372752
+    },
+    "longitude": -80.5372752,
+    "latitude": 43.49451359999999,
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Infant & Child Development",
+    "coordinates": {
+      "lat": 43.4628506,
+      "lng": -80.52086779999999
+    },
+    "longitude": -80.52086779999999,
+    "latitude": 43.4628506,
+    "types": [
+      "local_government_office",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Ledgers (Kitchener)",
+    "coordinates": {
+      "lat": 43.45448270000001,
+      "lng": -80.51902009999999
+    },
+    "longitude": -80.51902009999999,
+    "latitude": 43.45448270000001,
+    "types": [
+      "accounting",
+      "local_government_office",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "City of Waterloo By-Law Enforcement",
+    "coordinates": {
+      "lat": 43.46336899999999,
+      "lng": -80.520139
+    },
+    "longitude": -80.520139,
+    "latitude": 43.46336899999999,
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Waterloo Information Systems",
+    "coordinates": {
+      "lat": 43.4632454,
+      "lng": -80.52010949999999
+    },
+    "longitude": -80.52010949999999,
+    "latitude": 43.4632454,
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Region of Waterloo Public Health and Paramedic Services",
+    "coordinates": {
+      "lat": 43.4629081,
+      "lng": -80.52080289999999
+    },
+    "longitude": -80.52080289999999,
+    "latitude": 43.4629081,
+    "types": [
+      "local_government_office",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Waterloo Dental Svc",
+    "coordinates": {
+      "lat": 43.4705902,
+      "lng": -80.5228295
+    },
+    "longitude": -80.5228295,
+    "latitude": 43.4705902,
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Waterloo Arts & Culture",
+    "coordinates": {
+      "lat": 43.4639295,
+      "lng": -80.53292669999999
+    },
+    "longitude": -80.53292669999999,
+    "latitude": 43.4639295,
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Regional Tourism Organization 4 Inc",
+    "coordinates": {
+      "lat": 43.4509118,
+      "lng": -80.5135779
+    },
+    "longitude": -80.5135779,
+    "latitude": 43.4509118,
+    "types": [
+      "travel_agency",
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Domus Housing Office",
+    "coordinates": {
+      "lat": 43.4802267,
+      "lng": -80.52338329999999
+    },
+    "longitude": -80.52338329999999,
+    "latitude": 43.4802267,
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "ServiceOntario",
+    "coordinates": {
+      "lat": 43.4865738,
+      "lng": -80.51779300000001
+    },
+    "longitude": -80.51779300000001,
+    "latitude": 43.4865738,
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Perimeter Development",
+    "coordinates": {
+      "lat": 43.4515477,
+      "lng": -80.4950016
+    },
+    "longitude": -80.4950016,
+    "latitude": 43.4515477,
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Kitchener Building Permits",
+    "coordinates": {
+      "lat": 43.4526054,
+      "lng": -80.4923081
+    },
+    "longitude": -80.4923081,
+    "latitude": 43.4526054,
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Kitchener Sports Fields",
+    "coordinates": {
+      "lat": 43.4518808,
+      "lng": -80.4925196
+    },
+    "longitude": -80.4925196,
+    "latitude": 43.4518808,
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Kitchener City Clerk Office",
+    "coordinates": {
+      "lat": 43.45195219999999,
+      "lng": -80.4923304
+    },
+    "longitude": -80.4923304,
+    "latitude": 43.45195219999999,
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Kitchener Arts & Culture",
+    "coordinates": {
+      "lat": 43.45195219999999,
+      "lng": -80.4923304
+    },
+    "longitude": -80.4923304,
+    "latitude": 43.45195219999999,
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Waterloo Region Crime Prevention",
+    "coordinates": {
+      "lat": 43.4522358,
+      "lng": -80.48662270000001
+    },
+    "longitude": -80.48662270000001,
+    "latitude": 43.4522358,
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Waterloo Region Housing",
+    "coordinates": {
+      "lat": 43.4520379,
+      "lng": -80.4865732
+    },
+    "longitude": -80.4865732,
+    "latitude": 43.4520379,
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Water Efficiency",
+    "coordinates": {
+      "lat": 43.4494158,
+      "lng": -80.4875347
+    },
+    "longitude": -80.4875347,
+    "latitude": 43.4494158,
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Waterloo Councillors",
+    "coordinates": {
+      "lat": 43.4525863,
+      "lng": -80.4848222
+    },
+    "longitude": -80.4848222,
+    "latitude": 43.4525863,
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Waterloo Corporation Archives",
+    "coordinates": {
+      "lat": 43.4535032,
+      "lng": -80.48307419999999
+    },
+    "longitude": -80.48307419999999,
+    "latitude": 43.4535032,
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "ServiceOntario",
+    "coordinates": {
+      "lat": 43.4663195,
+      "lng": -80.4556072
+    },
+    "longitude": -80.4556072,
+    "latitude": 43.4663195,
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Province of Ontario",
+    "coordinates": {
+      "lat": 43.4147959,
+      "lng": -80.5102921
+    },
+    "longitude": -80.5102921,
+    "latitude": 43.4147959,
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Advantage Accounting",
+    "coordinates": {
+      "lat": 43.4249393,
+      "lng": -80.47422790000002
+    },
+    "longitude": -80.47422790000002,
+    "latitude": 43.4249393,
+    "types": [
+      "accounting",
+      "finance",
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "ServiceOntario",
+    "coordinates": {
+      "lat": 43.4156956,
+      "lng": -80.4492829
+    },
+    "longitude": -80.4492829,
+    "latitude": 43.4156956,
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Ontario Housing Ministry",
+    "coordinates": {
+      "lat": 43.41981229999999,
+      "lng": -80.4409098
+    },
+    "longitude": -80.4409098,
+    "latitude": 43.41981229999999,
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Waterloo City Hall",
+    "coordinates": {
+      "lat": 43.463073,
+      "lng": -80.5201428
+    },
+    "longitude": -80.5201428,
+    "latitude": 43.463073,
+    "types": [
+      "city_hall",
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "UW Parking Services",
+    "coordinates": {
+      "lat": 43.47353849999999,
+      "lng": -80.5426742
+    },
+    "longitude": -80.5426742,
+    "latitude": 43.47353849999999,
+    "types": [
+      "parking",
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Explore Waterloo Region",
+    "coordinates": {
+      "lat": 43.4509118,
+      "lng": -80.5135779
+    },
+    "longitude": -80.5135779,
+    "latitude": 43.4509118,
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Waterloo Region Small Business Centre",
+    "coordinates": {
+      "lat": 43.46336889999999,
+      "lng": -80.520139
+    },
+    "longitude": -80.520139,
+    "latitude": 43.46336889999999,
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Waterloo Community Relations",
+    "coordinates": {
+      "lat": 43.4632454,
+      "lng": -80.52010949999999
+    },
+    "longitude": -80.52010949999999,
+    "latitude": 43.4632454,
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "PMG INTELLIGENCE",
+    "coordinates": {
+      "lat": 43.463031,
+      "lng": -80.521486
+    },
+    "longitude": -80.521486,
+    "latitude": 43.463031,
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Waterloo Children Svc",
+    "coordinates": {
+      "lat": 43.4627516,
+      "lng": -80.5207326
+    },
+    "longitude": -80.5207326,
+    "latitude": 43.4627516,
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Waterloo Family & Child Family",
+    "coordinates": {
+      "lat": 43.4627516,
+      "lng": -80.5207326
+    },
+    "longitude": -80.5207326,
+    "latitude": 43.4627516,
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Waterloo Infectious Diseases",
+    "coordinates": {
+      "lat": 43.4627516,
+      "lng": -80.5207326
+    },
+    "longitude": -80.5207326,
+    "latitude": 43.4627516,
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Regional Signs & Signals",
+    "coordinates": {
+      "lat": 43.4629564,
+      "lng": -80.52150979999999
+    },
+    "longitude": -80.52150979999999,
+    "latitude": 43.4629564,
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Regional Roads Maintenance",
+    "coordinates": {
+      "lat": 43.4629564,
+      "lng": -80.52150979999999
+    },
+    "longitude": -80.52150979999999,
+    "latitude": 43.4629564,
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Waterloo Infection Control",
+    "coordinates": {
+      "lat": 43.4705902,
+      "lng": -80.5228295
+    },
+    "longitude": -80.5228295,
+    "latitude": 43.4705902,
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Waterloo Community Safety",
+    "coordinates": {
+      "lat": 43.4705902,
+      "lng": -80.5228295
+    },
+    "longitude": -80.5228295,
+    "latitude": 43.4705902,
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Manulife Financial Corporation Securities Class Actions",
+    "coordinates": {
+      "lat": 43.4718992,
+      "lng": -80.5156181
+    },
+    "longitude": -80.5156181,
+    "latitude": 43.4718992,
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Maison Canada",
+    "coordinates": {
+      "lat": 43.472824,
+      "lng": -80.524593
+    },
+    "longitude": -80.524593,
+    "latitude": 43.472824,
+    "types": [
+      "real_estate_agency",
+      "local_government_office",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Waterloo Rink In the Park",
+    "coordinates": {
+      "lat": 43.4703383,
+      "lng": -80.53243619999999
+    },
+    "longitude": -80.53243619999999,
+    "latitude": 43.4703383,
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Kitchener Mt Hope",
+    "coordinates": {
+      "lat": 43.457703,
+      "lng": -80.5067397
+    },
+    "longitude": -80.5067397,
+    "latitude": 43.457703,
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Waterloo Archives & Records",
+    "coordinates": {
+      "lat": 43.4646026,
+      "lng": -80.503468
+    },
+    "longitude": -80.503468,
+    "latitude": 43.4646026,
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Waterloo Transportation Enqrs",
+    "coordinates": {
+      "lat": 43.4646026,
+      "lng": -80.503468
+    },
+    "longitude": -80.503468,
+    "latitude": 43.4646026,
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Waterloo Water Supply Oprtns",
+    "coordinates": {
+      "lat": 43.4646026,
+      "lng": -80.503468
+    },
+    "longitude": -80.503468,
+    "latitude": 43.4646026,
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Dorfman Mark L Planner Inc",
+    "coordinates": {
+      "lat": 43.46127979999999,
+      "lng": -80.53753929999999
+    },
+    "longitude": -80.53753929999999,
+    "latitude": 43.46127979999999,
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "MODE Immigration| Canadian immigration consultant service | Work permit in Canada | Canadian Immigration Lawyer",
+    "coordinates": {
+      "lat": 43.4773461,
+      "lng": -80.5256995
+    },
+    "longitude": -80.5256995,
+    "latitude": 43.4773461,
+    "types": [
+      "travel_agency",
+      "local_government_office",
+      "lawyer",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Dorfman Mark L Planner Inc",
+    "coordinates": {
+      "lat": 43.47675700000001,
+      "lng": -80.53833060000001
+    },
+    "longitude": -80.53833060000001,
+    "latitude": 43.47675700000001,
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Waterloo Social Assistance",
+    "coordinates": {
+      "lat": 43.4745941,
+      "lng": -80.5413009
+    },
+    "longitude": -80.5413009,
+    "latitude": 43.4745941,
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Conestoga Community Career Centre",
+    "coordinates": {
+      "lat": 43.4830449,
+      "lng": -80.5175805
+    },
+    "longitude": -80.5175805,
+    "latitude": 43.4830449,
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "GSP Group Inc.",
+    "coordinates": {
+      "lat": 43.4510566,
+      "lng": -80.5002653
+    },
+    "longitude": -80.5002653,
+    "latitude": 43.4510566,
+    "types": [
+      "local_government_office",
+      "general_contractor",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Motor Vehicle Licence Office",
+    "coordinates": {
+      "lat": 43.4868458,
+      "lng": -80.517072
+    },
+    "longitude": -80.517072,
+    "latitude": 43.4868458,
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Members of Municipal Council",
+    "coordinates": {
+      "lat": 43.4523229,
+      "lng": -80.492099
+    },
+    "longitude": -80.492099,
+    "latitude": 43.4523229,
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Kitchener Downtown & Community",
+    "coordinates": {
+      "lat": 43.45195219999999,
+      "lng": -80.4923304
+    },
+    "longitude": -80.4923304,
+    "latitude": 43.45195219999999,
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Kitchener Visitor Info Ctr",
+    "coordinates": {
+      "lat": 43.45195219999999,
+      "lng": -80.4923304
+    },
+    "longitude": -80.4923304,
+    "latitude": 43.45195219999999,
+    "types": [
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ]
+  }
+]

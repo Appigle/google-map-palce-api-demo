@@ -1,0 +1,2759 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4381862,
+        "lng": -80.5017925
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4395314802915,
+          "lng": -80.50046156970848
+        },
+        "southwest": {
+          "lat": 43.43683351970851,
+          "lng": -80.5031595302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "WRHN @ Queen’s Blvd. (formerly St. Mary’s)",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109883755316492790933\">WRHN @ Queen&#39;s Blvd. (formerly St. Mary’s General Hospital)</a>"
+        ],
+        "photo_reference": "AeeoHcKbS5TrjKMlfLw1NeGxouBX1U2svNs0sEs9iLM4wHuxJBaxe6qiaOq-W0zP2TUfhZ4qkwcJ4r13Kb0sjOqiMubixltJRs_VLnJNTfNuVgW7ZfkN9QCTtI-ZmpmFBCBvpO2pSrGHmy3aQj1hBFnOHdluxzu1AWZJmtPPoNt0FeyLSnVrxengJut0XYdre7BT9oRQFzffij5swxkfeX872z-yb8kXSGtxYCOwWM_RuD40XDQdb8jXC8i8Lk8lnrQxumrYyzcLK4Y8IWF0epVgxSpn9o-oSTisL5RaILFjwRDR6HNsfydC5GhffYcFjt9EdEIXC064",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJXwbb21X0K4gRx_1NCz5xePo",
+    "plus_code": {
+      "compound_code": "CFQX+77 Kitchener, ON, Canada",
+      "global_code": "86MXCFQX+77"
+    },
+    "rating": 3.3,
+    "reference": "ChIJXwbb21X0K4gRx_1NCz5xePo",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 452,
+    "vicinity": "911 Queen's Boulevard, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4562339,
+        "lng": -80.5120458
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4576167802915,
+          "lng": -80.51059391970848
+        },
+        "southwest": {
+          "lat": 43.4549188197085,
+          "lng": -80.5132918802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "WRHN @ Midtown (formerly Grand River Hospital, KW Campus)",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2513,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113664309233820834071\">Ron Dutton</a>"
+        ],
+        "photo_reference": "AeeoHcKOKqbl43NPQIctl09YZjs_-B6tJki2VPd_rCR-_CALK8CzkXsg-dXlyq-E7Hw4MA6L-sbDlqxcO-OXtvSF9ExzB3Kqk6nGdOt5D-_z7_kkAE6JY9J7VcgR0Gf4oWfnHEKYj-ml0M096EUoDBY-_1ab9jZS1QRjLrObYA0QgddWR4D_TJgWnAnuUFU-hp7SvySbBH8AN-uHZxkGWs5Hfndk8e4OTEExBYdnKfFLioQwJpOmicm5EwFmZVfVyXn_kIKYRhchy_ehi_errGKtjEC6yhzGMQ1zCG7ELkehzAfZ1ZHMDcXciu47LceF95rSCcS6YRXavNDF08JnXlWhl_4kJy-ViXGXbf0NbKb3498s8UUtwhOqYla5NkDquha7izyRAu1mKmIyrmpNdww1ybDEAOX5VkUCjWK0pxuFRMwmyjyD0Oz6LKIYjLgo15qtely_eiTiJIPM5H7ohgp8CFsXZylMuWf-lT-DXYTvv6hUUsLa5CKI0N3SbtMqkSKP4YVRlC--tnCl6r_glLp71o2TNL4EQcpP1fPLXWi-fl-1KNJXDMbBBkFEjEyZ3Ne4FYrccTac9nrrUNkaP5b9Q1aLlLPMFfiSDPnbaDJ0dC6eNJM99--etVxWVBGwE5L3qJvCladZ",
+        "width": 3691
+      }
+    ],
+    "place_id": "ChIJV5mLbmj0K4gRV5qXrNqbu7o",
+    "plus_code": {
+      "compound_code": "FF4Q+F5 Kitchener, ON, Canada",
+      "global_code": "86MXFF4Q+F5"
+    },
+    "rating": 2.4,
+    "reference": "ChIJV5mLbmj0K4gRV5qXrNqbu7o",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1102,
+    "vicinity": "835 King Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4177723,
+        "lng": -80.5361185
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4191562302915,
+          "lng": -80.5346724697085
+        },
+        "southwest": {
+          "lat": 43.41645826970851,
+          "lng": -80.5373704302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "Julie Schroth RMT",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3409,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106979217104312145592\">Julie Schroth RMT</a>"
+        ],
+        "photo_reference": "AeeoHcKq_7oZy7yC2DeO85D5Yyc6WsYqX0uRo5P_YmXnnMXEKrH9W2UJoB2nJH3wS-6GsApTF20nFu1HkMIf-ubUmlkLekJ-PnpTE51HuJ8j8Fjzr8nkVfGaU5JVuvp7jOUtBEuikQUCYPPD4idPkOHtD9gjhTjFRIbHxALxjh9m5G_Xo2hWozfnfGjipMHjg6nKhhg-qPGzMkKDIMzQ-yJGsxJHwHxyFlgU5uBuvruGJfvIMWZT-B7RPJIL09240AWKfFkKS5qsFXCJW_v1qv58gfQbYCAovs7a3NHSdFngUdkuPp8UzCOGby1m2LWw6uqmfnJ3xvmXvVw",
+        "width": 5127
+      }
+    ],
+    "place_id": "ChIJK3pR5cD1K4gR_2fwc6-774g",
+    "plus_code": {
+      "compound_code": "CF97+4H Kitchener, ON, Canada",
+      "global_code": "86MXCF97+4H"
+    },
+    "rating": 5,
+    "reference": "ChIJK3pR5cD1K4gR_2fwc6-774g",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 7,
+    "vicinity": "450 Westheights Drive #8A, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.465535,
+        "lng": -80.5052808
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46679733029149,
+          "lng": -80.50386436970848
+        },
+        "southwest": {
+          "lat": 43.4640993697085,
+          "lng": -80.50656233029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Union & Weber Travel Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 460,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110771215497037770914\">Union &amp; Weber Travel Clinic</a>"
+        ],
+        "photo_reference": "AeeoHcLOnis17UhOIaOrE3V0i5JmDIL3TN3FP6ewtwaJksnwTXXCDYTJK_-GzZqTo-V8IXK0eKbC3cpgUest5EUS-q_Y78xOKRk2ZQuMoek3eOJdTkjvZcASeMdUiR4WxFBP-iYCr1Ae1ErGqp0FtcPx5FC0xAz2eaFYWi9EDyaJ_8yc8pGO3ryqg1OyD7mlz1jPcjgKdQYS6uKve0BCZXMoeEEruAAezG8jBKUCaSm9wDXmmNb-4FNYeaUsH8Uw7Wfp9J2lWbV9Naftmlw9dsh6YOAL6D95eAfpz6YOCoI3PuPXe1rTm6JF2BINNSsPPxGOjZQs3lb9Bio",
+        "width": 644
+      }
+    ],
+    "place_id": "ChIJlW7peHv0K4gRLJoWrvGVz80",
+    "plus_code": {
+      "compound_code": "FF8V+6V Waterloo, ON, Canada",
+      "global_code": "86MXFF8V+6V"
+    },
+    "rating": 4.8,
+    "reference": "ChIJlW7peHv0K4gRLJoWrvGVz80",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 74,
+    "vicinity": "124 Weber Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4503239,
+        "lng": -80.5154886
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4517742302915,
+          "lng": -80.5142071697085
+        },
+        "southwest": {
+          "lat": 43.4490762697085,
+          "lng": -80.5169051302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "Belmont Centre for Physical Medicine",
+    "place_id": "ChIJW_Ydp_X0K4gRIenxHCwn9-Q",
+    "plus_code": {
+      "compound_code": "FF2M+4R Kitchener, ON, Canada",
+      "global_code": "86MXFF2M+4R"
+    },
+    "rating": 5,
+    "reference": "ChIJW_Ydp_X0K4gRIenxHCwn9-Q",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "564 Belmont Avenue West Ste 301, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4477941,
+        "lng": -80.51476919999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4490780302915,
+          "lng": -80.51333756970848
+        },
+        "southwest": {
+          "lat": 43.4463800697085,
+          "lng": -80.51603553029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "Belgage Medical Arts",
+    "photos": [
+      {
+        "height": 1120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101529820186431530319\">Akram Ibrahim</a>"
+        ],
+        "photo_reference": "AeeoHcIBF9bNueSvo1blhsbKsspICIdZ77jhdSCnuq_EdWXAeyRaXbB_ugErTAgkoPnCd67JfX5Dbtj19zJiyrOcn8vggUKjnroL3P2EDBVuyxIE4odxopiRJoGmRq7rfx40tP-M67L_CBzKfE8xkTYg1IVEgwGOXmaK201AdOFX5gPY42R4mgg3gVEAg4S9RQGZe6GT8waFjfpegEtn6Wcz__BvCXErg5SqaiyuHeJzOQVo_Cev7Z79CmK43AP4JBVUmiuaFW3vvlxeUAf7zi48y3t_xGc5JV5AO6J52InWNnaLJZ3jNVxbykkI4F_-vxaHsIlniVwi8JQDyGxdukR0_FhRx77FGMmcnEyp1JK4Urxo8nsGRqGyCDuvWlQDJ_vaWUv_711UX4IxPwLdBYhQ_d8lfJ6N1VWIz6MHqE7VcdL_MLKwPssuXWbEeqNfO9bLOM3fuJAjgF0zC7r6ISFPCBk-h1ilSmH1uRpeT40KMYosvYhiIv2xen1mzO7u0gkeLYcFeSJyr_JMM5xJXAcDAX-Dumhgvkjl9BXugCGTYKhESGd-LjA01CDQ-wZg5NxkVOXZMp0LoISKKCmSD7bRmyPCL4GzJRHWn0GK61PJA_j60ktgRXysSobZuRacmH2F8W2OQQ",
+        "width": 1679
+      }
+    ],
+    "place_id": "ChIJbWzxSET0K4gRl2peug2RWE0",
+    "plus_code": {
+      "compound_code": "CFXP+43 Kitchener, ON, Canada",
+      "global_code": "86MXCFXP+43"
+    },
+    "rating": 4,
+    "reference": "ChIJbWzxSET0K4gRl2peug2RWE0",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 9,
+    "vicinity": "525 Belmont Avenue West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4876854,
+        "lng": -80.5281253
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4891091302915,
+          "lng": -80.52672461970849
+        },
+        "southwest": {
+          "lat": 43.4864111697085,
+          "lng": -80.5294225802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "Dr. Chris Geddes Orthopaedic Surgeon",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108830080447964703631\">Chris Geddes</a>"
+        ],
+        "photo_reference": "AeeoHcJDU6WwY16yhESg0SiKRG_c_urteQ0wAUplve2BBj_rUvHHwb_PARCMJJBRf7DZfTxnw365ZDxkb5MIgBF9aa8rBVxEjC2egwvR0mcVGKmZkFzPmXo1L8feVSMc7RD_BrTgc1MjY2PsR-k6M2BeRROQ0_60D0R-iq8WBYEtQl1ukuNtyspC5-bBVRFFZYfwMxKKPuBNN88ruH43ZJSGmAHgRMhNwkXj2rR8NpUkAyNbci6hV3mZSkoK0rGcVpGme1ImzcUbvz4rVuvZm1Mcdpq8BQz5y1aS_2JXLoP5EMegwfp-F5htnMR60jNASQBiBFlL1K_eSeDrFXJAg82WZRvW6O6-OhoIcJeuaiCsnyvqK7SF0XbRjhf9xftr7daXPXiIiaGX7MWWGZNjndRx5co16exOCuE6AIko5EOUsuegRxefYOUGwMEbXEkyT1-U4B1W-t2Him-Ts5kYyl7ujzoW2VUrH6EkVr9I5VsHwTBdE_RDaTBHvPwsLB3PaEq-Pfkz76Wh7VqqKZtPfuVlpyxWkD0PyGbGXSYwHNBxYXUhuiKC_TNUUVLkB8Pvj87NdF_Va2eFLBqne1N3vJ6SFeEzbg0EZBg-K7RQiD8NCSQ7DOLVNF154BoUXzrU_xXiKYNawxqj",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJEzCmx_n0K4gRCNx4M0jjJGo",
+    "plus_code": {
+      "compound_code": "FFQC+3P Waterloo, ON, Canada",
+      "global_code": "86MXFFQC+3P"
+    },
+    "rating": 4.7,
+    "reference": "ChIJEzCmx_n0K4gRCNx4M0jjJGo",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 11,
+    "vicinity": "435 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4386027,
+        "lng": -80.5220176
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44004193029149,
+          "lng": -80.5207368697085
+        },
+        "southwest": {
+          "lat": 43.43734396970849,
+          "lng": -80.5234348302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Immigration Medical Examiners: Kitchener",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1388,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117772451993971044229\">Immigration Medical Examiners: Kitchener</a>"
+        ],
+        "photo_reference": "AeeoHcIWFffCsnn5Sj9ilL8Nj3vSZgW0hF286nMLBQrJPhri2CoMDex3oScWRiogGxJRDjP-ROb6-ISknPbOzQxnHTCMorht6QcxuAAfvY8jGM5ijrmm132WV_M9e_NZSg6h3-mXY0qp7nGMTwpRlB3R7YzfILdT3Xsjgw7pEMVS97IvyAtQl2DwPVqz1ju4uupjg3LbznD90CzQeh0OQa8GMBMZGOEUUusr-3YcEQra5FtXwzxiiGj_yWTv63rTu4YwA6dD0N6CTYtwS1ZvnYCWwkD7wWwN9mniE4vYBrw7EI20BXdPtsoOlyPuA5-vXbVP1zumWSAo",
+        "width": 3202
+      }
+    ],
+    "place_id": "ChIJHzAyhDX0K4gRDb3nnK1_0Zw",
+    "plus_code": {
+      "compound_code": "CFQH+C5 Kitchener, ON, Canada",
+      "global_code": "86MXCFQH+C5"
+    },
+    "rating": 4.8,
+    "reference": "ChIJHzAyhDX0K4gRDb3nnK1_0Zw",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 159,
+    "vicinity": "B106, 751 Victoria Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44275220000001,
+        "lng": -80.54163129999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44400498029151,
+          "lng": -80.5401835697085
+        },
+        "southwest": {
+          "lat": 43.44130701970851,
+          "lng": -80.54288153029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Canadian Cannabis Clinics - (Online & Phone Appointments Only)",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107203348362771495306\">FIRSTNAME LASTNAME</a>"
+        ],
+        "photo_reference": "AeeoHcJC5-Iupb98wcL_JovXVo92B3t4zxO2AdDDzx_0gygyft4gXcWIeH0lGs5R4qfxXmxe3vu_fzQ8VV7JSZfHIpaO_Gte3G0ZvPsTUI4lkycJ4wr3oTMA4FjRrUPaPhT7LaKaHMYX6ZF5heuX972ZQmqoDxKBesLyXxLWHUBVhpi6b7VW84QC_-BaEk4W6f5ZydkJq0-UD1_W9l0G7VdW1FOzrgH-SCvULCTWOuDCARvOwS6KkUdKnxY-MsgRWYMxZr4sBcAtpquiUbbjkIdN93iimpgFEKzPWaI8aj5Hszw-J6VmoftbGcImlkjWVj6CUFAMQzz3eMpJ0EUjjdNcis_xLTedH7zDzEF3_A-ON8curz40La79V2ND5wLTZEiIuoUmFMwC5DcdoWKWF7ofQQgmfcUjUgYpSPnPOxql3YBPG1C_aaoNN_msNh0m0vtRojcE49mIWfwtV-EA95e0YDT5XXm8H1dGnovAbOHSPaYf3QnUbWuiRJ9BaF5W0_MC6lhtibl0_ojuoAMeW7nlCJoiCYM9jN5PVhwhHM_d_Zp-bt-rzOQ3KoZYhj0ivTV0VmAO67y4U16G_g5_R-gICRUmJ8FuA2GUp4JqoQ0aenPSyiy-buXMwMGgWh2h9BJY0qHZK8Ac",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJ-asUkCn0K4gRNQ5YdEjtUeo",
+    "plus_code": {
+      "compound_code": "CFV5+48 Kitchener, ON, Canada",
+      "global_code": "86MXCFV5+48"
+    },
+    "rating": 4.2,
+    "reference": "ChIJ-asUkCn0K4gRNQ5YdEjtUeo",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 61,
+    "vicinity": "Unit 2, 885 Glasgow Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4477284,
+        "lng": -80.4885712
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4490558302915,
+          "lng": -80.4871890197085
+        },
+        "southwest": {
+          "lat": 43.4463578697085,
+          "lng": -80.4898869802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+    "name": "Pharmasave Benton Medical Pharmacy",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116121302078456294016\">Pharmasave Benton Medical Pharmacy</a>"
+        ],
+        "photo_reference": "AeeoHcKBIjv0vqCU5EgK9bKb3cNpBss3_kvx95H1I7cv08dTmCn00ylUSGlBH6HadsLzObm_n8kMCSy4IDIQEzKz2DTxJ1dKmwPeyRX_T6DRekXpDP4DW9vTX96SlnEbMUnohe6EmDdi9Ak5fOiCHXfqx2F0eX31ErLii4QFyX8ezXXZQfDhDGu5i2SMz0fXRb_-GSdtor1JD3f1Js1pNyaZDCGuwBFP1U4Mrg-HMpuKuo7ryI9t64ic-xRTTK7RvmeX4t1njE5_srYmwiLQgcCkLk3gUI5INTcRTpYBjUkmmIYkO_5xCLv3BZRTeAwNi8_qFOWwZV_n4sE",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJPW3OBfL0K4gRpPU2p8B6bws",
+    "plus_code": {
+      "compound_code": "CGX6+3H Kitchener, ON, Canada",
+      "global_code": "86MXCGX6+3H"
+    },
+    "rating": 3.8,
+    "reference": "ChIJPW3OBfL0K4gRpPU2p8B6bws",
+    "scope": "GOOGLE",
+    "types": [
+      "pharmacy",
+      "hospital",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 29,
+    "vicinity": "51 Benton Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.544946,
+        "lng": -80.55319999999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5464501302915,
+          "lng": -80.5518328697085
+        },
+        "southwest": {
+          "lat": 43.5437521697085,
+          "lng": -80.55453083029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "St. Jacobs Massage Therapy",
+    "place_id": "ChIJoUVC7_rxK4gRanRr4z7RHwU",
+    "plus_code": {
+      "compound_code": "GCVW+XP St. Jacobs, ON, Canada",
+      "global_code": "86MXGCVW+XP"
+    },
+    "rating": 5,
+    "reference": "ChIJoUVC7_rxK4gRanRr4z7RHwU",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "3099 Sawmill Road, St. Jacobs"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4254426,
+        "lng": -80.41192889999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4269060802915,
+          "lng": -80.41042386970848
+        },
+        "southwest": {
+          "lat": 43.4242081197085,
+          "lng": -80.4131218302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "WRHN @ Chicopee (formerly Grand River Hospital, Freeport Campus)",
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103081978701027925858\">Matt Li</a>"
+        ],
+        "photo_reference": "AeeoHcIicXLlM_b9BQT7Km7kFGmsGXJ5ny0MiqfUZ30GPtd3bQIAH6_B9CEHzwL07ep0abKXguUVdq1Wz7oxx9FoZQuQiaq_5XnfQ-9H9102F8FZGK7wmx6opMuxDzcJSgIrOQ_7SQTo65x-ftu8HXD2ALOUEsy4QnwgEpJQ7q0k9-hIjg8U39coDwU0lyMaKmDyVe7DOFPJZWK7DQJ6O0rnIAyPXu1ZCfWbYfah5pfBTSOLpi_qOadIJX-cEkqMHbGWIbJVct2OS2ZoLvNEgJR4M_wBdcWOPik9E6NsCW-aqwfGDHmRKhJg-_zMpR2xNwLchTCHWvOvsTNDpURATQPUHEo0JMDXtvsfl2KDpFS88QwliSyHZS045Qq4bAINAxdfmUlkwBPs-uC7Tj9fNl5NPI2zzO-jmzwWSvGMJ6KYLClirEEhczhlrr_-w--2VgPoqfqQI94PTWgFc164jcc3RR1FQj90s-xhWzyh2ip7D7cIrQctSlZXnB7eEejg9zoceKXiAcD4u4-cTqwYYLSoIjwMuaY6jR6SRh-_2k0RcmLdCzJeH8vHqo8fCJeUKyODZ0XxBM4CGcbsxWE9VelVkL8QwHBZ4QFJdwK1EyKrpOSM_sN4TnAba40lpIKMgOVVaQHNUA",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJf6gZ0_-KK4gRvgNBmoLrHbA",
+    "plus_code": {
+      "compound_code": "CHGQ+56 Kitchener, ON, Canada",
+      "global_code": "86MXCHGQ+56"
+    },
+    "rating": 3.3,
+    "reference": "ChIJf6gZ0_-KK4gRvgNBmoLrHbA",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 92,
+    "vicinity": "3570 King Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4400919,
+        "lng": -80.5661131
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4414793302915,
+          "lng": -80.56481706970848
+        },
+        "southwest": {
+          "lat": 43.4387813697085,
+          "lng": -80.5675150302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "WRHN (St. Mary's) Cardio-Pulmonary Rehabilitation",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJUUp1PNHzK4gRUJCKgWtNW-M",
+    "plus_code": {
+      "compound_code": "CCRM+2H Waterloo, ON, Canada",
+      "global_code": "86MXCCRM+2H"
+    },
+    "rating": 5,
+    "reference": "ChIJUUp1PNHzK4gRUJCKgWtNW-M",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "435 The Boardwalk Suite 308, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4578517,
+        "lng": -80.47212379999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4591497802915,
+          "lng": -80.47072661970849
+        },
+        "southwest": {
+          "lat": 43.4564518197085,
+          "lng": -80.47342458029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "GraceMed Kitchener",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105398306338315206330\">GraceMed Kitchener</a>"
+        ],
+        "photo_reference": "AeeoHcJG_pMioH4dy3hqR_OzfCdWwSVudnCppX3YmuWX4qEwmDZoZYTIjxxKmg8CtdI-ysYynaKURuueFwUZ_HNj6US8q6P4Y60mA4I2344S2LLzQsGEEMyJT11cKHB6lPK544bSzFYe-IDVWsriBHQPFNFKl9zU0kd4iT7rXXPQnaRSUDi8_d23IqwdNa2g1k_TvgV6cLd3U5cobpJ3P56NR3F0B6DXKR3y-45-1UzNVra-5obooztyBoWH1fInW-DHIPhfawdebBj5C7wg4NTKGoJdVilbuNY0RcLYq22hohGOrBL44S8weUWLSJeWqmeviOtesxavMJs",
+        "width": 6240
+      }
+    ],
+    "place_id": "ChIJrwSTjLz0K4gRc8_DHNLzIzs",
+    "plus_code": {
+      "compound_code": "FG5H+45 Kitchener, ON, Canada",
+      "global_code": "86MXFG5H+45"
+    },
+    "rating": 4.9,
+    "reference": "ChIJrwSTjLz0K4gRc8_DHNLzIzs",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "spa",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 93,
+    "vicinity": "150 Edna Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46827569999999,
+        "lng": -80.5164142
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4695723302915,
+          "lng": -80.5151534197085
+        },
+        "southwest": {
+          "lat": 43.4668743697085,
+          "lng": -80.51785138029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "Bridgeport Consultant Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 640,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104747555743690863194\">Bridgeport Consultant Clinic</a>"
+        ],
+        "photo_reference": "AeeoHcJzBEVFOgHPHLH3pHdjtN-tZnocXlfgaiCz1gRKr4JnsJoj757mP9PIwab8aYWwCWTfaJqTbTCRqduk3Fmc7EjKEQKpATbJHSpxWzoQPUaDfhoO32nsf3xUSlPP3izCVA23_MCoKTQyRWRAnEVvAuFEdyG-HNPw_elOt85PrZdU8kasy7gzAMJdmj7-2ZQIvVzWofApz5QpcJzEPs-UZo6OU8lQtJLqfgftjAzU16FtvHxNA_p64j5dMKNry11nA1a1vRnJ_ELaWgCQhtKmr3Mo9HNg_WNO5lnv_fDx4ETeto62SnNKX9ufnyXY_7EyZqN6KVr6Sbw",
+        "width": 480
+      }
+    ],
+    "place_id": "ChIJ3wIMSWf0K4gRhskDIQjQSTg",
+    "plus_code": {
+      "compound_code": "FF9M+8C Waterloo, ON, Canada",
+      "global_code": "86MXFF9M+8C"
+    },
+    "rating": 3.1,
+    "reference": "ChIJ3wIMSWf0K4gRhskDIQjQSTg",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 35,
+    "vicinity": "65 Bridgeport Road East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.43376719999999,
+        "lng": -80.43982659999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.43520258029151,
+          "lng": -80.4385548697085
+        },
+        "southwest": {
+          "lat": 43.43250461970851,
+          "lng": -80.4412528302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Kitchener Waterloo HL Family practice & Walk In Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 768,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114181609465339381553\">Kitchener Waterloo HL Family practice &amp; Walk In Clinic</a>"
+        ],
+        "photo_reference": "AeeoHcITezKpANqWuDvwffhtV0eHGY0NRXBGeYik_BIVz2b36lczCuon04cMZ4Nh-uabrjxYd75OCDlO5og9KSSyEQ4AFWW_2n-7z1AKSGEMVy-gJA2T0BQVSpb0z8Yla3u9GS_edkmAGJD-fQ3ZCDGHYxBy9X_dTToS-a61kf3w9Q7uSZqYUymvzzHBKqg_OhtctOrHaf4SNgPSeBrNRIGD7Mq4WuMWrmZLAQQPUroLQtVga6SVjH__e3-EWl7Y4FyfzMbWrISAJB91yHxr56IKpASwpB7eSRgdXXCv2vvti0E5dG8O8wZYfMP_Fm3mUP0zKWE_Mi5RH0I",
+        "width": 1024
+      }
+    ],
+    "place_id": "ChIJOcQEkCaLK4gRVD4LyBV_irM",
+    "plus_code": {
+      "compound_code": "CHM6+G3 Kitchener, ON, Canada",
+      "global_code": "86MXCHM6+G3"
+    },
+    "rating": 4.2,
+    "reference": "ChIJOcQEkCaLK4gRVD4LyBV_irM",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 232,
+    "vicinity": "1360 Weber Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4681227,
+        "lng": -80.5206829
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46954973029149,
+          "lng": -80.5194271697085
+        },
+        "southwest": {
+          "lat": 43.46685176970849,
+          "lng": -80.52212513029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Anthony Davies Family Practice",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1702,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109018041376156642759\">Dr. Anthony Davies Family Practice</a>"
+        ],
+        "photo_reference": "AeeoHcL4reaUQBcFzs6b35Vi8wE1-O68I1JKjfHWcA_a5-SSyMQqoXYuAUkd7tcuRcS2Nt1pyv_EqKpu_IwUxZR1w8lzVD0oDk3Akvoigpe8S6a5OwqXGNQUeUI16ltf2pwoVAAnojcvwDtsYOMsjrZFfdaIcq4UYM3m1zKByiPx64j-nSXGFV26aiMkFguoOLLb84TZOvRSMz5d-KKpXNi9C4YVjTSfE-VzLwn0mBO0R_ew7AzxRkLqlQ6unjVgeAeyS__1exf64vR6kSyTTvWUIgsXbhBuoxWEZTXhedyB31QnEvP-W98YiaJbNVNG3mgIH3nTQd0L51w",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJ898bKkL1K4gRzsnU8HUQKSc",
+    "plus_code": {
+      "compound_code": "FF9H+6P Waterloo, ON, Canada",
+      "global_code": "86MXFF9H+6P"
+    },
+    "rating": 3.2,
+    "reference": "ChIJ898bKkL1K4gRzsnU8HUQKSc",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 54,
+    "vicinity": "38 Bridgeport Road East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4621449,
+        "lng": -80.5299364
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46355033029149,
+          "lng": -80.5284895197085
+        },
+        "southwest": {
+          "lat": 43.4608523697085,
+          "lng": -80.5311874802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "Underhill Residential Home",
+    "place_id": "ChIJ5SAg4xD0K4gRcHwkP2C43qA",
+    "plus_code": {
+      "compound_code": "FF6C+V2 Waterloo, ON, Canada",
+      "global_code": "86MXFF6C+V2"
+    },
+    "reference": "ChIJ5SAg4xD0K4gRcHwkP2C43qA",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "127 Erb Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45657059999999,
+        "lng": -80.5134494
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45773913029149,
+          "lng": -80.51094030000003
+        },
+        "southwest": {
+          "lat": 43.4550411697085,
+          "lng": -80.51445669999998
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "GRH Mount Hope",
+    "place_id": "ChIJexd1IlX1K4gRCcn5HoE1VaI",
+    "plus_code": {
+      "compound_code": "FF4P+JJ Kitchener, ON, Canada",
+      "global_code": "86MXFF4P+JJ"
+    },
+    "reference": "ChIJexd1IlX1K4gRCcn5HoE1VaI",
+    "scope": "GOOGLE",
+    "types": [
+      "pharmacy",
+      "hospital",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "vicinity": "835 King Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4555496,
+        "lng": -80.5133374
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45697983029149,
+          "lng": -80.5119398697085
+        },
+        "southwest": {
+          "lat": 43.4542818697085,
+          "lng": -80.5146378302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "Canada 39 Medical Center",
+    "place_id": "ChIJn_zEtGn0K4gRAl7Ayeeoyeo",
+    "plus_code": {
+      "compound_code": "FF4P+6M Kitchener, ON, Canada",
+      "global_code": "86MXFF4P+6M"
+    },
+    "reference": "ChIJn_zEtGn0K4gRAl7Ayeeoyeo",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "475 Park Street Unit 301A, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4570526,
+        "lng": -80.51017209999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4582920302915,
+          "lng": -80.50894336970849
+        },
+        "southwest": {
+          "lat": 43.4555940697085,
+          "lng": -80.5116413302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Grand River Hospital - outpatient mental health services",
+    "place_id": "ChIJzQRRJmb0K4gRX6_0mP06H8M",
+    "plus_code": {
+      "compound_code": "FF4Q+RW Kitchener, ON, Canada",
+      "global_code": "86MXFF4Q+RW"
+    },
+    "rating": 2.1,
+    "reference": "ChIJzQRRJmb0K4gRX6_0mP06H8M",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 17,
+    "vicinity": "850 King Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4534079,
+        "lng": -80.5183837
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4548126802915,
+          "lng": -80.5169166197085
+        },
+        "southwest": {
+          "lat": 43.4521147197085,
+          "lng": -80.5196145802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "KW Vein Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1325,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113498270599101651834\">KW Vein Clinic</a>"
+        ],
+        "photo_reference": "AeeoHcJSPH8E8I1b1rBmn0128ZxOI6L4KJrbi6fa0p3rC4obpXkp0rht45AOM_IEYnOAw5sxC5mqldu3b2VQh7DyoCqNjpwFxIC7jlXErzE_9Reu30vGZFrYbrZEq3y14H7dQE7fzDEUEahfR6IoGLYrTafGDa9c1JaihzYUjTCOeEU-JzJOzBdH5nRGJmptG46Jiu8s_JrjUAeZn6IK6ZiDVdDvbmXh_9y06CiXJeiXB0eZ9g5sx6tVdS7vT8Ab7IcaMtIm8xt4MWEJY9S1ysovAUQmE5HoM7lnbTo9Yl3S4jHiEj9j3oAhpfb79zLKoHOjJOPEtmwsjYA",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJAQDw3mj0K4gRcdKS9xjEZX4",
+    "plus_code": {
+      "compound_code": "FF3J+9J Kitchener, ON, Canada",
+      "global_code": "86MXFF3J+9J"
+    },
+    "rating": 4.8,
+    "reference": "ChIJAQDw3mj0K4gRcdKS9xjEZX4",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 102,
+    "vicinity": "693 Belmont Avenue West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4566789,
+        "lng": -80.50801
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4581043302915,
+          "lng": -80.5066585697085
+        },
+        "southwest": {
+          "lat": 43.4554063697085,
+          "lng": -80.50935653029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "PCC Pain Care Clinics Kitchener",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 587,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114906525392141165635\">PCC Pain Care Clinics Kitchener</a>"
+        ],
+        "photo_reference": "AeeoHcKxSsHvOHBp9hsu2UlRRBAGwkEICCohm8HryFh0GNSdFLQWq9LvaEkZ_RE7ORfrBTm6eDMCPPQKyXHg-4KSMkU6SB6zdAXAIS47MXZwDTnv0uHyHeTkCrxvQoNn2wFxNbyxJdoNzBuP9eIZFeKqx--HiHSyN9CU6AW3YAbzyT8h9GPayOWjG2yK0CJCFFsCnqT0MC5lX9ZwYsi17WpD6SKF5fcHv_X68CjoMSxu1KhxD3lhIjp3-Yv1wMoO5uEzJmRUPaIavNNyxxv5SrAcPNe6Rm9ye8qLSQzx6QbGTKuMQQ2QnoL89Bo-L9Sn8ZPvtaf66r2h",
+        "width": 1810
+      }
+    ],
+    "place_id": "ChIJNaq3UPT1K4gRDYPevi2Ly9A",
+    "plus_code": {
+      "compound_code": "FF4R+MQ Kitchener, ON, Canada",
+      "global_code": "86MXFF4R+MQ"
+    },
+    "rating": 4.5,
+    "reference": "ChIJNaq3UPT1K4gRDYPevi2Ly9A",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 77,
+    "vicinity": "800 King St W Second Floor Unit B, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4733364,
+        "lng": -80.5333493
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4745969802915,
+          "lng": -80.5319338197085
+        },
+        "southwest": {
+          "lat": 43.47189901970851,
+          "lng": -80.5346317802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "Jihyeong(Elin)Kim",
+    "place_id": "ChIJ62FWAMn1K4gRh0K-PySC8G8",
+    "plus_code": {
+      "compound_code": "FFF8+8M Waterloo, ON, Canada",
+      "global_code": "86MXFFF8+8M"
+    },
+    "reference": "ChIJ62FWAMn1K4gRh0K-PySC8G8",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "110 University Avenue West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4612503,
+        "lng": -80.5379238
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4626267802915,
+          "lng": -80.5366403197085
+        },
+        "southwest": {
+          "lat": 43.4599288197085,
+          "lng": -80.5393382802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Waterloo Foot and Orthotic Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109072247207095543336\">Waterloo Foot and Orthotic Clinic</a>"
+        ],
+        "photo_reference": "AeeoHcKIiGgIjWPlJo9bIZ9ZRV_96MDWzkmIbnEbw27pn5nxdEXyk956gY712fPnFT_duum7MqWarIDKP01cP3FCSlfFjatdJdEKw22ImzHwm8rAsbQlwasZQWx7D-fMdDkGDTI81XAkLlpVEsU-29JE5Aia_PVHk4qSx8Pltv0x6rt_tWU4svhnvhd9UmRAjP-W5_LoM7GWZvkrQTu_VT6X0SVFJgVs5I30t7G7Lo7J1HcF5JuxeW_qhpQcourmCEARDKOnwRFelS1DrjbB4lvVnSm2pVIjCi-kTrJALd5iosCJ5vL6qUVKzwHT3-98uobI86lCrj-Pc28",
+        "width": 6000
+      }
+    ],
+    "place_id": "ChIJZ1VV4Rv0K4gRqDO_ZZNo-EM",
+    "plus_code": {
+      "compound_code": "FF66+GR Waterloo, ON, Canada",
+      "global_code": "86MXFF66+GR"
+    },
+    "rating": 5,
+    "reference": "ChIJZ1VV4Rv0K4gRqDO_ZZNo-EM",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 482,
+    "vicinity": "50 Westmount Road North #215, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45021240000001,
+        "lng": -80.51541929999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4515041302915,
+          "lng": -80.51426851970848
+        },
+        "southwest": {
+          "lat": 43.4488061697085,
+          "lng": -80.5169664802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "Belmont Professional Building",
+    "photos": [
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107646621512562749262\">Dean Hickey</a>"
+        ],
+        "photo_reference": "AeeoHcLPsqrvminH-0BVZYL6tmCdMAm0KG7YFqJUsIHr1eGst_-_HOyiJTMxuyFbX1xn1fisgEekyiAHWmdJxix_bPH9qS475AwAwpdeuNBur47-ki9KBeCzo3g_-vz-o5FlUCjaBANLxgDsecOOZ2egkahUD65F8_YXFp7rDtTlumzM3Fta1-JBbJs4ClpsUuQ_QCqwZMBy3WbcMBNVc8SBh48coTZO5uY5YFP7q-_N8_j6wl2OW4QcZLrgxhvTe0BcSPSZhfiVuOVqN19qVNG-xN9let3GDQ8pZiy6jo0WZjdI6utJLQmbTyw5l0b1GiV11tp3hFYaZyLOHi5PBSvquu9LJFIwXkpah23iTduU_rRYcOMLSPi8ZFCGPSKm1JO86r1MkFv0QibEScTQ7i_jnGuwpLV3iXWxBoZzje72Eu-qaDIpLFa090-6f8ACQK_QY52-oqP_B5Pxug_NqL9OL_qO9Hk-EeqFz2JkiwzCwbQlpk3Ka3YHQQ2WDit3wqFrcF2q1fRFBR118bvrSg4W_nTDuBguy0x2gNdrc7IhhfSa__le1dtvvWJDfcyhZXSP-zgKNNHo9KutbQJQZppN-ReKIOvwVpzgn1qSTZktgZbdDY0yJb55ttSkf7mP2_USJGwWYQ",
+        "width": 4080
+      }
+    ],
+    "place_id": "ChIJE0QUYEH0K4gRSR8ZEAG5StQ",
+    "plus_code": {
+      "compound_code": "FF2M+3R Kitchener, ON, Canada",
+      "global_code": "86MXFF2M+3R"
+    },
+    "rating": 3.7,
+    "reference": "ChIJE0QUYEH0K4gRSR8ZEAG5StQ",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 11,
+    "vicinity": "564 Belmont Avenue West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4502038,
+        "lng": -80.5154458
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4514898302915,
+          "lng": -80.51427506970849
+        },
+        "southwest": {
+          "lat": 43.4487918697085,
+          "lng": -80.5169730302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "The HeadworX Clinic- Abdel Kaleel MD MSc",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102890020292960485051\">The HeadworX Clinic- Abdel Kaleel MD MSc</a>"
+        ],
+        "photo_reference": "AeeoHcIHM5lEgC9wMlHv_hXdARe7FSFl3r3FO69OD9i6ZRk9iHoPjdEJZ7Vsr9OJG4aN3Jr7-oyozhOFHKMrCaPPXxt40z0daiZW0zWG-E9hzSr9dQlqc-xOoZTK3fsmeAKP0S68sg1g6tsRAUYeSQxXnFhpZ9Ic29fBShoi9nD_qyC8akIxA9bKjxRhPtwYt8r142SkQHNvY7BlnRDNJA18zlEpIB5UP_cSEguqwCERuA0hgqvcuHTx8R3SwE4A0G4y0PmXXY9aAiGSGRrwit2EZbrpipx9h53-n74uFGKDnuhgFIZfs0ccQzcJGrm6iv-lC-6vk3I6oQs",
+        "width": 6000
+      }
+    ],
+    "place_id": "ChIJp5G4frH1K4gRyFFB2Ti0Yx8",
+    "plus_code": {
+      "compound_code": "FF2M+3R Kitchener, ON, Canada",
+      "global_code": "86MXFF2M+3R"
+    },
+    "rating": 5,
+    "reference": "ChIJp5G4frH1K4gRyFFB2Ti0Yx8",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 11,
+    "vicinity": "564 Belmont Avenue West Suite 102B, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4829771,
+        "lng": -80.5259987
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.48443693029149,
+          "lng": -80.5247549197085
+        },
+        "southwest": {
+          "lat": 43.48173896970849,
+          "lng": -80.5274528802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+    "name": "Waterloo Guardian Pharmacy",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108786034439130362808\">Waterloo Guardian Pharmacy</a>"
+        ],
+        "photo_reference": "AeeoHcIlqI87nDU_Cd2lm7o0D5m8L27NURWCdZ4JjPtLhvT6rNEEFCXFXtpS_gWdFJaMxZjsGjbcOqsISwbDChZ1wYRwl7qmTpYOsvB8vf85ua_ho4FOzlVFWqkAA4YUQNVm4r5nz0MnyUEqIVwvql8s98llz4Qgveq18ikEukIuvw8EK1P83omi0axsbtyv8vIsRYTultTloPscCfY4UzAr20JJoJex5nYkCMslCtqnO_RfzdzM4YxExvaTgfLTtTufg6Q4kko9RFaX89kIX1jTPL-NWhwUAbu-2KpR15Qd_iG--rfjFkozer_rjidNP1U4tjXfqOpOxTw",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJyejI3InzK4gRL3d3FHeyeqY",
+    "plus_code": {
+      "compound_code": "FFMF+5J Waterloo, ON, Canada",
+      "global_code": "86MXFFMF+5J"
+    },
+    "rating": 4.6,
+    "reference": "ChIJyejI3InzK4gRL3d3FHeyeqY",
+    "scope": "GOOGLE",
+    "types": [
+      "pharmacy",
+      "hospital",
+      "health",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 27,
+    "vicinity": "380 King Street North Unit 5, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45113159999999,
+        "lng": -80.4978594
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45260923029149,
+          "lng": -80.4969823197085
+        },
+        "southwest": {
+          "lat": 43.44991126970849,
+          "lng": -80.49968028029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "New Dawn Medical",
+    "place_id": "ChIJK-dZNdz1K4gRVidpmzfqpXo",
+    "plus_code": {
+      "compound_code": "FG22+FV Kitchener, ON, Canada",
+      "global_code": "86MXFG22+FV"
+    },
+    "reference": "ChIJK-dZNdz1K4gRVidpmzfqpXo",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "121 Charles Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44275220000001,
+        "lng": -80.54163129999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44400498029151,
+          "lng": -80.5401835697085
+        },
+        "southwest": {
+          "lat": 43.44130701970851,
+          "lng": -80.54288153029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "Glasgow Mews / Canadian Cannabis Clinic",
+    "place_id": "ChIJa65skCn0K4gRaLiIhZcPqmo",
+    "plus_code": {
+      "compound_code": "CFV5+48 Kitchener, ON, Canada",
+      "global_code": "86MXCFV5+48"
+    },
+    "rating": 4,
+    "reference": "ChIJa65skCn0K4gRaLiIhZcPqmo",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "Unit 2, 885 Glasgow Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.442403,
+        "lng": -80.5428817
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4436443802915,
+          "lng": -80.54155486970849
+        },
+        "southwest": {
+          "lat": 43.4409464197085,
+          "lng": -80.54425283029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "Beechwood Forest Medical Centre",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 5120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103374279137061871762\">Marion G</a>"
+        ],
+        "photo_reference": "AeeoHcIFillJVCp4kgg3zv8s0F-I8efUN6lVbBDc-A8KT2B8x7bqqkjU4EnAhiMHvLbeo8-E0_-K61Is68fgpclnQP0Ra3hdFK_Ti3-lOEZmu57jav_yk8iEy0FtHjYs6aRfGECGbAkzVZZmGuACilZp9dtffEHLNhBLuSvWQG8QE9ZhpOAI0CZjkU74wuBzKnXruvqqVv3ZMe7HHtWI5YWZ3h8McHPm7JVO0vjDnCxRRPbuot8FKJF4xav0_ROVtzH-efmr7Zf83UpikuUQvTyv6B0gRNNm182f15QK9BN5Tex0gmptb0usuwGXGkCsGDFrh-UOz20HqDsPr2skIQ8JU5Q4lUYEaXxqLdP2brngPxBQXvC1VO4Wl2-30Qpd9Fa7LnvFxO2x_LlTyIPibZheQ1vrL48tW2aaH8FgLBF-St4aASiOn6F2meCFSZnamYqgpEb4fRGNLxN0Mcwzjck8WutrwFpdVihzIuFZ4K6kYB9fSCgbjdyB6a86OSb1BWxgWV1tUIkpYnK1D_pTXeJRP6YxT1BkP4uZJODhuBeEUAAf7GR41MFV0Sx-9SeKPdb-UYgTX7aVMJDdPmuzOdxfeudnohHa8fY7pF0dNN91-G2VBhsRMUF3b9c2rYzFSxf3",
+        "width": 3840
+      }
+    ],
+    "place_id": "ChIJMRd49yn0K4gRMt4jmDoG-K0",
+    "plus_code": {
+      "compound_code": "CFR4+XR Kitchener, ON, Canada",
+      "global_code": "86MXCFR4+XR"
+    },
+    "rating": 2.9,
+    "reference": "ChIJMRd49yn0K4gRMt4jmDoG-K0",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 43,
+    "vicinity": "890 Glasgow Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4477284,
+        "lng": -80.4885712
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4489827302915,
+          "lng": -80.4873256197085
+        },
+        "southwest": {
+          "lat": 43.44628476970851,
+          "lng": -80.4900235802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "Cardio clinic",
+    "place_id": "ChIJ3zT5cgD1K4gRZtZ8M7LZ640",
+    "plus_code": {
+      "compound_code": "CGX6+3H Kitchener, ON, Canada",
+      "global_code": "86MXCGX6+3H"
+    },
+    "rating": 2.1,
+    "reference": "ChIJ3zT5cgD1K4gRZtZ8M7LZ640",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 11,
+    "vicinity": "51 Benton Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4663568,
+        "lng": -80.5601411
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46769648029149,
+          "lng": -80.5589426197085
+        },
+        "southwest": {
+          "lat": 43.4649985197085,
+          "lng": -80.56164058029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Yakky Duck Speech and Language Services",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104899922306191368621\">Yakky Duck Speech and Language Services</a>"
+        ],
+        "photo_reference": "AeeoHcKeN9947TvYi_lT7JzmnThdoEM4wp7hJBij2LpmEEZd5K1vuYtXECI-TIzBTjsnZYz_3Pa-32POXQwP52BVXwmSmTn2qbbXcSz3LIPJ7vUrjjSA7opqv6rYRqIDfPrqf4suTO78ZUJhRnXe9I6PrGlmwjQ41y3od3pG4mC38K0sqXz4gbtwEFSpZSSDD_9niYjTOWTG19Zjzw-MVZD_B02-4IEqn5oW6ZW3U-MaihXaWuGsU9sOQ4AgJwbg8deDwEy33oaR4dueF6RCgy401juhFnJI2L_1pDah9_jgcNangmwVjxn_zwhijEbb0UTsitOjyNPO5K8",
+        "width": 1000
+      }
+    ],
+    "place_id": "ChIJqxBnIuT3K4gRNi7VmOBXwXI",
+    "plus_code": {
+      "compound_code": "FC8Q+GW Waterloo, ON, Canada",
+      "global_code": "86MXFC8Q+GW"
+    },
+    "reference": "ChIJqxBnIuT3K4gRNi7VmOBXwXI",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "312 Beechlawn Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4474327,
+        "lng": -80.4879701
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4488404802915,
+          "lng": -80.4867292197085
+        },
+        "southwest": {
+          "lat": 43.4461425197085,
+          "lng": -80.4894271802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "BMC",
+    "place_id": "ChIJSdQ7NwD1K4gR9uzB-nfuIeY",
+    "plus_code": {
+      "compound_code": "CGW6+XR Kitchener, ON, Canada",
+      "global_code": "86MXCGW6+XR"
+    },
+    "reference": "ChIJSdQ7NwD1K4gR9uzB-nfuIeY",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "60 Church Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4516755,
+        "lng": -80.556883
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4530842802915,
+          "lng": -80.55547051970849
+        },
+        "southwest": {
+          "lat": 43.4503863197085,
+          "lng": -80.5581684802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "Waterloo Anti Aging",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJXS3sXOf3K4gR6skKnJPb7-M",
+    "plus_code": {
+      "compound_code": "FC2V+M6 Waterloo, ON, Canada",
+      "global_code": "86MXFC2V+M6"
+    },
+    "rating": 4.3,
+    "reference": "ChIJXS3sXOf3K4gR6skKnJPb7-M",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6,
+    "vicinity": "445 Beechwood Place, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4382883,
+        "lng": -80.50079749999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4396104802915,
+          "lng": -80.4999501197085
+        },
+        "southwest": {
+          "lat": 43.4369125197085,
+          "lng": -80.50264808029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "WRHN Cardiac Care Centre",
+    "place_id": "ChIJ8wlk3VX0K4gRChtB8D8qNn0",
+    "plus_code": {
+      "compound_code": "CFQX+8M Kitchener, ON, Canada",
+      "global_code": "86MXCFQX+8M"
+    },
+    "rating": 4.8,
+    "reference": "ChIJ8wlk3VX0K4gRChtB8D8qNn0",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6,
+    "vicinity": "911 Queen's Boulevard, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4378146,
+        "lng": -80.501644
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4392498802915,
+          "lng": -80.50021626970849
+        },
+        "southwest": {
+          "lat": 43.4365519197085,
+          "lng": -80.5029142302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "Kitchener-Waterloo Heart Rhythm Services",
+    "place_id": "ChIJ____yFX0K4gRV2DNKQCESak",
+    "plus_code": {
+      "compound_code": "CFQX+48 Kitchener, ON, Canada",
+      "global_code": "86MXCFQX+48"
+    },
+    "reference": "ChIJ____yFX0K4gRV2DNKQCESak",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "911 Queen's Boulevard, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4377517,
+        "lng": -80.56004329999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4390508302915,
+          "lng": -80.55858586970848
+        },
+        "southwest": {
+          "lat": 43.4363528697085,
+          "lng": -80.5612838302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "Westvale Health and Wellness Centre",
+    "place_id": "ChIJ36CdGCD3K4gREyL1vL70gYk",
+    "plus_code": {
+      "compound_code": "CCQQ+4X Waterloo, ON, Canada",
+      "global_code": "86MXCCQQ+4X"
+    },
+    "rating": 5,
+    "reference": "ChIJ36CdGCD3K4gREyL1vL70gYk",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "520 University Avenue West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44035999999999,
+        "lng": -80.56496
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44157028029149,
+          "lng": -80.56353956970848
+        },
+        "southwest": {
+          "lat": 43.43887231970849,
+          "lng": -80.5662375302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "Medical Centre 1 at The Boardwalk",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110645329527937072282\">Gheorghe Curelet-Balan</a>"
+        ],
+        "photo_reference": "AeeoHcKzQilznVycXiSK7KXT2viTLq2U7XJPN398aD7F9JDpNH2cSOMtDbjQF_YZOB4cUC9FKSaHNV1wF-tIft5IAJvvRc8TcnlLsoy4XeB-KcZ3FtGaB0Aaw8JdR_y168au8BoFRzf0gjshj2Rr-6OeRGFQCuNBLA9QZPb6cbekbNV7AVZhIzkV6_1RxFgLdxWMJIq1pMpaMsxoCkofRE7kk9bpjKs82b7dygcTPrUCiB1aHwCImz5mMUsX3rL0dcqgD55-aOrdF9Rmgomf1335omsokaIAwARzj0hQSLufA8MIFbzfleHl9YzKWG9sTA1lHjB1pfH4wkELMtg1MyzeqM8YTzU-CHH3Yt24gJbiBJYQ0TXy1Q8VCYGxcDPQ7EeHycOA8Q9P0EEU4s87PhwNG0NHixQr0ZrCVM6XPEnLUCll8TKs6SykTsMh-b0PNLOLZyqMk4XMW8eLfZ-oULL1EU29B2s_Lani0d_Gwfi6Ex6h2ciYx3gWU5ewb8UsDUKfDpvofMNVVoXB_ypWoX8BXQ3CCLuytJ0nFgxqAj-UMz0AUjX3QmIPTAQsVJMrm6r26D4URSbKK8MN9kMv25RS8b64NpiJW1ZPbdxounCP6xn2zO4JEuMYtOfslyHlJjosOv7xuA",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJ5Xk1l4r2K4gRvz1kr5VcWsQ",
+    "plus_code": {
+      "compound_code": "CCRP+42 Waterloo, ON, Canada",
+      "global_code": "86MXCCRP+42"
+    },
+    "rating": 2.9,
+    "reference": "ChIJ5Xk1l4r2K4gRvz1kr5VcWsQ",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 117,
+    "vicinity": "430 The Boardwalk, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4401352,
+        "lng": -80.5648588
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4414584802915,
+          "lng": -80.56349091970849
+        },
+        "southwest": {
+          "lat": 43.4387605197085,
+          "lng": -80.5661888802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "桃子医院",
+    "place_id": "ChIJJ6KsqED3K4gR3F7y-WEyogA",
+    "plus_code": {
+      "compound_code": "CCRP+33 Waterloo, ON, Canada",
+      "global_code": "86MXCCRP+33"
+    },
+    "rating": 5,
+    "reference": "ChIJJ6KsqED3K4gR3F7y-WEyogA",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "430 The Boardwalk, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.440173,
+        "lng": -80.56493739999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4414686302915,
+          "lng": -80.56354926970849
+        },
+        "southwest": {
+          "lat": 43.4387706697085,
+          "lng": -80.5662472302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Westside Family Health",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJkb0WcgD3K4gRMSLmzdO02OI",
+    "plus_code": {
+      "compound_code": "CCRP+32 Waterloo, ON, Canada",
+      "global_code": "86MXCCRP+32"
+    },
+    "rating": 4.5,
+    "reference": "ChIJkb0WcgD3K4gRMSLmzdO02OI",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 8,
+    "vicinity": "430 The Boardwalk Suite 409, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.440173,
+        "lng": -80.56493739999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4414686302915,
+          "lng": -80.56354926970849
+        },
+        "southwest": {
+          "lat": 43.4387706697085,
+          "lng": -80.5662472302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "430 The Boardwalk",
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117469303087720445655\">430 The Boardwalk</a>"
+        ],
+        "photo_reference": "AeeoHcKFdn24ZePpe5uDs6sQwoaUtcjasevxkO9Iitee1pQGdlVutrInUPx0ksUYd3dzDR1eozel5W8qtZ370ITxRBriOUXC7Sd0Ldp2NCxe8Rrwg_f9Mtgb4x9dJc7dYH_s5y9lP62vqsFYNlcMMoK8HJXPt098qGYtXkEHa_vmP3V4aLQnUjD4P2Krnja-01lZwM-F7GU-o4F-3wS5WVX9CSnHt7R2K3SLvZ0hD3YzXDKBt9nFK5ye_sKtEpoRSmKd80dUMX4PxjwtDWcz7y7QjmXmPO-EgJjTAA1q0mjIxWMmglML5KH2ZGhe6C-BmUX2gO7fWDZUlxM",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJ4VLpwWX3K4gRE2rjYzRiZRM",
+    "plus_code": {
+      "compound_code": "CCRP+32 Waterloo, ON, Canada",
+      "global_code": "86MXCCRP+32"
+    },
+    "rating": 3.7,
+    "reference": "ChIJ4VLpwWX3K4gRE2rjYzRiZRM",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "430 The Boardwalk, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5046502,
+        "lng": -80.52564009999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5059139302915,
+          "lng": -80.52423186970849
+        },
+        "southwest": {
+          "lat": 43.5032159697085,
+          "lng": -80.5269298302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "Dr.Nicolas",
+    "place_id": "ChIJqY2sHwDzK4gRUS542knpypk",
+    "plus_code": {
+      "compound_code": "GF3F+VP Waterloo, ON, Canada",
+      "global_code": "86MXGF3F+VP"
+    },
+    "reference": "ChIJqY2sHwDzK4gRUS542knpypk",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "99 Northfield Drive East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4387751,
+        "lng": -80.5640846
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4401240802915,
+          "lng": -80.5627356197085
+        },
+        "southwest": {
+          "lat": 43.4374261197085,
+          "lng": -80.56543358029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "Mark Schito",
+    "photos": [
+      {
+        "height": 1711,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105043200317752844190\">Mark Schito</a>"
+        ],
+        "photo_reference": "AeeoHcI3Nus9ne3AoTn8IBnraE5j8hpeJaxePu3k3g86-0dmggwaQGkEw0pDY241MJgpywwqVLVgx6Hwkg6BeDwC_40FjvPtCbVWzhSh7hWTZxRMSwtlIdQBlE_GQIffv1YJexcjSARz0To9L9Tarzyr43nodRu3b-7GEyYkMmn62gGk_9BtwmCpkRN0WmYJhqHd-TV0SyrT7dcVkOFqaCVDnJuvRrp5WTPkAAmveLg_0WPKilvURjRlorfQYQZpLJ55bfPU7e_q1oXl3Yd6aOOTZMK2RETpNpuqeajOAm5vovv45m8mbtP-XOBpPyYKTAkWi_OFxbS6Fqk",
+        "width": 3637
+      }
+    ],
+    "place_id": "ChIJua5aCkj3K4gRwHLjgtfAqko",
+    "plus_code": {
+      "compound_code": "CCQP+G9 Waterloo, ON, Canada",
+      "global_code": "86MXCCQP+G9"
+    },
+    "reference": "ChIJua5aCkj3K4gRwHLjgtfAqko",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "430 The Boardwalk, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4400927,
+        "lng": -80.5662835
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4414396802915,
+          "lng": -80.5649323697085
+        },
+        "southwest": {
+          "lat": 43.4387417197085,
+          "lng": -80.56763033029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "SK Family Medicine",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1724,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113158727869633303723\">SK Family Medicine</a>"
+        ],
+        "photo_reference": "AeeoHcKJSO_FM1NQz8uiWSQgHdga6vlnMrIAZp_QvRlNrfbRGgFrr1jIY10RnSfeoafd1Qn7y52JrgTjQyrsfoKGKFvzDXhWU7nlPqyt-_XGc0JBECHwh4acpM9J122uZlDw3krHDnlQtySoXQK_Cf-a-1VpI1IYCQzCA9cIFizKX6O1Rdh8cBVjZkvAX-LI6nohwRkTsIfh0YNWTiHqwAaflEu2LKDtuz08OfHBgFoMf9mND59BmQZ9k_RwuIbl-5_r60x6gxrudXTnB0k5vTcLJixBX5YYMmJ8OB1R7fiB0Rm2ITVUFSow3yAvyDYa_lJzjDlwThEIGVw",
+        "width": 3242
+      }
+    ],
+    "place_id": "ChIJF7FQdPX3K4gRpN_TLajYjR0",
+    "plus_code": {
+      "compound_code": "CCRM+2F Waterloo, ON, Canada",
+      "global_code": "86MXCCRM+2F"
+    },
+    "rating": 3.6,
+    "reference": "ChIJF7FQdPX3K4gRpN_TLajYjR0",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 26,
+    "vicinity": "435 The Boardwalk Suite 408, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4400777,
+        "lng": -80.5662827
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4412226802915,
+          "lng": -80.5647223697085
+        },
+        "southwest": {
+          "lat": 43.4385247197085,
+          "lng": -80.56742033029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "Medical Centre 2 at The Boardwalk",
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104725134034633839647\">Cynthia Voisin</a>"
+        ],
+        "photo_reference": "AeeoHcK3Cki7JCjLrCWFXAwdXWHsUYE7WSFVkC0oqutJ5qe2GKPvk6OXamrKti1EjRam7t5M5tDrRomCi1LUVkYOht2SNR22JwuHVHL75-y-PUzi4vj9fjD0gx_HZPLVSU4g3L6uUB2qUSllkqLx_1o4NSQ6uqgUMWScz3OE590Pg1849IqAV9r3MXNDj_lR-6I-lj6mbVACfNsynyseSfmgEP1PVpFk6elj2T-K-Tohi-JcWHka6qc7eIrN2qJds4I5bdmF4z6XCEEwGFgVFjK3gQrPpfFnJ2Hl-NjPoKwohhBE6wUYkR6WQdicED60NDMOYhKQA3Z9el8dABEIYAr4cNOzjXr138xORJpZNHZ3wwSCNjdpWwY8xvVr29iIjyfVu6-9SBRccOZDdOQD8K2X_NpQ4iupY5paNBkjqoWzCuOQ1BZthQmeeKQxK8a5xCokslktm6HLsXf0kDlDzf96q43pxH1VupDP5BVF2aivUEstEzLRqVu_pVVyEG-hlUkPhmfYVwPigA_tWRJuLYS3K5fgZWwMozBlYS9FTgFuJIA-lvHktLeY4nneJAbXRNKh-4Hp4Egydo3IvBaejtlKlhniaUicXz6h5XW_Uvjl1KlsmdYlKCCvFj4UT7-xNdPeE-ZH6A",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ40_96rP3K4gR53RjXds398Q",
+    "plus_code": {
+      "compound_code": "CCRM+2F Waterloo, ON, Canada",
+      "global_code": "86MXCCRM+2F"
+    },
+    "rating": 4.4,
+    "reference": "ChIJ40_96rP3K4gR53RjXds398Q",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 33,
+    "vicinity": "435 The Boardwalk, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4401221,
+        "lng": -80.5663477
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44147778029149,
+          "lng": -80.5650059697085
+        },
+        "southwest": {
+          "lat": 43.43877981970849,
+          "lng": -80.56770393029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "St. Mary's General Hospital Foundation",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1247,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106240209439564590629\">St. Mary&#39;s General Hospital Foundation</a>"
+        ],
+        "photo_reference": "AeeoHcKoExiayIHNmoahx7ceAuxHGkPy7nBt3MGcN2-jGWAg08c5ZdEWZmQT_OLNrR9rDOyfTOY9GfPnAqaFByq-xkNff93V5SjLJF6TBbgZ5pe9pyiF0Yjyo6T26-QFSwQNFWQghlgiuaPTMxlxsp1bDBYbE1HlmqMB1TORDuTeiqa5JxKwjGENTaX8mjHXuxQsnMtFZNJPqyKtIA0-4DTDiCfRnF0wesdconzC73GctDVTr0O14Ft_0g6M3cE6o2DJwQo5J2jT6fgVKmZFU690_z998QkCNPn3dMneGenNnk_v8AcVc5XZtbTHjrOwtQgnhg-DapnjO30",
+        "width": 1663
+      }
+    ],
+    "place_id": "ChIJB54tSVT0K4gRYR-uL3b3Gi0",
+    "plus_code": {
+      "compound_code": "CCRM+2F Waterloo, ON, Canada",
+      "global_code": "86MXCCRM+2F"
+    },
+    "rating": 4.6,
+    "reference": "ChIJB54tSVT0K4gRYR-uL3b3Gi0",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 11,
+    "vicinity": "435 The Boardwalk Suite 300, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5112557,
+        "lng": -80.52212449999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5128076302915,
+          "lng": -80.5205822697085
+        },
+        "southwest": {
+          "lat": 43.5101096697085,
+          "lng": -80.5232802302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "Quickcare Walk In Clinic and Family Practice",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118195420897247286192\">Quickcare Walk In Clinic and Family Practice</a>"
+        ],
+        "photo_reference": "AeeoHcI0fXXZFhjdwleHoq17_mT8M6hNG4K0e7C_rLnZ0sAO0CLDTuwvFUShcYKg-WNRFtnEC9XyRhGyqsXqkWGgP3m7pZf1piBnEzpS2zUC7fpb_S7vzXFknvAIj9OXSxzB6Nub8Bf5Z8IRYie9IhjLT2BKNtF8S999g70bpzBuu65jqLaWMmtU7APLgJkfF3R4mvqi9G9D2G15B2_bBbT6lwSrFm5eiy5kD2psA23gLwx4X5e0fLkTvGy4xJNXVczuUAspupxmsSAj1Mc4IUpJ_xBr7MG6Dc0WZsAo-24w2h77qj2szrAIZ0X-Tf0C53CKX9lM2nsGTS4",
+        "width": 1200
+      }
+    ],
+    "place_id": "ChIJfeO3ghLzK4gR1YUZirCg8HU",
+    "plus_code": {
+      "compound_code": "GF6H+G5 Waterloo, ON, Canada",
+      "global_code": "86MXGF6H+G5"
+    },
+    "rating": 4.2,
+    "reference": "ChIJfeO3ghLzK4gR1YUZirCg8HU",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 25,
+    "vicinity": "Unit 202, 725 Bridge Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.41787129999999,
+        "lng": -80.53595659999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.41925848029149,
+          "lng": -80.53453221970848
+        },
+        "southwest": {
+          "lat": 43.4165605197085,
+          "lng": -80.53723018029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "Trust care medical clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113343173632411381676\">Trust care medical clinic</a>"
+        ],
+        "photo_reference": "AeeoHcJ68pPrDCccN9xR4POUflP2UwE3f6jmX-GNR1fX-7jgpIsl6A2UoByBkqY49Y3QlAkTJpLLNU_QPheqpxq-Y2PK8HozN06QM9DgE52x5d8_nzt2bstuymQxr-TSL0HNCm0baum23pGkTsqGoSTtn8QonrYgJ8LgIp_k6Y0yWhfaZz2R6gFyQx-LXzuhRhYhPF5JZhvixLA7fCNZ1T4ouo7itvN9G1mYntSV6rRmDgo_xImzGPP3QDVhzYkifmOho_T2VjeBu7o50SVg_-7prPbfbZQzkdjlI1R8W4yrnlPjqYjE7bIT2DAzmQQSNfEO7vcgUGZjLI8",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJrQN7EAD1K4gRty7hFgbBfsU",
+    "plus_code": {
+      "compound_code": "CF97+4J Kitchener, ON, Canada",
+      "global_code": "86MXCF97+4J"
+    },
+    "rating": 3.7,
+    "reference": "ChIJrQN7EAD1K4gRty7hFgbBfsU",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 14,
+    "vicinity": "450 Westheights Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4177247,
+        "lng": -80.53565189999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4191440802915,
+          "lng": -80.5342977697085
+        },
+        "southwest": {
+          "lat": 43.4164461197085,
+          "lng": -80.53699573029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "Recooperate Massage Therapy",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJBdCvq7P1K4gRsyBQ117Jq4E",
+    "plus_code": {
+      "compound_code": "CF97+3P Kitchener, ON, Canada",
+      "global_code": "86MXCF97+3P"
+    },
+    "reference": "ChIJBdCvq7P1K4gRsyBQ117Jq4E",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "450 Westheights Drive #8c, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4220954,
+        "lng": -80.48914429999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.42353623029149,
+          "lng": -80.48782391970849
+        },
+        "southwest": {
+          "lat": 43.4208382697085,
+          "lng": -80.4905218802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "New Dawn Medical",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107847737216924236146\">New Dawn Medical</a>"
+        ],
+        "photo_reference": "AeeoHcJtbdFARp8PSItu6CR3QcrjKXy-jydT-dPl1-M0_B37O-clmAm1qv8FMbfdVMrKSzjpFGHYIIRV_0tLDl_3OiiKD2CJAemc7j7gZuWZvkubcVM3v5z4UsAICsODNwbrPg1_8VsWAwp3hI5d6KTQCjAE5PGtV-R98ZsWXDjisfoU5FskoN4Z5IK1JvE9uPM15e3ioE91QVfaNNQf5qGE8JBi7pib6NEVWixdXdQh6UiqbScEeeTITeGXZd_GtOIUAP1qP3p5OIitBZ0pzRQm7jkOm6PO1Aj3pGqemTxlmDmwQRYATZ0TFckDIhSEsYuAwfZYgO9PLxk",
+        "width": 1152
+      }
+    ],
+    "place_id": "ChIJv4XG6Uz1K4gRR70NSW2huDc",
+    "plus_code": {
+      "compound_code": "CGC6+R8 Kitchener, ON, Canada",
+      "global_code": "86MXCGC6+R8"
+    },
+    "reference": "ChIJv4XG6Uz1K4gRR70NSW2huDc",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "795 Ottawa Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.41786429999999,
+        "lng": -80.5000003
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.41936313029149,
+          "lng": -80.49876596970849
+        },
+        "southwest": {
+          "lat": 43.41666516970849,
+          "lng": -80.5014639302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Medicare Walk-In Clinic & Family Practice",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 835,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102704601266241061159\">Medicare Walk-In Clinic &amp; Family Practice</a>"
+        ],
+        "photo_reference": "AeeoHcLQRn9jyPAiHFsqmgDO9x21j0ArXgAEs3WYowL0QQedYFA9GEOObmC0IsF5hpJus8wiw0fZ3vQYriTGH2viTnaGiX-701Z6sULTmVtXomdbKwOoXvfAADa6Rp58yIxd6H7asFolLIONRE9xaGTogmZJCRmDetAYZMlrsASERQXirNzqKSHzpduaHLA7SDIbDYue0I4M-VdbBBENscTeQ2CaEuhEzEPjDfpLwAKAbXmqiQqhN9Q4I-ThEMb2uB0GJdd4IVJSNHUJBFVVFK-W0HMXkEJGVZplmIJEzzcbmU0B8hi2rmucvhxLT45giLM88_QE2Qgf",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJWdL8n3H1K4gRhY9EbM4dF8Q",
+    "plus_code": {
+      "compound_code": "CF9X+4X Kitchener, ON, Canada",
+      "global_code": "86MXCF9X+4X"
+    },
+    "rating": 4.7,
+    "reference": "ChIJWdL8n3H1K4gRhY9EbM4dF8Q",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 311,
+    "vicinity": "720 Westmount Road East #4, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4610393,
+        "lng": -80.4403585
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4623315802915,
+          "lng": -80.4389760697085
+        },
+        "southwest": {
+          "lat": 43.45963361970851,
+          "lng": -80.44167403029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "Orthotic Services",
+    "place_id": "ChIJz-t-uluLK4gRKa3bN2quRwc",
+    "plus_code": {
+      "compound_code": "FH65+CV Kitchener, ON, Canada",
+      "global_code": "86MXFH65+CV"
+    },
+    "reference": "ChIJz-t-uluLK4gRKa3bN2quRwc",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Suite 1A, 210 Lorraine Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4190213,
+        "lng": -80.46972350000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4203593302915,
+          "lng": -80.4684296697085
+        },
+        "southwest": {
+          "lat": 43.4176613697085,
+          "lng": -80.4711276302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "Dr.Qi Wang",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJD1mgpTv1K4gRvSE12RkzFHw",
+    "plus_code": {
+      "compound_code": "CG9J+J4 Kitchener, ON, Canada",
+      "global_code": "86MXCG9J+J4"
+    },
+    "rating": 4.3,
+    "reference": "ChIJD1mgpTv1K4gRvSE12RkzFHw",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 11,
+    "vicinity": "1450 Block Line Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.440091,
+        "lng": -80.4461211
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4414056802915,
+          "lng": -80.4449233697085
+        },
+        "southwest": {
+          "lat": 43.4387077197085,
+          "lng": -80.44762133029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "Beacon in Dental Implant Care",
+    "place_id": "ChIJBStL9x6LK4gR7oR4GOka6pA",
+    "plus_code": {
+      "compound_code": "CHR3+2H Kitchener, ON, Canada",
+      "global_code": "86MXCHR3+2H"
+    },
+    "reference": "ChIJBStL9x6LK4gR7oR4GOka6pA",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "245 Franklin Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.43546990000001,
+        "lng": -80.43960799999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.43683883029151,
+          "lng": -80.4382247697085
+        },
+        "southwest": {
+          "lat": 43.43414086970851,
+          "lng": -80.4409227302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "Meadowcroft Place (Kitchener)",
+    "place_id": "ChIJeQdWXSSLK4gRlspS5KUsIiY",
+    "plus_code": {
+      "compound_code": "CHP6+55 Kitchener, ON, Canada",
+      "global_code": "86MXCHP6+55"
+    },
+    "rating": 1,
+    "reference": "ChIJeQdWXSSLK4gRlspS5KUsIiY",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.406626,
+        "lng": -80.4743886
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.40794503029149,
+          "lng": -80.4731885697085
+        },
+        "southwest": {
+          "lat": 43.40524706970849,
+          "lng": -80.4758865302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "Bleams Medical Centre",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101480937302922661130\">Bleams Medical Centre</a>"
+        ],
+        "photo_reference": "AeeoHcLBXeeoBTsZEgymZjwOs9_WPjTrpc0cGhoh9N3itS9CvaAIaJRNe9lUPJ5Db4zMMsuSb3zouuPj6pAAqoQEexgim6we_Tg35YFW_ltciwQfNQ20lOn2BK-FGuLuDvhS9FB8SpzCEuQ_WJhHRL19Vp0TyXayugiVAHUPiigwDkLRIrP1i1a_uJKnwPhDiSsmylEgdiZSKlycRHorFImjI5bUQGKZ7JeadiDYGX-6VSxusm8XKFL8xMhbbLLjoM2NlcwRBW4eU34HufcFib73CUf2MylZ3zTdic7UJc01CM5U-WirOU85ydpuREHSXArYrHG3jDmbEGk",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJcbMgOzP1K4gRxrrXcPg501I",
+    "plus_code": {
+      "compound_code": "CG4G+M6 Kitchener, ON, Canada",
+      "global_code": "86MXCG4G+M6"
+    },
+    "rating": 4.3,
+    "reference": "ChIJcbMgOzP1K4gRxrrXcPg501I",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 12,
+    "vicinity": "1241 Strasburg Road Unit 4, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.402387,
+        "lng": -80.47674959999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4037991302915,
+          "lng": -80.47536911970849
+        },
+        "southwest": {
+          "lat": 43.4011011697085,
+          "lng": -80.4780670802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "Kw Total",
+    "place_id": "ChIJV05TWV31K4gRTBz2GU6_8FI",
+    "plus_code": {
+      "compound_code": "CG2F+X8 Kitchener, ON, Canada",
+      "global_code": "86MXCG2F+X8"
+    },
+    "rating": 5,
+    "reference": "ChIJV05TWV31K4gRTBz2GU6_8FI",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "31 Mcbrine Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4285369,
+        "lng": -80.43600649999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4298803302915,
+          "lng": -80.4346608697085
+        },
+        "southwest": {
+          "lat": 43.4271823697085,
+          "lng": -80.4373588302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "e2 Medical Centre",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJUSQrfiCLK4gRzHYoThVcge8",
+    "plus_code": {
+      "compound_code": "CHH7+CH Kitchener, ON, Canada",
+      "global_code": "86MXCHH7+CH"
+    },
+    "rating": 1,
+    "reference": "ChIJUSQrfiCLK4gRzHYoThVcge8",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "31 Kingsbury Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4192973,
+        "lng": -80.4437909
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4206599802915,
+          "lng": -80.4423725697085
+        },
+        "southwest": {
+          "lat": 43.4179620197085,
+          "lng": -80.4450705302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "Victoria Hair Transplant Solutions",
+    "place_id": "ChIJ47a71cyLK4gRcDONj8A4A5w",
+    "plus_code": {
+      "compound_code": "CH94+PF Kitchener, ON, Canada",
+      "global_code": "86MXCH94+PF"
+    },
+    "reference": "ChIJ47a71cyLK4gRcDONj8A4A5w",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "507 Wilson Avenue, Kitchener"
+  }
+]

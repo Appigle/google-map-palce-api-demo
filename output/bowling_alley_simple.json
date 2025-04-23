@@ -1,0 +1,74 @@
+[
+  {
+    "name": "AMF Frederick Lanes",
+    "coordinates": {
+      "lat": 43.4559333,
+      "lng": -80.472717
+    },
+    "longitude": -80.472717,
+    "latitude": 43.4559333,
+    "types": [
+      "bowling_alley",
+      "bar",
+      "restaurant",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Bingemans",
+    "coordinates": {
+      "lat": 43.4735004,
+      "lng": -80.4500826
+    },
+    "longitude": -80.4500826,
+    "latitude": 43.4735004,
+    "types": [
+      "campground",
+      "amusement_park",
+      "movie_theater",
+      "bowling_alley",
+      "park",
+      "lodging",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Splitsville Waterloo",
+    "coordinates": {
+      "lat": 43.4829251,
+      "lng": -80.5192738
+    },
+    "longitude": -80.5192738,
+    "latitude": 43.4829251,
+    "types": [
+      "bowling_alley",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Kingpin Bowlounge Boston Pizza",
+    "coordinates": {
+      "lat": 43.47221769999999,
+      "lng": -80.4507351
+    },
+    "longitude": -80.4507351,
+    "latitude": 43.47221769999999,
+    "types": [
+      "restaurant",
+      "bowling_alley",
+      "bar",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  }
+]

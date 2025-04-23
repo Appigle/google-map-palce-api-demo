@@ -1,0 +1,304 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4735004,
+        "lng": -80.4500826
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4751583302915,
+          "lng": -80.44931665000001
+        },
+        "southwest": {
+          "lat": 43.4724603697085,
+          "lng": -80.45238044999999
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Bingemans",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2656,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108908011889920527735\">Bingemans Camping Resort</a>"
+        ],
+        "photo_reference": "AeeoHcLoeEC065ESQSL5V1P3iMH049PZjFIZu5CZzNoWkbGZeDYIrIL-FuB460gOpiOkYOzMcazAOF86ubFzE_bj7yq36bKNVLgnZH4-WEvfiOU8xIcoAz80-MxCWxx-KuT1w2b1RBK1jS4Kkgv-oCQnYm_Er8-vCxiMuyEsWTnNNWLXqaLhlNbnK5rM5CVU5I--en7hoxwntAreGweRa-J_g9j1oqaxCf1-9CWaLglhZe88G0NMkYf54EGUu4Djsq3K4A3nAJrfecSEBrALXlaojVnp6pybaW6R6_K7s5x0Yde87kASS-G1doTYtq_tPXwxwUAJJZ79rBM",
+        "width": 4360
+      }
+    ],
+    "place_id": "ChIJ1V_snq6MK4gRA8suIZwOe_4",
+    "plus_code": {
+      "compound_code": "FGFX+CX Kitchener, ON, Canada",
+      "global_code": "86MXFGFX+CX"
+    },
+    "rating": 4.1,
+    "reference": "ChIJ1V_snq6MK4gRA8suIZwOe_4",
+    "scope": "GOOGLE",
+    "types": [
+      "bowling_alley",
+      "campground",
+      "movie_theater",
+      "amusement_park",
+      "lodging",
+      "park",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6106,
+    "vicinity": "425 Bingemans Centre Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.3843407,
+        "lng": -80.5446504
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.38565983029151,
+          "lng": -80.54328291970849
+        },
+        "southwest": {
+          "lat": 43.38296186970851,
+          "lng": -80.54598088029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/camping-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/camping_pinlet",
+    "name": "Landings Campground",
+    "photos": [
+      {
+        "height": 9000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105596701821279576502\">Jeff Glaves</a>"
+        ],
+        "photo_reference": "AeeoHcL01CJPfelwlRbifGK665snNSvbzhvASkMRmD7AItdbDuTvX-HUpjc-JScKQrDRvSl3IMPuL8zrOwBSQdMQp9C8Z4XRBKnfbulQlXsE0N6skEFQcmADQdDEBMCXlE6D_u6jP3ULHynXAy6SaryS7hf1qw0aIId9MQGS5hcBEXsw_LSzm572Rr1pz5RSQjz9EI1A0sdS572MUyCYBmsbwdUAOKHWEeZfxjMLphFa5BLOWK9CNZ__SGIfvRFCis6h8n8Aa_D89NWCAs_FgNxwbEhb_KfAjYYDtihWqqQNwLg53Ax5MBVh3L3Aux-2gKaQTWS0Oar7PiTUatiO89TwOrejHjx7fTzup-R1XA2phj2cyaMIYicJbTt9OHwFkD7O1IuFRgFSBbbiYxUZY8BimeyUX8wzqMwkLepp8DpFDjmbOh-5vZA4U8gw4asm_TvMktn3hjhqhUewyaxJoQe9i9zooEwLLnDk9NlZhs8R6xqtzI42xDGE46h6i-EHcDkE4eMjU2_2IwXnv6w1mv-YkHgS8gmQhcENdiS8jBSu_VeFq99BmobYPQqogXJCFUGzIRUlcmbN06OZCJAS-myGGW9qd-ni9oNLLEujoor_eGwwZ6_jQhWMJHXmBl3YZpEwTS0tPvaP",
+        "width": 12000
+      }
+    ],
+    "place_id": "ChIJn-A_c1EZWkARaSRUlQTP-08",
+    "plus_code": {
+      "compound_code": "9FM4+P4 Petersburg, ON, Canada",
+      "global_code": "86MX9FM4+P4"
+    },
+    "rating": 4.5,
+    "reference": "ChIJn-A_c1EZWkARaSRUlQTP-08",
+    "scope": "GOOGLE",
+    "types": [
+      "campground",
+      "rv_park",
+      "lodging",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 197,
+    "vicinity": "1073 Witmer Road, Petersburg"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.485512,
+        "lng": -80.589759
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4868214802915,
+          "lng": -80.5884677697085
+        },
+        "southwest": {
+          "lat": 43.4841235197085,
+          "lng": -80.59116573029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/camping-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/camping_pinlet",
+    "name": "Green Acre Park",
+    "photos": [
+      {
+        "height": 12000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100621103929482204230\">Kevin Prouty</a>"
+        ],
+        "photo_reference": "AeeoHcL7xgTS3_E4KpJzaV02P6w1z3TZ-H_fBbrlfCyrZsztdStdnFOWXAGUBcJVNvYoNiiVQnjbU7NSXr7JZDSFo4MJqAMkvRZrmBA_V4IobeWWSnWhAt3jSLZo1kworNwcw-P6E1o_-f8AVhLOU8Hkn4cyyt4hLnqNwceN5Y9teVhHQ0_JEiQLuZavNrf8Jck7PQHPaAj1Z7uLdvUfe9yzB2YPd4208YtT7xywsXJb9wbpaii68KsEGSXJyQuL7IwaBK8JonKfvoxRFvogRi3yKmsCzle-aDgGtH1IhCvzqY--WtCW6xFM85SZGc9DB9R7ceuNjFKmWAbRcWRWiCQaRGKi-hD432hLIpO-IVPHo1p0dcN_k5Lf5i4plX7YwcwUc_MlB3KPGsEKftClKBB2hlrKxQKKG2p66bkmhJo1ek6FW7aiAgm4eVyC9GR3TbfP1XXcL7p23yprU7tC0P_ERmsbRTkR95F0ygYiOIff53f5VnpnhLBftKUxnD8gq1FR4aw4dg6rrtLHMEoolo2L8v91p7H7KyjvIYJZdW-eXO4gwMoiAZ73gKb7VHm6TDZw8uRCRTmpKB2-Q9S57dmcm2NTgm3RhDD88HF82h9-zzk71_uiNhwdml8_kpFjjtNu",
+        "width": 9000
+      }
+    ],
+    "place_id": "ChIJVw35CdH2K4gRVg__2TV8cds",
+    "plus_code": {
+      "compound_code": "FCP6+63 Waterloo, ON, Canada",
+      "global_code": "86MXFCP6+63"
+    },
+    "rating": 4.6,
+    "reference": "ChIJVw35CdH2K4gRVg__2TV8cds",
+    "scope": "GOOGLE",
+    "types": [
+      "campground",
+      "lodging",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 397,
+    "vicinity": "580 Beaver Creek Road, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4638357,
+        "lng": -80.5354239
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4651532802915,
+          "lng": -80.53415751970849
+        },
+        "southwest": {
+          "lat": 43.4624553197085,
+          "lng": -80.5368554802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/camping-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/camping_pinlet",
+    "name": "Scott Street Stayner Ontario Canada",
+    "place_id": "ChIJnWGuEQD1K4gR_O_gL79kmoM",
+    "plus_code": {
+      "compound_code": "FF77+GR Waterloo, ON, Canada",
+      "global_code": "86MXFF77+GR"
+    },
+    "reference": "ChIJnWGuEQD1K4gR_O_gL79kmoM",
+    "scope": "GOOGLE",
+    "types": [
+      "campground",
+      "lodging",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "139 Father David Bauer Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47403619999999,
+        "lng": -80.44730360000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4753805302915,
+          "lng": -80.4459518197085
+        },
+        "southwest": {
+          "lat": 43.4726825697085,
+          "lng": -80.4486497802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/camping-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/camping_pinlet",
+    "name": "Bingemans Camping Resort",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3060,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117270386419438793629\">Devon Martin</a>"
+        ],
+        "photo_reference": "AeeoHcIY41pqGcj50DZMFbMMpsdMSBM_t3E7tPTHB8EQ21qxkvVRYf9ws5CuB9kMmGh0Pb8gFP1tfg7p8Egv9P3OJ7zYN0aewoIdejnqHJszL2NeUKru4mzd1UyhouzlnauVkel395SIbcuCUaRDSRg2DpTSA9-eGlNrrLb9OMn_mb6agvUSDlm-xY8pNstY7vNvC1lngrnmox74GKWAxbM66VA3zAqRfqVo9pPXC6T4CtPXzfG4UEe-3xpifu_hlwvpacwL6GzeLymgPNy8M-THLFfONcchadvJYeBkWnDNcEYICmRGY5Lw9B5HIviH2jkuw-GHSnQZEdEJqwx-CljGBRc36Wj-Bs4sMwnWiKdDsBn0Y2bHaxJxB680Z9pGyAvYYR_J0rc4ZqC_COwZ3AVzIS7pn-8Hi-5cWuv8-ijEstk96NC0iY8XOZy9AzTRg-m6Oy5oiY41acx91qaj4laQRECZ2vRDYnz-MofjwOYvjiLwphcTiyyG9Xk0tWB-5NiXaOQwSXN01nKThXwYA1UOzMLMaYmujeZsJnkoVqFwohmxQwI6aulnToMmNU2a_1l38NW2UFiduE7_SjoklPcT-QIT3PKwGMCJvlrKr7gCZ4OvXsTvn1NdllPQOl090Loq",
+        "width": 4080
+      }
+    ],
+    "place_id": "ChIJ5wF2tnKNK4gRXb1mvHuzHRk",
+    "plus_code": {
+      "compound_code": "FHF3+J3 Kitchener, ON, Canada",
+      "global_code": "86MXFHF3+J3"
+    },
+    "rating": 3.5,
+    "reference": "ChIJ5wF2tnKNK4gRXb1mvHuzHRk",
+    "scope": "GOOGLE",
+    "types": [
+      "campground",
+      "lodging",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 50,
+    "vicinity": "425 Bingemans Centre Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.383195,
+        "lng": -80.56093
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.38453868029149,
+          "lng": -80.55960706970849
+        },
+        "southwest": {
+          "lat": 43.38184071970849,
+          "lng": -80.56230503029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/camping-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/camping_pinlet",
+    "name": "Country Gardens RV Park",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2848,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104375710674144149060\">Country Gardens RV Park</a>"
+        ],
+        "photo_reference": "AeeoHcIdr2QExziDezT-1KbqCiBbmcli3L8V2XRVKXSYiXLjfYNq66E4JakKbldo-RmmamwT-3ogRvR_gdhJcQ_u3vMbCpYWv26ypDKUDmyGIjS8Uo7fXH28LgvMm_Dg6focJZxk-TkNMt_Prhig8ZHqMbGBFJMFSwkDjJehJc7dGyMNP7xibbHMSYia6wreBl7M1Xt8QW063vKwW0MGm0huZrEWX9Vdxfo4VvT2whEwjc70wJ1EBDGb423-uuObd5s-Sbo1raDX4oEHRuzZii4VHi0xFUNZ_2bPmv9Q1CzAEvgiwjD7Yn9xZ0JmdOKMXhzMQDyLzswGWg4",
+        "width": 4272
+      }
+    ],
+    "place_id": "ChIJecMZZOsJLIgRsR4U1d7ImHA",
+    "plus_code": {
+      "compound_code": "9CMQ+7J Petersburg, ON, Canada",
+      "global_code": "86MX9CMQ+7J"
+    },
+    "rating": 4.5,
+    "reference": "ChIJecMZZOsJLIgRsR4U1d7ImHA",
+    "scope": "GOOGLE",
+    "types": [
+      "campground",
+      "lodging",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 247,
+    "vicinity": "1335 Witmer Road, Petersburg"
+  }
+]

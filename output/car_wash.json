@@ -1,0 +1,2395 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4292134,
+        "lng": -80.4358444
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4305659802915,
+          "lng": -80.43449311970849
+        },
+        "southwest": {
+          "lat": 43.4278680197085,
+          "lng": -80.4371910802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Canadian Tire Gas+",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 564,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116025089597418016485\">Canadian Tire Gas+ - Kitchener South</a>"
+        ],
+        "photo_reference": "AeeoHcKGrOFRBIZxhHJoy1adzXj-TRazJfycGEDhLTDAUGhNLwzSMIoIcThmkSKF0gvBheVNDIlXE2UdWoQiQruMCtczLEUYYMZmIA_caakck8f0eFzWj3DP2Yq5_jOKcIELwBNyMDAnbptzj99tjyAgtRuPojlK9-oybJUh57XAwGW_SFCaplc3tuDth8YoTsS9lHeICl3hITRyqH2zXeZSoTjq2eI7aihC66ePjM5je1YL5tn03EH3D04oPS5ZRdzJY88slbD9fw29sKrk8AtBuSs2JXn1dL2XFznPqD_gOoAYxaek-quNyDL3zdquEz80vGnb1qwO9U8",
+        "width": 1036
+      }
+    ],
+    "place_id": "ChIJDY-qjSCLK4gR8ooQhlGfMWw",
+    "plus_code": {
+      "compound_code": "CHH7+MM Kitchener, ON, Canada",
+      "global_code": "86MXCHH7+MM"
+    },
+    "rating": 4,
+    "reference": "ChIJDY-qjSCLK4gR8ooQhlGfMWw",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "car_wash",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 287,
+    "vicinity": "2905 King Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4376311,
+        "lng": -80.4870115
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.43906908029149,
+          "lng": -80.48584876970848
+        },
+        "southwest": {
+          "lat": 43.43637111970849,
+          "lng": -80.48854673029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Cancare Auto Appearance Ltd",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJA_gMWOP0K4gRuXxdphMssls",
+    "plus_code": {
+      "compound_code": "CGQ7+35 Kitchener, ON, Canada",
+      "global_code": "86MXCGQ7+35"
+    },
+    "rating": 4.6,
+    "reference": "ChIJA_gMWOP0K4gRuXxdphMssls",
+    "scope": "GOOGLE",
+    "types": [
+      "car_wash",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 37,
+    "vicinity": "363 Stirling Avenue South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4458587,
+        "lng": -80.48062469999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44726463029149,
+          "lng": -80.4793005197085
+        },
+        "southwest": {
+          "lat": 43.44456666970849,
+          "lng": -80.48199848029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Morris Car Wash",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2047,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110859782702300067275\">Brad White</a>"
+        ],
+        "photo_reference": "AeeoHcLOG5w3kxx_FmjpC2pyK7MupNkw1IPbxAuvqYngFTRVqdARpRcVSnQOIcAsFhomPVZ1A5BmtZ-0rAvYlwwbjxfvS8_iQN33DGMG5dWeYVy6EnjKV-Zl3oz3Qghkkj38ZfWoHwpYpsMyycQnaGCS-Qvq4OYYf9o01rgCaYaHobk4N-2Ut11uvCh3EW_s5dDoMVdJB6Zrd2ryKIQ46W5ss0mtFQn80hqSHNPfn4moPLjeXTNDjBaeXahzncopAkJLL6D_HU65vzY5fIoC1FJ2eKbzchY4JUt2BUF_nzco8RcOZwRrcAKqwzPZWRT7aKMRMiukAdx3ihQ6yN6MKhkKYR8L4OlHBuSfZk2s4ZfS2Je9eQzfXyVsJf6u3rAhfTP8nqr9TZwC33lIlFVBg--MoRz30y2WX2qO6X2AQTqW2l1gxKy5Retd5qvJgFvGFaEfD4eA8YipNR_Toq0LRDGMoVRCNJl6i8UbXujOqmNIwhVTIC0ZVjnDQnrTBNGcoC1GszqlYGvsJPGpKaObYxTKHkcosKj4JhkwwkYsiw6AEqvNgXr7b9-1JZgU2fKsYAATIMlPS9go4qA_TiXXqHttWywOaUfSD9QxkkXviKZcuprE0E47tcouWYF5EdpHOQCfukUW3g",
+        "width": 2830
+      }
+    ],
+    "place_id": "ChIJXfyub-n0K4gRjF1PMW8qacY",
+    "plus_code": {
+      "compound_code": "CGW9+8Q Kitchener, ON, Canada",
+      "global_code": "86MXCGW9+8Q"
+    },
+    "rating": 4.4,
+    "reference": "ChIJXfyub-n0K4gRjF1PMW8qacY",
+    "scope": "GOOGLE",
+    "types": [
+      "car_wash",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 691,
+    "vicinity": "533 King Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4465561,
+        "lng": -80.5722378
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44800523029151,
+          "lng": -80.57093256970849
+        },
+        "southwest": {
+          "lat": 43.44530726970851,
+          "lng": -80.57363053029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Canadian Tire Gas+",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 564,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101161088384721441395\">Canadian Tire Gas+ - Waterloo Erb St.</a>"
+        ],
+        "photo_reference": "AeeoHcLXGHpMjEm5RPxOu5ED1v3S9jQ4xUw9NEJJRtcNDqbf-pT74NGF9l3d5u0aqckyQEV0fGw0qDR-PhqlbvWk0LMY5xvB-cUuzy2KWwqsZ3Rj3vckGAp7860C_r5ejI1uEvgvQLnX8JSBaWx80solj4rZVLSvmocoFGVcBPDQaw6JZel0_4HJN_oNrVCXFKdRJMXpEClZc49gHftNZZ0i_4lrVEo1_6SlG4Gb-om8lwwYJXJamY_LZ-juTregvlqrC6zrfSe8zbvufLh97ioahM2fGYIHrTp5stUwI_vyteQmXeaJD3zQKvvkil2hjr7NPfQa0CIsR3c",
+        "width": 1036
+      }
+    ],
+    "place_id": "ChIJy5VdYfH2K4gRWPhMz68nKzc",
+    "plus_code": {
+      "compound_code": "CCWH+J4 Waterloo, ON, Canada",
+      "global_code": "86MXCCWH+J4"
+    },
+    "rating": 3.8,
+    "reference": "ChIJy5VdYfH2K4gRWPhMz68nKzc",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "car_wash",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 137,
+    "vicinity": "650 Erb Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.48449799999999,
+        "lng": -80.52454809999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4858480802915,
+          "lng": -80.52317871970848
+        },
+        "southwest": {
+          "lat": 43.4831501197085,
+          "lng": -80.52587668029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Canadian Tire Gas+",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 564,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109529582544886786504\">Canadian Tire Gas+ - Waterloo - Weber St.</a>"
+        ],
+        "photo_reference": "AeeoHcJRsmtEAqD29glgBgH9C8KwqqOdJeYroy6KtVNOCEyGbWlSSHIYziOPTL_NlaUMODzCHP0TSNqRJm20VoWUw87ivHN7QYiCA5NN6b7PgZZMmKlVOyLmXHvxim6dAQx-0ryElGtun6pOPsZy_waGJHJAqon86Gs-NqfEUs6heXbKgGXrBeWVElx57YdvzPPZLu8LxqzR2edaRgEsQmVeIKtldbtSqL0af54QWNIw29LH0sHWFil0NOrQuiBa9mqrTnpwgB6ekKR2J8dJLpPggdMVm4zeTd34jTlnhRTAXN7mG1_CePVP65b_c-7scNG0MCVE8ghCAxw",
+        "width": 1036
+      }
+    ],
+    "place_id": "ChIJDzQimu3zK4gR3YMo8p3I6Og",
+    "plus_code": {
+      "compound_code": "FFMG+Q5 Waterloo, ON, Canada",
+      "global_code": "86MXFFMG+Q5"
+    },
+    "rating": 3.2,
+    "reference": "ChIJDzQimu3zK4gR3YMo8p3I6Og",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "car_wash",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 68,
+    "vicinity": "400 Weber Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.437013,
+        "lng": -80.51278599999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4383461802915,
+          "lng": -80.5114493697085
+        },
+        "southwest": {
+          "lat": 43.4356482197085,
+          "lng": -80.51414733029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Petro-Canada & Car Wash",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103634708711974066884\">Riya D&#39;souza</a>"
+        ],
+        "photo_reference": "AeeoHcJ1Fz1fFeC69bn4b87BKvnZIhjQS9pu6BiVLirONS7EJTqgn3pyidwaJ2Fj_8A3T7-PcdrJy9PZiYCn2r6YF6nocASOjr251N3ZLCI0DsZ3gz2KHZovE4APNMUqwFdR-PQ0sLqH7TgOd1I2boJobuoFDLJ5mYK8LKDnNkkQ7oBlXGh5mWX3QzPIU3ua_-rgmbo1ondfOgJUyhzOGBBMsDr_dRVK6L9Mdx-eQhyvpYSF98XlAlzoGesQvh-YLNpth-FaMEKrcnW-ClvP8U8G1eKBMC1dOPZYiBGkSRUk0nbSHaGfLVWr8B2m8qDPC8hLvEewUI3WvUo2JN1IZhrRSOHcszyq0pxmtfdLo89viJvXTC2cNHYw3a_2aao54n1Fyxkvgv6LipNf4dKhSJDaKs8z0Qhh5Yy_iF0f65va6-zT7rqqUZi9PmpEBOkyTG3u1674IqkwVgRwnIlPsL_uDHOdfv_QsW1n56YsVHp8FXf270yTRYZgh0WFMfeoYrvc6jKYL-3x0jOwqg2R4g6Ek27cKQBzWMfuSjhSIHmFTh6YoB1nKXCKsyltXeAu02FZJir-m1yiwkVIPPBsCfmU0V8LZ5tEJ_6xRd6HyimiY3zZmxAXQwD8XC_K0O0VRR_U",
+        "width": 3000
+      }
+    ],
+    "place_id": "ChIJnRWGBk30K4gRR0n5yJAeMuY",
+    "plus_code": {
+      "compound_code": "CFPP+RV Kitchener, ON, Canada",
+      "global_code": "86MXCFPP+RV"
+    },
+    "rating": 3.2,
+    "reference": "ChIJnRWGBk30K4gRR0n5yJAeMuY",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "car_wash",
+      "liquor_store",
+      "convenience_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 131,
+    "vicinity": "426 Highland Road West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.500754,
+        "lng": -80.533136
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.50211953029149,
+          "lng": -80.5317607197085
+        },
+        "southwest": {
+          "lat": 43.49942156970849,
+          "lng": -80.53445868029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Petro-Canada & Car Wash",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117091818027646032203\">Veer Bahadur Singh thiara</a>"
+        ],
+        "photo_reference": "AeeoHcLOEZbVdvex7FXlitBSJWmEbvde58arrmQxBFLh1yKvDL4bma_nb7lv_W62AeCW70YyHeE-v3vCw4Q9EZnc4CLNItdX5SwTSdb9NWAhYAHga74YaFhV_JgPUeyvnkVjBEmS9hpjACcekAbkEIyNgfKnOPiuAxdrWc46_q5SzeXtJ489J4dNGjTQnVIFNp1lJ_dTufoW7FeE4hyecBcDsFaAhQKBAiwkEGIWjPn7VjdmFaa7NdjvFOn3aRj2lPUgFUaHgyAzsNh-h3FmwIoGbarusE5QhKNiXN2oCSHt9xMqjgg8SDLGHPu6Cuf_MSdM9dRCV9t0Xr1Sp8L2nHGLbt3DWFwMUXbNUgPwL88Hiy6YiQKBfhG9v-HczLFbdWxyIvEstg6480m64ZaFEsg8NjqWca1-6_xK8vYrN_rkZLMLYBA0N39jpI9_kXZnXZ98Y2ZelSACcIGK_yrKg8KgNhKsETgplUiUpnx0-1yvmVMka--zvw9YXgP3JVqo0OI0tgh5YSZSzSRZ-TPmpmCSlqrch79vy9N-otjRrjAgQWsSKE2bgZL6jpm6zP45Y55lnlKQDXgdgjIW6j3tfre40C-FtD5OgGqeSdC5cWHm1YsQ_bR_bVu_Lz6HDzLMA8S5",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJw7TSnC0CWkARjzJKJg_1jAE",
+    "plus_code": {
+      "compound_code": "GF28+8P Waterloo, ON, Canada",
+      "global_code": "86MXGF28+8P"
+    },
+    "rating": 3.4,
+    "reference": "ChIJw7TSnC0CWkARjzJKJg_1jAE",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "car_wash",
+      "liquor_store",
+      "convenience_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 99,
+    "vicinity": "565 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.43243640000001,
+        "lng": -80.477818
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.43372248029151,
+          "lng": -80.47661796970849
+        },
+        "southwest": {
+          "lat": 43.43102451970851,
+          "lng": -80.4793159302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Detailers Edge",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJq2MTHeD0K4gRLTb_K7Scrj4",
+    "plus_code": {
+      "compound_code": "CGJC+XV Kitchener, ON, Canada",
+      "global_code": "86MXCGJC+XV"
+    },
+    "reference": "ChIJq2MTHeD0K4gRLTb_K7Scrj4",
+    "scope": "GOOGLE",
+    "types": [
+      "car_wash",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "14 Hoffman Street #2, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4675963,
+        "lng": -80.45593579999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4688223802915,
+          "lng": -80.4545174197085
+        },
+        "southwest": {
+          "lat": 43.4661244197085,
+          "lng": -80.4572153802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Kitchener Full Service Auto Car Wash And Monthly Pass Specialist.",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115022235771054781082\">Gayve Kazak</a>"
+        ],
+        "photo_reference": "AeeoHcKGtkpQEgur9o8v56qczO3IlZhFqfQVxfylbiXGHlYRHSMO9VfmzSLhKyDiZo1bHx4t999Vb-O0cAh9QcOJ3JKLmrh_i73dofh1amHV-oKBcXyollGbBa1tOAdEej0aDT_bEJQlRA4YBjMx1UfIPWoBfJWyHeNh3pBhbpzFcEzH-S58I-ig0piMQpR2MIeCMe8NRe-defzZ_L5d4lX0LO5S6IlTr40gPPhuN_VDHDrpFHiXV6FA-sEoLOqddvw1_NUgYbki_dzUWAA8yFa8ZLMn6XMQARpC5CZ-ZVnK-eUU3J8Sbt94oqWOw_tfoIhl0puW_u2bPz5nTQ4w9X6neeGeupCc9yND6vfOa2tiG5YYSTt2byty-CIq4fUAO_ut0mnAgU8OCEmGhXBoJApIvFzXzt8M2XDKdCDgHADhYXFdOpPRhbM8pvJ8eZ14HYmmdVkZybeGf9ZL3i5_MhUjTv8O7J8AtA7MCdy_EH8uTKYQ1DYkVwxHQx0732yfEB3xhBU63we5Shc1t_bRQMdXRnHBq4Uab_ABATNJM6UKmE1Mj4MWDna-hkziC2uJoUHahVYWQzwVYCES-h_cJqcPQWEct94-nQR1jxmOX56OezkCSRHFETAF1SJZ3WiXzz7b",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJK0nayKr0K4gR-VWSVDRQZa4",
+    "plus_code": {
+      "compound_code": "FG9V+2J Kitchener, ON, Canada",
+      "global_code": "86MXFG9V+2J"
+    },
+    "rating": 4.3,
+    "reference": "ChIJK0nayKr0K4gR-VWSVDRQZa4",
+    "scope": "GOOGLE",
+    "types": [
+      "car_wash",
+      "laundry",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 713,
+    "vicinity": "1166 Victoria Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.40675799999999,
+        "lng": -80.499731
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.40806473029149,
+          "lng": -80.4984532197085
+        },
+        "southwest": {
+          "lat": 43.40536676970849,
+          "lng": -80.5011511802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Petro-Canada & Car Wash",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109338729318599261685\">Deniie Patel</a>"
+        ],
+        "photo_reference": "AeeoHcI8Pj1Ro9s_NP5kjCof_Nk5TzM7hZd7I7UqqBsTNE1cneiuj2NZI3S5AUi-9MN_Y7RS_Ju4wis6SDExiL67hZGYKO0a1TDzoOT2qjvhguPUKSkkN6g5GS8IQOktXhetmgGIhrWCqLSZWBEkUKxJAjs0XOFjlQOwxU9c--7djCNUbiHDqF261oEGRrED3l7wKeffnm51tEqJKtX5MfjO4SWuDTNkX2szlPi3LWhtNAX0lcoMVOejF2lIWe3JPUxXxSzja9pghzpJ5MrEyE7RhUNB327DaXjJa9LIpxxbgu4aWRRWXF8e2JShH-4ejs_s7vy7fM1YWfvjHsXItQQBiWPenZFxSgA77YiRQLEQOD14kKkXoU4qaRhAIddd-PNU0FM-9CALs5X5NluMOGrt-A31wsQ6vS-8bi3JNoGlSoPdID_r-TfGqOsJEDT3v0d-lRJtkR-6bgQmIbOKvWrI3GI6gbUptnMvmg0IBePpzBENHWh5IDJM7ML07l_cmIeCz_SyZpvRzrhSE_CayhcW5OWbdaCOMAUW0k_72oRKMlHDjxLQLhTrAXgfFqKoX5Hi2WnWutUTmtVFufq8q2XQQuEXFrus6MQHr1EVG8AW5SUrvGcL19RE45okli0L5tiM2G0IDA",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJxytiYZ31K4gRiZEnNeHpcLM",
+    "plus_code": {
+      "compound_code": "CG42+P4 Kitchener, ON, Canada",
+      "global_code": "86MXCG42+P4"
+    },
+    "rating": 2.7,
+    "reference": "ChIJxytiYZ31K4gRiZEnNeHpcLM",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "car_wash",
+      "liquor_store",
+      "convenience_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 85,
+    "vicinity": "1178 Fischer-Hallman Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.41579170000001,
+        "lng": -80.5132622
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4171668802915,
+          "lng": -80.51196586970849
+        },
+        "southwest": {
+          "lat": 43.4144689197085,
+          "lng": -80.51466383029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Canadian Tire Gas+",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 564,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108304361271346388072\">Canadian Tire Gas+ - Kitchener West</a>"
+        ],
+        "photo_reference": "AeeoHcIX6aRLlr2rqf1v49URsK6K9M8vY_7jwZVogi_e2yMr9ZHx2Irw9CSRk-gI_5Jna7s55gClwrPO3NrQ18TgjpeEprFkze0Y1nRGYzK4G8hrNYKMn9WkCPf6vCqMDPxX-rq6o_pwTPxWzbFnlI-WLGPO0hh-UMYVNaWYqbNnzjdgB_0TVQcwaAOqdl0g3BMN2DXDEI5gcb2J3M05UB9vMMqpN_exRp_mwE83fDTyIsgmYOxbpoXXUGNZKSTvQq1iAsTY57KnE7DWQA3HR8pFgbeTK3dW-VTIop5cMxZkYo8Y2T8FjRM3LmK0a7sJkgh8DydsQ6dR-yE",
+        "width": 1036
+      }
+    ],
+    "place_id": "ChIJxyeyfb31K4gRcf1nHyDQA24",
+    "plus_code": {
+      "compound_code": "CF8P+8M Kitchener, ON, Canada",
+      "global_code": "86MXCF8P+8M"
+    },
+    "rating": 3.5,
+    "reference": "ChIJxyeyfb31K4gRcf1nHyDQA24",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "car_wash",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 83,
+    "vicinity": "1400 Ottawa Street South UNIT E, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4365577,
+        "lng": -80.514105
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.43785598029149,
+          "lng": -80.51264116970852
+        },
+        "southwest": {
+          "lat": 43.4351580197085,
+          "lng": -80.51533913029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "24/7 Self Serve Car Wash",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106191759549340022112\">24/7 Self Serve Car Wash</a>"
+        ],
+        "photo_reference": "AeeoHcII9Auwt8C63oei0kkkXuf6HWvF24NBgtlQUFmVq3Z8PwvRu91w6z7B1LUVbL2JZ0ZoS0tawwTZd8DcbCS8AzTMHn9hv7W10pREzwaleJfUQfcrTEJ40bQ5I85-SCaNlF8ID9aFVHMO9rf6b94UCXqxzwOo1QPJaG_qBBYML8rdv3PuUGAKB9dOais8H7tZqK_7PjyqmkoKeiRvZcQIfi2bdvaHkK-R8n-LlMSQgAfEAxJQZ-Dqhl-nfLxog2nkQ6-tQJaHWD-t8eMyT9Kuz9FecO3e0YkMSOU-Tu1QJgGaYp6NoaDpfIWERELC5-9clpuyqGzZJEA",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJt89l4Ez0K4gR7pSEm8hnEvo",
+    "plus_code": {
+      "compound_code": "CFPP+J9 Kitchener, ON, Canada",
+      "global_code": "86MXCFPP+J9"
+    },
+    "rating": 4,
+    "reference": "ChIJt89l4Ez0K4gR7pSEm8hnEvo",
+    "scope": "GOOGLE",
+    "types": [
+      "car_wash",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 236,
+    "vicinity": "460 Highland Road West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.43319,
+        "lng": -80.444965
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4345561302915,
+          "lng": -80.44360671970848
+        },
+        "southwest": {
+          "lat": 43.4318581697085,
+          "lng": -80.4463046802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Petro-Canada & Car Wash",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113932187865128667984\">13 OTHI</a>"
+        ],
+        "photo_reference": "AeeoHcKuAnxeZIVBr4NLFjMwee2Ws5EnSAz81nC6W-Ba3-2ui9jNi_Oa1mJljLweVigXwjqLbqpJ-qkim0Hu2mT9v7l3l959v1tDRVLfOAsenEnpkQfGf3-NfH4RmyINt9xoUR1PVN_zZ9sp04WiyHyydgASD0E3VTWfikbg9HZwYQmRKVhM0VF2TS7BnyD1lY-mLsmpe-OcnMcTVj08b9L8tRKjdpt-hy3oVMqwzFEl3A-hzh7uy2R1IGh1z2QlN73UnA2c349Kaoj-76wQtxFE46vgFn_FEEvuB4Q-4J2j5eux1rKKkC6VnOPIeRT9LJpTsERWvwFYvkfuLtYb7exNM-7PQWk02Bqo_alPd7Ba2DyRIVGyGIwCDvZ5cFeKTqKkWuSeXfOHeksHGUHOXBZWAoVdQT8d7fnFvNw2JW-CkIeaoWvJXOh4yNg4ZluvcFgrYY3-aLQmo9YosD85XOLDQAdgTk8POZe9E14FXksxQ_wxKbKDPQ_-KX4SZsT0mbP5uVeIgHOJPrYDzp32K6zI-fraqtoFuYI8pc4wMofyW-MOb7eAbJUgviq4dcwf2wQTkSYhInV2Fyy2EtvA7aMgGit_PSFEUfNlTWOvAeIBcae9c2wz1rtBjbw6fBM0taaaSvdnGNB3",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJY8S3tyiLK4gRGUl7jCTLIys",
+    "plus_code": {
+      "compound_code": "CHM4+72 Kitchener, ON, Canada",
+      "global_code": "86MXCHM4+72"
+    },
+    "rating": 3.5,
+    "reference": "ChIJY8S3tyiLK4gRGUl7jCTLIys",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "car_wash",
+      "liquor_store",
+      "convenience_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 224,
+    "vicinity": "1241 Weber Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.467695,
+        "lng": -80.56726700000002
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4689952302915,
+          "lng": -80.5658550197085
+        },
+        "southwest": {
+          "lat": 43.4662972697085,
+          "lng": -80.5685529802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Petro-Canada & Car Wash",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112827822780863524246\">Jaswant Brar</a>"
+        ],
+        "photo_reference": "AeeoHcKmTKnbmTL6dAIZ0QSQglq1Atc6IMfzvuSaaSULn0GCJWtGob4Y0oMOJaVnMNpgS71zH__1PA45mNxKRiYfwZzWXfOpYoOVHOacFZLaKm6yHHlV9XspGj-xUR8GiLQsi99sNxSPjq6To0vMTHFbTzea_NZwP-HOc2bvcioG84FpRfAwtf7CkRWLaZrK0dKLVbj57ZuKrA271Q5YNHjTzqVtj231aTWGgZAFC8DpsmNceaiC9-3FfVUeJcqJ2Y1YdlT22GBBIdlnwFstc9IxLCI01qckyemmQTaDXsDHXnxCGvtXcNLDU4tFMNtQT1ilohPHAl8r-enW8fFqLM_lPOUdlv-0mIL5JCipocyodUx4alpCBlAsgelKAPhQSFlLpmCtelT_ISqn3ktkvwA4Kv9EVh8FjeO5rCaJKSjCc4_q74OgYuiTqnW5h2pDlqE_hDcpxFkSkPUqRWKplqI45NFuRqK4wcyKHh9JPHhGHZBLDDxFXuUSBS3iQYKOopvO24tF3GSoDbDQetELgVlB1aBhW6NiEQMlc6DgBs5LDgWFDsfpWdh3ltooJc2iVfNhOHrPeBfduv_s1Rw6-yq_EjEWXpIWFWnGqhMnBra3uDX--7NZnPpHd2tZ2vcJ_8Od6jQowbD-",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJT6gt-sf2K4gRMZ_hXMhbyrA",
+    "plus_code": {
+      "compound_code": "FC9M+33 Waterloo, ON, Canada",
+      "global_code": "86MXFC9M+33"
+    },
+    "rating": 3.1,
+    "reference": "ChIJT6gt-sf2K4gRMZ_hXMhbyrA",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "car_wash",
+      "liquor_store",
+      "convenience_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 152,
+    "vicinity": "440 Columbia Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.500791,
+        "lng": -80.528256
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5021690302915,
+          "lng": -80.5269370697085
+        },
+        "southwest": {
+          "lat": 43.49947106970851,
+          "lng": -80.52963503029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Bustard's Auto Detailing",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110120745575559725453\">Moe Jundi</a>"
+        ],
+        "photo_reference": "AeeoHcK07oxbGNfQJqcUe6uECJoMJoS6uu3KRoe1q-iztxS2MVxdFLmCHScFdymeIecoPzkLnPFUQSF2hOgObugWQMXabKyw_p_qpGWo6GKTF5sWSHq0NP8KPM75BdTHFYC87LvJFMeiWusfkq9aYEaErEN8rQmbgMO7VOnwqe3XdbQ-nv36egctfMOA3JzDJjvPumWWAHwhsTg4dVZAYg4ml4HnHSbKnOzJjTp-5IkoKUgjBSBPEyYi6E-lNyT-l5JI2A1U7yIC9o94vmnPhOOM7U_RCsFeYGNf7fsUfzON_x7nujTUfuj0HZbJBZkzIyBKpnqMvPEIM2QMQ6GBu_XOchUYirPsvD1lm9vftCulNW_t6xacxnAAFpxdI2cw-1Q2mnUm9eo_QmVPMox9KABRJ6cww4vRGrnoXQ_Co-KEbpxo7cMQNVDAMuYnOmLQvc1QbIqr7ayeXAnMPUg9Lrop0GIz3mw3nZAR3eMO9BrzqsVIa_wldKpQPgjBbNH9Jtqa2FG1YakQB4dFk8mJWn2HQUpTcvXTY4avSDhg-xqt3Cp0cQlC5Mac-AVbxVAXxssoBuZUZJJQL2K1bvVbSaKXjZHDDkdqmt3TR4iw5oUunOWaJUJ6CRqnIwbtqc94RGPmr-8Edos7",
+        "width": 3000
+      }
+    ],
+    "place_id": "ChIJwwX868bzK4gRbJLlG12FZrc",
+    "plus_code": {
+      "compound_code": "GF2C+8M Waterloo, ON, Canada",
+      "global_code": "86MXGF2C+8M"
+    },
+    "rating": 4.7,
+    "reference": "ChIJwwX868bzK4gRbJLlG12FZrc",
+    "scope": "GOOGLE",
+    "types": [
+      "car_wash",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 66,
+    "vicinity": "575 Davenport Road, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4221878,
+        "lng": -80.48779429999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4235642302915,
+          "lng": -80.48651566970848
+        },
+        "southwest": {
+          "lat": 43.4208662697085,
+          "lng": -80.4892136302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Petro-Canada & Car Wash",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101528657312900022770\">Alex Parmar</a>"
+        ],
+        "photo_reference": "AeeoHcKyWkdrt5z7_ToCJsCMTI2o-TV_SQ34ivP2Gz4Lnag7M4lKBtStxvHkeD7UJKsKcSr4Myxp4fEeqU3smkoixlmHDeZETU3XKUZS9F-dLBwQt3zHK6GH6NHtHu3MFo-DBLzzr5McxGfA6Z49mBueXoo3XWoEifRi3fAHpZwuPmVIk3L70cTg8mLfwtZvi1HjjHwOBW9QxiWEk2abYRGTK0uCReWsq6_WsZ46JECRwnUOFNytcwZnbkoJxu6gP8Em09TkaooG7eG3HH-K-bvMRH0xF9cLj3lfyIvpPCwDVes09bptW1P5T3xhSHoNMGp2NleptuOZq8-jkvPBrQZVidh0yBMHoW8PrmHaHl-718Uc3pj5EM1KNFN3foJarWhudiI9vnhJXrjmQp0p7o_4WTOnowCSv3dgDu9DqLunpON5PdKvg8m-6T7EJM-V2OWIwvZJZgqUp0tmw0KfHwWZ6W7ytEhV-Z1hvVQZfVsvCm1pOq7S7M0IdoHXBieGHNlPpe5c20obaBy4ttaGBp3CvkQedIKeBqKP9bKD6B2CZaFu9Y8LjgBSFfINFqzeqvH3edQ7Fghyn6LfkhTOiK_uFFavKpm7_qS5uqYepjMPV6rMzGP50vg6otnVwQpAsfsf8vDhVMqT",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJtyFmFxD1K4gRGh28qh9N-gw",
+    "plus_code": {
+      "compound_code": "CGC6+VV Kitchener, ON, Canada",
+      "global_code": "86MXCGC6+VV"
+    },
+    "rating": 3.3,
+    "reference": "ChIJtyFmFxD1K4gRGh28qh9N-gw",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "car_wash",
+      "liquor_store",
+      "convenience_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 139,
+    "vicinity": "795 Ottawa Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4286536,
+        "lng": -80.46731
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4299596802915,
+          "lng": -80.46599441970848
+        },
+        "southwest": {
+          "lat": 43.4272617197085,
+          "lng": -80.4686923802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Lustrous Car Care",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100340208505959180873\">Daniel Rak</a>"
+        ],
+        "photo_reference": "AeeoHcI1jWHc7k6AV08GKJCARWraurXshVaxh_BOVeakrZSZtXR59mz0yDzYaJAZl6Xr9BvJ-QyaPynQELy1A-YOjzos9xV1BYmbAaepfyLDX-ABTZUNl8ktvCtFVkAY39ZVpitP1077m0jyNuqFrDzder7hy8fiX0iu01Pl-RF0QJxaLN_vqFtDQ-0osZeMTr3cMQGoG3tec5QKfENKLgH8fcBJWiCDSZjvAR2BhQxmrYt-h_z5SwiIzgmw9wOlU7xbxMcRjk65kHw6vLJ_s1QYfP6Gex3ZvJ9o3PCaHRmx8X_tE7Qpgy3XPd9QAfxsUMTNFdUR7rakG5NUyu0yFYWrhQ-iH8kODt7SlzLShWXGmYiRPs66zGw2e28aaxgDzskZqcuRGmENsWXd0SdSCeeGGL6rn7BQ4RJ5xFeln7a17m8rF2FR-ucJc9I73ugQbU0Fe3vlAyTfoevtd2lsP6QmUywM81BnDxYTmOoCPNmO5-OtLXN_ECvCLcybf77-SyyHfhw6t_O8GS_Lpe38rctWQ_fk4KIfzCA8JpIcg2WHE1NJ_oO0UBxDcPU2w91UwRSWIV8Zf2eo8kgPOy2l1jQB2NviXCOLxMsfOzFjT8vUuizPXStiKEJsmiy5nJY-fdJcNO9ZhA",
+        "width": 1616
+      }
+    ],
+    "place_id": "ChIJA10QSCb1K4gRlAuYVXPUByQ",
+    "plus_code": {
+      "compound_code": "CGHM+F3 Kitchener, ON, Canada",
+      "global_code": "86MXCGHM+F3"
+    },
+    "rating": 4.9,
+    "reference": "ChIJA10QSCb1K4gRlAuYVXPUByQ",
+    "scope": "GOOGLE",
+    "types": [
+      "car_wash",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 41,
+    "vicinity": "836 Courtland Avenue East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4773658,
+        "lng": -80.5396552
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47865728029149,
+          "lng": -80.53810821970849
+        },
+        "southwest": {
+          "lat": 43.4759593197085,
+          "lng": -80.54080618029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Shell",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1193,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108002155041314548649\">Shell</a>"
+        ],
+        "photo_reference": "AeeoHcJ9meoj3yqqaRLyq02BB_CLeMBL8jSScTkGokSGCQ3tiTZY-h1Mmf23wzWaxCj29VPBJDDNx6q3GGed7B29Z8JTKjLOQiixukPiyVYX1dvdol7ffWFmywDEgVRw3LhnW6rAdFeU-ZN2vYmqz7WRnvfGPiILnZgTqoDLlS6VYymrZGON8WN0CC1rz1cp7tXgFBkRHD18vzJfiuPI_DE0Rk_7b8czY13ZyGG3Xb1xi1CXP8Eu_nxLAU1VzF4CxZAktudm_hw5x_DpjxqFEGF8HfNIqzavcx8ZLJFll_3YwJFifKhzgvRTmc2twPbAfcJzWQ48UW-PaCc",
+        "width": 2119
+      }
+    ],
+    "place_id": "ChIJh_hzAf3zK4gR5HBxRSQNtnE",
+    "plus_code": {
+      "compound_code": "FFG6+W4 Waterloo, ON, Canada",
+      "global_code": "86MXFFG6+W4"
+    },
+    "price_level": 2,
+    "rating": 3,
+    "reference": "ChIJh_hzAf3zK4gR5HBxRSQNtnE",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "car_wash",
+      "convenience_store",
+      "meal_delivery",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 73,
+    "vicinity": "360 Phillip Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4711921,
+        "lng": -80.510353
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4724579302915,
+          "lng": -80.5089547197085
+        },
+        "southwest": {
+          "lat": 43.46975996970851,
+          "lng": -80.5116526802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Shine drive Mobile detailing",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103109219883240766895\">Shine drive Mobile detailing</a>"
+        ],
+        "photo_reference": "AeeoHcJ-2XFEkRiQaBA_yVJu9P9FmC9sgNlvBbjugEVRX_GJmC-7BO3kxZ7WwsRwhHDQ0_-dYLAJWOMm-CX2eo6_v8dJ5flx3MQlSQcz6wrfZnoKOQmvURFe-WJpFfvKHkkXtMhEWgq4_bO58MEP2UlYGbVCHdFKhM0Xyu5lJDKpd0ruzX0Yz5UWd8tBMWwIj2tV4dEY5FznISvYdt4B5H_dnt7To6cMp1CFD2yj8RIHj9AGcGuiVF341ui-D6WkfY03MVn4nYvUO3GdxgVbiVEGdhMfgN-sQ7lTnldcOkuGLllCv6l7WNSQxV3998FNMEt2rYuCa0MSd_I",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJH4rkzU6ph0cR5YBNx_aKv2A",
+    "plus_code": {
+      "compound_code": "FFCQ+FV Waterloo, ON, Canada",
+      "global_code": "86MXFFCQ+FV"
+    },
+    "rating": 5,
+    "reference": "ChIJH4rkzU6ph0cR5YBNx_aKv2A",
+    "scope": "GOOGLE",
+    "types": [
+      "car_wash",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 82,
+    "vicinity": "134 Bridgeport Road East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4751032,
+        "lng": -80.5190447
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4765785802915,
+          "lng": -80.51772446970848
+        },
+        "southwest": {
+          "lat": 43.4738806197085,
+          "lng": -80.5204224302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Auto Spa",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116992612198728049857\">Aquib Wahab Ali</a>"
+        ],
+        "photo_reference": "AeeoHcIsFEdNheuxUYGIBMVSXLbL2VAe8JyLTz19fXB8xTkPEusIO_sAs_vFCuXv_Z3CJsRPmnVOGXqwvd0dPUPcmQ7UNTeONSG190Q4lWHlK4pCqk-PstE5qgFAF4J-nI3fvUVT_IxFhKAdPJ4WfaPV_TS7wlj2aS2gY3OVAyr2ws5gePGyzQAWofpRm44oasG8BF6y1_7yGXbFFwAZLcNl1KgAp2l4murd531F6_rjJKE4hQ-uUvPeUIE9p2LkGHlkJzPzo0jNzU2rTx2QYJuLnS6U8aGIu4MwTvzsXfNbvIosCwiY5MCNWkdAJngR9ZYN6abAyVitrEVFOhBXlKoT_N5PQ3IG7fMAderk4Wr-s3ryze2X_OSzFdb4XrsGBQGauZ6sPypJ97zGM1jPPH8cz3B59kl8y1Rit3wwh5BBG1VO8iyCXaS_FXWkM8nsjNr6aazRfwMQHokNyaczXNFnvErJSNdNXQHwqA7NgguG2Hg4_oc8vTIUEeacN6wGVed7m6Lk9fiH96DKrBPV99tESDLmFEBdHuEhUYysiw_Ye7w7Aczy2ehsK3mfxpqlmUfnBFOH6v5NI_Y3i-Q6S2UMq4IPvOENVdSKUxs69yTasiVchCx3J8sqB2TLIhBlc9hs",
+        "width": 3000
+      }
+    ],
+    "place_id": "ChIJRwFR9IrzK4gRhT7DccCP2C4",
+    "plus_code": {
+      "compound_code": "FFGJ+29 Waterloo, ON, Canada",
+      "global_code": "86MXFFGJ+29"
+    },
+    "rating": 4.1,
+    "reference": "ChIJRwFR9IrzK4gRhT7DccCP2C4",
+    "scope": "GOOGLE",
+    "types": [
+      "car_wash",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 164,
+    "vicinity": "93 Lodge Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4773559,
+        "lng": -80.539566
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4787072802915,
+          "lng": -80.53821681970851
+        },
+        "southwest": {
+          "lat": 43.4760093197085,
+          "lng": -80.54091478029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Shell Car Wash",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103728723483866214020\">Catalin Floca</a>"
+        ],
+        "photo_reference": "AeeoHcI9Xq8ZtF4DNJnBwp1OD2LZnKv6u5PdFJ3IhWCrSG5undMTJOaa6gUYqjXd4gEf3D4O12vb9lCvXfa87_PR17KSsaNMbGNGlPMNyyVJwfASsqeGcvYrOrUzgiO3O5jecl_fi86_TazOn1IyI2tcUWRAFsHPezReJEKo3kkq5NAePo8bl-MKFulnmxd1T1ewYcmh8ivrBBYDElvlfn0-MmuS8wlxOL5QEnrHZPzv56K1nDvNff9xMHjEJ5aJhyMb_49NLMf2C0RUj2jyMo8_0V2ft0t1yWHJtwIA6XB2Oo98erBs0ypyI2zytiW1d0Vqs3UqZPK2mLslwuwkd1UbRW-BlJEVpJuS9leHLE4TAzCjqceSICJOcM2wbvrUziCVZwFldAPkUNttCoRbHE-qn3FE5ghTkKvjxFWA-H5J8ZTieCXKrbFlVdSYk3bnKdrxvCtrgY2cbcRn5zXyLoh6HERHhzA-nSeakEoNszMArA7r8Yo4Hi4yfcJOQ2RazsXxfaymSZK8u2IkwFCEjf1uNCVhRpLiTZSwupncYwYJ6fS8vRHTBBh-XNKx-VqYzO74hDdtSqGrUqPHn2pZc7zf63kTj1EdAzO10SU9KSFSahPPaBkI3BJXqcoHqxjJwTzKA8OFZG6R",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJxf1w1p_zK4gR3dUMCRjorL8",
+    "plus_code": {
+      "compound_code": "FFG6+W5 Waterloo, ON, Canada",
+      "global_code": "86MXFFG6+W5"
+    },
+    "rating": 4.1,
+    "reference": "ChIJxf1w1p_zK4gR3dUMCRjorL8",
+    "scope": "GOOGLE",
+    "types": [
+      "car_wash",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 87,
+    "vicinity": "360 Phillip Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.48483929999999,
+        "lng": -80.5274795
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.48619508029149,
+          "lng": -80.5261303697085
+        },
+        "southwest": {
+          "lat": 43.4834971197085,
+          "lng": -80.5288283302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Circle K | Car Wash",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108817590406575291296\">köiZü</a>"
+        ],
+        "photo_reference": "AeeoHcLyl2sLIEf6WHGDNd270WcN1Vk8WDYYUeg59DTxif_3idO0LcRg2bWY9HIVaOcc5o5SiGLeVxiZOqAcCJIVjuQU5KO6jZqWS7S3MYULdxOZw7UAods7kwA2wJ_6-GLd-l6g71AGz_GDwfYl5ZSJTyp3ECzMK_kbE8iYMaP6tIHVvbFZo8tMKNvVmb0K2y0nTqmLpBlpSKnZQ21iJp1-DWywO2YqCzjWvHci6s1Euns3P_WqbrE1KammgtlCs24Y0EpxVmp7YwO29nwi_ObsovHdOcVqEZ6F4Ylm-G4IQxm78zPOT0AgeXqNRNn-9pUFTUpgCxvoHnK8i3QfDi1awcwV21MoC3ArLYVB2KgT6n-b5x3-rays5r4XBF-Jl9jd47jQA4MkKG6DZviRGMP1TktCy5UzYzvr4tXxxqVVmDDHux05sWrBgyOxbpdmwsJxKjR-I8clO7m31gkfSI9KBU8Z_fULnUyXv-KyjQCwplvcvQloDc4u2YWXbg9peSq5-D4hIu2p1_vkX6WzwKe_xkvfBHFMJSfec_jokj8yQsTYPj0ntgNHI-VsepQuztqt5UM_NVX7cU6h_yy1FSbT-aCfEfwyBAZtUrzcTRtEwBRbfKMm7OnHTJ2Jf-401ylRZPjj9Au5",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJH0HywE_zK4gRP1kneS705Eg",
+    "plus_code": {
+      "compound_code": "FFMF+W2 Waterloo, ON, Canada",
+      "global_code": "86MXFFMF+W2"
+    },
+    "rating": 1.8,
+    "reference": "ChIJH0HywE_zK4gRP1kneS705Eg",
+    "scope": "GOOGLE",
+    "types": [
+      "car_wash",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 18,
+    "vicinity": "415 King Street North, Waterloo"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 43.45864649999999,
+        "lng": -80.4831427
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45988493029149,
+          "lng": -80.48172601970849
+        },
+        "southwest": {
+          "lat": 43.45718696970849,
+          "lng": -80.4844239802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Twin Auto Detailing",
+    "permanently_closed": true,
+    "place_id": "ChIJx8LvK5H0K4gRgndhzOqHSJs",
+    "plus_code": {
+      "compound_code": "FG58+FP Kitchener, ON, Canada",
+      "global_code": "86MXFG58+FP"
+    },
+    "reference": "ChIJx8LvK5H0K4gRgndhzOqHSJs",
+    "scope": "GOOGLE",
+    "types": [
+      "car_wash",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "342 Victoria Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4370136,
+        "lng": -80.5130934
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4383335802915,
+          "lng": -80.51167616970848
+        },
+        "southwest": {
+          "lat": 43.4356356197085,
+          "lng": -80.5143741302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Super Wash",
+    "place_id": "ChIJQwymA030K4gR2gA12qDfFaY",
+    "plus_code": {
+      "compound_code": "CFPP+RQ Kitchener, ON, Canada",
+      "global_code": "86MXCFPP+RQ"
+    },
+    "rating": 3,
+    "reference": "ChIJQwymA030K4gR2gA12qDfFaY",
+    "scope": "GOOGLE",
+    "types": [
+      "car_wash",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "426 Highland Road West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4921211,
+        "lng": -80.5346185
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.49356348029149,
+          "lng": -80.5334274697085
+        },
+        "southwest": {
+          "lat": 43.4908655197085,
+          "lng": -80.5361254302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Eco Mobile Motor Spa",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2988,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116246226035786958768\">Eco Mobile Motor Spa</a>"
+        ],
+        "photo_reference": "AeeoHcLY_S4EaPnj8cOBnNSDomjnnfB0T29jCz0stIhNroHpceGyX-FFKjd-KTcuWTWjYUB8OojZXN1gXbzVSwExMcJsZsiB5REsoGYuieh08hZQiWIvNxq9-eA9-p6F2MbCH5IoccbhUlhFFWrwSCUXFBOGoXv_DKfuRyn9vvbTvUw9IXMcJcFJAgCpbAJF9V9YrXvQegQXHKYTglV7bpK-W8hq6re5Py5pVb-Hnn5kzKye4kBz4jIA0yFNioc33zP-5_MICWyMQthCz7WbAxxGOWclf9heRhor97H4-1IgAo0fopFProYtMyYLY-2u6Ej6H_d2vu-m0KE",
+        "width": 5312
+      }
+    ],
+    "place_id": "ChIJ9QCi7Jr2K4gRPTjIsHyzpGY",
+    "plus_code": {
+      "compound_code": "FFR8+R5 Waterloo, ON, Canada",
+      "global_code": "86MXFFR8+R5"
+    },
+    "rating": 4.3,
+    "reference": "ChIJ9QCi7Jr2K4gRPTjIsHyzpGY",
+    "scope": "GOOGLE",
+    "types": [
+      "car_wash",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 9,
+    "vicinity": "65 Belcan Place, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4676596,
+        "lng": -80.5673011
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4689487302915,
+          "lng": -80.5659213197085
+        },
+        "southwest": {
+          "lat": 43.4662507697085,
+          "lng": -80.5686192802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Super Wash",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJadDU58f2K4gRH8ofVhl2XC4",
+    "plus_code": {
+      "compound_code": "FC9M+33 Waterloo, ON, Canada",
+      "global_code": "86MXFC9M+33"
+    },
+    "rating": 3,
+    "reference": "ChIJadDU58f2K4gRH8ofVhl2XC4",
+    "scope": "GOOGLE",
+    "types": [
+      "car_wash",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 20,
+    "vicinity": "440 Columbia Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.50012840000001,
+        "lng": -80.5338177
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5013765302915,
+          "lng": -80.5323280197085
+        },
+        "southwest": {
+          "lat": 43.4986785697085,
+          "lng": -80.53502598029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "24/7 Self Serve Car Wash",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 540,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100005947272553582258\">24/7 Self Serve Car Wash</a>"
+        ],
+        "photo_reference": "AeeoHcIapAXJXlTS50fjnXOZwUj_pFa6ATWnxlc7h5aAAmjJJcCG1IwLZIBMyRmsRrshxphcMuh8GPp-B2fsAScLISVD9ZSlvWhy6KAgjeT-1uchY9TRKmlLD4Ewvt3TZ1WApspk5Dawu1uZPrusHfZ8rYsKZgt70f0b_bVi-8suDmcLBb5ssDXmWBuxSw9AWPC03wjxO7gmArtQKoHVZND4PI5EL80xALcNGQD-zcwTiRyoHwAkTzAPli-_Ow-N-2p-YQegJboAftv1RZyAWZwYF9mBww4do4OEKKBtx-iBK_bi8iogEaWm7kYncu3K12k3w2gPZgcoA84",
+        "width": 960
+      }
+    ],
+    "place_id": "ChIJ4Xg6igLzK4gReh3eWFoOZss",
+    "plus_code": {
+      "compound_code": "GF28+3F Waterloo, ON, Canada",
+      "global_code": "86MXGF28+3F"
+    },
+    "rating": 3.9,
+    "reference": "ChIJ4Xg6igLzK4gReh3eWFoOZss",
+    "scope": "GOOGLE",
+    "types": [
+      "car_wash",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 121,
+    "vicinity": "567 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5005509,
+        "lng": -80.5355922
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5019921302915,
+          "lng": -80.53432666970849
+        },
+        "southwest": {
+          "lat": 43.4992941697085,
+          "lng": -80.5370246302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Fresh autobody",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112280655218580410975\">Sebastian Toplician</a>"
+        ],
+        "photo_reference": "AeeoHcLKMZpWaiddTzgILTZFcufyPj_xa7NMH9lVI4pbUohMEcsrgFuDoEAi-ssAvsXKZ2h4epuKfZmJBc-SOGuBuN8ZxyKsSVChljsyMDmuR5mimVcdchrsg0ZR87LGRJmC-fKiWg95LZLofkIfAWcAuO7AKQxoNcYD-VR9Wrc84VVYR9V4Zn6bUhOIIYFHmbjKiwN2IPHA0ZP6_ZNsRmfOFrMdKCWOPtNJ0SJUhugAuqHxCfJCgD2VLVZdvXG60ANKbgrP2tUZYOjIFdJUtZ3NBFoJS4x7O4wgaINjA0jVD2D49vsrLXSv1_xdXYKrbMm_c86Zh18Rt1wNu0IspHRLy_UBF5Z0bk-lYabdM4_IC7u072xaFy0w_ldFTUo1Aj-Sm8FVIjvBp9ARlZraPHwC6JA8GOVwF7mKTIy1Vp8KV1UAYK-tYWMkxpDxJeM0E9XR8T8Il1eTVgVFfkaSMLcYHn9Pqb8voX1PKPsKLxgMn3dSJVNSFdGPyXwz3kLuTQh2bKlBmG0PrmmQhZb5RYAnOstg9EsG4Mo50wqq1NuDYJmSiTWaET_JhAG1f_m366A79cOK5smrgWeTAJgwKq7p4rl3TYYKFZnbgS63Vd_qmqu9RdqHDmpiR_SAsd415VwXl9rHDVp6",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJQ4V1HdvzK4gRMVeknJWMhzQ",
+    "plus_code": {
+      "compound_code": "GF27+6Q Waterloo, ON, Canada",
+      "global_code": "86MXGF27+6Q"
+    },
+    "rating": 4.8,
+    "reference": "ChIJQ4V1HdvzK4gRMVeknJWMhzQ",
+    "scope": "GOOGLE",
+    "types": [
+      "car_wash",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 99,
+    "vicinity": "35 Northfield Drive West b, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5005481,
+        "lng": -80.53561049999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.50198908029151,
+          "lng": -80.53433581970849
+        },
+        "southwest": {
+          "lat": 43.49929111970851,
+          "lng": -80.5370337802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Car Cleaning",
+    "place_id": "ChIJs5cMp9vzK4gRSdBLa7NA238",
+    "plus_code": {
+      "compound_code": "GF27+6Q Waterloo, ON, Canada",
+      "global_code": "86MXGF27+6Q"
+    },
+    "rating": 5,
+    "reference": "ChIJs5cMp9vzK4gRSdBLa7NA238",
+    "scope": "GOOGLE",
+    "types": [
+      "car_wash",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "33 Northfield Drive West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4469229,
+        "lng": -80.5722198
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4481840802915,
+          "lng": -80.5708866197085
+        },
+        "southwest": {
+          "lat": 43.44548611970851,
+          "lng": -80.57358458029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "SIMONIZ Automatic Car Wash Station",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104338751294581844198\">paolo tranquilino</a>"
+        ],
+        "photo_reference": "AeeoHcIly-bixyEubt3-yOnXUyK8Df_MEka_aMhmApMvvx05ugWTRjre8kKnK9tE-kPlPLa4szz_50rFsOFPgaBwhpspACOJtWgABUBHOKKGJ8mE5Niu7uUsqUzSKV9oZK3cPIJDwP7yYJjqBSWSLVPnbMAWnUMZOSTeBIOURjif18cPb7Q_OBk8ZKmB8w0uFJgLJUwwa1CpycTtQlwIZBhqFl3xPwuOAReI_znmD5nm3JD9LWGcpRztQ9CbJcV0YfLlS4tCHk4_jVg6CV0U_unIaxwh6yTUzbxYsEzILAw4bMaf9gsA4T6H4uZd2EdztUEgET-HCfcZzSFPl3LlHPMM_tp0XY6l9Qeh4D3VuTzxj1_HI8JIOWvnX6dq189mrX5zXgx1fm-d0SAW6lCnZrhbWFHFyn6eiz8nADMwGkRsSuKUlHXNFAkOeSe4i45zJY5UZpGEdB8fL19-YbVo6a1j1Voi8KVwh6gcdyJqwa7ShAhxbvWQ8N40WzF-p8lJYMoK4uulnqGbz3MjTC6sHsV-5K0eYUbcb8LUjVxXnznWv5E5uivDWRk5ItPEMXXzIvefOXz0KVMFm7g85jGNuCGtUHsmqw4rns1ALcmTMwcNcy68pyJu2G8SKHnC52GWkiuc3RsPmQ",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJlV5-8Ev3K4gRTP-qvzqA-XY",
+    "plus_code": {
+      "compound_code": "CCWH+Q4 Waterloo, ON, Canada",
+      "global_code": "86MXCCWH+Q4"
+    },
+    "rating": 3.7,
+    "reference": "ChIJlV5-8Ev3K4gRTP-qvzqA-XY",
+    "scope": "GOOGLE",
+    "types": [
+      "car_wash",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 16,
+    "vicinity": "Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5044042,
+        "lng": -80.53722139999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.50589223029149,
+          "lng": -80.5360383197085
+        },
+        "southwest": {
+          "lat": 43.5031942697085,
+          "lng": -80.5387362802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Halo Car Wash",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114595817457583994169\">J C</a>"
+        ],
+        "photo_reference": "AeeoHcKKHTSsbyftwZhRcYt6oseDM5UJYF3jQS4uhWjJg2-ix7_4PGv4zKSiPdWsFQgX0vzk7cKaCHot27aUFgle0vfLXSxkPjTZmik8IVyDPA8Hu301DC7n1NqvW0GC1XHrHvIVqoc_TPQLo8dkeA-yDblPzC9W8CBfo6qkqWybSBen7wP8N8slo43rhMx6Z1Akntmhnsd4EtLWmd1BIxb_c_Ito422X2dzBTNsIQEeWzZ2Vcu5wyoG_k16829X_C_hhOucf2TGc1i8S12PcwwIHoRiF4c9l0BsqizP-neX8m63j3yBPSKiB1VaxAtnXnPg2XV8gdf1Y8_NMc3h_hcBO1VwwEhr1YDgB6U2nHbyTN9kSKEc6H7U97Zm5ZT6UiP7jUmLoLjHxBA2itpf09Yqt2m6XcHBEC8pwqkcksM3CCUXasyyz5H9WzqrE2_krhB05I_TcTrJkWbjNCRtuuStfVNW8eZyFBU--TjDi00TlC6k8gunNhr6ySvHFElx0Mt3ucEUyCnA5yARWHdCntQU6TeOfxotXt-h0SussWxTJIi_sLzDNAtuIO6-Oej2P6ikc8y9FpGGexsla_rbnRkt60paAODboKoHyRUsM2cPwsLiuoj5FO_cKMb9S5sLTLM_tAVYWg",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJCXA609TzK4gR2xw0LNL01ug",
+    "plus_code": {
+      "compound_code": "GF37+Q4 Waterloo, ON, Canada",
+      "global_code": "86MXGF37+Q4"
+    },
+    "rating": 4.8,
+    "reference": "ChIJCXA609TzK4gR2xw0LNL01ug",
+    "scope": "GOOGLE",
+    "types": [
+      "car_wash",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 625,
+    "vicinity": "651 Colby Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4584545,
+        "lng": -80.4618764
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4598737802915,
+          "lng": -80.46040906970849
+        },
+        "southwest": {
+          "lat": 43.4571758197085,
+          "lng": -80.46310703029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Advantage Mobile Detailing",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2796,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108644974376634422719\">Advantage Mobile Car Detailing Kitchener-Waterloo</a>"
+        ],
+        "photo_reference": "AeeoHcL_mr_ZeXmPmqPVN10wMKLnyVKZixkqRnRgX_EPTCHooOvsqj4O2kpiayazsWTHKWykkxaVwvhiWiMNQXkC4-PqN2PmAvynMTVSYMVof6HR_SSQe-rzFzJ05rDZcO4wgBcLJ4-IucglsxNlG5DdRtaKjrB_P1DVFXIIWyK08o_ywJ4t6Up-4CupPOXlPHJGIJYNc4FQmtBb0Po_yWY28hw4BczgCENTzCYvfo6n9c-XcWKoMbvZzzffozEajxN5wRUPoVGtm_mpPXAxqBrPjC09cvrderdj9ngV26cavUaYR1r3MHCuoBBzuS2NF09-y6G4sbzE6_0",
+        "width": 1290
+      }
+    ],
+    "place_id": "ChIJObNI6DlVngwRX9Xgnfsuvzk",
+    "plus_code": {
+      "compound_code": "FG5Q+96 Kitchener, ON, Canada",
+      "global_code": "86MXFG5Q+96"
+    },
+    "rating": 5,
+    "reference": "ChIJObNI6DlVngwRX9Xgnfsuvzk",
+    "scope": "GOOGLE",
+    "types": [
+      "car_wash",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 40,
+    "vicinity": "268 Sherwood Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4542174,
+        "lng": -80.57884419999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4556770802915,
+          "lng": -80.57750326970849
+        },
+        "southwest": {
+          "lat": 43.4529791197085,
+          "lng": -80.58020123029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Power Car Detailing",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117160021933793662304\">Uche Elekwa</a>"
+        ],
+        "photo_reference": "AeeoHcL-ZQvQlF3F6Z0Y0fPSjqJZfysmiZNop3OC-_54pDFRnTPWMtYhG3dPW7Ip4Y3omN_CsRnca9hBvsUVteFVMoOBRv2EyxfYSUZbM4PPOewSd4RhMOyjO-SEbGJgr7L9zmJD24UVQJRT4NVHUKuzdQTPDAFT4rEExrpvKG_wdMx_zML_mndwuaLsDOOIZg7yZaPt9stJT__IN_Y5MJOPu_qGalWY049fCayX1km3jn1_KcoG1xj0BDAsBm6oTLcG1JVPWjOJyysYD1i9qo2Ir2PLysJg8IrXthMZGo0pgEHFiHeq0jtjbfNpHQMO6SsSGY5tBqZ89WpdQm45r9XI_tDoprAknnngvpMX9VF3O1o87Xo0Em3pPtgvlKINfhM_k7DtQQx7UT2PyYB085RYEQWckYk9RGws6B6CdENz50y2i94gqar7H7mXFtCOe_NjU0dJTRK56SCxkX2hpzl4-i4tsJTVHbb0659mdeE-Ph5xKnFITGQjgumzsobAkB0qrJrQE6x_9PEcxMkcKk45jHETHEJ1I8PVLFbXo_mm-j1uoEXi8o37b_eNfzxwDH85JC_fnYnFOokFR8dEuBZuHyv4rbCzaGhf9x22yJL22Z7NL6EcoZMe2jS_jlSyOsbpzoa4Aw",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJNZDNn0JkqIoR8VszAFYRE7E",
+    "plus_code": {
+      "compound_code": "FC3C+MF Waterloo, ON, Canada",
+      "global_code": "86MXFC3C+MF"
+    },
+    "rating": 5,
+    "reference": "ChIJNZDNn0JkqIoR8VszAFYRE7E",
+    "scope": "GOOGLE",
+    "types": [
+      "car_wash",
+      "car_repair",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 88,
+    "vicinity": "727 Keats Way, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5057199,
+        "lng": -80.54076069999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5072137802915,
+          "lng": -80.53916706970848
+        },
+        "southwest": {
+          "lat": 43.5045158197085,
+          "lng": -80.5418650302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dres Auto Detailing Inc. KW's Auto Protection Centre",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1386,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103275826849681154639\">Dres Auto Detailing Inc. KW&#39;s Auto Protection Centre</a>"
+        ],
+        "photo_reference": "AeeoHcLVyD4LCUvMI1pkYllVZjdXXPMCPFhX5tPJr6qSsgPn7QIXg7JgyJUWBKUvHC38gI6mzNkdtugenG6XXbpDKotzH0QTL7E1dI-Zd8KuClUSddXtnHpi_OOra3d_MMBXfeJkyfCxKRQb9pifHZkK4V_3nZsB5xmvdjTbp-YuI0cGkrPr_UitUHhiDP_JKMUMSW02fjDHDFy-c9TAYQw3AVwzWb9bn7aLjXNsk4Z3x-6_feSG8gIPufJ8e8IGrde-hP1wgS4-dcQgc2dYILB5VrhmGxJd2hJ8LYJpICYikhHZnsnVgXKKxrTCEIeqWhCchHhKVB-qVho",
+        "width": 1180
+      }
+    ],
+    "place_id": "ChIJaYZjMol1LIgRaNJTUyp1OUk",
+    "plus_code": {
+      "compound_code": "GF45+7M Waterloo, ON, Canada",
+      "global_code": "86MXGF45+7M"
+    },
+    "rating": 5,
+    "reference": "ChIJaYZjMol1LIgRaNJTUyp1OUk",
+    "scope": "GOOGLE",
+    "types": [
+      "car_wash",
+      "car_repair",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 186,
+    "vicinity": "636 Colby Drive Unit 3, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4733654,
+        "lng": -80.4387711
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4744287802915,
+          "lng": -80.43723366970849
+        },
+        "southwest": {
+          "lat": 43.4717308197085,
+          "lng": -80.43993163029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Valet Car Wash (Kitchener)",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 890,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104892508810911925436\">Valet Car Wash (Kitchener)</a>"
+        ],
+        "photo_reference": "AeeoHcJ0LwagtHBNF0mO89-PzrzAL--GfI8ej_fVgYBh9gUcnt_Jgh9DDtFZRJ2tJuYbthC_CZJAU1M4oWaut9WNvJ4ME9hVuc8OhPnNUBAoOkiGKTa2p3BTeuTIDn2_5bnqRCNGFQyojxCXiNxmFkNYoahYXxImHaPc_ryUkhqg0pon1HjXypkyFtf94Hv1-_6ILTwB9RtkWDazfrOqBEH8iEwfHXWrTedhXUW6BokCOhWEE01jkXbxIz62Xm8JArL0M2tLgL-cu78Yyj4y-cM75GfLq4yIOpvT2bdX_SO6lH7X15dbNYtIImM0QiajCveO3wQxOPbjKmY",
+        "width": 886
+      }
+    ],
+    "place_id": "ChIJb80jDqSMK4gRS9d2MvBXaB4",
+    "plus_code": {
+      "compound_code": "FHF6+8F Kitchener, ON, Canada",
+      "global_code": "86MXFHF6+8F"
+    },
+    "rating": 4.1,
+    "reference": "ChIJb80jDqSMK4gRS9d2MvBXaB4",
+    "scope": "GOOGLE",
+    "types": [
+      "car_wash",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1291,
+    "vicinity": "1520 Victoria Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4234836,
+        "lng": -80.5531767
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4248316302915,
+          "lng": -80.5518779197085
+        },
+        "southwest": {
+          "lat": 43.42213366970851,
+          "lng": -80.55457588029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Jet Auto Wash",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 315,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104150364976110035178\">Jet Auto Wash</a>"
+        ],
+        "photo_reference": "AeeoHcIIwYVwLuXTk0_Bjnmexpfqvu9BeclaN_HAB_mUFiwwn92qM3reg1HorKqnwD5UiSdAZoyNDRmTVPQh1VH2xJWLjkK8Ztopv9StGiSlO6i3h2wAZppbzKnrNMxOHLskVlPszIGRC-GOluJnHaC8_PYaVyuqFNmaIFo3aka_QB3BrvzuZDYaKZDCXOfeF-s15shd3_F5uZiT-42KDPJZS0THtGy_ZpLVTOlFSjqfy-psWY5VsvwMzGGxLXzoaJBDRO7JqRTXkeY9kv-dTaqZ4BIRTWc97QzJZQaX6FqNDEfGr-mwH7ip5JWoapz4ZieEdNVjUCKa",
+        "width": 851
+      }
+    ],
+    "place_id": "ChIJt5ZF7sP3K4gROj8qyBZCsV0",
+    "plus_code": {
+      "compound_code": "CCFW+9P Kitchener, ON, Canada",
+      "global_code": "86MXCCFW+9P"
+    },
+    "rating": 3.7,
+    "reference": "ChIJt5ZF7sP3K4gROj8qyBZCsV0",
+    "scope": "GOOGLE",
+    "types": [
+      "car_wash",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 85,
+    "vicinity": "1500 Highland Road West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4156395,
+        "lng": -80.5134338
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4170446302915,
+          "lng": -80.51205506970848
+        },
+        "southwest": {
+          "lat": 43.4143466697085,
+          "lng": -80.5147530302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Canadian Tire Carwash",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3264,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118047614734726323401\">Travel BIG (S/Y YAFFA)</a>"
+        ],
+        "photo_reference": "AeeoHcJVe1210dFJeD1ony7KVg5iJzq6nvIhOb3t-JzPKvfZagcRJiHwUmRlOGrUSRSnhIXr3ALhFQ4pwSa-CQep--3PTyZW7SRbhbh64oxOX2Bd4qNzn7OTczKaDoCZZHNMMnaBfnt6_mztvExsAL81PrV8P1qM3S5uNMYOtOFl1pgYRUxtyzq7cHePCpTrscrANC03sMu9MyMW_V-tAbfmk_XwGySWudYfGZHnSV3FZu_T2Cnr1aMlCtcnpUio32p3F0_A_M3HqUgx3TPZOUpCQzC8fFm7Aaa0-lZNtf2gfRFvYJxmMHwwE0jhrZ73n01EJ9EmyXTZ30K3rE2n0ejeV_JxEvAAVpIjojGycVszfxjQW2EBUAg5cHrPBzmhFP-4I3vi3MLeXl6bi53vGcPBW3jd5EzRxj90PAc9IscAnFQeXSvW5HRiB06VTQv2_MHBOmofrf0gbxWycvpGleMTHaPcy4Io1TNPKkajvEhj6RF5Ssluy_F6rlxrnLCoxgsCrQzSfvhJhD7KwmRKvSSLTOwU3oKL2oVhk4NEcnLaBL8zJEH_NzTNDrPaXqunIGyzobRC5DMOMEEgggmdBQCdowBAmuoennzNi5Yr8aIaKkBbWGIx6P-eLO1hN5V2IWAQ-C679A",
+        "width": 2448
+      }
+    ],
+    "place_id": "ChIJ-WlQXwD1K4gRvvoO35_4rLk",
+    "plus_code": {
+      "compound_code": "CF8P+7J Kitchener, ON, Canada",
+      "global_code": "86MXCF8P+7J"
+    },
+    "rating": 3.3,
+    "reference": "ChIJ-WlQXwD1K4gRvvoO35_4rLk",
+    "scope": "GOOGLE",
+    "types": [
+      "car_wash",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6,
+    "vicinity": "1400 Ottawa Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45060889999999,
+        "lng": -80.4437346
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4519657802915,
+          "lng": -80.44235566970849
+        },
+        "southwest": {
+          "lat": 43.4492678197085,
+          "lng": -80.4450536302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Circle K | Car Wash",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 970,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109761266093574470499\">Circle K | Car Wash</a>"
+        ],
+        "photo_reference": "AeeoHcIFYsUFGTz_myGJgAs1qqb1GjxsjmUHZm4qLOGpGiWV9mydrlxa0-LNybE-F_prSDXM6GkrNLINuJWgRPb8rAnxYFPHtap2H3cJUr6fcA3jzd2y4pzzzx4GTmRZ-u3lcYswJhtYEKqARO1rP4S9rZSr-4Ng5LaoU_afvIlP8KLIqqefkD7e7O0DDNgMvES1mC6566EWoS5VsHVMA8Hag4HGFYnLZF3V1KQFNyx1M3k6_Yghx92t6SygGIZL3XYCfiFUIwJhUu7TKCMmzAr6qSB_3MktPITp1AZgMrvQBe6pE8xdVwRpT0YI1UUD9n-h4CYbAduBArA",
+        "width": 1724
+      }
+    ],
+    "place_id": "ChIJVXEYoamLK4gRjUo4g38ieiE",
+    "plus_code": {
+      "compound_code": "FH24+6G Kitchener, ON, Canada",
+      "global_code": "86MXFH24+6G"
+    },
+    "rating": 1,
+    "reference": "ChIJVXEYoamLK4gRjUo4g38ieiE",
+    "scope": "GOOGLE",
+    "types": [
+      "car_wash",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "1025 Ottawa Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4184786,
+        "lng": -80.4726021
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4196594802915,
+          "lng": -80.47131041970849
+        },
+        "southwest": {
+          "lat": 43.4169615197085,
+          "lng": -80.4740083802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "24/7 Self Serve Car Wash",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105042249810171313740\">24/7 Self Serve Car Wash</a>"
+        ],
+        "photo_reference": "AeeoHcI-kTrWS-oY_gC7jK9YkO7gCKiY1SOZJrX-3oztcu8_VjUgrHD1WedFpN4O8DyUAH-bUmG1M7TLOWEIEA29KhHnSA7Xd5151ggznhj719NSOiS6KaQYPGo38kkCmegippo8MF3eQH-zsBGwsUwuoiQR9ZSneX6uCsS_TtOfAB1qqiAUabqPG_wJwegqm41HigoIz0Ps3qGP2GvxkqydTFldY09YWQi3SE8gq8O89SPN192Tpf3Lcs6k7RG0l6q0nYor4JIRedIlmHSiEKM6Zp7JYFMx_VeASxaSVI9wps6ZN5xmCpeH0gNKiJD43oeVXekkxZJVBkk",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ6RMZrxv1K4gR-KhTjOPAbZU",
+    "plus_code": {
+      "compound_code": "CG9G+9X Kitchener, ON, Canada",
+      "global_code": "86MXCG9G+9X"
+    },
+    "rating": 4,
+    "reference": "ChIJ6RMZrxv1K4gR-KhTjOPAbZU",
+    "scope": "GOOGLE",
+    "types": [
+      "car_wash",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 180,
+    "vicinity": "340 Kingswood Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4070256,
+        "lng": -80.5001008
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4084110802915,
+          "lng": -80.49879386970849
+        },
+        "southwest": {
+          "lat": 43.4057131197085,
+          "lng": -80.50149183029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Super Wash",
+    "place_id": "ChIJU7H2b531K4gRLBCVSKIVQf4",
+    "plus_code": {
+      "compound_code": "CF4X+RX Kitchener, ON, Canada",
+      "global_code": "86MXCF4X+RX"
+    },
+    "rating": 1,
+    "reference": "ChIJU7H2b531K4gRLBCVSKIVQf4",
+    "scope": "GOOGLE",
+    "types": [
+      "car_wash",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.43319109999999,
+        "lng": -80.44452989999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4345985302915,
+          "lng": -80.44326541970848
+        },
+        "southwest": {
+          "lat": 43.4319005697085,
+          "lng": -80.44596338029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "SuperWash",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 9248,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111630421124502839783\">Yusof Ghiasi</a>"
+        ],
+        "photo_reference": "AeeoHcKYFQmLcTMZhNpxAq61r8V2SxbzkZ0C3KA-F8nBTL00IMLZO-PyM3CwOr9t0CGTdP8JFi1VrnPpIGTkTjSqU2edJPr_7x5LokEGbc5N006JhF1OuNxgbr43dxiA9Nni0CoNrobAT-b70_YEiLWVqL-gcv8FRQ_25_r26yX1dnQmf1ooz2yLqboBJSmeH0Swroo_OkkXhK8JnhpL4VJZxue2erMg7UWzt7Wb8vob7tArWdmxjj5eKc0t7SnXlIsoo4BVvkyCDbnIXeEQHr_0yxh6DjVH-YFKvuzE9jFA0lbYx5_vGG328dRbDJ3d0yZpJzz83HuoWUTesFDgg9a9dHhTIWmQ7BDwXir_AraPtybe-iA-yBFFSTxmYdXKwtfq9PZ1PLy5CSGloq9mkMsK0FDB-oeztNxvwm1rtXo7HIjpbkXddvLaaceeF5fqR6rWCphkOAzH-PnASzcFz7F4uJZxAXz8G_8E0259mXWUtEkNQ5xg4y7zfvHAYszWHsADV4rsHuxD6m2lli5YQLySfrSnGSXKfmWDlCdZJ0yBJDhifun2mj7TpvVhSW6gR1qBYeiAXxLHoP5LoykVAku8nSuXqTvpFOH2Yyi6d_3F8Mb6RWLGFWfHcsaJLcasb2kyJCr8kURL",
+        "width": 6936
+      }
+    ],
+    "place_id": "ChIJew5ZuyiLK4gRNi5HV3bNzKI",
+    "plus_code": {
+      "compound_code": "CHM4+75 Kitchener, ON, Canada",
+      "global_code": "86MXCHM4+75"
+    },
+    "rating": 3.2,
+    "reference": "ChIJew5ZuyiLK4gRNi5HV3bNzKI",
+    "scope": "GOOGLE",
+    "types": [
+      "car_wash",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 25,
+    "vicinity": "1241 Weber Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4722901,
+        "lng": -80.4332606
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47347463029149,
+          "lng": -80.4318040197085
+        },
+        "southwest": {
+          "lat": 43.47077666970849,
+          "lng": -80.4345019802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Leen Car Detailing",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ-QJpoDmNK4gRkSlTF7-IRr8",
+    "plus_code": {
+      "compound_code": "FHC8+WM Kitchener, ON, Canada",
+      "global_code": "86MXFHC8+WM"
+    },
+    "rating": 5,
+    "reference": "ChIJ-QJpoDmNK4gRkSlTF7-IRr8",
+    "scope": "GOOGLE",
+    "types": [
+      "car_wash",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "11 Centennial Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4187652,
+        "lng": -80.45488089999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4200324802915,
+          "lng": -80.45324846970848
+        },
+        "southwest": {
+          "lat": 43.4173345197085,
+          "lng": -80.4559464302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Circle K | Car Wash",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104816915264480680590\">Circle K | Car Wash</a>"
+        ],
+        "photo_reference": "AeeoHcKqGRn9z-u63g5NI68feIEBcnw8JZC0uabKQrRyhrdULCjDzJpiGMR0ennDsemgEfCssgXSa4i-hzqZVpB8lplCvblVG_AOTak7_gXmuUucOKHWJOzYy7VY5H8b37PmCiENMoss7POsUE0r3SDlizLIIyDrlwRVJY8Y6-S4ZPMkjs9PclnmNA1laAkYnS4BoMeEJ90t5hH1V2b9tgfFsPnQIOG3YT--sYe13QrwesXLGKJ6zAcmTZ0Zwp4rYpbdSHaLvJGV4RdXNaoQuICOECFiDJ7BFPl8WANIi0BZ0mZzouS8zWRjOYgEqethOZAXQE8Z_uQWb9s",
+        "width": 720
+      }
+    ],
+    "place_id": "ChIJMXHZfEGLK4gRzjbEqxCmttU",
+    "plus_code": {
+      "compound_code": "CG9W+G2 Kitchener, ON, Canada",
+      "global_code": "86MXCG9W+G2"
+    },
+    "rating": 3,
+    "reference": "ChIJMXHZfEGLK4gRzjbEqxCmttU",
+    "scope": "GOOGLE",
+    "types": [
+      "car_wash",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 10,
+    "vicinity": "1321 Courtland Avenue East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.41140540000001,
+        "lng": -80.4579225
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4128719302915,
+          "lng": -80.45659186970849
+        },
+        "southwest": {
+          "lat": 43.4101739697085,
+          "lng": -80.45928983029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Revive Car Wash",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1490,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107732003730710881554\">Revive Car Wash</a>"
+        ],
+        "photo_reference": "AeeoHcKGLbapsYKVMI0j1EKDouWP-IcLAoLaqHTT1PeL1q_gV5IO6gTMp02IL0T_TnOXAZOA_McJzl-CFdau8xkDWYLf_GEc-g4Vc0K8QxcJG73eDZTXK4CFZ0pcmNF24qpYOSHPez6rcwv5biyKWv0iZt_t8yvi65yAT9ilK4AK4qoZ4jWC2Jx5RLrVp6wyu4CXoPpXuUihrjCoN65p6RJ_iFJ4XJCacNIgU48p9fF54LhWzhEgFF1v9yiJoxK3_0fnlcPM9m2-yfEBF3V_XVN6MLAzgBY3mIiCLdEw6TKrsXqRACwqzKrDB3N3qHqGWQmJaqmtuy2IQLE",
+        "width": 2653
+      }
+    ],
+    "place_id": "ChIJZXJDYU_1K4gRW29cyaFCTvk",
+    "plus_code": {
+      "compound_code": "CG6R+HR Kitchener, ON, Canada",
+      "global_code": "86MXCG6R+HR"
+    },
+    "rating": 4.2,
+    "reference": "ChIJZXJDYU_1K4gRW29cyaFCTvk",
+    "scope": "GOOGLE",
+    "types": [
+      "car_wash",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 114,
+    "vicinity": "232 Bleams Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4200511,
+        "lng": -80.4458361
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.42140328029149,
+          "lng": -80.4444652197085
+        },
+        "southwest": {
+          "lat": 43.41870531970849,
+          "lng": -80.44716318029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Alex Goad Sales Wendell Chrysler",
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116213346069459746151\">Alex Goad Sales Wendell Chrysler</a>"
+        ],
+        "photo_reference": "AeeoHcInviynsZIh4oHz88CWO9jSqIx0yDZx8dyjN9FtKyX1L50zP_1MVRqbzP56923xvvCZKE6vOPpTBEQK8Qnm_IVL6f55pGnwLI42UYox0ObgL1tQT4MpTriAFC4m2wY-PzaYYrNU-FJcOn839tLqShJtDaMmPyA55YN-gOWHv-O1T_IMaewy8EU0x_g58ABWae20YzgLscvW-L1i4lK_vhljdCULOveWjYFkpM6NYm79D-JdgI3jF524KA-7vwjqK1IbdHrsLztX1yHOPQQ8MWPOUhK1UnKAd20Zx9PcQjDHV2D791SS_-zktWWFNdxx_1OkA-tUJhk",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJIbeK4M-LK4gR6_pwSRhagXc",
+    "plus_code": {
+      "compound_code": "CHC3+2M Kitchener, ON, Canada",
+      "global_code": "86MXCHC3+2M"
+    },
+    "reference": "ChIJIbeK4M-LK4gR6_pwSRhagXc",
+    "scope": "GOOGLE",
+    "types": [
+      "car_wash",
+      "car_repair",
+      "car_dealer",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "549 Fairway Road South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.42908289999999,
+        "lng": -80.4360799
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.43053483029149,
+          "lng": -80.4347944197085
+        },
+        "southwest": {
+          "lat": 43.42783686970849,
+          "lng": -80.43749238029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Simoniz Self Serve Wash",
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118145283504239333225\">Brent</a>"
+        ],
+        "photo_reference": "AeeoHcLugi70yrONzg3FHJ_ShVGM7FDo_51agObSsslhmXcpfsgF8ohjbIUU9dH7Yl5DIroYqfgZBexjoht0bph8ejx8xTq5UgNWxU4tvRU7Ws12NshkEtVJ8FGLRI79o13804MBJz7mTDyXfnrZa5XDF4hsujKF-tAb_Xmy7re8TKyXGvmqfmnMZ59frxz0KLBbct372F0XsbEyxECKKpw4o7q9Uunw8qyS9EmeNwd8ezUR2aI9Gac-f6qzJ7vTUd3tPE0v_DaoF4RMDFcuh9UOclTWe7qZdzc1BKjJfdXZ-2OnyuDnoBkPkv_JiujhJWj93RGELDG87RAvRQPwRlEjsTW1pw_I5ALuarNIGu29ewp7wNg3xGp_Ky5Q-CRWyjWBI5s1iwXZ_PPvn0QEnnnw2kcmaOv0vg0R6WucgNFUilOLUw5opN9eyB-1iY5pfrBe99k5Ft091tdStzF2ng1jqeXMOV4INT5YwR1aY_nCvkosQkhf8sUD33sVMvUiypr_CImi3xZXhbNBxxCA1M5kRvCS--vZdE9_mxiVTn7_w2ljQO8KfrPKEkNNCcdi9yGxq2WiuxrhgcaV_UBXqhZJQnCAGHQxB2rKeUv1B8xdDcbDjV_jCnElrSko0yHu97bX",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJwV06hSCLK4gRBBrcrC-hf1Y",
+    "plus_code": {
+      "compound_code": "CHH7+JH Kitchener, ON, Canada",
+      "global_code": "86MXCHH7+JH"
+    },
+    "rating": 4,
+    "reference": "ChIJwV06hSCLK4gRBBrcrC-hf1Y",
+    "scope": "GOOGLE",
+    "types": [
+      "car_wash",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 17,
+    "vicinity": "2905 King Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.41561719999999,
+        "lng": -80.4490313
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4168856302915,
+          "lng": -80.44777136970849
+        },
+        "southwest": {
+          "lat": 43.4141876697085,
+          "lng": -80.4504693302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Zayden services windows Tint( High quality )",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 467,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101071275477635822030\">Zayden services windows Tint( High quality )</a>"
+        ],
+        "photo_reference": "AeeoHcLaJ6RIk1Pik58A0dSxtV4WdslRcc5V8NdLo6xyYz5b9nsLGq5tvOCO871jGUmjnaPVUVRkUl4MYCLAZYD5taAuREEcH_wRWurgoFmLqVRMaMJ8Vgtj9eYXHbIZkygSSJyDo8zcoc1RiaKJr8HAUNleJ8K7ncBcPD8eDeI4A-nnL5DoD6pAG4LOuw-7uwB-f3uCjexAOuev3UyduZXAAWfjrkCZ_Ds_6a2SzK6IMtTFK_KMQbvp0FGZmuQ1Z-rytyMn3tjb5egvrmfVTicC9qKrJkpa2q379s7zzJIWFzCB2VnamTbcuVjhG2FgyXM0eOfImD_ICOw",
+        "width": 829
+      }
+    ],
+    "place_id": "ChIJPchXiyoLLIgRIX2ZBMqupZI",
+    "plus_code": {
+      "compound_code": "CH82+69 Kitchener, ON, Canada",
+      "global_code": "86MXCH82+69"
+    },
+    "rating": 4.8,
+    "reference": "ChIJPchXiyoLLIgRIX2ZBMqupZI",
+    "scope": "GOOGLE",
+    "types": [
+      "car_wash",
+      "car_repair",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 19,
+    "vicinity": "30 Manitou Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4415459,
+        "lng": -80.4255397
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4429613302915,
+          "lng": -80.42408706970849
+        },
+        "southwest": {
+          "lat": 43.4402633697085,
+          "lng": -80.42678503029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": ".",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 594,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101268910727059947432\">.</a>"
+        ],
+        "photo_reference": "AeeoHcL58CC31IVnFt0LvbzgJkWbjZSeyDu5F1BlvsjrNq98PcO-XO7pICrlyHRis0dtsx-1M7IBCM8xqIpe91T8qI7Wwtr88HLEdn0rdtXSR27jNpoHC96tnFwW9-SMxXYYi-ktPc2LDq2l3M9MORV9hB46vKVpFWFoecam6ELvYnSzf4nFm2QuWJsIV-9-KUkiaQFQ8oMV97uX30dg-mTA_LwsdGn2uG-cSAm_jXlXymELFj3iNGoAfBYJgZOYs1fgdH7E1vImf25si7TP9ufCnOpOfgbZb1tX5eXZBETTGEA27xCmx3ErPoD00MWLZUN76Jeluu1Gk48",
+        "width": 698
+      }
+    ],
+    "place_id": "ChIJC-V1KLSLK4gRsfTHHSDgnaE",
+    "plus_code": {
+      "compound_code": "CHRF+JQ Kitchener, ON, Canada",
+      "global_code": "86MXCHRF+JQ"
+    },
+    "rating": 5,
+    "reference": "ChIJC-V1KLSLK4gRsfTHHSDgnaE",
+    "scope": "GOOGLE",
+    "types": [
+      "car_wash",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "227 Briarmeadow Drive, Kitchener"
+  }
+]

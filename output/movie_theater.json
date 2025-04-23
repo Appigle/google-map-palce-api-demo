@@ -1,0 +1,362 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4964009,
+        "lng": -80.52579449999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4976265302915,
+          "lng": -80.5245679697085
+        },
+        "southwest": {
+          "lat": 43.4949285697085,
+          "lng": -80.5272659302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+    "name": "Galaxy Cinemas Waterloo",
+    "photos": [
+      {
+        "height": 290,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104626433317846256094\">Galaxy Cinemas Waterloo</a>"
+        ],
+        "photo_reference": "AeeoHcIvNqIOchp0adaP9pHnK_EhFZQ49j89WtzbrW0GasFXuxA3fHhIXduWisiCW6lV11bu4Av6-17DtOA6gfkKeCn4ZW6x1Kb-BCHBnQQwmle68gC-KDpI0LPx0q0GOgOwiKR1U0hsx5a0csx5a65VplJFw247ReTKiJO2UvPijG7MJeFrXONrr7O-0M89538uPDvC9vYYly5zMIFGQ78G3vkC_7q-qoR-WU5RdZioC7WfXhtvpatq7fncvUHWHkZnF8dGBimqsZnYA8lIR3u6D0AIO7uamUWY3tJfMCF5yt3ie8R62gVEUECs6MlbfmmW1LDUKWDoBSw",
+        "width": 512
+      }
+    ],
+    "place_id": "ChIJU5nJ_sPzK4gR47RegfBRR6w",
+    "plus_code": {
+      "compound_code": "FFWF+HM Waterloo, ON, Canada",
+      "global_code": "86MXFFWF+HM"
+    },
+    "rating": 4.3,
+    "reference": "ChIJU5nJ_sPzK4gR47RegfBRR6w",
+    "scope": "GOOGLE",
+    "types": [
+      "movie_theater",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2970,
+    "vicinity": "550 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4388932,
+        "lng": -80.5667885
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4403481802915,
+          "lng": -80.5652203197085
+        },
+        "southwest": {
+          "lat": 43.4376502197085,
+          "lng": -80.56791828029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+    "name": "Landmark Cinemas Waterloo",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118046782426731936093\">Ravi S</a>"
+        ],
+        "photo_reference": "AeeoHcL99ShO4uLDk3ioMfhCRyDqGJvlfJDB-72R-01HLH4V8G1LaiH5cbNoZIVpsJicK50tSx-Xzw_hsBZ5VsZ26y1OQXE8gNlpy0m5zxdnQdDJPAr7iDnmpHkcY5yXbr2rum_ZbQNbnR6UHpNl-GxH-BhfWTiOHWVQS8LcSOoFfnSLXxbXEJHPyr1PxymzAnVc515AfIHzqSDoqKsdkHVTEI7ZGLHWmzhmH-1EELcox3zgt4rJVCW-1DyRYDyL3eXz5VQJBjO72CQ5qFnFSqQYZgQvB1LDKlsR9uWpkpTPVYKbeEfrH9hnqVh-YfEUSaKgKYTCE5-A5IpUalMeXBAHW-EXtSoQ8UNKCqz5h56sXVMn4S9xL94d7VSqrm-EpOC-O0QIxzqzvXN9zBukOaPe2iRVtUpLZ-flYPPskJCKzWEz9ZqEAKOHzvPGbXfd_eVP8HwGArzzCbl51ynbKby3FwkX94526EY3f9_ElJoMiKIMGj0pyGlA_HaMpAKtQ98SdOapvAy4EjUx27e1oTxknkqHmJwHyDPiH2c7VZ1nbhZSPMjn9yfTG_sXd3K4VAuvLbqxJMDoSvG21HBzQ1imQSnbkLhBD0r90fMG8G3LiopyZ0tuCelRtKjWc6WwYS2uDbnuDI1M",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJJ91fiaZxLIgRUFGG3KYwVK0",
+    "plus_code": {
+      "compound_code": "CCQM+H7 Waterloo, ON, Canada",
+      "global_code": "86MXCCQM+H7"
+    },
+    "rating": 4.4,
+    "reference": "ChIJJ91fiaZxLIgRUFGG3KYwVK0",
+    "scope": "GOOGLE",
+    "types": [
+      "movie_theater",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2406,
+    "vicinity": "415 The Boardwalk, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4735004,
+        "lng": -80.4500826
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4751583302915,
+          "lng": -80.44931665000001
+        },
+        "southwest": {
+          "lat": 43.4724603697085,
+          "lng": -80.45238044999999
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Bingemans",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2656,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108908011889920527735\">Bingemans Camping Resort</a>"
+        ],
+        "photo_reference": "AeeoHcJo6RlLNvWRPxKry75V4zXaecE1SmrQMBZNddYydAOPNmLnexgwBAK3lDElWP2VFG7uNr0fOCa0G0AjL2B1Zch1YLC6cwsK1j05FRL-b1RNrpy7O4QIM7rT7porhu-Xq3zFzMKiOX2fwDqgh_S9dWmPezvY10v5mOdJU6Jv2JS2uMTg4n6GEtjbr8ccnuN3sKW314ehDrvn12-SQ37mBbCzxrei1ZLdaGoUs_3bEObdbiN1uil-awlpaWKSp0L9vzXVChnwOfbq-nb_nqGJ3T_c6rJGPREFrUG3amiBckhCuZ6Uhndu4s7ZR0CTbqjXPnW59wFr_VM",
+        "width": 4360
+      }
+    ],
+    "place_id": "ChIJ1V_snq6MK4gRA8suIZwOe_4",
+    "plus_code": {
+      "compound_code": "FGFX+CX Kitchener, ON, Canada",
+      "global_code": "86MXFGFX+CX"
+    },
+    "rating": 4.1,
+    "reference": "ChIJ1V_snq6MK4gRA8suIZwOe_4",
+    "scope": "GOOGLE",
+    "types": [
+      "campground",
+      "bowling_alley",
+      "amusement_park",
+      "movie_theater",
+      "lodging",
+      "food",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6106,
+    "vicinity": "425 Bingemans Centre Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4668471,
+        "lng": -80.5233265
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46821798029151,
+          "lng": -80.5217395697085
+        },
+        "southwest": {
+          "lat": 43.46552001970851,
+          "lng": -80.52443753029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+    "name": "The Princess Original Cinema",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112213444441146420410\">Stavros Birmpilis</a>"
+        ],
+        "photo_reference": "AeeoHcIFQcG7llXXe2k9DpIFa-zwjGIqeoA42_o51MLz3qIHejN03mZmPBEKniUa30B4NGfxHZ9SW8khBt0Ju-qlqpdA_gccgW3SR2XpHG9a8-mdY0DBHC6JemGPpEYt6mrMXJ61PgOfraAXG68QatVjPADz1Xd_22WV5nMozqOM6mz_FshE2YguRJVWM72RX50vBO_9IVvDrW76Y3juwfjRVuQ70mHzdlX3XsnV76N9yeirZQGM4aWpa_XZsm7SL4KN0BlU5KUWQ34BSp_5A70VezyvayAAHTsRI3BrWuNMVrDJaO1mvOj5ukseD98zwtrnTRgjg5U8rxodU_CJ_eCcTvqe7xhfsYru2cPqyEbdggmwvXiMIRdW4RwMh72-g8_rFRF5vcHppArp5PlaT8hNqoDRp70nn2SdqEUhX1x4HIPIe0UCgN0YMhno7TJD420TxH7IaczTE_ckHup2-FOx0G_rt-fpMB-jxVGIa94detLy4Kay50GWzwFruaig6UOJkTqkk44om5OMXNXbRkmlMo67xisVz9ua29FVfJ8TKaVdaX9eflecjzLcyT4WdrJZjCjWOizkD0HijhtfSgLQO0sdEKddIwYUt8-qKeVK6DS5QvWKOB3LBOtoyZBoeU1k",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ4_u4eBL0K4gRGV4B4XSTZmk",
+    "plus_code": {
+      "compound_code": "FF8G+PM Waterloo, ON, Canada",
+      "global_code": "86MXFF8G+PM"
+    },
+    "rating": 4.7,
+    "reference": "ChIJ4_u4eBL0K4gRGV4B4XSTZmk",
+    "scope": "GOOGLE",
+    "types": [
+      "movie_theater",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 580,
+    "vicinity": "6 Princess Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45177839999999,
+        "lng": -80.4888763
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4532341802915,
+          "lng": -80.48768881970851
+        },
+        "southwest": {
+          "lat": 43.4505362197085,
+          "lng": -80.49038678029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+    "name": "Apollo Cinema",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 841,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115568807974865991865\">Apollo Cinema</a>"
+        ],
+        "photo_reference": "AeeoHcJWNmMH5Ja1LT8p5doYrYJq580_dD42wBNs7-bIF0hKJ8kY_pfHod4g-jVyTCoIXGbVy3R3j3gQvypWdwztpfpRyZQ4rp3dtokgnxxObuqqxJQfNDRG12WAROdW9V6BLBOwzt5KxbPieceI4p5irEszPfmJm_hViFa-ASnPLmdxR-lnBdSPxa2ItrQs8sei54BX0N2GU0YdsxLXNbfw-7KPgDGcuhDq_E_LEU88YoqtNsXBAzwmznrt_hJ5KOJlx59pJkYzRFKyWLkH-mR2b5TLwn4ywvCtT5KWtFtjIvzqjIvlD4Ew_OIm-hE4YP3iQo0f1sEggjg",
+        "width": 1535
+      }
+    ],
+    "place_id": "ChIJF1tguPL0K4gRbzfBvdufNNc",
+    "plus_code": {
+      "compound_code": "FG26+PC Kitchener, ON, Canada",
+      "global_code": "86MXFG26+PC"
+    },
+    "rating": 4.6,
+    "reference": "ChIJF1tguPL0K4gRbzfBvdufNNc",
+    "scope": "GOOGLE",
+    "types": [
+      "movie_theater",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1446,
+    "vicinity": "141 Ontario Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.42027889999999,
+        "lng": -80.4388894
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.42170153029149,
+          "lng": -80.43750136970849
+        },
+        "southwest": {
+          "lat": 43.41900356970849,
+          "lng": -80.4401993302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+    "name": "Cineplex Cinemas Kitchener and VIP",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 290,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107366771001626060284\">Cineplex Cinemas Kitchener and VIP</a>"
+        ],
+        "photo_reference": "AeeoHcJhc0ksF5D_n7nBoO3Qq1Ndr1KlplNb92zUApFculZFxF5XaA6meU2b10EwcAj88d-iCnmpre2-2YJFoQPlWYpl4pppV-3K30bvBv-jnVFOZLAtH-mafvZg71lQUI_MXCdHJIam4M6PnPFX9cjhl2_V1qQMgRMwdvYhRrjssjtQAalqTFYCHTEKgqkB6IrWFSXMU3IheQ9DqzAs3_m4z6qCy4ArnBERwZjQoD8gJNRBtaLrD_VpGtaHIptS5EiOA-DtqlVsT2EsmQkoUMb1saGHZq54UwIlNU8qnf5kmlwsgMQDIyOxHPzi1Vsn7IA-QwKjSzYsIAY",
+        "width": 512
+      }
+    ],
+    "place_id": "ChIJS88CZ9uKK4gRZy9ZgEE6M9A",
+    "plus_code": {
+      "compound_code": "CHC6+4C Kitchener, ON, Canada",
+      "global_code": "86MXCHC6+4C"
+    },
+    "rating": 4.4,
+    "reference": "ChIJS88CZ9uKK4gRZy9ZgEE6M9A",
+    "scope": "GOOGLE",
+    "types": [
+      "movie_theater",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4096,
+    "vicinity": "225 Fairway Road South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4665644,
+        "lng": -80.52241599999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4678953302915,
+          "lng": -80.5212317197085
+        },
+        "southwest": {
+          "lat": 43.4651973697085,
+          "lng": -80.5239296802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+    "name": "Princess Twin Cinemas",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114411223764665432121\">Princess Twin Cinemas</a>"
+        ],
+        "photo_reference": "AeeoHcLZsis3FykHX2QU5WlqCLcBUvWounsFNeVgFdjzNGsTlOXXXohDv52Lkg_qtniTs1VxZzY4i05pXZJ0Tk5cIaTdjhAcdgFKQ0GiRWXdRvn6bSuXlIGTqJipihUAxxd2146rfJnpvw_oRQgZUz-pEkwmED5gRuW8jD5EFG7pXoOeStdq2KP-OhLTu02YPpTxbFuK5aiB9dmKIBq7geDPcks4TG3pBmZywVjbk9t-ex1yLGwSIoy9kcA_GYG12ihavky6ENHivYcaZaaRY2mbf7qwmjRNk7hqh5TD_e0n40oaAjTLQQv8wOeBLcljlZI4LV6kQjvEtvI",
+        "width": 960
+      }
+    ],
+    "place_id": "ChIJPfkkJA30K4gRC_ybC6454Mg",
+    "plus_code": {
+      "compound_code": "FF8H+J2 Waterloo, ON, Canada",
+      "global_code": "86MXFF8H+J2"
+    },
+    "rating": 4.7,
+    "reference": "ChIJPfkkJA30K4gRC_ybC6454Mg",
+    "scope": "GOOGLE",
+    "types": [
+      "movie_theater",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 723,
+    "vicinity": "46 King Street North, Waterloo"
+  }
+]

@@ -1,0 +1,243 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.464142,
+        "lng": -80.523
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4655046802915,
+          "lng": -80.52121056970849
+        },
+        "southwest": {
+          "lat": 43.4628067197085,
+          "lng": -80.52390853029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Waterloo Public Square Station",
+    "photos": [
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102824176067937656860\">F. T.</a>"
+        ],
+        "photo_reference": "AeeoHcKX6R5SCq0Mrd-A4XdOZJCDlgp1VKWyTtkjn5OrMnomndeH8jmqC-qaBuA7Q9PrXtnx5Jgps8rvq0YoSQCXFWqSgbIMNVnxN6fu_k5m8cRC9kf6X6OVLFmMbkmA1kPObXrFZLh7UdOW5NkPotR3a7H9ZuymnMKOHRzmvQjr95qAvM-Ac6v_WM9WsooKDzCck1cHlCZpTMtDo1kmMJwtDgoI_rbEkus0hvnM_4LP-ThgxZU7Z6sG6opWMTHywQuMGXhTccD4_O8ank_lLfGXjdXqnDWT-yoew84N3v319o1P-Ytbh_GNssiQrw5MbzhnXF_4aa7qte_g8AYZyStm8q-ICLFHoH58ZSetiRgwcez6rX86QxdmUNmzz-xJerTW7dIh6tWpDFlZPk0mtq0wAIIIEaA0vHMDGeYl5l6QTBR6o2NAL3EjeQroCN7MRYf3iboZGJw6PB_8U602pHdD6sql59ieFZu8vaX8NkdBG_Mr9o-ncJbiqPyiS0CpN9wywJD_rPxNmjsW481AbAJWmgyu1ChXVfQZEtxHe9fjzxWWclNYY1oSHZEoKVj1GnkcovESPHySkQ2qVVI7__QGYv6lDLKEQxrhiBmyBf87B8-xmXGjDpluJ1oGnZLVLkGFDzbApA",
+        "width": 4160
+      }
+    ],
+    "place_id": "ChIJfQQdqRL0K4gRi8jHhIjUT00",
+    "plus_code": {
+      "compound_code": "FF7G+MR Waterloo, ON, Canada",
+      "global_code": "86MXFF7G+MR"
+    },
+    "rating": 3.9,
+    "reference": "ChIJfQQdqRL0K4gRi8jHhIjUT00",
+    "scope": "GOOGLE",
+    "types": [
+      "light_rail_station",
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 7,
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4573,
+        "lng": -80.512034
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4586747802915,
+          "lng": -80.51066881970848
+        },
+        "southwest": {
+          "lat": 43.4559768197085,
+          "lng": -80.51336678029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Grand River Hospital Station",
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112575799488310985584\">Alexander Kuechler</a>"
+        ],
+        "photo_reference": "AeeoHcJSTBCrYdWcFvDwpwr-MAEQuR7kU7Az9L4GTg4zZv_WbK76DqQ83v_y7QSEGgAHqr2V-G6tl6_-mrWz43lo6BiCu47yH5O97Hv1ceQrguEAK4IqE8ZInSUtZIDnMohzPBToNQ62XMZX4xvGi3P5MhpPdmmdkBX_RFlNZbdT3Fo5Ogput4V49fD8n3jE2_izjlZ89SMZaiSSkrgr9pVpjk6ejsGwrWTgTxJa2cPeOQeWq-0ADf1qhB-i7QkjOfEzsqK-yDSiAHDgGoZlnjevvIEg502UZR1o64Q9z2LxjXAsmyFDaN7N7e6ADoJmOgsHA5wavemxTS4Al6UYvOHVPOpiC3LuGvYQzKk9pjlidMe0IIe7zaatqCLOjrsHLITsZMOrStGEfDkyad975b-naEHjw0GcHFs-T1-ffWX9XaBHr5Z98ZdNCK2rquFUTIC_tdbsfNqCAosGR4a3D9xKAkFfvSAbQD1gej6xNQCsvvXk-oatTBzXfFZjKuddW4kT26ArsejMKUA4KQ-dg9gXnnfsxnjxVMJhFNyz-SRiVXDf8CchTqhpscZEJVjaRoLZB61PyBf0bqjcl1WDKf_yi9AqyCqYWjncp_ystgZys6MCdJ4h9CTCnqfEldrago3Y2D2kvz-U",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJMYKF7Gj0K4gRS8OpzVLih0I",
+    "plus_code": {
+      "compound_code": "FF4Q+W5 Kitchener, ON, Canada",
+      "global_code": "86MXFF4Q+W5"
+    },
+    "reference": "ChIJMYKF7Gj0K4gRS8OpzVLih0I",
+    "scope": "GOOGLE",
+    "types": [
+      "light_rail_station",
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.457268,
+        "lng": -80.51207
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45859883029149,
+          "lng": -80.51073241970849
+        },
+        "southwest": {
+          "lat": 43.45590086970849,
+          "lng": -80.5134303802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Grand River Hospital Station",
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115652672225409811245\">Sam Jaboy</a>"
+        ],
+        "photo_reference": "AeeoHcK3CUvb8m8QpjUL3g7PGb9caUWRIzxrPAsdqy2n0-Hm8PGVghQYLYw2PiD_fahSJzCyL6uCnVLkpSvHqbzkb8Meo1vZf7sOitUAvMk2gEzoJIXYs3-AXdFHIaAkqysvn_zoJZrFlMXE9KBRlmZXgKrMqzfzrwvmLXRuLJnwN03aRh0p2ciFiFngJ_tb2Due9S7SfkvnOquFz-xwHTVI7GwnbxnZH_1PKN1B_QrpAlJuLSEHTDI4jk-Nl5WUbW_cHThgAR3rBc_jjapZlTbVFL6WwUE8RZCLMeqf-7sgRUahpfojqSJZts9rG-hdc6Pk8rJ22fpa8_zhYDqndXTRkUu8uMG1jJB05F9hzNd1q69HEsYOgdUxA0imYRaQgvzovOM5NAGd24k0cbtw4Jvaquh8jIshLFneVoZ-PX22JMG-eNM8od45_yN_kkg_sio7s9enr2ElsOGwY2Bk0gH5fKRDZgpA2RqLn_heQXxKbQo0KTIH4Y-oR8VOVNbHRy02-TD1kq5iFNlz5--fWje9ratbqKrzuK37Ogw0ZloqRZhDyboy5uEwgCegxe2GOLQmWqa4fcezlDrOK9PhP39fNodOuH5emc4yjRvgXM2f5VaDVFxeWesw3RklbJTzHiFceVFIFA",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJpRZg7Gj0K4gRrPxPHtu_3os",
+    "plus_code": {
+      "compound_code": "FF4Q+W5 Kitchener, ON, Canada",
+      "global_code": "86MXFF4Q+W5"
+    },
+    "reference": "ChIJpRZg7Gj0K4gRrPxPHtu_3os",
+    "scope": "GOOGLE",
+    "types": [
+      "light_rail_station",
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.497187,
+        "lng": -80.543229
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4984999302915,
+          "lng": -80.5419794197085
+        },
+        "southwest": {
+          "lat": 43.4958019697085,
+          "lng": -80.5446773802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Northfield Station",
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111890298858197830715\">Mohammed Yousef</a>"
+        ],
+        "photo_reference": "AeeoHcJk_lEl05dwOgw2D0MvibPCHcu0HVnIA-SaraH9LNvYvTJ_1vXC40oTzjKld4zizouT2FGINcsxSu4-_TxcjOhwwRG-6jsYN7zXHuTVW7kIU9FrSNPFaLDZs12QKUofjSuPtBVE-6DleecGkVuoe2WeGmkURfBs4MxCCybjanXfgT3D2HwE8XMFcJnL81t0JmvrZ9zYRYHaDgdCgAWjcmnRW8psNmMkcGXHcxnsSW98L1yUXtCg3_EST3cio16TAb3I1KscsDaktYtTE_vceT_3jOAHF40kT23cVO627TZxbIlZugxCg9Zm-p6i-bcCjBHXV9zpAAMagD3__nl9RnH4Hhhrh7RdDpQR3MD3hFpIoOhDMMf14DihwXrzlRRhOizqkdNVMHbeOMrkF6sAY6aDOAnt__4CT_OkBginSvSO4BbX7oXkYrSMNdDVJ94bieVFxyo1CjNx8W3Q2Wf6lLY5FcBJjT-mMXLdoRZjy3SzCgmRDt1B7iZM_S6UjGwfGxcML9ReZ7_Dl_8v7oY1aKhjlfa4IW3g1dlDsmH_G14c4skPF5xmuz0I3bEwvWj6JZt-NjeUe9L9q25OxVa6aP4wFpkzuE8Q1IAZGdDu_gpqGCV14F3rRGlafoH9FzrTrze1Lw",
+        "width": 2268
+      }
+    ],
+    "place_id": "ChIJmd2OeN_zK4gRyTRquzOIDpc",
+    "plus_code": {
+      "compound_code": "FFW4+VP Waterloo, ON, Canada",
+      "global_code": "86MXFFW4+VP"
+    },
+    "rating": 4.7,
+    "reference": "ChIJmd2OeN_zK4gRyTRquzOIDpc",
+    "scope": "GOOGLE",
+    "types": [
+      "light_rail_station",
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4223529,
+        "lng": -80.4420037
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4237431802915,
+          "lng": -80.44066881970849
+        },
+        "southwest": {
+          "lat": 43.4210452197085,
+          "lng": -80.4433667802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Fairway Station (bus)",
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109239194706905382893\">Abhishek Bhati (Abhishek)</a>"
+        ],
+        "photo_reference": "AeeoHcIDrRPZgEPcSF4MVGlXzjtJ_Yfr2nsd6j0HjnRdToRfRvjbVbNrlT19kB21aGEcIa217baNGki6cO3HI9oUL178fav-bOPHvN7XLZBX_8UenxZCaGdnjEBBvYG47K2KgdD3cjEMqXg77xjjH8Fm50stKU1FgTwgOgZ1UIA1VOWJC4RG1hd1aj2uhTDFdVvuMKn2XOKGAJFKdvZfBDWBUvaMqWBEtNBjxG24m0CG1HB_RVaA74pLcOUmcVqsXexef1yyqhElYsRCsQJ_Xgat9Nv9X-gHRQ4ymt1hyGxq4Yie9gpvnFL1SWle3QLb44D2XEt7zt7OwEtukvehqWgSalYLB4-2AvYhZS9iFBUr-IR3-bWjUApUL8-60YptBC_1Ax8eQQU5K1EFYEiCY3WsEM01fTorCq7Go9lfhQBmfEgPHxqmrgolCNgyQQZA4RQk9Z2ScfTG-9ZowdlhzyerYGBZBHk2DG6prvb-AHYFW-cs-rlBrguwFYt03WysQGQTKK5u5PDAawkvJp3vaxKsEzQB81IZqz3KJ_h-8bopPIv-1ax6-VfF2sc2p8A5rvrBIiBqz2KZcPfDtRXi6rlS-TkMb316xrR3tXJ6IVeRuuz9KrPMBDpn1W_IPJSwtzHbPASFb9LY",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJyaWeNdqKK4gR4uVqGWJ8v1I",
+    "plus_code": {
+      "compound_code": "CHC5+W5 Kitchener, ON, Canada",
+      "global_code": "86MXCHC5+W5"
+    },
+    "rating": 4.3,
+    "reference": "ChIJyaWeNdqKK4gR4uVqGWJ8v1I",
+    "scope": "GOOGLE",
+    "types": [
+      "transit_station",
+      "light_rail_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 7,
+    "vicinity": "Kitchener"
+  }
+]

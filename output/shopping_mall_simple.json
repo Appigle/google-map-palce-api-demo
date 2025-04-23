@@ -1,0 +1,853 @@
+[
+  {
+    "name": "Conestoga Mall",
+    "coordinates": {
+      "lat": 43.49790230000001,
+      "lng": -80.5273387
+    },
+    "longitude": -80.5273387,
+    "latitude": 43.49790230000001,
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "St. Jacobs Outlets",
+    "coordinates": {
+      "lat": 43.5095311,
+      "lng": -80.55454019999999
+    },
+    "longitude": -80.55454019999999,
+    "latitude": 43.5095311,
+    "types": [
+      "shopping_mall",
+      "shoe_store",
+      "home_goods_store",
+      "food",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Glenridge Plaza",
+    "coordinates": {
+      "lat": 43.4830013,
+      "lng": -80.5058873
+    },
+    "longitude": -80.5058873,
+    "latitude": 43.4830013,
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Laurentian Hills Plaza",
+    "coordinates": {
+      "lat": 43.4185799,
+      "lng": -80.5002264
+    },
+    "longitude": -80.5002264,
+    "latitude": 43.4185799,
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Highland Park Shopping Centre",
+    "coordinates": {
+      "lat": 43.43483579999999,
+      "lng": -80.5154956
+    },
+    "longitude": -80.5154956,
+    "latitude": 43.43483579999999,
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Shops At Waterloo Town Square",
+    "coordinates": {
+      "lat": 43.46373029999999,
+      "lng": -80.5228332
+    },
+    "longitude": -80.5228332,
+    "latitude": 43.46373029999999,
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Highland Hills Mall",
+    "coordinates": {
+      "lat": 43.42958540000001,
+      "lng": -80.52620619999999
+    },
+    "longitude": -80.52620619999999,
+    "latitude": 43.42958540000001,
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Waterloo Commons",
+    "coordinates": {
+      "lat": 43.444585,
+      "lng": -80.5704892
+    },
+    "longitude": -80.5704892,
+    "latitude": 43.444585,
+    "types": [
+      "shopping_mall",
+      "general_contractor",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "SmartCentres Kitchener",
+    "coordinates": {
+      "lat": 43.4258877,
+      "lng": -80.48861409999999
+    },
+    "longitude": -80.48861409999999,
+    "latitude": 43.4258877,
+    "types": [
+      "shopping_mall",
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "SmartCentres Waterloo",
+    "coordinates": {
+      "lat": 43.50927449999999,
+      "lng": -80.5485331
+    },
+    "longitude": -80.5485331,
+    "latitude": 43.50927449999999,
+    "types": [
+      "shopping_mall",
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "The Boardwalk",
+    "coordinates": {
+      "lat": 43.4365127,
+      "lng": -80.56239130000002
+    },
+    "longitude": -80.56239130000002,
+    "latitude": 43.4365127,
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Sunrise Shopping Centre",
+    "coordinates": {
+      "lat": 43.4155494,
+      "lng": -80.51613739999999
+    },
+    "longitude": -80.51613739999999,
+    "latitude": 43.4155494,
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Stanley Park Mall",
+    "coordinates": {
+      "lat": 43.44933069999999,
+      "lng": -80.4449188
+    },
+    "longitude": -80.4449188,
+    "latitude": 43.44933069999999,
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "University Shops Plaza",
+    "coordinates": {
+      "lat": 43.4716896,
+      "lng": -80.5380285
+    },
+    "longitude": -80.5380285,
+    "latitude": 43.4716896,
+    "types": [
+      "shopping_mall",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Forest Glen Plaza",
+    "coordinates": {
+      "lat": 43.41311899999999,
+      "lng": -80.4787545
+    },
+    "longitude": -80.4787545,
+    "latitude": 43.41311899999999,
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Bridgeport Plaza",
+    "coordinates": {
+      "lat": 43.4699825,
+      "lng": -80.51531299999999
+    },
+    "longitude": -80.51531299999999,
+    "latitude": 43.4699825,
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Evergreen Mall",
+    "coordinates": {
+      "lat": 43.43807030000001,
+      "lng": -80.5113877
+    },
+    "longitude": -80.5113877,
+    "latitude": 43.43807030000001,
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Spur Line Crossing Centre",
+    "coordinates": {
+      "lat": 43.4654971,
+      "lng": -80.5187421
+    },
+    "longitude": -80.5187421,
+    "latitude": 43.4654971,
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Lp University Square",
+    "coordinates": {
+      "lat": 43.476997,
+      "lng": -80.5214251
+    },
+    "longitude": -80.5214251,
+    "latitude": 43.476997,
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Greater Age Subscription Gift Box",
+    "coordinates": {
+      "lat": 43.4516395,
+      "lng": -80.4925337
+    },
+    "longitude": -80.4925337,
+    "latitude": 43.4516395,
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Victoria Hills Plaza",
+    "coordinates": {
+      "lat": 43.43989,
+      "lng": -80.52664
+    },
+    "longitude": -80.52664,
+    "latitude": 43.43989,
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Victoria Westmount Centre",
+    "coordinates": {
+      "lat": 43.4389781,
+      "lng": -80.5214013
+    },
+    "longitude": -80.5214013,
+    "latitude": 43.4389781,
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "The Souk on Lancaster",
+    "coordinates": {
+      "lat": 43.4690974,
+      "lng": -80.4851983
+    },
+    "longitude": -80.4851983,
+    "latitude": 43.4690974,
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Beechmount Plaza",
+    "coordinates": {
+      "lat": 43.4530845,
+      "lng": -80.55312909999999
+    },
+    "longitude": -80.55312909999999,
+    "latitude": 43.4530845,
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Highland Centre",
+    "coordinates": {
+      "lat": 43.4392965,
+      "lng": -80.5090625
+    },
+    "longitude": -80.5090625,
+    "latitude": 43.4392965,
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Beechwood Centre",
+    "coordinates": {
+      "lat": 43.45308069999999,
+      "lng": -80.5561336
+    },
+    "longitude": -80.5561336,
+    "latitude": 43.45308069999999,
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "The Shops at Highland & Westmount",
+    "coordinates": {
+      "lat": 43.43420439999999,
+      "lng": -80.5166363
+    },
+    "longitude": -80.5166363,
+    "latitude": 43.43420439999999,
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "800SIGN RETAIL SOLUTIONS INC",
+    "coordinates": {
+      "lat": 43.4478784,
+      "lng": -80.48414269999999
+    },
+    "longitude": -80.48414269999999,
+    "latitude": 43.4478784,
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "University Downs Shopping Centre",
+    "coordinates": {
+      "lat": 43.4896636,
+      "lng": -80.4918457
+    },
+    "longitude": -80.4918457,
+    "latitude": 43.4896636,
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Colonial Acres Plaza",
+    "coordinates": {
+      "lat": 43.49554000000001,
+      "lng": -80.50144
+    },
+    "longitude": -80.50144,
+    "latitude": 43.49554000000001,
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Sobeys plaza",
+    "coordinates": {
+      "lat": 43.4673169,
+      "lng": -80.56819639999999
+    },
+    "longitude": -80.56819639999999,
+    "latitude": 43.4673169,
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Bay Nails & Spa",
+    "coordinates": {
+      "lat": 43.4296035,
+      "lng": -80.5267925
+    },
+    "longitude": -80.5267925,
+    "latitude": 43.4296035,
+    "types": [
+      "beauty_salon",
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Frederick Mall",
+    "coordinates": {
+      "lat": 43.4569626,
+      "lng": -80.4730036
+    },
+    "longitude": -80.4730036,
+    "latitude": 43.4569626,
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Northfield Centre Business Building",
+    "coordinates": {
+      "lat": 43.49642819999999,
+      "lng": -80.55091379999999
+    },
+    "longitude": -80.55091379999999,
+    "latitude": 43.49642819999999,
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Northfield Square",
+    "coordinates": {
+      "lat": 43.5035979,
+      "lng": -80.53117999999999
+    },
+    "longitude": -80.53117999999999,
+    "latitude": 43.5035979,
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Village 2 at The Boardwalk",
+    "coordinates": {
+      "lat": 43.43803079999999,
+      "lng": -80.56246209999999
+    },
+    "longitude": -80.56246209999999,
+    "latitude": 43.43803079999999,
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Village 3 at The Boardwalk",
+    "coordinates": {
+      "lat": 43.43913070000001,
+      "lng": -80.5638117
+    },
+    "longitude": -80.5638117,
+    "latitude": 43.43913070000001,
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "West Quarter Plaza",
+    "coordinates": {
+      "lat": 43.44670169999999,
+      "lng": -80.5706646
+    },
+    "longitude": -80.5706646,
+    "latitude": 43.44670169999999,
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Village 1 at The Boardwalk",
+    "coordinates": {
+      "lat": 43.435695,
+      "lng": -80.5600244
+    },
+    "longitude": -80.5600244,
+    "latitude": 43.435695,
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Central Village at The Boardwalk",
+    "coordinates": {
+      "lat": 43.4360452,
+      "lng": -80.56185169999999
+    },
+    "longitude": -80.56185169999999,
+    "latitude": 43.4360452,
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Eastwood Square",
+    "coordinates": {
+      "lat": 43.44400509999999,
+      "lng": -80.46925929999999
+    },
+    "longitude": -80.46925929999999,
+    "latitude": 43.44400509999999,
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Westside Marketplace",
+    "coordinates": {
+      "lat": 43.4463453,
+      "lng": -80.5739846
+    },
+    "longitude": -80.5739846,
+    "latitude": 43.4463453,
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Krug St. Shopping Centre",
+    "coordinates": {
+      "lat": 43.4560825,
+      "lng": -80.4612906
+    },
+    "longitude": -80.4612906,
+    "latitude": 43.4560825,
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Nice Glass",
+    "coordinates": {
+      "lat": 43.50685530000001,
+      "lng": -80.5401947
+    },
+    "longitude": -80.5401947,
+    "latitude": 43.50685530000001,
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Victoria Street Plaza",
+    "coordinates": {
+      "lat": 43.4668327,
+      "lng": -80.45842569999999
+    },
+    "longitude": -80.45842569999999,
+    "latitude": 43.4668327,
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Highland Marketplace",
+    "coordinates": {
+      "lat": 43.4255572,
+      "lng": -80.5535972
+    },
+    "longitude": -80.5535972,
+    "latitude": 43.4255572,
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Alpine Centre",
+    "coordinates": {
+      "lat": 43.4237441,
+      "lng": -80.4841187
+    },
+    "longitude": -80.4841187,
+    "latitude": 43.4237441,
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Ottawa South Shopping Centre",
+    "coordinates": {
+      "lat": 43.4153347,
+      "lng": -80.51151589999999
+    },
+    "longitude": -80.51151589999999,
+    "latitude": 43.4153347,
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Laurelwood Commons",
+    "coordinates": {
+      "lat": 43.4721248,
+      "lng": -80.5930463
+    },
+    "longitude": -80.5930463,
+    "latitude": 43.4721248,
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "laurelwood plaza",
+    "coordinates": {
+      "lat": 43.47260720000001,
+      "lng": -80.5933558
+    },
+    "longitude": -80.5933558,
+    "latitude": 43.47260720000001,
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "River Road Shopping Centre",
+    "coordinates": {
+      "lat": 43.4521803,
+      "lng": -80.4443544
+    },
+    "longitude": -80.4443544,
+    "latitude": 43.4521803,
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Country Park Shopping Centre",
+    "coordinates": {
+      "lat": 43.41904280000001,
+      "lng": -80.46907879999999
+    },
+    "longitude": -80.46907879999999,
+    "latitude": 43.41904280000001,
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Williamsburg Town Centre",
+    "coordinates": {
+      "lat": 43.4066143,
+      "lng": -80.5016823
+    },
+    "longitude": -80.5016823,
+    "latitude": 43.4066143,
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Kitale",
+    "coordinates": {
+      "lat": 43.4180308,
+      "lng": -80.46936629999999
+    },
+    "longitude": -80.46936629999999,
+    "latitude": 43.4180308,
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Fairway Plaza",
+    "coordinates": {
+      "lat": 43.41903089999999,
+      "lng": -80.4497541
+    },
+    "longitude": -80.4497541,
+    "latitude": 43.41903089999999,
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "HiWay Centre",
+    "coordinates": {
+      "lat": 43.4321789,
+      "lng": -80.44151819999999
+    },
+    "longitude": -80.44151819999999,
+    "latitude": 43.4321789,
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "New Retail Plaza",
+    "coordinates": {
+      "lat": 43.40661,
+      "lng": -80.47439899999999
+    },
+    "longitude": -80.47439899999999,
+    "latitude": 43.40661,
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Sunfish Shopping Centre",
+    "coordinates": {
+      "lat": 43.3998512,
+      "lng": -80.4945721
+    },
+    "longitude": -80.4945721,
+    "latitude": 43.3998512,
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Fairview Park",
+    "coordinates": {
+      "lat": 43.4242462,
+      "lng": -80.4392455
+    },
+    "longitude": -80.4392455,
+    "latitude": 43.4242462,
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Fairway Wilson Centre",
+    "coordinates": {
+      "lat": 43.419116,
+      "lng": -80.4436681
+    },
+    "longitude": -80.4436681,
+    "latitude": 43.419116,
+    "types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ]
+  }
+]

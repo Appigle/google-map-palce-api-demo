@@ -1,0 +1,942 @@
+[
+  {
+    "name": "Canadian Tire Gas+",
+    "coordinates": {
+      "lat": 43.4292134,
+      "lng": -80.4358444
+    },
+    "longitude": -80.4358444,
+    "latitude": 43.4292134,
+    "types": [
+      "gas_station",
+      "car_wash",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Transit Petroleum Ltd",
+    "coordinates": {
+      "lat": 43.46434889999999,
+      "lng": -80.48312539999999
+    },
+    "longitude": -80.48312539999999,
+    "latitude": 43.46434889999999,
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Wagner’s Corner - Esso",
+    "coordinates": {
+      "lat": 43.51555249999999,
+      "lng": -80.5577727
+    },
+    "longitude": -80.5577727,
+    "latitude": 43.51555249999999,
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Pioneer - Gas Station",
+    "coordinates": {
+      "lat": 43.44165,
+      "lng": -80.471673
+    },
+    "longitude": -80.471673,
+    "latitude": 43.44165,
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Petro-Canada",
+    "coordinates": {
+      "lat": 43.45047400000001,
+      "lng": -80.444411
+    },
+    "longitude": -80.444411,
+    "latitude": 43.45047400000001,
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Canadian Tire Gas+",
+    "coordinates": {
+      "lat": 43.4465561,
+      "lng": -80.5722378
+    },
+    "longitude": -80.5722378,
+    "latitude": 43.4465561,
+    "types": [
+      "gas_station",
+      "car_wash",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Petro-Canada operated by Canadian Tire Petroleum",
+    "coordinates": {
+      "lat": 43.4659227,
+      "lng": -80.459954
+    },
+    "longitude": -80.459954,
+    "latitude": 43.4659227,
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Canadian Tire Gas+",
+    "coordinates": {
+      "lat": 43.48449799999999,
+      "lng": -80.52454809999999
+    },
+    "longitude": -80.52454809999999,
+    "latitude": 43.48449799999999,
+    "types": [
+      "gas_station",
+      "car_wash",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Little Short Stop",
+    "coordinates": {
+      "lat": 43.50320829999999,
+      "lng": -80.52783219999999
+    },
+    "longitude": -80.52783219999999,
+    "latitude": 43.50320829999999,
+    "types": [
+      "convenience_store",
+      "atm",
+      "liquor_store",
+      "gas_station",
+      "finance",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Shell",
+    "coordinates": {
+      "lat": 43.4959233,
+      "lng": -80.5015617
+    },
+    "longitude": -80.5015617,
+    "latitude": 43.4959233,
+    "types": [
+      "gas_station",
+      "convenience_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Ultramar - Gas Station",
+    "coordinates": {
+      "lat": 43.465255,
+      "lng": -80.504609
+    },
+    "longitude": -80.504609,
+    "latitude": 43.465255,
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Petro-Canada & Car Wash",
+    "coordinates": {
+      "lat": 43.437013,
+      "lng": -80.51278599999999
+    },
+    "longitude": -80.51278599999999,
+    "latitude": 43.437013,
+    "types": [
+      "gas_station",
+      "car_wash",
+      "convenience_store",
+      "liquor_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Gas Station",
+    "coordinates": {
+      "lat": 43.4891226,
+      "lng": -80.492998
+    },
+    "longitude": -80.492998,
+    "latitude": 43.4891226,
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Pioneer - Gas Station",
+    "coordinates": {
+      "lat": 43.43230399999999,
+      "lng": -80.525266
+    },
+    "longitude": -80.525266,
+    "latitude": 43.43230399999999,
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Petro-Canada",
+    "coordinates": {
+      "lat": 43.493898,
+      "lng": -80.548109
+    },
+    "longitude": -80.548109,
+    "latitude": 43.493898,
+    "types": [
+      "gas_station",
+      "convenience_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Petro-Canada & Car Wash",
+    "coordinates": {
+      "lat": 43.500754,
+      "lng": -80.533136
+    },
+    "longitude": -80.533136,
+    "latitude": 43.500754,
+    "types": [
+      "gas_station",
+      "car_wash",
+      "convenience_store",
+      "liquor_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Shell",
+    "coordinates": {
+      "lat": 43.4190008,
+      "lng": -80.4697295
+    },
+    "longitude": -80.4697295,
+    "latitude": 43.4190008,
+    "types": [
+      "gas_station",
+      "convenience_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Petro-Canada & Car Wash",
+    "coordinates": {
+      "lat": 43.40675799999999,
+      "lng": -80.499731
+    },
+    "longitude": -80.499731,
+    "latitude": 43.40675799999999,
+    "types": [
+      "gas_station",
+      "car_wash",
+      "convenience_store",
+      "liquor_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Petro-Canada",
+    "coordinates": {
+      "lat": 43.413602,
+      "lng": -80.605962
+    },
+    "longitude": -80.605962,
+    "latitude": 43.413602,
+    "types": [
+      "gas_station",
+      "convenience_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Esso",
+    "coordinates": {
+      "lat": 43.398597,
+      "lng": -80.44739799999999
+    },
+    "longitude": -80.44739799999999,
+    "latitude": 43.398597,
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "7-Eleven",
+    "coordinates": {
+      "lat": 43.4890466,
+      "lng": -80.4928509
+    },
+    "longitude": -80.4928509,
+    "latitude": 43.4890466,
+    "types": [
+      "convenience_store",
+      "gas_station",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Canadian Tire Gas+",
+    "coordinates": {
+      "lat": 43.41579170000001,
+      "lng": -80.5132622
+    },
+    "longitude": -80.5132622,
+    "latitude": 43.41579170000001,
+    "types": [
+      "gas_station",
+      "car_wash",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Esso",
+    "coordinates": {
+      "lat": 43.4506112,
+      "lng": -80.44371749999999
+    },
+    "longitude": -80.44371749999999,
+    "latitude": 43.4506112,
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Little Short Stop",
+    "coordinates": {
+      "lat": 43.4957946,
+      "lng": -80.50154789999999
+    },
+    "longitude": -80.50154789999999,
+    "latitude": 43.4957946,
+    "types": [
+      "convenience_store",
+      "gas_station",
+      "atm",
+      "liquor_store",
+      "finance",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Petro-Canada & Car Wash",
+    "coordinates": {
+      "lat": 43.43319,
+      "lng": -80.444965
+    },
+    "longitude": -80.444965,
+    "latitude": 43.43319,
+    "types": [
+      "gas_station",
+      "convenience_store",
+      "car_wash",
+      "liquor_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Esso",
+    "coordinates": {
+      "lat": 43.4848467,
+      "lng": -80.5274058
+    },
+    "longitude": -80.5274058,
+    "latitude": 43.4848467,
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Petro-Canada & Car Wash",
+    "coordinates": {
+      "lat": 43.467695,
+      "lng": -80.56726700000002
+    },
+    "longitude": -80.56726700000002,
+    "latitude": 43.467695,
+    "types": [
+      "gas_station",
+      "convenience_store",
+      "car_wash",
+      "liquor_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Darshan Gas Bar",
+    "coordinates": {
+      "lat": 43.4578821,
+      "lng": -80.4851948
+    },
+    "longitude": -80.4851948,
+    "latitude": 43.4578821,
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Petro-Canada",
+    "coordinates": {
+      "lat": 43.469921,
+      "lng": -80.515485
+    },
+    "longitude": -80.515485,
+    "latitude": 43.469921,
+    "types": [
+      "gas_station",
+      "convenience_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Petro-Canada & Car Wash",
+    "coordinates": {
+      "lat": 43.4221878,
+      "lng": -80.48779429999999
+    },
+    "longitude": -80.48779429999999,
+    "latitude": 43.4221878,
+    "types": [
+      "gas_station",
+      "convenience_store",
+      "car_wash",
+      "liquor_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Petro-Canada",
+    "coordinates": {
+      "lat": 43.47764699999999,
+      "lng": -80.519986
+    },
+    "longitude": -80.519986,
+    "latitude": 43.47764699999999,
+    "types": [
+      "gas_station",
+      "convenience_store",
+      "liquor_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Shell",
+    "coordinates": {
+      "lat": 43.4773658,
+      "lng": -80.5396552
+    },
+    "longitude": -80.5396552,
+    "latitude": 43.4773658,
+    "types": [
+      "gas_station",
+      "meal_delivery",
+      "convenience_store",
+      "car_wash",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Shell",
+    "coordinates": {
+      "lat": 43.4761298,
+      "lng": -80.4841208
+    },
+    "longitude": -80.4841208,
+    "latitude": 43.4761298,
+    "types": [
+      "gas_station",
+      "meal_delivery",
+      "convenience_store",
+      "liquor_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Petro-Pass Truck Stop",
+    "coordinates": {
+      "lat": 43.462756,
+      "lng": -80.506502
+    },
+    "longitude": -80.506502,
+    "latitude": 43.462756,
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Petro-Canada",
+    "coordinates": {
+      "lat": 43.476878,
+      "lng": -80.5393
+    },
+    "longitude": -80.5393,
+    "latitude": 43.476878,
+    "types": [
+      "gas_station",
+      "convenience_store",
+      "liquor_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Pioneer - Gas Station",
+    "coordinates": {
+      "lat": 43.439692,
+      "lng": -80.5217
+    },
+    "longitude": -80.5217,
+    "latitude": 43.439692,
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Shell",
+    "coordinates": {
+      "lat": 43.4589335,
+      "lng": -80.4821815
+    },
+    "longitude": -80.4821815,
+    "latitude": 43.4589335,
+    "types": [
+      "gas_station",
+      "convenience_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Esso",
+    "coordinates": {
+      "lat": 43.4604446,
+      "lng": -80.47585180000002
+    },
+    "longitude": -80.47585180000002,
+    "latitude": 43.4604446,
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Esso",
+    "coordinates": {
+      "lat": 43.43156099999999,
+      "lng": -80.524812
+    },
+    "longitude": -80.524812,
+    "latitude": 43.43156099999999,
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "ESSO / Belmont Energy Station",
+    "coordinates": {
+      "lat": 43.4519746,
+      "lng": -80.5174715
+    },
+    "longitude": -80.5174715,
+    "latitude": 43.4519746,
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Shell",
+    "coordinates": {
+      "lat": 43.4629888,
+      "lng": -80.5390146
+    },
+    "longitude": -80.5390146,
+    "latitude": 43.4629888,
+    "types": [
+      "gas_station",
+      "meal_delivery",
+      "convenience_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Esso gas station",
+    "coordinates": {
+      "lat": 43.4630419,
+      "lng": -80.4937018
+    },
+    "longitude": -80.4937018,
+    "latitude": 43.4630419,
+    "types": [
+      "gas_station",
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Carimex",
+    "coordinates": {
+      "lat": 43.4581309,
+      "lng": -80.4842726
+    },
+    "longitude": -80.4842726,
+    "latitude": 43.4581309,
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Gazolina",
+    "coordinates": {
+      "lat": 43.4649441,
+      "lng": -80.4821029
+    },
+    "longitude": -80.4821029,
+    "latitude": 43.4649441,
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Esso Highland",
+    "coordinates": {
+      "lat": 43.439044,
+      "lng": -80.493861
+    },
+    "longitude": -80.493861,
+    "latitude": 43.439044,
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Esso",
+    "coordinates": {
+      "lat": 43.4188142,
+      "lng": -80.4543339
+    },
+    "longitude": -80.4543339,
+    "latitude": 43.4188142,
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Corner Store",
+    "coordinates": {
+      "lat": 43.4322536,
+      "lng": -80.5253123
+    },
+    "longitude": -80.5253123,
+    "latitude": 43.4322536,
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Petro-Canada",
+    "coordinates": {
+      "lat": 43.4605395,
+      "lng": -80.4747362
+    },
+    "longitude": -80.4747362,
+    "latitude": 43.4605395,
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Shell",
+    "coordinates": {
+      "lat": 43.5032781,
+      "lng": -80.5280069
+    },
+    "longitude": -80.5280069,
+    "latitude": 43.5032781,
+    "types": [
+      "gas_station",
+      "convenience_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Hogg Fuel Frobisher",
+    "coordinates": {
+      "lat": 43.5039032,
+      "lng": -80.53294509999999
+    },
+    "longitude": -80.53294509999999,
+    "latitude": 43.5039032,
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Esso",
+    "coordinates": {
+      "lat": 43.4253296,
+      "lng": -80.5446316
+    },
+    "longitude": -80.5446316,
+    "latitude": 43.4253296,
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Costco Gas Station",
+    "coordinates": {
+      "lat": 43.4447892,
+      "lng": -80.5769584
+    },
+    "longitude": -80.5769584,
+    "latitude": 43.4447892,
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "KITCHENER MOBIL",
+    "coordinates": {
+      "lat": 43.467434,
+      "lng": -80.4555759
+    },
+    "longitude": -80.4555759,
+    "latitude": 43.467434,
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Shell",
+    "coordinates": {
+      "lat": 43.42355320000001,
+      "lng": -80.5531506
+    },
+    "longitude": -80.5531506,
+    "latitude": 43.42355320000001,
+    "types": [
+      "gas_station",
+      "convenience_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Shell",
+    "coordinates": {
+      "lat": 43.4682056,
+      "lng": -80.4504221
+    },
+    "longitude": -80.4504221,
+    "latitude": 43.4682056,
+    "types": [
+      "gas_station",
+      "convenience_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Esso",
+    "coordinates": {
+      "lat": 43.4158103,
+      "lng": -80.4792974
+    },
+    "longitude": -80.4792974,
+    "latitude": 43.4158103,
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Kitchener MOBIL",
+    "coordinates": {
+      "lat": 43.4181775,
+      "lng": -80.47298839999999
+    },
+    "longitude": -80.47298839999999,
+    "latitude": 43.4181775,
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Corner Store",
+    "coordinates": {
+      "lat": 43.418203,
+      "lng": -80.4729294
+    },
+    "longitude": -80.4729294,
+    "latitude": 43.418203,
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Pioneer - Gas Station",
+    "coordinates": {
+      "lat": 43.402413,
+      "lng": -80.497418
+    },
+    "longitude": -80.497418,
+    "latitude": 43.402413,
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Esso",
+    "coordinates": {
+      "lat": 43.4102207,
+      "lng": -80.4619223
+    },
+    "longitude": -80.4619223,
+    "latitude": 43.4102207,
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ]
+  }
+]

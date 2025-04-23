@@ -1,0 +1,3249 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.50283049999999,
+        "lng": -80.53540029999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.50431733029149,
+          "lng": -80.53390016970849
+        },
+        "southwest": {
+          "lat": 43.5016193697085,
+          "lng": -80.5365981302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Boston Pizza",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105612268752145423343\">Vishal Shah</a>"
+        ],
+        "photo_reference": "AeeoHcJg4GymM3COPx0ChIUXOLe0r6lz-Y49ED8xtAD8idpfaRRJsnSHheerAbkwmju2veDc0oo8bUJok44IJFV5d6QxirRdCfO1JGL_B-MOrdsMzrEkiVf0rHyG8WH4F8ESIQ7YugtoVwTwPlQT9zPR5yHsarje58q8s1ys_dLHJgA8uxqrF7s3-FCIVO4-04nF07PXAUu5q1yqPiPiHY7Q5ueTtLavwPqg_h_XDEznhdvxgMl9k8ehh3_BcDf1_zitwA6zU7FSJajjR0dWJVAAaulazvG4yWbvOfwNjENsP2d03u1WkMOzsqEfezIqXC4vJeZ7yDYOeLSswe84Wx6FV9zPInsuUvo1tdEkFgM9jYwfhdSu_Z32oxuZCFBMYrR_J__rGCnk75wHRVYQY00TElAYm852tiYt2bWk0OuZCQ3tEJRJTsQU3KQQdgLtEtONaIa52bI19sOJJkAyLuqgj7E57oyNO-qWfh_CBLvmEmA_SWORm0EC9oxlmPtewKL2SZbc49Cxbbnxc7aV8PIElvQdDSTuepPSax5BsGLAhqtNJ-HrgPmVqnSjD3tbP9Rs6uL9bOnzdWai7lsiStRs80flKq0ZsWKmcBufpKxVfWI4yT18SarQVH7wNiSV-AHmtNDvJg",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJaexoj9rzK4gRoz9ki5Qo0Eo",
+    "plus_code": {
+      "compound_code": "GF37+4R Waterloo, ON, Canada",
+      "global_code": "86MXGF37+4R"
+    },
+    "price_level": 2,
+    "rating": 4,
+    "reference": "ChIJaexoj9rzK4gRoz9ki5Qo0Eo",
+    "scope": "GOOGLE",
+    "types": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1632,
+    "vicinity": "597 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44249120000001,
+        "lng": -80.47456319999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4439127302915,
+          "lng": -80.47313881970848
+        },
+        "southwest": {
+          "lat": 43.44121476970851,
+          "lng": -80.47583678029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Tim Hortons",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103807260856515985830\">M O</a>"
+        ],
+        "photo_reference": "AeeoHcLz2Hw1FgNUUtSv9eTqhkO7DD5ngYweToncCB7ImKWnKD32zBldNFN96vlRPuiyhqvs9f6MOTXiMZlHO_bXf1epq9Unco5BNBxiFo8EXROV_lAsov_qBQVfQbYdc99q6I405SlInbB_gDn7AuiK66DB2HSx7RqCEEkc2ixgXrAQtcwcoSn_ZaBso0qs0rae-bsIakq6a3Jk2cm_8lhPm7f20rub_ETRCggmAUJK9j-m2JjU6F4TsIBlJZmzUyjc1ZKmPaTLMnYXcPQWINwAlSWXOd84Jdd6tnBZBMz1yYrXjKJbMPUvx_6OLu3F-7z4HCsNH7Kc1vOH9s-5uHPY4cUjRKMd96puQ0hV8WUtDevntCUo7x5qODWHkIO1YRKNPuVMGhWQBsjdq2WXCn6mnJ48fsicCPccbkHU2DGveVk9Inh6TEtDTxSTdo8r_WsXBDWjuH_Tct-qSYJTG0sO4nLnMtjARBEkF1d4HTJOx1_b9pnF3rn1YNWYFmnn6IZqrGKBGjivEHcI4zj-vrGp7G6Kr2BqfTprJL5LJXQThNquLZ-ZjWViMKu2v-GmvEVb8FUFX_Zm5dA6K5ySTJDB139dS1jHyBd0En6vglMKNvY4IaOW7OEIAuU5Sm6c2WHGuxcsfA",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJFV5C-8L0K4gRlwTGIs9VSnY",
+    "plus_code": {
+      "compound_code": "CGRG+X5 Kitchener, ON, Canada",
+      "global_code": "86MXCGRG+X5"
+    },
+    "price_level": 1,
+    "rating": 3.8,
+    "reference": "ChIJFV5C-8L0K4gRlwTGIs9VSnY",
+    "scope": "GOOGLE",
+    "types": [
+      "bakery",
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 1639,
+    "vicinity": "925 King Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4159668,
+        "lng": -80.5114388
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.41726678029151,
+          "lng": -80.51019896970848
+        },
+        "southwest": {
+          "lat": 43.41456881970851,
+          "lng": -80.5128969302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Tim Hortons",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4680,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104785519452815381963\">mishal gafoor</a>"
+        ],
+        "photo_reference": "AeeoHcJIfZXrEFIyVnpI54eedYmuJOjYybbpic_6o5XcYSS9Coy1Cq-83gv5UqKa80EgvC0kAmjX1BMNqCuom7WNzIjn3-rzYOoaXWmsdKDBMeEn9vnzrDiWF4xXfWVnWsAvShBeq64vrWusNSZl7RKxH4KcTI_v0jiD0UC18k-AeAToblDV3RSJ7ZoFcDUlHOFbwTY3PNzhMrC8rUKQ-vaTYfut7JfzIt-eqD3FdwptrIKNRXLNM1o_lyb9KAyiVboeNI6g-B8RPJqI_HWM_ax8qYggLFrRLocolf8m3noAhTLvzTIhrKcOvEn2R8BW7jYS678M9c3YZjjHyzgTT-2JmU_6PvcWXAffFT45jvVnwNFJ7Yycg3J_FjAi2JRfBLdomcmveKKwDrVKCqX4zsXb8p6lf5Ivl9PLTwvQbi4Z8r9Z2ud93Owr0gPK1lKkgQpeGFZF2npz-wnZuaJPe14d9OVD-CSU2rwGd1oY2Zmsok0kwLS-IrjrYwvl_S-FR6vwIEtfO8BIbEYOt6_od290R47-KKce9Vvh54h23M4va4XUMFyYM3_IHzynv9UC7M7OXL4PqKQF9ZB-NYSI3mKlrkxutIB0y5S197S4vVZpiyab6uIeM7MpFmMCjHxrIOMmfIUInA",
+        "width": 3209
+      }
+    ],
+    "place_id": "ChIJ_1Vv_pf1K4gRwdMmq3F1cR8",
+    "plus_code": {
+      "compound_code": "CF8Q+9C Kitchener, ON, Canada",
+      "global_code": "86MXCF8Q+9C"
+    },
+    "price_level": 1,
+    "rating": 3.7,
+    "reference": "ChIJ_1Vv_pf1K4gRwdMmq3F1cR8",
+    "scope": "GOOGLE",
+    "types": [
+      "bakery",
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 1523,
+    "vicinity": "685 Fischer-Hallman Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4876122,
+        "lng": -80.5262339
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4888797802915,
+          "lng": -80.5248710197085
+        },
+        "southwest": {
+          "lat": 43.4861818197085,
+          "lng": -80.5275689802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "East Side Mario's",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1848,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111881957485526219457\">East Side Mario&#39;s</a>"
+        ],
+        "photo_reference": "AeeoHcIlkWK2NhYhUaaH5jDjb19aTjHdHf6lDk229kNbgvLdy6Sq2S-z99SyWm7U0YW-gebC1ruasYv3zZJGzBuHqqFBtd7NbfTklyCp9F8ULCfNNvs-Ym-SgTG_dXBMWU1RJ_iDeRIoaNzIT6B6_FpQiB_8YLfD5kn6miZEoD4S0gGQAIDfgT7URv2cXZksP6GSERui2OhCT-AaJB-ogfGM42roo8RCZdRtUo87B9WQXyag8rjZ6sLez6Ed54ySjJN0p8IWvo7NJCACYV7dJCTk0JtMf2B7r800FrOy1zO6rwoQ_xvtbGxBU5czzb9HSwzh-FxCiU0jx-M",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJ2drVF-zzK4gRcfVpe3fGJH4",
+    "plus_code": {
+      "compound_code": "FFQF+2G Waterloo, ON, Canada",
+      "global_code": "86MXFFQF+2G"
+    },
+    "price_level": 2,
+    "rating": 4,
+    "reference": "ChIJ2drVF-zzK4gRcfVpe3fGJH4",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3082,
+    "vicinity": "450 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4714332,
+        "lng": -80.4404689
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4727455302915,
+          "lng": -80.43915441970852
+        },
+        "southwest": {
+          "lat": 43.4700475697085,
+          "lng": -80.44185238029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Tim Hortons",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 9000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107084617862330119926\">Ruslan Melnyk</a>"
+        ],
+        "photo_reference": "AeeoHcIBNxquu-OwOrFOi0qVPNrHJbwuhPVfmC92z4rgHQ83ECJyBsKjFR4jFUmdMcfOCI1-D0zs1LOQ0cW_HsqRG97WLGabe9m7OIYvtZ2IxaZzKTeToXgitXYejq3Er6qprzIl5IBan3ZY1ikfVJM1awebw2E1Bd6-EGm35RoJ0DSMJ-5m9saaLUPSngp4fqgfGU0KVMJdlnj6wnJrXOJhq6cchDJITDB88lFq-Ak6IC1L2R5aEhCM0TdxvcbQfsh3Jf9ZKRjQGPmJIho4UiN-kPQj14fXYDmSHsTHtWKyQZblKfqgpG2etWDxwwvMSt40VbgMfIg7mkg0dZxhBRdah3J-wFeW2QTAlX4Zu04xecGATGrKEFsIIgNMFlGI1gZSpOeaomd43XsHc61Ly9mbajqk50MCR0OrZ0Zvbx0qYF5Wnwg3Lu4nR5PEyg2CObXvGJWqxyDoS11rgZPiwC_uLIi5qDc7T_DbsmvNxOzmPBl3ndvGtwxpvoswPk3E4abDFeyZhtxrXk7yp0cvZxkoajxCaJrDLXadOdYbY1qt3EwkVYTGw8HFoiwoXl3sU4Wi36_VN0l2yyy_8JpMy-0EV0vp9Z21olwfvlxE_86GIyInmODsV-lgwkfEq2XDNDw6POa1MA",
+        "width": 12000
+      }
+    ],
+    "place_id": "ChIJ6d0zfqaMK4gRO_e-A4KEL3I",
+    "plus_code": {
+      "compound_code": "FHC5+HR Kitchener, ON, Canada",
+      "global_code": "86MXFHC5+HR"
+    },
+    "price_level": 1,
+    "rating": 3.6,
+    "reference": "ChIJ6d0zfqaMK4gRO_e-A4KEL3I",
+    "scope": "GOOGLE",
+    "types": [
+      "bakery",
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 1489,
+    "vicinity": "1475 Victoria Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4598078,
+        "lng": -80.519053
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4609161302915,
+          "lng": -80.51762641970849
+        },
+        "southwest": {
+          "lat": 43.4582181697085,
+          "lng": -80.52032438029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "The Bauer Kitchen",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2768,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114572750934124927881\">The Bauer Kitchen</a>"
+        ],
+        "photo_reference": "AeeoHcIwjy7tcR2z0sz6gmHtZ8EnzPQo6t96ZHcrHGsMTShlMe_McwQLjiQ_S5XcQSXbaWZGN_bfzXzrsy5kUOEASsk0S6Gxk2v71KiDQVIU4dIokDezwa3FZn13g2Yhw0-IWI1FDivvI-frsczLp8P2_2jcgTw3oNOAzWGYnIsccGSS8B1NhhsNcPqTgRvKLzsAHfGgG472GIFS6SS7IKI98QIwK1H2P8JNjh6-shc43LARNJgf3iz5h4CwI9VbKCPQzXtUVFihBLvnfHpSD5Rh_gXtNK9mHcSfXyGTj2fmuoskCttRN5XoSXIDMQzSsEmOev_eLbBBjH8",
+        "width": 3092
+      }
+    ],
+    "place_id": "ChIJM40rfmv0K4gREJ3wKht5ey4",
+    "plus_code": {
+      "compound_code": "FF5J+W9 Waterloo, ON, Canada",
+      "global_code": "86MXFF5J+W9"
+    },
+    "price_level": 3,
+    "rating": 4.4,
+    "reference": "ChIJM40rfmv0K4gREJ3wKht5ey4",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "bar",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2964,
+    "vicinity": "187 King Street South #102, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4837233,
+        "lng": -80.5259945
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4849887302915,
+          "lng": -80.52485091970848
+        },
+        "southwest": {
+          "lat": 43.4822907697085,
+          "lng": -80.5275488802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Tim Hortons",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105346788975132129606\">Aman Jowaheer</a>"
+        ],
+        "photo_reference": "AeeoHcIZGtCHPWYa5mXAwt9YOlmrbebcnIKzIeKBkLa6QROCZ2admaMakP0tM3rJCf81VoODCXe__RSve946pVEXnr0HaEmIp0fEmQFQnh_XFjLFv3fWtqZNv7h2tIY57LyIXTgUZSGwP9k1MR3dd7uAEq6W4YsVugHqb2hQV29wD1CCQo16OM_AEPyO09NhL1Ltlai3F0LklqKbVnwEVeHn198Qjh8m2FTjZsMAdnnrID9PLk0DWhqbwC4jN9W9qz91ijhFoti8sl-xzmYKwcI-URGLR-R-sjJlI0ZJzQjT-yhtRiz9W1hJsm271pBJ9sQj2m101pfqWxWtOd6MONsynFmKntxWLX357e_THjy3-YA_LIC8BhPID7W51L5bc9vgZ8LKjJpDllg2Eh2s8FqNyLMAwA4bJuHDEmlE4z5-jYvzTtgic-ypt1Ep-yMZ6cOCCWFyTHKN8TfUYEYXbfmXZJT9NGDHgzRL3EgdU8wm4uh67Bm12_xzHsuwZwzxeupLyHfk2-MPpj1Ff-lCBC8SDoFhrT6xaC4pkIqWt9amS6cwvat8zESjgsbOr84cgS9IT4zbYqj8udxE20DbtmGArr9ADgkdyfQv240dAdIwL3hzKl-zoh1v2_t7DzBvXYjpx9EY_tKC",
+        "width": 1200
+      }
+    ],
+    "place_id": "ChIJdTPZC_LzK4gRxOJWmCJ_pQU",
+    "plus_code": {
+      "compound_code": "FFMF+FJ Waterloo, ON, Canada",
+      "global_code": "86MXFFMF+FJ"
+    },
+    "price_level": 1,
+    "rating": 3.8,
+    "reference": "ChIJdTPZC_LzK4gRxOJWmCJ_pQU",
+    "scope": "GOOGLE",
+    "types": [
+      "bakery",
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 763,
+    "vicinity": "384 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4867761,
+        "lng": -80.527609
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4880450802915,
+          "lng": -80.5262471697085
+        },
+        "southwest": {
+          "lat": 43.4853471197085,
+          "lng": -80.5289451302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Wildcraft Grill + Long Bar",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 777,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102655234569873743332\">Wildcraft Grill + Long Bar</a>"
+        ],
+        "photo_reference": "AeeoHcKsmRfs0mD-mWLXvvrOc4GIXK3Nj7DCzQGKmQ7sBCbSZq2z21XFJ39VJvyvCEreuTixPt-Bat7vd5MV4k5g_g1Wpnitp_R6a7A7Accp1kr9E6YC2-poxmvOCtR-DJ_P7RLJQS8LzXp5I1Mxe2gRlhr1E9x4at8HdmLk-gJmBaR3mt39HqDBsgApRXMqsOZ18YdLDP1o7TJYMQ-KxaGo2Q-oDyJ9A9Bo2ZNEbTWFMglgP1yiJNPIHKa9Bz1u04RTqO7StcXH-Ywxv0F-iU8mqOtJzTTzJXvSYmRhFQH4TaSFcvId3bZARRSM1VxS2gkPf-7i7eq0ChI",
+        "width": 1275
+      }
+    ],
+    "place_id": "ChIJdwGOhu7zK4gRZNK6OlAN-H8",
+    "plus_code": {
+      "compound_code": "FFPC+PX Waterloo, ON, Canada",
+      "global_code": "86MXFFPC+PX"
+    },
+    "price_level": 3,
+    "rating": 4.5,
+    "reference": "ChIJdwGOhu7zK4gRZNK6OlAN-H8",
+    "scope": "GOOGLE",
+    "types": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3171,
+    "vicinity": "425 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47699809999999,
+        "lng": -80.5214871
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47837193029149,
+          "lng": -80.52026621970849
+        },
+        "southwest": {
+          "lat": 43.4756739697085,
+          "lng": -80.52296418029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Tim Hortons",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116754247367708394247\">Toko Love Food</a>"
+        ],
+        "photo_reference": "AeeoHcLfS71HBvCd8YbnYC31ip8CtAVaTDMu-gdGzL1admlhIhPGcTpqRChZpcXiG8Uo7as3J0K9pr6YxcMZEl63KGnlsv9R1jce09OBW-L6RfD3qreoF8eP73V4wY9kEgoEIPd-IV2TDIgWA1AdJNpVLYaxgYtSqVrPYZrgUiwP-IXavKPnBKA6hE44mk1wyj2YjkvMo3zA_H52WNeARUAtySV59XOQaRultjkzVc56ak_VOLT2J56UMebVwCUthB8Du1Cy_OqHYHSdD6uT7lFQQLUKdZLFUhZZokOj0dnrKFIGYQGGlYx3YU294cPo6jijbrDA1MHKHE2h7EaNR6wgk1OWlmAiFDYwWd5HAvt6PsfGtvXCuMrLcAF4R6NqFY2r0q3bXG2FWps0wje241E1is3Md6ii8szJnnJD5h8jdzePljczgEHQvhwK-u_ufm0_O4BUp3g0irzWUxJd3xY2RDO7pyq1P_hyn4WigUm48JHCC9lUwhsQpwyLk3Vc6AJHg4Yx0XEO4CoMdy7cnTY9wJhlxHv2ZPfSQeitmqwb4DG-vUsEwHBwxBhtjZkMtil7wDVGhK6Wf7CuS2K0X8d4YxZa9iYimN7biDwCCLFEg5kGU4Q7oO2jN-2BcSb1IGPvmU6kdNnL",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJ3Q1cmgP0K4gRMg_ATXh0ClY",
+    "plus_code": {
+      "compound_code": "FFGH+QC Waterloo, ON, Canada",
+      "global_code": "86MXFFGH+QC"
+    },
+    "price_level": 1,
+    "rating": 3.6,
+    "reference": "ChIJ3Q1cmgP0K4gRMg_ATXh0ClY",
+    "scope": "GOOGLE",
+    "types": [
+      "bakery",
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 1631,
+    "vicinity": "65 University Avenue East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4453589,
+        "lng": -80.48118480000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4466243802915,
+          "lng": -80.47979991970848
+        },
+        "southwest": {
+          "lat": 43.4439264197085,
+          "lng": -80.48249788029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Cameron Chinese Restaurant",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112482415753734225075\">Chung Hsien Lee (Jason)</a>"
+        ],
+        "photo_reference": "AeeoHcKCPmOh8GPVvQJg4nmW3HFrYkWWFlL1ktJfhaFDVEun6jzyl7FmrpUcJ4E3DXMSvyK_Z8TMnDTtkwO0fxZhWMNhbembIPsWVPDQLbhczltggWRblrMZ11N2tSXDHdXcZpU4MPNCF95FF8GQSwd84ODR7Y5xQbKXGamju2mOiEnu7hKHoVgRfBbHesAUmBe3cr-z3e2mykv_u97dj2D6elmg7r7UINCiLEQZCT36yvZVXfItI1ZgBAEv5DvgoZEneEtHIZic2sqQshP3EnHFKVufnu_XNqK0j07dym2Kx0dg3-e0PprcB2leWbCdNQ6GX7sIYtNGmyAg47S0dlzmu47mYcCpglrnPJySISrxSyYlSYO6f5nfRKskAeA0-VlKZ0VC0fUVH-47wejXye9t2zz0XleTSJlwT6srEJGMd2vapRTdeogQ5-tMO0gvwkNAM5LtMf7IDR7wmdTcQ2O-QkF_I8aA3MkAMcwIzfY6qDg6rMfykVEWNwxaInhA2d0rBeM-xTbNX9jOad1YS4zF-re2WUeVCHkEU1TDKQBUOmZayNwai-Ybrrfp_V70hoMajHsyehk4bFDdd7EgdJ8Cwi-_E7vkhpSa_R1NQ0mYEoM3SYUm7HJ7b8baeGYTiDg2NXZubLqa",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ9V9gPun0K4gRAk6RXssz8Sg",
+    "plus_code": {
+      "compound_code": "CGW9+4G Kitchener, ON, Canada",
+      "global_code": "86MXCGW9+4G"
+    },
+    "price_level": 2,
+    "rating": 4.4,
+    "reference": "ChIJ9V9gPun0K4gRAk6RXssz8Sg",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1167,
+    "vicinity": "19 Cameron Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45045069999999,
+        "lng": -80.491118
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45185223029149,
+          "lng": -80.4897326197085
+        },
+        "southwest": {
+          "lat": 43.44915426970849,
+          "lng": -80.49243058029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Yo Sushi",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111426705391886846727\">_vMaxis “Maxi”</a>"
+        ],
+        "photo_reference": "AeeoHcJyK9vG8WiosGRzpPlikduvhnE7W05uwKQnUE2ZVOJRWG-dm4APNiRu_xP8e7vuzbq66tLV7rQATc2ToEBvhvEzpQo3ishOXQJNbjvsjDc_G-8U00at_af-NtuWVNSCtyf8I6u-BwZNr9dycDYyviUOFjnd204ZQ03QhdBO1kUWqMFxrZJjbb-BgtIXVPyqA2w6KKrQ2BFUASXdKEyiUGMQhfg7-JfgVEStSN89iXIw4nb3LDgP9TfuspImk-P_WAQ0r910q3rMu2TjcCKt7R5TyFuZCAC_P2vV6ro6a1S0zcmEyBm7iadxnDDGYpAAwnxY2n_VyLfh7gL7VtzD2Eyix2luhqy_qlb7L6zVL3HlrPDiHUw_aFocO_DvBoEDl89Q3maUnEGVQGfzbdvQJ6Y4pY2-U7iigm8YYPtIKJ4sSwOmR9SWEcbULR8R2k081Pt_K-BDik8ex6LZN3_q7JpjWgBQft4_iK8HHvJJ4gwvy1q9jG9bnOAgqefVlbLz6HIR5BdnBOreb-BJJhzrQEwl7m63t6x_EPuhhctoe5XdqSTzh8Un_1brFrZZcLxbpXZnA74QyXWZHQ2oEcIPqlAzasuuxE8uCg9lQB-KYYUl4rteb_7B2E6uj_hpfhJYjJsFag",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJQ9ap4vL0K4gRFBLDA_I96HQ",
+    "plus_code": {
+      "compound_code": "FG25+5H Kitchener, ON, Canada",
+      "global_code": "86MXFG25+5H"
+    },
+    "price_level": 2,
+    "rating": 3.6,
+    "reference": "ChIJQ9ap4vL0K4gRFBLDA_I96HQ",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 897,
+    "vicinity": "103 King Street West Floor 1, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4669868,
+        "lng": -80.5230936
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4683250802915,
+          "lng": -80.52163271970849
+        },
+        "southwest": {
+          "lat": 43.4656271197085,
+          "lng": -80.5243306802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Huether Hotel",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112522364638976627365\">Sa Hua</a>"
+        ],
+        "photo_reference": "AeeoHcI7mox4jphudRG1BGTV76j83fEg5GBug2LjFx9ULCgg31vCFb6xTV1oHCIgNX7gVDYxfauFvOIVkU4CN0NJsSUr986BRjwRLczSjjghjZxTIKbOhLIxa9youNlmiIwK_zoC6DuDyIXUCAfAh68Pyt9y-9U-I7oqMKEiknX4T1FEsd78xnKnTqWDg5xGjpaFFEIjsev73zy704ED30vfB1Ept_UV0LZUvph07W1dY9kYJnxGDK1b_TrRWPSkb8G4Pzo2DOr-FJQOp_1QMzFpdINYqGoPbZQFFHuGp1ulcBq6WK1p7rTGlIP_qs_h0bX3LOhmAL1yk8NJ7jHTUN9xD5HdZCcPOFOzNtU3VosZE7YoB4fwAvtUObNGCl6OuilVlWAwaCWUcLsBj3HW3FnrxOlZYua-c26Ms2K4tgDIZW-S_V6B10Ity81j4kwGIjl42U4gBzzEa010unPaufsV7sBINc6RNWNQyoGiLfVBm_sNcfsCa2Zh61rnRXPaKAb3dQXjWZty2iawFNKsSB42RyqOvC6Ui52rqDOkT1fGA_7sKaArAXQuwq4y-X9_VBNfcO2QpzLxIbxcQ8g5TUWEZ9ns6AxVwg95UN91ffyDLxqoIZYYXMEA2h_dln2rr1NIZso2VQ9U",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJbU6D4Az0K4gRGm7S0WGYD6E",
+    "plus_code": {
+      "compound_code": "FF8G+QQ Waterloo, ON, Canada",
+      "global_code": "86MXFF8G+QQ"
+    },
+    "price_level": 2,
+    "rating": 3.9,
+    "reference": "ChIJbU6D4Az0K4gRGm7S0WGYD6E",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "night_club",
+      "cafe",
+      "bar",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1502,
+    "vicinity": "59 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4071754,
+        "lng": -80.5002064
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4084776302915,
+          "lng": -80.49892271970849
+        },
+        "southwest": {
+          "lat": 43.4057796697085,
+          "lng": -80.5016206802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Marble Slab Creamery -- KITCHENER -- Williamsburg Town Center",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109338729318599261685\">Deniie Patel</a>"
+        ],
+        "photo_reference": "AeeoHcL3pPAugaZtXcGGnYD1AvYfMYp7bqkHsqvVTkfL0p7OQb5_08VbFxwgOsHE4ehngy40acUMfwbj4Q-wc3G8Oujrl3Iiqqj6h1zq5S9RVL_mqH9ygo-SFFpZUM2KZJvm5x1jv-b_wEDQD4qnnCmIqohY8gBIhpxtGDrH4MPXn4muffBuOB_bgpIaoz7hiBybVJcGXmcx13OF__NZN8LxfvxZNl4596gJAfnxfF_IdlfVjsDiMJpF-7soYdpmnMkiYc_Qrw0Fbh_1D2kZSujSqoon_uMRST8yip4jpYy3WeChMKxnHoAV3NLgp3fwM49XZmuRlyYnydasAsy9pFRQyF96b3g7k40iEXKEDEqS-MTh2a2keLwITJ-M9YZfo6SeScI9rEdyMFGgLEQDqt7yWnf5jK2sQffM73quPCh8sOreOyWSTLWp8ph83ChdZwh85zHDCOO2ZCLaT2TYRAr4yByckOCaFmNitpI4s6NxZ4c9sTHG3I24KTVsPwWrPLO0NI317sngIEpnZQmCWnBlGlsF47-m2Dek2lnsn7pDRXqSCuAYxaj8wxEuPvwphEoUvFYwtBaROlMW-Y9cGcZuUgTVnAxAs0H0fG6jfAwy-Y9lnMyB9JHP6rkHn63sS6SdFL1Tuw",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJv6zoq531K4gRbKjgNzynM08",
+    "plus_code": {
+      "compound_code": "CF4X+VW Kitchener, ON, Canada",
+      "global_code": "86MXCF4X+VW"
+    },
+    "price_level": 2,
+    "rating": 3.8,
+    "reference": "ChIJv6zoq531K4gRbKjgNzynM08",
+    "scope": "GOOGLE",
+    "types": [
+      "bakery",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 283,
+    "vicinity": "1170 Fischer-Hallman Road #250, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47699660000001,
+        "lng": -80.52490279999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47831093029151,
+          "lng": -80.52366311970849
+        },
+        "southwest": {
+          "lat": 43.47561296970851,
+          "lng": -80.52636108029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Burrito Boyz Waterloo",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112482415753734225075\">Chung Hsien Lee (Jason)</a>"
+        ],
+        "photo_reference": "AeeoHcIzM8Y6A4OlP5mEr9-EDRA6yPUmCZoieSh_qmu4BrKQA039wC_Y3kCOWAWqrr_PchSL1KrEazPY0Xf1c7E_1lpnx2-Ph04M8hArK26JKQvGvyQPUt8hjo06QVKlbHQYUFsubVLbEhrADlKUcCgD-GfZ6ZLjyFPVWOACVg4S8VYsp6eMXaN2O8N_DIwc-v1VJYqaMMtHcFHEv94wmPeJkk-v1JAXf0U1QCQr9JGG-Qfks-CRTZRQmoYXw9imuzj9TFcgu1HrFO3QyYdLVvxKPGsybKwc-O3bau5QhMAEyE2sULLu6tihGFzQJbY8xkJnjdYCYe50tjMBlpAoT-b190GtWp8SU2ta74lrnxyNYTyddIX_P6SV471o2ECzarAzcdMt9C6FhUZpOpMhMzICEc3lyiLSBkwbDNLZlCtc0286utAdy4JhxoUSzOi0bmQ5R8sLjjLuK_5TdLMEHmJ8YdwTIaZ8y1bo9o1LUL3iKQTqmpBxgzMHv0zyjXacbHdROrrPiMupKbHRz4BFsvBbf9eLmza_AKGHYItKxOzdIrOby8DiahLpJ2s3tojGoP5_2RLr2r15oelos0eQ2You01b71z-NhX8qweZc83_PcU6nuR2dXSLfy731tgoV8h36bkNeXw",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJycchUvTzK4gRCgcKBRAWmvo",
+    "plus_code": {
+      "compound_code": "FFGG+Q2 Waterloo, ON, Canada",
+      "global_code": "86MXFFGG+Q2"
+    },
+    "price_level": 1,
+    "rating": 4.1,
+    "reference": "ChIJycchUvTzK4gRCgcKBRAWmvo",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1091,
+    "vicinity": "258 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4846435,
+        "lng": -80.54026979999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4859889302915,
+          "lng": -80.53894326970848
+        },
+        "southwest": {
+          "lat": 43.4832909697085,
+          "lng": -80.5416412302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Tim Hortons",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113932187865128667984\">13 OTHI</a>"
+        ],
+        "photo_reference": "AeeoHcIQmbfqoxwhinfU0hzUFuT9TkQ7bHPxWR1mR3dZh6QWErni6G1BZ1u8C-hbYnUNeWVY6ZEfFooRwyJUEgytVfPjDN1E5Z6WxoO_KaurryfSkjT8QX1dEqt7VIGE4ZaBG4FQJUcPxOAfbzq3FCCa14zutKfk7nvfyFj03pKHHfV7ruR9xWAAdUGvsdtgwfzgaXVtAIY3dvHhssOxTi01VLK65cipeciAxIdtdCt8M2iYTogh0qBpiZxmoCHavaMrx_AQvy0qgQdmLPT_ca_8ffsHB79FCQfDTxCXn9Lef6GbJiWDRv2U4A7UDqOc7EpxrGwJj1O8b46-NRWV9EvbXpx_rZQi7xrrbjcKO1NRS6lo9vRzZbCOTdwryaKW4LxmLre17UHfmj0KhAGRGlxSKRXspUkDXI32U79baXFY5YTyk7LY_M3C2p16jnhF7Pqft9qt2AuEyxQ-aschCkG7PUkkRf7lDuGuqq9af-epFddMah7HL1Kgbbu9kZh2Ai-TnTXwdmq4icdaZPcRxFslM85-m-yWRCv9qNx8HmAuUI39gwH41CnzJK0znPmtjKLhl5gtqQlh8H98UrYUfuqg0WUjnGoZuIQz2KY2fzOfmxrmyV7CTgC7dgHKoNgGZ1GKXhqEVg",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJAU-_2fzzK4gR5C93JyGq_aY",
+    "plus_code": {
+      "compound_code": "FFM5+VV Waterloo, ON, Canada",
+      "global_code": "86MXFFM5+VV"
+    },
+    "price_level": 1,
+    "rating": 3.7,
+    "reference": "ChIJAU-_2fzzK4gR5C93JyGq_aY",
+    "scope": "GOOGLE",
+    "types": [
+      "bakery",
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 1035,
+    "vicinity": "465 Phillip Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4289108,
+        "lng": -80.4327824
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4302473802915,
+          "lng": -80.4314401197085
+        },
+        "southwest": {
+          "lat": 43.4275494197085,
+          "lng": -80.4341380802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Charcoal Steak House",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117605587317528576700\">Charcoal Steak House</a>"
+        ],
+        "photo_reference": "AeeoHcKU7DUD3GFz9PKEMvjMNc5-TL2CUydC_xkfU3eFW7OhDgw53KCYDCh3R9YG2UVdwBUIM7xjwPeoOBhYwso4Qn1P2DlQ8HCqtQiRxKk52Ym_3buXKLF0NWOVzAaU6U7m5_HmnFpi_hw_jplzP898Ih8h0KkP2yMzCkSwQZ8fntFl3vjxUDU3iT3e5rS5aBqG7JRDxVt4CJ1o3KV8uA24iQFdezq1y-usfZBgigKopBMCorLXRPCBuodPY_CS3t_EHJwA3l__O_wwNs_0POcg6KKh9XgVw2vwrH_XNkHBaeRPwTsGocqomkt7mkkcqfj2XxKtQfjzbSE",
+        "width": 6000
+      }
+    ],
+    "place_id": "ChIJ3Sdd-R-LK4gReeW3jYFn_gU",
+    "plus_code": {
+      "compound_code": "CHH8+HV Kitchener, ON, Canada",
+      "global_code": "86MXCHH8+HV"
+    },
+    "price_level": 3,
+    "rating": 4.6,
+    "reference": "ChIJ3Sdd-R-LK4gReeW3jYFn_gU",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2774,
+    "vicinity": "2980 King Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5017744,
+        "lng": -80.5341164
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.50339398029151,
+          "lng": -80.53309941970849
+        },
+        "southwest": {
+          "lat": 43.50069601970851,
+          "lng": -80.53579738029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Ye's Sushi Waterloo",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3840,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108774653235377881490\">Ye&#39;s Sushi Waterloo</a>"
+        ],
+        "photo_reference": "AeeoHcKVnMNf1B_D6PhlC0XQJgUmKTZlO57q906ywMOSEGiqAS3OSbFBuAInpilEwIPhsEdstpsu4mSedWgzdr7PEQRyZRfghWTLtUE_QBH765T-9LtN9vH_mVCPbhECOQfAvhaF5IKXd5SGnUwb6mivxd2o_LUQevGiEbeEjhNJdIfZiw4-Lt94Alw3N7N8pHtHfBV0w-3O16EmCXYcsd1MxcF9hP_CEePDWpx8dgMmv63noNK8riHyop5As6r2hBlyVw988DhKHEOYLrrWR0i6oqh5lMcuyyTZzogX5ISQ9rWeC5F3VOzBPL2jeUPr9Kfmzik_Uw64XVE",
+        "width": 5760
+      }
+    ],
+    "place_id": "ChIJCzOZw9rzK4gRzoTQdrhXJz8",
+    "plus_code": {
+      "compound_code": "GF28+P9 Waterloo, ON, Canada",
+      "global_code": "86MXGF28+P9"
+    },
+    "price_level": 2,
+    "rating": 3.9,
+    "reference": "ChIJCzOZw9rzK4gRzoTQdrhXJz8",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2234,
+    "vicinity": "583 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.48884239999999,
+        "lng": -80.4927009
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4901590302915,
+          "lng": -80.4913995697085
+        },
+        "southwest": {
+          "lat": 43.4874610697085,
+          "lng": -80.49409753029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Tim Hortons",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116249149672448771582\">Mike Kropf</a>"
+        ],
+        "photo_reference": "AeeoHcJwsk1oKtcSSMdam2iuukfdld76ITqo_key_4ZrXZDR8I27L_nAJRbPajcCAwKjHtw9dCw12RuW2jUgD6Ycq5so7F_d5cdmFINg0ZUX7jenipb50iLWrG2HThDPhhkSoGaobShJNPv9BXq2Fzlt8f7SKbDHvJx0VrmpSSM-xz9bCy8gal8f-6l4dT9DfgL5sOekBW7GiO1tXysTLTosGZG4XMh7HoogdDv-lt3c2j3tbXVaDIVDJ3mPeTwmlA3UPtNLKJEd3_wWwYHP0_-IY_vUuvTgkPmtRor9zmP9PAFb6jGd5HI2DajmaT2DlLtslfWHf6ha7cq_cHrYNQBhPHccFvHlWz6I7ZtVZsd_aEZIkMniexvSrAWoCxH3zMJRSsLunG-WPk64yRRiKSk5pVnDUOMOcinn2tE7fBJUGB3N8T1e6sF1P8F3W0_BqhX-7VJseceeDZ3_tlPalRMxtGDmviHixqZH_TJ_T1fviGydRtHXymCVPpxzSu2VgbH8FK03SWanxUk5NPfmGgC_CGP9DQAMBk9jjEmbbJSN4nrILr_0qJhYbRHzN1FsJGEoupkHu2jA4fjH8hgwPp68A7PJ3P3RZ5304mLsssweEywSvjX23r8QXcC5xwipDREOB4JYbg",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJYxAXYHPzK4gRm8kEYTawTjU",
+    "plus_code": {
+      "compound_code": "FGQ4+GW Waterloo, ON, Canada",
+      "global_code": "86MXFGQ4+GW"
+    },
+    "price_level": 1,
+    "rating": 3.7,
+    "reference": "ChIJYxAXYHPzK4gRm8kEYTawTjU",
+    "scope": "GOOGLE",
+    "types": [
+      "bakery",
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 774,
+    "vicinity": "425 University Avenue East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4505233,
+        "lng": -80.49166129999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4519747802915,
+          "lng": -80.49024166970848
+        },
+        "southwest": {
+          "lat": 43.4492768197085,
+          "lng": -80.4929396302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Bobby O'Brien's",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107612306138097664438\">Angel Perez</a>"
+        ],
+        "photo_reference": "AeeoHcL5z-P2jfrV_Nk7k5JxAG7QuHAO5yWLHM5n5XFCOCVg0g5K9ZsM-fzVwGGKa2-yat9amFlegXMuNkcO4vegOSlwmZMrETg4-qweyEC9_jJxvaHH4tTj7uUNYzS2J0DQ8KoJdaj7TDKiOM496EiknX5Ki0815R-G1Ajm7uilISaeHp6C3ibqTTYD32UcQpkswR53uLYQ8_GVdU9rW9RzNShbT46YKyJOAyaQUKDgIQ3Imjok6aYRRDZa_-TxXfFzw6fwU2FyjDGoha8LiiWu7-Qs4CiszYJgB8HJnCuePiHoU-cq-THccJ2MAjc-nietQNkZA1XdMRrHfaXMaIAnU-UOEAsS8p-75VrwHsHnm4Raz9IlKjdJIbeyVP1zTK-h5lqKOqLXLCQpATlAJiRqGJLD3TbNbhwtozmfodp2bZtGwa0HcW55pMlcYM2wdYHaFiPftqfmQborGTlw7ltGR2Shzgtkr74xY-K0bkPnv1MyoTVcaO0LtLPSArrvxHEfCvrbFp2S9FJQ6MS-0Eh98BEjdPFKPDzVgkcbfaGUrzNPbGHOhMfhUH7AQ5BAa90kHmS8Fl223p2XckugBqwvqPySJiVF2T4fQlliHe-S6Rib9mzD8CPaBnW93_H9tpkQ9t1N4A",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJo2Z3G_P0K4gR92YO6OU10v0",
+    "plus_code": {
+      "compound_code": "FG25+68 Kitchener, ON, Canada",
+      "global_code": "86MXFG25+68"
+    },
+    "price_level": 1,
+    "rating": 3.9,
+    "reference": "ChIJo2Z3G_P0K4gR92YO6OU10v0",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "bar",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1361,
+    "vicinity": "125 King Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.48271740000001,
+        "lng": -80.5060158
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4840112302915,
+          "lng": -80.50471416970849
+        },
+        "southwest": {
+          "lat": 43.48131326970851,
+          "lng": -80.5074121302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Canadian Pizza",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 9248,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111630421124502839783\">Yusof Ghiasi</a>"
+        ],
+        "photo_reference": "AeeoHcIV2qck46V9mEoYJcpvpLygza3iOi2tdvgIbKHFH5Oz9_Zv2j0zMelrev20AW4GrRoaJX4KBwhObRRMlYPrEoDJWUZOJKpsP3Yn1bVkqyqTx3zEjVnUbuiqKpdItI4SgN7N88_K8VP7rGHijO6QwXWnDqLoeQKM38fsnBzHcg6WXorgEnESj_uJYjsBI_O_BaUicVJJlz-pFcH151hRqMuIiJy4rQucJOLNCTkoZWddkuD7t8TWCprUlE4K8Hb16RrFBL0TamcSYLncc0j7oCHORf98fXBAPmleCbzM_SitYWS135Q_CKR0WjMK_SZJq9QOpby3o9kdmA7zaHElo830LZQufCXrCCe7jQNydi4ENLEHQFdPD73PtOb4uEbAL0GYICUcBfjZJSMRgR8osVo39Sh-POQxqYSoQLchU8VM2avApbkA49tHBU-84P5dmIMOjdALuCyRImuhCAWXZXF0psoSjX39Mt5HUGkXjyBF1bRmO6kQ953TWPlXCwx8teVoLTcq7JaObkPmSG5R2qu6gae6yJX0svCdyvljS65mRb-lZ9N6NkS5AvnC0tBQD-oUFzxtVrfyTho9uESKuOCIB-6CtP8zeJHsJhC7S4BL-tUycAyVsEJ8HfLX3LyDfX30tNtP",
+        "width": 6936
+      }
+    ],
+    "place_id": "ChIJX_05N5vzK4gRDi36BCTSTqU",
+    "plus_code": {
+      "compound_code": "FFMV+3H Waterloo, ON, Canada",
+      "global_code": "86MXFFMV+3H"
+    },
+    "price_level": 1,
+    "rating": 4.5,
+    "reference": "ChIJX_05N5vzK4gRDi36BCTSTqU",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 638,
+    "vicinity": "315 Lincoln Road, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4960556,
+        "lng": -80.55002580000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4972393302915,
+          "lng": -80.54880841970851
+        },
+        "southwest": {
+          "lat": 43.4945413697085,
+          "lng": -80.55150638029153
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Tim Hortons",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1836,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113092473530925778149\">Jan Najvarek</a>"
+        ],
+        "photo_reference": "AeeoHcKtDnNJ6LtXHbEZiytjipIuO9WgDiRR3gkFPFd26YNnXL7PZauL1SYP-ClFYFZF4FFFjPSgpjrjyoI2bRuTUrZuxm-N5oFF23lSVaI52W0yI8QGuxTskVkHXq6pliPlHHqM9qmOCYU74ktS4gLlNWT_RdOcbjnTMVFsX2tgXJbSGhs6jly-yz-Zt31FnAYpx-JUOHJbP98Q61miWChyceR6fuml_4hRIwSTXXdXPFNAGmhGRuMazdJ8bEeHivQBu50BV_XGBYt8UV6Y8iVlOTRP9pN5c0SHk-t5RPm5hsMqc1upd386gb8fMu86Zh_edKPfjl_p8Cdf14G22bjMHgm6AQ8EV1OQ-gjcvomSxvUwKUYK0kDxsXw3o_M9Uct1Ac8QYlUHIrCzoiTzDGMZz3mgCvfqPbvFRcUmPPlNdrjVFLfSdTG0ELuHp79zORHYJ7zOHLgPC2Ry-7IMXoKjdw1D2Fn2Onwb7ir9ZICPO0sNyJ83iZTeIWgCF2MEVbaxM_WbNARnIxJBcdAIx5b7FAos5ZnERRM-R2L6YL4Qf_h4dlC8RVjL5jgKSqa4Mt43sEwJPHf5p9Erv1aqcoWpQMGnOqB8HJGQgtikU_mSLQW_5SS_xYV27IxoWctY2YP38kGIYg",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJFei-a2fxK4gRwGZUEv6ZNdo",
+    "plus_code": {
+      "compound_code": "FCWX+CX Waterloo, ON, Canada",
+      "global_code": "86MXFCWX+CX"
+    },
+    "price_level": 1,
+    "rating": 3.5,
+    "reference": "ChIJFei-a2fxK4gRwGZUEv6ZNdo",
+    "scope": "GOOGLE",
+    "types": [
+      "bakery",
+      "cafe",
+      "restaurant",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 867,
+    "vicinity": "585 Weber Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46308940000001,
+        "lng": -80.4664482
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46447388029151,
+          "lng": -80.4650066697085
+        },
+        "southwest": {
+          "lat": 43.46177591970851,
+          "lng": -80.46770463029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Arabesque Family Restaurant",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104652630035321813778\">Arabesque Family Restaurant</a>"
+        ],
+        "photo_reference": "AeeoHcIRWia7s0hl02B5QM61Qt9z9qcyideeOM9d4AsRZQBb4yIH6LpqWxhopui6cb0PIBqJ0MTZBBi0CcTWi3qwxDZdQ8ixADzW3GKKY4rDVc2srPY4n4MRpiGRs4E2W7QtCXPtkdMUSE14fyKkSbMu7PNUo-m6tIGq7CZdTicQJYH6XOFb60R_NNnj8wIhNxPcp2OQgtgVG0vIBmYBHsmD2YhzcBw5jEgVT6wh99DJe1NKVqsyyGWx4MTOYiLHVyZOc9ramffhGjeVTa2LgWFaA2S5R8QqmLRsby2iJsV6kYY-ox4XPF0He3vxbJplAZ99lhl9Qz4gwtc",
+        "width": 1600
+      }
+    ],
+    "place_id": "ChIJp1-W86X0K4gR_GMElbM3KYQ",
+    "plus_code": {
+      "compound_code": "FG7M+6C Kitchener, ON, Canada",
+      "global_code": "86MXFG7M+6C"
+    },
+    "price_level": 2,
+    "rating": 4.4,
+    "reference": "ChIJp1-W86X0K4gR_GMElbM3KYQ",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3924,
+    "vicinity": "869 Victoria Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.43814520000001,
+        "lng": -80.51079109999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4394699302915,
+          "lng": -80.50940731970849
+        },
+        "southwest": {
+          "lat": 43.4367719697085,
+          "lng": -80.51210528029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Tim Hortons",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112502428498114252985\">sankalp mogulothu</a>"
+        ],
+        "photo_reference": "AeeoHcISZkxZxXQbM_NbE8mA-dwUmi5EiGRdLH6Yj8gDGjzTNyEnb2vW-Qo8bEOnFb6ygmMegHbsbxXGCiqgqgv9Jp7Z2cFgWA2YAPhamfRxgk7uAv46DuoAvpl0140O8z1LZe7uIH_9knT4Ns4MUno3vQa0-tFx3arO8Gl6kTv2kDppXRYmbcOZoknTllqQgGC2st_YXYRTm255wU0PSsPCvJlaQsIHaFwXu-XrRQQfbMQxl9DmXBbhGGKAGolHvvnDyqwk4pC9Iqd5ht9q3z__EccK2RuYWJo8yl3Ub3qo_DfV5mK6NLFznzGCKb6T_FdATPgSMwfIJzrxfGVGCymBKWqAliGF9k6uya7hchRk7hV7HykjeRWHszCKH5vTM13P_DhrG_-cLHTwSLcKJ5M_KrNJ4VgnoI7yDCefUsPivOlVbe8PMoiSxN8QboVikyrjwXacL2HD_BzWb3sb4PNCflhWTXEdL-ObDjAUXTukUv1d2TnTxhCCEzV95NBdGNhZVupFMxN6Lz7SznX_o1WD0gtkwwQIo0n9q769F_edzqKJiH33bo6EHnGTgXNZHhTw-P2i8q13He3GoJlhqpOiQGJ6hFm7lgVKPA8Z_-AN-5wcLiQ9cKlh_cIjSCLxXj2G_IwccIHq",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJ90dGdFL0K4gRXOlqqf5cVw8",
+    "plus_code": {
+      "compound_code": "CFQQ+7M Kitchener, ON, Canada",
+      "global_code": "86MXCFQQ+7M"
+    },
+    "price_level": 1,
+    "rating": 3.1,
+    "reference": "ChIJ90dGdFL0K4gRXOlqqf5cVw8",
+    "scope": "GOOGLE",
+    "types": [
+      "bakery",
+      "cafe",
+      "restaurant",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 752,
+    "vicinity": "354 Highland Road West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.49690339999999,
+        "lng": -80.5268127
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.49808478029149,
+          "lng": -80.52525701970849
+        },
+        "southwest": {
+          "lat": 43.4953868197085,
+          "lng": -80.5279549802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Subway",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118141292848437638476\">Marta Borowska</a>"
+        ],
+        "photo_reference": "AeeoHcLJGRj-QY-vOG6Xf3wsNxL6O-MpfrP0NNuKpwqPJP2ymERXvb1GIJ19Oan6zY09cZDGRsRy7d07oVl3kHAMWmxaLFyw6UQuupYmmuPkLkb-RosPIxi-UOM8IKh5V-bg--0HXle9yxkOWpgJQhASZukB2F7w9qJXBfeZHIWcqRU_f3jtL4j0D8I7qIcRAlNCkpH_IzF2q2LZctN-2yUxzKfpJRcz8vb9EA7BYCAqWswu8qlz3u-JSIZy41cdcg2lb0ggbBLygwd50XnL2J4XZFs7llQ2OBU7wiQvKor8ry5BxNOXaTZ3rDi4q-6BOynIugNj9sfRuEpv4cVwmNmlZ-jARi7pmeqh3yyCf_86FhnTLwFrS8-3xR5PLw1Ep7wIJMKMi3RvXubw4BKzIQrcJfnTkTR3IzN8kK9dPhJRdrwQwymPNGvcVx_QVXNImn1Vl64LffI6vA-HiBlVyYuwDAqKQ_sQfzBIN_quK2iYhPdHrUzwl1w6TRK3YCyTEWWYyc9XM2xFGWS_rHzdZ4wFsP8LtYtMPXuxnI-jD1KZbIKUPPFE1i-DIhsYRed346uAYdBeheLxcU-rWpPN2lbQNU0LL_mQJCxCkJVTUZypuBn0CKdJI3Fo_6QHGRwrDv4Nkxld3w",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJn57J_sPzK4gReikOQjVbqsw",
+    "plus_code": {
+      "compound_code": "FFWF+Q7 Waterloo, ON, Canada",
+      "global_code": "86MXFFWF+Q7"
+    },
+    "price_level": 1,
+    "rating": 3.8,
+    "reference": "ChIJn57J_sPzK4gReikOQjVbqsw",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 231,
+    "vicinity": "550 King Street North F10, Waterloo"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 43.4771884,
+        "lng": -80.4841675
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4784983802915,
+          "lng": -80.4829333197085
+        },
+        "southwest": {
+          "lat": 43.47580041970851,
+          "lng": -80.4856312802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Tim Hortons",
+    "permanently_closed": true,
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116992612198728049857\">Aquib Wahab Ali</a>"
+        ],
+        "photo_reference": "AeeoHcK2jHrg-jXfpdhSLqMoeoKKbAMbKSiI1aXwNenyioMsXnfV_TdC-0dLVGn8vucLxXmu4rYcu_sT5Ruby8CSaW-GlZESEKNnlnPnvUcouHHdX88895gKN7PNNugAfsQEwfssBQxfzagrQz45Fz9kRPmM56QtzKVtshEy2ipkAqknW0hN7ky2H_v9mbbIGbkLSUW6ztTcOeEM_MHDIhYAbSi6eUNY_xKEovAACVjX15i9VEI8-qRVBgAeXyIe-YScdutq5q1mvcrjCTgUzS2ZbFeZGCOmGacmeEE8XTwynN2pi3lOgZlsIau1VdBK5zG9hzM1fc3dnPbUA5uQMIx1cvVDYGtEfaPfG4ioTyPsMg6arcjH39QHsiP1HFda1qySXoe-fSxlLoZzSzPFZzDw9sTkSnCLsUblQiZqnVEKb6PC9dtVLx7EV-Rejh1VmNFa0CMK-vzPjHYcoaq-2SBM8oQYjRRUg74hqAS-899dz8VgJq1AOhmri5UuwrTHVgG0PYAwM9y8I2Fxp9fhvuZSdMLBjlJ1V8XGSKmEQNbsprfaAok32aAhfLgsAlII5ybfbnDe_WlgO-xGCRw80U6CBlmifQJKbSDv26Be11sfksamNDYfxLoyj_9nxnuLPz-r9uXW2MqF",
+        "width": 3000
+      }
+    ],
+    "place_id": "ChIJW-EHimPzK4gRu1nKS4n-NUw",
+    "plus_code": {
+      "compound_code": "FGG8+V8 Kitchener, ON, Canada",
+      "global_code": "86MXFGG8+V8"
+    },
+    "price_level": 1,
+    "rating": 3.7,
+    "reference": "ChIJW-EHimPzK4gRu1nKS4n-NUw",
+    "scope": "GOOGLE",
+    "types": [
+      "bakery",
+      "cafe",
+      "restaurant",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1063,
+    "vicinity": "526 Lancaster Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46439999999999,
+        "lng": -80.5219611
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4657437802915,
+          "lng": -80.52070416970848
+        },
+        "southwest": {
+          "lat": 43.4630458197085,
+          "lng": -80.5234021302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Trio Restaurant",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105680460396301861053\">Trio Restaurant</a>"
+        ],
+        "photo_reference": "AeeoHcKmTdqqRY0ki1BdgoxjfIG_dLLt11hMzNFXNe9ZsNl3qb1Et32khI85KZRuLEZesRf_-2Pxh6qZWupYtvtivOc0ZU79W48s7kXIc75n3mbBUTk-qaB7cWeAQyuHn6zdso9gmRhbiZAt2yulNRJcJKGZxRVcsg4FMHae4kH5gwReZgB7lrTbMi3wCBHAYxT9AbfBwwiXts4iSXN3MukytV2NcVFsRWGPVnDVW39OJC6kTzsEkJyjJx7pEtZZ1YFvW31943VRYNmVWHhRRgZl1P1FJxVdrjHfMPpTJRp0F5OLR5RPiGTpWYqZ3YuW6ftUNqwAYWiIxJ8",
+        "width": 4080
+      }
+    ],
+    "place_id": "ChIJqcgBqRL0K4gRyXv1v0SUtwU",
+    "plus_code": {
+      "compound_code": "FF7H+Q6 Waterloo, ON, Canada",
+      "global_code": "86MXFF7H+Q6"
+    },
+    "price_level": 3,
+    "rating": 4.7,
+    "reference": "ChIJqcgBqRL0K4gRyXv1v0SUtwU",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 613,
+    "vicinity": "40 King Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4790716,
+        "lng": -80.5266036
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4804204302915,
+          "lng": -80.5253725197085
+        },
+        "southwest": {
+          "lat": 43.4777224697085,
+          "lng": -80.5280704802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "King Tin Restaurant",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111244502705873192318\">King Tin Restaurant</a>"
+        ],
+        "photo_reference": "AeeoHcLkAfcaPDn7_YhHePMtu6mncLhKoTa_PugKMEEeY6dMbGVh94-8wXcHuEXocp2Dd2JIRalZxCXQ1hvKnGmFdqZ13Xv9yUBbJ3MbVyNNQKu_764ycNyuEbIfaWNgHvFLWLa-Ak2iA75b8GamNH44QQw6-0n_QwRc3czLVm2r7R1rnJDO-HtIgWpCTaah7ZJj07lINw6xu5q0d5pF3UscbPFyID4wuswsKJWa3smZGbIqPJxT0ByiJpIQu--O9dYkdq77feMFMjIfAoHaSvs9YrLY8O78m6B5ql-9D3ZpHTmb47NVLjver3BM2JaXa6zCBcu0QT8ks4M",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJycchUvTzK4gRlD24RofA7sY",
+    "plus_code": {
+      "compound_code": "FFHF+J9 Waterloo, ON, Canada",
+      "global_code": "86MXFFHF+J9"
+    },
+    "price_level": 1,
+    "rating": 3.7,
+    "reference": "ChIJycchUvTzK4gRlD24RofA7sY",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 653,
+    "vicinity": "318 Spruce Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44747330000001,
+        "lng": -80.4841842
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44873903029151,
+          "lng": -80.48289191970849
+        },
+        "southwest": {
+          "lat": 43.44604106970851,
+          "lng": -80.4855898802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Pho Dau Bo",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112524674843924788166\">Katerina Rossolovich</a>"
+        ],
+        "photo_reference": "AeeoHcIh-f2RbrFEQzjq_qrlTNv_-7EaurATHJg5jEyDqYtGFtv5Mq55EUj9B-bJd_cHbvK2llnpDlnT5X-rfxZCkrrJbBlXLkW4cgqiTga17aZhzLFYkeYhgPsfI-Sb_RCINHpUQbv4G9ci7YNGwY7JUCHA7Xdh0NFKOMpakcXlEY0WB0Nq6SJsVkQFZKpSz41JejZkGiMNG-cf7jq7L8V-0MlhSR1O30C8VBlBPPVotiOGfaCmaiNXHoI9zmitSK3mgjqR4DKbm6d08E6lCyuK12IxNjw83lQR9icwvHSy1JeAT8db_Rpu43B4TsUIGClzZhGy2ACyNTVEESzvEHtlxGH80UECCOAss-IMu7PJU_0FT2Sn-QFVYflGkVLKOTUdsSlVWkbbjhT21pXQM2r8s4bRjU1Y4tdrPeDYxWCeNKdTrd9YPg4gOkFa4gUEBgX4CECYnRv8QQZ1-CrUCUqHgWsl9R7Pz9R01ZMnIFZ7GG3hsWccJIyuD7_n3djsXUHCaCYN4NsIslkDbK9PMwEqhBoX8vcVStCin4DPmTpUbXTsyORgwU4Arauc7FRdolO5KAgNucChziBxiyk7Op_6ru1uqqFJ9mylhkNI9fYPKlvwtRB-_tHMLhyusucOxVez25H9rg",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJMygaGOz0K4gRQtx2UDY-uiw",
+    "plus_code": {
+      "compound_code": "CGW8+X8 Kitchener, ON, Canada",
+      "global_code": "86MXCGW8+X8"
+    },
+    "price_level": 1,
+    "rating": 4.4,
+    "reference": "ChIJMygaGOz0K4gRQtx2UDY-uiw",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1234,
+    "vicinity": "301 King Street East Unit 106 & 107, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4218348,
+        "lng": -80.45959979999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4231785802915,
+          "lng": -80.45835361970849
+        },
+        "southwest": {
+          "lat": 43.42048061970851,
+          "lng": -80.46105158029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Tim Hortons",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113057752363327686865\">Cait</a>"
+        ],
+        "photo_reference": "AeeoHcLR9KSpETMsNDhXP8o5bUKnoB930LZzRtOVozVsWvXMvPZe5MGGTPtCSuIIh8eeWouNgRH1DVTFJqxG9Q4b2k1xM34iWgej7DUcDC0jVdh4C6ehOUUvdDEo9OVt6M_B6AO2g9ZDCX_hxrm9gBsRAzy1LVWVRLEWYn87IKTsN_lfJWmMNHb4lpg27HzgoAGnuGLWfL9Cc1uw4f0hJO-QA3gU390ixIg7GTVMJIIAc8mcjhsvVFEaJaXg4oQGdAlHelzpH2e-08HAVVDNwPts__NVA98dE8-S1NnCoNtxSKXAEfYDqYXnGO4_QU0ey1SpXxwp5bj8xB2vBdnbjE1XIjYuS7n1wbw3_i8yyMNysDnXtHOhWprPHOiv9nbPr9Xr9ojxw1owuYpVhSGPfrlh8KUGAMq7nLvZ7TF2LmoSV5pBwgEfa1htaHk_Zp5HDbbh8NFxd3UrGfm5FtRbDRVPsbmiiLTL3WZg-Bb1GWnMn1dPbMimCLbBr5mMrtOtuROTrAttE3IBJj84hYb332uQSQaM-bP_9FgmWDUta1b0UjXJ_9SHgyoheHSJa3b9diJEyofOdKfVYKW7flbViiViUS85QIJ_riu0K3fzdAnANEhADajYGDndgn-qJM03h8ZGqCJB-A",
+        "width": 3072
+      }
+    ],
+    "place_id": "ChIJD34fhi31K4gR00hOt1BpZd0",
+    "plus_code": {
+      "compound_code": "CGCR+P5 Kitchener, ON, Canada",
+      "global_code": "86MXCGCR+P5"
+    },
+    "price_level": 1,
+    "rating": 3.5,
+    "reference": "ChIJD34fhi31K4gR00hOt1BpZd0",
+    "scope": "GOOGLE",
+    "types": [
+      "bakery",
+      "cafe",
+      "restaurant",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 754,
+    "vicinity": "1144 Courtland Avenue East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4194415,
+        "lng": -80.50108
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4207726302915,
+          "lng": -80.50001831970849
+        },
+        "southwest": {
+          "lat": 43.4180746697085,
+          "lng": -80.50271628029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Tim Hortons",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106014338583283569993\">Ravi Koripelly</a>"
+        ],
+        "photo_reference": "AeeoHcKRZ6K32CMVvL2yRMS0I63ZLNgAp4oOuS48-pYSm7h4d_D4RHVm_2RrbyIEfFs1JH8WFZLLE6qtW5NveZGGiAsdpodP_Wjn18SjNlyXeRWbx5KV0HU_sLDihmH3NlCYcK7jyCtiM9HeTTmWb7CnFoth3tV0trgpNuagx2VDwYhM936r0FUPmXFJTR73lID2IdgXHc28BBjV1lMYCyakNx0Od0CCcBuG54KCsl9JcpYrUdwFgt6SkbY9pq4xanbkmZIC5i11abCLzy3q71TFTlHmRxiq32NVbUsjmHCzxtM6Y5R4ZasG4egs80iG56SAFl8r9i7DlZQ4cKbknwHeiG0YQXtFWL6Hp2YESPoWoszX9wOma4cK4xZcuISIACKHQHoUzbH06OWslMEI3end3J0-i8NQGXEP4c6TJwGuL9F6-6ThX0PC9v_3FIRSPQT9_WRLp8xLckLPwUsQ3Xj1knYVbdaSABJoO9BQzbuF3-HCIoVMM7Y65jx9LmUXWKXipn-t0-RZTzPsFP0Bh-lcXgvxvxUQjw-3GVZTy13XTKh9zyCxBjr10QAvBXQq0De4TPiyQRBj36iOaXJ0BapfvxltSJ-jQLge5FU32lS302S_UM7gd7C7kPmGhM0TZBV0",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJnaI72j70K4gRq9gBANrA4fA",
+    "plus_code": {
+      "compound_code": "CF9X+QH Kitchener, ON, Canada",
+      "global_code": "86MXCF9X+QH"
+    },
+    "price_level": 1,
+    "rating": 3.6,
+    "reference": "ChIJnaI72j70K4gRq9gBANrA4fA",
+    "scope": "GOOGLE",
+    "types": [
+      "bakery",
+      "cafe",
+      "restaurant",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 689,
+    "vicinity": "700 Westmount Road East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44974789999999,
+        "lng": -80.4893022
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45117698029149,
+          "lng": -80.48802091970849
+        },
+        "southwest": {
+          "lat": 43.44847901970849,
+          "lng": -80.49071888029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Coffee Culture Café & Eatery",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1004,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104375491494375729869\">Coffee Culture Café &amp; Eatery</a>"
+        ],
+        "photo_reference": "AeeoHcJYhMUD1_IdpNk9RMyhei8WDPvz-6ipfwvB5LeD-FL7byRpmKQRu_7T72gZftbIp05f7cxTXizRQg4sKgvji9nQcfR1FBysnFvJ4HSqwqJyYWMbWV2nqY0oDbghq7pD9EFtwWrCCHQtioHuxCNoHUiZZFsLhc-WITxtyckFZc1ABrMHaP4-kbcmgQWt9kWwngA3d7Eoptv48ngKtoeW5QiAkT7VcqCDiGzu98hk9Ap2VkoIiMGLSClD3EDY6uVd5bFLagoeEh8I5U_RVBuzoWU7tte6JoWRATggSq25WO4uV_dTWenyMNpwlireBFo798yPAZlMpk0",
+        "width": 1504
+      }
+    ],
+    "place_id": "ChIJQWSQivL0K4gR8WZZNO_djSg",
+    "plus_code": {
+      "compound_code": "CGX6+V7 Kitchener, ON, Canada",
+      "global_code": "86MXCGX6+V7"
+    },
+    "price_level": 2,
+    "rating": 3.8,
+    "reference": "ChIJQWSQivL0K4gR8WZZNO_djSg",
+    "scope": "GOOGLE",
+    "types": [
+      "cafe",
+      "bakery",
+      "restaurant",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1032,
+    "vicinity": "1 King Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4111679,
+        "lng": -80.4591653
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4124549802915,
+          "lng": -80.4578383197085
+        },
+        "southwest": {
+          "lat": 43.4097570197085,
+          "lng": -80.4605362802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "Tim Hortons",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2084,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109755365417170039354\">Chris Colliver</a>"
+        ],
+        "photo_reference": "AeeoHcLlyqg3fNBM2ma0XflEVKpYMVwwuPsVhNduBbq-lL_zsb22plC3TNxmNHKoVXOXQSihbM0QXlUwCFZzfKF7Jfw0brtU4fBO2LAoYfV_pCyrif7lCQHj88ogg32E0SpTyquvEX-088wfjfQv6VEt4QvSp-duc5I1Fr11NgM4xqNHoLgILeLmYUMhDkexqrdtiIo_Myeae_vkXcksQzDjNtBVi5fCsD7uNDceb7SXSmZDydoMC2mQxlZ7oV2U8YRCu94ORbwHH9fDsJ_9CW4NUMuSAfwjiGMQ3irlBbdXc13zFbGaXZjzMoBPFWenMgexPw2NrPtF3Xf8qC-yQdtYfs8s_3H0vrLI6I4hTE5L9vkBslEKIFDpQq8qUPDezZqOWyHAcFUZJ0OBJybad2gKIcA7fBRNKo_0KmoRkh7ElT4LCVWEdRCBOqAbjguwf3RAldYowkzicnLJ9KzYxl7IC2ReEC9e-YSroz04xzywPUJLKQtuWcI0-CdF0xmwFD93ilM3m6wzlO-EvnMBCA4iM2GMKQHxt7a7OMnWKcjbPgsw5Zra-PiEBuSaQK9bahVtN13ist5GQOfVqgBCKiNWxRZzJXLK64lDbtLYE82ggvYw57F_b552p9AShA08CvwIeXotUcbe",
+        "width": 3201
+      }
+    ],
+    "place_id": "ChIJnQUTE0r1K4gR0QVWu-CPWWM",
+    "plus_code": {
+      "compound_code": "CG6R+F8 Kitchener, ON, Canada",
+      "global_code": "86MXCG6R+F8"
+    },
+    "price_level": 1,
+    "rating": 3.8,
+    "reference": "ChIJnQUTE0r1K4gR0QVWu-CPWWM",
+    "scope": "GOOGLE",
+    "types": [
+      "bakery",
+      "cafe",
+      "restaurant",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 835,
+    "vicinity": "260 Bleams Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4559333,
+        "lng": -80.472717
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4573375302915,
+          "lng": -80.4715325697085
+        },
+        "southwest": {
+          "lat": 43.4546395697085,
+          "lng": -80.4742305302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "AMF Frederick Lanes",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104321193258486018289\">Safwan Nakum</a>"
+        ],
+        "photo_reference": "AeeoHcJgazuwV7Jta-LLCNx1t1paQYtT7X-U1yAARJ3ptU-K-xobLku-6xjnuoqx8ZOli1uizMVwOWyC_Kjm5chazhBC7-l_WZV9vSAoklegMXWa635hmIt0Rybxgr5LQY_PE2xwHLG0iZU3qZ35rSPv27P5hTiWF8UnHAaMjZvqF2YhiNJjpeZMr1XWKuoXu6SOBQlsp4Z51jRyP-mjKUxBEN0Da3KYtV9op2yFweOGk_Uk7x585bzXZa93QAIgiPIzwx3lO05HzTSLuuYWiq_Tcw3c35WtPYS58CbxjrB2xaxYw_869lKCQHn5pKlXlmtnqmAT-ZC6EpbKCqtiWR6SFs3mnMgt5jrt_bDkoZfeKcStCcnkooDbzxWJafFpq950j_qHvcPJgU8kuvMrzxQ4o69p-xY2I1fstOPY1lhnLiXvmaG8gBCrAhpWMzAiK-RvhZVtmc712O41qqZnNu-y_0qEfR9bAnFfLaNm-LlmTdGKbZjgoMw_kawgzh-pWM83gUMyhkBQjKcpYC0lNqSj2hIHa9oGXlRp_VsX9HbGLZDo53pdiR5sAu9iHTu8QnKKYj2FoJy0HzT2P2ArS3VFFXEvMcgau6c5kDqM5fTH4twzW6m9wZ6YqqZbCzz_iqwR",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJRYbDIrz0K4gRkqJUKe0eEdI",
+    "plus_code": {
+      "compound_code": "FG4G+9W Kitchener, ON, Canada",
+      "global_code": "86MXFG4G+9W"
+    },
+    "rating": 4.2,
+    "reference": "ChIJRYbDIrz0K4gRkqJUKe0eEdI",
+    "scope": "GOOGLE",
+    "types": [
+      "bowling_alley",
+      "bar",
+      "restaurant",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1490,
+    "vicinity": "385 Frederick Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.48174849999999,
+        "lng": -80.52557019999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4830217302915,
+          "lng": -80.5241764697085
+        },
+        "southwest": {
+          "lat": 43.4803237697085,
+          "lng": -80.5268744302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "McDonald's",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 768,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105346788975132129606\">Aman Jowaheer</a>"
+        ],
+        "photo_reference": "AeeoHcKZkih6rbEYJA3e6SfNcu0Xu8Tyt6k-FsnB4Ww7yGXh-lOW18Xfwo3w3mIJcERmFP5RAyw4pvQSQIbDGxKhAO-US0qj3anVnP_FPAAvmcLkFCrkfYYOwVeJLniZGa0FHD381efmrc07hdSB1hGL4kX4lUBkHQ29AdZzO1XNVAiB-RLwpyy8GMoJxPe_2yfk6Mag08_iawgV_GmCagJiyDKbftDN7b-jsFsxKkcjGpgRg62-LeNa5PP9ndzF7516B6dz8z7C4HqUZMnFs-tdAUZDEkH8Z7sQM5m-azjr2IZBpRN3ffMnsFLk4sZVvovQAvWl9rnlYzV6foaurf15Z9BgmmkGF5lmV4pzg8UvwB4W0DFDEZeJ8pi4qHJuP706ik1uCfrWEAZkXs_yRxZtCoghAOwAmMwuV8hsvgUYwQVKCDx-GA2xT6tRONAEycO1rS2kqZ8AQDtzbOlkhBK4mDgxbWVUioo8CmQ8EdPQMORmsM_XdopvV1PPKJmh9ITFArD7MGVEjTSWiM33FXi1MHb6hYehU_4LyibyUOo8dpnLRvjnWmuqFlmI6sC7ABIWw5crllE_J4aNpTm7vdGIJYNEsVcL0KqEFpRbE2wMc58MU-oHosQuB7rYTJvWPHXiF3lI-qHW",
+        "width": 1024
+      }
+    ],
+    "place_id": "ChIJp6htNPLzK4gRwU7zutTnBQM",
+    "plus_code": {
+      "compound_code": "FFJF+MQ Waterloo, ON, Canada",
+      "global_code": "86MXFFJF+MQ"
+    },
+    "price_level": 1,
+    "rating": 3.7,
+    "reference": "ChIJp6htNPLzK4gRwU7zutTnBQM",
+    "scope": "GOOGLE",
+    "types": [
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5009,
+    "vicinity": "362 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45383210000001,
+        "lng": -80.5185451
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4552337302915,
+          "lng": -80.5171368697085
+        },
+        "southwest": {
+          "lat": 43.4525357697085,
+          "lng": -80.5198348302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Casa Rugantino",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 750,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100599012651738393111\">Casa Rugantino</a>"
+        ],
+        "photo_reference": "AeeoHcKg-1WgGZ52qfXg89738-Yb8caDFhYnJZvC310wzdh1b5HzsrRbWSFzt2AWN9KX5Zc54VsKuOrVl2NfH8zT72S5oJ80ZVXVQOXhLGYvYPI38hIbbnSu5VrDuh21MKOVW6WTH61aM17t66og7wvzsFs1aiOXrJxUX-cY3Q0gbJQFtGVkl6DLSle3huOGHYApFAaOp5xExyOfAQm3dO4m33EEKZtFhlZxG73JXMZKrQdK19i3PRTWCRNZdNcggmIXtg-1zG0f5K0hvb1TTkagG2KielpUsb9tzyAXc9Z-rNAMAPCZyNepaoRwx4ASiuJF41m_AO7M33M",
+        "width": 1053
+      }
+    ],
+    "place_id": "ChIJk80zzEH0K4gRGMwaNzeGV8U",
+    "plus_code": {
+      "compound_code": "FF3J+GH Kitchener, ON, Canada",
+      "global_code": "86MXFF3J+GH"
+    },
+    "price_level": 2,
+    "rating": 4.4,
+    "reference": "ChIJk80zzEH0K4gRGMwaNzeGV8U",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 746,
+    "vicinity": "709 Belmont Avenue West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.463102,
+        "lng": -80.52665499999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46452238029151,
+          "lng": -80.5253144197085
+        },
+        "southwest": {
+          "lat": 43.46182441970851,
+          "lng": -80.5280123802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Solé Uptown",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1012,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105226080212244569338\">Solé Uptown</a>"
+        ],
+        "photo_reference": "AeeoHcIe4m0txvsVHWw1Di_0oo06EwgP9-4tLmE1ZEh3d4Fa_R-KPI0nuPs3vTm-9UvZjUBesdjvgncMJWK6ewO6B38eDH7IEKVoSNbVPAzt9Sx8YHZqVttNczG-2euQq8i7iAzBJORbzhgIbQ_LkxuQRSBL5c7_PxNPt8JixAYV6UVVrGHjNQPtXJb7w72vuYRygnUXTZkgDFDSM3cCHkYvBweRSv6bU9I4MRyqMWJqwVr039l3OQBXNCafZDQSo2dJg70HY1hqTFMw8R95aVW01MyKT0-_OENmE84rC55qI0DrEdULjxnZr9GJMmw4d0sMDN6-YjsRvk0",
+        "width": 1800
+      }
+    ],
+    "place_id": "ChIJNy3KGxL0K4gR_rxOs0N3mOE",
+    "plus_code": {
+      "compound_code": "FF7F+68 Waterloo, ON, Canada",
+      "global_code": "86MXFF7F+68"
+    },
+    "price_level": 3,
+    "rating": 4.5,
+    "reference": "ChIJNy3KGxL0K4gR_rxOs0N3mOE",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1373,
+    "vicinity": "83 Erb Street West Building Two, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.49516999999999,
+        "lng": -80.50105099999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.49647073029149,
+          "lng": -80.49978406970848
+        },
+        "southwest": {
+          "lat": 43.4937727697085,
+          "lng": -80.5024820302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "The Chill",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3036,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102726716620329809766\">Laura Hood</a>"
+        ],
+        "photo_reference": "AeeoHcK-Ld0GDZglbA9g8dRY1Q7lxXpmaXrdcbVxvpBU9M9gizlAFH5YixDDKs_jQeMJ8nRDPDuvbK79-Gh0wXwge1vzzFleC4tEV60892q8R3nCOJ-bXrhuwTI22QlUYjyzjBDY72kovRb2UmXB758KAjqNQo-9pwYm8WhMuuhXdz5h874OCmVvJrU-jURS8o2qMr0JkN05xK4KbfUECyM0E01QDaL-wBa9H8vOlxjxaxyRNwxrD3XySr12qu5al9MvEO2hUgyed2rghJslcl1B6oz7CiR8VfzO8FjN_JreHFSMZqqs6zRkkLshjjZ9A4E5QmH29jH-3_9Phdi83wpXny2-FrB3EXo6iYdwBxxfCsuQHAVMmaKMEOIlcLE6JKGDRJrUFJ1tLKwgyUYbBFjXm5lX5roVc9g_BILuPsZMDWa-UPeDcvuFC9K84sv3uae_CY5kMqw38IW0ChhAD6A15mclUEqPUBT3i-0UTCG5ODN-oxetj5dspqni-e5Q7j85YlTpCrkGhTsfF84AfW5OsgXk_qsMfert_PENWzO9fOyRyyR5hYBalnUwE-VZtP3ui1Lu8mUkkrmwL-z4pa_y4HorJI1pP-_jHr7wTkWMYZbD7WkTEcyuMNjtyYNo-8fzXMWmTg",
+        "width": 4048
+      }
+    ],
+    "place_id": "ChIJd7-rzqDzK4gRDeb34yxb9_U",
+    "plus_code": {
+      "compound_code": "FFWX+3H Waterloo, ON, Canada",
+      "global_code": "86MXFFWX+3H"
+    },
+    "price_level": 2,
+    "rating": 4.3,
+    "reference": "ChIJd7-rzqDzK4gRDeb34yxb9_U",
+    "scope": "GOOGLE",
+    "types": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 342,
+    "vicinity": "373 Bridge Street West #12, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4535023,
+        "lng": -80.5183555
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4548825302915,
+          "lng": -80.51691766970849
+        },
+        "southwest": {
+          "lat": 43.4521845697085,
+          "lng": -80.5196156302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Elixir Bistro",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 809,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101935343311959436408\">Elixir Bistro</a>"
+        ],
+        "photo_reference": "AeeoHcLHFj0H7XsHvoPvFcvGUveqTKc_onYgJGGGp2Pb8cgnG9MyrK8GMD7jyAOf8-xqZa5Fkfn4a_gSkOsqyxB0-uh3jWUJNB3iHKdIZyYTpauX7zEXkfGbbfi0lqotfG64QCEMD3piy356PUUe-VzCV0iCrWIAarVDlcxb9M5gUkPjMuW4taH0hbe6ZicoNqjd0LjPHwIppuOyaGDHboc9fH_FGBbZnnYSuBjabOxSInNCm5u8yfBcZWEW5z-6-gi2QOMnpfj7DRIg6xFlpTMLEs9cG-0N9UoGhyITnYAqkfLyo2AvR88WTEJOu5CANh5ZJnjLnWTwg34",
+        "width": 1440
+      }
+    ],
+    "place_id": "ChIJSTTnZrZ3LIgRSiPA0-q1cbY",
+    "plus_code": {
+      "compound_code": "FF3J+CM Kitchener, ON, Canada",
+      "global_code": "86MXFF3J+CM"
+    },
+    "rating": 4.7,
+    "reference": "ChIJSTTnZrZ3LIgRSiPA0-q1cbY",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 301,
+    "vicinity": "693 Belmont Avenue West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47745459999999,
+        "lng": -80.524885
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4787820802915,
+          "lng": -80.5237108697085
+        },
+        "southwest": {
+          "lat": 43.4760841197085,
+          "lng": -80.5264088302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Bhima's Warung",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3036,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114192493999339225886\">Josh Lessard</a>"
+        ],
+        "photo_reference": "AeeoHcKRm2cnRtHVcnAAkTjctuVxDJdYM4SbAldYKvRPY-iUCAmgoyW4CZPUgHK61_1h15p_XR-hff_Ad0De29f--xRXL2rLtHNsmQoTFA8g2Vhn3FZpJqVYPiUogBm2DDMChek-96pssVjhv_2RpcZxYR95F0JbxGEAWlWygwJ_tSsEBHm9kDBYtvV2_oLXN3W3ahPp4qEQhGbCqpr_MlCEUkv2gPIQMM4czBrBIyX0I05P6--Baet6xm0EjEOTIEw1_L2MmgC6yTEh-KKxZtKM3BEP7e7I6FZG0IQB5MwWfCMTACt2dLk_w_Eb68YnjK3zQEKy4pJkYQnOKj2ZMEbVzCdd55SuV65RVk_EtOu0HpK0O_QL89PMxZ7QvhDi8oy2j6X53lkUo3U-WBdQJ9rsyAMsdOVzGyg9c4n4c1dHUfx1rfSeV6DYNFGfbIo2QX57k31OUWdhMZZpwRrji9V7QBzBZz21NiiSaYGU7lJAwYBmILzA01NzPqLOWeBuplNZfJj-mzj_q-0weh0MimXEPZzbJ9IAM_bxR5lANgbWJfb5Hd7YyPJM2ep7etJ6yzljYBl-NVSKV_DWHlR_iUapFWBT2umVj3eZILyt-izeX-5vIA44hd9UkmfDQASDyHQp-oJNCb_s",
+        "width": 4048
+      }
+    ],
+    "place_id": "ChIJoV7eWvTzK4gRMG29_Ekr2Mw",
+    "plus_code": {
+      "compound_code": "FFGG+X2 Waterloo, ON, Canada",
+      "global_code": "86MXFFGG+X2"
+    },
+    "price_level": 3,
+    "rating": 4.5,
+    "reference": "ChIJoV7eWvTzK4gRMG29_Ekr2Mw",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 857,
+    "vicinity": "262 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4351547,
+        "lng": -80.51507389999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4365712802915,
+          "lng": -80.5138017197085
+        },
+        "southwest": {
+          "lat": 43.4338733197085,
+          "lng": -80.5164996802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Swiss Chalet",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112907140449166325550\">Swiss Chalet</a>"
+        ],
+        "photo_reference": "AeeoHcIqazJRca1xNCnQxzriflivuM8U6rTzKCuc9IuI1Iqh04vWEBUA63ho0CxVZ9k-OzZKxgk8Ygp57bmsJ9NIAcvlayMkQwMAfs_o6ybFfwkS2uXaA9iyaIRXxiokYB8UyBfPqcmATr1T-cdt7tZRjiELL1GqH0-n3glXxXQkeo3C-ximeUexzH3erAIF7EaQan02bsykp4-zT8y0QOkxnnPRSffttPPLYd3ssOJC_4N69lZX5Z6ekOi2JNWT_ySbAaDJG0Sbppt_8vzpwCcMnuBxnoQfn_yFQXhw1U2C8qcyoQtbaSdQTS_DPoIaUuldjoLWbozP6Rk",
+        "width": 2000
+      }
+    ],
+    "place_id": "ChIJ8cZvVbP1K4gRieP5B6eDFqc",
+    "plus_code": {
+      "compound_code": "CFPM+3X Kitchener, ON, Canada",
+      "global_code": "86MXCFPM+3X"
+    },
+    "price_level": 2,
+    "rating": 4.3,
+    "reference": "ChIJ8cZvVbP1K4gRieP5B6eDFqc",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2227,
+    "vicinity": "525 Highland Road West Unit 1, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46752929999999,
+        "lng": -80.5684411
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46935428029149,
+          "lng": -80.5669129697085
+        },
+        "southwest": {
+          "lat": 43.46665631970849,
+          "lng": -80.5696109302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Domino's Pizza",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100217025120163464436\">Tim Osland</a>"
+        ],
+        "photo_reference": "AeeoHcLPL7ZrEIbNzF33yXxDUy4ikamKcNj9fL8BhVKGxV0bm7XKLYRF6iboZd78lZLNXRi0GTA3u053HRWhrZKJvPzeSTdWhvZZJsCMY33mE0wTj33NvqagdTXy6kZd7khLl1QrcCnK5LXnvykwRGRtpfDzWPGY6DYR6iVrW6QjW7rBiLQ2c9H8zInJVZ-_W9mY1Bpf8R49DMMjkhJiiwuhLfweAyXkNvs9TNIjAG8sxMCHKgYgAZrGSavaexi0GLB-5aDD2Tv0EEoF0q__JjxtqQv47tQFPPoL2NoSTynqwWbQlylCxbtCiYnw3JXDW36GAT-085JgcZSsln4Rzjx0KYJsWMHFZXIWxoAGNCADJx4Nxw7ZiIzBRHAYjz91oU5xCQcMlUjN4PfAIaDDeonqLZ6U3twQy-88fMP6zt5Ub935Q3-VoL0M4nzo2Jo9sMMLDmgLdkYOl-qfxoOwLKrCFv0-CUTeby-bt_Uq4SV84PO4ORh7uINMqjPG6nvNuDmjHxLdzQovgFtDX9Fg3eRIxBJWHhUDZt7WYsAFTJ0AFDPrC_eFD-1Wsd_ATZeeB4H-WHwegWW40ArvfmD3jcppV-Y7CuqdiC7cag3MsTmDcZgnT2gY6CLlTzAhOvoP8kjDfx6ouQ",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJQXFpf8j2K4gRrZaurf4BVaM",
+    "plus_code": {
+      "compound_code": "FC9J+2J Waterloo, ON, Canada",
+      "global_code": "86MXFC9J+2J"
+    },
+    "price_level": 1,
+    "rating": 4.6,
+    "reference": "ChIJQXFpf8j2K4gRrZaurf4BVaM",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 1740,
+    "vicinity": "450 Columbia Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.452237,
+        "lng": -80.48417300000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45365003029151,
+          "lng": -80.4828884197085
+        },
+        "southwest": {
+          "lat": 43.45095206970851,
+          "lng": -80.48558638029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Three Kretans Greek Restaurant",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2208,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108685682021721694786\">- arianna -</a>"
+        ],
+        "photo_reference": "AeeoHcLAlfQJbgv-wsctzH2HGkED5kcVDVQKhEiAmWBZI53Pj5-g6T4V2pq-MxNRWaKMjwK1kPJFyXH-oeXKtFLwrDv4hPOjRPqRkF05JGRckc6rAYVQmzPFRR2SgLO9WQNAk06cq0hwy3yDdWkeIS4wRxRCikLxNt4TYgQhsDAox8vs7xkIO2ea6lumf-BdH50AR09nzYeRvl5cunTp2tvgF-QcMA60rWuuENOtZPxsMpJogo02MM1zZ4Ar--oEqwPYaG7sFOI5a_dU7re9mNZi7Bg4oZKDaJqVKhHZkZRpa_InoKR_zUSqX111W6uU3pOyEnHAMC6jXL1iDsBs8XBBKFQk7rvZDQB0iCveG_ZJ8N84aUc3qMN4Ir6itFLPZKhyc-xN0jSSa2V1F5aRo0d81d4UlIoDVHK4RDp8cLSUbtRaLjpv087tDiqwZ2H3pDujn5iMhb4Jl-y1mRyRKYkRQO6QA4iaKrdKdBckWnUg-wUgwDzWlnY-PvvTTUjhxa62PPmkekNqPe9z9AxOxO4N8RxlQGKmtylPf8sbOjDWiokXV8FpKgwnSy-44zGncBDLIiki9QfDRGc12g23GKJbELw2nzRuY37Axz2Y0_W7OISM7tq8MxHU8rdMscN7iWL59U8VV0se",
+        "width": 1656
+      }
+    ],
+    "place_id": "ChIJA-x4OJP0K4gRzFaZbMeWNuU",
+    "plus_code": {
+      "compound_code": "FG28+V8 Kitchener, ON, Canada",
+      "global_code": "86MXFG28+V8"
+    },
+    "price_level": 2,
+    "rating": 4.4,
+    "reference": "ChIJA-x4OJP0K4gRzFaZbMeWNuU",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 615,
+    "vicinity": "151 Frederick Street Lower Level of Building, 151 Frederick Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5031642,
+        "lng": -80.53029649999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5044774302915,
+          "lng": -80.5291349197085
+        },
+        "southwest": {
+          "lat": 43.5017794697085,
+          "lng": -80.5318328802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "The Keg Steakhouse + Bar - Waterloo",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114341841683008511786\">Naima Samuel</a>"
+        ],
+        "photo_reference": "AeeoHcJu1Jpv7y-9CeyS48ROvwspTcMW1y8AD3_8ajnbg9JlS6vvhjIdho3dczPQeo8eMUyD_3HkxyIqVaUJnEfprR6LL18LTbIJYrEgKCRVix8q7VJPJc7V7vk4M_VG5tY2w3ppxFTzi0kpFp0ojLDy32H7pSNvG6jWK5VjVOrLIpyK8zZ3Mbi1UeYlfmQf3KJaiZ6AU14mkPZ_c5rdE7oU4CQA4Yvcz5H8xdTDnYrCwqFt0V2G9RYpRRlHAv0byWXb7v6k1Td4yWVyyhjj2L4hEkoWSRxWvPShSKLJ7tlAbU1aKJTIpyrfUm9_VFAp0Piq0fsFfAFIIrmyHCE_VxUl4qtZLmgOMyGjFy27XwCuarjFhekHvk2QcNveHVNJE2_CgFH2EzO4C_kuaWxjmWctkCkLeXbZGWenDlwhyWPaTHZpl345WJ96rzHPo-RmorKeFqmSPAgUL6hc_h0q7TKW0qicoBK2nbiT17gc_KDNvxGdK40v539hgibnco-NzwdCuz67dw2dII1MmKmn1QL_77amAnpG-Cu4l3QsytjMb0X3AULOPY8WO7KuHiulFcoaFQ3x-6qv1FFBrgr0gApBL0ZdPtjRJGIUsrvnScyJpV5REsTQGLAc2X_1CUyXO_d-EfuX8g",
+        "width": 960
+      }
+    ],
+    "place_id": "ChIJw5c9ydrzK4gRWj8iXRtbxD8",
+    "plus_code": {
+      "compound_code": "GF39+7V Waterloo, ON, Canada",
+      "global_code": "86MXGF39+7V"
+    },
+    "price_level": 3,
+    "rating": 4.5,
+    "reference": "ChIJw5c9ydrzK4gRWj8iXRtbxD8",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "bar",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 2721,
+    "vicinity": "42 Northfield Drive East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4486331,
+        "lng": -80.49021490000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4500039302915,
+          "lng": -80.4889049697085
+        },
+        "southwest": {
+          "lat": 43.4473059697085,
+          "lng": -80.4916029302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Northern Thai",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110221477478290323261\">Yohan M.</a>"
+        ],
+        "photo_reference": "AeeoHcKnUMoGkkIsmtQBDxzpf8ajUP-IHIZFKWbwFZxfAP09JguLCdZinGn4lMzyFu_pD4RXeqGxSMNDWvzQvl86aOciQGnWZZpsWi7LaMzQm5iAq-pmy6s_e9QKHqiOKsoh4MToJ1mZ9eImQuJhF2p02tkE1rNvuuvARyo2lFewsO9ckhlD2JSfHRYR4Bz5BNHrIcKfBvjhDSoWg-hzXjkAG05AYbqoc7tzKVAmpDVhyHqRAKXh5CsClrWMjNeI7f_oZIfjxrJo80pJeFfGxcxmQPhUUrEYG1I9H9Zzq-Z9gGJXv_Fvh5HrXPy8XTtQ7qs1kyq_pHrJ-5D8pkrpvSoOx9A-oPi8Oc1Bqy8G91WWbH2mzO3g9nK4JZn1z1lwE7bcNDTMoUg1rk1Z_5ljRtcnfTFV_oa7-Qbg88pWPXr-NBTE-4z7Wko-SBkSnHyCDa5cBftxHyJsCSKpPEeoJdJ9wZ95zBI4u6vdZLlNfsw1AwHPlWC0ThwCk5oHEWnym0OgI7kuibikkY7h3A5YufQSpXRlMP1rpbje4-dk3rmUwwXNHXpt_O932JSsnaKTLStiWnJwKyDGA7npUxUPx4zU84pAbxscczJmYvmhazN0vvMT1-U60nlEmeF4GftPtlW_eCg-JA",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJl6F5OPL0K4gReqz7qV0rJOA",
+    "plus_code": {
+      "compound_code": "CGX5+FW Kitchener, ON, Canada",
+      "global_code": "86MXCGX5+FW"
+    },
+    "price_level": 1,
+    "rating": 4.4,
+    "reference": "ChIJl6F5OPL0K4gReqz7qV0rJOA",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 656,
+    "vicinity": "95 Queen Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.440994,
+        "lng": -80.50661459999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4423049802915,
+          "lng": -80.50531741970849
+        },
+        "southwest": {
+          "lat": 43.4396070197085,
+          "lng": -80.5080153802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Highland Halal Shawarma",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115855371926521574872\">Jeff Eng</a>"
+        ],
+        "photo_reference": "AeeoHcJ3AQmKq7hdXHXhotkykUKYd6ZduQJSjfE3UYkwwHT-ahgD8ZRoiFzfy73yNGfjby3SqgtJNdPMbGEXQ60E7JVR8U6nz2LAX0uql1JAsbrm2CldtOWYbG1PLcD7fo6tzo8l6kXGZ_xPDf6Peps74GOuH8OPfWz_BA_N4odbxdkrx1xzTUNoEoomCPSQ9KNx57fvb4nLvpyWthl6i3C4JHXLUP8OcVYLYdt_QbNif1KIPRmW4LZ0jF0f1MFB4sxPLLrJ3j_D9CUtTyUUC0Vm9s2Wg7Tpzpax3JaXLu2w5Fpv2ch5DpXlSKLXrvVjsjtJuQUtinRx3ezjCG3LG0TPbMmCJxIUy4xGuPbvWkMSChPLCfJORU8w_f-mBP9iwR6RF1qEm_lLvwJFnkF1Wpjh22AyoV0RXkC1wPrRzQJ7OI8_WR4i0AKvH3bQtcfhl0bDuNCAKRRak8VzraiFVigXuX54GE8pYaZZx_OXfkwk_fU8yA0QXCejT8OrHXDFfwwboGUnOe5JuXrP_G7x7WYlqPTNQyjwZZP-yXo4vI0kL-J8d7RmK5Iryd-xzH0O3bPAXjCr5OnqUqkD8AvaSHBo_ImZeI0K-WFJd1fBmjfQa6xsMZbTDCC0wFtVI44WgShUrNu10A",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJlccFOVH0K4gRzh_hoAGlEBg",
+    "plus_code": {
+      "compound_code": "CFRV+99 Kitchener, ON, Canada",
+      "global_code": "86MXCFRV+99"
+    },
+    "price_level": 1,
+    "rating": 4.4,
+    "reference": "ChIJlccFOVH0K4gRzh_hoAGlEBg",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_takeaway",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 1513,
+    "vicinity": "200 Highland Road West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4629754,
+        "lng": -80.5237532
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4642693802915,
+          "lng": -80.5223598197085
+        },
+        "southwest": {
+          "lat": 43.4615714197085,
+          "lng": -80.5250577802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Thai Sun",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117058967526677167429\">valliappan p</a>"
+        ],
+        "photo_reference": "AeeoHcLGG_LzORAE1s6bLooK1gwbAHK5fuXZ1UBW9IOFRD3_zp4EMyrG_8hFEgTypyZuTaCQGV9sI-E6MJvjUA9tR8C-y6K5xCzVJx3xG_uPCAh6AUwXbuekRw4jBKQbkJjhgDj0GWBvnfy8qNjIQ-umcMax9OGxp1Pb0lzii5J00_xdKF3QjpnB0C5btsUcgzNvaB4cCqA2H6Jr8xq1hz3brCzHw8Vj8h9ufyMuGCFR11fp64npchdsyg8jqQ5mBxID7YhhelMHcPENVhOQ_a9utZwh-5f9FuwJNEIhjfiIdbPhmnLnDJrFVWW_6bQ0RtQsW1CWuRuw2G3luTep4Bul4DB6t0shLDk3EKvJxOXh0zhTQJs-TzHHGvR-li8y9IrWIrH4Vfr1bzCdB2km487DfXsZebnyUWn0xRG1Q96Ir9L0D9LXJcc7NNToEY1_eRQX2heCjtlxspDwtUK8DTdX9jkOVylH9V9Ib7ohFHBZiXGTymESr8Jvf4xxF1ymg6iryImLU6K6lmmXjB-_1gLa5sWIqvt9lx4MJKIavPSOcIoZob9t3vlkugXnGTs0HbMFWnkx69w2Om2fmuzLVTyPhi1yMpakypBpXbSXrbWWhPx3VyiAwyp6eIknztLilFEVDYKtfw",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJrYsz7hL0K4gR18o78ee3Xhk",
+    "plus_code": {
+      "compound_code": "FF7G+5F Waterloo, ON, Canada",
+      "global_code": "86MXFF7G+5F"
+    },
+    "price_level": 2,
+    "rating": 4.3,
+    "reference": "ChIJrYsz7hL0K4gR18o78ee3Xhk",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 350,
+    "vicinity": "Unit 61-62, 75 King Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.422887,
+        "lng": -80.48865730000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4242164302915,
+          "lng": -80.4872996197085
+        },
+        "southwest": {
+          "lat": 43.4215184697085,
+          "lng": -80.48999758029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Fireside Deli & Family Restaurant",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106648708591170122583\">Fireside Deli &amp; Family Restaurant</a>"
+        ],
+        "photo_reference": "AeeoHcJU7y83_7ee6Xh-p6fTddZCM7jwEuNYOezM8uYm7IEjqIm3xxwmLO348JZxA1imDCnx_ra2RgZxPW7SPAP_R2nm-vLACYADECU-sJRIjanGMV9HZagXXzuzgOtXlCNfoCvcGSQdnvbqJKBT6N51a8aJY9dIEAaN5eiQxIpKliQNC5rBvO5SONxvCUMWYgtIyfBS3KkkqVdqjc4A8TP4AvnuAXy8GvOPXCzu4VXMu7_zsnEWZv3t5zJvxQGgTEw6MV6115Ea5dCd5Lp-dTAKseHsI2FH32tqLBfB4jwDW779rQ2UYJupdbxyY12SCcmgpmkDntt2-2o",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJ8y1M-w_1K4gR9erOyLVifzw",
+    "plus_code": {
+      "compound_code": "CGF6+5G Kitchener, ON, Canada",
+      "global_code": "86MXCGF6+5G"
+    },
+    "price_level": 2,
+    "rating": 4.2,
+    "reference": "ChIJ8y1M-w_1K4gR9erOyLVifzw",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 2602,
+    "vicinity": "800 Ottawa Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44781810000001,
+        "lng": -80.4848105
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4492229302915,
+          "lng": -80.48341761970849
+        },
+        "southwest": {
+          "lat": 43.44652496970851,
+          "lng": -80.4861155802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Korean BBQ Restaurant",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101849052458167718740\">Roderic Bautista</a>"
+        ],
+        "photo_reference": "AeeoHcIyHfPQ2Q4dmXu7TYG91rTNWOOsSipZGF7wtebck6VFLiJpKq4yU3QKVgSz73bhrdM0gD1MmLPap3UlqZZMArmXnJw3UonoDrd3mpUWUK5sTMoAjpg4clAN6RCJtPex-srCYAEAmCej7FyUUm8gMoveA8gTBfjW6iowdD0wVJzGsqcWlB0L6M0Dh3S7yNw7ZmxVP2UR5uLedeJmM5sP1tA_SRHomrxWPRNjq1fyXzXHNvP4DPA8uyrJ3VjbXRTLnVpE706E1i49P941As9gKxRhVys6norTTLcLldRFVVdO5sGOp8DEOY3A63UMQ-dvYNmRbcIw9M8OSJsEYBlabIC1jNaNsxNffGDXCNB6ryWrloFR-Mi48lcUa0qgcO2CsqyWP4gkKkULMa_ZW5UhzZmSeIvF-jftlwdGno5ExkgLovrxfr_ib3LMXRy1pKHjurHW0YERxSK2tj_1g05C1njhnos9HpcY3RGrhKXZd5x-FmSneGiRaQE0n6YyAxXAbev02D3qLbuWL6kcR1RBiNuyKm7SqF9MpyR2gsD-iqs-o70aqjMHza9Ekzk_L8aVQ9WzIvyx_bk1-6d4gve4j5BHqOnlQwbmyL0ZI3bhlHTuJVI68W9E0gXJq0f8WmCD7Hts5Q",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJkfVlMOz0K4gRvZtU_ox33BY",
+    "plus_code": {
+      "compound_code": "CGX8+43 Kitchener, ON, Canada",
+      "global_code": "86MXCGX8+43"
+    },
+    "price_level": 1,
+    "rating": 4.6,
+    "reference": "ChIJkfVlMOz0K4gRvZtU_ox33BY",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 533,
+    "vicinity": "265 King Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4796453,
+        "lng": -80.4842956
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4809342302915,
+          "lng": -80.4830301697085
+        },
+        "southwest": {
+          "lat": 43.4782362697085,
+          "lng": -80.4857281302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "The Lancaster Smokehouse",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110206586642263866366\">Christopher Maduka</a>"
+        ],
+        "photo_reference": "AeeoHcLi8QfVaE1DcxDf_jwOZW-JCFm3jw0ADm1eWUxOg7EGF95VQHLlRs1kOr4DbwUxAyeHM66-ndXpn3kqbSmqpiQecJ_yXc6-dtQcgHX3MdS5BKhjQBgf1AmET8OP_KlBGWpNPfhc4KYWB-7sFR7B0gcAxpwXGQfww7xUYCCTGdcvD-xXZ4XjAsplc9URxpwwYFvTU1Pqyuj0AA899giTN3UQGSgjGOTPgxADisE5P3w2LEBlgxa70N8zomCLbRBg97FIcC6gKqa58AYYxOpAyQIfl87lIAAbvrVlIu-IinX-jysEy18HF-um2pmyjmdfO8Ak0VHc5PbrLW3mMTSauieBhktLa0DcCQzmZWvg24jFLCIxjgsaXDG-ChVMvhmxUn80mx4J3js6PpRy0mUHeU4iHDzW7eJs3g6H0mbm4zgU1KrQb4SifjMJWTbP_jMa_S0obC6LrypuBxvAXzuxvVlpa6u1OsztSAvNEAOQOdFF0Jxoe3USz9vfEzjcmglGxXjwTHvERVBgHZvVfb9Hjwq1-71xT4Bp76vXXqHARqAsquZPCEs0Z_SrNkrAsmhZFQtBIb_jveOUsHu81Z2GCMb0VstqxaBtJRVImyyt8rIt965BihSKZa5Uj2Wh0pXm4fFhykoI",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJf5tZkmXzK4gRJpVwTctxHxI",
+    "plus_code": {
+      "compound_code": "FGH8+V7 Kitchener, ON, Canada",
+      "global_code": "86MXFGH8+V7"
+    },
+    "price_level": 2,
+    "rating": 4.6,
+    "reference": "ChIJf5tZkmXzK4gRJpVwTctxHxI",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 6080,
+    "vicinity": "574 Lancaster Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47930579999999,
+        "lng": -80.521778
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4807271802915,
+          "lng": -80.52048966970848
+        },
+        "southwest": {
+          "lat": 43.4780292197085,
+          "lng": -80.5231876302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Swiss Chalet",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107274201009871361909\">Swiss Chalet</a>"
+        ],
+        "photo_reference": "AeeoHcI8cvg_Rl7_jeAAAgQ-VN3_7BBzKIxK2g1nrXfKPs96I1_QzhtGIPQynzQbJzchYQUv0YQ18C1ggW22CkS94cILJN-Ao2KnYheRq2zx_oECOluaJqM5KvpSzhW2qjV4Z7j12lrp_plsNowiaU_M0fVWLh8GN6gRg9GZEcHZF05ggsv_BCn4gtcj_CUWKULp5EjuAthEM2aVngjb00YmwW7EabF3C0VwJuMHPTSGqAaaMnEUEbjBY12aP05c5mRMwCwm7bK_toOpp0hRL35T-rpb-JA3oX1ds3QYYFSrASJBBmAG60BjH5ffnh78l52L66wDcS5s7Ao",
+        "width": 2000
+      }
+    ],
+    "place_id": "ChIJ4bK3r4zzK4gR9esGd8dAnbU",
+    "plus_code": {
+      "compound_code": "FFHH+P7 Waterloo, ON, Canada",
+      "global_code": "86MXFFHH+P7"
+    },
+    "price_level": 2,
+    "rating": 3.9,
+    "reference": "ChIJ4bK3r4zzK4gR9esGd8dAnbU",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 1572,
+    "vicinity": "267 Weber Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.503758,
+        "lng": -80.530821
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5050238802915,
+          "lng": -80.5293974697085
+        },
+        "southwest": {
+          "lat": 43.5023259197085,
+          "lng": -80.5320954302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Sushi 99",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118141292848437638476\">Marta Borowska</a>"
+        ],
+        "photo_reference": "AeeoHcLpXgX58VtGqO9QR0AcZokpXpzQTA06FDftAEbvtFMrwSJy6mjdZCxBAEq_k-S5NGNK9DVlIhMGBtVQkTIYRrf31irOhvsw0rRZxuRFMiKcSkhYjws0V89ZwHkHHVb2hokLBV_oelDGY8nP3BAMgdV3ZFA_i-fHEiqz_MBD9jwXTUv-5bJGp5Jgqk6KfbS7kNO3PCd-Kb0QbRiCEGKSm2Gb_OjjePUFA9kOnk7F_WW3bn95f1vCIpTNOlr8kHMKq6DXtIgQBiestuZ_ZLhImovYbkxofrowJNo0sUBR49YULhuk1B2g6nRtnyW75CjXtB68DAT04_2XkNaf5GlEhvkIi9WhnRCmZimBXUjuZZ160AXKpqa_mtS2Fn4U5xanYqKMqw6JzmOOT0ECiU01zvvfibthUEc3QYyNmZjGqZkwALzXad6IqdAxSVRsfEisAONJnBTXjoEF0u3UjcY6EoOvwOosNXo_nqlWqwu_mxFjNyiEX71NGK4r4Xf8HiBuEY5xs5Jh6ms4i1xsJXkFhGHaW6SuDTCli0CYTOqZpYJqod-8mbRLZVkCXMAERPmqQ7iZIMQOT200m6OGIlg666-wfBHZ28eolDy3z5jH4nlCfNPDwtzHoF9QsP2nMwUM-x-aGg",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJTVaAacXzK4gRb7f2fHnXwDw",
+    "plus_code": {
+      "compound_code": "GF39+GM Waterloo, ON, Canada",
+      "global_code": "86MXGF39+GM"
+    },
+    "price_level": 2,
+    "rating": 3.8,
+    "reference": "ChIJTVaAacXzK4gRb7f2fHnXwDw",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 1610,
+    "vicinity": "36 Northfield Drive East #12, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4888585,
+        "lng": -80.4919948
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4902232802915,
+          "lng": -80.4907203197085
+        },
+        "southwest": {
+          "lat": 43.4875253197085,
+          "lng": -80.49341828029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "University Garden Chinese Cuisine",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101276968877339321445\">Sohamjit Das</a>"
+        ],
+        "photo_reference": "AeeoHcJivBkzraEtPW3KCSDEt7FqO4owCo3altc3Hep9azFYNQ8eRUmJpZ-oxAl--EMlSP0H__o_LxZS_HZKJKeUzD13_0YCmkK0MU72TCMNildS3b46Tcx6qJiZaxbpaGA0jYF0XzRhKllVgmasuIMCe7s41h-XF7nBkF7UhE8MICGkqF5z5yhzDfgp_Ogu4KVtvyJ9N_jY6DhhpTxQSsd5YvrVs1hH5n0YxaljF54BZagwPrVHWN1MgW1u-FqbX2mCtU7F9vt-ExmOlyDyRneTF8vFSnpD3_mUIHip7ytrfQkaN_EbwTeeF_SppHIo0HsSf0wZamzLWEUToQhWPR18In5hIC5LCoHwOYeAJSPCKXs9tQIadvbL7s6uY8K5DdVRLzpciRVWuB4t0q1R7FDo5NoMDmo4pve4A2vAhrHK0frXsGs4wpkPK7sX1D7m32xocyuYvZER5j1BNVeCLkZhoRi8oFLAdc2eMFyKDEJ02ycVz6uITxbREJdhRYPFV3gsJwQQ6xmBAWcDl_8xBOPga-0IDMZ_JDpMsKW2QNykQiey8M5MUN7HclaWfmzGgWbqPrSAD9Eqopqkhc0a_0S45TaGHx9SsZDE2GyvjytU5p7KUI7Ge0kg0HRzA9Spd_TWd-7S6w",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJYxAXYHPzK4gRPQEhK3A8k6E",
+    "plus_code": {
+      "compound_code": "FGQ5+G6 Waterloo, ON, Canada",
+      "global_code": "86MXFGQ5+G6"
+    },
+    "price_level": 2,
+    "rating": 3.8,
+    "reference": "ChIJYxAXYHPzK4gRPQEhK3A8k6E",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 189,
+    "vicinity": "425 University Avenue East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46499,
+        "lng": -80.52199800000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4663140802915,
+          "lng": -80.52080136970851
+        },
+        "southwest": {
+          "lat": 43.4636161197085,
+          "lng": -80.52349933029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Crystal Palace Restaurant",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115174385484892533453\">Kevin Cameron</a>"
+        ],
+        "photo_reference": "AeeoHcK0XeFy_EyIBnQ_7LoMqwxVjrFrX2bw_dXAiYz4K5yIesLIMy7RhzQhMjQnxLNMtcUvMkR0-YysJKFlbLmOx3fkGkHNIEdcsr7IiJ_BTGt_bYpfsIDyBaQ8QjPBBAKAp5Rjyel9lkNygDniWdazjWXzsWhp8_QoEg8GeaVd8DOBnHPTf3GTgbRhXAZRfJU-JnmQGukGRBxKMtzcfcCdnVhn16P3BcgFopZ7la-i6oGYRNqB5-syYcXxAKI7Ad9h-rClOHp7FS7heNqmhWdQt-HT8PFIObjiCw6NdU5J7NTYp7Jx7CDavxVbK-ciAyRW9JfztnO0f1DMEWEFB64rBNj18DZJt9CMncCqupz0uErraa1hgKjcF9qbqJ_-3cil1TGtuBg_ltIVKoz_JbT-K5Qh4vNvVzcwLpWHwciDXHYy36fhC3KowznVUNv6IfEOe74SbVqBshhlMHeZqo16_J9u1Jjy4rtkn8Y6i6PX8kvSiMwQyC_j8yiQ-OliM83K89C5j5hJJZGMtvyVFEt7A6mb_LDsUr4PHipYt7ZmIBET1zbes2TyZMsjiy5X7BG5cDUtufn5Bnus0RX7agT7uyVMg2bNuwUv6l3-X9qCCjkGTHaCZFFUqX3O8Y-KMwtl",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ0bqrUQ30K4gRDUjgQINlq_Q",
+    "plus_code": {
+      "compound_code": "FF7H+X6 Waterloo, ON, Canada",
+      "global_code": "86MXFF7H+X6"
+    },
+    "price_level": 1,
+    "rating": 3.9,
+    "reference": "ChIJ0bqrUQ30K4gRDUjgQINlq_Q",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_takeaway",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 371,
+    "vicinity": "10 King Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4811659,
+        "lng": -80.5229001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4825744802915,
+          "lng": -80.5214482197085
+        },
+        "southwest": {
+          "lat": 43.4798765197085,
+          "lng": -80.52414618029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Wild Wing",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2304,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104188599540043908898\">Abhinav</a>"
+        ],
+        "photo_reference": "AeeoHcJmNpyaH0cC7SxcbnifY3-9xsXtxNrxTnejzYJujkHO6_xeFQXTyfnK1v-D-6puB5CekYa1dLFLWwbdr94jqmXbd2zq7nExOZjoC_ZWzBXzmwUecsH74s5rvigGHzRxvGZ-etxDmsXQ4GwYXqtTK0ITNhpAHJwhD12CvcdugasxHa2cMiYgeblecKIEw2KJfqmtF3V8NeNFjPVFuDTyzcGzJEL66uvKTmZeuqsO5-07K6izI9FUQi5KBuGiF-CVpsT-S7-C7vpbpfWvrFmvM2MhqGdKLev4gJt8e_aRiUATmI70YmsJJdWgVpes9fDr4JpklsaCYMITwslwfuL5JX5Ao7wthumYWTRQsRFbIn6EETso-xIp9JtzRzpweeYduxZtVSwjbfrRuyf8U3ndjNhpp5l4ph0iLt0lStu0NcaZ1AAkzX2BJbZALfVeeMWRoVstZQ1f9TVMJsA8dnBunHdIWM7XsE4jF9HqGi-jDABMa5EqublsSv37cB-8e_bxou2ce0CdOGEOJ0BVVshdW3vHfp9w_Owu3WBQxIJ52ImdRA7IpVWT9R2sC88o3s-u_EH5sD0u7oLa9NlwYEFB4XYZ7A8jj2ILgQRI7lJtfFNVPOkWBkakkaicPKn0cn3w",
+        "width": 4096
+      }
+    ],
+    "place_id": "ChIJ5RgB4PLzK4gRVSpq_phsK7c",
+    "plus_code": {
+      "compound_code": "FFJG+FR Waterloo, ON, Canada",
+      "global_code": "86MXFFJG+FR"
+    },
+    "price_level": 2,
+    "rating": 3.9,
+    "reference": "ChIJ5RgB4PLzK4gRVSpq_phsK7c",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 496,
+    "vicinity": "321 Weber Street North #1, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4522286,
+        "lng": -80.5558827
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4536465802915,
+          "lng": -80.5545592197085
+        },
+        "southwest": {
+          "lat": 43.4509486197085,
+          "lng": -80.5572571802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Kam Yin Chinese Restaurant",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116992612198728049857\">Aquib Wahab Ali</a>"
+        ],
+        "photo_reference": "AeeoHcJtdgcUROAcdqFgHKgyEroEVfIqsYDmZdQTzVR-yw0UsTXNUT84EIJQlnaPfyZ4Y0_1-j5eIzRpB5M4pZsNILS9QvjgYAlmHEsfIYSUCdI1znB8hcVfUH7dma1hi747slOdz-2hkioynZqN5NQT3NvAi0DaxGuWMgJxJ8OrvqxyctOJGb-m4GBPzjcOcGja8Twjvr1nA38zUgEMWFdTHVyEHoybiaHPUOviMumUwws-Ssg_iIcR-ZgJBnulvdy8mYRcI-PWSRvhzI5RdUwvCUruuNkEOB9s0Qtq3Ldm5e0ATc0Q9CBOJX885HIApHnWRXWXVGP3XNWzbzhddFtQe9qriooqbaTqwi3ik9f0tm08plNnE5IpqTQh5vpW3BwvJZ5f8tsfnjC3Iswcvk5NmvVPVKtg--k8ZEaj5jxCcRc3fncMyYJLAog8dl8gmGjSgv5GNJNoxtUv49MTZqzFOOsQehgiblhlSz3GECT2JACbedRX2t6kVfs28_j3N9NHwsf6H-WasHQ5ot7ajJn6NlN3popItvKUChONwkh67o20bnjk0dkS6vqydsYIGIc8uvWC17bmhBRqymEISE9sWec45LCFVMFS5rX6XhRMbMSTmzF8PkZ3m6ncXHSpneC0Fco1yA",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJpy9zHJr2K4gRA5Sklm8vifM",
+    "plus_code": {
+      "compound_code": "FC2V+VJ Waterloo, ON, Canada",
+      "global_code": "86MXFC2V+VJ"
+    },
+    "price_level": 1,
+    "rating": 3.5,
+    "reference": "ChIJpy9zHJr2K4gRA5Sklm8vifM",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_takeaway",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 342,
+    "vicinity": "450 Erb Street West Unit 13, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4639678,
+        "lng": -80.5227484
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4653181802915,
+          "lng": -80.52109381970848
+        },
+        "southwest": {
+          "lat": 43.4626202197085,
+          "lng": -80.52379178029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Beertown Public House Waterloo",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105351660556364510876\">Jason Xin</a>"
+        ],
+        "photo_reference": "AeeoHcJ5k-FqvUiqm_aTXBqOdn4ZpnOzyX_JKStHMDDSa_gwFCZXlObPXVq7ACPujibSWP_iqzGQWZ3iEMYV51022msoAnSm_EUtb5d4glmCHYaEkqtXgby12fCuiF10FFSfXMw7rGKtL-lpjLpoYaXq5ccQzSt0aRhkkzWkhR2JOa5eTvtSIMKmN0LsYAThOJ6XoNEnCzBvlHBfnlAHvp8_qiG8Qa5WsvuQXG6CNJ4wdun4_zg7dm1vKfvlgJlzZsb-lonHBbqoZ4M0m89qvltfNADas-beB61fU1NGCAKFNVGlXEA0isdpfYTcFPooDBBYS5aEW4NN6dahQIfSblzEouU2aJniQX4kNPpH8WS-fyQMzJoOTwaEFku5JTB-nuJlCsfKttPGgOHOzaetr36MCGBBql3rR9mwyuTG4RRN0FtF8muHvvTopdBnuc8tPwjCVEauS_QdPl-BNzeJgymKLYQEIOXK9LQiLAbX5i4uegINe0eyJVzPfdaUHVeWhJ0YBxKbiq0Xok94TAQ2IIqlLG4Ru9SNtkV3FFUidRlyjB1TtId4BJrV74mCUME13hEM0TyBYQoInFgjNm2XcBpWtdDlIsb1qfExoJ8okQhKahB5u8V4JgUeos2zNdWnrmUfLI_OAA",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJy4uAuxL0K4gR4GQtmdL7XK8",
+    "plus_code": {
+      "compound_code": "FF7G+HW Waterloo, ON, Canada",
+      "global_code": "86MXFF7G+HW"
+    },
+    "price_level": 2,
+    "rating": 4.3,
+    "reference": "ChIJy4uAuxL0K4gR4GQtmdL7XK8",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "bar",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 3541,
+    "vicinity": "Square, 75 King Street South Unit 37, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4666337,
+        "lng": -80.52333279999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4680462302915,
+          "lng": -80.52200046970849
+        },
+        "southwest": {
+          "lat": 43.4653482697085,
+          "lng": -80.5246984302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Jane Bond",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 533,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114151048473317931113\">Jane Bond</a>"
+        ],
+        "photo_reference": "AeeoHcJwWWVD3uQ_NeNDnOFVKkX9nmSXr0PFLurgZxvu3lMF4RvzUfqg7V-V51stkT43iScd1LDDrBqcSqvoQuV5XCgwoPAVcwJCkt9Ym8FBQmIx_A4rKRdGX9e62G8nCJfyyTII1cA5dtssYjyjI7RfHrPYmvRfwMggR88aFMAmDWDU3vwY1lwGypuWZa_1I10yKqzagIMy-lV31eDlfAkv31qGQWFCHucn08cSxpWZPC1HE3z3HVNqF7_IlNdkrHOHMVwXyrQA9V2LgBxQvqlmNQiiNBdFxie_C9fDhjBYuHFJf79JU8ytv5FGO9T8_O9RTCsn7ThNrKE",
+        "width": 800
+      }
+    ],
+    "place_id": "ChIJWfsfHA30K4gRMEtfFG5IWrI",
+    "plus_code": {
+      "compound_code": "FF8G+MM Waterloo, ON, Canada",
+      "global_code": "86MXFF8G+MM"
+    },
+    "price_level": 2,
+    "rating": 4.5,
+    "reference": "ChIJWfsfHA30K4gRMEtfFG5IWrI",
+    "scope": "GOOGLE",
+    "types": [
+      "bar",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 828,
+    "vicinity": "5 Princess Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.48640809999999,
+        "lng": -80.54069969999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.48769313029149,
+          "lng": -80.53933291970849
+        },
+        "southwest": {
+          "lat": 43.48499516970849,
+          "lng": -80.54203088029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Pizza Pizza",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105351660556364510876\">Jason Xin</a>"
+        ],
+        "photo_reference": "AeeoHcKZH7E4LaLfVDdX2bF5khP_e5uuDdAvn-DkFZdAeZ0FgBOStEDQ7CjlHGdkTM1nC1tcGVGy_4CpdaDTtNWnuLLYtmWCMH6ozLYMArNBLZrqd9d5COzBaE_q3Vww-KNj6HBJ_naebHSB3EHHOQdRvh3HHVgv-g568RA-Grg7VKHSK6aEKsPB7UHAMakuq38ZzG8OSfmIOXGC9jpCwj4tupkX2ZTn-qoHRpVlUMZ4hgm1gb0wbXIZQxvZI3lILuXsvEdb-kpiHlmEzwFLfeu801V9S9TxA3xbwp1GIAIY5x-ORHH2QTLa-lflEa9C4yWaN3gPaWYKBNGheTWuySxCFs1B_0nQernLgjJSe_TAIHRTpyk--Wv7lutXm53EjzadTKpmbLWwfKOT09Z02OI30kckPcNtY8A8irJz7by8iKziG33FiqYz1BhW6PQsGxDC-TmgVs87fx_ugJk1jUAsF6WTHiw3E4ajnxhY678j7LSJlFcpeTV7C8tusYkhe6OtD8sRbZ0TaP_mATvV3fopTPzVPXb6iJHeqGeuuQoUo-hEbAJAHL0fTai9OuViyIRvXJmuCgDF1mpJcK_xPmbvnV11xjN-zGY9NF1xixYRvnOwb8vGXkmogYjMGbYJxZufLzJP-Q",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ_SJ8EePzK4gRCux1o8ZIVQg",
+    "plus_code": {
+      "compound_code": "FFP5+HP Waterloo, ON, Canada",
+      "global_code": "86MXFFP5+HP"
+    },
+    "price_level": 1,
+    "rating": 3.8,
+    "reference": "ChIJ_SJ8EePzK4gRCux1o8ZIVQg",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 653,
+    "vicinity": "496 Albert Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4623642,
+        "lng": -80.5377881
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46374283029149,
+          "lng": -80.53653151970852
+        },
+        "southwest": {
+          "lat": 43.46104486970849,
+          "lng": -80.53922948029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Dairy Queen Grill & Chill",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112164003650415796863\">Alex LeBlanc</a>"
+        ],
+        "photo_reference": "AeeoHcKtNQ4hGo0sVJ15cJQAtBZvsjOfENcloKtPBzW3aTus0JCIjzds_Y20XGrM5xueBpWwzVf33k51pAYuA2cXbaJujyhH5WUBzSXfdQgk4fIeQ7JGyysAjnPeK-3iY9UJDCSMal7AYttYR5bLJZb0n0mEXSrOaU58ejG-XA9AKK6iKYdQ82QsKMKdApsRa9-6WqfixQLCSqe4qP67z6pTKDThQf3n8kfdUfejpLOpf0EVDLTiJirHYigzGSzpTKNGwANAtG7u1uh5RdLQqrUYv6ctcunYQbTl0Q0D_yz5W7iEHVCrtdNg4SlK27Xhsq1mkHpXEEsQyuACQ4EPbdJmUZjgSCsJYWVFf_FZCLGePHNtCT0sw3b4A636wVtUrZ1Gc0SZRWVhS7ileqPzbTLtrAsiCZ6Uk0gUEKcP6YjDTBZY70t_BCAlqhNzuJVXXWfxPrNUjW9TZW4Mlz5SSlcf_TuhssU_svzncTVBx27kyKttEO9u0R1c3BlfKOzQExyfHd9Nf_wnOGFmSaaJMv0NIn5E5t0_1VzQdkdxBNutXmvVJ_LwcqUVouQX21tqHdgRouLuKb94osbipshkApcB44zj-7yUwf07jSp7NuedY1Y-FZLQGnKWA4RMA84X4biW",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJ-fl5khv0K4gRyh8cE7xWpko",
+    "plus_code": {
+      "compound_code": "FF66+WV Waterloo, ON, Canada",
+      "global_code": "86MXFF66+WV"
+    },
+    "price_level": 1,
+    "rating": 4.1,
+    "reference": "ChIJ-fl5khv0K4gRyh8cE7xWpko",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 457,
+    "vicinity": "50 Westmount Road North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4147609,
+        "lng": -80.5102857
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.41624048029149,
+          "lng": -80.50896346970849
+        },
+        "southwest": {
+          "lat": 43.41354251970849,
+          "lng": -80.5116614302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Wild Wing",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118141292848437638476\">Marta Borowska</a>"
+        ],
+        "photo_reference": "AeeoHcJhwDU2Y3jO3sfJSmphKHwsRL7GiArb5FwDF5J7tx0N0NLk1JMRUFIlzCGkYuJpO7nszbn6Uox8cZutWF2mfsLu736IuA7Cbzk9i2k0HK2syLlDDRqfxBFcE3WoPszbGEHGgwGs1uvzi0tAK2kdvWOpmjmmZNpZZwg_G_DeQkG77Iei3qzANAV7ISJNERMiI_N3dRGy6Ln2tz9LUe2OmEU9MNaEsOrN-42vPFShDahd7tJAtkBkB5zuudQ3rmx6Hsb65qgp9vuBGfVEvMgN6p6WdsYJ4hnGMVOIkC8v6iIyemtF9rR5iJtYD3nmCXA9ka1WnrAK5coWARLzYNo0vxtof0GFK0hWs6G1ElqFzToDUv6Thr_2Fkpa3VJOtOEw2mxnkoqOLkozb6QpNHhWVKm-dNd9Tw_vzx12xCAeecwyfy3vzfFi0OuaUG4hBbXkKf1A0Bi5uLcrrGif4NgXdlCEEnur9HBCQY7AJsbHAyrQ33k7QQ-Smjyn6MofzFnRgnZvf6IRygmuZG31zfMu5e-IZzXy1CGqSG5tTlhVJjfPUiulkWKUQd4wn90fhB3lz2sLUumn4vWwsq9LlCTgQrO642PnrTm1_yCoRS8KOxMyPe__QcPRmp9KDKBPYxeqbeDN2kxA",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJlTbuqqL1K4gR0tNjGXs7og4",
+    "plus_code": {
+      "compound_code": "CF7Q+WV Kitchener, ON, Canada",
+      "global_code": "86MXCF7Q+WV"
+    },
+    "price_level": 2,
+    "rating": 3.9,
+    "reference": "ChIJlTbuqqL1K4gR0tNjGXs7og4",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 710,
+    "vicinity": "103, 715 Fischer-Hallman Road, Kitchener"
+  }
+]

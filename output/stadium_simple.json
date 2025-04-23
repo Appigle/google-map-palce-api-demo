@@ -1,0 +1,103 @@
+[
+  {
+    "name": "Kitchener Memorial Auditorium",
+    "coordinates": {
+      "lat": 43.44724,
+      "lng": -80.4669309
+    },
+    "longitude": -80.4669309,
+    "latitude": 43.44724,
+    "types": [
+      "stadium",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Moses Springer Community Centre",
+    "coordinates": {
+      "lat": 43.4739274,
+      "lng": -80.5114325
+    },
+    "longitude": -80.5114325,
+    "latitude": 43.4739274,
+    "types": [
+      "stadium",
+      "gym",
+      "park",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "University Stadium",
+    "coordinates": {
+      "lat": 43.4707228,
+      "lng": -80.5304409
+    },
+    "longitude": -80.5304409,
+    "latitude": 43.4707228,
+    "types": [
+      "stadium",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Warrior Field",
+    "coordinates": {
+      "lat": 43.4741599,
+      "lng": -80.5497645
+    },
+    "longitude": -80.5497645,
+    "latitude": 43.4741599,
+    "types": [
+      "stadium",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Civic Square Rink",
+    "coordinates": {
+      "lat": 43.45195219999999,
+      "lng": -80.4923304
+    },
+    "longitude": -80.4923304,
+    "latitude": 43.45195219999999,
+    "types": [
+      "stadium",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Weber Park Rink",
+    "coordinates": {
+      "lat": 43.4578901,
+      "lng": -80.4744972
+    },
+    "longitude": -80.4744972,
+    "latitude": 43.4578901,
+    "types": [
+      "stadium",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Jack Couch Ball Park",
+    "coordinates": {
+      "lat": 43.4467763,
+      "lng": -80.4642877
+    },
+    "longitude": -80.4642877,
+    "latitude": 43.4467763,
+    "types": [
+      "stadium",
+      "point_of_interest",
+      "establishment"
+    ]
+  }
+]

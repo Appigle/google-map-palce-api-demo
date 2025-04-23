@@ -1,0 +1,147 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4049175,
+        "lng": -80.4773499
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4062479302915,
+          "lng": -80.4760265697085
+        },
+        "southwest": {
+          "lat": 43.4035499697085,
+          "lng": -80.4787245302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+    "name": "Sai Bhakti Dham",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 391,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115034700022565563343\">Sai Bhakti Dham</a>"
+        ],
+        "photo_reference": "AeeoHcJwgJv6B5AxEj7PO6U70PICxM8pjpfg4agt6hgvhoOmHert6GdgjGV-i2v3vtHBnKOUrNhU1nRc1s57hBnDvC5OvbDO4eKgGpDbIlKQTGqPpsO95APw0JZ8YzLx1_xlJ9xB0rtf2PCuPzpuwbrnqCH2pJEHVGGGtNsP6Bx2IU6V4vbJMP-YNRaiBWS4MQXSYxYY5l56dOGTfB1axvT9hUz-ZQzbMRE3JL9axiFHIeNXmpLYMQURq_WFgWQ11Vl1K3jj4ee2fc0lnb77oeWDztofEYiNlZ-NAJEHUf2SdMLkVwQ8PBvmMjNDZngodddqP5r7LJSM",
+        "width": 1295
+      }
+    ],
+    "place_id": "ChIJexPbAmj1K4gRzHje5DyIZcs",
+    "plus_code": {
+      "compound_code": "CG3F+X3 Kitchener, ON, Canada",
+      "global_code": "86MXCG3F+X3"
+    },
+    "rating": 4.9,
+    "reference": "ChIJexPbAmj1K4gRzHje5DyIZcs",
+    "scope": "GOOGLE",
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 425,
+    "vicinity": "52 McIntyre Place Unit A, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4797169,
+        "lng": -80.4575326
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4809039302915,
+          "lng": -80.45606526970849
+        },
+        "southwest": {
+          "lat": 43.4782059697085,
+          "lng": -80.4587632302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+    "name": "Brahmarishi Mission of Canada. Shri Ram Dham Hindu Temple",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112502428498114252985\">sankalp mogulothu</a>"
+        ],
+        "photo_reference": "AeeoHcLMj6tO_rUkBysLPodO5vqu1ykuqbuIZ4dcvCn8xFZYbEgZ-uq4ZACxzk1lx1K_3O5To1gf9bhPS117R4FLxrQ4qppEy-ZrXW0I8WqEn4sLGF7TEHF-biw9eDXU1e3aCUn7jlkLmBKuDqKtmoWwtWZ4MTU1HKAj5O5COgTVXPdhWuMPxDSvl5EEXsWWROF0xD_71zrLTBM0mA6KtN4Ji_kHSabyNuIGMN8ZIAvOYSZ01AAs7rovn3xNJd9zVThECFwbgfpuwEiJ6ArLPofrQqV5A0BAfB-aeNJ246qOT54OWgAbZreibYWQy27JgtZ7wbdg9eKh__dG1v9sB7syCsdY42Ip_GeLtS34glUIA5W9LKAKtk8ciYle4qc_ul1qjKWdPeiD-VpAsbO-9mmkwHwpiBnW1rNtD6ztkwmkkE7eI5xlhdz9CArZt0wEmkk4w3jIrTGrgkk2N4SIxlw0Jum943zlsxDHMr7AlILV5NEqKgsI8x-SjpMuxuc0mz29bXEf1PsmIOktJZkyQlnrWxwK8YmsDMcuoVbAjUJR1eQFwzlwrw4R0Hd7NtGRwVLAEq17FFmIH35syxAGUrnJlqShRonYmsaAg5LqoyFkZZlgqLX4mfl0Wh-rR-azd4uS_Nm8uw",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJtdtkDE3zK4gRgB8Ny6uwsdQ",
+    "plus_code": {
+      "compound_code": "FGHR+VX Kitchener, ON, Canada",
+      "global_code": "86MXFGHR+VX"
+    },
+    "rating": 4.3,
+    "reference": "ChIJtdtkDE3zK4gRgB8Ny6uwsdQ",
+    "scope": "GOOGLE",
+    "types": [
+      "hindu_temple",
+      "gym",
+      "place_of_worship",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 181,
+    "vicinity": "525 Bridge Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.476997,
+        "lng": -80.5134616
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4783361302915,
+          "lng": -80.5122804197085
+        },
+        "southwest": {
+          "lat": 43.4756381697085,
+          "lng": -80.51497838029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_hindu_pinlet",
+    "name": "滑铁卢萨拉热窝",
+    "place_id": "ChIJTbDHSQDzK4gRSyGz9mm78sg",
+    "plus_code": {
+      "compound_code": "FFGP+QJ Waterloo, ON, Canada",
+      "global_code": "86MXFFGP+QJ"
+    },
+    "rating": 5,
+    "reference": "ChIJTbDHSQDzK4gRSyGz9mm78sg",
+    "scope": "GOOGLE",
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "194 Carter Avenue, Waterloo"
+  }
+]

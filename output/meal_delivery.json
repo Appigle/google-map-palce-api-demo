@@ -1,0 +1,3272 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46752929999999,
+        "lng": -80.5684411
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46935428029149,
+          "lng": -80.5669129697085
+        },
+        "southwest": {
+          "lat": 43.46665631970849,
+          "lng": -80.5696109302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Domino's Pizza",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100217025120163464436\">Tim Osland</a>"
+        ],
+        "photo_reference": "AeeoHcKVbPDFdSZarGmA2jJITLDZ84Nh-cboyNXZEFxkUOoDzyQ4YSJQzZ45Ptuvqi0rOHlinwh1C7Y7SKqFo0tDhhUh9MJytCbfj8LzKujx56Xjycb75_-kVVE7gUSDVuJ-IRTeGA0PSk-R-YNrnuOkJlOS_l8KJ8RLDSR2RokGQzITqITKOrNFL732qsUJQ8c5HAgO5Wzg4sdrTh2ZatIKMhmpeCkpFSjCWIUxz0lTj4jdvr__Eun4xrSlpCsiQAtcZLcSZiUoF5zKKiTE2ghLCHLzpCP6E9Axq0DespdJY_aEbD7jow5kyUNNgMaNdDCEg1_593ZRGlg0_mCPYooZ487m3TlGCcy68GVcIA6l8HZNCyWvchyZcl8Fhn8xZotNvcLp2eJWMS0eHyO8iXwpoVPhljqvXFkdk9W7wBNBiyGJ_AuJCvQotg5W5iNT1sdGeZqCNRSZLyKKqDRVgX_1pczenvCwvBqC33l-3-jrp-VWz3iaDH_2Jt_pT3prBNkv30rqEQ1bTzFth8uEtRWUtk9ejqd_BqFpiwPp02JFZlQvZtgY5VByhbQXzKIiw_6rWMqFT2PBzVQqz1_gDSIrmAbfOwc3-uMk5CXllPnPBoeRVqEERaHfvHtooxPhFicxHK016A",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJQXFpf8j2K4gRrZaurf4BVaM",
+    "plus_code": {
+      "compound_code": "FC9J+2J Waterloo, ON, Canada",
+      "global_code": "86MXFC9J+2J"
+    },
+    "price_level": 1,
+    "rating": 4.6,
+    "reference": "ChIJQXFpf8j2K4gRrZaurf4BVaM",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1740,
+    "vicinity": "450 Columbia Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.503758,
+        "lng": -80.530821
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5050238802915,
+          "lng": -80.5293974697085
+        },
+        "southwest": {
+          "lat": 43.5023259197085,
+          "lng": -80.5320954302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Sushi 99",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118141292848437638476\">Marta Borowska</a>"
+        ],
+        "photo_reference": "AeeoHcItzISGgP2q59Qil5q5-WmWwmtLG-fLkpRMzOqP7cN13w9iYaLWdFHFfUrOAmZWhezkaJNzBHDFwYAxwLQZGEAothA73L5IxFzaGYB9j55rnTUUkRuJwS1Qj-0kDfFwivc-uerpARlChkCiRMbEXg8gupo81bShumjbXg3OwBn_oKbBVFiZghaaoY_Xoibu2UdV5h_KeUNYt9qdKLs3paLSFKMmMeHo6uu3EVIu-gXDAIbLcRyqB9EWsmL7VhS7W4lK3YVwBXsnl4dGjGW4aRG8F-vemquF86lNXtv1u7OwlLDyCb5HCajjpYUGfzD9c6ujeM0QjbkOrJi4LDWLnaDxdhM6Mm1gDMieNPdF0Ol5tMC3eiwrH3u5Qxj6d11PiFo4z2ZKjuUB30A1dn09Ey5GW2zQpsOh8lKHrFGgcpvN3yVuGN7PGVWujC8MGYvK2TfZpBxycGS3kX-XoAWUPUe-4W3VA6iT6WHSOMY4vGUb2TfFOc7R8Q5fPqoFH-nVjGaHEVE82Oc9xLi8kR0SB4ALcJgeZP4nJroVJHOJheCj0ejG4UIvt_EuUZ_FMSTH4hH973wwNfZfmdREHHaSifWEFaq39w0OZDYo7VOZegAbDPLDcN9sKink-u8Jz6riBFougw",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJTVaAacXzK4gRb7f2fHnXwDw",
+    "plus_code": {
+      "compound_code": "GF39+GM Waterloo, ON, Canada",
+      "global_code": "86MXGF39+GM"
+    },
+    "price_level": 2,
+    "rating": 3.8,
+    "reference": "ChIJTVaAacXzK4gRb7f2fHnXwDw",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1610,
+    "vicinity": "36 Northfield Drive East #12, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4888585,
+        "lng": -80.4919948
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4902232802915,
+          "lng": -80.4907203197085
+        },
+        "southwest": {
+          "lat": 43.4875253197085,
+          "lng": -80.49341828029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "University Garden Chinese Cuisine",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101276968877339321445\">Sohamjit Das</a>"
+        ],
+        "photo_reference": "AeeoHcLTUb7yHx8XyIdFpD8Sa5vEUaFB7ChK7pu4qYo-NL1VD3DKYgo8yIXQ_c84W5t022FmsXkLC9ruQk9c_zZF1BSbDql2IxHDjZHcp337Eb6vapaMtzkyBy1QNlAs46oBbejLdTJMDfvywhlIP45dm0UlsaoEUu9hCYa_Fjzh-MLR3ocjISyz54Bde4PSt6UbAtB--24LNKLBGPDmhoZBA_x1wjehARxHhy6toiBnI-bAD-StbmnIAkka8knx_IrJ6oAKahLvP8fHvOTwxANBzyd8Z3asJ96u8ST4SL35NK0RC_mdjP8MJzhfwrnaR-gLENZZEUKQ2S-CtT1Xd1B6OYUuZlEGTRtmADNCKfHqp_YGd5APrtQDY4EEUYwkp9iM3r27xX-gZYVLKvmwOgWKrFAc3nJimLtsiAow5VJ4k7fRqv2A9tu7K1Uq7mV5Y2IYnyHSaRdvpQZyaO0YFT1lBVG1q1xnmbzNFMD1z1rpoZotiRjvxVeo21vzW_7tlnWYovwEIzSBRrYRvzpfiRlWkqJzkpxgT6zzNAJ3L1lmDrVvBMvF-67qDq1JqJT9L7nm0a5X6M83UzKSgIRXzWDV0mrYN1Wxo_JhRrEBxI_D19ul_7dJaI3PnHTODCCQYOhK1Xlcnw",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJYxAXYHPzK4gRPQEhK3A8k6E",
+    "plus_code": {
+      "compound_code": "FGQ5+G6 Waterloo, ON, Canada",
+      "global_code": "86MXFGQ5+G6"
+    },
+    "price_level": 2,
+    "rating": 3.8,
+    "reference": "ChIJYxAXYHPzK4gRPQEhK3A8k6E",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 189,
+    "vicinity": "425 University Avenue East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.48640809999999,
+        "lng": -80.54069969999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.48769313029149,
+          "lng": -80.53933291970849
+        },
+        "southwest": {
+          "lat": 43.48499516970849,
+          "lng": -80.54203088029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Pizza Pizza",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105351660556364510876\">Jason Xin</a>"
+        ],
+        "photo_reference": "AeeoHcJ4581d_oq38DVeuZk5HmqwbGl9Ga1TTz7apvjdFfCGn7QnjTrMTTrutflZPubFjHu0bpf4y8qEf9NFrc6Cwy3woxuO4DQPNzUGcuyx1A0UbQfdqV1J9_xxDt4lfZ-U1e82_3lF-1AApI3DMouowWdGIzTwA_i14okqeGeLx9l538agrAFBriUY_W6fA1s4McZMwdngrKaHcj34unURlVFDkI8sBsEnzWd8CrXC-MgKdJn7hM9s9E1ky-8hgya4KDpFOC1gXLnvoHQBhaxHltHETezPWTNtVLI4gcnqret37JoakQcq83eN2fAk89ngpoMThg_KbIlIYE8linpqkqFo6mmz4GtVxKt7UbDVS1yrZ8yRN4gNE1y4oYqtk9EzMO17dNvHbM4TSHXS3s0Cpm4ju2NC7u59AgSRQgnYqtGqZf_adt45sLGfhBv09sK_6jXd019tLmWKLGqrLOpBnz0sXP1OIwzula83b8cIH-4iwKE9vdlReb6fU6wV_BIsqkjc0sHnZ1SLyV9GBrAd_XSNDoFya3gMyRxUsPNhg008caeKnlGBgda2UhOPTENfUOAnuPpXts8gbm8QM6Njd884MT412K1xpystmU-oRGtMzaOKCisj8nF0lhrg6rHVPSr6_A",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ_SJ8EePzK4gRCux1o8ZIVQg",
+    "plus_code": {
+      "compound_code": "FFP5+HP Waterloo, ON, Canada",
+      "global_code": "86MXFFP5+HP"
+    },
+    "price_level": 1,
+    "rating": 3.8,
+    "reference": "ChIJ_SJ8EePzK4gRCux1o8ZIVQg",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 653,
+    "vicinity": "496 Albert Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4721532,
+        "lng": -80.5380266
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47346803029151,
+          "lng": -80.5366708697085
+        },
+        "southwest": {
+          "lat": 43.47077006970851,
+          "lng": -80.53936883029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Campus Pizza",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105351660556364510876\">Jason Xin</a>"
+        ],
+        "photo_reference": "AeeoHcJy4l86aofjxTq21O40L-LeSoLvyJgLoBruLKJEOqZz4flBeXvcYTwK0t3Ex0gjpwiyJo34IOjaUquXVUVtR98HRRP5vuMYoEyh256E4chVn513GjnW0mXJSycpBMZ55GtjPfSDQePnKKrXX53-vzRuRIrd__Gtb5cbDPvvTen8LLV91Yt0yxd23B12c3l76hMAp_PTwVkuVC9Ku8V77zuApVvvk-Rnvtpy5uHQN1-MLmy5uATqf9mwGP8N7N-E7cV8AEoxrW1ux1Nqahuzo-t0VFFYIhq0AkX_msVpnTY79jDnx8bPq5NrGL-vcHz43RlyOmBysslHcy4C-LbltT2AFs2iDLU4ubh0dqhPRK7sa2lJMpXaKKvsdv6lcovJcoRrwwBM-4j3VIejSgzhrm3WtWaXLM0dA1oBpek6m90OwIhlz_Ftyg1Im1eWTHIeQnsqkH35fFUaxWg2zqhFndVFoJ_-l-4eID8FETkVKIrcUA7XyXjgYOYD86i0K0xgp-qNRw_QVfbMXa8ivMVvU0-iun8YxSL2kMScfdhWgfdxhasLVzAUEi7judkfHEntnsJrpfYuF2UkdLmbY_qkj5F8oz-iT0exlQ3N33jHBKXsMBcXxewkSaMVRBdOU8zX",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJP_Ie6gb0K4gRO7D5w_qpCyE",
+    "plus_code": {
+      "compound_code": "FFC6+VQ Waterloo, ON, Canada",
+      "global_code": "86MXFFC6+VQ"
+    },
+    "price_level": 1,
+    "rating": 3.7,
+    "reference": "ChIJP_Ie6gb0K4gRO7D5w_qpCyE",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 767,
+    "vicinity": "160 University Avenue West #2, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.50509659999999,
+        "lng": -80.5379851
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.50625203029149,
+          "lng": -80.5362886697085
+        },
+        "southwest": {
+          "lat": 43.50355406970849,
+          "lng": -80.5389866302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Classic Indian",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109765193001194011370\">Classic Indian</a>"
+        ],
+        "photo_reference": "AeeoHcJ-w39Sb3W6T5tCPzcVo3J7_JJZDf8GUyLfHhRJw0g3wZUxtvtxgVe3YcyDZEPmmPbCXH_lxNLc3N7XEhBL0bM-UbYyFo-9VNksCyvwQ2Q9pCQIqYjJHBjl_eztC4PLtSgByfOwGKdyvRh8yBsZztni873G050Dhz66vusbraAJ-PzedtVrUsPHmUm_LXFfZ2722orShtYgUjTADvfAipxnQFemLgnPrwnIlTQffR7a4sywXwaI8pKmQ9Hi_V1NMRpZ70WMk6OC47ifywkF4BjcnpnmlBnYrorTyKcIefqyrIa8MBjDiLDWXH116hl_KEHVmkrmbPE",
+        "width": 1522
+      }
+    ],
+    "place_id": "ChIJCRkCVsjzK4gRRiJ7G7LBD70",
+    "plus_code": {
+      "compound_code": "GF46+2R Waterloo, ON, Canada",
+      "global_code": "86MXGF46+2R"
+    },
+    "price_level": 2,
+    "rating": 4.2,
+    "reference": "ChIJCRkCVsjzK4gRRiJ7G7LBD70",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 814,
+    "vicinity": "10 Wyman Road Unit 3, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.450881,
+        "lng": -80.492495
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45206143029149,
+          "lng": -80.49127196970849
+        },
+        "southwest": {
+          "lat": 43.44936346970849,
+          "lng": -80.49396993029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Pizza pizza",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101582050301246302007\">Basil Malik</a>"
+        ],
+        "photo_reference": "AeeoHcLAxGo6eRZpx2Kn9h7Y-LjR3YDsuaDcwnO579bgu7hXmlOknDcuw2XYKUaauvH0hWjWelZ7VdK1i5U4DQVTavAEW3RhYUE3pY262wgym2VP8lOWQvF1HE4yZcgtxdWHvjAL-K6s-bKXsHEZMIRinUyGD_qRt3Oq9zz2AKdZsX_O0I_LMkCrMir32nuccMCNo8ySdc4oWUUpaWK68WtdbLNJkAiUUuIrTODJdSzSaDNQUxYZJf1bdM-VifC_YdvBeiK0atuJNf8zzxUd1VaqWf-VWdtHb3ufLYrRib5I2CiFGuzEe_GzwOaiIFSauQMBfHuzkdOacjos_7fKRhdA_Z7Y8dYrcpi6e0XriRZMFPbdVC0DzzERn27YYKVw-w7mqHhCu7XBlSynn0bY2srVCjm9bs1t9v2PSPkzP2cvptcpvhF1lsA-8cw0iAm-4oZwybxNa02H__IX4Xtng-D4dL94QYvmHLv5ybburjOsBZRP8KQR2RH-N8PPzJ7LtaAYL88sVtc4AC6nAIeNOQVTtIDHp5OPUDXabnnRK4mFMJ6fapHu_6cFEWxiSI6BHrcYetiLpqbUMLBZt50sx0i48JFJD7RZ8aiOz2pQb0d7KPEMthUvKPsbfRI_RX6zjpHA0PFeEg",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJEWFka_P0K4gRC6FxBKlWtVg",
+    "plus_code": {
+      "compound_code": "FG25+92 Kitchener, ON, Canada",
+      "global_code": "86MXFG25+92"
+    },
+    "price_level": 1,
+    "rating": 3.8,
+    "reference": "ChIJEWFka_P0K4gRC6FxBKlWtVg",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 984,
+    "vicinity": "185 King Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4844996,
+        "lng": -80.5263456
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4857184802915,
+          "lng": -80.52516696970851
+        },
+        "southwest": {
+          "lat": 43.4830205197085,
+          "lng": -80.52786493029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Twice The Deal Pizza",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 510,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102430608556702112825\">Twice The Deal Pizza</a>"
+        ],
+        "photo_reference": "AeeoHcIvlBn1pF1mvcjOL1yl16aoaK_Ad76YoyBdZUME5qgS8IfhLdsMgnuDxm5x7eMwlu-bOIpTvaIkJn1FcHN8AWHaBZ7NupZWXfb7zDZ6GX0xTVsFJtAv3zc6zpdlApREVnuRMP0TaWcU1p_B1p_aotsfprVO1VcytzWTusiEHih_9MIZTezwwcN0RwVETYL9lnRbhnuMpslYVkmnansK9GKcAMaucx4FigtdyoI3-tpU-ZBM-PGMV3m__X_kMCvcp3005YzZzxS1ocjj5PMlUygu5y4EPoBxGGqvH1mqcq6jwFvlARXR322G8H3ug1OCkd3HOHNnVaY",
+        "width": 382
+      }
+    ],
+    "place_id": "ChIJ94IZ5-3zK4gRE_EveHXCBz8",
+    "plus_code": {
+      "compound_code": "FFMF+QF Waterloo, ON, Canada",
+      "global_code": "86MXFFMF+QF"
+    },
+    "price_level": 1,
+    "rating": 3.9,
+    "reference": "ChIJ94IZ5-3zK4gRE_EveHXCBz8",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 479,
+    "vicinity": "402 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.43991459999999,
+        "lng": -80.5267381
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4412306302915,
+          "lng": -80.52541661970848
+        },
+        "southwest": {
+          "lat": 43.4385326697085,
+          "lng": -80.52811458029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Double Deal Pizza & Wings",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115503545156955987309\">Double Deal Pizza &amp; Wings</a>"
+        ],
+        "photo_reference": "AeeoHcLhQFCzY0RDiIVSYtUwu_yjrddlUM33rByv8ZQ_RYGobMpzsZjIrg-JavzGRRNcs4zJR_tiyrfG5iP0-eS4caOEr7FVcUqnSWONx_WEd5hwAgrOAuczsFIvb2xNEK9maPHr4sno5dC-ZWycv7bPVag7oYXBwXXtraLfj-p7p_MjPhTAz_oMyyZDjpUV3I0VEbhzAccbXEZiNZ9U2j9HrbzwyvhnR3ICqXlplbiFyQCtFB0z9AUZv5HWCawB4xTlJKzMUmO0Yi2HREOosE2Bzt04JYvcyHycloLkR9OL4JyEpvNdavzt6boAl5lKWRyNbyO7qznchiA",
+        "width": 1400
+      }
+    ],
+    "place_id": "ChIJr69LBDT0K4gRm1d2ClBl7xY",
+    "plus_code": {
+      "compound_code": "CFQF+X8 Kitchener, ON, Canada",
+      "global_code": "86MXCFQF+X8"
+    },
+    "price_level": 1,
+    "rating": 3.6,
+    "reference": "ChIJr69LBDT0K4gRm1d2ClBl7xY",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 275,
+    "vicinity": "101 Hazelglen Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4248838,
+        "lng": -80.55417159999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4262296802915,
+          "lng": -80.55272061970848
+        },
+        "southwest": {
+          "lat": 43.4235317197085,
+          "lng": -80.55541858029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Pizzaville",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104881381454022414298\">Cliff W</a>"
+        ],
+        "photo_reference": "AeeoHcKsxAl5WB3TtO2C0LFUVGNI80PlY93cokvqiBvAIqXIAm71f4tLs8t5ZqH7kd04RW52oQmECqhnGQOQviio7x0KYZ4rTzE-tUnVnPYjYbB6Oi9U-MNu-DgSicGVd5v5DVs7TZyEkCXnduvqR4AE3MfyVjiFwml3gSTMEC-mk-4JBdj4FCL-Ytietfnr01ATSP2GQSjhWNBl9yj25_dZ5hsZnRnqth_wsaU3Y2uQc9ZY4TlBPNTk1lHY3PSsy9vmQxAKvR-tWl-lJw0C_9kpMBPAMffr1hLMpsRwNVi8oQVLh3wqVg4STfO50i_znRpR_Sb8Nl2sqVvf3-bBncugBOeXuY6xLJF42uXyTLFpIZHC3peqUtVxxy8aWdcn09x7-kLWXL-hXfhHpYOuVGyvhUtB7TuGXh0-XlA3--KSZoRzARQap8WwyDGrm1Ua52er9Yatc5nVHVioTuUpKYmzhqsH8TOEeyLHZT7V4qBVswu4Zh5hB-O_x2GADvKb3p-EraQMd4bA0DKAWyo8qAiDznrNaMA6hjDYXCDS74fTlHbUG_PXo37rRyScsUHD_9oafT0oFRV4zqQbPxJQ6nddUAmZ7JI9wtRzlx3tHAheH7OJybwoq_iyC2Ck4EZZwbf6Bxk0Ag",
+        "width": 4160
+      }
+    ],
+    "place_id": "ChIJ2QwYeA72K4gRIR_WT_H10jA",
+    "plus_code": {
+      "compound_code": "CCFW+X8 Kitchener, ON, Canada",
+      "global_code": "86MXCCFW+X8"
+    },
+    "price_level": 1,
+    "rating": 4,
+    "reference": "ChIJ2QwYeA72K4gRIR_WT_H10jA",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 262,
+    "vicinity": "235 Ira Needles Boulevard Unit B9, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4766499,
+        "lng": -80.5209852
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47813148029149,
+          "lng": -80.5197243197085
+        },
+        "southwest": {
+          "lat": 43.4754335197085,
+          "lng": -80.52242228029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "WingsUp! Waterloo",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105351660556364510876\">Jason Xin</a>"
+        ],
+        "photo_reference": "AeeoHcKM-eXFkwd8eXPH_AUQNewnPLkwV7zLwePHwFhSsELLOUoFBjiNZGeUcigTgxt2s4JTUo_-wQxJ3QchJSBiuXNOwyGkCHTpMO9NGsYI_7z-TlNqWpwG3wdxXt__hb_C7BtO0mM7cENU09KYQJDvxWQuqucCaFg_K0eOagBhfZThv3cNAWTqWJDsVGazoS-risKwIXN5GvpdggMXIzlBSPncjy16Du4FzEI49xPqqEZEwML6ZOvD3WsWybEC1f3vGmrm4NOEGjkT2PctgIh8xaoZgWroCLtKe16_077ioQYyQiwYoKDeOEXB74xKH99rYOt-H6P-3lN3njuGldwV1HwhTEAdbLWrP1Hvgsuf7Mx1NtIFyMuOaRC3LL0o2IV_0B-VYcOCYO0hHR2uxCMjEZ4ZOl2ezgyYVEESLZdFnEtpKWpkepLPUmXfFmkXOEFk8fu40NziAL-yOUtL0y42_01q5Gp1v8UfViaMiHGNaAjzBr_bwIAjQ_wjCJG1LjRZ4DayLl07urTbok0vewK4DupvFb-7u3F2G8uiQOYJjmhzP63mVX5AdK02p_qEHVEZdIHYo8ZYmU7iGsu144q0r15ZMaLF-MIYi8hvmY-6s4-Dz8TFrBauOVasRUe4NzW3NZOwuzPb",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ5QTVOovzK4gRlhgXZvJulHE",
+    "plus_code": {
+      "compound_code": "FFGH+MJ Waterloo, ON, Canada",
+      "global_code": "86MXFFGH+MJ"
+    },
+    "price_level": 2,
+    "rating": 3.9,
+    "reference": "ChIJ5QTVOovzK4gRlhgXZvJulHE",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 333,
+    "vicinity": "65 University Avenue East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4969302,
+        "lng": -80.5263955
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4985807802915,
+          "lng": -80.5244640197085
+        },
+        "southwest": {
+          "lat": 43.4958828197085,
+          "lng": -80.52716198029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "KFC",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1520,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107198089164830315426\">Deepak Vishnu D</a>"
+        ],
+        "photo_reference": "AeeoHcIyaBN2MYakM1uduzIs2DItaPNMYCGdQOBFEbSshw4NvQZewjEx7MH3N1yoDvbblaVy-qgNJjkZTysO3p_pozlbmfJGSpZK8bwY6ImfMemMSajw2bLWyO3UR1C6X_rg_QzAuWtL5o2lNoekVQHJ4IAjzOS5kUaxbQpUPYPSELeiBs8PGSENzZvGgJWf9qqJbm-mE2S-X0NcWymoS7GICk6FTZJPgnM4TCSoa-m-8yNnkCpZFiG46cs0x5cR3pCkdC07diX4R3MWNmU7k2fKTa6jr2AXB8UTfoB1sLEFR061hrkZpRoVSa1-1MhZ4MitCWF-U9PsOdi1Rzw0fWEwp-U3zh68NYoWVFyNBPTuC723evK-f06Ci99sBQBxVa30xxzPLLZ2bTcv2JdxNwCxJ17S67dqs-6EEvkjIVGCJeBqWEqXrPUYnSlV4-pEHo8DqZAu4M8FOWwe5Rp1Rqo4CkslutfeRQGCE-Pv81KbyB3Q5ItTJAigmCBnEXUKrp-4857aWGAd38fkM8s_Z9i5CDSBNBa0fwVfv0YQqH3p1_HizCIu96X3OE21kbgz99on7VqKFlLnEUqwoBeMJ6HWfSEUovO4wwX1DXGRWDVF3IJ4a2gtFqRHxHqlnxpJcJkqcbyqqg",
+        "width": 2688
+      }
+    ],
+    "place_id": "ChIJGdCfQsHzK4gRLIFA0-tAAgE",
+    "plus_code": {
+      "compound_code": "FFWF+QC Waterloo, ON, Canada",
+      "global_code": "86MXFFWF+QC"
+    },
+    "price_level": 1,
+    "rating": 3,
+    "reference": "ChIJGdCfQsHzK4gRLIFA0-tAAgE",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 275,
+    "vicinity": "550 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4643793,
+        "lng": -80.5223374
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4657795302915,
+          "lng": -80.52109511970849
+        },
+        "southwest": {
+          "lat": 43.4630815697085,
+          "lng": -80.5237930802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Famoso Italian Pizzeria - Waterloo",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 16320,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114138184057500141438\">Jaydeepsinh Darbar</a>"
+        ],
+        "photo_reference": "AeeoHcJJ_Cf9puS6_GJBSMV_I-6WBcY5uEfTWLJAPCEahi-9o1ym4VTov3zBoLOsZ-xb4kQg5PKpQ3kbsnmaIHW_f4tqVkDEEUZxRUz8XmyjZ8z3B-7xeSG4nat9W8REF2CScDybV9BoFVzgXse50dU7uRAISdZekQ0vhZ7jkdy_C1Jvd95rxQILcKFyEfz3Rs07ZUfMB7qyPvCrWI3ybOm6_BRL70g2uNZ8ScElsaqBgGQACbRJHKihvmfD_m8GvJ4rMbcuFzlhUzq2TNzO-Af7yEX_RpYH7iuHa5YSKTObXaxBV11uhRRkWfMQYOWnRBzaMWVKb2Glp_kHHMsxdN8wS2ax3yrWHmCMJsGjfvzSU7vPkPIIDynzcysE6iyhw2oBjhZ0zK4RfQHb63as1JZp06NBEg60ocOTbZS8AYQ7RgOnYTrdxF2acMbRiNg6jkEhZoTf6WJwH5hQlNTqb1YkOierwjz-qDAJ-84e5dlbiOLEPxuBsXBeByGjgHNK2ryZJvx5S2QccplpMiC71E27f8QEvFbpaz-7uHvZ73q6fl_Ez-6tOsZYD-kV_HsZknrFxNGJDaqAAxV_Cjgqtww9Wyblxptaca-1IlUiQ3tLZlhPQHswepDBPnyvJuS4cYavVxHm4Q",
+        "width": 12240
+      }
+    ],
+    "place_id": "ChIJNwVfVw30K4gRos1ZcMSYykc",
+    "plus_code": {
+      "compound_code": "FF7H+Q3 Waterloo, ON, Canada",
+      "global_code": "86MXFF7H+Q3"
+    },
+    "price_level": 2,
+    "rating": 4.4,
+    "reference": "ChIJNwVfVw30K4gRos1ZcMSYykc",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2129,
+    "vicinity": "15 King Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.476829,
+        "lng": -80.5208554
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4783301302915,
+          "lng": -80.51939716970848
+        },
+        "southwest": {
+          "lat": 43.4756321697085,
+          "lng": -80.52209513029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Domino's Pizza",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1848,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110826559909889196383\">Parasbhai H Patel</a>"
+        ],
+        "photo_reference": "AeeoHcJXSfuGfqQYrq3pxh_QBTgN4iSLAmhpH6CRiJao6k_EsPI5uISX3UxXVP2IUm8c0COX1IcNdZTqTEsU5a9kaaRrFRD--Ae7RqX-lCiborOHfa2bDz6oiKEJfLlCmQu-H1qa-BGFiB7MksRdps1HQNxPFj5QRqq2f2d-Zmq_FyjgXUXDwgpE4STpL_XjIHgXBg8r1J_YXzqQkH4H24zPYPGQ_qwoh_9ODrVJyouT13fnozXo-p1iE-3mTxDu8gnr-wcCMrj-DhPdkHfO1iAvFYeJ-8oKFrlRsEjH31mfFJ12caJZCmnEi6TYM6AeQOnXaVMGqUeWeM_1lZH873u6Bn800XC-et5o_IddFOrdLX7Yd8r1Yw_20wqYvT1a0Ndu3h8ujy1q9Gtxqb1UR_P4J0ck92Q3C1dhMTTJYqs8moxLF8sOe0BH2BLXAnMV4eRAIgFevoiMtNAQl1iW6qdK16UNgajPDZDcB2fBkZ7WFZQbP35tKeJ5VKTHL8jG0T8Vnr7yLJX9YX4NoegkRfmmta7biI0KMybdlweTdWKKSJXs0Y-fQBkFkFqVXl4v92fzhT35lwWNkgVzLO17m7UmXGqR84QKJyYocjxxVG-g3MA-FsaoXQXx1dJM4rndawe_nKjCrSRF",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJs8S1iNdGhFQRPR4QhVbQxtA",
+    "plus_code": {
+      "compound_code": "FFGH+PM Waterloo, ON, Canada",
+      "global_code": "86MXFFGH+PM"
+    },
+    "price_level": 1,
+    "rating": 4.5,
+    "reference": "ChIJs8S1iNdGhFQRPR4QhVbQxtA",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1856,
+    "vicinity": "65 University Avenue East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.48458129999999,
+        "lng": -80.5408135
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.48594863029149,
+          "lng": -80.53942186970848
+        },
+        "southwest": {
+          "lat": 43.48325066970849,
+          "lng": -80.5421198302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "The Cactus Mexican Restaurant",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115354273340673700841\">Amy</a>"
+        ],
+        "photo_reference": "AeeoHcJlNkWI2D2Oc17ROObPrOXAih84bODNi9w7cwqBmtDUpcRSu0vMWf_6hiGXHj17R8Ia2NqfbFjuFJcqJnSF_oEHY2BmyUkltg6IgPbEoH47WeubLEe2rqjNX5mx-rvdOyFG7LinvFtfRx61ZyRany0xGIKP8i4iNcsMp_nsy2I2y78MBg9sHyH-ODDmED4bR2CwWDIvo4Rfp0ZMZAKSZ0t6ObJ3OG3jpuTdBsGd_1Vo-wioQJcLmyn-ahXQKBvBZemyzA2IcC5Bjfl_CG1IArMWYMZ4ePB5ojDg-mx9-fFtq7IRllwp-8QJ7Qf3uC9j7sK2Reia0JXsnAfUxCQ22dtXAqt6FX17cv5IayPIuoo6Fku-j6djojIz4p9_RTfva6gxEqNy_qephnh3Hp6LQci1mV6IznAUXnRZuY5jAMfD7oFXkPs7q6pOrSqAS5ed__z13JK3r_amvGtweu83h4vj6JmyooMYonzRKO5QVXCKALrNApEAEfIkvS3PUMqe7x4vEdep9-GU4sBL5yoeQ9amvxVi-EW6a_2Ys1-AKn97yWeThmlND_TlnEulie2z6F4xEgcYuTYVWod_04ZydSPsfIo8dnZ67BxtZrUMcvPyRwqLyqISR4IZakwNYFdv",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJOd851_zzK4gRPKI3WeLPXGk",
+    "plus_code": {
+      "compound_code": "FFM5+RM Waterloo, ON, Canada",
+      "global_code": "86MXFFM5+RM"
+    },
+    "price_level": 2,
+    "rating": 4.4,
+    "reference": "ChIJOd851_zzK4gRPKI3WeLPXGk",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1076,
+    "vicinity": "465 Phillip Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44093830000001,
+        "lng": -80.5057545
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44220953029151,
+          "lng": -80.5044282197085
+        },
+        "southwest": {
+          "lat": 43.43951156970851,
+          "lng": -80.50712618029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Domino's Pizza",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107939440972120158016\">sandeep maddukuri</a>"
+        ],
+        "photo_reference": "AeeoHcK6Mko2gyqIRHS3SyXji4icigDrW8-pvcUD7ppogV_BH3fkwQrjj9hz_J4r97vCat3u7GkLXBuxiF4XQeIMvj43vfTLhcF3fDu8mqiNasjQmYW97oTTZrKl3VJRJa6asK_fLPA2tiUSXpBXEvcEl9Xd55DSz3oaPFcBeEQa3KAeoBFV96HWYY1ZRMXHBM2ojYiQyfTNdHhysewzxDRLqkzh5S1C22tXUNY0bR7_kkjd8EJsPxQUVLTsWdd1El_34jd4h_wHSuqQAx13uDZnZrYJoqqF4jZdVBwZ5quMjWRB2pmdA5DuqYQU1TzUqsn_6saaKl7RTTZTM5zVpMZ4uyftC6ma0TYm3KjZ1Rujq35eAJM90MHurh8xoUmhSo2143bfTJEjVWovvUaRRusDby7Bm0R4NdDhT4HppqMx-rC88vLhhb_JqbDfGpmucna2P_GA4N3IYXipspcMbu76ENtANJ9U3EAaZ13vx1-YlNJQakWfVpaJT_eKLgK4mw1mngGOomcVB-8WFcENcWSppg1LGYtbfTynkh0WmwfTYSGX0IffDpDS-2iCvFrUnxc9sLDqUo9TN2e0BF2oveBqxV3XOXdlhbm_lPV4ZI5D15ASFmN_90tGbeaR_7HngD5WjafUwvqZ",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJWTKxNlH0K4gR0BD8zg3JM5s",
+    "plus_code": {
+      "compound_code": "CFRV+9M Kitchener, ON, Canada",
+      "global_code": "86MXCFRV+9M"
+    },
+    "price_level": 1,
+    "rating": 4.2,
+    "reference": "ChIJWTKxNlH0K4gR0BD8zg3JM5s",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 957,
+    "vicinity": "188 Highland Road West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5035979,
+        "lng": -80.53117999999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5049004802915,
+          "lng": -80.52970276970849
+        },
+        "southwest": {
+          "lat": 43.5022025197085,
+          "lng": -80.5324007302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Chopped Leaf",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111269372699792500916\">J</a>"
+        ],
+        "photo_reference": "AeeoHcJENCnTawQtZ978HqatcY0syuomS8ZBYShb45qdUZzLgf0tbG34cuI7xY7XARzT_Q6QmamQp6w_oLj9A_RubMZpoWvaamwemVE8-zIJLpGAQNniESl_rI0wrdBF2cpR_wkQVWfFkpNtNq3w3uiFe-K5H_Zun-c9HtGlDGV9pnEmqafHNeYZMUlqfM1fdeus92gqUvFsFecPr-m8ju_hKhq0TM8OCnvAOrNMoD2fatW2fXJJ85xvGVeUfI5efjZqz6Wq1XppxVx8N2EO0160Ice3CK5aDowBa9FMzdw1CNSYu0LbfYuFL_AWg0UjfEe-iF-PKuoKlKhSpdqWi6CpSTvAcT5WOTRPJRBSAP757I5LHxtsflAFj7ooBjzlQqdRxd1VRE5BMHdEPxJ5h-s5T6O8KU4PIgeZJtEwAoGlYLgglNeKeANBQl074Uhyw6D1zHOVQpGMIdwRXxjTf3-Ypy8lQkNVPfaK2uQLIWgDwGU5-k688lmDb_l7P7gNz-ZEl1A2QQCLg4dgGOuBsH-NrBix6tZOMQk5tqd3br0ZCFlnvjaGTZ_L-KNA-GrLeRLRS5qNv1b_t2FKdOioNWcOFbM6s-4goy2gxdU2M1hJTwUbF2pMWGf9NH1jNaVYFFq4EnTIlW75",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJG_0Ki8_zK4gRylI97ZfCEmc",
+    "plus_code": {
+      "compound_code": "GF39+CG Waterloo, ON, Canada",
+      "global_code": "86MXGF39+CG"
+    },
+    "price_level": 2,
+    "rating": 4.2,
+    "reference": "ChIJG_0Ki8_zK4gRylI97ZfCEmc",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 373,
+    "vicinity": "36 Northfield Drive East #10, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.43547179999999,
+        "lng": -80.56090160000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4367702802915,
+          "lng": -80.5596399697085
+        },
+        "southwest": {
+          "lat": 43.4340723197085,
+          "lng": -80.56233793029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Little Caesars Pizza",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101038344528051208666\">Jeff Mulder</a>"
+        ],
+        "photo_reference": "AeeoHcIv_Y-lk_cexSrFU6d97K2PyEPaCq5GXqZe-bu4Kc61_PA6qcbvzkKPPPbNKaySLK7SITgSsw_PgdMrZsGHY8zjaHCeuMrIbZI93-eJvlPmkmlxLb1kWxxamik6_3xXalZCx1nKwiVRtHrwyXYxLGjLjRLb7sSd5pS2wgrDTGWyfk_c_8TwYLC4ExHB-4dQe5_6e3UxYP3bxRvGGH_5NZJ3Z1R4P784b4Z7798SbCA22NnsdQIDcoimy01EDKDTFa9b3cXm1nw0qZ0i7CKrHLJYXK1CDKDj-n8EaIjqvSJVYMdPMByDLEQzsBCYHOxoYR18myo7QZvvE8fx8zkf3WQ2YR4sl2FpY-svYNaPrk-xyXdq9E3IlGxkQPoj701woTCziWuLKKbY5sp7unRVBbjXxxl-lHA5waKMIx9DxzIQuqEtCe-l_UZNX-rhSIY3GyWPtGdSPm2WWZyjy4p5AkSlEGR_mTeKgiDtWs-l2uskF-W966tKcM75yRfBuz-To7IMiV4qFeWL4jicnJKbMbX2PQRNhfj3L8XAIBqjbc6Zx4acUO5TWUqK53lfGzMfUyp7wOvq9tCngfEZShGm6JeovaJVGzk6jlq0L7vWddrWpa3rCNfLG40ZjAg6p19z3xQ6dg",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJrytsZ2H2K4gRn8L0Bxmfm_0",
+    "plus_code": {
+      "compound_code": "CCPQ+5J Kitchener, ON, Canada",
+      "global_code": "86MXCCPQ+5J"
+    },
+    "price_level": 1,
+    "rating": 3.7,
+    "reference": "ChIJrytsZ2H2K4gRn8L0Bxmfm_0",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 170,
+    "vicinity": "2 The Boardwalk, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4461988,
+        "lng": -80.5748334
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44757648029151,
+          "lng": -80.57333846970849
+        },
+        "southwest": {
+          "lat": 43.44487851970851,
+          "lng": -80.57603643029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Panago Pizza",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105612268752145423343\">Vishal Shah</a>"
+        ],
+        "photo_reference": "AeeoHcLSqh7C4mCYExykCiK2EcZlbNZIoZLk7i46PDW4RBufOpuKXCV3clJs3l_d-mEaWTKcBK3CNdmIkTGscX27EFTF2DF7RXdAtCoB9quawtXO61F5DXso2MWDoaIVsWdasoGArFdmZvXGjaMio9ERYT2Y3iNixPBEIsXv0S2QEkM2EA3naFMNkSE_IOmobHJ4D-3MHFaXkL0cIgFqu16UAPg8ANPXNYxnXSLAMtT0JAJdwz2PVt6n1p0QaQ_E20y3FJf3cf62Gan3X37clVWo-lKOWbfjOn5DzqnSG14k7TSEa0BEyCpehc5ghfMS5Q2WsYdLg9mJKhlccC0yPxveqlWEb3y4EtayIVRRB7yt4U4prQQ0gAWDX8ZegIQYyF3quDjbl-8DPMFT5f_KmMirAh1KKEHylavf3cPwzD3LZygkZtaaTGN8pgWcPByVrM0KpAa9JDqGKPrtCp8498SeWAkoNbbdn2JoE-2qYiqqP1qpBj0k8WWSjKBBpLtYOIUoyP2ICyGDZikZ_CViW0FTdwm5kq2sp1pUFsqKsxhhEs7NUTnihjFy-41w6cREQRuMwu43eUsfHtlqSDw-YRp22xxDFu6LNRCuQI4ELaB7HoWBbZPpPwsc73sxXoIG2-CDEkSNnD7g",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJGUww5PD2K4gR3GyEGT1-_K4",
+    "plus_code": {
+      "compound_code": "CCWG+F3 Waterloo, ON, Canada",
+      "global_code": "86MXCCWG+F3"
+    },
+    "price_level": 2,
+    "rating": 4.1,
+    "reference": "ChIJGUww5PD2K4gR3GyEGT1-_K4",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 171,
+    "vicinity": "668 Erb Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4243176,
+        "lng": -80.438563
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4255768302915,
+          "lng": -80.4367087697085
+        },
+        "southwest": {
+          "lat": 43.4228788697085,
+          "lng": -80.43940673029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "KFC",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 531,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117567935844706534264\">KFC</a>"
+        ],
+        "photo_reference": "AeeoHcIYFVokB2d2VNnJiXfKH8Kib8zme5xOyRDrND5x2Z_ph8_NOuLjJFiedjTvNs8PUVCeYHcNEOQ9qNIqfOnmxYinvCX-Mwc3klInW-HN7zpi7KmObew4PBetRyiD1mKeOf3wYfyCqlIiTTBKTlzUGflg9M0HoK2SC9dDN0_RB_VhNlqSN-83coq8sotl3LcT4hZIwjbcVR4CkZw_YwBmpTWdID09NJr0MshiwVHMd27EJY-hr84rNiX6_YOacppql66ziAkKn7wWPQq9obreOc4jQA0ZAMMEa0JUkWHIPX5R2OYCLercrHCgW04q1sG3V2mXtjYRD7s",
+        "width": 944
+      }
+    ],
+    "place_id": "ChIJq6qqWtmKK4gRNu8nQTK_dRo",
+    "plus_code": {
+      "compound_code": "CHF6+PH Kitchener, ON, Canada",
+      "global_code": "86MXCHF6+PH"
+    },
+    "price_level": 1,
+    "rating": 2.6,
+    "reference": "ChIJq6qqWtmKK4gRNu8nQTK_dRo",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 139,
+    "vicinity": "2960 Kingsway Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4071901,
+        "lng": -80.5002241
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4085479302915,
+          "lng": -80.4989756197085
+        },
+        "southwest": {
+          "lat": 43.40584996970851,
+          "lng": -80.50167358029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "City Pizza",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109338729318599261685\">Deniie Patel</a>"
+        ],
+        "photo_reference": "AeeoHcJzHZER85R9RuGlwphm9PazrvQdIOxN8gCszvGa6OfCWkoOGrppUzPCGxy3OA1lyaRaVtdXBdL9Sgv-PnIQElXXZY76pN9L_gusb_iTpsVAi0sHpKAagMhhWPTKCcmSqyISsg1Naq51tvfWDGQd6evPyrPaJ7kvcdNtHJjSwlhGJtNb6fRAID7RJyLTnSrpScR4QbjgZL6TIpB3rYlsbU3gBbpxBKWrLW6JJdSlxeOEVhNDeoPxEgwz3-5arG_H_tGYF-HNLtmIazdQ6p6VPq205L2Yb_SnaL1iiEMgFx3S9c8R_XCM08yHHmqNbnSaqQ4fRwAbpFbqUBTxjoZf7yUrjtVstHbkv6G2e2zGhYVbux9rF0FA0sSvPG8txMoLFdHqQWW4LZMbLbt-pomnIRzrTJozOni1dmWR0uqXbPGBDw249o4bKio2Yx--kGo7MoQTxpN-caoMOFJ05jfRWyqatjQ8O1X5CLH2I0ffMCukfwbCMRKrdUx0m06gsKUFNHacjf2NjImlhMi8qq9X0TTDvS6akrGKwXnWz1cBcm0NID_LG0SB_geUWm-6QcuJXvduZlUUyCzlpp5Q6cuIsZYasm9liWBXPscoBcKf0SMbA7qt4Eu8MgqxBQ3-zC6UOudDsQ7l",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJs-ncCsn1K4gRa4oRdrexCMM",
+    "plus_code": {
+      "compound_code": "CF4X+VW Kitchener, ON, Canada",
+      "global_code": "86MXCF4X+VW"
+    },
+    "price_level": 1,
+    "rating": 4,
+    "reference": "ChIJs-ncCsn1K4gRa4oRdrexCMM",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 652,
+    "vicinity": "1170 Fischer-Hallman Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4137081,
+        "lng": -80.47206419999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.41509183029149,
+          "lng": -80.4706872197085
+        },
+        "southwest": {
+          "lat": 43.4123938697085,
+          "lng": -80.4733851802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Tito's Pizza",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110658598445851277278\">Tito&#39;s Pizza</a>"
+        ],
+        "photo_reference": "AeeoHcKTX5Ax4wa3uhPQIztJqSLPCjQYNr9-Rzo7SMBJ5BP-PVHOLWgomGNFI68wFlnLY9Zw9RB0KfLE0MoIvwrScBdxETgH5Kw65AHadsczaD-Oxl_qNBkH2gXkaJABEj9SW2DmxnIdSDZXGScUvFJ3UJXF1izDvpHkdXmSnD_-nNIrxCgYjHIrOUAQhk61YFZUp4mvIKNxgGOVVEjnbm2_lE_RXULrsF46a3497Z7PiMHF3Tv5jgH42KFmul1K_5AYVBvUFuCEAEx31r0AN1E-Gq6XJW1pXYkrnCkTMdkN4ECLL7cbwvN71sNAyojbiq3lHLdAoh-OYeo",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJA8EQPj_1K4gR2AquLrI4EyM",
+    "plus_code": {
+      "compound_code": "CG7H+F5 Kitchener, ON, Canada",
+      "global_code": "86MXCG7H+F5"
+    },
+    "price_level": 1,
+    "rating": 4.1,
+    "reference": "ChIJA8EQPj_1K4gR2AquLrI4EyM",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 237,
+    "vicinity": "153 Country Hill Drive #6b, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.43301009999999,
+        "lng": -80.4452312
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4344639802915,
+          "lng": -80.4438186697085
+        },
+        "southwest": {
+          "lat": 43.4317660197085,
+          "lng": -80.44651663029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Domino's Pizza",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101142469701474304061\">Anish Babu Bharatha</a>"
+        ],
+        "photo_reference": "AeeoHcIzRTgNLT3jO7HsTkL2ClKs2NFFY1IqXW_d1RRhBouGbwa_n4-cDe0LvhAxkDoeOEgwg_7L-x3VZcLFhzFzwNh0DA6WKFO7_8_mOBnol0MWg2iXjp5bVR5Lt82CXME5YjQCBzMYejVqCdfNgLfwB_CDHuxBWrz25gwPdFVLZRDeGguidOs3jXBkkUM--s1kgoy-KjI3kHJoxhAxesSyIDf1hDcSS9wfv3WtF5ATNVlBbepQHZeeUjWEZLx5ZriEiJylQ-pnyi0rh5Fqp2kC9_6qVtjlNz11drZ_5oFj0Lc2oLQyFXWF3M25OHTcrUkA-c4r-PckjQz7zAcniER3D64Yr3ZJaLNvgcMIjxIakAp8yuSOwYFWRuTaq3PusSOE85-Kw34tN2KtMulHuFHi4wsHoJhotJFH2SRuwV51P4BGri0nU8JQLVJthqdjbXBJqv_SC5VwOg8BHEOU3XcWda2bDA9f0DvTH_-Uyq2rX6M3WLtZkm0bgIz73V9wvqdRM88AlvTYgdEFXBQm9OMyy1TVmfbmjhKkFzCNY9frMx4JbvA8vYWwLKxzWdRNV6vqoum85YFrbGQmFGMkPxBCNFsRmwutuRgg9exKUq6ClsCMjuzRMqhPS1AuwKPGEWAmNPWV0Q",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJN5cjuCiLK4gRTIRwKFT6oh0",
+    "plus_code": {
+      "compound_code": "CHM3+6W Kitchener, ON, Canada",
+      "global_code": "86MXCHM3+6W"
+    },
+    "price_level": 1,
+    "rating": 4.1,
+    "reference": "ChIJN5cjuCiLK4gRTIRwKFT6oh0",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 573,
+    "vicinity": "1241 Weber Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.40276499999999,
+        "lng": -80.4975372
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.40413918029149,
+          "lng": -80.49605891970849
+        },
+        "southwest": {
+          "lat": 43.40144121970849,
+          "lng": -80.49875688029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Verona Pizza & Grill - Kitchener",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112586899874612942339\">Verona Pizza &amp; Grill - Kitchener</a>"
+        ],
+        "photo_reference": "AeeoHcKjAB_EzKLS5JP7DRDbs72c9bWQ3SeawIdK879OxQ_1q50Pyc7NmS3Kf_O3_19DfpUKQTklz21SyNt7lJUjtbEpzsGokSh-CmzCydNF5To7qh_ky_zYDX5naNFD1-6gM348_Xi7GprGEdUHfmMUm373l2ralXpgydYXe8FP17kSp-zjpIj1C-ESealnXv1PWPjt8AcN6UW0ULwyZI7H8GVg0lcVWZb4IQ6sLQj4T2vVwlpLhqy1rVY5UFToY6rkbZ2etiaFVLt0qH_oQPk0soKZ7cBvpUD5VkcaTRjsUa1qCK2MKtZHmV_0zzAqlSKCYxgQTVUoY4k",
+        "width": 1081
+      }
+    ],
+    "place_id": "ChIJHR_7R3j1K4gRCVYUkNjFY1Q",
+    "plus_code": {
+      "compound_code": "CG32+4X Kitchener, ON, Canada",
+      "global_code": "86MXCG32+4X"
+    },
+    "rating": 4.4,
+    "reference": "ChIJHR_7R3j1K4gRCVYUkNjFY1Q",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 537,
+    "vicinity": "1193 Fischer-Hallman Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4386971,
+        "lng": -80.5101951
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4400584802915,
+          "lng": -80.5087857697085
+        },
+        "southwest": {
+          "lat": 43.4373605197085,
+          "lng": -80.5114837302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Topper's Pizza - Kitchener",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2098,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101038344528051208666\">Jeff Mulder</a>"
+        ],
+        "photo_reference": "AeeoHcKSr5ZVxvpsQcqX6HePGOsuXudh7fNMNuDeKOteujsxMOe5jQG038tEK1_m0TGkf6cyfxatfZHkh2qXpvkFo_rSrk1VzsSWZS6ks20Zm-MbnrxQTWYFtgnxO5HapXGzbNzzGH7_3nswCWOC7VwmiZQdReY_SDZapjS2csvPPkdzUMqtYzQNHaIYHLdnxBl1ByETJeiix3kYT7vEzKvMaQhZDaMys4S5iHC3Ri45nUtrjjDsO2u_wr6PQR-gCL7UzULXO1cURTyYDCzybSwOexl1iznsveL0Y3lZSyrWTpAasrbgI53u8pSoJfh5vZ3yBufxt_Mz-EvjlSK-d4ohpEXEkGs_Mgz7El8GCm_gawHLpYPXA9dWl0k0IyYHxGrvJtH7mcw5J-ri63hAu8ekmOu96hhBjL_a13mMzpMe0bbUV8FrhR6itsD2_BXjVU9TjuMWNPTPDcE1Og6JO9HXYv9-18DzO_DAkhJv-GjCDKD0EcJJhCQIj7pkwTWd3irxo0yqskkQu39XzdpMRtQenJlxVofeXLG30li_mf-NelUmsqE92ORkLKlBl_fIb983X_ZVdEcoiFnQb1o2xcqkE8vvviumjnT8lUnrz_KwjUaEGQv1u0T57eE65kzGFr1XjZQYqA",
+        "width": 2020
+      }
+    ],
+    "place_id": "ChIJn1t4I1L0K4gR_XueolZ8cNs",
+    "plus_code": {
+      "compound_code": "CFQQ+FW Kitchener, ON, Canada",
+      "global_code": "86MXCFQQ+FW"
+    },
+    "price_level": 2,
+    "rating": 3.9,
+    "reference": "ChIJn1t4I1L0K4gR_XueolZ8cNs",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 213,
+    "vicinity": "324 Highland Road West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.40547029999999,
+        "lng": -80.4980288
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.40674868029149,
+          "lng": -80.4967975197085
+        },
+        "southwest": {
+          "lat": 43.40405071970849,
+          "lng": -80.49949548029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Domino's Pizza",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111299794343192249873\">Paul Bisanti</a>"
+        ],
+        "photo_reference": "AeeoHcLGXXU96A55OFp3v2unL5sd2sHQJcRfo9ZKmsr-fmpgKGPAWLWSQ6a1WI7Z1ifORCfQUbyd-EOLlTfbZHdFi2hOZIfM5CiAbWD45xGwxH8LEoVpbVUGr1m823TqsEtsBEo966w2sd82XLSGOzwu6I0yS2UCwNBm7IieOoX0GZ5w3EEz9Raaa0kG1WnizCswb3xkLFzMDg2rMuJWcSqQJ7u8w3wFmGr8FU9QKKKgs28yY2snO-KO9lGlJQrHEqz2YGKNkipclHiMFE_4a1hssN6ppSQpcz-z6Rp0FwS5fCRfyfDkOGnLZ6RpankKTXCFJ0yxMFxSvdvjDujRoD0JFN8rkpYiu3SVHeuxdQGFXlSiuiY4GPmYvLK2qwPdD3Siz3kegZjAQc9Eh_IqIsBkYYo6fyUbOUyH4zpFIM7lqVVbwTvONhPxnQIj4xwHnFF8tCWI2ABDxZpcFjiNQzR7LkquiB2yil2ot-P59l7lDuyLQ3rlcS8PtuyoiD-BwyiuF7Jnx_g_nQTdlcXXHAVqpitgaVUKNDwinI03WhSH7vakqsqK5t023pOfRlS6Lj_Gd2VAxJBXLo4RovPWvx4yb3z5wZDS_yKUDjrpRKG27FU6BvxsvPQ0bDiqrq34bDxy",
+        "width": 3840
+      }
+    ],
+    "place_id": "ChIJgVFc0IL1K4gRFZoU43cv0bo",
+    "plus_code": {
+      "compound_code": "CG42+5Q Kitchener, ON, Canada",
+      "global_code": "86MXCG42+5Q"
+    },
+    "price_level": 1,
+    "rating": 4.2,
+    "reference": "ChIJgVFc0IL1K4gRFZoU43cv0bo",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 817,
+    "vicinity": "1188 Fischer-Hallman Road Unit 205, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.429735,
+        "lng": -80.52513499999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4310464302915,
+          "lng": -80.52385221970849
+        },
+        "southwest": {
+          "lat": 43.4283484697085,
+          "lng": -80.5265501802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Pizza Pizza",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113390525963925957127\">Amir Joekar</a>"
+        ],
+        "photo_reference": "AeeoHcIoecnkvV6UWf9OmTqu62YX_xCzH98YaXIQSpDWwXohtxkzHgIiFHrsPO0H8DExZMRPfDrrFoz3FWyjeAYoGWQq6_ii1MowDrm5gAquW3hZXzGTdAVwSQUDFKQQgQNm4hOCuVnq6NwCpVqAptBcmCgn8o3vuW0qVgdT-kzhjd19-wPDJjBTYSIKYuIC4jWPGFgHWgrQxBkB8DCDKuVzV0kB24Ht60LS4oQWoJrjsVQ8pIpoXhNWFP2ISqr4V7OgngclnOYEULlRsjChazEY3gTDFQo0SmUoXOeMiMaltN0W9KkJOy2R2L2OnkrkwLlaoZxTN-qxrpK7OyXVzzfkw0KbwWUgYQvVXFqDbB0aFfeQ_A25KvpB_qf3InIEGXOS-PBb3Sm6JBxWz1OP75_WEMBg3yXwi5cxCqFRv3v5CsRU7cvbBfSPIuG_hfzDeTclx_jLITC3q8WKCW67f279806JjO706v4kN08dbVr9G1doCwUG-DUFpJWW80s-kNJG1wYo863Z78xjKEjnCnHEcQPJUB232Z7-36FF9cvpIyOXMNrR1eBCl0B4rPih3qDh56CQuHcxXjhk9x9JS7puhp_6uSHFF2WXNQb2QrU5S5Nd4oxRM1SEdSK-w9RSDACC",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJk1sgMsn1K4gRgeraCZZ08NU",
+    "plus_code": {
+      "compound_code": "CFHF+VW Kitchener, ON, Canada",
+      "global_code": "86MXCFHF+VW"
+    },
+    "price_level": 1,
+    "rating": 3.3,
+    "reference": "ChIJk1sgMsn1K4gRgeraCZZ08NU",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 563,
+    "vicinity": "875 Highland Road West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.49554000000001,
+        "lng": -80.50144
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4968266802915,
+          "lng": -80.49994536970851
+        },
+        "southwest": {
+          "lat": 43.4941287197085,
+          "lng": -80.50264333029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Little Caesars Pizza",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110522184760050907152\">Little Caesars Pizza</a>"
+        ],
+        "photo_reference": "AeeoHcJOfsSaZCmNTf5Pk5-ctJWHrTXzbvhD-5y62ka6e0BjTvQtgKAO6LQdM_UsBXeKeTQAnHPbyxSYmq4_VP2C9JNNxdzy7IhtNU8noyLKL1V1yxotzPrCyYLVWPe-MZk2OiWpOvAO7jDja8D0MAPiwEbQrQNFw-FAVXhTh-K-R7ubzQ3jfFkYMbOiBVXEb3u-7zjeht18nFAitm6Uvwv8d3czt-nP3DkOiOESCqfCVJ5jOwmrOn6hHAWw8WUZ58L-1fQpFl1y5JKLZRNeBLwnojVItz9_Qnlq82U-5hTu8UxVcws6MIM5aE3ysCa3Gz_9-AKReMzlFGc",
+        "width": 720
+      }
+    ],
+    "place_id": "ChIJd7-rzqDzK4gRRUg6mot0i28",
+    "plus_code": {
+      "compound_code": "FFWX+6C Waterloo, ON, Canada",
+      "global_code": "86MXFFWX+6C"
+    },
+    "price_level": 1,
+    "rating": 4,
+    "reference": "ChIJd7-rzqDzK4gRRUg6mot0i28",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 201,
+    "vicinity": "373 Bridge Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.453371,
+        "lng": -80.555824
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4545552302915,
+          "lng": -80.5543816197085
+        },
+        "southwest": {
+          "lat": 43.4518572697085,
+          "lng": -80.5570795802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Pizza Pizza",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3264,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113135998239694342561\">William Pitcher</a>"
+        ],
+        "photo_reference": "AeeoHcLWXjrWz3nQVBqDlD5NuQLhN6afeElGZwivvMB3YqcZwFwOn3wJ6ujp4BwwxYivTryI19s-sa_L25t7rv4wcxXkjLR_FdQxoE6JPqCjPBXv5F2b3SyR-7yBIUURr91zEWdwku9WnvrqsIXXEsfrZ3AgPZsECE0GTUNfzbU2kREJilsCObkL6F2Ac-IMYBCYuJNJtEgWNJlSDxDMbkrILAWzKhA6WcXa3mZ3b6EgVbCbumU4geDy8i27CCSggbatDbvKzUr67wWteYQbPVYsvXW6a8cDoQnMqtXj0PHXu3ASr9QeU0fD7AP0-xNu4Ftn9MPqLq_UWZHsrnAGmJa4FCSQ6rH_oW-cmlruEdVIKW_lYl1rzo0TWaB57GhwzCURbd_N9shcltGFVyZGxUTwyEbgcnMefk-JUwA7DrVyxhVqmGh3EcctTxdZVpXxvIXMIirssCgIIyEO64EmmJKGo_THxbRU9_RQLAgtj14sUuRc_ja2o83LseiutUewE2oXY3EBCzEUf5L5rcfuSYuBirE-9nfNBbqzkqeZ181nNhfPs2utV6kY4hTxhUMZpPMy_bB9dtEmPOsT6Xqtal72PeH7VrRm3Opeovf92TFDFQxduIIzjcmYbcIK1lI4IUTbDXK8g6qh",
+        "width": 4912
+      }
+    ],
+    "place_id": "ChIJpy9zHJr2K4gR8YxjcYw5tJY",
+    "plus_code": {
+      "compound_code": "FC3V+8M Waterloo, ON, Canada",
+      "global_code": "86MXFC3V+8M"
+    },
+    "price_level": 1,
+    "rating": 3.2,
+    "reference": "ChIJpy9zHJr2K4gR8YxjcYw5tJY",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 411,
+    "vicinity": "450 Erb Street West Unit 4, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4887212,
+        "lng": -80.49207129999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.49009938029151,
+          "lng": -80.4907891197085
+        },
+        "southwest": {
+          "lat": 43.48740141970851,
+          "lng": -80.4934870802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "New Orleans Pizza",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111524588635015704513\">Marian Micks</a>"
+        ],
+        "photo_reference": "AeeoHcLmbcjYlltx77sXmvrh0C86GvE-FnSGacXLMEb1CJqkT9eTpLiEKvzRM8Q_EZKQCXKrpqefXMgZTsRbxiANJOEFwb6KfATlb5_nOZLxrbbgLYO1hysRRbWN2wjMs3sc3nkI5PLrSzUqi7npgWq9D-XhJMQdDOsjt0dJUzxTqYcaVPK8Z0XJcrGKz21o55yqtE36mU7osYwh7vC9bIyojDFtwy4kGB9QcOQHCDFCPDulaB6m2ZoglpNkMlFAVHewQykWCjUR3Foc7NVOJ1Bpl4hOIJyuiYuPZ4HakoM7NyTGNcVWCSpojnkjmHKZ6UG8KyBee-_iGI003ReekOaSlC1cpwnzsSZP1CDj5AswFia3LQutpVFB0uK-ggp6jP3cNoF8YL9C9F474jaDBme0WwHxtrNLnI1ztzIPbPpGejErhnEspAnST51eJKCupfPIzRe-BW__358TuX_TMS3UGZ-WlXulxa5XGgE9cswRAcmycTyzxbtAmhR-WynSDazYdN1VL3Mj38o_fy8FNA4vmJRXdY3pPye97u8XOYi4Gu745qkx_1QDWQP57l35pTFGJLLQqIYOgAF0jC0yEo6Lx0pdepkfgngAhleY3L-6LtaK2sDe-P3YcMYbhq7qlqjgWx5TmQ",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJYxAXYHPzK4gRywPCUYlrQvE",
+    "plus_code": {
+      "compound_code": "FGQ5+F5 Waterloo, ON, Canada",
+      "global_code": "86MXFGQ5+F5"
+    },
+    "price_level": 1,
+    "rating": 3.7,
+    "reference": "ChIJYxAXYHPzK4gRywPCUYlrQvE",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 82,
+    "vicinity": "425 University Avenue East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4522316,
+        "lng": -80.444167
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4535059802915,
+          "lng": -80.44277066970851
+        },
+        "southwest": {
+          "lat": 43.4508080197085,
+          "lng": -80.44546863029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Pizza Pizza",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112482415753734225075\">Chung Hsien Lee (Jason)</a>"
+        ],
+        "photo_reference": "AeeoHcKjumgGXAgkOxgkeW4NYvAw-yH1jpp_rHftBzz5cxpevfy3xnZcxaNUXmUmnySPCZhITG0yUnE9kdv9A83ZkIjRnPm49p25ocP-tvlHM9hgF9KsooI9bw3HGL6ERpG3gdNF1LxIxnKfgZ6xCggGVSYXkazs5jGfiwnat8kUvQ7w9bd5Ns8d-Ja7unLRRh2-_q9kwij-JGutgMzal_fRZLu9FMO14nQn0IZN4FyvgeHLti0sq7ZT0wmUu_KoRwYRQCk-Bzu72oztHFjLjx4NU6y5qJcuIgOStegrE4f1LjJknIxtHy78impaBYfCHziDmd0V-LzlDvQM9TzV4-ZCVbf4DrFKWbtvLlCor-SafyT96iYjM8PRp8lwc7qua7WmQHBYQF9yfX0A7sA2H3VsemQQ70QLzn1qwbirfipxIB5RNXBqzpFuU4C7xmQ3tTSNLxlOn611gMTmp5efY10nHZKhhlC4aC5a0VHUDE-8q3FI62VvQrXeWYDQzWE1H7ICfhcAaLgBRRqL1zq9vLHyGBOwY24_LMS2xULIkg2KQPzpd-7OInGGuAT8ySmmUYQaS2-u3QDobaZ3UdGGoR2aTvDg7KkwF3VHkpy-kmjWn2I1f6duYi4c4w5ikHvKJTj6",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJvTrsZkaLK4gR5dxl8Qbofnk",
+    "plus_code": {
+      "compound_code": "FH24+V8 Kitchener, ON, Canada",
+      "global_code": "86MXFH24+V8"
+    },
+    "price_level": 1,
+    "rating": 3.9,
+    "reference": "ChIJvTrsZkaLK4gR5dxl8Qbofnk",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 671,
+    "vicinity": "1020 Ottawa Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.472379,
+        "lng": -80.536169
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4736541302915,
+          "lng": -80.5346247697085
+        },
+        "southwest": {
+          "lat": 43.4709561697085,
+          "lng": -80.5373227302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Pizza Nova",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 12000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101887962974395981906\">William Nielsen</a>"
+        ],
+        "photo_reference": "AeeoHcIlvJlGxuGrZmHqlTMv_tUCdorkknU8h5nW76SXVdcWhPrW_ZueRgUU3ASa6PmYaWzrFqKGJYqED71LJZ8IOMXiS8Cl-5DQsleZIyibyLdjka3XAvJhKOOhU4AtxjXPuAC9yX1djX5-NpZ03l0jfZOKIrM_krexBd6ZAXKR9pjw73p8wY3oX44zqSiHZad4kQwv5Sk5VGZkc3BNjX-g3vZiiXhAQ7lywaNtxlL7bZ2p3l2eg1rioJAOnX8qK-8PaGfRPdxCjUdfNbFOWDWpOaAViyRo4tjGOTFCgv3C3RyLT8aElt3ol1uxCzokrfQ6cQzB8QreoRgzLUOPGX17vw8nZGbkpEQHUdwRSnCZlJ22hKiGgo_OhGRbcFboJrVMxYYOQSJ5YOeESoi38mhvXEzbYYxtEDfEwXmxrlZMk7d0kkAJFJz8dh-c0_spkYAFtMPRjZs_R-8oZrjhyNRpQeiZvWmb_fWFC8nnXBdf6yiobfj6cME3y-5JBe5ayJprP6HS7clvmhXYsGMQM4NnzndtRkt2udyfp8lF8oc_jpx_Dxr1UEAIod6nH6Ix4KnhQx8rN2rAbSXwv14BXwNIRjQKFpcU4fQOwJa9431McVyROmlpqiUOdnZUQW845nG8qd3JIMS-",
+        "width": 9000
+      }
+    ],
+    "place_id": "ChIJSR96Vgb0K4gR5GummEduGsM",
+    "plus_code": {
+      "compound_code": "FFC7+XG Waterloo, ON, Canada",
+      "global_code": "86MXFFC7+XG"
+    },
+    "price_level": 1,
+    "rating": 4.2,
+    "reference": "ChIJSR96Vgb0K4gR5GummEduGsM",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 421,
+    "vicinity": "150 University Avenue West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.433027,
+        "lng": -80.4483855
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4344724802915,
+          "lng": -80.44702556970849
+        },
+        "southwest": {
+          "lat": 43.4317745197085,
+          "lng": -80.4497235302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "WingsUp! Kitchener - Kingsway",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117489222906128026322\">Logan Jones</a>"
+        ],
+        "photo_reference": "AeeoHcKqyoNbLoI_9vNiLzCI1xtYMgUKzGVa9DNsbiOHM0fYHW81IsNggEsCMcqbr6zUmSlKSfqpkJ4OsItN9E0V8Q8dj2S7lhvDj9Q8oqNE-ccrvaTqC974-lCv015S4GPy-HirdnyET2pFJMpTPXY8EnJD-Jwb0fwSHAdbj8C5MDpFRddH0cwANEcfqJ496vPXCTPPFCe3OuM70WkFdArZMS-E9Pi6aZuCizTmJvUwwaivEgekvwf9TNKfhS7OE8p-FboTHPz9ysGzP-sosPUKihi7P4TxuJviHBl_sAhfbuzFlEaT67sghEolDSqHfdS3hImbltNNMibsoh_4GMOfZV7dxzay_Z1HbHIOUkaIhFAWTcu40jfS9ipG_ybGTFs246kA0Z-rq-3mxVgQK80La9dxbse0YoFIAuww9sQfO6VTlGSBWk-QPie2CFe9mFU8HwE5PQoPH7wnSEtdPNbvI-NRDs-5ZPRcOcOrWUZgheYfMb0bjKreiPn63RRyhECi5rMzDq085CGDTdhSbP2nwk18_nLCEM-baPw6lQf4w3HJhifD-ivuAtXnMFuuboac9USY7uQxsCfnhPcgVLi-psoUOk2eVJ0Sp2fhNUHp3Ey4nNxHeS_Y2wMcroXozJ15RRflDA",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJfTnvaSmLK4gR6yYmpQ45CSE",
+    "plus_code": {
+      "compound_code": "CHM2+6J Kitchener, ON, Canada",
+      "global_code": "86MXCHM2+6J"
+    },
+    "price_level": 2,
+    "rating": 3.7,
+    "reference": "ChIJfTnvaSmLK4gR6yYmpQ45CSE",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 423,
+    "vicinity": "2399 Kingsway Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.484588,
+        "lng": -80.550664
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4858585802915,
+          "lng": -80.54936951970849
+        },
+        "southwest": {
+          "lat": 43.4831606197085,
+          "lng": -80.5520674802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Twin City Pizza",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 5312,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107873171205590160822\">Twin City Pizza</a>"
+        ],
+        "photo_reference": "AeeoHcJjpTxf4th1zHU5zJo6ArkccbQrDWQ3nPRNJQtDY8o4uPOB4Tnwy2y6cgPZ5PUTxqsmx240H7t1ktxv_7mv8N6PylqWS2a9GuRuSAUngWxMPeDUWS7eZs5I_SP_I-rwe-DBM0vi3VieGLOfSJ7gzP1U8aQCZYmd-u_pdkyCGTcs6aHY4c2NKsNviWrsDDJjL0TuRfKlZzOEM-NGnJQT2ghOF5w_4IFwybw5fCOAvqfmSxBxReEJD349RhoUvFRALCE9s2MSwYkfEdI1rqMOVUPlGOc82Avxu4P4WZrGZl6j7hcOkka5fET01iLyvTb_Lu0rf0EulBA",
+        "width": 2988
+      }
+    ],
+    "place_id": "ChIJ9YDj6VDxK4gR87UKmiLPwp0",
+    "plus_code": {
+      "compound_code": "FCMX+RP Waterloo, ON, Canada",
+      "global_code": "86MXFCMX+RP"
+    },
+    "price_level": 1,
+    "rating": 4.5,
+    "reference": "ChIJ9YDj6VDxK4gR87UKmiLPwp0",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 366,
+    "vicinity": "500 Glen Forrest Boulevard #1, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45595949999999,
+        "lng": -80.4911724
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45719348029149,
+          "lng": -80.4897523197085
+        },
+        "southwest": {
+          "lat": 43.45449551970849,
+          "lng": -80.49245028029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Metro Restaurant",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102780647979466163545\">Metro Restaurant</a>"
+        ],
+        "photo_reference": "AeeoHcLwnEnXbplEMiItkvokCJnf5X7Lox-pNjzm3ePCOgVn6hpZPlj0xANdM7_xLdTaydpbPRBgamqdmeRrzXgq5zhAlGbbGlJY4j8W7Ka-ZbdXUQS8pqL1FOgArd8UCjzgQUmRTcf4Vxlhte_GGDRISCICLX1dnF5Qd-f7N4DFU19kor-UiDy21cbWqabn7tOq-q4aJcQ1K-rrv7uwJyexSMizvPYHAimh7HT9UlH6YXg39ewp6ixiOEt5NOmJSCHWGfz7Vgi9QhgPaApgawDKHyO_LE1M9FQ_qCcJdTz2xLkuQr63kRJUwazKoRU2EkVLpvyDwsJiEF8",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ70_ASoz0K4gR59ClakRBJq0",
+    "plus_code": {
+      "compound_code": "FG45+9G Kitchener, ON, Canada",
+      "global_code": "86MXFG45+9G"
+    },
+    "price_level": 2,
+    "rating": 4.3,
+    "reference": "ChIJ70_ASoz0K4gR59ClakRBJq0",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 1161,
+    "vicinity": "164 &, 168 Victoria Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.48468159999999,
+        "lng": -80.54112150000002
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4860886302915,
+          "lng": -80.53964921970851
+        },
+        "southwest": {
+          "lat": 43.4833906697085,
+          "lng": -80.54234718029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Little Caesars Pizza",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3006,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114219900466566067812\">Sylvia Fox Bevan</a>"
+        ],
+        "photo_reference": "AeeoHcIrwL7XWRyiUTWvXV7daxXtBhsCc4IdvoGHQLRW7_gS5XHKub-_IfcuLg-Ru9TK4o8LhfU6GaDzwtKsP93DZexVlF5ffM4nJvTYc47TP1L4uFeU1-4vRDmb6Pqs4OmPcQ948jmrYSsXkZUTeW9LurqWkMr3mhodjc6ara2w4DgZRaojAooogZeWhr-v9Iu5P5wKrZDrx5CweOGsDf0RffOv0_U72O1sTCMlW4hLU1q0_xxrsdlc4dEkFG4Nm3cIjqlKCIgQgGFNpibnAYE2UywtUI7aP6S1aKiCIKIvkQsYExO5c-Leyybiwa38xHWND10Bc_cYQY9TVBy08r8Hfo9ejk8Jou24jvjUlf2YQfw9bRCiS90YADU-cMlGaAjB0-perjbdaVw87PPvus7iRqxYTE-RYjMBIui0OkczOvbLHlqZxfeyl3_Kdo7bBJ5moh0VhpNtL2466IYCFdBVrk8Lekw8mRcu--5xlL298t3jLSm7okIjt7iReS6NBCDhsDfF2e9GWq0CIJnjwFDbEUPThoQ1m6I7_iZ2TSW3GLsAvz8ivo3RdKEvo2sZH-Ni9XL5SghRVgBChzjNmxX8OgFimnWeTDhR4ANmlWMO_m-qHIVap4uhCYRkbo2XDzp4Uzh_Cw",
+        "width": 5344
+      }
+    ],
+    "place_id": "ChIJAU-_2fzzK4gRGUQWAzB-qCI",
+    "plus_code": {
+      "compound_code": "FFM5+VH Waterloo, ON, Canada",
+      "global_code": "86MXFFM5+VH"
+    },
+    "price_level": 1,
+    "rating": 4.2,
+    "reference": "ChIJAU-_2fzzK4gRGUQWAzB-qCI",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 291,
+    "vicinity": "465 Phillip Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4297492,
+        "lng": -80.52513189999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4310747302915,
+          "lng": -80.52388476970849
+        },
+        "southwest": {
+          "lat": 43.4283767697085,
+          "lng": -80.5265827302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "KFC",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2152,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114644016916399426953\">Steve Martin</a>"
+        ],
+        "photo_reference": "AeeoHcLxvxRHFJh7lgydlIaGruwDzxCrKsyLvAh6zKqDRmZaJGoVBcgqNs6g3gRXE2OGLQWhAiDjoYTsjQouJkz8H84TEsjQRuPK1s8ltrwd5vV-bbClRB7Y2ZaeGKIelrMoPLXdWLe-r80wDq1l21Yjqq9R6w2tR2UUpRXGTIUopLfhqvBgKwdDZmpyzlaMbbHdP3UdoXFl3Kj467J8Gx-4DD0SPOhru3yc9lDPRWqvxubEwfTQM9cchEI5-uuUvKJn4vPs6NwJBe_aQTGKVqBBA2HgAQasb6b_uzErohFaYt1LOaWO7q0WJfNCECvu9PpdhginPVXKBT4jxYwK7-lxrHKLLX2r5eYykZ6r3ioJgpXJ0S6tQcR2xhOMNb47KauGyT1SZjnP2BRPD92i-m-zcHF4cLLvdCt4E7EdMM1Z-ZJLVjXfz2VtisM4wiifXrQRM1kfRyT6zJAKncHtNrLoYYZO7DeGr2DggxR9aV9DSGaCycucPfelK7RwpSAudaIgE5aEmSpMmWTS0EoiucXDf93Bg-sIH1Z20qu70EU_c8DFpBe8gofVGLCDxQM1yxTOeEUpiig0ecULOK-pMe4w8oo0bwzZ7g0zvRv5Nv5LjD29u8FTQ5M1XxogzI_HS2hu",
+        "width": 3072
+      }
+    ],
+    "place_id": "ChIJk1sgMsn1K4gRTtJOok55MOk",
+    "plus_code": {
+      "compound_code": "CFHF+VW Kitchener, ON, Canada",
+      "global_code": "86MXCFHF+VW"
+    },
+    "price_level": 1,
+    "rating": 2.9,
+    "reference": "ChIJk1sgMsn1K4gRTtJOok55MOk",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 751,
+    "vicinity": "875 Highland Road West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4611053,
+        "lng": -80.4403542
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46238298029149,
+          "lng": -80.4390543197085
+        },
+        "southwest": {
+          "lat": 43.4596850197085,
+          "lng": -80.44175228029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Little Caesars Pizza",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110031016365671035638\">manu punnoose</a>"
+        ],
+        "photo_reference": "AeeoHcK5EuRCPezfNi05YC3PB36ONlfOpfd8UeUPbFutc0K7CYLo37ESutNpAUepRtJTJ0cwGspD36EeTQM0neWfO2ONUPxTyd551dHpg-MwENt2x8dEC0qf0TltKYOSv23OdUsSMheEJc_jitzkBvt650qkAPNwPuKx7yRwdC1kZVHvIdY446Ch80kUB9WNIlXKdvEtRt7ROVgTEAb2EBfoIGZa9bp-O4VoOb9jDUk0iMpJyINRUwV4eGtwZT1DyyDX8qqTkE9mfs3HUjMA6LGtBoKZZ7LNV72D86jjGfmGorYYCs_XjQa_lZFQlE_cgwZ2efWYuykr7KgAf9vlJiYWCz829eQftBsRF1-ID8FBa6YWXUeW-zGSJjexUHBJB_koMnuI9vEUdSxG_ft2QFHh7S27gOmKbEAcQKKVn6UPyyYoMdBNqEYjGjV0cYSTX0OhXV4lCgG1UHSJW1fPslGS-xKXEFOQMeQA5ZsS6VAuXNpWmN8QMuDL6oCo8FfQu21du_zXjiUaKRGIr9Nr4-8ruEGxAUgcwO2LzcAxr8l7tYZgfzbsu0PEkvQ3dCmAAGZrqv2UiTTX7YVDSioTOjlzCIpOV9565mlsx0ERPtzIy57r-y2uq9T87A0dgtG8rVF6OgBN_DKJ",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJz-t-uluLK4gRPa1MPJ9eDt4",
+    "plus_code": {
+      "compound_code": "FH65+CV Kitchener, ON, Canada",
+      "global_code": "86MXFH65+CV"
+    },
+    "price_level": 1,
+    "rating": 4,
+    "reference": "ChIJz-t-uluLK4gRPa1MPJ9eDt4",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 314,
+    "vicinity": "210 Lorraine Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4344321,
+        "lng": -80.51544419999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4358377302915,
+          "lng": -80.51414681970849
+        },
+        "southwest": {
+          "lat": 43.4331397697085,
+          "lng": -80.5168447802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Little Caesars Pizza",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101038344528051208666\">Jeff Mulder</a>"
+        ],
+        "photo_reference": "AeeoHcJAMlizCq8Ea15469FHysG6t-FIgrrJrs2be64PPVOUuE4uVxMZS8LxMlBrAKA6vxkq9IKaM1-GLxCV6X4BJszdZ1Yw8uPml2b3BaGpYw1ii-EKF_Zci447NeZcKYybCo1ajx79e9_B9Ouy_X0p1qXkczoO8YVS_qywFAmj_hDmw0w4lQq9JzJ2GxQ2V_5oSZXmYn-4XRgb2Fd0sjnDoy4nj3F7y8T2-eRMfV_ZOMTV59VyXVUf8SByFMH_dcIjQSdHy9ziukkRAQ8PY4FWYeL7wafXm9mFKEIIzbHkmNTDQ4-n5bjUsCSpz1kC9u_EpbboTXUEZZ9_IVSffAZNfiG2ghfI64XPhIpCP_MSY0hkjN_u3rtoZO-eMqnYo2dPS_mmsaZTrQG_ZQvzOz0MJLvLd8vB2jD9vSv2waaMZbFWTMk3dkSPpLMUSuw1-QOqvnHEpuzzx5kxojqRmSVEr5UQ6MwdkSucxi50K6GA8Gh3O871rd7wV0C4AdZni4jR3c_UcNOHbHKV-M63vgpzqxJJhfsgP7f7cQs7jnNHsaK3_bW_8KbHugW4CVahdhryGpd6G2bt2c03JJgHudMG8WYtog_A8QK_VqHhLmp0bPeeRXJjmeKMZW2FvatL8CO_NQHlhQ",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ8cZvVbP1K4gRUsrnO5s_Xrw",
+    "plus_code": {
+      "compound_code": "CFMM+QR Kitchener, ON, Canada",
+      "global_code": "86MXCFMM+QR"
+    },
+    "price_level": 1,
+    "rating": 3.6,
+    "reference": "ChIJ8cZvVbP1K4gRUsrnO5s_Xrw",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 270,
+    "vicinity": "525 Highland Road West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4837661,
+        "lng": -80.5251134
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4851715802915,
+          "lng": -80.52374561970849
+        },
+        "southwest": {
+          "lat": 43.4824736197085,
+          "lng": -80.5264435802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "KFC",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117102494575119930920\">Most Rahaman</a>"
+        ],
+        "photo_reference": "AeeoHcIQJh0Ct-POEHvfJoSB0iwIKQ6esSZQxLSqTrXbH7HgmyqFls3iknasyqh_Cy7d1Aj-u8GFI5A-Gn5c1s0eBhWmqO0sTx5MPa0QG3-aPWs9kWWR2yD89qyGBCDdaYa5d2W8JcVWNRR8xX4uD53EyHbPzlFCe_S-Qy4is4QE1XMb86AWh6ShLQAkodrrD0WULeXKdy6RTx-2mXgjxjVUKNlyMIR3loB4Xm7I8bUM488JC443Hn_T-wRmb06hvFVxIIgcAG5e6eWkGvTghB0AVciJnohKHtW9c20561d3mjZtPq8tkbvHnEa3EJazJrie6kO8Yb_zDL0VziQgca8gKnS757w03LL6toCx4Ka7AkaK2DQzUXrYbAbLecf8gHiK9lsKFkijElwgvcGO__bXhyUZoDGHGJ195onJ46ujDFfAx4mtrn7L3wUbEk6ffDaHrQl3dBFpb0PKUAicmLTdTy8-vCwBaqsiPrqFb4qF5YGBzv7u5o1-BNLLGR9GC4-JLgXHTJfkQc6WDP8DTP1egJemtieXmVtd5UYntnkfU0JU8IOBL3pBy3gxs_E3lhlo7yPvmq1ylrJRXX2BpkvewhnLJ9y8fcd869SzVcYmkZ2zLcajre6jbBgNdcBRz0Dedp9pK9in",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJpx84jY3zK4gR2VgvDCI7Gl4",
+    "plus_code": {
+      "compound_code": "FFMF+GX Waterloo, ON, Canada",
+      "global_code": "86MXFFMF+GX"
+    },
+    "price_level": 1,
+    "rating": 2.9,
+    "reference": "ChIJpx84jY3zK4gR2VgvDCI7Gl4",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 902,
+    "vicinity": "391 Weber Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.42055,
+        "lng": -80.50284169999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.42191013029149,
+          "lng": -80.50142266970849
+        },
+        "southwest": {
+          "lat": 43.41921216970849,
+          "lng": -80.5041206302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Mel's Diner",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 560,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116894165298041582922\">Mel&#39;s Diner</a>"
+        ],
+        "photo_reference": "AeeoHcLTRqjLB9UbMMdzlRkbyGGWZlXU6CM7ZmXQ6p49jb7pCrRjb1rkr2aaNvAHloGiuiOI-3UGxs2V28391BoutuqNyQwYK9NdTksStM-Du3U4dmEDUKOwlkgwZ4DFRzklOiKW7VaZ9vwmBbDnszdANXapRlPXRLnctc5pramnfGtueP5BjuWIvqTlMkwDAI_HOLS6GK5ShkCL74lbuNtGCrdBCirljnMAawUBijzmNVkFp8JAYjaJC1l0Ktfr_RBnJIXQ0mxJcWZODNjgWpqcop4s6LnFi54_ceCEMVmKEmVaAlS06KGVdguyzniv8xu0RJt2btFEDlQ",
+        "width": 1000
+      }
+    ],
+    "place_id": "ChIJNb4oxab1K4gRtyg19jKeIBU",
+    "plus_code": {
+      "compound_code": "CFCW+6V Kitchener, ON, Canada",
+      "global_code": "86MXCFCW+6V"
+    },
+    "price_level": 1,
+    "rating": 4.3,
+    "reference": "ChIJNb4oxab1K4gRtyg19jKeIBU",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 2748,
+    "vicinity": "645 Westmount Road East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4151464,
+        "lng": -80.5141603
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4165575802915,
+          "lng": -80.51286606970848
+        },
+        "southwest": {
+          "lat": 43.4138596197085,
+          "lng": -80.5155640302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Pizza Nova",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105809735789523045974\">Charles Glassford</a>"
+        ],
+        "photo_reference": "AeeoHcKDq-KNJuA_v_f-Wrsm7qYBqF4jJurdi2CsxkqU0bqrB8lrzPINCWvZVo8dTzMqTNTv0hfPEsEOt8qetLIt5pXYOn7QTFRkPto0k-agX8cKodhsRFh18o7a2Uk5c7EMvlTziMcayEjHGrr3GW0Q1OQ9wF9IknDbTtuOdRX3I8efeNKkK7TPG-YWQf5EKcsT_R7bQp4v4yNbLWAT3CT6fM2AnNlGVxshWOYN9pStM5DIV01olDgDrgXDeXlKzM-X0sUbVyRv1PS6_fziFKQQug7DDKLEbpd47VoRvklIMjWG0xr5H3q_pVdNv3dNbZ1vS90MvHlB1OhTLcJdvZQd0zkMWk0qsD11dyiyMTZvqMPbELVO8yNiuza690LthO2jSoekzycVlaH9-xnu67klNTSQxP4HoEQda6ZWOptObI5mVmSpUOCDVJYfJZdJcSKgRBuzzkB1pH1Nctl7txq2lHMA7_MPCNs7buCz8YFc5erqJ1yJEjSylIY7Zl9tTyveQwgkCshkswQfN2CAxPlGPloJ1ypKuGw2MlSP4AISWDNfP5A9FeykbNMLpk4xcLxWcP48sTOL0aA7n2Qce69kIforjR_TlZyboIkgMpMSco5GCfwQWHCqGKxGczNApkLkjxFr5RCk",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJOaWEnb31K4gRQWai4hC7tcM",
+    "plus_code": {
+      "compound_code": "CF8P+38 Kitchener, ON, Canada",
+      "global_code": "86MXCF8P+38"
+    },
+    "price_level": 1,
+    "rating": 3.7,
+    "reference": "ChIJOaWEnb31K4gRQWai4hC7tcM",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 351,
+    "vicinity": "1400 Ottawa Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4056416,
+        "lng": -80.5021629
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4070642802915,
+          "lng": -80.50082886970849
+        },
+        "southwest": {
+          "lat": 43.4043663197085,
+          "lng": -80.5035268302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Lisboa Bakery & Grill",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1564,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106352719200656869608\">Lisboa Bakery &amp; Grill</a>"
+        ],
+        "photo_reference": "AeeoHcLtvkHJTPZyRLv0Oj2yXUKTVqxV25Qw71d_RggDDq9g2Kaltf7370gRxyVX1c9-GivOWd6WxEaK-wr1Box6xYB17m0_rrzUJ5o6ge4ihLUw468EvzZhx4xodx_kPqX491THSE1fGkAeIL1p9wweeiEUoOy6vodxS0CEqsxWbqtDCAyzjCscE-ewwEwDECkkS9LnVxkTpqe8sKpzydfUQl6HRZaAPnQCdzk-JM9ArK1RTY0agKNhDbjuAl1_8ozb3rNBqvvdCsct3mJ8njTmBpQsSMIiDAnVFmc7tcSjoQFvUHzeyJsDAgzpaN0w6gx9qAxyVGCB2II",
+        "width": 1564
+      }
+    ],
+    "place_id": "ChIJKx1PE531K4gR5BfiBDlfiqw",
+    "plus_code": {
+      "compound_code": "CF4X+74 Kitchener, ON, Canada",
+      "global_code": "86MXCF4X+74"
+    },
+    "price_level": 2,
+    "rating": 4.3,
+    "reference": "ChIJKx1PE531K4gR5BfiBDlfiqw",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "cafe",
+      "bakery",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 774,
+    "vicinity": "1187 Fischer-Hallman Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4110378,
+        "lng": -80.4600681
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4124042802915,
+          "lng": -80.45847161970849
+        },
+        "southwest": {
+          "lat": 43.4097063197085,
+          "lng": -80.4611695802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Little Caesars Pizza",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105436530406015347726\">vipin kv</a>"
+        ],
+        "photo_reference": "AeeoHcKhtuWaZHDoJW2-uGL_LBrPjaDrpVbg-ZX4cBOGKx810l0TwTM0yzTidWclOSyCkd3TyQ2h9cADICFtuIWiYWATiIiku25AxRBtEorF8CvHyxIej-XfsUOnhpsYGAM6a1qHlCT4AP4S7Jc_EpX9ySA3K1ozk7x1g7l_4X2ARjVmgMnQIghVpO92oWGIhXpQxXxWffyfUawzo_aZYxZVzwugHTjdrkYKCzp96Aym5Yg7YzpNn3HKyTd6mnqU_1wNIZbdM2HtCFUO6r8WZrdCD695_6a_rdQU_e1u-iuTurCYmd9cRjEcQuB3uyUHbwZOxVxaxw0FDjSI0F2A14m3Gb26oxNwXQ4hGU7sYkHKrx-XqqIAetJ6Jx7LuAoegvpJChlVctlrpClH4vUWMt5kaBDJn3zILc-poxLQjDG_6TCHG1pN9AYCazqg6bmU1T6GXSyr21KIN6TNadNqunLUQlRjCZGhgeNdjAei8KktjwN7AB--_zarZMPTwB9UfkIIBmovbZurMh0DslKGNgEueufzigGgjyfw96N9p95ccx8vdYq4RqvsSwk-F39yiidUwXjeUodakC0CENbNqe4QE0nevZ4Wdlbzx18cUe_-mU8UuGOckIVGa_GryOeqBDeTqwm_zoUr",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJR7HBE0r1K4gRmPAeEk15kBE",
+    "plus_code": {
+      "compound_code": "CG6Q+CX Kitchener, ON, Canada",
+      "global_code": "86MXCG6Q+CX"
+    },
+    "price_level": 1,
+    "rating": 3.9,
+    "reference": "ChIJR7HBE0r1K4gRmPAeEk15kBE",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 417,
+    "vicinity": "270 Bleams Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4105609,
+        "lng": -80.46111839999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4119872302915,
+          "lng": -80.4598122197085
+        },
+        "southwest": {
+          "lat": 43.4092892697085,
+          "lng": -80.4625101802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "KFC",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103048662496426869076\">Familia Gaina</a>"
+        ],
+        "photo_reference": "AeeoHcI1fdi9pEk3tFrRLoV7mQ1RvsduL8HPrOXdaBn741KuaymcmXrzikrLGtaCMaH0EKzXhXwGO51VWiWAWWYu4uyg1j0cpc8rVAlrPYy8q-5GY5V8Cnh9-gJ0ZX2yZzRvRWgaI-K_N8wdvAy7pkyjQKxdxXUVaZS4DrshrgQvhKEnHM3MhWbxphfUugTQXpnGZTrlLelA-Vg1dr7XYw49THMOSdIyEpgX8jjuflTJgFxjlVNiNqJ9Adse4Eio6wxN-J9lk1rJUyYIs2W6PDUAcZQ_O6uCtyhdbBad78luxvv47TtI6Ibixw-mK6fVD7raLF0RtjtUm2GgknYwOGlL4pazl3OhzBu30VXFrfbXSA_oeadTH6UxYsVt_zJgZIQytlXa1fURsx_CmpamoJzIVx3rqsAnaY1Wm-V7a_vuDP6UKOIH8W5vvhIJBmowC70ELA0WCZRgDnfMcKqJagVbtRB1L5a5N07EuZjJ-YAVxUhc_6sd_MgdPJ6BAR0mMT-Q-RY7DeuHWluFFiQP5ox1CTO49CeVwzhtYTnBlFW8V9FJ6SxVU574TS8A9w8SfUK9kwNRSr3Rz1cklTho0uHwFTvIcQhIkmllkJkV5pZ6AzOeoFAiI3AFWD4_6AnDAkwiRJNrnBCD",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ41XhjUn1K4gRrGVEPtvJKsA",
+    "plus_code": {
+      "compound_code": "CG6Q+6H Kitchener, ON, Canada",
+      "global_code": "86MXCG6Q+6H"
+    },
+    "price_level": 1,
+    "rating": 2.7,
+    "reference": "ChIJ41XhjUn1K4gRrGVEPtvJKsA",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 872,
+    "vicinity": "951 Homer Watson Boulevard, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4773658,
+        "lng": -80.5396552
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47865728029149,
+          "lng": -80.53810821970849
+        },
+        "southwest": {
+          "lat": 43.4759593197085,
+          "lng": -80.54080618029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Shell",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1193,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108002155041314548649\">Shell</a>"
+        ],
+        "photo_reference": "AeeoHcK8npCm5ofrIX64FU_2WxWxkxcBPweIs4Dq4JzIEjKl5bLim_mpErFuomP5Z5L8iCB8eMrOqFWwPlxp4d6Yff-tPy3eITo8vADtFZMNwIhLT258cGsWFpGdZO0GQXvPnPYrubM_qU-9u8mJnM7X704jsYelyLRPniCJVoOOOa7q7IDT24j7-Jrj92fnjF0eIvzJ-qOWrOlbgvLuF0iUYqSxJLXCu0y9QG7aW5TWWhVwS0r-6XKpHyQQuCwUlfqGiVolUnR6S17rGyo9cH-TmWTvBgKEKadBISPQTfYm_HUFIRIOMEwiSOHffZs8e-m8Km3qC3KlsBM",
+        "width": 2119
+      }
+    ],
+    "place_id": "ChIJh_hzAf3zK4gR5HBxRSQNtnE",
+    "plus_code": {
+      "compound_code": "FFG6+W4 Waterloo, ON, Canada",
+      "global_code": "86MXFFG6+W4"
+    },
+    "price_level": 2,
+    "rating": 3,
+    "reference": "ChIJh_hzAf3zK4gR5HBxRSQNtnE",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "convenience_store",
+      "meal_delivery",
+      "car_wash",
+      "point_of_interest",
+      "food",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 73,
+    "vicinity": "360 Phillip Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4761298,
+        "lng": -80.4841208
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47745963029151,
+          "lng": -80.48281136970849
+        },
+        "southwest": {
+          "lat": 43.47476166970851,
+          "lng": -80.4855093302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Shell",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1193,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111297935356172067843\">Shell</a>"
+        ],
+        "photo_reference": "AeeoHcImF0Hb6V-3g9qgjPVLaDxdpCLNY8yvzSrNuGvN7J4m_FeN99qgDei_gJQD9zoUT3gQktT_fXQvLV0BSJlC1lBd_SNvqPdZUCxQnfX6IQEcqTm-01CLHiWL0myZZfPAQXU7dKOS8pYmeQ-2VUb3gC48TMXpw_sshcpXcX8gbtF6CgdfPEEPfbpbJJBqotiQc0mKPYgLbMrGT2A8cK4HeG3FKaFo36MAm6mvpAwqsQVw1dNM2eX6szzXtmWS4ZzWd1HLJx4gGIXcUv0Vojgo3V23MoeVlTkNTYmneMb9S7aiAnQ4g9DxTeA0xhk1hZ8zVxn8kMEsyjA",
+        "width": 2119
+      }
+    ],
+    "place_id": "ChIJnWnydWTzK4gRlLGiU2ZLJ94",
+    "plus_code": {
+      "compound_code": "FGG8+F9 Kitchener, ON, Canada",
+      "global_code": "86MXFGG8+F9"
+    },
+    "price_level": 2,
+    "rating": 3.4,
+    "reference": "ChIJnWnydWTzK4gRlLGiU2ZLJ94",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "convenience_store",
+      "meal_delivery",
+      "liquor_store",
+      "point_of_interest",
+      "food",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 73,
+    "vicinity": "504 Lancaster Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5042342,
+        "lng": -80.50907049999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5055462802915,
+          "lng": -80.50769781970848
+        },
+        "southwest": {
+          "lat": 43.5028483197085,
+          "lng": -80.5103957802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Domino's Pizza",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117957043020523229143\">Harjot Singh</a>"
+        ],
+        "photo_reference": "AeeoHcIz2MRZ_mrE_JnEc1dUcb0bhAPHxsyt3kyNpXRcTbRNMRO5-QrN8piMUf4d5TaLx-oQ6QvDo51TjhrBv5pc4_dQsO-LCT65L3tgoizofz3gOakO6FP5f5yQpkTY9Y0Y3i4oKdKcc6830D8PBTvy1GoYtNQusiNaymyfL4pBrwyy5hLZQJragqXUOeBXC3L8_c2dptsR2Bb9yUU-3IZmdoOI6c-aDif83J7YYpdBTT0QJ2d6_ddC955VXPRMEnlBJpx389XpryDm8otQU5lT_qroLuUYFYi5UKHdzmY4hP1FXldTxTolPJIY-0mCEt4dd7Bs6emMoWTB8igCnVSjobkqrtPKLAKKeKKaxl1mntqcEjzeaWPE4zW97s2wLoRuf04BgR_U8KHCLcAc5QmIw502bCIIR_8WdUqqlQcJIG68c69R3WywxgYQ_qXTBmEOIAO4b9er7rRnp4jKaGi8Oet07FuQC0lZ3NToOySr_ZFnGHeVzisLWWOGIaHBLcjMylUV5EtoeUH9MJbz4Rb0clJGJ9rI3jC1UYpPGi_Li3l43dQObIOyvc6dlTXRnQvHvqPjuEyp7LtU3f57y6Uc5dgJVbtUbUX1YuoVnbJ5FL4v0zAoBizaYBl0hCXlPKHXPDQHXw",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJEXJwzK_zK4gRRtLxhe6iN1Y",
+    "plus_code": {
+      "compound_code": "GF3R+M9 Waterloo, ON, Canada",
+      "global_code": "86MXGF3R+M9"
+    },
+    "price_level": 1,
+    "rating": 4.7,
+    "reference": "ChIJEXJwzK_zK4gRRtLxhe6iN1Y",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 683,
+    "vicinity": "370 Eastbridge Boulevard Unit 5, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4329976,
+        "lng": -80.4387663
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.43439093029149,
+          "lng": -80.43748476970849
+        },
+        "southwest": {
+          "lat": 43.4316929697085,
+          "lng": -80.4401827302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "City Pizza",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117354911557825524129\">Marty</a>"
+        ],
+        "photo_reference": "AeeoHcIcJe4BnfkOsoz8NxUiFD8PzoCOGavYipTUHWR1JhERi5VWqvPgulS2KfYXR-UgtsGrhW15tu2GuRpSEbmw-n7YohRB0wANHRONnIcAseVZCSiKmR-17ri1OyG6Qvw_QMYimDE7rk9CTGOWSUcLOAfQ5yxzwe4rFYgzDgE_p1R0W19Y6amCp3yoL4FpGuOIi_LAwj8BYBtFHiOU1oOhxLIWRugUUmMT9C1nmKXeYLXzzcF2xBk8Na01u7a8oT4d4VNiAYtI4t55H2iibNs819u5LlzcOmLCr1V9YRJqHTFWT6YoV0je6NmXq1xCXtm-3cF02QQDqiUbTzQ-Rh7nFWGad42pJ9mzGwFazCNN93CJ2xZA88qnFX2c9BKl_4cxd0pL59NG2qCCa5XxSvyaEa0r1LXOwhKKYABOCqt6vE3r25Gjc2Gj9PuiqbqktY65deLxVSVIO7EiG6cBt6vNrqQomZ47u1vRhUz_Fh_RsWL7ikg1vq_YoFOELD2vXtGFYk0XTJm3dTnb2VFvOAYqui04x6KCwZy1IJT3osIffBkRZXVVfkgxoyHN9UE2Sy214LdITiGFLY9NsVqKJVgdP8Qwv2EByFNQJyXYmnY9ujmqQvkL_3SCFSjqtfSgAMGi54UVJg",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJQSyhvyaLK4gRDnNgfEzw4Wg",
+    "plus_code": {
+      "compound_code": "CHM6+5F Kitchener, ON, Canada",
+      "global_code": "86MXCHM6+5F"
+    },
+    "price_level": 1,
+    "rating": 4.3,
+    "reference": "ChIJQSyhvyaLK4gRDnNgfEzw4Wg",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 708,
+    "vicinity": "1400 Weber Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4974006,
+        "lng": -80.52716989999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4987251802915,
+          "lng": -80.5263693197085
+        },
+        "southwest": {
+          "lat": 43.4960272197085,
+          "lng": -80.5290672802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Rocky Mountain Chocolate",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103397059703463859831\">Rocky Mountain Chocolate</a>"
+        ],
+        "photo_reference": "AeeoHcLhkYaPaisFQEoAWjir6_svhMQzGUIpjZl9sBn_jZ6PMIuIywHEM-ZDLjU0bgoqZ9Tbx-NFxd2RDnhiNX4XmDAqq3cKKJYkJFQOQmw8St_vbaJG_-l74qDaPeUZ0DM53MOAHOoXYj7gUPmp2bm4ZLHflSEOfqL-PMSCY8MzS5nTxhRYTKuZFA7PmHwH02U0hQSTZBuET17NBrf18QE1TwoqgTOi_Md3npLhF2PlWnS1gsEmPVPh_mpKGZ8X2T8YB0Rw9ihoJY8crI85oAPorpet8IeMkLv9Bc0_P2l2cH4FHxD7NihF-MO1rBBAOJCYWdbjC9_FqdM",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJn57J_sPzK4gReiiU8l8PsZE",
+    "plus_code": {
+      "compound_code": "FFWF+X4 Waterloo, ON, Canada",
+      "global_code": "86MXFFWF+X4"
+    },
+    "rating": 4.1,
+    "reference": "ChIJn57J_sPzK4gReiiU8l8PsZE",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "point_of_interest",
+      "food",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 57,
+    "vicinity": "CONESTOGA MALL, 550 King Street North Unit B17B, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4724308,
+        "lng": -80.5345427
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4738805302915,
+          "lng": -80.5332448697085
+        },
+        "southwest": {
+          "lat": 43.4711825697085,
+          "lng": -80.5359428302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Pizza Depot Waterloo (University Avenue)",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1866,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104743522361988439878\">Pizza Depot Waterloo (University Avenue)</a>"
+        ],
+        "photo_reference": "AeeoHcLuQsUFQN3h1d4kAAFdrPNpC88uFW2MNaaFc9khiqff0QSBiAVHVAxBSuacAjOVr1VmgGn2QVnVSC82fc3516068Q5slR3GSnMHUu6e-k8HjvS0tZOQLmNXyfvP07hrGyWFrrPmfixEn93H3VzWqzfeTKYmL0g8sF7BIlV6t5wmnPdPYfDowRa3IBX_n_yG2oV_APyvask7Hy6p0CaHKmUz-p5YIDDaEkl6_Brv8UU6otiVZSlDAO0-NBtl7gHRI6KQJCtvuQbkASIE8EZLCGv7ODjtGKTK6xzKO5Rk1OMMjBSk5c_VAeqXZCrmFFntVFe94ZqwV7c",
+        "width": 1440
+      }
+    ],
+    "place_id": "ChIJA8fwSaz1K4gRnM4zMiON5_o",
+    "plus_code": {
+      "compound_code": "FFC8+X5 Waterloo, ON, Canada",
+      "global_code": "86MXFFC8+X5"
+    },
+    "price_level": 1,
+    "rating": 4.9,
+    "reference": "ChIJA8fwSaz1K4gRnM4zMiON5_o",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 438,
+    "vicinity": "131 University Avenue West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4771246,
+        "lng": -80.5248312
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47831528029149,
+          "lng": -80.52364571970848
+        },
+        "southwest": {
+          "lat": 43.47561731970849,
+          "lng": -80.52634368029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "241 Pizza",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1535,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116280174267374775419\">241 PIZZA</a>"
+        ],
+        "photo_reference": "AeeoHcLDdC--mw3zb8F-QsCX5g5U-RAdAtic29j85uJwTiW7m5c5eUA5aQgjNux_gt7_uhAHD2tF1nsSTBcOH_PEBBHhC-bxGaYN_dNVffc40J9X7H04uAZK4a6aSPldHwBqKIT3X-s5UYDDTQfAhTAUCuCYc5lJSUF2G92MLo0yNIm3eTFUcwdiGwoNTu9VK0tMxjxAOHP0rlDhTV5QVaw419ZQv6y0HbeH9w58lho_pwPgwARX2QPpYOnhkjr_T4eT7suCXFT7a_x2crVF6TMr2RBcFMt5jtFlPO_awX__hTBt1_bhOF3ghJSwpzdEezmLGyoHufK3rHg",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJEWMmhRXzK4gRZn5P6NEXng4",
+    "plus_code": {
+      "compound_code": "FFGG+R3 Waterloo, ON, Canada",
+      "global_code": "86MXFFGG+R3"
+    },
+    "price_level": 1,
+    "rating": 4.4,
+    "reference": "ChIJEWMmhRXzK4gRZn5P6NEXng4",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 27,
+    "vicinity": "258 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4751434,
+        "lng": -80.53158289999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4765281802915,
+          "lng": -80.5301415197085
+        },
+        "southwest": {
+          "lat": 43.4738302197085,
+          "lng": -80.5328394802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Toma's Pizza",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116242295729888727497\">Toma&#39;s Pizza</a>"
+        ],
+        "photo_reference": "AeeoHcJref4yyZArj5kYF7W-H-NfEhejX7JV5rl-wCD2l8fTH9wxI6MhWZrZ_MXDH2uYIziwvkqdW7iZEgFcgj7Emy0eyg6XwI1QjeJ83Y8me3sDaJ_3gyN2yUyVDErchkJHeJUs2J8m28RQoWIWwyTVAYrohwuQw4eU8Td4sfz3QeLhL8Vc9Rj9SMCmlbdosDwYa38nzZy65zS-HPmlII1lWkFt5OOCzqynflJ5iA6aNKsP44ryGv1JBmn9zr0vAxjPr1_1ANwl268iehAfAdoc3_CrS_dpKVB5YoTtClhrF_AlZM7SUI6e4xKxnqg37yiEIwbdYl3_nJg",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJY-MruGjzK4gR1_jWAKq1ljk",
+    "plus_code": {
+      "compound_code": "FFG9+39 Waterloo, ON, Canada",
+      "global_code": "86MXFFG9+39"
+    },
+    "rating": 4.7,
+    "reference": "ChIJY-MruGjzK4gR1_jWAKq1ljk",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 92,
+    "vicinity": "251 Hemlock Street #110, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4629888,
+        "lng": -80.5390146
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4642949802915,
+          "lng": -80.5377881697085
+        },
+        "southwest": {
+          "lat": 43.4615970197085,
+          "lng": -80.54048613029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Shell",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1193,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113363786293614482181\">Shell</a>"
+        ],
+        "photo_reference": "AeeoHcJG2wG_NMwniCR8plGZ7ICdHk030N6Umm1oHb7rnMEqX6uP6iTrZ5D7FMwD5BgT7jCqFFwN-hzcW_EAXgRK4i8f5knwluyfkWIvVWB_yKarm7kOKx9pBBHnKohdBGFYY5T8nKi9WYDSqJFoGSb5vahdkWNu3i5AyJSKXVGsBJZi_kJJdggyreEbHdD7YpaaBc-yfHQBe8tPDKvSOg6xZWUqjKjXRdz_Nx7bQOo7iOWSEzFb6e9vAcUV5wTvFBZAQPeqkphnCl8Bmrc978mpZSY5LauXINBKafeqQULO8Qf5JxzQJ1_HXJb7vQZt2UWOMS8dYABUueQ",
+        "width": 2119
+      }
+    ],
+    "place_id": "ChIJA8j_-hz0K4gR3fTeqKmeJnI",
+    "plus_code": {
+      "compound_code": "FF76+59 Waterloo, ON, Canada",
+      "global_code": "86MXFF76+59"
+    },
+    "price_level": 2,
+    "rating": 3.3,
+    "reference": "ChIJA8j_-hz0K4gR3fTeqKmeJnI",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "convenience_store",
+      "meal_delivery",
+      "point_of_interest",
+      "food",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 82,
+    "vicinity": "70 Westmount Road North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4779194,
+        "lng": -80.5238543
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4792205802915,
+          "lng": -80.5224938197085
+        },
+        "southwest": {
+          "lat": 43.4765226197085,
+          "lng": -80.52519178029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Chatore Nation",
+    "place_id": "ChIJc_5WuyfzK4gRaWp2EoDpwaw",
+    "plus_code": {
+      "compound_code": "FFHG+5F Waterloo, ON, Canada",
+      "global_code": "86MXFFHG+5F"
+    },
+    "reference": "ChIJc_5WuyfzK4gRaWp2EoDpwaw",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "vicinity": "300 Regina Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47811499999999,
+        "lng": -80.537481
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47935588029149,
+          "lng": -80.5360565197085
+        },
+        "southwest": {
+          "lat": 43.47665791970849,
+          "lng": -80.5387544802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Chef On Call",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105542631116050224674\">Chef On Call</a>"
+        ],
+        "photo_reference": "AeeoHcKSYAfiSZGQIwlipjrcvdx5qVtJKT7mXc_r9RRFIokIaRC-v_68oeosu732bxdVdAbpk8og_1Ej7j7ZVT9bd1qVsl37w93EMKEDCp6WnKyF_3fAdrvMF4K1i8lVs7jnWBfESta7xv1vFeR-gRdcLGXl635D5VUpGHB93Chkkcjx7quh4u0GnQLtBta0hdbpOqPBamDV3vwWPE9_S6B49hVNyZVajIfM-KieePtPVLXcYGkwaR74od7GxXTjUHaxrNH80mssoEamvDfiqzGpfMtbh0CjCURIGizGHevzfPTW83lbZpPn0RftLdSL_N4Jv-fOwha4aWs",
+        "width": 1800
+      }
+    ],
+    "place_id": "ChIJn25ny6LzK4gRxUnGsU_3vDo",
+    "plus_code": {
+      "compound_code": "FFH7+62 Waterloo, ON, Canada",
+      "global_code": "86MXFFH7+62"
+    },
+    "rating": 4.6,
+    "reference": "ChIJn25ny6LzK4gRxUnGsU_3vDo",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 1395,
+    "vicinity": "130 Columbia Street West #812, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4455501,
+        "lng": -80.5136132
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4469428302915,
+          "lng": -80.51206096970849
+        },
+        "southwest": {
+          "lat": 43.4442448697085,
+          "lng": -80.51475893029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Mera Shawarma",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2400,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104796041499705765557\">Mera Shawarma</a>"
+        ],
+        "photo_reference": "AeeoHcLuzg3sLqfYKSTft_n5WiaUQHyWWWSb3lbRJNKEnhSrw3HH-ZZot4zCRxDgV6SuGZubFMmsgULdjAMq2YD76heaPgm7pVmfEAitj2FsAFfBH0QiQ2naJRlvCtxFrftY0y2dR0SXSv9kF01StPLXAl1DFWLLmL8UC3TKgvN3JthDtfQz_huPNF3Mkpi2jQu0f649ZdakHrzKVO5I0S1-M5BWOfmZ3S0oV5ThuUHrfDImkBYKK9GeeIIslq17XSBpmNtbpX6jgdb5zbUNZK2x4Zl__GixmK2M996c7kdvTuWOsIR0S9V-hlNs4KiXKLWZQUue0o0Q-cY",
+        "width": 1600
+      }
+    ],
+    "place_id": "ChIJjYQPopz1K4gRw42AcFDF-5w",
+    "plus_code": {
+      "compound_code": "CFWP+6H Kitchener, ON, Canada",
+      "global_code": "86MXCFWP+6H"
+    },
+    "rating": 4.7,
+    "reference": "ChIJjYQPopz1K4gRw42AcFDF-5w",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 29,
+    "vicinity": "427 Belmont Avenue West B, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45792309999999,
+        "lng": -80.4946179
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45940073029148,
+          "lng": -80.49326111970849
+        },
+        "southwest": {
+          "lat": 43.45670276970849,
+          "lng": -80.49595908029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Wingzza Junction",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116007460779442339036\">Wingzza Junction</a>"
+        ],
+        "photo_reference": "AeeoHcKWhqrTk8SPCkOb9ejxk1XzGwn-o9B9HHl5RNnTSZj-cr13k620J80OTXstTnNRY-w7aIVpKGqNfxRl1y8cnBaSAAiPs6gKSS72fTdah-9s5WVmwbu8b4dOd17Hh32355VdyI34WzOL6CYiT4P8oyhwtXavuJtf6cql__bqnTd00DdnAXj5BRmxwO04O6MFmeXbg4VqmCi8gMyAU6sEKRQ1yZIcYor-NVBoJUy55TDcA_soF1As0w9OcD2l6ICbxpmcQKNp9U-tV_qiqsuEroUojyKzMGAV5REk82JC7TIbS0RJl-cMbJY0ur8FZ9AdCojcjQwJuXo",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJx_cICyj1K4gR2tei6KeDQeI",
+    "plus_code": {
+      "compound_code": "FG54+55 Kitchener, ON, Canada",
+      "global_code": "86MXFG54+55"
+    },
+    "rating": 4.9,
+    "reference": "ChIJx_cICyj1K4gR2tei6KeDQeI",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 78,
+    "vicinity": "223 Louisa Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4842553,
+        "lng": -80.5254971
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4856510802915,
+          "lng": -80.52397891970848
+        },
+        "southwest": {
+          "lat": 43.4829531197085,
+          "lng": -80.5266768802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Lakelands Diet Delivery",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2789,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101236325077811237089\">Lakelands Diet Delivery</a>"
+        ],
+        "photo_reference": "AeeoHcIjLINOdJ1-7m9f8WcfRxiG-ur2kci0I0G2iD4P4Fb5_Z02-AM-zEC2mQYS5V1nIK1o_dgpsZ3h5gTzGSmJJIcDNKPVbADSJB30HngHxzGyTeAWzAEAIagkbPmJuPppQte8xbPfq85JFXtQZQ7oOPGNuaKlTyZy8NE8z5hziNC06Ax3QKL8iqMNpZ6tx9ZMAl2TeoOIumyiY4hztu9VuifyvIetYDMSHsKVD5JBaA9d39MKQMzvsQrDip1uvyZ-yxf_fNxgpYPXJ_Xjtv9iU_7EYMKx1eplP5K7VXjoJxzw_ekHeK5rSCEd1nRYZQPUw-LYLLziJxI",
+        "width": 3613
+      }
+    ],
+    "place_id": "ChIJPTwQuHf0K4gRPKncxcCwaI8",
+    "plus_code": {
+      "compound_code": "FFMF+PR Waterloo, ON, Canada",
+      "global_code": "86MXFFMF+PR"
+    },
+    "rating": 4.7,
+    "reference": "ChIJPTwQuHf0K4gRPKncxcCwaI8",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 24,
+    "vicinity": "401 Weber Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4145812,
+        "lng": -80.5520449
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4159926302915,
+          "lng": -80.55079261970849
+        },
+        "southwest": {
+          "lat": 43.41329466970851,
+          "lng": -80.5534905802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Pizza Express (Highview/Ira Needles)",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1094,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103849494722083297218\">Pizza Express (Highview/Ira Needles)</a>"
+        ],
+        "photo_reference": "AeeoHcJdcwHB2JBoQhaq6yjLT23aLn46KVBHTmJgJIarQmK7FLIN-MhzuzJzKDUP9HbWuJ2uafw0JqrbCESlSrqtvPg9PNXR3Xj-348j8UPUAjjNl6Hrz6NV7TrRl6xiygn74mJ6yq4eASSvWB10vjLeoiQs5Nu8gw3eGnypowWSR8iiioZbVDOxpLQWWs_HpkbxNzKGb3nR9uKsUs1sQmwWDK4f31GkNoL-VFMU0sWub7Xa9xA1Hb6NN1oIysrLplrfpnifDiXRpTneSQ63KeZgQU0LLX3_E9qVVrpsqtGXXIM1ML8Ap3fbW84F1Lu7fsNKO7Jxc4UAJF0",
+        "width": 650
+      }
+    ],
+    "place_id": "ChIJOSFC1A32K4gRX0jG1DbDcLA",
+    "plus_code": {
+      "compound_code": "CC7X+R5 Kitchener, ON, Canada",
+      "global_code": "86MXCC7X+R5"
+    },
+    "price_level": 1,
+    "rating": 4.5,
+    "reference": "ChIJOSFC1A32K4gRX0jG1DbDcLA",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 1006,
+    "vicinity": "255 Highview Drive, Kitchener"
+  }
+]

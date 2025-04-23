@@ -1,0 +1,2781 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4568116,
+        "lng": -80.5085048
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4581984802915,
+          "lng": -80.5070474197085
+        },
+        "southwest": {
+          "lat": 43.4555005197085,
+          "lng": -80.5097453802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Kings Tower",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1365,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108618589300632950901\">Kings Tower</a>"
+        ],
+        "photo_reference": "AeeoHcJ7NRZ1doRP5aN8C7dl1i2j0typLBMoZgsWAgRDAPkFub9qs9-zmb9_YU5IzGA-jX9qX3RgLLWurwTc2Qzjh8oa-SO67VTFv00MnICYWUEytI6jSi2rSWSDzlPKQVocxMYI8E_bjgQ-rzm6ZugA9nBl3pth0A8wAQAiFespsiAkNId6Fy5Vgdy91lRMyCV0si56BQgihyLLmMiriFlQV1o8n11IDaq_IyrsW5jg2csP0cmyUSTVytemaS_qfNxADE7A9cuROJ2SZB5G9hp-dLinRpuLi6AW3Ui1QFmj8fwdbKaPbYEu-8J41Wjy3b1TORr5xPwhd_Y",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJpT4STWb0K4gRO0zU8fAjOys",
+    "plus_code": {
+      "compound_code": "FF4R+PH Kitchener, ON, Canada",
+      "global_code": "86MXFF4R+PH"
+    },
+    "rating": 2.9,
+    "reference": "ChIJpT4STWb0K4gRO0zU8fAjOys",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 47,
+    "vicinity": "Kings tower, 812 King Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4723416,
+        "lng": -80.5246825
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4735763802915,
+          "lng": -80.5232635197085
+        },
+        "southwest": {
+          "lat": 43.4708784197085,
+          "lng": -80.5259614802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "University View Student Residence",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJHzUD-Ar0K4gR5D_EkiHl0R0",
+    "plus_code": {
+      "compound_code": "FFCG+W4 Waterloo, ON, Canada",
+      "global_code": "86MXFFCG+W4"
+    },
+    "rating": 3,
+    "reference": "ChIJHzUD-Ar0K4gR5D_EkiHl0R0",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "general_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "173 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4632624,
+        "lng": -80.50133029999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46455793029151,
+          "lng": -80.5000535697085
+        },
+        "southwest": {
+          "lat": 43.46185996970851,
+          "lng": -80.5027515302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dave Maund RE/MAX REALTOR",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102126982351574413077\">Dave Maund RE/MAX REALTOR</a>"
+        ],
+        "photo_reference": "AeeoHcLgIbotw6qNG9krsD9C5NK_6Pv2UA6HSU3POZxOOViTwv2UbQFnaUE_kYsOflyvgVun1VlAE44Zz9UKxUcC8hNV0wOZeftKWhHkLSVxsEraeXO-OZRF6tdbpmJF5RUuK5oHDDP4oDWBC4EFOME1bSGn79795fPFPMOyvxjGg8lyHofoVmxIEhulJZ_0Ylb98oiwrkeROvdVEFLV1wrrV2LYa1WBVNHarJ4nU7GLEaQom0ftGE1jvD1h10EokRLdho6UbqHNvEVyhx1ljBoqStOWQrm1kcGuxgP50ybebOkxv0RUbOB8Fb9xKoZotIEtx6a-WrfnKPc",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJF-nL06D1K4gRx4Jr8GGbrP8",
+    "plus_code": {
+      "compound_code": "FF7X+8F Waterloo, ON, Canada",
+      "global_code": "86MXFF7X+8F"
+    },
+    "rating": 5,
+    "reference": "ChIJF-nL06D1K4gRx4Jr8GGbrP8",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 92,
+    "vicinity": "180 Weber Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4502566,
+        "lng": -80.4831833
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45151148029149,
+          "lng": -80.48191511970849
+        },
+        "southwest": {
+          "lat": 43.44881351970849,
+          "lng": -80.4846130802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "CMA Realty",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJP2-Nmez0K4gRWWiEUUY_PY0",
+    "plus_code": {
+      "compound_code": "FG28+4P Kitchener, ON, Canada",
+      "global_code": "86MXFG28+4P"
+    },
+    "rating": 5,
+    "reference": "ChIJP2-Nmez0K4gRWWiEUUY_PY0",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 17,
+    "vicinity": "82 Weber Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4740671,
+        "lng": -80.4775457
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47547158029149,
+          "lng": -80.47616546970849
+        },
+        "southwest": {
+          "lat": 43.4727736197085,
+          "lng": -80.47886343029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "CENTURY 21 Heritage House Ltd.",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101304252817767915468\">CENTURY 21 Heritage House Ltd.</a>"
+        ],
+        "photo_reference": "AeeoHcJQwnmSHzJuWZ8kZZJotDKNd126xwxAB0WmxUDSYNQnP-DcznHHor3K6XHZoWz8pdavbknSkOIN2CIyRbzL4KM_7XMe2xINnRAbZlwSE7CYTbTPurh3UO4MQbgZ3yseMP5n8uSc5XflJuqUfH1ajHmGF3of9aH_RKMd4GUWMLSLtdVb04McFb5YCsmJ_wKcZfuF92u1F1R32j52OfhIoevNOS8j9M_fYTx9exrxNUCR1ZU0zOGnPPjXdavtOVORbgiyHRNDVFMDbYvWIy4jink9FFJdottpTtXersdELX433s-sOJFyfl4xI3H-tzcxgRDlbXFzvms",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJvdYshV_xK4gRzxCUa6L9gPI",
+    "plus_code": {
+      "compound_code": "FGFC+JX Kitchener, ON, Canada",
+      "global_code": "86MXFGFC+JX"
+    },
+    "rating": 4.5,
+    "reference": "ChIJvdYshV_xK4gRzxCUa6L9gPI",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 8,
+    "vicinity": "515 Riverbend Drive Unit 103, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4385776,
+        "lng": -80.51182709999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4398719302915,
+          "lng": -80.5104193697085
+        },
+        "southwest": {
+          "lat": 43.4371739697085,
+          "lng": -80.51311733029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Waterloo Real Estate by TeamMilovick",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJIV5EnE30K4gR0YUTT_1uiAE",
+    "plus_code": {
+      "compound_code": "CFQQ+C7 Kitchener, ON, Canada",
+      "global_code": "86MXCFQQ+C7"
+    },
+    "rating": 5,
+    "reference": "ChIJIV5EnE30K4gR0YUTT_1uiAE",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 15,
+    "vicinity": "370 Highland Road West #15c, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45146829999999,
+        "lng": -80.4950737
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4527396302915,
+          "lng": -80.49377686970851
+        },
+        "southwest": {
+          "lat": 43.4500416697085,
+          "lng": -80.49647483029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Colliers | Waterloo Region",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 400,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106855273571819763389\">Colliers | Waterloo Region</a>"
+        ],
+        "photo_reference": "AeeoHcJL6Qp1A4gxev9toZghJTUiUNBifi165-ecS-jcmM9yY-29M9SVSJ0ha17OQZyzCrjAi9JtE2tEtIbGk342sBA64BiheIsn-KoOwpjbzHWizquxXOMOhFbysRw8dhwHVohJHEVb1ozpBfzannYsSAU3piq6bAOC8h52v4jvYLKflCIHmE9QYlAER8VroYxz1naXp0EQBGhfwly23P1ZQdhNlCOR7A09qilmfUu38vgpLAg3GptJ_ubqNG0hqXiC7JHtp5PAiiykc_dOCUKLuXzVV_KKlNqko6oiR-sLwyY3lBHi-fGBsBIDnDeu9Eh43Sv9JbHRyXs",
+        "width": 599
+      }
+    ],
+    "place_id": "ChIJJzJHufL0K4gRDNT32vsvDzg",
+    "plus_code": {
+      "compound_code": "FG23+HX Kitchener, ON, Canada",
+      "global_code": "86MXFG23+HX"
+    },
+    "rating": 5,
+    "reference": "ChIJJzJHufL0K4gRDNT32vsvDzg",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "305 King Street West #606, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.48532929999999,
+        "lng": -80.5087666
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.48659623029149,
+          "lng": -80.50729481970849
+        },
+        "southwest": {
+          "lat": 43.48389826970849,
+          "lng": -80.50999278029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Homes By WATSON Realty & Appraisals Inc., Brokerage",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2592,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109441962933384184110\">Homes By WATSON Realty &amp; Appraisals Inc., Brokerage</a>"
+        ],
+        "photo_reference": "AeeoHcJmTWEULfIrxOZQVCbs7fiOoBhsLNOXxwFZnoyjnhV86yehQSMlpU_COkvfIqdluY0__mDGJAAzC9wSOJ9yRWyzi7qAMiCt25oD2XrAMr_qwEqR9PBcBfEEjJE5C0kli8DKE6qSAida-P_er-c5M7PTAuWL9XocPnwff--Jgq-js4aOb86NsgvtmiVxHGI-Pb_ng69L7Ylm2T94W_G2uUkN31ju_jwI2UVY-oOeMKMj_jupfxAH-tOmyH7AQ8IPnhTQ3lPBcaX2kgRYFjM08xNxOjhJmWOK2TDsbjAbxw2UksN0W2Xt1kBUrGrDvjvDj76VrLg5R6o",
+        "width": 3888
+      }
+    ],
+    "place_id": "ChIJScJ4u5L2K4gRfCFBSITHO1Y",
+    "plus_code": {
+      "compound_code": "FFPR+4F Waterloo, ON, Canada",
+      "global_code": "86MXFFPR+4F"
+    },
+    "reference": "ChIJScJ4u5L2K4gRfCFBSITHO1Y",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "264 Carlaw Place, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4642352,
+        "lng": -80.465548
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46554898029149,
+          "lng": -80.46420281970849
+        },
+        "southwest": {
+          "lat": 43.46285101970849,
+          "lng": -80.4669007802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Lorrie Gardner, Real Estate Agent",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJy1ouSq_0K4gRvLPFgNwYnxY",
+    "plus_code": {
+      "compound_code": "FG7M+MQ Kitchener, ON, Canada",
+      "global_code": "86MXFG7M+MQ"
+    },
+    "reference": "ChIJy1ouSq_0K4gRvLPFgNwYnxY",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "842 Victoria Street North #16, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47670249999999,
+        "lng": -80.4817467
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4779945302915,
+          "lng": -80.48035961970848
+        },
+        "southwest": {
+          "lat": 43.4752965697085,
+          "lng": -80.4830575802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Bonnie Greenwood -- Keller Williams Innovation Realty",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 959,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100769693236298578007\">Bonnie Greenwood -- Keller Williams Innovation Realty</a>"
+        ],
+        "photo_reference": "AeeoHcJrS3cHt0lvESqvKH0E030V0Ac4S51qFMxmivQwvZJtQnslBMm2u4xlAGES-Y1_x5uVRSg3-v946bLtvk6EgLzGu1uZKqES56Vs0K4dXFnpwpYoKIyvju6Ygg0rPV8FDw28mZXd7HcAUycT6rTZVqqkSLorDrq6-cRS8tw80yUKnpi91Xxj4rS_iDPk251IgifUEa28Zj0SeMcsIVdetVRv1mtYFV5ApjzRbgLAwHqfVR63Ub1FXunJwGz7PtcodPjnWp9vhc6ujFxC_NVGk588L-btb7XbTNm54E6cmNMzL1e22GLZnLumFhF8hVMf7DZYTXc8s_4",
+        "width": 960
+      }
+    ],
+    "place_id": "ChIJE1TnT6_0K4gRngGpMXheHIY",
+    "plus_code": {
+      "compound_code": "FGG9+M8 Kitchener, ON, Canada",
+      "global_code": "86MXFGG9+M8"
+    },
+    "rating": 5,
+    "reference": "ChIJE1TnT6_0K4gRngGpMXheHIY",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 11,
+    "vicinity": "640 Riverbend Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4510506,
+        "lng": -80.5003096
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4524032802915,
+          "lng": -80.49876181970849
+        },
+        "southwest": {
+          "lat": 43.4497053197085,
+          "lng": -80.50145978029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "CBRE Limited",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 644,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117067008666800962866\">CBRE Limited</a>"
+        ],
+        "photo_reference": "AeeoHcICn6iuXjZnsPjlmKKI48nE1azgfmoYe1BZlGAeqUBmmhJPzxLy_r2i9-O5_IkEw5GtS7x0tZBcxeWRNBOlbKL4KlpGM_5AfUW3yP3F58cEBCpMVJjGQ50fe_8CObSepBYHXHYNRtdZCDd81PkVNkfvIZVyO5gHbSZ2TzsfkYWnqMMX_kQxMapzb6A47hm41EFEfR4rwtAiLve4n8P6ospN7iuSmt2SCZbAE2k13h6ymBPWzFfbKUKeBEPxn97mU9g7jsh5Qy-ev-e4yS9Hh4H1CVuDmNLF28o0OnaMXP0ToIR-_L_a23GW3vEKAUQZVknF0yRflGc",
+        "width": 965
+      }
+    ],
+    "place_id": "ChIJwZPrL-30K4gRqRysVEq6kHY",
+    "plus_code": {
+      "compound_code": "FF2X+CV Kitchener, ON, Canada",
+      "global_code": "86MXFF2X+CV"
+    },
+    "rating": 3,
+    "reference": "ChIJwZPrL-30K4gRqRysVEq6kHY",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 8,
+    "vicinity": "72 Victoria Street South Suite 200, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47506879999999,
+        "lng": -80.47879789999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4764639802915,
+          "lng": -80.47755496970848
+        },
+        "southwest": {
+          "lat": 43.4737660197085,
+          "lng": -80.4802529302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Denis Pellerin, Sales Representative, Coldwell Banker Peter Beninger Realty",
+    "photos": [
+      {
+        "height": 965,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110246161893950937375\">Denis Pellerin, Sales Representative, Coldwell Banker Peter Beninger Realty</a>"
+        ],
+        "photo_reference": "AeeoHcLBhexuZELjnF01KY39B70wAtVoUPiZHcgWtKXC8VaBRkOb2wwAjlTQdyEozryCHic2_RkQCgzTeqPod17v9NJFTY2Em0OkD2jLc0SRQEPjB3mN7HTmQEYIyYJ4UzlqCH77PaZxaDnmuD5LggEXjJrhns3TuVOnR7X2hA50aFBN6HANfA2XJHnzBhZxAXIG93yOBLD2pA1Wqp5V-uRsVx7bA-G8ZNiCFhEx1igOrlZNpxFr7pqswT2bKaUHahaP7j9Kri0RFzeYbqOWT1bZL0OWHUAAH6EvwoGsHdZp4yuXhuCCbGv_7FXx9xgdWwnh_y_CIDCV-HA",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJUW79r2DzK4gRL1MFK4HGUTA",
+    "plus_code": {
+      "compound_code": "FGGC+2F Kitchener, ON, Canada",
+      "global_code": "86MXFGGC+2F"
+    },
+    "reference": "ChIJUW79r2DzK4gRL1MFK4HGUTA",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "508 Riverbend Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4463338,
+        "lng": -80.5195646
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4474649302915,
+          "lng": -80.5181403197085
+        },
+        "southwest": {
+          "lat": 43.4447669697085,
+          "lng": -80.5208382802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Twin Cities Dry Storage Ltd",
+    "place_id": "ChIJIUk7MUb0K4gRQrSz1EGxbvY",
+    "plus_code": {
+      "compound_code": "CFWJ+G5 Kitchener, ON, Canada",
+      "global_code": "86MXCFWJ+G5"
+    },
+    "rating": 4,
+    "reference": "ChIJIUk7MUb0K4gRQrSz1EGxbvY",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "335 Gage Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4636914,
+        "lng": -80.4651945
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4648894802915,
+          "lng": -80.46356271970849
+        },
+        "southwest": {
+          "lat": 43.4621915197085,
+          "lng": -80.4662606802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Bill Taylor, Broker @ RE/MAX Twin City Realty Inc., Brokerage",
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118141292848437638476\">Marta Borowska</a>"
+        ],
+        "photo_reference": "AeeoHcIcGXc8v6yytMD9Jb1KWcRgny2JngGEqqckDjclgr27LYOJkrssa9ESABCjjqmmC1MaA_uCJ9SkAI80ZH_Pc0n577jeVkVvXpn030zg9q-KuRBdPcu-iPgx8nZY2wPyjcqnFb_dsRkmu128xnVCopHe9r3nQ0D-5K7lJ6TmEDmjRIsrOLEYU40S4341eMkKIBVhkZ9Et2H_VVpFVSTrk0kNDyv1IeOiogsrHYXYNyDbAFC6xw22rDO074RyvJFbmwLbSBr5_FS3aTk73jrFNaW_nB7lMtI9rvPpyKAbsuhDIJZPIs8QW4mpMrTg0XeYIiAgFIRkgGYiMUYVO4_feAAxRlwxUWJtsw9BEEpjjfR-L9UI-rFbAoGrdjUNcumd3YHX4GK6YGc3ZF010uUhm6fo9ByTcyLfz--zA6jd0K2hLhRfCtAyQ6opoZ9i-NXZhvxyib6eAA6LU6IhKtKslsXgZoXuYUczfKPZnp5kY0iT7MAulSvbcaFUvuf3eoBdfnP5VcrOCMgxhByglQBzuosSw5nKp6H6d3VutTQKyPPUbPZJo_aQG4Tr7USl_4ML-yCeTJ9FyE4e47ilmynwPZPnfdlqZkpd9_eogQ8rgVftM8HQnP7rD0epaGmv2_pt7fGFzg",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJE1TnT6_0K4gR4Y3q2dK_UoY",
+    "plus_code": {
+      "compound_code": "FG7M+FW Kitchener, ON, Canada",
+      "global_code": "86MXFG7M+FW"
+    },
+    "reference": "ChIJE1TnT6_0K4gR4Y3q2dK_UoY",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "901 Victoria Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4983057,
+        "lng": -80.5338611
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4996128802915,
+          "lng": -80.5324520697085
+        },
+        "southwest": {
+          "lat": 43.4969149197085,
+          "lng": -80.53515003029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Melanie & Warren McNeil Real Estate",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJE1TnT6_0K4gRJuT6iH2eUMQ",
+    "plus_code": {
+      "compound_code": "FFX8+8F Waterloo, ON, Canada",
+      "global_code": "86MXFFX8+8F"
+    },
+    "rating": 5,
+    "reference": "ChIJE1TnT6_0K4gRJuT6iH2eUMQ",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6,
+    "vicinity": "410 Conestogo Road Unit 210, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4481955,
+        "lng": -80.5031453
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44951773029149,
+          "lng": -80.5018275697085
+        },
+        "southwest": {
+          "lat": 43.44681976970849,
+          "lng": -80.5045255302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Hercules Mina, MORTGAGE BROKER & REALTOR®",
+    "photos": [
+      {
+        "height": 315,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115283201989821722272\">Hercules Mina, MORTGAGE BROKER &amp; REALTOR®</a>"
+        ],
+        "photo_reference": "AeeoHcJldbUGBoqobw-04EJJOZo6X8_7SIfyofsGmEOIbmx7h0RcJk-0Iy0xZ7i9QMS9KKa7dYef7aDkJP3Ev08i2y-Bgy9D4RIxx5uwnPkkoq1elKPE00gDrP6Q19qzLua-gmPg0ygSBigAI1GfxmQ_GOgIyY2GbSB5MbnJlcyLanHiWJ5guDooXdrOWtoB1OBfZjE4sUuepZoWDsKL78uohNXUjEt8Haifs4Do0ygD6mgX9fTsyq_LJvNIAa9_3HAok4vJzp2aktj0Upax8vB4Evgkk8WvHw72oLoHAfOyQWxYkfD9IOo8QPom_IPC840Eaa7yEInq",
+        "width": 851
+      }
+    ],
+    "place_id": "ChIJl85ITcP0K4gRAx8TSp4C5oM",
+    "plus_code": {
+      "compound_code": "CFXW+7P Kitchener, ON, Canada",
+      "global_code": "86MXCFXW+7P"
+    },
+    "rating": 4.9,
+    "reference": "ChIJl85ITcP0K4gRAx8TSp4C5oM",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 40,
+    "vicinity": "178 Victoria Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47407210000001,
+        "lng": -80.4775816
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47548183029151,
+          "lng": -80.47621216970849
+        },
+        "southwest": {
+          "lat": 43.47278386970851,
+          "lng": -80.4789101302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Puloski Terry W Century 21 Home Realty Inc",
+    "place_id": "ChIJBRjiTdD0K4gRm5vrVS7Daeg",
+    "plus_code": {
+      "compound_code": "FGFC+JX Kitchener, ON, Canada",
+      "global_code": "86MXFGFC+JX"
+    },
+    "rating": 5,
+    "reference": "ChIJBRjiTdD0K4gRm5vrVS7Daeg",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "515 Riverbend Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4983325,
+        "lng": -80.5337608
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4997352302915,
+          "lng": -80.5323124197085
+        },
+        "southwest": {
+          "lat": 43.4970372697085,
+          "lng": -80.53501038029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "E Ted Peak Realty Ltd",
+    "place_id": "ChIJo7zNUsPzK4gRWQxuvQNKwwE",
+    "plus_code": {
+      "compound_code": "FFX8+8F Waterloo, ON, Canada",
+      "global_code": "86MXFFX8+8F"
+    },
+    "reference": "ChIJo7zNUsPzK4gRWQxuvQNKwwE",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "410 Conestogo Road, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4514935,
+        "lng": -80.49500619999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45274533029149,
+          "lng": -80.4937431197085
+        },
+        "southwest": {
+          "lat": 43.45004736970849,
+          "lng": -80.4964410802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Colliers Macaulay Nicolls Inc",
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114388500458405320069\">Janice Scicluna</a>"
+        ],
+        "photo_reference": "AeeoHcJn1jxYiyQ8H94rIo7NXHIFu2BTWpjMSCsX2USGfGfd_C3OeoP2wvTHdtQvjxG9SukMdzPrCGwO891Qh7uoLQG-7fKKKCvHXfcrFwN3Dt7WWU9b6HMLGzhjcSObHkrqqfbtiXCQbaUHbG1j9U1uHN22cDBQODWEjvvXneVkL7hXGIIuxfPC_VtlRdjEGs_sbmXhGl3oT0fxnIfe8RRBnYRKbwGjwvnGpqyHT_PkmxBDPYsAtttwN7Omkb0mLHm5EFDJPkX60IKotQf2fYKsPfZaCYn-D62xX7u5biowAl2Qyy-_Z0FRtv-zRwYoRBUXcMqDKzsDFgkvoK-j5Nxxq99iYMUnr3EyhlIf8wYnQ4h9gOZAKPid53gm0hxd00YdxdKQtto3KujGYyC_J1CimVMc9YD-KcLfEoOTvvdPIa1l8SmSQg0_KgW_NPNmcIP9iPDliDdmWoLnVyhUQbFHtLKqeMzCQVU1NjSeSxsX7egAFCeBI5GUa667rXxjZ5HspVMe2qyFYvkqzF1nguDv3dEQ9O8AgMtpY2yrJSfBXggxbkB3p8V0FCXGIRcxprxKyGG01dW8ll0j_nkkLBmj_g7_RlLwp5Fim10WqL5l8HtEglX9ohey1LVwHbdXFG3aniZfkA",
+        "width": 3000
+      }
+    ],
+    "place_id": "ChIJt_yN9In0K4gRASLX_lrMdHs",
+    "plus_code": {
+      "compound_code": "FG23+HX Kitchener, ON, Canada",
+      "global_code": "86MXFG23+HX"
+    },
+    "reference": "ChIJt_yN9In0K4gRASLX_lrMdHs",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "305 King Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4960173,
+        "lng": -80.53022
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4973583302915,
+          "lng": -80.52914636970849
+        },
+        "southwest": {
+          "lat": 43.4946603697085,
+          "lng": -80.5318443302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Whitney & Company Realty Limited Brokerage",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1371,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107083067207233629684\">Whitney &amp; Company Realty Limited Brokerage</a>"
+        ],
+        "photo_reference": "AeeoHcIaoRpsIGyhjbqZCq86I0BZHn7d3u3hvZcVIrUphhq9gNnk0doeFrPQbC_4USLulEnIuzqywqEkDIs7aEVneg0iutmVNn7okk83qWco5Q_q1CHGV7dQ7Rfr1-YeZFPSd94a-SmD5fFCyhH7UWxIj5OV12WiY4ckFH-fiyyYWNriz4hiV9ZGLb5yT23CVutJh8_bLqEAMzD6wvmzuAQU667Lrlfa2a001cFQhjAau5uHrsSQXIxDZu26SrqJV2YLfeP5vEu6TIU9CFCMWAyRoVNVKfcO_0tA_YLP8YK7BSFrfhpcthe444smAgAyjR4D1qW1k1jfeSY",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJBy3tMUvyK4gRxyF0wX7RHiI",
+    "plus_code": {
+      "compound_code": "FFW9+CW Waterloo, ON, Canada",
+      "global_code": "86MXFFW9+CW"
+    },
+    "rating": 4.8,
+    "reference": "ChIJBy3tMUvyK4gRxyF0wX7RHiI",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5,
+    "vicinity": "103 Bauer Place Suite 2, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.50560419999999,
+        "lng": -80.52736709999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.50703078029149,
+          "lng": -80.5258980197085
+        },
+        "southwest": {
+          "lat": 43.50433281970849,
+          "lng": -80.52859598029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Primus Realty Ltd.",
+    "place_id": "ChIJ2Qw12s7zK4gRd_i7m71iPdg",
+    "plus_code": {
+      "compound_code": "GF4F+63 Waterloo, ON, Canada",
+      "global_code": "86MXGF4F+63"
+    },
+    "rating": 2.3,
+    "reference": "ChIJ2Qw12s7zK4gRd_i7m71iPdg",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "B-105, 151 Frobisher Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4640727,
+        "lng": -80.4965466
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4654464302915,
+          "lng": -80.49521791970851
+        },
+        "southwest": {
+          "lat": 43.4627484697085,
+          "lng": -80.49791588029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Margaret Place",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1125,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104798307190637518996\">Margaret Place</a>"
+        ],
+        "photo_reference": "AeeoHcLOr8DbbpC-vcQvyMpcprt8U1mO5hCgM4_bpqVr0S4l9oqdUCOK7FtxmSYPGcDfVE8Kg8b8ZiBffwa8ixXaPZhL8zStbt5Pb2HAelRMS5DaVfLGETh-ufyV2R6cJc1enR1l28p-jIcKKTvaGtzzXMuXFOsT9Y0wq82SVomPyoiNKJojdDvEPvmQPCpK8fxRkC7KoqYHEcg9woZEwNZVtcKDL0EtAxYF_PKnpS5Ilt5j62uFFWI7sg8Vzd7HnPZvcrqCXcejiY5K54f1txi1FktO3R59dtS443Qe1UXQm2iMwRLqykEINI9c4wdizWYjxWCpIj13Hto",
+        "width": 1125
+      }
+    ],
+    "place_id": "ChIJkebeAIf0K4gRNq7YfuoD7kA",
+    "plus_code": {
+      "compound_code": "FG73+J9 Kitchener, ON, Canada",
+      "global_code": "86MXFG73+J9"
+    },
+    "rating": 4.4,
+    "reference": "ChIJkebeAIf0K4gRNq7YfuoD7kA",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 25,
+    "vicinity": "315 Margaret Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4486584,
+        "lng": -80.4839499
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44998048029149,
+          "lng": -80.4825419197085
+        },
+        "southwest": {
+          "lat": 43.44728251970849,
+          "lng": -80.4852398802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Matlow Ely Ely Matlow",
+    "place_id": "ChIJw9T6Zez0K4gRoX_H7kDm9Og",
+    "plus_code": {
+      "compound_code": "CGX8+FC Kitchener, ON, Canada",
+      "global_code": "86MXCGX8+FC"
+    },
+    "rating": 1,
+    "reference": "ChIJw9T6Zez0K4gRoX_H7kDm9Og",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "28 Eby Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44230419999999,
+        "lng": -80.4965733
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44370738029149,
+          "lng": -80.49530941970849
+        },
+        "southwest": {
+          "lat": 43.44100941970849,
+          "lng": -80.49800738029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Queen South Business Ctr",
+    "photos": [
+      {
+        "height": 4624,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105682155392908374923\">Amal Thomas</a>"
+        ],
+        "photo_reference": "AeeoHcKlLhwYmR1Z0X4R3V-q-L2VSihiE95JMt0UfPKtp7zUzHz1_H06Jr-554cu0wvcpo3Dc4pZZR-7WX_R-0U2FpwCQGUBSDW3zv-LDgp6SIMAgFFWvCK-ajGxjyLlEpTQN3-opjAEsK7PoPzZU_RWnD9jEqueHxmJF9dRvwH30LRP_4Ex0oCmbNptnCNQMsgoz4tVNpi2LKcwRzx_rPGF8jWqe3-ywILJU4QAqP9-5VTtSIAIXCN-qDmKkvCdq1WGiFrJqqwzyR7OaHTqSqiVldOj8gRFPyKCPjzhwJOLcwl7dGjvXHI-x1tNBkPECJNQU_e15oCbALCGRNSGPiE8xSG9Kl5QsT_KE6gz_LU_nQAx-Q93n-ma5lu_rdUikNgXEPwf-SlVaZG_U1qypsruq7CSajBtiWJRA60FCSs_Q8vUPl2U2kLy_B4ODW7LEZjijSBWI7L-y0-ska3I_JiLayEqEiDww_k15G15-_Dwn7Dj9_tTXNSyfYWMBs0B9ef5ToQsUU-ZzHNCzaCwloS4A44cfMAZrIDGt_JnyB8w09NkgO8pDulc6Hf9YHGSAAFk4XBGS8McOBbOX4Pr7NvKNYWROzg535PNehdEKK-BqIau_wtgDlnjHy7BVm4hMjZ3HwX3OQ",
+        "width": 3468
+      }
+    ],
+    "place_id": "ChIJkZVsM_j0K4gRJacmtuefo6w",
+    "plus_code": {
+      "compound_code": "CGR3+W9 Kitchener, ON, Canada",
+      "global_code": "86MXCGR3+W9"
+    },
+    "rating": 4.5,
+    "reference": "ChIJkZVsM_j0K4gRJacmtuefo6w",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 21,
+    "vicinity": "675 Queen Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4500971,
+        "lng": -80.4839667
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4515368802915,
+          "lng": -80.48254176970849
+        },
+        "southwest": {
+          "lat": 43.4488389197085,
+          "lng": -80.4852397302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Alasdair Douglas, Sales Representative, Royal LePage Wolle Realty",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 500,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102227307773123655723\">Alasdair Douglas, Sales Representative, Royal LePage Wolle Realty</a>"
+        ],
+        "photo_reference": "AeeoHcIb_l6190eaRxTug7VkTnc7P_638R9ysMF_dZXZHdzWkK6MldT4ATZMvHfjIoyr7VD6r3nqLF70JYxjcK18CEArRARpKh55NafSl5a0rCF0NB7wFSEzeWf5TVaJepHHeP26YQlcldsSi1b6AQ69r7Y8KhPuDOTFn7IfZez-c9Z1SELPF-lTwLfRAXU7a3OWS1J-ec9TXAqb4DIumhxkT2x_tz9M16S-h9feZYA5qGN_psQMZvLkeuhM43QaeFHY7qZWImEVHJSGkOThkCac76wzbvlkOeNEbKpwFotJBl__fgkcQgdaHTX4oGhWKlyJ84QAFL-vLA8",
+        "width": 500
+      }
+    ],
+    "place_id": "ChIJ5VZl6k30K4gR_g9O9MkdIWs",
+    "plus_code": {
+      "compound_code": "FG28+2C Kitchener, ON, Canada",
+      "global_code": "86MXFG28+2C"
+    },
+    "rating": 4.9,
+    "reference": "ChIJ5VZl6k30K4gR_g9O9MkdIWs",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 9,
+    "vicinity": "71 Weber Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4744973,
+        "lng": -80.47783869999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47584123029149,
+          "lng": -80.4764805697085
+        },
+        "southwest": {
+          "lat": 43.47314326970849,
+          "lng": -80.4791785302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Shiell Don Coldwell Banker Peter Benninger Realty",
+    "place_id": "ChIJUW79r2DzK4gRnZ1EO1gj0FI",
+    "plus_code": {
+      "compound_code": "FGFC+QV Kitchener, ON, Canada",
+      "global_code": "86MXFGFC+QV"
+    },
+    "reference": "ChIJUW79r2DzK4gRnZ1EO1gj0FI",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "508 Riverbend Dr, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45403400000001,
+        "lng": -80.49532459999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4553388802915,
+          "lng": -80.49415741970849
+        },
+        "southwest": {
+          "lat": 43.45264091970851,
+          "lng": -80.49685538029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "TrilliumWest Real Estate Brokerage",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2074,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112036364198561117582\">TrilliumWest Real Estate Brokerage</a>"
+        ],
+        "photo_reference": "AeeoHcJgqXxTLO6fciiTPd4bCgzDF79WP0eLd1C0qjOFKTAdLbeFh1gthpARLgklWKtqWHRae7eEsjwKxPp27a5XoipG3wX2pe9U0MeTT_KTVPILi4pzUDr7KKxwUFR43p1Y3y42woVfX0HKz9ojJk92deEMXUAqMVmWe9xCzxh-Bx9jLcLlCG4FphhAs9NIuKwh23ULrIwFgR_g5QYuTa_NI09MO8AfMqZtaEdKGwMmf-2fqWh1X0PAVNtqTymPQYq5CzPBw6NYzJe6KxrINP8Kul8ZikbDVBLD2YTO43IGfvUtRuDpmTLhz9TzzRiCthNsN9WC0Nwtjx8",
+        "width": 2898
+      }
+    ],
+    "place_id": "ChIJ-8Zd2s7zK4gRQot6YaMvSMs",
+    "plus_code": {
+      "compound_code": "FG33+JV Kitchener, ON, Canada",
+      "global_code": "86MXFG33+JV"
+    },
+    "rating": 5,
+    "reference": "ChIJ-8Zd2s7zK4gRQot6YaMvSMs",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 396,
+    "vicinity": "240 Duke Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4631145,
+        "lng": -80.4656346
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4645391302915,
+          "lng": -80.4644070197085
+        },
+        "southwest": {
+          "lat": 43.4618411697085,
+          "lng": -80.46710498029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "KW Homes Realty.com",
+    "place_id": "ChIJE9r086X0K4gRAgG1TG8JoC8",
+    "plus_code": {
+      "compound_code": "FG7M+6P Kitchener, ON, Canada",
+      "global_code": "86MXFG7M+6P"
+    },
+    "reference": "ChIJE9r086X0K4gRAgG1TG8JoC8",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "871 Victoria Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4865232,
+        "lng": -80.54048
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4878022302915,
+          "lng": -80.5390802197085
+        },
+        "southwest": {
+          "lat": 43.4851042697085,
+          "lng": -80.5417781802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Roach Realty Group | Top Waterloo Ontario Real Estate Agents",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1242,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118058454859932701323\">Roach Realty Group | Top Waterloo Ontario Real Estate Agents</a>"
+        ],
+        "photo_reference": "AeeoHcLz_FUqGO6wnP0ywT8ushFov3vEyAr2cJ1tt1lUDsYmd-sTvi4UqSFlcUEp6s14HOJo2MjYTvmB5D9O5RvpQAJLmJ0-oTc3YlbcWfCNSBQVfs9-o37hLV9RB1TDPzhpVje0FWASwnpZ2agn4kRamci52GQjDlN8wLRCoeXWhPNAID0Az-idrVqdJYMK4fHlAnRhTcIj7FGsTOz3V52iDmULeHituToDHDriRBVovvR502txH2ZxGTPuIu6v8vFo9JLz3H5MDrzXiGU_yLbE_jaFeXxFrorcUJAntPbYX4_2VPqODgDf2PKtEW0QHGUlt1kyFhwy38Q",
+        "width": 1698
+      }
+    ],
+    "place_id": "ChIJ-0b3yGDzK4gRYiP0vzT6w9k",
+    "plus_code": {
+      "compound_code": "FFP5+JR Waterloo, ON, Canada",
+      "global_code": "86MXFFP5+JR"
+    },
+    "rating": 4.9,
+    "reference": "ChIJ-0b3yGDzK4gRYiP0vzT6w9k",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 38,
+    "vicinity": "496 Albert Street #4, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47489659999999,
+        "lng": -80.4787558
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47628213029149,
+          "lng": -80.47730491970849
+        },
+        "southwest": {
+          "lat": 43.4735841697085,
+          "lng": -80.4800028802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Lee Payne, Real Estate Agent @ Coldwell Banker Peter Benninger Realty",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJI05WymDzK4gR4kzRKvqtplw",
+    "plus_code": {
+      "compound_code": "FGFC+XF Kitchener, ON, Canada",
+      "global_code": "86MXFGFC+XF"
+    },
+    "reference": "ChIJI05WymDzK4gR4kzRKvqtplw",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "508 Riverbend Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47670249999999,
+        "lng": -80.4817467
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4779945302915,
+          "lng": -80.48035961970848
+        },
+        "southwest": {
+          "lat": 43.4752965697085,
+          "lng": -80.4830575802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dave Roach, Broker",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJNy3KGxL0K4gR0DSio_s9I10",
+    "plus_code": {
+      "compound_code": "FGG9+M8 Kitchener, ON, Canada",
+      "global_code": "86MXFGG9+M8"
+    },
+    "reference": "ChIJNy3KGxL0K4gR0DSio_s9I10",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "640 Riverbend Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4632991,
+        "lng": -80.4647222
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4647280302915,
+          "lng": -80.46332951970851
+        },
+        "southwest": {
+          "lat": 43.4620300697085,
+          "lng": -80.46602748029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Ian Jenkins Sales Representaive Re/Max Twin City Realty Inc., Brokerage",
+    "place_id": "ChIJqVXnT6_0K4gRGfVBkPwSCBA",
+    "plus_code": {
+      "compound_code": "FG7P+84 Kitchener, ON, Canada",
+      "global_code": "86MXFG7P+84"
+    },
+    "reference": "ChIJqVXnT6_0K4gRGfVBkPwSCBA",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "901 Victoria Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4656532,
+        "lng": -80.5176355
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4669458802915,
+          "lng": -80.51621786970848
+        },
+        "southwest": {
+          "lat": 43.4642479197085,
+          "lng": -80.5189158302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Brent Mulligan, REALTOR",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1266,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110009649200276004402\">Brent Mulligan, REALTOR®</a>"
+        ],
+        "photo_reference": "AeeoHcJ0QytZYZFsVBBkbINR_GX5q4nUmNZ8epqaHdVRMLMaRdElE59rNZD9F8MoRs2Nn55w5S-qNBR9nJEBzK0yd3qLqYUZ_ENAUDk79aLYauQ5m4vWfFdF4Xf7xSR-5L4k052PzeGJEQNI7Heazz1ygHMaIXkyJ7sA72yHU-V0QVd0UjNDruaNg4Mt_dQzMDHoeVqNjIFG7EzRcwqmWZHcyZUF6LqsKMwqqld_c7rIExBgL0jPUiIA7aIdZySPe-D1U6M2lIzevVvPaX04OuPtO_46BKL-wLPrhhM4YbHzEXYS3c_ymuGnoa6gfaGAesdRhXL8s7HpMVk",
+        "width": 1061
+      }
+    ],
+    "place_id": "ChIJfXGq7yJvcVMR2X7SjecDQsU",
+    "plus_code": {
+      "compound_code": "FF8J+7W Waterloo, ON, Canada",
+      "global_code": "86MXFF8J+7W"
+    },
+    "reference": "ChIJfXGq7yJvcVMR2X7SjecDQsU",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "83 Erb Street East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4521443,
+        "lng": -80.4972143
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4536623302915,
+          "lng": -80.49578436970849
+        },
+        "southwest": {
+          "lat": 43.45096436970851,
+          "lng": -80.49848233029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Steve Bailey, Broker | The Agency",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJheUGZQeJK4gR36GJW90GDjU",
+    "plus_code": {
+      "compound_code": "FG23+V4 Kitchener, ON, Canada",
+      "global_code": "86MXFG23+V4"
+    },
+    "rating": 4.4,
+    "reference": "ChIJheUGZQeJK4gR36GJW90GDjU",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 13,
+    "vicinity": "417 King Street West Unit B1, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4634209,
+        "lng": -80.464807
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4648032802915,
+          "lng": -80.4634412697085
+        },
+        "southwest": {
+          "lat": 43.4621053197085,
+          "lng": -80.4661392302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Kenny Chen's Real Estate",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1520,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117536051518651630763\">Kenny Chen&#39;s Real Estate</a>"
+        ],
+        "photo_reference": "AeeoHcKh3qfX-4Gk9eRDv_sd4TC1nR02a3fTADwbIVSeflAFamHFkOOyejH1MByTUcziakcSCr64vl9aC_2snmnrUml_fvS4HT2_USPlhHtDTA5ftBBkYRgf-FR99peo4VcSHPHD91ubYZ56XgNbsltiUYFQBNFJb-nshx_y_y2pdpZOCP6gfvUay_RJVrVKTvxmF_6e149X1NBOyttwwl58fsn5DkhBFCiBFFKWylOhASHMzpPKsiLE6Qtk_fRMSgRH4mVHIiCfAXSzTtcAhzs5KjFA4FNtNEjoQO2TaHDJL4zUlGa4BfXeLtvMKbzNfG4VkFqoxK_H6Qk",
+        "width": 1967
+      }
+    ],
+    "place_id": "ChIJ8dLoRa_0K4gRpO0giTxDaO4",
+    "plus_code": {
+      "compound_code": "FG7P+93 Kitchener, ON, Canada",
+      "global_code": "86MXFG7P+93"
+    },
+    "rating": 5,
+    "reference": "ChIJ8dLoRa_0K4gRpO0giTxDaO4",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "general_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 7,
+    "vicinity": "901 Victoria Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4634245,
+        "lng": -80.5215315
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4647919802915,
+          "lng": -80.52005531970849
+        },
+        "southwest": {
+          "lat": 43.4620940197085,
+          "lng": -80.5227532802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Preet Sahota, Realtor | Kitchener - Waterloo",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108091570499158178431\">Preet Sahota, Realtor | Kitchener - Waterloo</a>"
+        ],
+        "photo_reference": "AeeoHcJ3TrtA_fUMhQP26KeRIZXv8Qp29FyRoClsV917p7E6Rh0-LdFycdH7v6zrDy3eAsVAD8zKeKwTgNIrx49hOqkxzWWo3B2BXbLGHf-f52u7oWOoqc8UNJfZDGwxgoOioJQkouTj0S82NOrvFFGAY_9OS8jOeK0XmzectwI2QPY88no4LhcKAaoC0eS_U_kqLYbZQnedwb8KuO2xllKeug0vU62utT_aXrCI-d1Yny3I9lYt3Z6nNPS98P08edCY-YjMcX3H2gUn-sQw3GEOjFgTndl1NiDj3bOUlm2-XIz2IL_32sbDLwe63HaMl6UAq5GpqbDB6OY",
+        "width": 2268
+      }
+    ],
+    "place_id": "ChIJJ08eQa_0K4gReTXdjw-BI1A",
+    "plus_code": {
+      "compound_code": "FF7H+99 Waterloo, ON, Canada",
+      "global_code": "86MXFF7H+99"
+    },
+    "rating": 4.9,
+    "reference": "ChIJJ08eQa_0K4gReTXdjw-BI1A",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 51,
+    "vicinity": "80 King Street South Suite 105, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4674523,
+        "lng": -80.5160497
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4688491302915,
+          "lng": -80.5146201197085
+        },
+        "southwest": {
+          "lat": 43.4661511697085,
+          "lng": -80.5173180802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Sell A House",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJnc3q4XP0K4gRjzlbGVJfLqc",
+    "plus_code": {
+      "compound_code": "FF8M+XH Waterloo, ON, Canada",
+      "global_code": "86MXFF8M+XH"
+    },
+    "reference": "ChIJnc3q4XP0K4gRjzlbGVJfLqc",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "27 Moore Avenue North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4596122,
+        "lng": -80.5187528
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4609382302915,
+          "lng": -80.5173601697085
+        },
+        "southwest": {
+          "lat": 43.4582402697085,
+          "lng": -80.5200581302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Condo Culture - Uptown Waterloo",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3840,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100237776007649727047\">Condo Culture - Uptown Waterloo</a>"
+        ],
+        "photo_reference": "AeeoHcLzdcaAEkby49bwoOlGuryHb4GxeGe0C5X9rtnAmnPzENRFVdCxGNd8rQAM0lwooqxPkv1BVPglAGWIApJYGZQuUnNU1LIbqfZcjkVKp0wFSLR_u9ucuuDgzR4gAJBtWiWlIl8HInuVVFD_OVUMBiaWZXJ2VgOa7K6SJM4LN8-axv7-bPtWlih-gcBlfzp2DqmnzXVLIuDXfF510y_Qi4MQ1tWbej7XHtT01M5wRfjOp1YDX0Yt1PQQV5TQazxNeOodm3GG0gpk9cwMubQjvd0AYUf2jmCVCMmZLenAJUaVNZmGbZAUW8MH_tTNI2sFZvE4lFXqEoU",
+        "width": 5760
+      }
+    ],
+    "place_id": "ChIJE2S8Ymz0K4gRRcVpmkW6fEw",
+    "plus_code": {
+      "compound_code": "FF5J+RF Waterloo, ON, Canada",
+      "global_code": "86MXFF5J+RF"
+    },
+    "rating": 4.6,
+    "reference": "ChIJE2S8Ymz0K4gRRcVpmkW6fEw",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "general_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 123,
+    "vicinity": "Bauer Lofts, 191 King Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4633085,
+        "lng": -80.5269266
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4645999802915,
+          "lng": -80.52550896970851
+        },
+        "southwest": {
+          "lat": 43.4619020197085,
+          "lng": -80.52820693029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Tyler O'Donovan, Your Realtor in Waterloo Region",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1152,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103170281410559916866\">Tyler O&#39;Donovan, Your Realtor in Waterloo Region</a>"
+        ],
+        "photo_reference": "AeeoHcJCwqPbLHOuSp49OPzqs6lxuAXEn8vL6-WWkyGstIia-t7g22TMLFQSpeIhsKFDgJITYE3wt6oNrrQvf5AqUxouYouO_jon4OwzTO8Iv-bhIe_XaWxDuM5DIh0URJfQm4KJgLwXaNDhKw0Hned2nbfeQr4OJQx0HbCCg7bkGF6Tejw2wZegMsgTJ4Ts1b29xiSNgediiyxkrtjy9euKA45mObWnzxGrQHfgz_-ZavVyVmpD_xyaRoi1ZQ1YzrpOuH5FKQ5YEroep707CydV_7b7jYHf39xdZsDDD0k-W02Bhr6DajkdNtPUAIcN2qD5kYPX6GNtkzM",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJZwGGiRH0K4gRODATBdubR1c",
+    "plus_code": {
+      "compound_code": "FF7F+86 Waterloo, ON, Canada",
+      "global_code": "86MXFF7F+86"
+    },
+    "rating": 5,
+    "reference": "ChIJZwGGiRH0K4gRODATBdubR1c",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 19,
+    "vicinity": "RE/MAX Twin City Realty Inc, 83 Erb Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4632652,
+        "lng": -80.527081
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46454568029149,
+          "lng": -80.5258199697085
+        },
+        "southwest": {
+          "lat": 43.46184771970849,
+          "lng": -80.5285179302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Kevin Jones | ReMax Twin City Realty Inc.",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJNy3KGxL0K4gROQAtbiyLQls",
+    "plus_code": {
+      "compound_code": "FF7F+85 Waterloo, ON, Canada",
+      "global_code": "86MXFF7F+85"
+    },
+    "reference": "ChIJNy3KGxL0K4gROQAtbiyLQls",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "83 Erb Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.463267,
+        "lng": -80.5271083
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4645465802915,
+          "lng": -80.52583361970851
+        },
+        "southwest": {
+          "lat": 43.4618486197085,
+          "lng": -80.52853158029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Peter Kostecki - Kostecki Real Estate Group",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3701,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105389167051344788303\">Peter Kostecki - Kostecki Real Estate Group</a>"
+        ],
+        "photo_reference": "AeeoHcK9Mxs8MKID8B9FoO7vJpLA9ln0Ru5YWrwD3q6AO0omQdf7JZWbIWF3Zp_29LTJ98FBBos2hM0XflSh63eoW64KYjSybkD1C04eNWp9tKGHfNmHGRFNKayzdS0GZyNzf0k00oj8hroCxkbG0CqmadLN2IrzasXZS-dLV-bcW_oZPvPwW5UfWoLowR6CjppJVpaRfc5GmesALQbHV6gIIcA1vTiMEZRUuK_QOShCQicnfRXXGts_7j5xoHEDv6KUwmjtJt9192lKfVqvm598yXKmc5mq1Kib3-BmTeNe9IArr2CuNewXjZek1NvLb6I0FGFaQTMKisw",
+        "width": 2467
+      }
+    ],
+    "place_id": "ChIJNy3KGxL0K4gRsJPbsaUOxmQ",
+    "plus_code": {
+      "compound_code": "FF7F+85 Waterloo, ON, Canada",
+      "global_code": "86MXFF7F+85"
+    },
+    "rating": 4.8,
+    "reference": "ChIJNy3KGxL0K4gRsJPbsaUOxmQ",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 80,
+    "vicinity": "83 Erb Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4632501,
+        "lng": -80.52713
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46453813029149,
+          "lng": -80.5258444697085
+        },
+        "southwest": {
+          "lat": 43.4618401697085,
+          "lng": -80.52854243029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Danny Lieto RE/MAX",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3548,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116611749860092501152\">Danny Lieto RE/MAX</a>"
+        ],
+        "photo_reference": "AeeoHcK3jO11O82mazAfwAaKFU4_Kq_telA75Nwsx-9HFtk03mGqUQhqT3sVMXz1gSuak9H49E8E34VW0nBShLW6m5GhODxlpK01SzdJGOUEXHVG0Vb6jsTJsOfgQOanKquEDvuGt-URisbp5N1SqodMkN7CONtAW_hqNMrNuRXT-hj5Gd9simXO4xROXY0dDB40ilg1Kph3B-6CYTDV8N5x31-j0AW-eQaMZgDbmnrhV14WcFeDlcIvqAtvY95Hq-vwIze9RxPHNQc9-avdpHligUDvnUtfl-MHRCsVZv38luEGJMO0VCAdAsMAhfFkai_-a86VzVvv_yg",
+        "width": 3326
+      }
+    ],
+    "place_id": "ChIJET_QWKD1K4gRDF8y6wx7WLc",
+    "plus_code": {
+      "compound_code": "FF7F+84 Waterloo, ON, Canada",
+      "global_code": "86MXFF7F+84"
+    },
+    "rating": 5,
+    "reference": "ChIJET_QWKD1K4gRDF8y6wx7WLc",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 17,
+    "vicinity": "83 Erb Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46330460000001,
+        "lng": -80.5271783
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4645653802915,
+          "lng": -80.5258686197085
+        },
+        "southwest": {
+          "lat": 43.4618674197085,
+          "lng": -80.52856658029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Mike Bishop Realtor",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 342,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117570166566472911582\">Mike Bishop Realtor</a>"
+        ],
+        "photo_reference": "AeeoHcJ_UZRG2By7iHY7B8abWGfiXTq9d8qrvXTKdMUzxM0foDwB7h5EAC-ntiQkWaUgGGl0jsWRfGuWZvRlOQimXIuRGRxG7nxXSCw3KLAFpSPuSNVt7EPz1YKWhXiin2wTr93OiEU4C44PqIce75GFLrpA-n7XVHyTdLL5B2BSVtMnqCpdm5ifks1iDONQScxwJZuDg455oLFEddvpdIJeAL_5g157Ry2fDpJ-1CyqSTrsAGzyh0WKeJtQ2eZhE7v8k3wjly5PS8LI4pM0N8g-7XA47oHP3uzRfdGLnQCuQv4Xaz4khy5_yExqeT-s5tYIcKhz0h5Z",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJKUFVPPzTKogRQJyZZgAFOPI",
+    "plus_code": {
+      "compound_code": "FF7F+84 Waterloo, ON, Canada",
+      "global_code": "86MXFF7F+84"
+    },
+    "rating": 5,
+    "reference": "ChIJKUFVPPzTKogRQJyZZgAFOPI",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 13,
+    "vicinity": "83 Erb Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4633095,
+        "lng": -80.52719479999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46456783029149,
+          "lng": -80.5258704697085
+        },
+        "southwest": {
+          "lat": 43.4618698697085,
+          "lng": -80.52856843029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Team Burca Re/Max Twin City Realty",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 750,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106258838204728297803\">Team Burca Re/Max Twin City Realty</a>"
+        ],
+        "photo_reference": "AeeoHcLnNt3o-0hBSzJJxyapPN93vHJpHzGS9hQ3Q7CAFlLZO8z7HaeHlCxcSmoHOnkCmskiaqw950fH5Ae00NgF7eLTblcKBq0eO7lXnjq2wYVVQmjRqwuXI6X2gKV6G5221lQGx4dw86qF85uAFs_8aaOl7quvRG_bHjJ6zGw1F43-ZXaZy5NEQY7aKzvCba0FJ0xFWkM_iL3-qne5qgoY1SxslKXM4p15M15zw3XVNeN0BIEJg3ZDul1AhzfwzGfIJ7VIut4jmb9x0XYm54qmxxpu8_vIQdD6vvekAt1y02qHY28vNKcgxUaLOaa7UNSKN4YXWu1gGnI",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJNy3KGxL0K4gRB5LgZu5-zXo",
+    "plus_code": {
+      "compound_code": "FF7F+84 Waterloo, ON, Canada",
+      "global_code": "86MXFF7F+84"
+    },
+    "rating": 5,
+    "reference": "ChIJNy3KGxL0K4gRB5LgZu5-zXo",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 40,
+    "vicinity": "83 Erb Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45767769999999,
+        "lng": -80.5125106
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45900608029149,
+          "lng": -80.5110956197085
+        },
+        "southwest": {
+          "lat": 43.4563081197085,
+          "lng": -80.5137935802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Luxe Team",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ_9UR6Gj0K4gRTO_hdBm9ua4",
+    "plus_code": {
+      "compound_code": "FF5P+3X Kitchener, ON, Canada",
+      "global_code": "86MXFF5P+3X"
+    },
+    "reference": "ChIJ_9UR6Gj0K4gRTO_hdBm9ua4",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "914 A King Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4633015,
+        "lng": -80.5015693
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4646175302915,
+          "lng": -80.5001979197085
+        },
+        "southwest": {
+          "lat": 43.4619195697085,
+          "lng": -80.5028958802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "RE/MAX SOLID GOLD REALTY INC (II) RITA LIETO",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105900191339858263048\">Rita Lieto</a>"
+        ],
+        "photo_reference": "AeeoHcIugERKSnRmGRLka8ICkQDpSqW9cQeMZ45-dUBjNr8AqqEdWpcYrItDWs3Kg4skZYZBOrIe_pJ7KTXoTt-SRj_n4lX-Jh02pJZqm3sEXRa5BbAbAx22VDcC54YqU0tNaLCM7-A9rAui6B5NNgbPABRgCtqv_Gfv2AZpUdFv1MZzcz78TMe7YNa-ZEq78iR5hOfOeRuOsyLpJ70LhQ_y5J93RE78wb9GlRGFDV0aT5n9heuMy1B6KRKb1WSkVcm5JODcC9vGysT75IitVNenYTSrBGvef-RZ9gCWjcrY29g6fdQymMUpLhQLnEeIMhkEuVGJ3rq9adEPksZFt_AQH9DVAkYh1wJtQbLxQQoqy3vr2ygxz3eoLzOOM3O0h_VRp9M0cOiJTazSXrfXdxp29uj7xS9VoGdwUG1vIHqMDPV_1Nq5Mzq0HBfOEjfR2XwPDeb6X1WlNLkoGe0_rVrgRE9B8XHvXlmYJyG4CdI673ps7PGaBOlEiVwHElyqEIcSRvKxInPcN7oD9EjqK6Z0wI5WIXcdlyoZ8mAL4Yj2QyanXmlL2tuuFXx18GLVE86I32O_bSAZeGteVroUg3VojzwLA7mLkZvKT9ddat6cuRqBRzSfBm--78gzZuGfwgfYzoY_fw",
+        "width": 720
+      }
+    ],
+    "place_id": "ChIJET_QWKD1K4gRtE_S7pseBPA",
+    "plus_code": {
+      "compound_code": "FF7X+89 Waterloo, ON, Canada",
+      "global_code": "86MXFF7X+89"
+    },
+    "reference": "ChIJET_QWKD1K4gRtE_S7pseBPA",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "180 Weber Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4734693,
+        "lng": -80.5348283
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4748778302915,
+          "lng": -80.5333290197085
+        },
+        "southwest": {
+          "lat": 43.4721798697085,
+          "lng": -80.53602698029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "RentCorp Property Management",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1512,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112038814478969139700\">RentCorp Property Management</a>"
+        ],
+        "photo_reference": "AeeoHcIVIl9eFWLbY7eDnc8eQxBbWATA_2cqr2zz9NMrrU2wKLEQ3U7BkcvAIs4wz1lwh5HByQypzwMCQDskYnadWJ8RPylQB1uRQL-cC_tLeUqgMiCL0W7xevuo37AJ9EgC5Lkbzqz3iLq6ajqkWBUt7Ggy2JmzEorbjrtQgoQFZgLP9dMIuVPPqfq3uIgyr0SnT76wTzAN4A0LTHLEabXfnNU51nsXWhP60Jef1ixOZLlHs-MakQ23scgNje1dE4iYKXsXdMPLffZZ-qUuvEwxeeBnqJVeNUkLC3JRKHF_QnlGtFOBi7jL0SJ4V07_5DtmnzlV5-ykXLI",
+        "width": 2016
+      }
+    ],
+    "place_id": "ChIJ8eydydGKK4gRZHZCnu3DJ88",
+    "plus_code": {
+      "compound_code": "FFF8+93 Waterloo, ON, Canada",
+      "global_code": "86MXFFF8+93"
+    },
+    "rating": 3.6,
+    "reference": "ChIJ8eydydGKK4gRZHZCnu3DJ88",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 282,
+    "vicinity": "251 Lester Street Office, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4723522,
+        "lng": -80.5360449
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4736914302915,
+          "lng": -80.53450591970848
+        },
+        "southwest": {
+          "lat": 43.4709934697085,
+          "lng": -80.5372038802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Accommod8u",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2136,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100913885761569017324\">Accommod8u</a>"
+        ],
+        "photo_reference": "AeeoHcIVYgDeN15t2wJQfsR7L2DHU7cZOQFmxwJAdWeITF9BQPL6pJ-rRBYPp41FgYP2MeD31HurK8Xk5kITYrJRERxJ-seaY1hFxApMml_2O4Z9_GxgIHhDNoCDWTEKRGsX0wGFx8VYqxj3cUhHDZb_YVEVHV-7uRsko5n5PkzcNCHqo7RJQtbjohxWfAVAwPhH4NdRfw7o2w7mwUkS42agkVH937Ga0z4RmQaZmGhCg3fisUue6aCXqDr-H_77Y0k4dS09pSOyShdMUDxCxrNZtGjzu0p3yOhA4dcQEh0WRYOp2cY2i0TQRKNolVfevQBd7EGFCw5m5Tk",
+        "width": 3456
+      }
+    ],
+    "place_id": "ChIJjxSY-wb0K4gRhCn7BfxzYlY",
+    "plus_code": {
+      "compound_code": "FFC7+WH Waterloo, ON, Canada",
+      "global_code": "86MXFFC7+WH"
+    },
+    "rating": 2.5,
+    "reference": "ChIJjxSY-wb0K4gRhCn7BfxzYlY",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "finance",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1008,
+    "vicinity": "150 University Avenue West #4, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4799581,
+        "lng": -80.5156052
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4812898802915,
+          "lng": -80.51428821970849
+        },
+        "southwest": {
+          "lat": 43.4785919197085,
+          "lng": -80.51698618029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Realtor Rob Mansour - Real Estate Broker",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 788,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106254036575313938312\">Realtor Rob Mansour - Real Estate Broker</a>"
+        ],
+        "photo_reference": "AeeoHcIbqrXe2CTf_Oh5qPKvGU6VGypalRI8pVo6SyH51S02AeC6QW7JZpmwG-quDiJ4hnLZHPkdzsvdFtwSsl-kFLXZwiarzkK8EG9VpwlVUKYtxRpQJneeTXsXSxBfm7a-d0AnMCLKZAFyj_KPCwNDzTVuR3hzdxgv1DlY2v6dvzuUyBHcM0xhj43ytTRgf3zcIBzSL7eNfal4ub0Pahbqpqfx3f9F83rQTTcxXfb0kCrj5Q8sLlsbyX4EV201sWnljr81wodRjk9MLDjaM81s3fSZ2Njh0-7sCWA3nTNDSjOQ9AKwU79ApeUzeIstzFvN2t6DxmlX3Gg",
+        "width": 940
+      }
+    ],
+    "place_id": "ChIJp6RnlmbzK4gReUCa6ztZ69I",
+    "plus_code": {
+      "compound_code": "FFHM+XQ Waterloo, ON, Canada",
+      "global_code": "86MXFFHM+XQ"
+    },
+    "rating": 4.7,
+    "reference": "ChIJp6RnlmbzK4gReUCa6ztZ69I",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 27,
+    "vicinity": "136 University Avenue East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4700917,
+        "lng": -80.5945469
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47148473029149,
+          "lng": -80.5932451697085
+        },
+        "southwest": {
+          "lat": 43.46878676970849,
+          "lng": -80.59594313029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Smart From Home Realty Ltd",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101038344528051208666\">Jeff Mulder</a>"
+        ],
+        "photo_reference": "AeeoHcLTHytq39RDSQ6IuanWPuLB_NPzHUK6LgDVPPyM1PzB-0zdXG_ixE2U69HP7G9STZppUs3VFnUUmjjg-IB1ovw2spKK4VOeMeNsSOCX_I3vgpfgOvi4oqy_6kFciTYQcva29cVAbfDhSdBk8HagY3faFJQbTAoKuoYeSomb6yWZjsoPxizmvJfnm12ycSSG0fxV84F2fFfS0SbGTZqQ7IkuEX-Bin6kD_a3VgSTM0OGQ8sGP9TOu2U4Fc7fCeevqLDe7V_kAtQbG9PfJO2gDIHoHmFuq8hQP2-52ufhi1Su2TwoqovNDzLk29du5Y-3YxiXuC0dhF-NWbHHO1qTfY0E80naM-SbABhgOuKbTSkWYaF21eCT-sfM7J0ERxXZL-i_K_KpvdGUlssgkJ6lunDQx8YP2so1AMkHWViB1WTb-1ouU_FqyU-hiCU5aGMPiUT1ZcphjZhlHRPlTqjSe4aCuAweyVDBv9diRNGujiiRrDvOZZxtlYKQ2liPhYk4e05XmPlFxr11eRH7MVqb1jBeWgtzzCKqd_6o2ACIP1oqOJ0FdWNCq3YJLE0cq8zd7rfy4YXC6nxoHqbnSM4aqhCYtxGvRdzO86KQzQMEUONAu4xqNmVxFJYCbxyI9SupoDcvjw",
+        "width": 2415
+      }
+    ],
+    "place_id": "ChIJIV5EnE30K4gRU3FcPw9pUss",
+    "plus_code": {
+      "compound_code": "FCC4+25 Waterloo, ON, Canada",
+      "global_code": "86MXFCC4+25"
+    },
+    "rating": 2.8,
+    "reference": "ChIJIV5EnE30K4gRU3FcPw9pUss",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 8,
+    "vicinity": "619 Wild Ginger Avenue d23, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4475833,
+        "lng": -80.50371109999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4488849302915,
+          "lng": -80.5022596697085
+        },
+        "southwest": {
+          "lat": 43.4461869697085,
+          "lng": -80.5049576302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Joshua Damaren - Damaren Sells Homes",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 5888,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105722294874854987688\">Joshua Damaren - Damaren Sells Homes</a>"
+        ],
+        "photo_reference": "AeeoHcL7p7EHG72wGTlfu-MTg6oHHK5WRCOYEmgRb1OJDZSpCoCuXF2GhK9dwCnSkpBFgzTUeP1_-Wyln_crw_WpBvsqQ6xhAialDg9EcXbDvP6RR2e3O23-RbCZXRVhA3J3VEstbhljBh9MKPWklmU-_eOUYNn9EGSvyJ1vi2IeKKTRaJhqaa-GtbwHZyaQ_Dsf_xuzTZrQ6sUfwjw-CxfhBK0GbvUnsr7CLL7a1OeJJi9MoXbdfsibdKOuKeLe6YpraM11AxhekGilsd9EX-mJXGSsOEpp4Nj5i-9R9tfVQ4euFmUj_MP-X028bNang3twhUt-HO6B_-E",
+        "width": 3925
+      }
+    ],
+    "place_id": "ChIJp6RnlmbzK4gRDuVbEBmtdxo",
+    "plus_code": {
+      "compound_code": "CFXW+2G Kitchener, ON, Canada",
+      "global_code": "86MXCFXW+2G"
+    },
+    "rating": 5,
+    "reference": "ChIJp6RnlmbzK4gRDuVbEBmtdxo",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 29,
+    "vicinity": "196 Victoria Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46489699999999,
+        "lng": -80.488486
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46633943029149,
+          "lng": -80.48720271970849
+        },
+        "southwest": {
+          "lat": 43.46364146970849,
+          "lng": -80.4899006802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "3sixty Video",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 864,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109090015205203368835\">3sixty Video</a>"
+        ],
+        "photo_reference": "AeeoHcLrPiU5T2YdxmIaO_KirzTJ2Hn5NFNbNxRpwZsPf7dm1pOmzcA6nNGqISAXDRhtXYrdC3DZTubUVP5v_aSKyqhGynSGd4d0SUm8r_qiQefYnW2fw7wq6MyAJWwHMJ8gSoLCPJrr6UqrEVQFnV2dBiadmC_rnRV6B9JwZ183JwkjJnl-J9aXpKJQqg2dTzq-xSPqTlxYQMxS6ONG4BJDzQclq29YGb5PAE0oFhcLXWNAynuNgMOk2K6W5o2RD0vGRp3btopXH7Cu93laQaOdegoglEQ-pgGISrXhu6OLP5gci0snaadHo31RakRvCGKhDEmO4vCJf2U",
+        "width": 1296
+      }
+    ],
+    "place_id": "ChIJF6xwzIT0K4gR7coSM5g1f24",
+    "plus_code": {
+      "compound_code": "FG76+XJ Kitchener, ON, Canada",
+      "global_code": "86MXFG76+XJ"
+    },
+    "rating": 5,
+    "reference": "ChIJF6xwzIT0K4gR7coSM5g1f24",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "629 Guelph Street Suite 100, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4489559,
+        "lng": -80.49424259999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45045948029149,
+          "lng": -80.4928251197085
+        },
+        "southwest": {
+          "lat": 43.44776151970849,
+          "lng": -80.49552308029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Treehaus Collaborative Workspace",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 300,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113392235020540377903\">Treehaus Collaborative Workspace</a>"
+        ],
+        "photo_reference": "AeeoHcK0ckYbMnv19uwZxQVat4gUbVSNk76z94Db-Qa5N8MTQiVwh1fstZ6cdrwPy287vYoVZlRefXBKC5DB2tRsgskcdlpTZkrSZZUPFyxkmtzBfc4ga2ygS23c99mog0FAqAiHv1ykCkwBFtfJsUNyZY8bkC7XyKcREvGfghzPnha63flpwAY__6uVHcE9D1Q4Gx29wMQdGicdwbYn2uOPYGe76G8ot5aovNL7AbFFqdlCrsmKRLbf1gLgGgmTxcrgAsz-zoxuhJlpNmztzfK9XQ5YOQ_wsQzCDzKeaCzARMmZ8oa-JErfwkFUDQyvNkL58BAAsd_V",
+        "width": 940
+      }
+    ],
+    "place_id": "ChIJlRoxdfT0K4gRHFMZEoQ8qqE",
+    "plus_code": {
+      "compound_code": "CGX4+H8 Kitchener, ON, Canada",
+      "global_code": "86MXCGX4+H8"
+    },
+    "rating": 5,
+    "reference": "ChIJlRoxdfT0K4gRHFMZEoQ8qqE",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 16,
+    "vicinity": "79 Joseph Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4515857,
+        "lng": -80.48915679999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4527841302915,
+          "lng": -80.48792676970848
+        },
+        "southwest": {
+          "lat": 43.45008616970851,
+          "lng": -80.49062473029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Denzil Properties",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1583,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107874896332926778664\">Denzil Properties</a>"
+        ],
+        "photo_reference": "AeeoHcLdtBvyVI4BuA-t8IOKhodcA5z-_QlPtPEJJuQI-LuLkbNM7Bx3ZnUcl-zzgbRZR-adH8IpMLKM_HDbSjlxcoj0LK_j9GFORifZB4WzLVVWhHyUxXep6URHLAneqpnQ3Jq7QhuI35GC2zCPafFajLA4wgB_cc9MpWSkF1SlAO3B5RCmLiyC4gOXIb10Lc4FwCUpvlSedo3hgsB4cWxhbI-TIa7e1z5ZZtPehTtOSOGjXrJYBcRlNGlqdCd5KpkrFeLndf4BTq7UjCOeZwjbi4PDakH4RyTggva8u2wG8o9HS21oNhRvAwotvBqxPHDTHyIf6KeEQcg",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJuYhBuvL0K4gRehML4mTeV1g",
+    "plus_code": {
+      "compound_code": "FG26+J8 Kitchener, ON, Canada",
+      "global_code": "86MXFG26+J8"
+    },
+    "rating": 3,
+    "reference": "ChIJuYhBuvL0K4gRehML4mTeV1g",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "30 Duke Street West Unit 1100, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4430843,
+        "lng": -80.4955133
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4444580802915,
+          "lng": -80.4942182697085
+        },
+        "southwest": {
+          "lat": 43.4417601197085,
+          "lng": -80.4969162302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Solid State Realty Inc.",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1704,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106000205855826948969\">Solid State Realty Inc.</a>"
+        ],
+        "photo_reference": "AeeoHcIJrldV7qmkZ4M2uvtVs-ZG3gXPUwbWzed2xjnnMz0c_KjElP0aWb5mDa5PndV6ClMIjrK2KLa4n7ewVlcxGcGnIv-rUanKC1LeCIxU4G6NgMs_F6EmHXsehQ_IRieW3LoLC9lpfy9h4KTYc7bU9tfPgzEp1nVit-caBOfMUvjww5g9pU-2z2zgddLdMvuyR3GtSZy_8v8os1TI-QTf9-1w-m1d1hYg6cvSOYy8pDdtyg89WUmmrbw3S11Qkozw38ZamP63_L8VxDrtmlPXC1NaD1OGWXxd1HDJ-POcxH10YV9xk7C0yvN8smPZlQ5AVXcaKfm9_pg",
+        "width": 2560
+      }
+    ],
+    "place_id": "ChIJq44dre30K4gRBf2eu4eFd6w",
+    "plus_code": {
+      "compound_code": "CGV3+6Q Kitchener, ON, Canada",
+      "global_code": "86MXCGV3+6Q"
+    },
+    "rating": 5,
+    "reference": "ChIJq44dre30K4gRBf2eu4eFd6w",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "585 Queen Street South Suite 101, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44812579999999,
+        "lng": -80.4856412
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44952438029149,
+          "lng": -80.48421511970851
+        },
+        "southwest": {
+          "lat": 43.44682641970849,
+          "lng": -80.48691308029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Bentall Real Estate Svc",
+    "place_id": "ChIJfUvmo_T0K4gRGXR7gOpWJzo",
+    "plus_code": {
+      "compound_code": "CGX7+7P Kitchener, ON, Canada",
+      "global_code": "86MXCGX7+7P"
+    },
+    "reference": "ChIJfUvmo_T0K4gRGXR7gOpWJzo",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "227 King Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4500971,
+        "lng": -80.4839667
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4515368802915,
+          "lng": -80.48254176970849
+        },
+        "southwest": {
+          "lat": 43.4488389197085,
+          "lng": -80.4852397302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Paula Conrad",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1552,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103731509961344886832\">Paula Conrad</a>"
+        ],
+        "photo_reference": "AeeoHcIytARDipoPlOuPWtnk7rSXqcukcoFfTJJJC-Tj__yyUpSRWCS4TrFQkeYGh31z243K11s-p5G3nZNcI4cawaYFGP-q3IzSNGE8ZBtgoBEFNW9obkfDUDl5ephySokPLU3zvH3q2EXqHXfMla2xC1zio7cBEtitfo8UuOHVKvev-4m4q6kbPfjwLZV62iqzX6UnaZ6vTTgygSm4S2LH79DUe8kiOgfe-AwbkXE3T9KQmPyCMSIAlmIwgPfVUvKWdNnjcN8jbIUn_nR1tMORttvPCWi-154_KzBzrx2Skt9ObQg67mXstjhvsMiH122PyLQcDX46Yhc",
+        "width": 1552
+      }
+    ],
+    "place_id": "ChIJQ1Zl6k30K4gRSfLS1nBujSk",
+    "plus_code": {
+      "compound_code": "FG28+2C Kitchener, ON, Canada",
+      "global_code": "86MXFG28+2C"
+    },
+    "rating": 5,
+    "reference": "ChIJQ1Zl6k30K4gRSfLS1nBujSk",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 30,
+    "vicinity": "71 Weber Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4500971,
+        "lng": -80.4839667
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4515368802915,
+          "lng": -80.48254176970849
+        },
+        "southwest": {
+          "lat": 43.4488389197085,
+          "lng": -80.4852397302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Royal LePage Real Estate Realtor - Mat Wojtas in Kitchener, ON",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3264,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112460702684814884205\">Royal LePage Real Estate Realtor - Mat Wojtas in Kitchener, ON</a>"
+        ],
+        "photo_reference": "AeeoHcJ9yu6KqH3F3eHnyXbNlhHktrEADrOqLeL0v5XTzDhmEDvF-ps8dhvVC6uXBzctc4atIPgQGFriwiJIET5WdAJ5C7gLjTVOx7vgvWFZAPKGS-xmcLIXXyf9lm0dS38qXt6zGRo40toFAmANPo3Qhir1ZPqMih2J0iatO5B29UFhfccZ4QGnQoOEk_89CUpV3J_v8b52_LcQOoH3DbOHSkvexeHr7YCaVVzA-CcnuQpgMwu7e7qJLVtcVwE6plUEbWlPUBmGKF7YnAunTJx7Nto0ydWMLQGm1j6EVKH-eqQ_4IlSmGE6NrYRBIzQ24qGipmJGKAy6rQ",
+        "width": 2448
+      }
+    ],
+    "place_id": "ChIJCdzt-6X0K4gR24UwvTTjt8g",
+    "plus_code": {
+      "compound_code": "FG28+2C Kitchener, ON, Canada",
+      "global_code": "86MXFG28+2C"
+    },
+    "rating": 5,
+    "reference": "ChIJCdzt-6X0K4gR24UwvTTjt8g",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 33,
+    "vicinity": "71 Weber Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4343995,
+        "lng": -80.51552439999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4358068302915,
+          "lng": -80.5142385697085
+        },
+        "southwest": {
+          "lat": 43.4331088697085,
+          "lng": -80.5169365302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "DAN Real Estate Depot",
+    "place_id": "ChIJu4GCnPghVUARO9Y2zYsJHZ8",
+    "plus_code": {
+      "compound_code": "CFMM+QQ Kitchener, ON, Canada",
+      "global_code": "86MXCFMM+QQ"
+    },
+    "reference": "ChIJu4GCnPghVUARO9Y2zYsJHZ8",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "525 Highland Road West Suite 265, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47670249999999,
+        "lng": -80.4817467
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4779945302915,
+          "lng": -80.48035961970848
+        },
+        "southwest": {
+          "lat": 43.4752965697085,
+          "lng": -80.4830575802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Roy Cleeves - CC Realty Group",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 752,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118306289307815839545\">Roy Cleeves - CC Realty Group</a>"
+        ],
+        "photo_reference": "AeeoHcJKYt1ezJljsiYI7ZC6QqqN2bLBr710KKdPGLc4PGNMEi77mlV98vps_zgP0QfZTItz1GmWDI6AG_6oHeE8Xsb_Xw9JRPw9KT-tyb_SIwIosGgyo7-bS-QmY2_yx_7O-5AJs8DQICLvHKEOCf2_Kv0cC0nqJBPrChn0Sm-PYU5eKbMXi4qS-ua99P-4f0tF1XD9YZUz8jBPBqFTVFaAVBrXGeN6rdtcxsWu_TEloV7cGBz31wbritS9haBsB46XQQvEAl0_oLyLH6bgR8OBe-KpUk7vJy8roEeZ8qmJdgiw5LbO1zVlWBiGeEDPm0tMCjEj_8-yXAE",
+        "width": 562
+      }
+    ],
+    "place_id": "ChIJp6RnlmbzK4gR44j-IAFI0f4",
+    "plus_code": {
+      "compound_code": "FGG9+M8 Kitchener, ON, Canada",
+      "global_code": "86MXFGG9+M8"
+    },
+    "rating": 4.9,
+    "reference": "ChIJp6RnlmbzK4gR44j-IAFI0f4",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 86,
+    "vicinity": "640 Riverbend Drive, Kitchener"
+  }
+]

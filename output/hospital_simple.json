@@ -1,0 +1,920 @@
+[
+  {
+    "name": "WRHN @ Queen’s Blvd. (formerly St. Mary’s)",
+    "coordinates": {
+      "lat": 43.4381862,
+      "lng": -80.5017925
+    },
+    "longitude": -80.5017925,
+    "latitude": 43.4381862,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "WRHN @ Midtown (formerly Grand River Hospital, KW Campus)",
+    "coordinates": {
+      "lat": 43.4562339,
+      "lng": -80.5120458
+    },
+    "longitude": -80.5120458,
+    "latitude": 43.4562339,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Julie Schroth RMT",
+    "coordinates": {
+      "lat": 43.4177723,
+      "lng": -80.5361185
+    },
+    "longitude": -80.5361185,
+    "latitude": 43.4177723,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Union & Weber Travel Clinic",
+    "coordinates": {
+      "lat": 43.465535,
+      "lng": -80.5052808
+    },
+    "longitude": -80.5052808,
+    "latitude": 43.465535,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Belmont Centre for Physical Medicine",
+    "coordinates": {
+      "lat": 43.4503239,
+      "lng": -80.5154886
+    },
+    "longitude": -80.5154886,
+    "latitude": 43.4503239,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Belgage Medical Arts",
+    "coordinates": {
+      "lat": 43.4477941,
+      "lng": -80.51476919999999
+    },
+    "longitude": -80.51476919999999,
+    "latitude": 43.4477941,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Dr. Chris Geddes Orthopaedic Surgeon",
+    "coordinates": {
+      "lat": 43.4876854,
+      "lng": -80.5281253
+    },
+    "longitude": -80.5281253,
+    "latitude": 43.4876854,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Immigration Medical Examiners: Kitchener",
+    "coordinates": {
+      "lat": 43.4386027,
+      "lng": -80.5220176
+    },
+    "longitude": -80.5220176,
+    "latitude": 43.4386027,
+    "types": [
+      "hospital",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Canadian Cannabis Clinics - (Online & Phone Appointments Only)",
+    "coordinates": {
+      "lat": 43.44275220000001,
+      "lng": -80.54163129999999
+    },
+    "longitude": -80.54163129999999,
+    "latitude": 43.44275220000001,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Pharmasave Benton Medical Pharmacy",
+    "coordinates": {
+      "lat": 43.4477284,
+      "lng": -80.4885712
+    },
+    "longitude": -80.4885712,
+    "latitude": 43.4477284,
+    "types": [
+      "pharmacy",
+      "hospital",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "St. Jacobs Massage Therapy",
+    "coordinates": {
+      "lat": 43.544946,
+      "lng": -80.55319999999999
+    },
+    "longitude": -80.55319999999999,
+    "latitude": 43.544946,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "WRHN @ Chicopee (formerly Grand River Hospital, Freeport Campus)",
+    "coordinates": {
+      "lat": 43.4254426,
+      "lng": -80.41192889999999
+    },
+    "longitude": -80.41192889999999,
+    "latitude": 43.4254426,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "WRHN (St. Mary's) Cardio-Pulmonary Rehabilitation",
+    "coordinates": {
+      "lat": 43.4400919,
+      "lng": -80.5661131
+    },
+    "longitude": -80.5661131,
+    "latitude": 43.4400919,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "GraceMed Kitchener",
+    "coordinates": {
+      "lat": 43.4578517,
+      "lng": -80.47212379999999
+    },
+    "longitude": -80.47212379999999,
+    "latitude": 43.4578517,
+    "types": [
+      "hospital",
+      "spa",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Bridgeport Consultant Clinic",
+    "coordinates": {
+      "lat": 43.46827569999999,
+      "lng": -80.5164142
+    },
+    "longitude": -80.5164142,
+    "latitude": 43.46827569999999,
+    "types": [
+      "hospital",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Kitchener Waterloo HL Family practice & Walk In Clinic",
+    "coordinates": {
+      "lat": 43.43376719999999,
+      "lng": -80.43982659999999
+    },
+    "longitude": -80.43982659999999,
+    "latitude": 43.43376719999999,
+    "types": [
+      "hospital",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Dr. Anthony Davies Family Practice",
+    "coordinates": {
+      "lat": 43.4681227,
+      "lng": -80.5206829
+    },
+    "longitude": -80.5206829,
+    "latitude": 43.4681227,
+    "types": [
+      "hospital",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Underhill Residential Home",
+    "coordinates": {
+      "lat": 43.4621449,
+      "lng": -80.5299364
+    },
+    "longitude": -80.5299364,
+    "latitude": 43.4621449,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "GRH Mount Hope",
+    "coordinates": {
+      "lat": 43.45657059999999,
+      "lng": -80.5134494
+    },
+    "longitude": -80.5134494,
+    "latitude": 43.45657059999999,
+    "types": [
+      "pharmacy",
+      "hospital",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Canada 39 Medical Center",
+    "coordinates": {
+      "lat": 43.4555496,
+      "lng": -80.5133374
+    },
+    "longitude": -80.5133374,
+    "latitude": 43.4555496,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Grand River Hospital - outpatient mental health services",
+    "coordinates": {
+      "lat": 43.4570526,
+      "lng": -80.51017209999999
+    },
+    "longitude": -80.51017209999999,
+    "latitude": 43.4570526,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "KW Vein Clinic",
+    "coordinates": {
+      "lat": 43.4534079,
+      "lng": -80.5183837
+    },
+    "longitude": -80.5183837,
+    "latitude": 43.4534079,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "PCC Pain Care Clinics Kitchener",
+    "coordinates": {
+      "lat": 43.4566789,
+      "lng": -80.50801
+    },
+    "longitude": -80.50801,
+    "latitude": 43.4566789,
+    "types": [
+      "hospital",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Jihyeong(Elin)Kim",
+    "coordinates": {
+      "lat": 43.4733364,
+      "lng": -80.5333493
+    },
+    "longitude": -80.5333493,
+    "latitude": 43.4733364,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Waterloo Foot and Orthotic Clinic",
+    "coordinates": {
+      "lat": 43.4612503,
+      "lng": -80.5379238
+    },
+    "longitude": -80.5379238,
+    "latitude": 43.4612503,
+    "types": [
+      "hospital",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Belmont Professional Building",
+    "coordinates": {
+      "lat": 43.45021240000001,
+      "lng": -80.51541929999999
+    },
+    "longitude": -80.51541929999999,
+    "latitude": 43.45021240000001,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "The HeadworX Clinic- Abdel Kaleel MD MSc",
+    "coordinates": {
+      "lat": 43.4502038,
+      "lng": -80.5154458
+    },
+    "longitude": -80.5154458,
+    "latitude": 43.4502038,
+    "types": [
+      "hospital",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Waterloo Guardian Pharmacy",
+    "coordinates": {
+      "lat": 43.4829771,
+      "lng": -80.5259987
+    },
+    "longitude": -80.5259987,
+    "latitude": 43.4829771,
+    "types": [
+      "pharmacy",
+      "hospital",
+      "health",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "New Dawn Medical",
+    "coordinates": {
+      "lat": 43.45113159999999,
+      "lng": -80.4978594
+    },
+    "longitude": -80.4978594,
+    "latitude": 43.45113159999999,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Glasgow Mews / Canadian Cannabis Clinic",
+    "coordinates": {
+      "lat": 43.44275220000001,
+      "lng": -80.54163129999999
+    },
+    "longitude": -80.54163129999999,
+    "latitude": 43.44275220000001,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Beechwood Forest Medical Centre",
+    "coordinates": {
+      "lat": 43.442403,
+      "lng": -80.5428817
+    },
+    "longitude": -80.5428817,
+    "latitude": 43.442403,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Cardio clinic",
+    "coordinates": {
+      "lat": 43.4477284,
+      "lng": -80.4885712
+    },
+    "longitude": -80.4885712,
+    "latitude": 43.4477284,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Yakky Duck Speech and Language Services",
+    "coordinates": {
+      "lat": 43.4663568,
+      "lng": -80.5601411
+    },
+    "longitude": -80.5601411,
+    "latitude": 43.4663568,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "BMC",
+    "coordinates": {
+      "lat": 43.4474327,
+      "lng": -80.4879701
+    },
+    "longitude": -80.4879701,
+    "latitude": 43.4474327,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Waterloo Anti Aging",
+    "coordinates": {
+      "lat": 43.4516755,
+      "lng": -80.556883
+    },
+    "longitude": -80.556883,
+    "latitude": 43.4516755,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "WRHN Cardiac Care Centre",
+    "coordinates": {
+      "lat": 43.4382883,
+      "lng": -80.50079749999999
+    },
+    "longitude": -80.50079749999999,
+    "latitude": 43.4382883,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Kitchener-Waterloo Heart Rhythm Services",
+    "coordinates": {
+      "lat": 43.4378146,
+      "lng": -80.501644
+    },
+    "longitude": -80.501644,
+    "latitude": 43.4378146,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Westvale Health and Wellness Centre",
+    "coordinates": {
+      "lat": 43.4377517,
+      "lng": -80.56004329999999
+    },
+    "longitude": -80.56004329999999,
+    "latitude": 43.4377517,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Medical Centre 1 at The Boardwalk",
+    "coordinates": {
+      "lat": 43.44035999999999,
+      "lng": -80.56496
+    },
+    "longitude": -80.56496,
+    "latitude": 43.44035999999999,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "桃子医院",
+    "coordinates": {
+      "lat": 43.4401352,
+      "lng": -80.5648588
+    },
+    "longitude": -80.5648588,
+    "latitude": 43.4401352,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Westside Family Health",
+    "coordinates": {
+      "lat": 43.440173,
+      "lng": -80.56493739999999
+    },
+    "longitude": -80.56493739999999,
+    "latitude": 43.440173,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "430 The Boardwalk",
+    "coordinates": {
+      "lat": 43.440173,
+      "lng": -80.56493739999999
+    },
+    "longitude": -80.56493739999999,
+    "latitude": 43.440173,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Dr.Nicolas",
+    "coordinates": {
+      "lat": 43.5046502,
+      "lng": -80.52564009999999
+    },
+    "longitude": -80.52564009999999,
+    "latitude": 43.5046502,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Mark Schito",
+    "coordinates": {
+      "lat": 43.4387751,
+      "lng": -80.5640846
+    },
+    "longitude": -80.5640846,
+    "latitude": 43.4387751,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "SK Family Medicine",
+    "coordinates": {
+      "lat": 43.4400927,
+      "lng": -80.5662835
+    },
+    "longitude": -80.5662835,
+    "latitude": 43.4400927,
+    "types": [
+      "doctor",
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Medical Centre 2 at The Boardwalk",
+    "coordinates": {
+      "lat": 43.4400777,
+      "lng": -80.5662827
+    },
+    "longitude": -80.5662827,
+    "latitude": 43.4400777,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "St. Mary's General Hospital Foundation",
+    "coordinates": {
+      "lat": 43.4401221,
+      "lng": -80.5663477
+    },
+    "longitude": -80.5663477,
+    "latitude": 43.4401221,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Quickcare Walk In Clinic and Family Practice",
+    "coordinates": {
+      "lat": 43.5112557,
+      "lng": -80.52212449999999
+    },
+    "longitude": -80.52212449999999,
+    "latitude": 43.5112557,
+    "types": [
+      "doctor",
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Trust care medical clinic",
+    "coordinates": {
+      "lat": 43.41787129999999,
+      "lng": -80.53595659999999
+    },
+    "longitude": -80.53595659999999,
+    "latitude": 43.41787129999999,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Recooperate Massage Therapy",
+    "coordinates": {
+      "lat": 43.4177247,
+      "lng": -80.53565189999999
+    },
+    "longitude": -80.53565189999999,
+    "latitude": 43.4177247,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "New Dawn Medical",
+    "coordinates": {
+      "lat": 43.4220954,
+      "lng": -80.48914429999999
+    },
+    "longitude": -80.48914429999999,
+    "latitude": 43.4220954,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Medicare Walk-In Clinic & Family Practice",
+    "coordinates": {
+      "lat": 43.41786429999999,
+      "lng": -80.5000003
+    },
+    "longitude": -80.5000003,
+    "latitude": 43.41786429999999,
+    "types": [
+      "doctor",
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Orthotic Services",
+    "coordinates": {
+      "lat": 43.4610393,
+      "lng": -80.4403585
+    },
+    "longitude": -80.4403585,
+    "latitude": 43.4610393,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Dr.Qi Wang",
+    "coordinates": {
+      "lat": 43.4190213,
+      "lng": -80.46972350000001
+    },
+    "longitude": -80.46972350000001,
+    "latitude": 43.4190213,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Beacon in Dental Implant Care",
+    "coordinates": {
+      "lat": 43.440091,
+      "lng": -80.4461211
+    },
+    "longitude": -80.4461211,
+    "latitude": 43.440091,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Meadowcroft Place (Kitchener)",
+    "coordinates": {
+      "lat": 43.43546990000001,
+      "lng": -80.43960799999999
+    },
+    "longitude": -80.43960799999999,
+    "latitude": 43.43546990000001,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Bleams Medical Centre",
+    "coordinates": {
+      "lat": 43.406626,
+      "lng": -80.4743886
+    },
+    "longitude": -80.4743886,
+    "latitude": 43.406626,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Kw Total",
+    "coordinates": {
+      "lat": 43.402387,
+      "lng": -80.47674959999999
+    },
+    "longitude": -80.47674959999999,
+    "latitude": 43.402387,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "e2 Medical Centre",
+    "coordinates": {
+      "lat": 43.4285369,
+      "lng": -80.43600649999999
+    },
+    "longitude": -80.43600649999999,
+    "latitude": 43.4285369,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Victoria Hair Transplant Solutions",
+    "coordinates": {
+      "lat": 43.4192973,
+      "lng": -80.4437909
+    },
+    "longitude": -80.4437909,
+    "latitude": 43.4192973,
+    "types": [
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  }
+]

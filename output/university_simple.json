@@ -1,0 +1,851 @@
+[
+  {
+    "name": "University of Waterloo",
+    "coordinates": {
+      "lat": 43.4722854,
+      "lng": -80.5448576
+    },
+    "longitude": -80.5448576,
+    "latitude": 43.4722854,
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Gina's College Of Advanced Aesthetics",
+    "coordinates": {
+      "lat": 43.4835113,
+      "lng": -80.52484
+    },
+    "longitude": -80.52484,
+    "latitude": 43.4835113,
+    "types": [
+      "university",
+      "beauty_salon",
+      "hair_care",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "St. Jerome's University",
+    "coordinates": {
+      "lat": 43.46960540000001,
+      "lng": -80.5465123
+    },
+    "longitude": -80.5465123,
+    "latitude": 43.46960540000001,
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Renison University College",
+    "coordinates": {
+      "lat": 43.469487,
+      "lng": -80.5476754
+    },
+    "longitude": -80.5476754,
+    "latitude": 43.469487,
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Wilfrid Laurier University Waterloo Campus",
+    "coordinates": {
+      "lat": 43.4738499,
+      "lng": -80.5274701
+    },
+    "longitude": -80.5274701,
+    "latitude": 43.4738499,
+    "types": [
+      "university",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Student Life Centre",
+    "coordinates": {
+      "lat": 43.4718546,
+      "lng": -80.5453731
+    },
+    "longitude": -80.5453731,
+    "latitude": 43.4718546,
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "WEEF Lab",
+    "coordinates": {
+      "lat": 43.4712794,
+      "lng": -80.5400366
+    },
+    "longitude": -80.5400366,
+    "latitude": 43.4712794,
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Lazaridis School of Business and Economics",
+    "coordinates": {
+      "lat": 43.475096,
+      "lng": -80.529448
+    },
+    "longitude": -80.529448,
+    "latitude": 43.475096,
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "GLOW Health & Beauty College (Waterloo)",
+    "coordinates": {
+      "lat": 43.47835,
+      "lng": -80.52622
+    },
+    "longitude": -80.52622,
+    "latitude": 43.47835,
+    "types": [
+      "university",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "MathSoc",
+    "coordinates": {
+      "lat": 43.4720455,
+      "lng": -80.5436213
+    },
+    "longitude": -80.5436213,
+    "latitude": 43.4720455,
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "St. Jerome’s University Library",
+    "coordinates": {
+      "lat": 43.46874,
+      "lng": -80.5458481
+    },
+    "longitude": -80.5458481,
+    "latitude": 43.46874,
+    "types": [
+      "university",
+      "library",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Anderson College of Health, Business and Technology",
+    "coordinates": {
+      "lat": 43.4405473,
+      "lng": -80.4858036
+    },
+    "longitude": -80.4858036,
+    "latitude": 43.4405473,
+    "types": [
+      "university",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Summit College - Academic & Career Studies",
+    "coordinates": {
+      "lat": 43.4450767,
+      "lng": -80.4793512
+    },
+    "longitude": -80.4793512,
+    "latitude": 43.4450767,
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Conrad Grebel University College",
+    "coordinates": {
+      "lat": 43.4661278,
+      "lng": -80.5449946
+    },
+    "longitude": -80.5449946,
+    "latitude": 43.4661278,
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "United College",
+    "coordinates": {
+      "lat": 43.4672669,
+      "lng": -80.5464566
+    },
+    "longitude": -80.5464566,
+    "latitude": 43.4672669,
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Emmanuel Bible College",
+    "coordinates": {
+      "lat": 43.4344591,
+      "lng": -80.4420509
+    },
+    "longitude": -80.4420509,
+    "latitude": 43.4344591,
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "triOS College Business Technology Healthcare - Kitchener Campus",
+    "coordinates": {
+      "lat": 43.4479133,
+      "lng": -80.4857184
+    },
+    "longitude": -80.4857184,
+    "latitude": 43.4479133,
+    "types": [
+      "university",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Waterloo Undergraduate Student Association (WUSA)",
+    "coordinates": {
+      "lat": 43.4717624,
+      "lng": -80.54555069999999
+    },
+    "longitude": -80.54555069999999,
+    "latitude": 43.4717624,
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Student Success Office",
+    "coordinates": {
+      "lat": 43.4693036,
+      "lng": -80.5404013
+    },
+    "longitude": -80.5404013,
+    "latitude": 43.4693036,
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "McMaster University, Waterloo Regional Campus",
+    "coordinates": {
+      "lat": 43.4521393,
+      "lng": -80.4989575
+    },
+    "longitude": -80.4989575,
+    "latitude": 43.4521393,
+    "types": [
+      "university",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Sid's convocation point",
+    "coordinates": {
+      "lat": 43.4642578,
+      "lng": -80.5204096
+    },
+    "longitude": -80.5204096,
+    "latitude": 43.4642578,
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "见面会",
+    "coordinates": {
+      "lat": 43.4642578,
+      "lng": -80.5204096
+    },
+    "longitude": -80.5204096,
+    "latitude": 43.4642578,
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Waterloo Bible College",
+    "coordinates": {
+      "lat": 43.4642578,
+      "lng": -80.5204096
+    },
+    "longitude": -80.5204096,
+    "latitude": 43.4642578,
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Balsillie School of International Affairs",
+    "coordinates": {
+      "lat": 43.463694,
+      "lng": -80.5260436
+    },
+    "longitude": -80.5260436,
+    "latitude": 43.463694,
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Martin Luther University College",
+    "coordinates": {
+      "lat": 43.4719272,
+      "lng": -80.5287395
+    },
+    "longitude": -80.5287395,
+    "latitude": 43.4719272,
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "WLU Lodge Administration Building",
+    "coordinates": {
+      "lat": 43.474045,
+      "lng": -80.52213259999999
+    },
+    "longitude": -80.52213259999999,
+    "latitude": 43.474045,
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "WLU Regina Administration Building",
+    "coordinates": {
+      "lat": 43.4746197,
+      "lng": -80.5227653
+    },
+    "longitude": -80.5227653,
+    "latitude": 43.4746197,
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "WLU Physical Resources",
+    "coordinates": {
+      "lat": 43.4748376,
+      "lng": -80.5198193
+    },
+    "longitude": -80.5198193,
+    "latitude": 43.4748376,
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Fred Nichols Campus Centre",
+    "coordinates": {
+      "lat": 43.4733058,
+      "lng": -80.5287597
+    },
+    "longitude": -80.5287597,
+    "latitude": 43.4733058,
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Parking lot F U waterloo",
+    "coordinates": {
+      "lat": 43.46944329999999,
+      "lng": -80.5340873
+    },
+    "longitude": -80.5340873,
+    "latitude": 43.46944329999999,
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Dr Alvin Woods Building (DAWB)",
+    "coordinates": {
+      "lat": 43.4733389,
+      "lng": -80.5295199
+    },
+    "longitude": -80.5295199,
+    "latitude": 43.4733389,
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Theatre Auditorium",
+    "coordinates": {
+      "lat": 43.4741747,
+      "lng": -80.5278989
+    },
+    "longitude": -80.5278989,
+    "latitude": 43.4741747,
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "John Aird Centre",
+    "coordinates": {
+      "lat": 43.4744301,
+      "lng": -80.5282229
+    },
+    "longitude": -80.5282229,
+    "latitude": 43.4744301,
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Arts Building, C Wing",
+    "coordinates": {
+      "lat": 43.4738008,
+      "lng": -80.5296936
+    },
+    "longitude": -80.5296936,
+    "latitude": 43.4738008,
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Savvas Chamberlain Music Building",
+    "coordinates": {
+      "lat": 43.47471830000001,
+      "lng": -80.52816279999999
+    },
+    "longitude": -80.52816279999999,
+    "latitude": 43.47471830000001,
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Escuela Ingles",
+    "coordinates": {
+      "lat": 43.4564761,
+      "lng": -80.5081143
+    },
+    "longitude": -80.5081143,
+    "latitude": 43.4564761,
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Wilfrid Laurier University Frank C Peters Building",
+    "coordinates": {
+      "lat": 43.4737095,
+      "lng": -80.53038819999999
+    },
+    "longitude": -80.53038819999999,
+    "latitude": 43.4737095,
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Uni",
+    "coordinates": {
+      "lat": 43.4752543,
+      "lng": -80.5122397
+    },
+    "longitude": -80.5122397,
+    "latitude": 43.4752543,
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Bowen Therapy School",
+    "coordinates": {
+      "lat": 43.4784665,
+      "lng": -80.517332
+    },
+    "longitude": -80.517332,
+    "latitude": 43.4784665,
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Condors Esports Hub",
+    "coordinates": {
+      "lat": 43.479007,
+      "lng": -80.5183304
+    },
+    "longitude": -80.5183304,
+    "latitude": 43.479007,
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Conestoga College Waterloo Campus",
+    "coordinates": {
+      "lat": 43.4794047,
+      "lng": -80.5180089
+    },
+    "longitude": -80.5180089,
+    "latitude": 43.4794047,
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Mindtroopers",
+    "coordinates": {
+      "lat": 43.4736367,
+      "lng": -80.53703469999999
+    },
+    "longitude": -80.53703469999999,
+    "latitude": 43.4736367,
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Concept by Velocity",
+    "coordinates": {
+      "lat": 43.4692635,
+      "lng": -80.54031379999999
+    },
+    "longitude": -80.54031379999999,
+    "latitude": 43.4692635,
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Douglas Wright Engineering Building",
+    "coordinates": {
+      "lat": 43.4699096,
+      "lng": -80.5402811
+    },
+    "longitude": -80.5402811,
+    "latitude": 43.4699096,
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Northdale Campus",
+    "coordinates": {
+      "lat": 43.477651,
+      "lng": -80.531532
+    },
+    "longitude": -80.531532,
+    "latitude": 43.477651,
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Engineering 2, University of Waterloo",
+    "coordinates": {
+      "lat": 43.47095170000001,
+      "lng": -80.5403655
+    },
+    "longitude": -80.5403655,
+    "latitude": 43.47095170000001,
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Psychology, Anthropology, and Sociology",
+    "coordinates": {
+      "lat": 43.4671025,
+      "lng": -80.5422444
+    },
+    "longitude": -80.5422444,
+    "latitude": 43.4671025,
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "University of Waterloo Electrochemical Society",
+    "coordinates": {
+      "lat": 43.4729167,
+      "lng": -80.5401595
+    },
+    "longitude": -80.5401595,
+    "latitude": 43.4729167,
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Environment 3 (EV3)",
+    "coordinates": {
+      "lat": 43.4682012,
+      "lng": -80.5435861
+    },
+    "longitude": -80.5435861,
+    "latitude": 43.4682012,
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "East Campus 4 (EC4), University of Waterloo",
+    "coordinates": {
+      "lat": 43.4748853,
+      "lng": -80.53967659999999
+    },
+    "longitude": -80.53967659999999,
+    "latitude": 43.4748853,
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Velocity Science",
+    "coordinates": {
+      "lat": 43.47129950000001,
+      "lng": -80.542715
+    },
+    "longitude": -80.542715,
+    "latitude": 43.47129950000001,
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Science Teaching Complex (STC)",
+    "coordinates": {
+      "lat": 43.47060570000001,
+      "lng": -80.5434939
+    },
+    "longitude": -80.5434939,
+    "latitude": 43.47060570000001,
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Biology 2",
+    "coordinates": {
+      "lat": 43.4707845,
+      "lng": -80.5438235
+    },
+    "longitude": -80.5438235,
+    "latitude": 43.4707845,
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "East Campus 5 - University of Waterloo",
+    "coordinates": {
+      "lat": 43.4754332,
+      "lng": -80.54073090000001
+    },
+    "longitude": -80.54073090000001,
+    "latitude": 43.4754332,
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Waterloo Institute for Nanotechnology (WIN)",
+    "coordinates": {
+      "lat": 43.4712483,
+      "lng": -80.5441159
+    },
+    "longitude": -80.5441159,
+    "latitude": 43.4712483,
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "J.R. Finn Hall Residence",
+    "coordinates": {
+      "lat": 43.4692433,
+      "lng": -80.5452159
+    },
+    "longitude": -80.5452159,
+    "latitude": 43.4692433,
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "East Campus 1 (EC1), University of Waterloo",
+    "coordinates": {
+      "lat": 43.4762899,
+      "lng": -80.5403894
+    },
+    "longitude": -80.5403894,
+    "latitude": 43.4762899,
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "St. Jerome's University Atrium",
+    "coordinates": {
+      "lat": 43.4698791,
+      "lng": -80.5456624
+    },
+    "longitude": -80.5456624,
+    "latitude": 43.4698791,
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Health Sciences Campus of the University of Waterloo",
+    "coordinates": {
+      "lat": 43.4523048,
+      "lng": -80.4990081
+    },
+    "longitude": -80.4990081,
+    "latitude": 43.4523048,
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "St. Jerome's University Reception",
+    "coordinates": {
+      "lat": 43.4696887,
+      "lng": -80.5465201
+    },
+    "longitude": -80.5465201,
+    "latitude": 43.4696887,
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ]
+  }
+]

@@ -1,0 +1,1693 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45268799999999,
+        "lng": -80.4862967
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45415283029149,
+          "lng": -80.4851268697085
+        },
+        "southwest": {
+          "lat": 43.45145486970849,
+          "lng": -80.48782483029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Kitchener Public Library",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3686,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114825633542633838431\">Kitchener Public Library</a>"
+        ],
+        "photo_reference": "AeeoHcLz-sfg5DmqtQGln1LeXKuBBdEkJV3boXh0m80d76Hc__Qgk0eGG-3cVa1dC2fLyCzhp5E2j35JP1aUa2k7DYdcvTr-QoMbz4i0qEF3RYAVoEAWGy1Vwk5zIBTGoH9e0RuPvNfC7kn1RGPB0dJZMdcrJ5h0T6BKc67u__Ey1fwjY0MU06aKFz6znH3nlGFZnPGNvooAZunVyIl6Pwa-Qle4ebMUx7N0-IXchTTZBds8TisaCAtRryiJbEZ2eJvEXr_gz1UkfioZvAq8VxdrI6vFt--UgorhccNdRDCTDrFqYEQ37aPMSoF5j5Vyyvl5Qkva0KW4RH4",
+        "width": 5529
+      }
+    ],
+    "place_id": "ChIJn9KBwZL0K4gR38hTVM5s9EA",
+    "plus_code": {
+      "compound_code": "FG37+3F Kitchener, ON, Canada",
+      "global_code": "86MXFG37+3F"
+    },
+    "rating": 4.7,
+    "reference": "ChIJn9KBwZL0K4gR38hTVM5s9EA",
+    "scope": "GOOGLE",
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 644,
+    "vicinity": "85 Queen Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4660002,
+        "lng": -80.52451719999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4673648802915,
+          "lng": -80.52322721970849
+        },
+        "southwest": {
+          "lat": 43.4646669197085,
+          "lng": -80.5259251802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Waterloo Public Library - Main Library",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1152,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102085764975989391426\">Waterloo Public Library - Main Library</a>"
+        ],
+        "photo_reference": "AeeoHcKzlQYlLijFMOpB1MIi40eq0-N3DB1fscZe_eyRpjcIVS6Z0Zp8xpuD20O5eaa72j5Kz9XLgX4A49UR7sXVtMgzlXfxjXpqXIi8fxYDoC0znjKepo0ZR3vLG6YUHjgJz6I01skE1TaoWVb2JLoaZ9Xy3geEtGeg954yDrwNso34HhwtiiZW3Hh-x1O78Pztpex8EEthIcuM48tb0-irtNHPyJVTO3rNuGSqI2Q7Wq8O_l5Y8p05aeYvk2JrSEnBQf0M-Lj0vyNT2PP-G7G6wnIkjtgCUfXz_ALdVKuoNsWBgQXZC8F808jngVxBAKs89q_LJNlRPLM",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJ16HAmA30K4gR3zNWF9ApFDc",
+    "plus_code": {
+      "compound_code": "FF8G+C5 Waterloo, ON, Canada",
+      "global_code": "86MXFF8G+C5"
+    },
+    "rating": 4.7,
+    "reference": "ChIJ16HAmA30K4gR3zNWF9ApFDc",
+    "scope": "GOOGLE",
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 227,
+    "vicinity": "35 Albert Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4729293,
+        "lng": -80.542001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47436108029151,
+          "lng": -80.5404251697085
+        },
+        "southwest": {
+          "lat": 43.47166311970851,
+          "lng": -80.5431231302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "University of Waterloo Davis Centre Library",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107778314932338271756\">Davis Centre Library</a>"
+        ],
+        "photo_reference": "AeeoHcLs46mOe97qeGc9KYYEQ7JyiPdD0YbxRDb8pjdu5GGrm1sXomJIoYDZ7az_eJu9Zzwl_fQLMxJiJuVLohvOVAWxUx_YVwjccmKIC7DMEkCCRsXxcpZv3tq6rqYFfCDZS3uHMah4XKwCsia8kXz-1TG2umP_LC-gUnngn5j94i0IuvpsmxelHh2nrFuESnr4kF9u0Gc8jaBQCpLbVlPb6uegDftrl5Gru1k8PPOBhjhZSOx5DYFlPHcXjk16qLIFYFGPAjgIKP9Sq-In_QWEDWqWTa_u0Bu8KHhDhBbcGdVWF7zPVqMDVZuHfuRZS73MJdONIFkALLE",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJ70ldtwH0K4gRxEXs5bG4zb8",
+    "plus_code": {
+      "compound_code": "FFF5+55 Waterloo, ON, Canada",
+      "global_code": "86MXFFF5+55"
+    },
+    "rating": 4.3,
+    "reference": "ChIJ70ldtwH0K4gRxEXs5bG4zb8",
+    "scope": "GOOGLE",
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 149,
+    "vicinity": "200 Ring Road, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4697504,
+        "lng": -80.5423533
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47102828029149,
+          "lng": -80.54120731970849
+        },
+        "southwest": {
+          "lat": 43.4683303197085,
+          "lng": -80.54390528029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "University of Waterloo Dana Porter Library",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1719,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100221987428934488624\">University of Waterloo Dana Porter Library</a>"
+        ],
+        "photo_reference": "AeeoHcK-IulCew25fUu3GJIprmw-9lnj8o2E8CT0cfC5yrp5tEzORidjygajYs1xuzG8II63o5X9kMAidkxEWCTZxLb2FUZPV1W9xD-n3m0YTYjWpKc8XHxSqshpZ6DSXOiuqRhi12gcmhOlavMrGqOwLrYwSuYX9nGtNQW8L7f2tJquFTLf2jVVQrftTX6bhiV1aJB5zyN2Kp_IzwK7N-DxfK856lMVDlX9NjVH2is2SVYhC5Tq5fhUYUKaUa5ZkWQELMphBA3EIL9BDuqKhl9CvqIOSPr2gtb1BmrgdbbcPu6q2Pxs7uaUo3VEvLzrDGMbKXbzSBcqasY",
+        "width": 1957
+      }
+    ],
+    "place_id": "ChIJ9TyDPwL0K4gRoz1MJEtzsEY",
+    "plus_code": {
+      "compound_code": "FF95+W3 Waterloo, ON, Canada",
+      "global_code": "86MXFF95+W3"
+    },
+    "rating": 4.4,
+    "reference": "ChIJ9TyDPwL0K4gRoz1MJEtzsEY",
+    "scope": "GOOGLE",
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 103,
+    "vicinity": "200 University Avenue West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4505132,
+        "lng": -80.4856471
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45197398029151,
+          "lng": -80.48479011970849
+        },
+        "southwest": {
+          "lat": 43.44927601970851,
+          "lng": -80.4874880802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Waterloo Region Law Association",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 760,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101419823422426870260\">Waterloo Region Law Association</a>"
+        ],
+        "photo_reference": "AeeoHcIsK9n1A9eQa7ekFu5SnHZmvhVtll7EeoaC2FXPVFUSUZriclU-K6SDaSzFOKusP1xX6FX881mgV7Y0T62UvArBphvkWv5QcdZe0Mbxrf4_wJMQoTeNL-9hGN2OwYpih5_88ZiHWiT6q4uppA20BjpyD0dOzzRHAjocVJRaY5Og5kCLfZb-FYe-aiqa3VdrsOO0gtMJGh-dEg278TFKCWCnl9aIRn2SPFow6mFAQni-grqszDRcerUNwrJ2fdUgM6x5Dzty0A6NZ_nJm_R2rt2zQkyD_0Jurffe47dWNjrx8esclOQOXvWwHaTdW8z_hnLg7NvuxFs",
+        "width": 1200
+      }
+    ],
+    "place_id": "ChIJb-ImMO30K4gRmORIenWb2oM",
+    "plus_code": {
+      "compound_code": "FG27+6P Kitchener, ON, Canada",
+      "global_code": "86MXFG27+6P"
+    },
+    "rating": 5,
+    "reference": "ChIJb-ImMO30K4gRmORIenWb2oM",
+    "scope": "GOOGLE",
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "85 Frederick Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4892119,
+        "lng": -80.5441793
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4905855802915,
+          "lng": -80.54272081970849
+        },
+        "southwest": {
+          "lat": 43.4878876197085,
+          "lng": -80.5454187802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Waterloo Public Library - McCormick Branch",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112482415753734225075\">Chung Hsien Lee (Jason)</a>"
+        ],
+        "photo_reference": "AeeoHcKtPg7jeBkiIhkIlGu4RCpf1tNhihyQYbX0WFjQeM2pMtPoE5LJ0E8hDLq7IfqEdLIVaeEvBumY_hLGcWcHgJR4gOQR-BlFKJ42xHn7smiL1Ws3TeDI-FUgDc3W_ZNz_1pD1g0zPLwBUxdp9B41caefP90ksNFJQmrATOiUKHps6oJy6JvRu92GPE2X1zz-nwW4TWnzr_28oiK4qtgdVr7qDZHTsU6Q8VpiYoPQt7mHNE2v4LBz39qizQb1o4w2XHwiyr1JWhTRv76vYPMuUSw6JbNGtgFf8ZeNan_yjf_uxxnCJXywi3IZyFPVNdr3ayt5-dHy2rUTrZAi5oWZCPLsE1O3xs_zGM8x89fidhv_sWPkWQIUgljyjI2sya1PDXzkkQY-OktX6YNS-PCNEy_HgLTRYvhnCXWWDB-D_FXzSZHSFGgn_svWDe6OHL7yR8IkVunTrkn1dx85di1HshxZ1abDwIzyD9WrXAwl5JpoS3vR9Z7i8sx98d_vrleJ_lCtilP3IACC4ick8CXoSjc45KaqGArfnkTVRoxEvinA76P14iqTxUR_L4XQX5KQUIYMkpSkB6n3qVfYj8QSYxKhK5K-SKn6EUgbJCjefa6rECyrxdMkoGRM97WKI01BtO18w5AX",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJF9keyFjxK4gRu6CBGgDSZuY",
+    "plus_code": {
+      "compound_code": "FFQ4+M8 Waterloo, ON, Canada",
+      "global_code": "86MXFFQ4+M8"
+    },
+    "rating": 4.7,
+    "reference": "ChIJF9keyFjxK4gRu6CBGgDSZuY",
+    "scope": "GOOGLE",
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 55,
+    "vicinity": "500 Parkside Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.48065039999999,
+        "lng": -80.46259580000002
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4818877302915,
+          "lng": -80.4611731197085
+        },
+        "southwest": {
+          "lat": 43.4791897697085,
+          "lng": -80.46387108029153
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Islamic Humanitarian Service",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 277,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108616398000085068998\">Duaa Al-aghar</a>"
+        ],
+        "photo_reference": "AeeoHcK8HV-5j1zvuKK0NX8LfvikBeALqRlkLKiJG3jCH7IF2LpG-h-wwbVnSeb1mHB7bdZ29J18OXIWsHN_rY9BbHfT5P9qtXVxSK2-dni3-5zoosgal683SWyItPBadyMrsOjKk9wy8PwEuahkRnTFr5oXdUrhxhjfT5-xNDWaN8nmxuZ4D9k2aEgpXJNljKRlyusZghOjyfKSx08gCC3a7_gZFUa4h7ebDJvZkB77vncSWp0vXgyAmQ1zx85m1xUa5QhS_YzlRky4XV1Hpg1kmYRtd6bkCSN6Wk4KV5ys_7-3lC6horRi9cVBEMAzeQa5j3rOxzaAhhtb5k_wk8NFwltEF38ZsPw7NcRQJapY_LsLcwKlTWo4qQXYFYRlpowfRcHoPoiCbvI2Sp1UDyj73fIXyPF0c4igfQTXfzjzx7y0QrQeKGi-V7WqX4J9zolcuSkrdl5T_Dm8uDhV6AUTd3wwQJs-QBuJ_dt5L9_7QnLCMS8nP7AyLJIB5nrlPL-Qm7K_2CijJKu4YAGjt2mQVlVi-tUhfSF4pmx8hz4koWWWySGiJW2qsB8J-Rcqttcb5LirjXG1RD8UxsdN7aVJ1QiwvKAABbkYHI1BmOI4-aHDBahN4Pirm2dV3GCkHDbwvFWeV0hf",
+        "width": 435
+      }
+    ],
+    "place_id": "ChIJRzwOU07zK4gRKzmCfFU6gDY",
+    "plus_code": {
+      "compound_code": "FGJP+7X Kitchener, ON, Canada",
+      "global_code": "86MXFGJP+7X"
+    },
+    "rating": 4.8,
+    "reference": "ChIJRzwOU07zK4gRKzmCfFU6gDY",
+    "scope": "GOOGLE",
+    "types": [
+      "library",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 49,
+    "vicinity": "81 Hollinger Crescent, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5104814,
+        "lng": -80.4625928
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5117965802915,
+          "lng": -80.46139601970849
+        },
+        "southwest": {
+          "lat": 43.5090986197085,
+          "lng": -80.46409398029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Bloomingdale Branch — Region of Waterloo Library",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJ-42V4NbyK4gRGZBkkbd42Vc",
+    "plus_code": {
+      "compound_code": "GG6P+5X Bloomingdale, ON, Canada",
+      "global_code": "86MXGG6P+5X"
+    },
+    "rating": 4.2,
+    "reference": "ChIJ-42V4NbyK4gRGZBkkbd42Vc",
+    "scope": "GOOGLE",
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5,
+    "vicinity": "860A Sawmill Road, Bloomingdale"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46993620000001,
+        "lng": -80.542193
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4713116802915,
+          "lng": -80.54106366970849
+        },
+        "southwest": {
+          "lat": 43.4686137197085,
+          "lng": -80.5437616302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Geospatial Centre",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106614945060917518092\">Raj Panchal</a>"
+        ],
+        "photo_reference": "AeeoHcL8tClSUn0rvnvPNwV4FIhr18v1gNI4O8fAZSipdKzHri6PFQ9FFyCzmI_Mc3ugMHcXUlAQ7g9mOlzS6iGZq_RvKJjJS0Z8FQ9BukoOcLJSZluIKllWCw5RXcVXekUm--lunIcy72_OJOLHFjPH3ceY_z3oAf8mtTmOtAT9U2idDipLFLKOGM5iO6auVrHFGpD60PF1GC9anQlsSzsG4a3BnEj_rddJGVBW86RFlJEKnBFNgc5DRTP2oc4_BnIJgZgXq6FyyVIHlWruHrhbrNChaujzVVG0b5vrV3UkMqlmkWhPCEZafv_nth5qQoHmewgFeQL6_ikO_ae7_EP57gY53yFFg-WhMXtXg4HJ88h6I-rlTExI8iJ415DDaycLrrke6goy5HelbuUVFP6l1crWN0Pl-NBL3AGPSTQB1CAsY_tmUOfIsxIVGJ9pUTUnPdd9tn8YGmSlVRe_m_JtHrY8ZoixaYaxK7By_6c8BEvDGEvpgwgzDE2iRbPFcoIDzcaJz9s67zBoEaTcHZaGYCFrJdMkSLuwWaSaawFyeNsI7BasbTwjM0x7MlV8snP27dTAmlUZWzB0csNIX3xmFHGuhTcFc_DtcgSivKHfGFMAkQNHbo0057naf8TrIe3n7R4rGQ",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJi4ANQAL0K4gRCkCaWz7Bq-8",
+    "plus_code": {
+      "compound_code": "FF95+X4 Waterloo, ON, Canada",
+      "global_code": "86MXFF95+X4"
+    },
+    "reference": "ChIJi4ANQAL0K4gRCkCaWz7Bq-8",
+    "scope": "GOOGLE",
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46874,
+        "lng": -80.5458481
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4700624802915,
+          "lng": -80.5446336697085
+        },
+        "southwest": {
+          "lat": 43.4673645197085,
+          "lng": -80.54733163029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "St. Jerome’s University Library",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1347,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113100037815159252809\">Yasmin Mirzaei</a>"
+        ],
+        "photo_reference": "AeeoHcIAmmwpTS1eyoiFEIdFdYeODSTkTzhdJpfbeKJ7pTw74xNouU4i7-Ha8LE6uFdYLwDn1Rd1jyVDdE8aPT7zSdQsYjv6TJZXYkqfmLYSxcBR9bSaG7jNT-Szl2o8QDsLl3wgU1CQVgIny4rfget6p2LhE7NZ74NqOY0_BDEweHp2HAsabugrvFsLED84BKYYEmXhtxZHaklo6qr0lv58BLqBmnAU39LWmlJIHrYYSFnTcyQindJLVZrIwAFeVht9kopiT47tRRgM3UBHL_QMkvYYeplZKx8D2zWPM3qTQ5vgpOtwJtl5KTZD2WX-ZnY8lMhHWk5V4ZHUpq1w3bvewwtIJqvMxAcmitdjMQk9enqUWOfnYwkqfcaz5ROe872Jj65hkS9MKxFbsZfNCYUb1QJ1ma__G4wa1x1IQF38DAcmsye80l_mlNm1QBcIcp7FsSIf_JaRrnf2l8pHAvyRKKv_ujDY2dbRAvrs0kwU7zC9z_cwv2OkfooVUZQXnrCPnFHOCvKmvQFfrMMpzQxNrclM4oqrRgTtNJiDntUGEBpUqcuJZfxQvZWC_rqCXvGPsnXTnVS3IfyelCJENdmXDLf7XODCP6EuOEbj8yK3FKmuIVMhv95nInZxBoSkGpLJ7TtW3A",
+        "width": 1021
+      }
+    ],
+    "place_id": "ChIJU_ihUqj2K4gRCMvw0ImIBBY",
+    "plus_code": {
+      "compound_code": "FF93+FM Waterloo, ON, Canada",
+      "global_code": "86MXFF93+FM"
+    },
+    "rating": 5,
+    "reference": "ChIJU_ihUqj2K4gRCMvw0ImIBBY",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "library",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "290 Westmount Road North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46904670000001,
+        "lng": -80.5473
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4704995802915,
+          "lng": -80.54596406970849
+        },
+        "southwest": {
+          "lat": 43.4678016197085,
+          "lng": -80.54866203029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Lusi Wong Library",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJYzTSAqn2K4gR39MMRT5K8JQ",
+    "plus_code": {
+      "compound_code": "FF93+J3 Waterloo, ON, Canada",
+      "global_code": "86MXFF93+J3"
+    },
+    "rating": 3.7,
+    "reference": "ChIJYzTSAqn2K4gR39MMRT5K8JQ",
+    "scope": "GOOGLE",
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "Renison University College, 240 Westmount Road North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4525121,
+        "lng": -80.49231809999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4537782802915,
+          "lng": -80.49098746970849
+        },
+        "southwest": {
+          "lat": 43.4510803197085,
+          "lng": -80.4936854302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Wilfrid Laurier University Library - Kitchener",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103634708711974066884\">Riya D&#39;souza</a>"
+        ],
+        "photo_reference": "AeeoHcICbyqfoXOmFcuL_chM010OaG-MbZdjM46IAsIqc30vMRDR8Sg00HvfoFNP2t0LaaDEetB2I8ng1Ob4CCzlSoYEsIdQBS9cxOdl0lF6VuFcXOFxIl3tSt_HqatIImOwoTwZPseAclswEw3ms0XSIcsGbpHLE_8EjJLBAujbzwV2aqQmEqsaSUxzQcTB8yK0Nj3UcG9LvW1M4oTFsdjLCOt2xueuMxyujZZrm5OWiSU3n-NLPc4iFbI90eDxb35mNANhRT2r7hHozryFWZDF2go2XLSD_5jYYQtJF1j3OL4BFfQ0RXbz1wxuRN_Hm5GpJili3i-6i9lP2ZtKDjlL23aT8SyHnuRCBXtcCZe_XZJLjePFZrg5DVHuQCJkmAX1JDy0WWOA6chLyxaMPKnAupFq-pFwktKqgX-ObsbgxQ0QArzwhpLbAtxy1PJnV5qeWJrz_tiVxIMKq-0j_bFPN_RSYCwn6SQaBJQpmdPaNme_3dI4y8bj-S0Ou_bT3JQW3QAFCOoasUDVC6v9UnsRZLMXAHCGC3_3hWY83Whev5MBRz9Ay_1UulKj__dSBV0gPoezS_GyTROt3iDcpTJOhnSI7Lpg67eNki6B9PD3sq7ZcOlHIbfFQahz8eT2Qk3iBfEQJw",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJuVlINfP0K4gR7df0x6Q8UqI",
+    "plus_code": {
+      "compound_code": "FG35+23 Kitchener, ON, Canada",
+      "global_code": "86MXFG35+23"
+    },
+    "rating": 3.8,
+    "reference": "ChIJuVlINfP0K4gR7df0x6Q8UqI",
+    "scope": "GOOGLE",
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "120 Duke Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4567314,
+        "lng": -80.4795631
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4581359802915,
+          "lng": -80.47810721970849
+        },
+        "southwest": {
+          "lat": 43.4554380197085,
+          "lng": -80.48080518029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Little Free Library",
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110709771379276605691\">Tara Kachroo</a>"
+        ],
+        "photo_reference": "AeeoHcI6UGHHFJ2xwi9B7U_ZFKu4_fgxABnCZON-38oFVwGFcSZuD8e3BhGjcgU4iHfnHN8NbCvf8lDdR3AGvKGP5-LKiXCrI6mF2lmVdTJ7bm-leJDo-2oUDuUSZTTt9cV6nTocU30FrQURizSPHxNwGc9oF1c-VqDnO3qNEAKQ_Kg1-8AGSe1vP7L2VMrQeAVgyiYgyPj4l0Gpyvefo7KbDeB2SmpcI7z4vefm63CRUSY3dIUfEClnLDSbdWsE6A008O92EKpMBwLLasgy8mSdC0D8HVsqG1PuaXBipksavVj_u188LlneEEq18d0LHoqL9KdQmEmdcVlsv9ZgCt3jbuBN1PyCRVq2s_gf0HRU8jBIJYj8xoOHcGFLBsEVn4VEyKrL2qTr1SCCBfCU-xpWNlMSuWD25nNz42GjN0DCNdOOUHscq8i4G9S5R6EBi39BLOH4pck2HJi7t66IDJxioOiPG5rRFBQdJMC7nrnxKzknYetVp-qr88_zT-2tKccREFSA0g4cNwAYjNh5i8ybcfyCoBqtGLDZ6-yh8NcBiD4agm3IwMGHkpVHl9wvQon-8XiVoFougs7AmXxvm1VoJN3qFQ7I5F6yVXWqLjPRwyvGcLDWXAEb-Vv7-KvUezZ8r027HQ",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJEw_iZJb0K4gRFgzIQL08izM",
+    "plus_code": {
+      "compound_code": "FG4C+M5 Kitchener, ON, Canada",
+      "global_code": "86MXFG4C+M5"
+    },
+    "reference": "ChIJEw_iZJb0K4gRFgzIQL08izM",
+    "scope": "GOOGLE",
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "89 Chestnut Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4261232,
+        "lng": -80.5232292
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.42754418029151,
+          "lng": -80.5218021197085
+        },
+        "southwest": {
+          "lat": 43.42484621970851,
+          "lng": -80.52450008029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Forest Heights Library",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3592,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107395393067691978389\">Forest Heights Library</a>"
+        ],
+        "photo_reference": "AeeoHcICcKVRMmWxNRMhmWYi11i-NmuALLjCNrh2OR5DPzzzzdHy60lKFmIAK5i-FcYiyfQIkyrf9hE5sO_8PgRYaj3xDmlmtQAgU1K06eElWAHFhODNyi28R_f6sNJyt-BUGq61-TO8-HMwhMScqZ9lqwMHGjVD_96LYd_EHaUY1cPzexqMumxK8lFu6iZNYsVSzg_mZyUU9VYBGgVlpyy5uirJUhpWf-Mie900dXXZq8AkIZRiQFRoO0nUQzXH1j749yO67jnBMeMarTfKzcZvswVWkNyEI4_nvbmAnuCg8vCunn4s1RRfdxEuCtVsLvmLtT7s-hQB",
+        "width": 5388
+      }
+    ],
+    "place_id": "ChIJYTN07cf1K4gREsZh6OOw0sU",
+    "plus_code": {
+      "compound_code": "CFGG+CP Kitchener, ON, Canada",
+      "global_code": "86MXCFGG+CP"
+    },
+    "rating": 4.1,
+    "reference": "ChIJYTN07cf1K4gREsZh6OOw0sU",
+    "scope": "GOOGLE",
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 97,
+    "vicinity": "251 Fischer-Hallman Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4970586,
+        "lng": -80.5727311
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4983721802915,
+          "lng": -80.5714719697085
+        },
+        "southwest": {
+          "lat": 43.4956742197085,
+          "lng": -80.5741699302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Little Free Library",
+    "place_id": "ChIJN51G8z3xK4gRXcMhuYaEvLc",
+    "plus_code": {
+      "compound_code": "FCWG+RW Waterloo, ON, Canada",
+      "global_code": "86MXFCWG+RW"
+    },
+    "rating": 5,
+    "reference": "ChIJN51G8z3xK4gRXcMhuYaEvLc",
+    "scope": "GOOGLE",
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "648 Ellesmere Court, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4578357,
+        "lng": -80.4365809
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45915108029151,
+          "lng": -80.43509096970848
+        },
+        "southwest": {
+          "lat": 43.45645311970851,
+          "lng": -80.4377889302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Grand River Stanley Park Library",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3840,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108759886612034471662\">Grand River Stanley Park Library</a>"
+        ],
+        "photo_reference": "AeeoHcK4tvfexiuNYBsRrB0VjkdTf-CBR9WTRxuZzAR7l6ugjTcm6p6oECNOFzXRa8VWe8VeAGT85YtWNqDyHmOqxgREiilbh7MBtpsYUqKK9OrNS-Pklq8ch54uSrK0aKO_hCgeUr3uZVUif0CPEbylGMi7t2Z4uORzg88YSITZ5IPprvSsX5Mr-KzPvRs5iJF7cnvC7dM5-FsBur1jnoxEU_O5R3gtjhBnJgIT-v5hGpwTWDQr5U-8w11ek1mvIeeg38rl5vr3C6u4KNtkkLXbrh_tQOv9pqNrMZhNd0EIQXYlaAnrXSZVg39KO_3RAXJqNeGEiqbyrSg",
+        "width": 5760
+      }
+    ],
+    "place_id": "ChIJK1Sey1yLK4gRdcjbChPTSn0",
+    "plus_code": {
+      "compound_code": "FH57+49 Kitchener, ON, Canada",
+      "global_code": "86MXFH57+49"
+    },
+    "rating": 4.4,
+    "reference": "ChIJK1Sey1yLK4gRdcjbChPTSn0",
+    "scope": "GOOGLE",
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 53,
+    "vicinity": "175 Indian Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4199703,
+        "lng": -80.46760669999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4212367302915,
+          "lng": -80.46624636970849
+        },
+        "southwest": {
+          "lat": 43.4185387697085,
+          "lng": -80.46894433029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Country Hills Library",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3840,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117423987594613201975\">Country Hills Library</a>"
+        ],
+        "photo_reference": "AeeoHcKI3pUVLRwZV9QfvYWykpXHzr0iGk8hWmWEq_w2h-MSEP-UKX7EA2xk28VGzRaYC9yIQKNB-Y3oGVnvGMBqlLNB5xMP3zYi1UT-Xdq6tT1XhPlHK3mHZkmdzG6PK0i8THuyr1NTwAPiOr1EfdOEpLqWlfPgRrU6msrSCi8o1vcNGN68THA5F3YDiHwsYW5BYpMMCZy181Vn_GptBKwHkiajZZ879kK4bVc_OK2F5W2XGGUwAI2qFe4MY3nFMSoUIGIG4QvGa4VCJZ7s-ze-7zOTV1HN-M_KXwSBK8RgFGqcosAXdRTLUD-fdgOfaC1bMOc6xlIq4VA",
+        "width": 5760
+      }
+    ],
+    "place_id": "ChIJ7XxPu3X1K4gRvQbC-gbDNwQ",
+    "plus_code": {
+      "compound_code": "CG9J+XX Kitchener, ON, Canada",
+      "global_code": "86MXCG9J+XX"
+    },
+    "rating": 4.3,
+    "reference": "ChIJ7XxPu3X1K4gRvQbC-gbDNwQ",
+    "scope": "GOOGLE",
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 94,
+    "vicinity": "1500 Block Line Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47286099999999,
+        "lng": -80.52999899999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4741790302915,
+          "lng": -80.5284086697085
+        },
+        "southwest": {
+          "lat": 43.47148106970851,
+          "lng": -80.53110663029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Wilfrid Laurier University Library - Waterloo",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1296,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106930660138833141339\">Wilfrid Laurier University Library - Waterloo</a>"
+        ],
+        "photo_reference": "AeeoHcIKSWEVp2-Is2UXi6Q3z9VF8RuvTV0yy7JeStQYc3w5ah9rnkywZA1ra07d2nqB-4lGeZP9QEsPCfuXs2BnyuvoBqU7xFBMKOG6n1zPvcxhafHCvm3MaINC2bxvxpV2Q_SlU8QelJNEf1dZ5RIf_zBtIgV2otwKdLXWgIEkTq2Aox-615oYqm5Rhpk0LterJ9_LrbpROyOhThhVEWE4L3lKKB1SI4vquP9POSg6SqB5fjlK2yZXfCNobu2T7B0AcUs27GN1OgcwnTUPerFuZPuae5AKKR2FmWqFNvaJrsRv-YFSJoFedYdtGkxpwlf44WIpMNRtQLo",
+        "width": 1944
+      }
+    ],
+    "place_id": "ChIJxRhYTQj0K4gR5NZxqKhf5XE",
+    "plus_code": {
+      "compound_code": "FFFC+42 Waterloo, ON, Canada",
+      "global_code": "86MXFFFC+42"
+    },
+    "rating": 3.9,
+    "reference": "ChIJxRhYTQj0K4gR5NZxqKhf5XE",
+    "scope": "GOOGLE",
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 29,
+    "vicinity": "75 University Avenue West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4740191,
+        "lng": -80.5710764
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4752819302915,
+          "lng": -80.56974846970849
+        },
+        "southwest": {
+          "lat": 43.47258396970851,
+          "lng": -80.57244643029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Waterloo Public Library - John M. Harper Branch",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 667,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114595413367292732701\">Waterloo Public Library - John M. Harper Branch</a>"
+        ],
+        "photo_reference": "AeeoHcLvzSTGMYxgAJH-Qq1LJIBNqV1VRa89cW3n7WTpf1u0kIQ_1rLzl-pQJau3wZ7nA9GxQALXlPZeA7IZ2Ih8422ItTIUJiZwpuGTsKvLo_Tqu8frbGUGsskArE4cJzslPFVRMcG0mXoeIon-GotsrIa5uIqPZiCsIJ_Zi4fG2te8BEdNIBBEx2Rm20wKG0zKmUDKIyth2q7awJPN5m78RFBVbW9zLnLpuUc8Qd1JSQdqfKNuFAMKUzAAtroRxbQXWlUdQEBPh22D6_3Zget9w7YvqjWDr7Z0-OquPSz3qppFuhb5qPlZ7bWWQklEh9erBq-sY2Lhkjg",
+        "width": 1000
+      }
+    ],
+    "place_id": "ChIJQe5p9cv2K4gRqbHFeo8NttI",
+    "plus_code": {
+      "compound_code": "FCFH+JH Waterloo, ON, Canada",
+      "global_code": "86MXFCFH+JH"
+    },
+    "rating": 4.7,
+    "reference": "ChIJQe5p9cv2K4gRqbHFeo8NttI",
+    "scope": "GOOGLE",
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 112,
+    "vicinity": "500 Fischer-Hallman Road North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4643941,
+        "lng": -80.5210974
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46575498029151,
+          "lng": -80.51966766970851
+        },
+        "southwest": {
+          "lat": 43.46305701970851,
+          "lng": -80.52236563029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Little Free Library",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110709771379276605691\">Tara Kachroo</a>"
+        ],
+        "photo_reference": "AeeoHcLMCOeZqqBRHyOfZrLZGWfJOogJ3m3wFBTGzQ2v-C7CsD9fff_Lwx4dtTioKn2icUxpEqp4YM1DHuNXNB_adP41D-8kT0Gnc-K2iqIkHnHMsxBNODf2J07JwzpIN4isn5TdGPvMYe7_SldzJGe4USidJSu-zg-Gp5I2cy61jsGm7C_OZZqWhHkGOO2DFMUuTsY6lIQM-FHMpDZrLUT3lEZCCh31K4VVXv5QdGef5g36c_RAAbwR-E-NDRMJnzoDM1LADd6YrZgAe4_bvj9Axb_Zx8EqSjKAEDcwF6jkQI66418RJRZRvrfQsSSIDorikpnk31RrjM3q3NLTbuaRFjamxU0tSLHdY7EPa9w-jzItrJ603Rx8GK-0fR8yMNeNHo2msUUsuZgAxSCzPqgihmqd-ws_HVuM2LnPHIG7_NfK23IQPZZuKixkfAFOFY7SELCybfvccCUB2XjOvownMui8oYWhunxJF2qDACAJQNqyU8fCmhy70WpVqP-ysxTUZOifD6w1Uw2jpDmjPFvptHPnZlUwVq4lhKmCne75WfFEjTDqkECaMKEs-UmxTVy5rhu63Ibq_fpZ7eJD-P4nbBMP16jyQaSWjH-FeP0ehPMqSjrI2BHe_08TccmAlLnw",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJz8uV4In1K4gReo9UTaA4oCU",
+    "plus_code": {
+      "compound_code": "FF7H+QH Waterloo, ON, Canada",
+      "global_code": "86MXFF7H+QH"
+    },
+    "reference": "ChIJz8uV4In1K4gReo9UTaA4oCU",
+    "scope": "GOOGLE",
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "25 Regina Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4614267,
+        "lng": -80.5218539
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46273283029149,
+          "lng": -80.52070591970849
+        },
+        "southwest": {
+          "lat": 43.46003486970849,
+          "lng": -80.52340388029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "First United Church Library",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ4V5FfKL1K4gROtZbvE-qQEo",
+    "plus_code": {
+      "compound_code": "FF6H+H7 Waterloo, ON, Canada",
+      "global_code": "86MXFF6H+H7"
+    },
+    "reference": "ChIJ4V5FfKL1K4gROtZbvE-qQEo",
+    "scope": "GOOGLE",
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.472531,
+        "lng": -80.51488359999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4738098802915,
+          "lng": -80.51366291970848
+        },
+        "southwest": {
+          "lat": 43.4711119197085,
+          "lng": -80.5163608802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "take a book leave a book",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 399,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103157554186459961598\">Rebekah Hookings</a>"
+        ],
+        "photo_reference": "AeeoHcIQV3PYr9yVU3j5SRDN4Jv7EjPGIZJVi7rTFqX6yLVdTW8OesIsOey4WuWhGslepdL-dzMrJId8RIekPwYhkdUfAJ37uLN_JbQMiXcjygALFBScykEMT0rH7fgFtbELlM99bU3oW4ViJd_IUxdbOrzZULbGRJ6HO9WZ_gq6jpkCXH-QE4SmtAqj714zuXnwPqY1IBKQJl-RaPk29qrlXOQVntLtWR1luKRDinn_ZN6_zyRJ_Pl0mc0k_ZH5fIeoy4lbaJIUav6YkZZX7OLDy35VYUURqvxLymfGf1eAkq90Pqsy1rb_e1-OBlsWrgYFiwbhCX4L05dKtxJkG_7LE2o6WUqq3TlMZA5GBifJcnMBWqtm0HgGlXpTyuboq096EiTMT8QMjrGJeswTCds80oV6sLPvf-bxAHFDlzUd-eZcHsDkk31XJs5c0XFkLGJP1PXG-RRt6PBUpZ-yToIPgMHJtoJjHqgJeTxuryNiQsa3-vSYBU7xaJcmeZcUpLW-qj850Owy14ylHS0DuLk2QjibR_-k99vER4aaxud6C6r7o0SNbvUSTU4hTcZncoRVKpMp8HfHWq5rLMrbLIBkdP6oeE54iog7B4W2e_uqurSc7EZB4ojpVSKkOe4rEseCD7O06ay5",
+        "width": 594
+      }
+    ],
+    "place_id": "ChIJ-Qx3Frv1K4gR3fqwptZzW8Q",
+    "plus_code": {
+      "compound_code": "FFFP+22 Waterloo, ON, Canada",
+      "global_code": "86MXFFFP+22"
+    },
+    "reference": "ChIJ-Qx3Frv1K4gR3fqwptZzW8Q",
+    "scope": "GOOGLE",
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "136 Weber Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4725311,
+        "lng": -80.51488379999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4738099802915,
+          "lng": -80.5136630697085
+        },
+        "southwest": {
+          "lat": 43.4711120197085,
+          "lng": -80.5163610302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Eric Davison Memorial Library",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115240790193630864701\">Fraser Romeo</a>"
+        ],
+        "photo_reference": "AeeoHcLJuRvJ7Q3XhhTrWLO-k_cTc4Py1R7ONuuE-DZUaTwP_hZ7QXp9vO9zvKR5Xzg03ztmXVHh10-hySeqTWPqdZSt73INFK0QJT5cW3FjENsNC-_mLzKYbbD2S32-geVf4rJ-F60r3IiJnhDBsoQnoyTdyC0FVkxoDjCPIqrVaItoXTIsNIkHsAlvN5Te7prpAU5GWDcEFTfXTDXDAkhRhBkKCWvjh37ojk9oapDyiKNYaGJ9xTxtDai9W76-YhKCw4h3qH9S6UVhy-XZU3RC9P-tgAfdICaIOD5Dk1F54B-jDXMBhQr7QfMKPXJKh3yX1gbsq45zuuc_JViQAG7cMBlqznx3pi_QdJw0iLhEtwOksnZYv2mZDmxApAcQoBYfi34_DgBxoTZwJBz-LH3jkRLhDQEbxNAXy7Di9bk9SRdlUH05-M01SVkYeVw3Iv2Omqg0l1DT5yv0GNfnfqyz6gC3UsmS4sMcZqBH3-q64dhos-fkXekn5G2XxAmjZ-iZ40vXMZ5cRAd-xHApwPGNUFEsHWaTVlnGMac3Q43MYuAD9sB-f4u26aDfi3M5edUze-WUrb44M-5WESF4eGXs4CduJgX-nS2Lxn-1ge3wRO0AaREr3lK5o9ZuP4-jSINlFhmmww",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJj-U6Nqz1K4gRZZphFoXb4RU",
+    "plus_code": {
+      "compound_code": "FFFP+22 Waterloo, ON, Canada",
+      "global_code": "86MXFFFP+22"
+    },
+    "rating": 5,
+    "reference": "ChIJj-U6Nqz1K4gRZZphFoXb4RU",
+    "scope": "GOOGLE",
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "136 Weber Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4579287,
+        "lng": -80.5034022
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4591789802915,
+          "lng": -80.50199931970849
+        },
+        "southwest": {
+          "lat": 43.45648101970851,
+          "lng": -80.5046972802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Kitchener-Waterloo Library of Things",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100034373081628426629\">Kitchener-Waterloo Library of Things</a>"
+        ],
+        "photo_reference": "AeeoHcJw34dCBTvVthxkdDjlPPXt_YvjOLTGAawJf6y8CHT_vV1P3FlA4RFtl849LqQSUC7r-gpNVQaumJwS1BG3HJJ7nW0Qd8Tu-kpzW-QJJM8GqEInLBnKtzqzwobAARtjOlXBT1oiMKYIaM5_EX9tbJy8ty8f7-0shtEDbCw36SCLwdoRu7Ay2dDlf_Z-G3IBnrwxmJXRzHXFNORU4-6Xh9ek4zyLTLy31rk207LNd9t4t0FcCshMg6dIElUPABPL1xbXbmYAbt4GNTm6D1X4aCJVN8WBrdKBye1XGsgYXw7EjuLDw9puuCAZVD946z8_Sjnlm2O1qaI",
+        "width": 6000
+      }
+    ],
+    "place_id": "ChIJUaj_YGH0K4gRYLbS8iaA0Zc",
+    "plus_code": {
+      "compound_code": "FF5W+5J Kitchener, ON, Canada",
+      "global_code": "86MXFF5W+5J"
+    },
+    "rating": 4.8,
+    "reference": "ChIJUaj_YGH0K4gRYLbS8iaA0Zc",
+    "scope": "GOOGLE",
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 11,
+    "vicinity": "91 Moore Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4791953,
+        "lng": -80.5179017
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4803030802915,
+          "lng": -80.5165380697085
+        },
+        "southwest": {
+          "lat": 43.4776051197085,
+          "lng": -80.51923603029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Waterloo Campus Library",
+    "place_id": "ChIJDfTtbozzK4gRQ7aDai_KIUs",
+    "plus_code": {
+      "compound_code": "FFHJ+MR Waterloo, ON, Canada",
+      "global_code": "86MXFFHJ+MR"
+    },
+    "reference": "ChIJDfTtbozzK4gRQ7aDai_KIUs",
+    "scope": "GOOGLE",
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "108 University Avenue, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47667269999999,
+        "lng": -80.53646320000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4779543302915,
+          "lng": -80.53520696970851
+        },
+        "southwest": {
+          "lat": 43.4752563697085,
+          "lng": -80.53790493029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Bookplex",
+    "place_id": "ChIJ1Rsg7PjzK4gR-r2R76kGTto",
+    "plus_code": {
+      "compound_code": "FFG7+MC Waterloo, ON, Canada",
+      "global_code": "86MXFFG7+MC"
+    },
+    "reference": "ChIJ1Rsg7PjzK4gR-r2R76kGTto",
+    "scope": "GOOGLE",
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "318 Lester St, 176 Clayfield Avenue, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4694289,
+        "lng": -80.4898839
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4707794802915,
+          "lng": -80.48843166970849
+        },
+        "southwest": {
+          "lat": 43.4680815197085,
+          "lng": -80.49112963029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "103 Boehmer St Shade Tree Library",
+    "place_id": "ChIJXVvL54L0K4gRymd-bJLXWJA",
+    "plus_code": {
+      "compound_code": "FG96+Q2 Kitchener, ON, Canada",
+      "global_code": "86MXFG96+Q2"
+    },
+    "rating": 3,
+    "reference": "ChIJXVvL54L0K4gRymd-bJLXWJA",
+    "scope": "GOOGLE",
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "Boehmer Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4524534,
+        "lng": -80.4819345
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4538046302915,
+          "lng": -80.4804746197085
+        },
+        "southwest": {
+          "lat": 43.4511066697085,
+          "lng": -80.48317258029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Little Free Library",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107562066401734193350\">Little Free Library</a>"
+        ],
+        "photo_reference": "AeeoHcJdgHMd7bcwhBkVCA5G7F06Xq04hVtCWPCnEGbVW3dtPqBHC5UFinGT6Cwzzoip0XFEb-_bIDntEswhWamJnFwGo8kocruw_ITXky4aWYrWrw7InjYVfbU1oTSvF652s4JYz3zHrjnN6Mq-K59cu6bd61NaxeEYhLKZuK-PoI40PnTnz0_M2nU2tFZDFuRuqCh04CjM7IxgNCjsF-ArMkB16GB2kfxcacfOkPvW5u_Oq-AyMHpejzAD2_lRnytGP7i1E2FnzJ_Id9KsoTK796thkCFoDujDVr-W8oB5gTEwur57p8uGuwNMQV95eCXsGEAzrtPjSAU",
+        "width": 1440
+      }
+    ],
+    "place_id": "ChIJZ2jZI2L1K4gRxdFk49vekYQ",
+    "plus_code": {
+      "compound_code": "FG29+X6 Kitchener, ON, Canada",
+      "global_code": "86MXFG29+X6"
+    },
+    "rating": 5,
+    "reference": "ChIJZ2jZI2L1K4gRxdFk49vekYQ",
+    "scope": "GOOGLE",
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "155 Lancaster Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4544483,
+        "lng": -80.45631360000002
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45577158029149,
+          "lng": -80.4548461197085
+        },
+        "southwest": {
+          "lat": 43.45307361970849,
+          "lng": -80.45754408029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Little Free Library",
+    "photos": [
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110709771379276605691\">Tara Kachroo</a>"
+        ],
+        "photo_reference": "AeeoHcIFtl9sZfVICIZCqhZveyxIB1Uq8p5VcniSgKge_XlpnRRzSy7tdCqGt5EEuWmwiz6Hkb1IwD5gFn8QQrKxC87z2i1BfLHJuiDzZYJ7NB6IE9JXj9R7VFoJA3fphURib4KbezJjix9_D8RAWQty8_Dewc_meVT4p3ngEkzH4K9I7_nIahk5LNtT9Yxx1TVqmz7u7ff-LBvncTG0UQYhP3wTaNtQNb2VdYzufQEVmL4ZcNi1-rP5_3vDUnSSsDKPH-X0XWxsCMIAV7bAOvturq1stN-oU7vqt-AmneW_aJUqKa5k5rzkElXgAPrV56P95U0TmbEgAkVWrhjFXXTs-DjczsQR6dAciHr_-YO_XAv7DILUpleQ4WrkUQLiIMeHR8u472_Bl_NYfi8MRVQLKX2F08QoNgA3a-vU-djCyj0kMyv7uS7z_CaD4896HaBWN0ql_GpurARTMV2677oZ2P9zNS83uGFGhiA9TVFZg7f5rkz9KqxxmONCOui_WuDitv31v48bo7S7TBOKBAOOWCyLodDQpKgETYYgdbhwOjUlR6cqh-YZclVyvnhup7-zg49iePqp8_RMyFuhjDL_UEiDd2eSiWrsf9oL861_5Uiqz1E1akSOt9KKAq2YrnUM0ZaHXYM7EvMlzQoQ44yZgVYW3os",
+        "width": 1440
+      }
+    ],
+    "place_id": "ChIJzzIUbgD1K4gRUZECi-u6cJ4",
+    "plus_code": {
+      "compound_code": "FG3V+QF Kitchener, ON, Canada",
+      "global_code": "86MXFG3V+QF"
+    },
+    "reference": "ChIJzzIUbgD1K4gRUZECi-u6cJ4",
+    "scope": "GOOGLE",
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "302 Manchester Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5193421,
+        "lng": -80.50064789999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5206153302915,
+          "lng": -80.49900756970848
+        },
+        "southwest": {
+          "lat": 43.5179173697085,
+          "lng": -80.50170553029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Waterloo Public Library - Eastside Branch",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3968,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103374279137061871762\">Marion G</a>"
+        ],
+        "photo_reference": "AeeoHcKh60apH8psuaurflvjqyYW_dP66M5yr97ZOxyY_xL4xddIfiRkdvcovfiH2llEX_ys0dxnNyTsHmJJO3GyWoIFHWdSOKi9m9E1lVCB7RIivSP8VtjRYwIGZkBCYw92N3G903QKo2AYJN4xf5UynYk9c2tmPmQ_1Qkwjf12TjwV2k7S1Gk0o2XATRgCZLJ5waknAYtUHrlNdI43o2qhuYsAzO2GDs8ncUh1jWxMQtQJSiVf47g4lUlk7F42NojgwV5CZQ-I2TZdZXjpSxtZLLiyWukea0_-ywwanlpPRLYdW-rT9Fvjf7wF6FO2IUbxLwTIhTgXaq82jRbElHS0SH7l2r7DZHaFTsIpV4rmFQ5GbaSwpr46eCyGSgcPDLAHuETlUYpNJtvOWhehYMkT996vHULKWXlF7f7dJ1dgxjgZnDKzaHsitIDC3VDv_-OF8qlZvRkO08CqKT5IKySs-Y4b_kRTx4b6sgu4vE6Mdf243VZDQx4TznAgd0A7Dv5PW-HbK75V0NKS8jgebkQOjrF1Iodnbpp_6MpmDXDg8HGN1z1DXo9lIPYCzwxLzRO2wT39hyjVpE1vWH9Ao_pzSvrObAbLHUXry91bSFYRfDTWTUXbLUtN0L4GnZDlEjAHXZoT-g",
+        "width": 2976
+      }
+    ],
+    "place_id": "ChIJA08eyBvzK4gRWjJrnShdDHk",
+    "plus_code": {
+      "compound_code": "GF9X+PP Waterloo, ON, Canada",
+      "global_code": "86MXGF9X+PP"
+    },
+    "rating": 4.9,
+    "reference": "ChIJA08eyBvzK4gRWjJrnShdDHk",
+    "scope": "GOOGLE",
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 64,
+    "vicinity": "2001 University Avenue East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.41195909999999,
+        "lng": -80.47513970000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4132529302915,
+          "lng": -80.4737775697085
+        },
+        "southwest": {
+          "lat": 43.4105549697085,
+          "lng": -80.47647553029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Bee House Activity",
+    "place_id": "ChIJh4pzXTL1K4gR2z5l8TM3Yok",
+    "plus_code": {
+      "compound_code": "CG6F+QW Kitchener, ON, Canada",
+      "global_code": "86MXCG6F+QW"
+    },
+    "reference": "ChIJh4pzXTL1K4gR2z5l8TM3Yok",
+    "scope": "GOOGLE",
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "80 Old Country Drive Unit no 11, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5104039,
+        "lng": -80.46261659999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5117256802915,
+          "lng": -80.46139486970849
+        },
+        "southwest": {
+          "lat": 43.5090277197085,
+          "lng": -80.4640928302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Waterloo Regional Library (HDQTRS)",
+    "place_id": "ChIJB5Yg1tDyK4gRBL8H_NgtNy8",
+    "plus_code": {
+      "compound_code": "GG6P+5X Bloomingdale, ON, Canada",
+      "global_code": "86MXGG6P+5X"
+    },
+    "reference": "ChIJB5Yg1tDyK4gRBL8H_NgtNy8",
+    "scope": "GOOGLE",
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "860 Sawmill Road, Bloomingdale"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.3959053,
+        "lng": -80.49908020000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.3970661302915,
+          "lng": -80.4976795197085
+        },
+        "southwest": {
+          "lat": 43.3943681697085,
+          "lng": -80.5003774802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Southwest Community Library",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118141292848437638476\">Marta Borowska</a>"
+        ],
+        "photo_reference": "AeeoHcIScE957FZ2mG3GQYDOnCxefh7BCfsHiSy-rF2ZgcWxXBl9vmrqAFpBz9eNU9CM18KlKDHxH7-XVezKMbr9u--LlLSC5Lb8Yi3l0ESX9S50_99oV09q43e2jWAYn4vnUA3gEFGj1aMyqCH2mFHWgLYF8hDh-YcXhMI0kjptsYDExNH9yE2Tl2xmBGK_Y3gou8gJtpnbLjM9oNclD_cfglQJMV-jufHGA8NKxsAWz49qknbLfJhY0ckUPhBqm6buiJs1qAwKFWt09K8q_V6HRDLe_OOOb52Z1ArxyVZpIa6WelojQfjTFfTmLjNC4nPgpm3vvaYdRB1UH8z1EeVRG_AvW_cVMgwsUrjW4UbAyng9dXuACxL2_OuEtwixd86iyjMTObWyf0swE9b-2S6juG7kl_8xyFF2J1B_icU_p2kGIaJ7LxQzjf_DF4j261OvsCpR9psiCG_8mOTp5OzayV4LwHGp9YvgPmJ_zpK2qhFrrFP842k3PfDeuyJATq6G5TopfW1QEDXHhkS3TLbBra23f_4O0d236iDGnGcKG66O89syI2j35VPDKf2FWiz6Kz1gJZRgdTM8okE9kldCayYX12QdeETlC-mOTW5gwj00JDVysSgckMo72qgEq9Qo3Tl5UA",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJd_gdFQD1K4gRkF38SJOXnZc",
+    "plus_code": {
+      "compound_code": "9GW2+99 Kitchener, ON, Canada",
+      "global_code": "86MX9GW2+99"
+    },
+    "rating": 4.8,
+    "reference": "ChIJd_gdFQD1K4gRkF38SJOXnZc",
+    "scope": "GOOGLE",
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 16,
+    "vicinity": "100 Rosenberg Way, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47204079999999,
+        "lng": -80.4165991
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47327323029149,
+          "lng": -80.41535306970849
+        },
+        "southwest": {
+          "lat": 43.4705752697085,
+          "lng": -80.41805103029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Breslau Branch — Region of Waterloo Library",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 900,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115640611004764544623\">J B</a>"
+        ],
+        "photo_reference": "AeeoHcJxZbop7tRNUlFyRDInHDPRZm6AI6jg7ryz-5Xuvm1fmrGAuz2qY8RKCNzlehKjt_cid7beNuasFg3tdNdxnAVm9bRv4L4KESVY_wRvBRFmGlT5MD9NQiNxdzwc4Q41NVP-FtZWfCigVI9pAiW-FUcgjAmcg_OOQTiyaJ67gJ8J4Fr7P8-UW38eVG0_sqE4Lukc1j96pHX-CUJ_2ZJHFjqD5aHKqvu8AzK1dNH0ZmaoHMtXz8FOgOLgG5y9ih0AbytS8TZ6__mJ7Dw1TpZ6txyiMA9fXfkx13w_MmyYCwRy5Vvb19ZephhFZLLgycKqIryL_QU1huHh-fxbjMi1oLedOHwNg0QyZBpveQR9ypsIkD2CnxCHRmMU1AmQOTDCyCUHTvEh8bauiGHVNuQOFwSPB-zRFjYaKzhs4-epTOTiRxfBrNLgtW9tqmCKSmt27j7QGfnTGbUw3GWCV8lOX38bHqiH3ShV_JOBYFJ_y2qLhooDe5i09nyDnTAqjnfTImsBEWvZitbzGVrwnv26tCczq6JWkNyV0KPAbDdfZpKTNgqkeEurTC1XZvb9xtZPgspIRtB7hg-Nf60Jyv4euARfYhgobvAW99JhNzM0WLDWQNkjNciKJEA2H61LybUPnmFKTw",
+        "width": 1600
+      }
+    ],
+    "place_id": "ChIJoVOQYwCNK4gRwrQmCfpct0o",
+    "plus_code": {
+      "compound_code": "FHCM+R9 Breslau, ON, Canada",
+      "global_code": "86MXFHCM+R9"
+    },
+    "rating": 5,
+    "reference": "ChIJoVOQYwCNK4gRwrQmCfpct0o",
+    "scope": "GOOGLE",
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "100 Andover Drive, Breslau"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.53917999999999,
+        "lng": -80.55462039999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5405396302915,
+          "lng": -80.55338156970849
+        },
+        "southwest": {
+          "lat": 43.5378416697085,
+          "lng": -80.55607953029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "St. Jacobs Branch — Region of Waterloo Library",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105804738238083402298\">Marcello Scarlato</a>"
+        ],
+        "photo_reference": "AeeoHcK20paJ99dIpyfrSRyH3RpIfvKXgg6JDhBLSWtLW6ZSm3A4WWBQU95hfyRTjwurrsm7O6CqAi4l6EKwJqNlDszhWvq9E_I-Wg7hL6VHx2I8n8cIaD0aP4b7DhHCJ_Jyj8Ot3PFqGZLymGuTCXuDKEqvLJ0zwJik_yijjN7YHX2VMWRR9DV5BUz5W2BTsAyV1hq6-fz5tqeZ8LWd-DMcREp_RTEM_JvYuWlYOufVJXWonlbWGDBdyMWhlsWQSAexs5yjvG4jepZ4c8A3SgR9dIhYHksi1sQ5L89gL-Oj-X6iCnBzmnzRuPNZ3fk4gSbJc8zxrSq2ZBswlyxxI27dK2NvKAf_vyuugTfI1aR6l5O9EYE873UppZy6MGsujLRrY-l1Ztz7FFYYn2gX3BrBgTp9decEroGvn8eEnDIYPgwoVOkhgU-L6Buhinrg6WkOg0jPZsPDjAdmOLp00efbuff1Lb3RvITXJexPwbjwA8uNpnNXE4bj9S6Vo7FpinUIG5E2yXfXqsRJGgvEmMQVKcUjI8TFA3z8mhM1hIvw37dK5JwNVo_WRE-zvjNtomx4BcH7xShiN8Fs0Ytt0fQAX1KPDwornCDrAUWjIrdHuBAxwADEJyU31lSIvTd6jBxfZIYlMQ",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJj980_vHxK4gRZKkCcMLD4zY",
+    "plus_code": {
+      "compound_code": "GCQW+M5 St. Jacobs, ON, Canada",
+      "global_code": "86MXGCQW+M5"
+    },
+    "rating": 4.4,
+    "reference": "ChIJj980_vHxK4gRZKkCcMLD4zY",
+    "scope": "GOOGLE",
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 8,
+    "vicinity": "29 Queensway Drive, St. Jacobs"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4410351,
+        "lng": -80.4113359
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4423898802915,
+          "lng": -80.40996891970849
+        },
+        "southwest": {
+          "lat": 43.43969191970851,
+          "lng": -80.4126668802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Tremaine Park Little Library",
+    "place_id": "ChIJe8pGHAqLK4gRy7WQTQS9XF8",
+    "plus_code": {
+      "compound_code": "CHRQ+CF Kitchener, ON, Canada",
+      "global_code": "86MXCHRQ+CF"
+    },
+    "rating": 3.3,
+    "reference": "ChIJe8pGHAqLK4gRy7WQTQS9XF8",
+    "scope": "GOOGLE",
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "30 William Lewis Street, Kitchener"
+  }
+]

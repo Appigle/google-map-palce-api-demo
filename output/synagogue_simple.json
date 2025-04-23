@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Beth Jacob Synagogue & Jewish Community Centre",
+    "coordinates": {
+      "lat": 43.44198189999999,
+      "lng": -80.4823164
+    },
+    "longitude": -80.4823164,
+    "latitude": 43.44198189999999,
+    "types": [
+      "synagogue",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Beth Jacob Cemetery",
+    "coordinates": {
+      "lat": 43.4392579,
+      "lng": -80.5201625
+    },
+    "longitude": -80.5201625,
+    "latitude": 43.4392579,
+    "types": [
+      "cemetery",
+      "synagogue",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Temple Shalom",
+    "coordinates": {
+      "lat": 43.4497837,
+      "lng": -80.5624929
+    },
+    "longitude": -80.5624929,
+    "latitude": 43.4497837,
+    "types": [
+      "synagogue",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ]
+  }
+]

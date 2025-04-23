@@ -1,0 +1,3156 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4991033,
+        "lng": -80.52956329999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5005043802915,
+          "lng": -80.52828741970849
+        },
+        "southwest": {
+          "lat": 43.4978064197085,
+          "lng": -80.5309853802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "ALDO",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103218525528754912819\">Erez Zukerman</a>"
+        ],
+        "photo_reference": "AeeoHcIw0nLBTlq66E6Ol5dremhlRk03SP6etjnCT-VhMaGhFluUH8x5AjuSOkrzfHoYNe-ofh2uCd7g3ATAVmVqPJvy8HIbFmTOndAvtXiHaC82uCwd-I3zj71R_uL2h9X9AH2AiMtO-CuMLvO-rMqOP6vY1WKDsEvQ_Pr5j2EZEtpCbBWCIQu8KReT8iwONKmmQhO0UEkDGb2MO6ojoBE5TygeyJWiQ17AR9MTYn7odVjQ5rxA_KgUZ0zHsFnJnwlWLvBNihmHSsl6MVu1ZsVSl92MvntjLdVExPolAzqfsi_hniiztrKfY-sq5YsSzKgy97wd7lY9DheaQSVf8ep52by51IwDViyL1OkzToeQq9I0Eix9KC-tbet7TzAM7jibxIUXiwwqsDXagKyZvWeeD8D-wF0TuFQ3RWepSupWsoSb9Da9NryRFVR_PHZhNcpo7Sdiu3batioKWD139_SDmcclpj_LRupdddeI0HcxwMa2ks5cK0ivMqXW90qLLsotfis83S3XL0Q8dGO7KxU3q2Lu8-jBLzGGVf-Xe9BWo9r_oxvkJoJ_vKBGMQNrlDiTgGqfMp_P3_wi17tfOQuoDoKzFkcC07bfrWK2xo8o8-1yZmyom3B3n7FDZwO1ToS7hLKkXT87",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJn57J_sPzK4gR_OTTQphmpbk",
+    "plus_code": {
+      "compound_code": "FFXC+J5 Waterloo, ON, Canada",
+      "global_code": "86MXFFXC+J5"
+    },
+    "price_level": 2,
+    "rating": 3.1,
+    "reference": "ChIJn57J_sPzK4gR_OTTQphmpbk",
+    "scope": "GOOGLE",
+    "types": [
+      "shoe_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 88,
+    "vicinity": "550 King Street North B1A, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4187509,
+        "lng": -80.44885049999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4201415302915,
+          "lng": -80.44759026970848
+        },
+        "southwest": {
+          "lat": 43.4174435697085,
+          "lng": -80.4502882302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Marshalls & HomeSense",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2427,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112482415753734225075\">Chung Hsien Lee (Jason)</a>"
+        ],
+        "photo_reference": "AeeoHcKRhSNvH6uMEUb3XSagRfic936Kqi53mGlz1Nx2rzdUuhW87dY0zrHDZVKH2S06i1IG9dLVa9g5Cg8P-3sDKVjovHeMyhKH4twDpKCNE1FSn-DEi9VlVjDlk04314Bw-SpGkKLyFC9iNj9d4RH8pijKZ4aUZmilisdBKG9_0BcMBgIyzEYcsrXy4pzRKEDL6Bp4DPsVgxln1-e0DXLzLwQAwQ7MFjOKexb52F7IC_TyuNtGU25RQb7sb8lOePa2bvPBmPs2iRFdexxux0s9uGWTCbjOsIbz3HPWpyAE5fMSRrC6vnvhw4GvwdWKSW4QqptOfSvUjN0tKbx3jdp9cMBj2r9PMOLOlLeTSkzb37lGoXmtg-DxtJ8s9Sf472pZVCbDT7oJaYhKAT829WT4SoFQ_NitvSn-qRyB2aJEyZIi-iBT6kF7X36wP-157sNelCHmh7kxtuWyHD4l9V9V6FSK0fszwzqadr06xc6vE0A6NCjnwd-LSxUBqx1XWwUvVPzDQTPDypzKbJsMbu7qBntXJ7QPB2R-EsvyIsGmlBb7ybTQHnz1Z3kWXmcPV6cvUGRiXM2rEsHXmd0AgluhrlwUY7tCsJs5xf0wX666vlkqqs6h5dimfMzc2MrUhroqMIVjiA",
+        "width": 3436
+      }
+    ],
+    "place_id": "ChIJgwclnM2KK4gRpi9FO8lKmBo",
+    "plus_code": {
+      "compound_code": "CH92+GF Kitchener, ON, Canada",
+      "global_code": "86MXCH92+GF"
+    },
+    "rating": 4.3,
+    "reference": "ChIJgwclnM2KK4gRpi9FO8lKmBo",
+    "scope": "GOOGLE",
+    "types": [
+      "department_store",
+      "shoe_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1177,
+    "vicinity": "655 Fairway Road South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4243176,
+        "lng": -80.438563
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4255768302915,
+          "lng": -80.4367087697085
+        },
+        "southwest": {
+          "lat": 43.4228788697085,
+          "lng": -80.43940673029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "ALDO",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111741149029848616871\">BHAVIK PATEL</a>"
+        ],
+        "photo_reference": "AeeoHcJcH9GE4TlaQ4j6AcD0AUKO0qvER6LpV1ziSUCewOv62hWiYpjQatTHgYibVcwPgeG0JPYnnBIGnzwjeSWOfArDC98eW7Ml4bHYXzv2X4uZAzJa17p7XqNoFHe_xIF6ZJy7Jo8UA7SFhnHBDeTldKqwgSWVhfudpKVkcCFyDBCsU9iBr9y3FuMqkPxP5FHwRDnycaP4earX_cWP2yL7h43OCwZIuUeNSkUxU_hWuE7Fj7etgTan2Bm1_MIT1r8B7FiHP1jc5aG0e-PUDYWvh3GSf5jY-Pq7_5W7JfDB87l6HzuXdm240ZaR_Tk-NB4MmCwRIHZE9lsO8cla-_LeSwm5xwnnu2ZC9E-BJX-K6_qUxUasQ4eoj2n3xJt1vUHpsVDVk7NOR7riCIVpriAV-VaM04WQm7kvwJ3ZvaYJeih3I2stEEbuq4joArvUKg9jLvUWnyU_fWkI4hJGZgzyqPAKJjAUbxLmhUaWGGKB9nev6VYltufCzzP1YQqC2Rptplh0Bb0KOVER11MvO438Uebl7Rm8YyRTIQnJoobLNXvF7ifR9_BbBWVdRY2XVIMt3ruSgPLOLfkAhsj8aim8wal1bD6JqYrWm0yg3P1UnzdEIsfoQFN7Bx1NRV3eRMXD",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJq6qqWtmKK4gR0ZiHHq0lZYM",
+    "plus_code": {
+      "compound_code": "CHF6+PH Kitchener, ON, Canada",
+      "global_code": "86MXCHF6+PH"
+    },
+    "price_level": 2,
+    "rating": 3.8,
+    "reference": "ChIJq6qqWtmKK4gR0ZiHHq0lZYM",
+    "scope": "GOOGLE",
+    "types": [
+      "shoe_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 231,
+    "vicinity": "2960 Kingsway Drive C011A, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4964422,
+        "lng": -80.5275083
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.49803693029149,
+          "lng": -80.52649131970848
+        },
+        "southwest": {
+          "lat": 43.4953389697085,
+          "lng": -80.5291892802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Hudson's Bay",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102013327316992119002\">praveen Kumar</a>"
+        ],
+        "photo_reference": "AeeoHcIsrnXjqgwfXjZjGR08QCWv4CiN6ADw25ZL3ZQJDJOc9bv7P1WrI1JJln-G9yEL0V8_1dYrqJXjtqog2M4hh_NIgPpuYDT6Pe-i0jdG-SUggc_mOZVRodFnkm-sJPK-tdn0ZeB6B8WhejLr5AzFJHiBVMyIvQ1hsqmTn-5j6DsPPaggW-TrqWndtWhEcHJC-pzXDKCfwPK_TKtXT95CntIjhvF4m8hoz40q8KEPmdcZTKfFEcURQtRCOXr1JoQ3EU_67QFuKrtkFQTZXVUN1LZXYWZ4VxBwYNyEFAj6yBTJjqTNuLaGHTRZ3Ylvf44x6oRURsiJkqD3A1-BetqDv5CA6UimIutnQr9fVX0qnl9Yu5ye1CIIMRGedgfZo1Upqssg9160zgv3solSl47aFqRsF9D3Onwkp29XX6ybM3TJAOcgS7gafBLO-GfRUy5M51bIcKpZoHne27MHGGBrI6ltZqJ2C1qQcdK-Iilcl19sAlqfrZ-yEf03ltO1LZXWlk39QAG2dO_KIdTBTc8b7hGxkWQmiIpgeSzVUIW8KkMw2F0aM3620Q_MTQ4dILlKIKAd80dV31AiRb5xzv0ptVw-NcuUSbHfoNMrSabRhgzGh8_0AYxL_vP5ggNulXBlf3shxg",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJUSvqmcPzK4gRL1tREO_PucM",
+    "plus_code": {
+      "compound_code": "FFWC+HX Waterloo, ON, Canada",
+      "global_code": "86MXFFWC+HX"
+    },
+    "rating": 4.1,
+    "reference": "ChIJUSvqmcPzK4gRL1tREO_PucM",
+    "scope": "GOOGLE",
+    "types": [
+      "department_store",
+      "shoe_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1701,
+    "vicinity": "550 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4996081,
+        "lng": -80.52754209999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.50105183029149,
+          "lng": -80.52637516970849
+        },
+        "southwest": {
+          "lat": 43.4983538697085,
+          "lng": -80.52907313029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Sport Chek",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113664309233820834071\">Ron Dutton</a>"
+        ],
+        "photo_reference": "AeeoHcIBGpFqrtHXGu5q2ea96fOuCT9QlYx3SK2Bv5HlWjGhTR6uXJ9J7wOdo0LT4WwY-_dj5q5_ILolhrGnaAzfdDzjL0W2tag7kwan4mHpgGXT1pa1vf_9dSbApLbD8rkRXC0u919G_SSdrZhqiy3txVCruFHcRMf4PcArlowASTKbJeZy4aCyqVOGRSbvrdKRHD77OOr8OcneWNGe0zyEXRcu4h8YVkiGBEqzl7wIXgyMUV1OTrAVr2IKnOkjFb9bbgZaDP-Q7bjDnfsorP-jBEBYc0_KgssRtmbKGOb-e1lr-lVXV3vZARN32iqrfsBnOPVIOHRBRofxlBE9ktV2kIo7WuiJhHGLvoXZnjvxu-JejNQ5DUHQnBGVYgmUHPIOm9_yEsbn3j82ioInGpbUHUVzGwKhP0pYMgpRH0cQaW-cZTyaG0qQy9jwXo1ERZ3HoZ901Ls-SqK8LIH1EHzJXZwjRZpsM-4eS0x3MSQstcR7v_vMDsT_z7aCDp1Om97g8d7rzoTfuIYNT7PQmt24zq0yVU6cOZcaCDbf8DpcS7jNhh5o6lb4POuy10Ws0SPbuLVbiIHWcXBBmppKEjtUL_U-suDjJM2oOGPXodFu9_UtILWnwNeokT9-BX7OAJv-",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJn57J_sPzK4gRyWoXaqdvXRE",
+    "plus_code": {
+      "compound_code": "FFXC+RX Waterloo, ON, Canada",
+      "global_code": "86MXFFXC+RX"
+    },
+    "rating": 3.9,
+    "reference": "ChIJn57J_sPzK4gRyWoXaqdvXRE",
+    "scope": "GOOGLE",
+    "types": [
+      "bicycle_store",
+      "shoe_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 299,
+    "vicinity": "550 King Street North Unit N1, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4239041,
+        "lng": -80.43781249999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4249479802915,
+          "lng": -80.4369585197085
+        },
+        "southwest": {
+          "lat": 43.4222500197085,
+          "lng": -80.43965648029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Sport Chek",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105612268752145423343\">Vishal Shah</a>"
+        ],
+        "photo_reference": "AeeoHcK_JA3omfMV6Tj8JPAW4aBrgbQwjEEkV91lZ6mbARnzUrFCcvJ6fWiHgvIsL9-qfpeIZEimSEhAsPxWJ5Gf9pvd1IYNYMcuhwux0AgnbVDdJDd3Ttud0eUemo9Yohm03FsmMAGFtqSNRuLuTU0yoKDIjHVAQs6cL_7p5R8o5RrrSId-wacwEwlcTrleQ81AgPedU_NgeB_IlNg-Jy8AsaCmTPZ0ZoAOD-lE20WST9k2aXt_-QEADsPuEjRei6CMX-HIVl6qBhw1y7dwKaoMwImTWkTTGMNUMm6w_JM5L5T7vcXgfWzU0h94eALat9Yv9zjTDAkS2c0gO9LgotoemBMcWPv4V79uOTbc52ZFscMY1Cl5c4wbEUvxf-AO1ZcoO6VcS9-0kN9cXM-E1qhsk5l4jKQBSNJu4oJoCt6rgQwlN2d7-c8GXE-7GmawtLue7WBzeO7V-mLYrr8irayfti_yyx6X6uh1Bhbdl6dXu6XYxWq5hKjVhUc2f_dgqlsZNrqGFB_mMJ8evJtZRMVhu4wqM-EnW4AaUB3vtZqmu44ig78hBQ83esH7Zc1p4zp7uRPPPX07WQkIAxn91w60XAh5_CyZGmCdoKidIEG4w1DM7wW3y9l36ci5gKcxWvi16ztOUQ",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJgwclnM2KK4gRbSRnSnQilpo",
+    "plus_code": {
+      "compound_code": "CHF6+HV Kitchener, ON, Canada",
+      "global_code": "86MXCHF6+HV"
+    },
+    "rating": 4,
+    "reference": "ChIJgwclnM2KK4gRbSRnSnQilpo",
+    "scope": "GOOGLE",
+    "types": [
+      "bicycle_store",
+      "shoe_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 221,
+    "vicinity": "2960 Kingsway Drive Unit # Y006, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.43451489999999,
+        "lng": -80.5622508
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.43596228029149,
+          "lng": -80.56067546970849
+        },
+        "southwest": {
+          "lat": 43.43326431970849,
+          "lng": -80.56337343029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Sport Chek",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 733,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114516024604093611886\">Sport Chek</a>"
+        ],
+        "photo_reference": "AeeoHcJoP1xBFfRPJI1MK7o3R0vzdfS07N0sgZgtHINEe0Taj03SBymPG_lZCePZavyqNTWxAxuhQwggbAhik3g63YTaGO3FzB_g3Yc9Wj0QSiepNoWCy1Kwe0CPoSuASgL5EG1bcC-WMZBgctwHhlFWDbpw2XREV_ZMJQQjqpltiv1HGSgwoNJhxc0D6lKGOQ00-k8l6Iki95xN1gcax_tF3mIc1-y0N5tFA8HXgZGP5aS-cv557hw6fZ-OMkAfpEapypJ1yKUnQkRS2EOxcqSUl4IcCeGorTXUOGqrS_QIP2URT56smi7q1PaT8QabkzRmd08G3bx4",
+        "width": 1470
+      }
+    ],
+    "place_id": "ChIJAQAAANz1K4gRYdRtl5Fkto8",
+    "plus_code": {
+      "compound_code": "CCMQ+R3 Kitchener, ON, Canada",
+      "global_code": "86MXCCMQ+R3"
+    },
+    "rating": 3.8,
+    "reference": "ChIJAQAAANz1K4gRYdRtl5Fkto8",
+    "scope": "GOOGLE",
+    "types": [
+      "bicycle_store",
+      "shoe_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 222,
+    "vicinity": "225 The Boardwalk Unit 3, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4357642,
+        "lng": -80.5630918
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4371285302915,
+          "lng": -80.5617149697085
+        },
+        "southwest": {
+          "lat": 43.4344305697085,
+          "lng": -80.56441293029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Mark's",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103218525528754912819\">Erez Zukerman</a>"
+        ],
+        "photo_reference": "AeeoHcKcwQR2_o83vT8iMqto871Cj6t1uml97WBV8_WUF-J1bZ61qtFF2MlVO7VUJ3SRJZtMirPWhf5SGzDPSMH7SYKf5l_M3Y5N2eypGq37AotLzVYJS8zcul6elwA2mwlM-la9BjUtQMYolqq41PYGTkXpjqeW0kSUjxH5QXzEd4H_7t3YjQqbnSVCpKUEnZ48W1Mu3UApau975yeSuadkoEfG1yVIFZ19ENyX1InDGaKPLCOyxi9CXSr6HAJth6vuo6LNaWlQI4YfNDL6ETTlyVOfvrTHo_64_ovPGOPZC-bP1DfKCsGoyiJphlpnyZ47UXseX_jcan27KyInv-MU7coLSU9xXBuF6yqLgn8g9IDpMtWdc8avbNikdfzbmL1btZRD7JRiZ1SYfFSwiSQZIIL6Mgv00zwaxZt29UwID8mjYpmHDF4H1LWrkxPBtiN-Z1Ia9D-_W4OASwQ7YQZgYLYHoxcr3joVOMFBoNRNeYd7Ceah7rfrV3PpnaAOW9V8ppnhYPQ1BHzNLJXoYcZm-xEyTyrvdkunCTrSM50I4PynYKRJkP19Rbk1yC9So3r17T9qNtnZXQPTx8VLtUAclFRVwfAJGOtGtet6QCLZ4oHmo7H1OHrTjHgaqbKFOAq2v5pbofck",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJifr5D_H2K4gRpY961G9ZEv4",
+    "plus_code": {
+      "compound_code": "CCPP+8Q Kitchener, ON, Canada",
+      "global_code": "86MXCCPP+8Q"
+    },
+    "rating": 4.2,
+    "reference": "ChIJifr5D_H2K4gRpY961G9ZEv4",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "shoe_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 349,
+    "vicinity": "225 The Boardwalk, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.43372299999999,
+        "lng": -80.4402087
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.43494928029149,
+          "lng": -80.4389346197085
+        },
+        "southwest": {
+          "lat": 43.43225131970849,
+          "lng": -80.44163258029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Goodwill Community Store",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110673110719207560549\">Hupte’s Family</a>"
+        ],
+        "photo_reference": "AeeoHcLCmtJ80uYxoRF4qXs5AECCmFBHsB4PrA5m6mQyzZDNlvI4f_cVVEx81ZfSk3FKj3UkxoLSn3J7R14NNTACCz0_NcwTNlLDW0GLjfFsx29Rh4KFsj4U1ee1Xsh2tIIT4TSakgZyIygk79fTzAhbww3YwywsTjd863GrC2ol8gVBdCfbf5HGvOEabRh-vdxokvn-b-WZ-eL6JnqaGKmylVtMguJT2YJeRc4jhKalrZP15nAQgdO1Cr9Hg721E-HTPl8ln5LFpLArzJ4_biCQf9l4Ate9bIcsFQpgQckezJOCP37MRgbVXSF9cAPH3HZbks1NWIDWgwToHdX1hql5I_iU4R3lznsDiic4MlF-vc0j_xRi9LZw_E5pwWTTTVm9DpStVgD6uqk452BIridMhmyAHOrfxcZdVLqeinFZg_NtcsmN0BybWIuPPao078cSmI3KpIvtVJX2jmT7377zCA3C17hOgeDarBM5qTxNDlb-rJNSn1kidXcoa3lQLpmtlkr9hCFsH-55kupXi79qiLeBjW0lrs48M41n5OgIUmN4olqdbwzA7EI1KoRFtqY4sKY5V-l0w_j4Ocm_cS4gPQYMehLVl3Qq_um5eDXa0r8HEvtG1PlDLAvavsjT8VPn",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ39ibhSaLK4gRqqh_1FSC4Xs",
+    "plus_code": {
+      "compound_code": "CHM5+FW Kitchener, ON, Canada",
+      "global_code": "86MXCHM5+FW"
+    },
+    "rating": 4.1,
+    "reference": "ChIJ39ibhSaLK4gRqqh_1FSC4Xs",
+    "scope": "GOOGLE",
+    "types": [
+      "book_store",
+      "shoe_store",
+      "home_goods_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 317,
+    "vicinity": "1348 Weber Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5095311,
+        "lng": -80.55454019999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5106690302915,
+          "lng": -80.55334166970849
+        },
+        "southwest": {
+          "lat": 43.5079710697085,
+          "lng": -80.55603963029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "St. Jacobs Outlets",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2752,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107228572593286298090\">Bharat Shah</a>"
+        ],
+        "photo_reference": "AeeoHcL1zXNIQ3ZHY_tXRxJYk2Ot1HSXmmzgaedg4rdxAGg2sVx8FLK7tzm1YRLWdzYy77rkTAKPLAKEGxkeicnU7D43iq4yDdsw7-2OqiwbvkWtPMNWNYedmpm8sKU2BgDx2yYUQKwiX5NgG8TWKKzXfgrTUGof0FjBx-8kI-_dCjP1wtqwzYb4o7EkHOI90JVr5qhzHNt9UKEz9yWDjhUwBQ_bSSkVK7Zu9zlsLW4k6jDxzw8UFt1v5lcVk0_9YiUgOkgT11fzLfBpO06b_s086gQEz_fuj2daGRX8QcLnoZx75L8ZBVbAVaR5RJFNdXF4KERbsCrDQSTM0chyli5yPAnXDqpu3CylXHltK3hjXBbLZmscEN7l1H4wkbPtG_XPFHSPuUvbCfwz0eVAJxBAQMtKFUfyDhu-q9jrhBolH6FwCydlM1MSPbTc-0qsJ6neEY_d_65yE7tkVFfNHwK9adZE69Zs89wZr1ylSWNCFpxE1C2mks46QZWbfl5_eb2-Sipke-UhGzhThAbMS085x0mKxqYI6DgTa-W0VyUHPWTtVN4-nCtCyg7tcssIUwW_0AdPWkAEbRTPYkgXmxHEtxh7EdSOj2H2fWU_5zQyvo5y6bA8Q5pEp6qECow4BifYTtD4kcK3",
+        "width": 5664
+      }
+    ],
+    "place_id": "ChIJVXg-D3rxK4gRWOLHQj-IzzY",
+    "plus_code": {
+      "compound_code": "GC5W+R5 Waterloo, ON, Canada",
+      "global_code": "86MXGC5W+R5"
+    },
+    "rating": 3.8,
+    "reference": "ChIJVXg-D3rxK4gRWOLHQj-IzzY",
+    "scope": "GOOGLE",
+    "types": [
+      "shopping_mall",
+      "shoe_store",
+      "home_goods_store",
+      "food",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2252,
+    "vicinity": "E, 25 Benjamin Road, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4979896,
+        "lng": -80.52669530000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4998126802915,
+          "lng": -80.52527166970849
+        },
+        "southwest": {
+          "lat": 43.4971147197085,
+          "lng": -80.52796963029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "SoftMoc",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112821595934157735133\">SoftMoc</a>"
+        ],
+        "photo_reference": "AeeoHcL6_inwx4uq6lVCSSC0qPClQIicj9bgMX4aUa7uPoGZ9Uto2LCs3HmpApMHMlIXSSodspS-mRyJYu1Na-UxP9ToNba0WY3Nz-v6nH1_CadGmm9ayNwZqnRV0OT2RyioblLsPpqmIx0mOQCyGlg2sidDDVtppOJCBqKHMCrlh6-PIhZZMcD_WSHZfseQZS4MLUi-6TLMNtUGmKB2CZrUehcm0HIrgQJZVGHmM0fnMwkwjLysCnNMOAK-d_tR_AZY1r0niWjrsEMWQf2rQnE9JuTmVm3Ivd3k_P6KuTXqHPtWMZbka5um0Drplj1B4lfKgVrMSw20DfY",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJn57J_sPzK4gRUQZC4X3baHI",
+    "plus_code": {
+      "compound_code": "FFXF+58 Waterloo, ON, Canada",
+      "global_code": "86MXFFXF+58"
+    },
+    "rating": 3.4,
+    "reference": "ChIJn57J_sPzK4gRUQZC4X3baHI",
+    "scope": "GOOGLE",
+    "types": [
+      "shoe_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 113,
+    "vicinity": "550 King Street North Unit B15B, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4153103,
+        "lng": -80.51534869999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.41670218029149,
+          "lng": -80.51409291970849
+        },
+        "southwest": {
+          "lat": 43.4140042197085,
+          "lng": -80.51679088029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Walking On A Cloud",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118141292848437638476\">Marta Borowska</a>"
+        ],
+        "photo_reference": "AeeoHcJvRvxGtAM1rvNfuoh0lwHRNg98d12Gmsuu_4Oy6YDt0DZnLfEJAkztRnCUx7SYzi4tCqbjxg4x-EcV98ckSGbYxsvshTvqm-awJBOkT-F070Dd38SBc6BQ9ZbGW4I2wzkti04UNsg3WJHkTPY5KnnHsmdG4t2fwpGamQoSUY2T1jAtcDLztp8g5wLdunNUbM827LLFdhdIapZ7yGX8cGAnNUOLkDKK_pRj4oTSs_jYG5n39dkbVLiPYoHwC3xmQZITuvrfi5V1y_S8iU6SD7hjRoBy4p8q43SOlpIWIrXuxFsmIvgt20cEj57jJDQvC0-Bk7liqdaVFeippbTHHbIxhXTvCFZ8unpYXHFnqS2mcvHvNf_ho613KY7lPyzsxYJtTI1DEHQ9j4OmHbeoTUHl0vjo4pCIUknQMwcXMoVp6lpJFvCi5v5_k9fGcZ0N4Jbj37huBJ51TmO_LKvni4_imhQJIwSEOdQ9DzJxBn2zUwDFJMppqVWSjC9cNbQb7sSCFqZEZe3L1Y75UgJXLdZgm4Dq5y4NzlcsnABN9naOkocFAWjD9lGWh56TXwqsqSr7lu754isnI7c_mn5OFusHK_H6ry6BvBYb2b5t9zka_CE_2rocG0yrXXywOK2cUHIvuTWd",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJOaWEnb31K4gRluOw5bJwm_o",
+    "plus_code": {
+      "compound_code": "CF8M+4V Kitchener, ON, Canada",
+      "global_code": "86MXCF8M+4V"
+    },
+    "rating": 4.3,
+    "reference": "ChIJOaWEnb31K4gRluOw5bJwm_o",
+    "scope": "GOOGLE",
+    "types": [
+      "shoe_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 40,
+    "vicinity": "SUNRISE CENTRE, 1400 Ottawa Street South B10, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4978397,
+        "lng": -80.5262525
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4990662302915,
+          "lng": -80.5244009697085
+        },
+        "southwest": {
+          "lat": 43.4963682697085,
+          "lng": -80.52709893029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Sirens",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 755,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102884814698418699128\">TP G.</a>"
+        ],
+        "photo_reference": "AeeoHcKmGIiKbvLKbm0SlHF-jFjuX-7zq_9KLl2s6LtLLy_YJqzpSNj--c0zzxFw8bIi-6MMzoh5AwD4JPLc-Wk7e2eSyyzm66qxjefBmI1ROC8L2z5zYc4N5FPRMeLDPTG6d64sTfdX4onVnDLE510BTl4MFZepyPLnW7M-JAhaPPSknik_B3moRrXF6frypcp-UKqxHV2C_0p2557axRcQZ9ikE4dPBSvPuApn3Ml2rXIP_G50AoWJcGM9hp86YF6AoL7DeXAC-y0jKNIZFdUWIT75A6V0BM5FXuqFc4hT0TnloxAX-dinMsLy1iObswjXO23_z858y9-s4wxsvcZr_Eldsj3k7mBeLHG7AlAxjmwKec8BvI0sTuU99ee1C9Q_8wcqd0RXgS70REMsP4Jghgn1UFligYxxzSJ45NyLLcYCRbUtEcC6ozs5fA2i0nqzoMz2rIW3tAcIhSFJ2gx7_BxhW60-z2fh3oHzvuejnkE0G2d4b97T_d1MdAKQ2xM1-nWCcmyFHDLjeZ0OfMbtHGDzoEqr2gk0O3xg1Lc39J1QmLdP5zl-0xiE_25uYNVmxNVfSjGTpgkGgp8y9kRQwcVRkPt5qJscmfcQ8enCdextT6Ax_g1sEKwqm3yopmJY",
+        "width": 1342
+      }
+    ],
+    "place_id": "ChIJ4_VsTsHzK4gR3NYpPYoomgE",
+    "plus_code": {
+      "compound_code": "FFXF+4F Waterloo, ON, Canada",
+      "global_code": "86MXFFXF+4F"
+    },
+    "rating": 3.5,
+    "reference": "ChIJ4_VsTsHzK4gR3NYpPYoomgE",
+    "scope": "GOOGLE",
+    "types": [
+      "shoe_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 54,
+    "vicinity": "550 King Street North Unit #G16B, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4622964,
+        "lng": -80.4725316
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4633619302915,
+          "lng": -80.47105231970849
+        },
+        "southwest": {
+          "lat": 43.4606639697085,
+          "lng": -80.4737502802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Factory Shoe",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3737,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102038131695333770687\">Tri-Cities360 Scott Rawlings</a>"
+        ],
+        "photo_reference": "AeeoHcJTEVrKZcIK35jiNtgMWbqRPZV3hrFy7tiOtBV_IVtXzGoaF1JnWsORNWvIYyR7tzto1oJikwgwyukyLjtAKihaognVMpcV9Po-zDGBiYflxqrFkMG-Om68IPDvLBt_9eiJqwOKc5f9FK7dq82JCMnBvJP_Kcjt-ujBNEKUZnkSiKxdiS-Z02IBfAS-SuMY0CxslMFh3nQ2DYCLSVpEaiv6vqbF32qtZHTCCZKN-eEKHHzPaPyLDiHYVM05bnF7Hwvxji340fX6yiM7iL7_L973l1wv3Q4L1wB8ggvFlYF-K6z8CTRFfwyWShfrHstvfQrkVaX2KqEmj2HUDD6u1s-3PTRzu3SVGzio8mk6sjgyErT2OhsBTY1ss7RrW5zLxjjPM-da748as7_4mePHQxYyHKWM7LWYo-ARWjC_LgJpeUPJhmo2arQadAMTtIWay1S9sqn1eHCNxfnQ3MclXb-LFjO5dGpmfL_M61ZqlTuywwGduurZ1NvtagPZWE2eSypwpwsfo8yuiuPUh9DPTiCvsMT88hFe9CMSXY3Z6Vj44PvsE83-ox5SW_dH_IYNo-2LBY-8XiLZs4gdtv2WMt6ew7b5IeGmoNkeKTJ9Hu91G0X2ocrsMCLK4t_zXGtRGu_CbQ",
+        "width": 5611
+      }
+    ],
+    "place_id": "ChIJCexue6P0K4gRAVfzP53mVyU",
+    "plus_code": {
+      "compound_code": "FG6G+WX Kitchener, ON, Canada",
+      "global_code": "86MXFG6G+WX"
+    },
+    "rating": 4.3,
+    "reference": "ChIJCexue6P0K4gRAVfzP53mVyU",
+    "scope": "GOOGLE",
+    "types": [
+      "shoe_store",
+      "health",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1491,
+    "vicinity": "680 Victoria Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4991033,
+        "lng": -80.52956329999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5005043802915,
+          "lng": -80.52828741970849
+        },
+        "southwest": {
+          "lat": 43.4978064197085,
+          "lng": -80.5309853802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Call It Spring",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1520,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107198089164830315426\">Deepak Vishnu D</a>"
+        ],
+        "photo_reference": "AeeoHcKLQKC0dllXHs2TlPyvyuvHqwBxF6RCoyy98bxViKvX1MtiXpboI1mTdk7dat2dbK-zGpyFyWiWgZjooZVxHVoPdlNoiNHHnuka5bKpEJszTlH_lesfqDO7NYWoJO0yyA7ZlwcONEEt780e-Uqy4UY5doZYdiYbXv32bL5wk3bTTWDbAc9M-KjTRDK6LH7ym1HH5TJDygwv7M9B3MXMWPkqm-8_h6JFRVub3fqx1h9_DfHo6UHxMaqADlnkQKVVORiMEmVcvheTOgn30V9KLjKripZMrr_LUhNriDesiNrj2W-oC8iu9L4rm0URVHqQaZEPRTyeWzQ9VSEjuRvOq_PxIMEBDz3GPdGMaaL8U2G6ax6Ac7v95pNP28URKE6OFv_xuLDbOCbtNkr-SWk9wxOIH8AEAYKxznFl7l69YnyHZYO5XblN9xRLlKM_MqBfOMXttF-VfCbNiHLzGQEIEqDAyFE2YfasMracIq2CKxruqpZ0QUSryk1tzRWdRN3cX87AONb59wYk7Kb2v2zJkBaEnEK0vRB9Tvicglzq-yO2gY_cFdOYIrJVI5ZRYxWGGUQbT9LHDL3QIpHdKBIxTTKYjunHjD4VMV30q_z-8biNJC32b67GVkzTozrIvg9HAdinUA",
+        "width": 2688
+      }
+    ],
+    "place_id": "ChIJn57J_sPzK4gRBvyijyoIQfM",
+    "plus_code": {
+      "compound_code": "FFXC+J5 Waterloo, ON, Canada",
+      "global_code": "86MXFFXC+J5"
+    },
+    "rating": 3,
+    "reference": "ChIJn57J_sPzK4gRBvyijyoIQfM",
+    "scope": "GOOGLE",
+    "types": [
+      "shoe_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 59,
+    "vicinity": "550 King Street North H7, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4543191,
+        "lng": -80.4924826
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4555844802915,
+          "lng": -80.4912102197085
+        },
+        "southwest": {
+          "lat": 43.4528865197085,
+          "lng": -80.49390818029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Custom Ortho-Dynamics Inc",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJNZUrVVb0K4gRRz3kwNYKOno",
+    "plus_code": {
+      "compound_code": "FG35+P2 Kitchener, ON, Canada",
+      "global_code": "86MXFG35+P2"
+    },
+    "rating": 3,
+    "reference": "ChIJNZUrVVb0K4gRRz3kwNYKOno",
+    "scope": "GOOGLE",
+    "types": [
+      "shoe_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "94 Weber Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46470399999999,
+        "lng": -80.522573
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4659442302915,
+          "lng": -80.52102761970849
+        },
+        "southwest": {
+          "lat": 43.4632462697085,
+          "lng": -80.5237255802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Running Room",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112556289594355883400\">Running Room</a>"
+        ],
+        "photo_reference": "AeeoHcJp04Ex7XwkvmFuHOoeJg4cmPZUmxK8-cgLfZTKv7Pw1rMgppaG2LCQL60D0mQgH5lTMuNM8qnzOo8j-p0EXTe4zi34tJma8NgW70TVRpzzEmRQKAX5UiHwozbaeBKOd-scSGXF2Zmo873PWRVD1E7NHAsl9GtKo4yp0oGj1ynpnUL_8SE1TQ0KfD8WA1uKhoW1BKgIo7LtyaA3F2uJSUdYnDOqsivEGUkPU6xPRzMshc1pW8YF5sXOjRWfGH1j2PKE4P_mmI98y6ACjQrJl_wSpHvy4JNsWSaMmK-dyAwr1IID4WVUrxwanVvOhyXBCesIuyClb10",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJNwVfVw30K4gRWtHUKUH-23I",
+    "plus_code": {
+      "compound_code": "FF7G+VX Waterloo, ON, Canada",
+      "global_code": "86MXFF7G+VX"
+    },
+    "rating": 4.4,
+    "reference": "ChIJNwVfVw30K4gRWtHUKUH-23I",
+    "scope": "GOOGLE",
+    "types": [
+      "shoe_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 74,
+    "vicinity": "15 King Street South #3, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45337729999999,
+        "lng": -80.51768799999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45469418029149,
+          "lng": -80.5164212697085
+        },
+        "southwest": {
+          "lat": 43.45199621970849,
+          "lng": -80.51911923029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Baby Charlotte",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1224,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112410199890423181161\">Baby Charlotte</a>"
+        ],
+        "photo_reference": "AeeoHcKAQayjgVys6Y18KIKUVDZ_qV0Du4NE9oyF6njD7xxiCn01E5oJ1ZBsa3oaO8PBcme_5zV4aNh1js6tE906M6keFQKbvYfK1H_Kje3kA56qCwhKu3S3dtGZtRHS_diQuNtlRhpRPnqvxF1kUOJsLJ5sLveWaSS9X0hguggu80g-1fUBbIFsAhQkRvyVr5uPtNu2l6E0Uuo8KGxFHTa_3u8qtjr6x42ndfk4ZnWdSQqtr1lbF7FkVRlYvCYn_azlx8m-ssXLK6GHNrhjluYWQkJPQftMbAVR_bj_H7TxJxPhInvWa2SYlYRL_1qABt6IzQUuD6soFbM",
+        "width": 1632
+      }
+    ],
+    "place_id": "ChIJxWcqe3zyK4gRTNeK0jCdiXw",
+    "plus_code": {
+      "compound_code": "FF3J+9W Kitchener, ON, Canada",
+      "global_code": "86MXFF3J+9W"
+    },
+    "rating": 4.8,
+    "reference": "ChIJxWcqe3zyK4gRTNeK0jCdiXw",
+    "scope": "GOOGLE",
+    "types": [
+      "shoe_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 52,
+    "vicinity": "692 Belmont Avenue West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4425533,
+        "lng": -80.5446396
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4439536302915,
+          "lng": -80.54322186970849
+        },
+        "southwest": {
+          "lat": 43.4412556697085,
+          "lng": -80.54591983029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Mike Forgrave & Associates",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJFS6AzGD0K4gRlG91nGrEj4I",
+    "plus_code": {
+      "compound_code": "CFV4+24 Kitchener, ON, Canada",
+      "global_code": "86MXCFV4+24"
+    },
+    "reference": "ChIJFS6AzGD0K4gRlG91nGrEj4I",
+    "scope": "GOOGLE",
+    "types": [
+      "shoe_store",
+      "health",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "851 Fischer-Hallman Road #10, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4974522,
+        "lng": -80.5264948
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4984304802915,
+          "lng": -80.5249009197085
+        },
+        "southwest": {
+          "lat": 43.4957325197085,
+          "lng": -80.5275988802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "RW&CO.",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1520,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107198089164830315426\">Deepak Vishnu D</a>"
+        ],
+        "photo_reference": "AeeoHcKzAcGx8QFbRhHc3pVKBem4JzWWWUpZf3QJF4lGM3EHZtNp1GOu6y_AoG8KbSKh4HLkoSQgO_uCDgbmJMVR8YZwlkUY-ts-neuBks6Rq6jhxuyXzB1MsBhc0nfbhQ1rENqda_EzSBrch4PTyKWBDwcmpGW0-IX-wWZjiy91PLi7nk9d-2cmyvnsXvLRKAbF-dpB3erENwH9tLZ6owSSVOPIqIdSc8Kbv-08jbokxG-DWzf_h4ER-1TJZFxz3g_a-Ea5RLVEPDn6TlnTCxKT1yNQ4Xd2a-Y7vvYhCo-dSaGfCz_QOCXXUvx3GnQwNFq1P_yDQ6yK8EO5n9AUXVo0l3iDg64xER-qzE_Y4C7aG9gVV-0gLHCmJk8YrWmh3z-o7DxQ0Q_No1-jH_6lDm80B6bNzVnszOkcHJDXhugQ1X2kQ20-qoeKIVtuXdeqiWZf62_KT3lgVQVWdEl78tx1BiIStdF45ETYFa12hBrDRNDir5FKc7zsURvBYtlHsSrfJyCBhDX5Rd-nAl6Tokue5roD6e3946aSgYRd_Nn95TB_j5tV-W2VYOqLk276FYwWyiNYd0FlOKhuG70BGFU6vY9yBGV42WyfU9Pt4DrtQiaQF6yWWwhCRpOb7iOAcx_WZtC8DQ",
+        "width": 2688
+      }
+    ],
+    "place_id": "ChIJ8zLhFjMCWkARQ22WkJfqqKY",
+    "plus_code": {
+      "compound_code": "FFWF+XC Waterloo, ON, Canada",
+      "global_code": "86MXFFWF+XC"
+    },
+    "rating": 4.1,
+    "reference": "ChIJ8zLhFjMCWkARQ22WkJfqqKY",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "shoe_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 131,
+    "vicinity": "550 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4982231,
+        "lng": -80.5258289
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4997955302915,
+          "lng": -80.52459661970849
+        },
+        "southwest": {
+          "lat": 43.4970975697085,
+          "lng": -80.52729458029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Winners",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 757,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102884814698418699128\">TP G.</a>"
+        ],
+        "photo_reference": "AeeoHcITC6aSxtmgqSmbOy642wrBjKACg2g4W8XGOopmN9sXx3OxhXDeRTgb18AYMfB9fjEmaVpkuQlZirQ3iGXs4dIc_HzdUKEaA1HS2REROTbCFAr_VYCG1VqMKj0jW-UnT41V3em88pshysteQJZ4HJdmDnDLBb8VjucuntH2ndp90VwMN6kAm_jiUVBKvfMBxgpAVn4ThGRENFrtuXaJKNmQHdqJ5z2RCX4xwMfQjgs_NwQv6mhT4adWJAnCw-NdSbULsNmUZXOTsy27hOzpN5pZ4C1Jz0seO-eV6xmSSAsnziCVTTuZrfTmctcXYDSRNnV0O7S6mRsONiGbQuNA3rwzWT2XHUrKKJpijtQaRXTJ4Q5JE8SPITXDkW-BqKw1cw8Vqs4oGbi8TYZO3daNm0fSV1rqNRF4NqaOmx7Mx8uhAAznDDpyfgeRSj0Wm9OcXgm5vzkrCdC2Fw9WrGojjTxfdwHQ2p9so6O4HbooDobDit5p-diKMuM6b12VqWgIUdZPT9ehc2kQz8obJNEAI1WdybvrB97BAi70xB9shCSeZMgGhWuJk6HZfIq18pJdOs9clh3U4J-f_qnrMB8rZatkJWSCutxe_9jf0S5lJTsKo5YCAuKePndYjv28puClDAkwKa6r",
+        "width": 1299
+      }
+    ],
+    "place_id": "ChIJq6q6ZMTzK4gRaoqXDjrkGhM",
+    "plus_code": {
+      "compound_code": "FFXF+7M Waterloo, ON, Canada",
+      "global_code": "86MXFFXF+7M"
+    },
+    "rating": 4.2,
+    "reference": "ChIJq6q6ZMTzK4gRaoqXDjrkGhM",
+    "scope": "GOOGLE",
+    "types": [
+      "department_store",
+      "shoe_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 996,
+    "vicinity": "550 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.49828699999999,
+        "lng": -80.5267806
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4998973802915,
+          "lng": -80.5253208197085
+        },
+        "southwest": {
+          "lat": 43.49719941970851,
+          "lng": -80.5280187802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Journeys",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 288,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100721936711111063552\">Journeys</a>"
+        ],
+        "photo_reference": "AeeoHcIWK-DeFchqnuLEwbDuwa9cExrlFj5pV3TSP-oYZeOwFPEpoeJRwAucJQZjboIC1opWYcKvw5vkwcqbdfvUsMHQ11dwQl8SogQoI-rAaMVn-sGjB7v10sd-hNCU_0CKBLmxmByUQfDZps2TGqYaKQLmEQ1pX9zaWZxTTqNE8tpcJKBkW-pV59m_HcZh5sPoIybNGHW7KTy0pf3k0-ZvmOCR8kkBdWZGHGQ_OYVN_D6dzihhTXcgRqln0g6pC2-o4xawr8kxg5zm4aFK1zxy6aY83fkjmQ1-f8l15SY5uP_KB2hJsehOLnfHVeyiJo6CqLdxi7TyO8g",
+        "width": 512
+      }
+    ],
+    "place_id": "ChIJV62-rMbzK4gRqkjYkoSZI_M",
+    "plus_code": {
+      "compound_code": "FFXF+87 Waterloo, ON, Canada",
+      "global_code": "86MXFFXF+87"
+    },
+    "price_level": 2,
+    "rating": 4.1,
+    "reference": "ChIJV62-rMbzK4gRqkjYkoSZI_M",
+    "scope": "GOOGLE",
+    "types": [
+      "shoe_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 67,
+    "vicinity": "550 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4984827,
+        "lng": -80.52711099999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.50005923029151,
+          "lng": -80.5255278197085
+        },
+        "southwest": {
+          "lat": 43.49736126970851,
+          "lng": -80.52822578029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Foot Locker",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108188584202260783687\">Vedran Hasanagic</a>"
+        ],
+        "photo_reference": "AeeoHcJ-YLVHxkcY_HQfyn1lBs3-XcDCEjKzPq9BfDzMUQ47yKMwJSwC60GbyAJkrXQHWvmFodjnVOhAl6OAQcrYhuYz4f1Rdxf07i1oWulhDxH2-NNtuWVoc_UQIRropEjQnCd7gvEk0BzwcWq5HXDAMhvx7gKp4M2fM40HtdYtX9kHLjjfWzC_9Zf6yNKZS9JiXOgXld4oGQVH6DWuJPBXUWcxN46c6kQS200SmHWeb34DIYFETAve_GfQD_h4zeuTJKfn3dQPBOWksjT2X3MT3pljXsDKtNLF4I7Q5ZTRJfGkMi2kcIYOBNBjWdvPsbVyJZk63kgEbCp3wUClKThg6pQSU6NVtj2zGd-igiDJGds3i3Bm8PwJfK5k9z3kE8g-G3EgqZua71FshHB8FCV9wu2lVR5cLqDT3UNpK1ZI6sMdXtaESi3LX-flrdamA7tupjXiBvtsYJks7ps8FGL4fiDBaqqKMx-CB55BaNOXtjT4YG9Q0BiEnt_nI8TugR9T0sLkrTqG-bWTTJ18ChujKUMbZG2txP2E2OOQkozQpXxbHVD11XRNVLkuZjAKmulFMON2nUGnxSwNm3t6OHOBoP1duirv3YmUSKwcXO65ArS1AwlgUnNf_5iMerRg7mltAho40g",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJE_j1GzMCWkARNzllfN0zWvk",
+    "plus_code": {
+      "compound_code": "FFXF+95 Waterloo, ON, Canada",
+      "global_code": "86MXFFXF+95"
+    },
+    "price_level": 2,
+    "rating": 3.5,
+    "reference": "ChIJE_j1GzMCWkARNzllfN0zWvk",
+    "scope": "GOOGLE",
+    "types": [
+      "shoe_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 139,
+    "vicinity": "550 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4360283,
+        "lng": -80.5595129
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.43730413029149,
+          "lng": -80.55822461970851
+        },
+        "southwest": {
+          "lat": 43.43460616970849,
+          "lng": -80.56092258029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Penningtons",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 431,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114624762435004410901\">Penningtons</a>"
+        ],
+        "photo_reference": "AeeoHcK_4pvbDkXE1Jz36BOT8EGTCnFKOJqVd6w9eQZXjrYDM7Rq5NLxCk6xCrQ9IZO6MiNwLDJoGf16eCAFzaa3T3xqbDFWaxWg5jYHnMRmPH0XQG8TnyigZN_08dcnPBgyq1KJbS_AOBKX-92kLTsvKxTPOs7DB5kNEPoHwSHBS5wVmaa2mF0CONpcf6LhqVs_luwCal4jw66-rfLWx24l4C1mJEfi4XW4TTk_PWILH5zn6pYi7C4BEviPoONfTkL42inPTFZgqUV5KpzZDPYEgzfvXyJjZ58xPpFsib9i-Oka4izL6HUPPAyaXXjJJJPT4oy-xtZLxmY",
+        "width": 765
+      }
+    ],
+    "place_id": "ChIJqfYwwmP2K4gR9RGIIzGIA7w",
+    "plus_code": {
+      "compound_code": "CCPR+C5 Kitchener, ON, Canada",
+      "global_code": "86MXCCPR+C5"
+    },
+    "rating": 4.2,
+    "reference": "ChIJqfYwwmP2K4gR9RGIIzGIA7w",
+    "scope": "GOOGLE",
+    "types": [
+      "shoe_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 105,
+    "vicinity": "210 The Boardwalk, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.43639779999999,
+        "lng": -80.56001499999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.43771013029149,
+          "lng": -80.55869616970848
+        },
+        "southwest": {
+          "lat": 43.43501216970849,
+          "lng": -80.56139413029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "The Shoe Company",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2988,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116305691841104010397\">Jay Penney</a>"
+        ],
+        "photo_reference": "AeeoHcKu3ftQ7iqner-nzrlYXQuBCpqWjpILfe3GoBeTiK5gwM6h3NOh0FuP23c_no9ZVTQjuZ9pD42mxjTImstwR4XCpLkAT9VsgvUi5eVcjOHeW7p6t7IMyda-sjBAb-9_px0S_dYimGAjH79rhj3XFZctbAhvqrv3l5yfVCgG_IjQJ6C7Hn13v3E-P6OiZTF4_epy-X2QYxgRAbaeMfqe9SUIv_EX1Bgcx_fhllHXz-pTiXsi5w5EwqqX3Yqs-iS6xQxrHTpv-p7uiA61bP7MEQ8lzfC7ByCrOGT6M4AAVSX6R194tyka2SO9wogAafkd4Aqt21Rj7ntqF7JVjF7Ozkqhjoxwvw0CEyQX_QKZc6HfGBbQZApLb9IwjjDmXVYSyD4M_8l_x5nyMGe9-ztd8EJZVfu3LqEXdXwfjkWIeKsMjCbSCS8E2eW8mNq5EWtCJFMOUz5Zf4Qnh4EpRz2yyaBRC37zm7V0YG4rYAzMExXB5P_wSUgdqDgmFP4gUGcE-75qiDErB9f2eVZtngOMdxhw-ZykNY3zJgfayhb0w9LhJ7RAb2-aj2OZMlqORbdYxzqW6aECadfLmh50LQRUxKvE2nIZlmuGjzVCwNsTSMZrksSWTBiY8EoWu14KlubzkL_Cbw",
+        "width": 5312
+      }
+    ],
+    "place_id": "ChIJDSQEf2H2K4gRDKSc-fFLoCs",
+    "plus_code": {
+      "compound_code": "CCPQ+HX Kitchener, ON, Canada",
+      "global_code": "86MXCCPQ+HX"
+    },
+    "rating": 4.1,
+    "reference": "ChIJDSQEf2H2K4gRDKSc-fFLoCs",
+    "scope": "GOOGLE",
+    "types": [
+      "shoe_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 225,
+    "vicinity": "210 The Boardwalk #9, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4364599,
+        "lng": -80.56063
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.43773618029149,
+          "lng": -80.55920746970848
+        },
+        "southwest": {
+          "lat": 43.4350382197085,
+          "lng": -80.56190543029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Carter's OshKosh",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101038344528051208666\">Jeff Mulder</a>"
+        ],
+        "photo_reference": "AeeoHcKqtBPiLCt_5ik9ljBhreDQQcBxbIGsE8dQFsxH6ICyRBuLdtW5FKyZwo7SjGrKBwYc4d4qOvf0M43Ya3YN5-AJZEJma0KyIeNATt3oUjOPnfpbKbDOECLugoABDb53oWE-6BinT5V7olj37b_dqsIQz6aLSqtADVXXPnkp9rIshB3uLRfhuOakjdg_-yCXGKtUpZ0kSwYt3W84t11kqlVx6EDE1VPUoPyBobaVxtVZDaVd7nh-kuZn3XNAZkA3VVuprUhIIq3bquxHEu7JS46jRoGWRginJ__kqvB2mxeLQ6BdbMTUcPCZ1QOEgMBNb1iB8yJ5fy-uDDt_HRoxLba5zJvUu27MpNAiM7NEDVsT0xvhJW7BXbSi0wqndfiNE8NidzfhxS8NPpIpVgioXVl1oF0scqD7jPN8H9Pa5Z8HvISVLUf9vucgcMCJUadCQXrCMgor-JHRtk7XoXyE8i_Exrx-3datvg5WOJ-hm-oBxA4je4c7bCaAYexXiFr7rdFPsCHk5ZXbj8IwGqhZ_fEqvReQ9V3tL74RIzcW_TJwatQsyE2bEqETUT-ig_WGKuMie9aSlq_lR76gMvqhB99rjlhZrU_mKRljKiseTiYs3-ySDok16Wl8I9ztU8LfrvSsWg",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJh6tf1WP2K4gRA4UbRlM1HK0",
+    "plus_code": {
+      "compound_code": "CCPQ+HP Kitchener, ON, Canada",
+      "global_code": "86MXCCPQ+HP"
+    },
+    "rating": 4.4,
+    "reference": "ChIJh6tf1WP2K4gRA4UbRlM1HK0",
+    "scope": "GOOGLE",
+    "types": [
+      "shoe_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 153,
+    "vicinity": "230 The Boardwalk #4, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.43517569999999,
+        "lng": -80.5591429
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4365925802915,
+          "lng": -80.5578716197085
+        },
+        "southwest": {
+          "lat": 43.4338946197085,
+          "lng": -80.5605695802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Reitmans",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116755639165858730653\">Reitmans</a>"
+        ],
+        "photo_reference": "AeeoHcLlvsixr85xX9OqOs9NRLUIB-inMd17LEWGYAr4DdlPz8dD6Vyj95ifbTPAdZ4Q0iTtBQQ_sktFh3TZC3aOUa5C3L8ch0a2H9HlGYoAVTB-Pcl-ngP-uuLtDijqDf8Vxs8ybZjyOxgssTiOWUIoNZ6xX_p-1rCpKXr21hsW2tSo0_VrnTZTA6jcD_TQc-jpB5cYPF-jARTIQBZIZtYuS1rrZ5JfSUTI7K3AEs3wMH68-ZTNzhtbXgScGYddEpd29iZn83SxxPKM9A1ABBcu_AeB7-ebJ_t1Z0ufJYMCc0rUkPrqPZH0j1SiJ4zl-iVTsTSX8VkIMDo",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJCbJu62P2K4gRIrG_MFTLwrU",
+    "plus_code": {
+      "compound_code": "CCPR+38 Waterloo, ON, Canada",
+      "global_code": "86MXCCPR+38"
+    },
+    "rating": 4.2,
+    "reference": "ChIJCbJu62P2K4gRIrG_MFTLwrU",
+    "scope": "GOOGLE",
+    "types": [
+      "shoe_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 79,
+    "vicinity": "200 The Boardwalk, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.436269,
+        "lng": -80.5607835
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.43756278029149,
+          "lng": -80.55941371970849
+        },
+        "southwest": {
+          "lat": 43.4348648197085,
+          "lng": -80.56211168029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Moores Clothing for Men",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1812,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101038344528051208666\">Jeff Mulder</a>"
+        ],
+        "photo_reference": "AeeoHcKXWNE-uVSPIpkguASXEelizX4TaEPeCjrxd6hCS2h-pZEoc2VlPuxruf3X4QFhgRAZjM8n81Q54O3lG7fT54EO_ScPP_DxqrjszpQYwSUB0e5Xyll2trfJH5Md-TzhEkPLxE7bIGc_HMfKm-HI_BcwiKcuqNasLqNIJdoCHLw889MNjMh_wE1ZvNSJKVod3Og5tx7K2T85HBgPVlsw5xr61fsw-0Pbb7KHQxcK2iq32jWyo1Q2Na4KLTUyeBYL3IECqzankHlA8HeTzaHLLFqTEJCjvUdoJ0dsZ6cNrt5ehX7ZN8dRlwssdPoiaveHnAliROuiO1jT8ZqRc5jBoZjnJrHWZcXaRZN5d9TwBvkgxSnSXUtjX-vAAyczK-N1B7PuH0Fs5it1di3S4Svb0YhnsNMEfQX5Sa4CVBNQCfqaHVaK-PsVgDBP5lOkOcYSxKcFDiyVwwXDGYEYoUnBWyryMksSq12Aeq36VbKd6saLRG81qS2z3hxegX4njbg6dBQhi_Pclcj7KHB8YEY-vO6fSysIdNTMxbwORLBjxf708fyEMRlKDC_Is3UkuiZDyjUz3ijOhF2MEDPrQjGji1l1CYX6byGKd6P3rg8F9jLm4drLquKvg1JXqKytDi7lFmuAeA",
+        "width": 2897
+      }
+    ],
+    "place_id": "ChIJaxl0YWH2K4gRvq6oW3nGmTA",
+    "plus_code": {
+      "compound_code": "CCPQ+GM Kitchener, ON, Canada",
+      "global_code": "86MXCCPQ+GM"
+    },
+    "rating": 4.2,
+    "reference": "ChIJaxl0YWH2K4gRvq6oW3nGmTA",
+    "scope": "GOOGLE",
+    "types": [
+      "shoe_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 188,
+    "vicinity": "230 The Boardwalk UNIT 3, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4323085,
+        "lng": -80.55990229999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4338233302915,
+          "lng": -80.55852406970848
+        },
+        "southwest": {
+          "lat": 43.4311253697085,
+          "lng": -80.5612220302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Winners",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110671286230503086448\">Mike Karty</a>"
+        ],
+        "photo_reference": "AeeoHcKCyXBqhDnHHd8TespPa2L4XpTj_nxfldgbKPRGjL1qvhNmTwvy-ikXifq-6mzfVl_89MIHYQv1edbvOsdpWVe93j6l6MCQE-BJ31lCliIFMJIOTV-sNuhzziaVvhirE7-ZHBW8HOUB3UlXYz6ZPRlb-vzZ7es7brhDN8NMUj4qijdN7m1YMhQVzFbp52wp8cnaJRLQulct-ISdUjqmuEt9GyA6T60wKBATkZavP1Fn_GDA-XoxF1ZwPenaM2UYkqwV3yfgdOcLJSaPRc1-_O8zXbVoACYcBNbiFriJMuVH5gXuiTXu6ZZfmW8MBYDir5ECk1vj3pWHna66aryOughM4lfFFKHUlQ38erft-sOFOECEfKbWqczwWjHsq42sydA11J4OPTR69h1RCfS0pVgZY0JO1b-cU5BKWp7fdDZGC7BXVyyM8mFTgQrS1fh-8N9urCtMWsP4uxIcsSTzP0KlNkNrlM9w3tcY5z4whANgjCijL1GQADisx7l0N_8UjS84gs1l68hnq0fey1VWyZA_nZcHcmjpDsG9QiVo9u29GsDgmkhP8rq-fIpqscBdU2cU5PfmS5AOlHwo6Wv56-GHIIXZmx3QysMeMqf4OXKDVC-xp8cbMMS5S481JYLsglIV3Q",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJ9bOCCfT2K4gRihPRNYyxCiA",
+    "plus_code": {
+      "compound_code": "CCJR+W2 Kitchener, ON, Canada",
+      "global_code": "86MXCCJR+W2"
+    },
+    "rating": 4.1,
+    "reference": "ChIJ9bOCCfT2K4gRihPRNYyxCiA",
+    "scope": "GOOGLE",
+    "types": [
+      "department_store",
+      "shoe_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 478,
+    "vicinity": "105 The Boardwalk, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4165535,
+        "lng": -80.51737709999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.41774598029151,
+          "lng": -80.51594021970848
+        },
+        "southwest": {
+          "lat": 43.41504801970851,
+          "lng": -80.5186381802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Winners",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105476119106950739719\">Natasha St. Amour</a>"
+        ],
+        "photo_reference": "AeeoHcKYRmmXU_m16Ooed-m3eq3OBM-IYLAg_3He8exUaXudRvde5NJdfH-W6CNuff08rZGmjhxUw7wwsXn1u3uo7W84noIePo_Wogpy4A3JbwmOIJcePYALyY489srbTiv0i2CiV6BzuwtgqktCf45V9_SxCw_QXGkfNOtCQjQuPfbafsx9uZh6RPG6eWJr9KGt8-L4u-CnD75dD1328EudW5989HJY-VROc-s9YvNPy6yQjMmxF9-5Ruz-LIELkoL43FkMkzkhifZ64InSbeFD43oUUXEmlxjPyL--0HH4HdxsC4bpE8nHhxtchlPYKFWp_YllHPKksEmFkNwvT8u0g_BmnEpObhBIsIXlQXfYqou3r_mV71v3_L-NcPDRwBQo9T169RXG44hL87R6umo9wo-XzB1sd39fcwin5bxqU76PuCabBd7sjTfOCLkpGBX0402WTLoF-KW2Fz9mbkCBjIC8vmTW3UtzzNbKwf77V529IngnBhjNcJZz9yrA5fXHcgiOx-876726oXLndidKn4kKJvR-mEBLI6kza6sYa-_oWpn6gR6ObaEr9wJRB1kXTK0qMTpkn1Qw5IlguM36egT0QAwQVHpQEQjzU6ak9tR0v7-6O4pyZYbTd2vjuEnwmuFtHw0H",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJu1gBxs2KK4gRFS02167O3N0",
+    "plus_code": {
+      "compound_code": "CF8M+J2 Kitchener, ON, Canada",
+      "global_code": "86MXCF8M+J2"
+    },
+    "rating": 4.2,
+    "reference": "ChIJu1gBxs2KK4gRFS02167O3N0",
+    "scope": "GOOGLE",
+    "types": [
+      "department_store",
+      "shoe_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 740,
+    "vicinity": "1400 Ottawa Street South A 17, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.41658919999999,
+        "lng": -80.5147147
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4178303802915,
+          "lng": -80.5133445697085
+        },
+        "southwest": {
+          "lat": 43.4151324197085,
+          "lng": -80.5160425302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Mark's",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112482415753734225075\">Chung Hsien Lee (Jason)</a>"
+        ],
+        "photo_reference": "AeeoHcLPmMJF9IPqKgO8H-hFfAUbIz0IB-QzzyXUlzPAtDDL8nmNnQx9VRUKhbhwldmBIsS41ob_xd5wAIsCxy8kc180YqtscEA48VdlEclskiceLaEzyrN5VZrp_0IcpsJ_JL5Hm00nj_xD6QcF9wSCP-1qZymNRUkvau6AfU7LnK3AWGJck1xBIswTHmbSCtsXk9PZ4Ek4la8TBEjlMui3F5iQtrIFaMmnWxAxgLcc932JDZ6lbcXBPy351RDBRux-TlB7nGCXJV5rmhx01VvXvhj7v5cSlZrDq1aIypVWNTUatbm0jzu2dyaxCYRtQT4VhTgtwZWcxkeQisr3G9KlQcVpFG_Rg6-NmkqhLuZ9aKTempkSniFRwos0olErwK1dQblQsuxgCXvAdqfXLvV6dHBOQlUSCb7kR5MyN8P0PsIXEgtdwMMoHtszPDDg08VcIr6FgwfSibwqv73okL3WJgAk19E_hmcnmXu5EM3JbGK70l-muZvgOu2LG0DFIaZyRGbxWSQpZFxYDiQs2aPeZPc4xxlsE3OuWH84CCNz8zfNjvv_dMA8r-JQlXhEfXnDkQeo7gAablyvYIjG_5h7PSgzNQYrcNMUfRlDD6NasAfhyje5Gz6Eak3A_dOL-T_uYrcDFw",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJq6ra1Jf1K4gRrGVgB2ub_Q4",
+    "plus_code": {
+      "compound_code": "CF8P+J4 Kitchener, ON, Canada",
+      "global_code": "86MXCF8P+J4"
+    },
+    "rating": 4,
+    "reference": "ChIJq6ra1Jf1K4gRrGVgB2ub_Q4",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "shoe_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 377,
+    "vicinity": "Sunrise Shopping Centre, 1400 Ottawa Street South A 1, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5118152,
+        "lng": -80.55031
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.51315128029149,
+          "lng": -80.5488241697085
+        },
+        "southwest": {
+          "lat": 43.51045331970849,
+          "lng": -80.5515221302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Mark's",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102486961927454287842\">Dmitry Skakovski</a>"
+        ],
+        "photo_reference": "AeeoHcLYY7ZvHldMc7igrS-UYoYrKxitx0holdnW3TNFgeUzQtm_dxBt813bRviYWJa39osBrIaddqDmkxoBdWMZCqEC8774Wkn9hLEjTsXai-3fsiKqA0t_9cmrQXIfnnzCwGpRgSCDBjFEFZwIDPgsEhu5BxzlyXOfQ8H4ArymP_7gQQuJuMcHLEFKmEBx5eIqhmCoLlyh5BsAQWc970QQUw9M4JGzsH-4sHzfa_UcX4SLP6vzlFr4zkb4dGrNaVTB-x-n7hfX_C3MA2a3VKizrAcMeKmXz-NRsY0_9oWCAItG2T-oqlriTj0u49jk-Ux6a-G4p_qLJrzJ6trBMfI3aT57Byf5XXE_zz5KfDYl95inU-4rLhDLP8AEuaQK2aLym5L5wqr2jtL3nZpEXZOusecWcJ0juImQqrRN1z_DFkfb2vVJJc6g-fuORyW4XqXyWuqwGLkieGb6S2CD-qG2WqLid_UCh70l0BvK-8pVMgqU3tj9YoFALWmq3sDujplUaigOHlpPjToqaZUOZDibEySaXkWMd0aq41nqpy2cuDvPJmI1nb5yke68-QIkGBjKtF0WfwxX6ntkF88czoUEjKFhKXX-2E20bW9H55-wvS4gGq3wZaZMUXDvsVq6DaH5xQSAjA",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJH9zCAnrxK4gRYwmJvaFVOgM",
+    "plus_code": {
+      "compound_code": "GC6X+PV Waterloo, ON, Canada",
+      "global_code": "86MXGC6X+PV"
+    },
+    "rating": 4.3,
+    "reference": "ChIJH9zCAnrxK4gRYwmJvaFVOgM",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "shoe_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 372,
+    "vicinity": "330 Farmers Market Road #101, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4248605,
+        "lng": -80.439278
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.42636288029149,
+          "lng": -80.4377899697085
+        },
+        "southwest": {
+          "lat": 43.4236649197085,
+          "lng": -80.44048793029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Hollister Co.",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102832734495237202400\">Garvita Gupta</a>"
+        ],
+        "photo_reference": "AeeoHcJpBbvmdKhmzEw-7Jm2sz5UOy_LiGG7mAIqn02-kBleuYBrNykAzdoKqQA9sxs9qWAMccnSck92GXc_1p3nasPMmjkZoXRRqmTfzh269dx5H46a6-Xks2gbY7813mAJ643Gv1yCL-kX5yCo-I1p6b1luYcE4dC2_Vh-Xn01RHrqKuSuSjZE48pRy-mQ9TV2Y48xDFcnCsTuLPhXIELZL3xHPEd0xM_IaPOqDvfURdoYkVRyIf3VsBsN0tawN66bDrKLKl1EqQBJ2Xu2zBegz4j0ZCn4M3wNFb_k8epEReG610uS2yotpUB0do9UirsMklpJlJzz8r7UjP1GozOKP3g7Wcp3a49uvCbBRsuUV--9WZ8XF_jz-UsHJnNt7XTWpUvgnW9Zp_pCUr44CF9YkuBwAldVifG1Q1YHMkOOJ1tRjjC_co78mgKLDx8QYrLsMsaWF1gK52ReNyN1uLvFOvKYIrYVR1MdjcUTx9lWmKBxUdTQuW8KTr1SXFIVLlKLG--zuDolqpAPIl1o4pOPn_D7PYFhkEhs9zwaYgYlHTgr_zCR8vtExKBh6xHqwHTG-eb4trK_Jzpb0mOKQBtFRI4OSELLTyEI8y95hIFODxbsdPB5eEgg_WMMSqx4D9-KzsFOyA",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJTS6cNNmKK4gR8LADh6l-jPQ",
+    "plus_code": {
+      "compound_code": "CHF6+W7 Kitchener, ON, Canada",
+      "global_code": "86MXCHF6+W7"
+    },
+    "price_level": 2,
+    "rating": 4.1,
+    "reference": "ChIJTS6cNNmKK4gR8LADh6l-jPQ",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "shoe_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 353,
+    "vicinity": "2960 Kingsway Drive Unit J005a, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.41878250000001,
+        "lng": -80.4485219
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.42015188029151,
+          "lng": -80.44742596970849
+        },
+        "southwest": {
+          "lat": 43.41745391970851,
+          "lng": -80.45012393029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Carter's OshKosh",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1559,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117534506850508434501\">Sandeep Singh Goraya</a>"
+        ],
+        "photo_reference": "AeeoHcL7vTSB7Ca7cEXXtlR73yzqAtCaJx0i2Ve3RD0pm9A_UQXIbLvmFOBCWE0RsBq6AExI9yqj8xgbnHkdNY6zUOJ_X_TzRwM9Gca4HPV4z7ImrkgNP9pHmmy5kMNTdfAhxKiVOXi5d8I678tZz5Y7w5zf_YFyOyaEz_d3CcPJmg1yl2Nh4Gx2NcnehY0T9Rpl6pd8GdIEcwH0l8IHKW__hcuL_1K4lG9fNMMkZOinsPWEn6Gq_qpJW59AGDeHnqxW9BgmpsNh4ZUd18nW976EOCqLpYEVtyy7tiXn5btpSwV5KyrHpynPJjLWVTAT4braZiAYNH3XwgyK0DEnb-LqEVsr4hwRoeyx-tJnDgGfvUj_BZwydQxPMzBMogRXFrkPRQTwPRCTFIPV3eapV2_ZvK7IuXt4oMcrimHG4RrhoG8x3TboUxRzCntjVCkDSgWxX3uiqf8LxgkMuc1kcPmLKC6WkDPerFDUtQth6ol9YE9-Alhr8y7IRxt8hBB5QegeVIO_X5L2HN_pp9SYPms51iLuyknXJjYWesg3v63RTLtjnjinisRlGn3xT34ATLK3HRfM_K-GJV7Hf45y_-q_f13nyrh8Ur0dqJS3By0y88g7BHGJ-hSyYnvDZ43ksfvR",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJm8vd3M2KK4gR2g1yJqHgTqo",
+    "plus_code": {
+      "compound_code": "CH92+GH Kitchener, ON, Canada",
+      "global_code": "86MXCH92+GH"
+    },
+    "rating": 4.2,
+    "reference": "ChIJm8vd3M2KK4gR2g1yJqHgTqo",
+    "scope": "GOOGLE",
+    "types": [
+      "shoe_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 89,
+    "vicinity": "655 Fairway Road South Unit A1C, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.42391490000001,
+        "lng": -80.4404318
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4252921802915,
+          "lng": -80.43928886970849
+        },
+        "southwest": {
+          "lat": 43.4225942197085,
+          "lng": -80.44198683029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "SKECHERS Retail",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103583378488596890483\">Roger Tabares</a>"
+        ],
+        "photo_reference": "AeeoHcJVOMmWrlJTxi6G7zs0IyONFd8E0C0f469IMe9lkQT3CSTLZ_hv4nqnaSkaXI2tIQzYACVLiprISOzyyeAaN8K5lG7S_ArwspZGpSzStbX6O6wGcmOOl_X15tR6LQcWXiyZdCzupuuccwyfmMApqkaW5wJ1O2dOAkORrE8f0yLK8s459J-wBkEkgrG0Y1WcBJedRJTsvf3rTFpbt4EAdV29NrvrTwXmOW9HFDZvDikVmV1VrB0vUFd-TVA5U73iqcH4vJSE1xb4v2KMz2FNXwbkIf4tSt7LgefFXIv2ZwgXNMZ8wBMJGJsrUvVF1LB_JQHIUvzIEly0i2LbCPpMOn6vx7G25f9Cq7Hu8nSCmbMLRAjDtJuLT7D2bf3-V-JIme1H8zeC9_uuuH2Fcytb34PM5TD5WJWF5ZUp4co15ZL8-pGjrTGyTlzvirWryDdrHm8xF7SfHDhTmoi_H-gyou3EW9LeYQjuyU2JJGTiSFOhB83lnRrk3HpITYGx5Cx0_0TjlldHiVP9Q5l_NP8lwhe70XdwuQh09tAWou9YHYOHRDb0zmK_I7AtcQok8cDdsKA_30g-WYwnQGAN55WiBNTgCRkyBfueS6XGX-NCm79iTdoTabmkGCbkJ5IlKBkGMVuI1Q",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJSU3NWtmKK4gR3bXfQiI7w2s",
+    "plus_code": {
+      "compound_code": "CHF5+HR Kitchener, ON, Canada",
+      "global_code": "86MXCHF5+HR"
+    },
+    "price_level": 2,
+    "rating": 4.6,
+    "reference": "ChIJSU3NWtmKK4gR3bXfQiI7w2s",
+    "scope": "GOOGLE",
+    "types": [
+      "shoe_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 285,
+    "vicinity": "2960 Kingsway Drive E004B, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.42391490000001,
+        "lng": -80.4404318
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4252885302915,
+          "lng": -80.4393981697085
+        },
+        "southwest": {
+          "lat": 43.4225905697085,
+          "lng": -80.4420961302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Urban Behavior",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102884107914503022993\">Xavier C</a>"
+        ],
+        "photo_reference": "AeeoHcK1apgKdxxhhtfbTyDAFh2B9QVEo-5XVk_e7LATpDHWNpzDvDznlsiEf9pQdXlbjw1Hjm6RqhfofJBNqGxaQa9g2RiqQMeJknMsy2IPLqruj6jHZBCZH5WTYuLXe70avPqWQAs88qp8TOLmnUTQtm3QFlXPmvp73qsrn5NWK-9840g99mqNEdhnGrif_T8E55tZtIsIGDiNrLBv_IoxLVcfLe8Rq3cNVUl_iIuwZ35fXTin9VIkH5_W8TK0pm69nvKMr8UVTfdcQl8pLEteFUvnuIc5-8Xsk_0W1ojyyK3gv-pwwPAoG2-x6OLRH-X3Rioa8TwpN3kjqbQY6qeCoUmbFRLqiq_VUBaVJ5v5gaGLjgedQ_UnJ5quZKRYBSpvojnwnjwf_VpyCjrFOmCnO-0qbDkoDPEr5MoRcu2_u3cCpbj6UITDtjeSzVXPwxl51GwuslWyrUW3avWI0j18AYz0VIhD5RgbspVXWVr74Ni-rzLHR3XHc9aWHBcph5Woi8Y3u_Qxbe1oTFt26xreGPvjnyXCYsKSREO3ItRUAfBg9idp1_mLX1NU4f36dVnbncO_9BirYD99Q7tV3Ba60Od3TJo8fxDgatfIpov4XYsuhheluMmHvWO74ufIaJRfw71vrw",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJQVFRAAAAABARFoXP9tkcTKs",
+    "plus_code": {
+      "compound_code": "CHF5+HR Kitchener, ON, Canada",
+      "global_code": "86MXCHF5+HR"
+    },
+    "rating": 3.5,
+    "reference": "ChIJQVFRAAAAABARFoXP9tkcTKs",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "shoe_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 126,
+    "vicinity": "2960 Kingsway Drive Unit M00, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.424656,
+        "lng": -80.439037
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4263490802915,
+          "lng": -80.4378983697085
+        },
+        "southwest": {
+          "lat": 43.4236511197085,
+          "lng": -80.44059633029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "RW&CO.",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113664309233820834071\">Ron Dutton</a>"
+        ],
+        "photo_reference": "AeeoHcIaSyJDZE55TVexQeAIofNS53HAIQRci4Bsq2qeRkwFFfae0i-jxKCiB-cQnQyyV-5_-ZcpXRv1wXGSYIYvQOHqCmHKjTl457FLGQBSrOJxnf-peZl7mcQ76_dng1o_fqpa1k3jrrc7duNJxIVm0daQ_TW9BwFXip0h3Lym_iDwW_h8PioUbcojVtIN0yGlD_Wn-TqKZivLn9SBVO9mP9DNgpRBX-sZS18sSlYbqXB4DWYLMVQLQdd0KDpgWsX6SRUmPol4q3biYSWIiQLzG2zoJ85uE_bvzeOr3Jg2VWd3C_fOy5GHI4irDKUWdUbCcft3ZjhZdDxodjoxJ0V3GZnqhninlZOX95hL-grpscPLOTfISiVj-CeXGij8ui8OeMvI_Ti64wm5mzNwogyKBIrRmAQiiXPO1ZVnANrZLY5IsoPuNz3hwbJBos0pItbRdxILXFzmH-NgFmZ1h_Ur81sjL9BoMYA6YuqLdR0p37_DH2DyKdI1DiWzTbV0QD7h4CIflNfg8zzpXbkx-cLnZvnmmUzBb50bWJp-y_o_zF1xNgcMjbwjxSnyKrNETP45P8fzC7tluW3G8bItv6J8B9Mb_E-8Qula11hhyqvSeEDmpt4XFNRM3SylFIlY9-oUqfjxsigi",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJE8yaWSeLK4gRuPCOFFiuXc0",
+    "plus_code": {
+      "compound_code": "CHF6+V9 Kitchener, ON, Canada",
+      "global_code": "86MXCHF6+V9"
+    },
+    "rating": 3.4,
+    "reference": "ChIJE8yaWSeLK4gRuPCOFFiuXc0",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "shoe_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 83,
+    "vicinity": "2960 Kingsway Drive Unit J001A, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4242462,
+        "lng": -80.4392455
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4251988302915,
+          "lng": -80.4378818197085
+        },
+        "southwest": {
+          "lat": 43.4225008697085,
+          "lng": -80.4405797802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Ardene",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 900,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114332573469249106227\">Ardene</a>"
+        ],
+        "photo_reference": "AeeoHcJXLSG9VMN3n-4_tO0brDjBhNm1KQjQjm5_Mi9_IawQeF2og__key2I2CN3fb0q7aoLszR19H0Wh2-ZXUu1rAD7OLW5VsdGRqXGxxI00z7SzmNMxsqHVKt7bikSFyN73hc1KeQ22Npaj20SyHNND0_htCNo3YEXTJg2Y316CsDE_DMK_Z4ofngzXPoFX1sFDTTHRxZhgRDQMBmyyUBprdorITUUQ9B3DJ8aWxWmFOYHKFhOOpTxxl5hjClle78L2ZKbX6CFZrftkcyJTmHKlUFHwlBrZQDYLbDtpB7IB30NuQ-qW-htukVrfQJmOJxT1rngaPB1aNM",
+        "width": 1600
+      }
+    ],
+    "place_id": "ChIJo9gPqd6KK4gRfB2a4ocvp1s",
+    "plus_code": {
+      "compound_code": "CHF6+M8 Kitchener, ON, Canada",
+      "global_code": "86MXCHF6+M8"
+    },
+    "rating": 3.7,
+    "reference": "ChIJo9gPqd6KK4gRfB2a4ocvp1s",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "shoe_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 67,
+    "vicinity": "2960 Kingsway Drive E014, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4238008,
+        "lng": -80.43893589999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4250243302915,
+          "lng": -80.4376143697085
+        },
+        "southwest": {
+          "lat": 43.4223263697085,
+          "lng": -80.44031233029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Journeys",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110432312120503495817\">David Rose</a>"
+        ],
+        "photo_reference": "AeeoHcLh4MujqVHig8-dWJbpIabBojqqWHRRjHCgnXYoY3bpj6yeFeq01IeC9KoqNPsiQ8_o0EYKgitUOKjx_s144AffFYI727ULti7kBlVufUoEgYJl-l1GXZVgzd293HU3tSsSjh8Z8dZzj2NJAHnTuQN-jk9BWlGcXX31P6WnndCBEDMV7eoISGKr0FU7HdDaO256x36xkxRbACb15QeQvwLuGYH-Ftcb-bOVKnzT4eEj5kKXQXfx1BHeqyDkChOKd4tieABbsm4mr5Ve-hGMHnw8zPdnx3cQbTvq5XRvAOEAINjC7E313qpF4wMSmJNlI8rNQT5Hh2u6c5iOKJlXZLvlsolyznLRqemZT-ZTLdbiDodG27UewFQ0bE3_UZL4ItSgQKoo4EbpsVg7H1uCIuQsG0BkyJAnkQtd-BK6rgbT2MgcrwMxSV0McQBCDdwFDL-chr6KumJT45EbLUur5Y3nM7jO5H8rZIDPzc7a-fL7QwLoYy0QRT4UBoIOhmFfyU1HE7qgExwoIBkDcLGgGCGPjbTAecmQzHDVTxAZVwp-ggi6fRNFhYz1L8jRFRHEj0rw6Gu2UhgWv5K95qYAF8Q-h1pUu24qswuZy4bfYGmQOC4uPUQLdRyH2-w5mxY0wejaFg",
+        "width": 4160
+      }
+    ],
+    "place_id": "ChIJ2bIyRdmKK4gRmpH6lD36kuQ",
+    "plus_code": {
+      "compound_code": "CHF6+GC Kitchener, ON, Canada",
+      "global_code": "86MXCHF6+GC"
+    },
+    "price_level": 2,
+    "rating": 4.5,
+    "reference": "ChIJ2bIyRdmKK4gRmpH6lD36kuQ",
+    "scope": "GOOGLE",
+    "types": [
+      "shoe_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 56,
+    "vicinity": "2960 Kingsway Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.42398999999999,
+        "lng": -80.43715999999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4249732802915,
+          "lng": -80.43633219999998
+        },
+        "southwest": {
+          "lat": 43.4222753197085,
+          "lng": -80.43964340000001
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Mark's",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 563,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110950072656410205628\">nick</a>"
+        ],
+        "photo_reference": "AeeoHcLVfAKCoZcQA67XLmSdJg1n3O_K2aiXE7LnUm9CoI6L5Wxw4zYv5xt4ycYBl96etQ5IlXyyZh6skCK6gj1CoUlV-GxffwKWQG_tyD5QvcV8m5zhl_Ct2YVr_OiWfn3kPyxrDhzgeZ02dOCiHQHIc5tnEnJ2qqesLFhI8lJ_7efUQnvYbSYAimNeQahfEagwM7sg6pEKFXXpjFKbxZ9_KDnLJd2mLzLL1OKLp0qz59eN-X1d2bmx-ZFx3NmvgexR_-J0usjWnod-2BKb2SI8ExbG_Yy3h_cPcgY7r_t9GfiTZbdOOmj7FTRWa8uLKaQzSo7woEEufeR3x4fb91i4CGKmHUeg6NadnfGl7YuZlCakQkIGz03HKjPlc8rjVzOgXqP_u1QcxuWGJYaafEoYVtfQ8Lo57SOI70fiagcPFFBKRrtNaENb-3ZV4spGKaTORVLBtVOXP9J1MCSZhHteIt8tAROSNwaPnj_6W4X1p2ji8-2PalPwXaMJCgneZU9UVX9uGQwZQyeiLz4DlsO2WyvLmn0wcmE7zOQSTVawwwty3PGzeTDYfGG_gpNVsQXFFr6flgK7f0Ay9_McvmgSR7YkUhQxMDAGceIlOE-grXhENg--gmipkruPTac8Pff7JJ9pZu1f",
+        "width": 1000
+      }
+    ],
+    "place_id": "ChIJ8eydydGKK4gRr2O1oU4naI8",
+    "plus_code": {
+      "compound_code": "CHF7+H4 Kitchener, ON, Canada",
+      "global_code": "86MXCHF7+H4"
+    },
+    "rating": 4.2,
+    "reference": "ChIJ8eydydGKK4gRr2O1oU4naI8",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "shoe_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 444,
+    "vicinity": "2960 Kingsway Drive Unit Y007, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4111202,
+        "lng": -80.4596388
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4123768802915,
+          "lng": -80.45826266970849
+        },
+        "southwest": {
+          "lat": 43.4096789197085,
+          "lng": -80.4609606302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Mister Safety Shoes",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 924,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105404102521766886015\">Mister Safety Shoes</a>"
+        ],
+        "photo_reference": "AeeoHcL_bTU8Yl_n1Z2di-6R6ICxJmlLdyJIRxkA_9AklkyFKDADMt_wiCpWMBWfBTDNuR1eKwvsaSUGAowoK7KF_neDLPQGjLO2dHdfHxRePX8zIfNF8qy7Z45uXYqxnhnOZHzktBq60rn5-k0ewlDDRCv2b9_O2sgJQXSZ04U5YKrzvAH8NpzKsJ8BclajhVehp4iqt_Pj7Fd7Xufoga2EiVyi-LK8JpA75Tj4PCAiUxPY3zIlZqdU1Ahui7j9qkf640VJ5xGhdu6o3P3SO7-zsef4u29OBdJp1RLK7qBLn74KSe_sRVtVgDXzi0mzP4uTNlkPVgQIMks",
+        "width": 1280
+      }
+    ],
+    "place_id": "ChIJR7HBE0r1K4gRW0USeqw5trE",
+    "plus_code": {
+      "compound_code": "CG6R+C4 Kitchener, ON, Canada",
+      "global_code": "86MXCG6R+C4"
+    },
+    "rating": 4.5,
+    "reference": "ChIJR7HBE0r1K4gRW0USeqw5trE",
+    "scope": "GOOGLE",
+    "types": [
+      "shoe_store",
+      "clothing_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 379,
+    "vicinity": "270 Bleams Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46546430000001,
+        "lng": -80.5227644
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4668339302915,
+          "lng": -80.52127126970848
+        },
+        "southwest": {
+          "lat": 43.46413596970851,
+          "lng": -80.5239692302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Loop",
+    "photos": [
+      {
+        "height": 324,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100325749323780642549\">Loop</a>"
+        ],
+        "photo_reference": "AeeoHcJ4LSjKvuHE0udFwaACPq5Q07BCiQpTuN7s97I4Cq56EqQCe_rsSB72qs5OKhqL5bzzFTPCKWXgbXnnTT65JqJuOKOxGoQy8fpaU9BRfPJzAYB0oe3jn_pW6gKMA7N6ssJNisJ4LfSSXtYKeIjm8sqnsTWnrQB-kgwwZdJSYLU_ZeEmLYZc818RpDzy7bTeXxCMUYU-kC91Zr93V2NbkXDMXyjUkp9s1C0a-F_GtzcJw5oKaSMwCvjlRh4usTxERAFqx4jzxQzuHE3UPvDpYa-RW0SaY02hcwO55IfF5rF__K0KfoTsey1F57bjhmyczFyL2p7gx7s",
+        "width": 577
+      }
+    ],
+    "place_id": "ChIJCdEn3wz0K4gRpzV6uvVMSqk",
+    "plus_code": {
+      "compound_code": "FF8G+5V Waterloo, ON, Canada",
+      "global_code": "86MXFF8G+5V"
+    },
+    "rating": 4.8,
+    "reference": "ChIJCdEn3wz0K4gRpzV6uvVMSqk",
+    "scope": "GOOGLE",
+    "types": [
+      "shoe_store",
+      "clothing_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 300,
+    "vicinity": "13 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46338869999999,
+        "lng": -80.5221688
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4645814302915,
+          "lng": -80.5209498697085
+        },
+        "southwest": {
+          "lat": 43.4618834697085,
+          "lng": -80.52364783029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Channer's Mens Apparel",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101038344528051208666\">Jeff Mulder</a>"
+        ],
+        "photo_reference": "AeeoHcI_s6vt0dION9VJ2yybngMDaMCIY9WUvydkmOOKOb4RsU3pbJAp4VfOGW2w-yHDOzbgWDzcbXZ9_fX7B3-yR1CS25dDMpZ_j99jloO7iZVXwqflGqr-Rd7yNjoamxGR20fKlklC3ELtebbqaSAClCCi4P-2-wcBlsDvpmc7g26ZRuHy1qChhKb1AUTnBB50acWhPNjs54vd0uaQV20eq8kOi0fezqn8PMEaPvHNiHcMTyl4J6D8RyltL7sW05BonagJUnk48b4wt9HJBXD3KNjr9fqTiEYlriOlPtYzQvLbIwJxdHAoVMyAUdyGgb6WIk4dZ28A8Ff-JuSb9GSoTwZsNlDGOACCURcBiA1Yhb5PfMX0uQoXvHGLk_g4tTD1e6mZSa4AyuJAUbOQjEwtsIiEgmutk9u_PRfRtQ_55Mu7jwcN55B47IrdB865D7Ttb3Y--bkmAkUcCWQsTX3Pk1FIi0tR2gaNjbA9reBVXzJQUOkC_g6X6iFVAv-EbycMFkQYM1iZzPYDKiZIzXN8s3HzBjb8qJrFqDze9jk-is_CVXEF2EfV0EaX_1d-qxWOVQt5FW3obyHvvjj-8b9Kmy3Pl86aYA38augl9ZjOPbh_Mg0A0aS6yhCp2z4yMvpK1ita8EAj",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJj3xvsRL0K4gRDYHLK4viy40",
+    "plus_code": {
+      "compound_code": "FF7H+94 Waterloo, ON, Canada",
+      "global_code": "86MXFF7H+94"
+    },
+    "rating": 4.4,
+    "reference": "ChIJj3xvsRL0K4gRDYHLK4viy40",
+    "scope": "GOOGLE",
+    "types": [
+      "shoe_store",
+      "clothing_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 166,
+    "vicinity": "95 King Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4348009,
+        "lng": -80.5624703
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.43573823029151,
+          "lng": -80.56037090000001
+        },
+        "southwest": {
+          "lat": 43.43304026970851,
+          "lng": -80.56317010000001
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Marshalls",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105612268752145423343\">Vishal Shah</a>"
+        ],
+        "photo_reference": "AeeoHcKX8k2lbFjUBfVhnWqUbgY8A8ScSyb-eTCFHg0mNyRKwhjPdgJ2LoOel4Zh-iZ3TL8x1C4_pVLhvIDHGTDd_lw4w5JGiqPKfd_VsognfSNcU_IjjGl1G3F40ykFHDcG_jJKTvaoU9BdJcBhXZQ2ipxWdl3bHTYIS7AdoKXa3KtbbPI2CKetvctGFhQBHu6_E-6Kl9vbuMStcCzbspHGtlk-BFQKtjKwVOvmr-KNAvmLwwHL8lk92BKG22nplBs6LCVvgfoRkgCK2lOc05lvSGsMrHDcwoMFSfhoGhydcOSNNJwxF_YWs832q6vWQhLo24EVg1J5kqDPRyk5iyLWOFOqC1ZGDBYtKXNFwCykH1rUyqVlF1wqvtasZuKzdACf_CsaII1usiVIx3adrHyNQ0s4ELxWC-AM6hWNU_aClnPFlevAFvGKRUk78aEjSjkrAWU5RIcolFG4Hin0UVrzggnQzCpPqwXEyZCrY2LJ4HXTzX-D6Y230dMMp1hiyYd2xWr4qLOkjcycMfyyai2ejL5Q0IUJUs0ViwlBBAz4y64VgKXGCARdYe1rExeYmwDwz2aE8PPOLRZLBgkIb6tK9V1Hy1oB1lkg2JnaC6sRxWCTB1R_YiXzn_oGPTcFjR3xntu57g",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJAQAAANz1K4gRj1z6QFPMfKM",
+    "plus_code": {
+      "compound_code": "CCMQ+W2 Kitchener, ON, Canada",
+      "global_code": "86MXCCMQ+W2"
+    },
+    "rating": 4.3,
+    "reference": "ChIJAQAAANz1K4gRj1z6QFPMfKM",
+    "scope": "GOOGLE",
+    "types": [
+      "department_store",
+      "shoe_store",
+      "clothing_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 811,
+    "vicinity": "225 The Boardwalk Unit1, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4712132,
+        "lng": -80.514529
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4724787802915,
+          "lng": -80.51322716970849
+        },
+        "southwest": {
+          "lat": 43.4697808197085,
+          "lng": -80.51592513029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Moores Clothing for Men",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101038344528051208666\">Jeff Mulder</a>"
+        ],
+        "photo_reference": "AeeoHcIl5IZImcwJ8jFkSGTJRJRDXguYe527sLvSDUX2GF4TmOilaN223aOL_TLcNPT94F5MAZ3-TaycVUCi-x9ipPiUn95ZkTlmQFKmMvS-JqEuUv5XZGRmjhphptl2mI186k9XhLWQnZezWi5jmlur1QWPWVCx79LOjvkQFgh35zGSpjd73EuXS_Y9INnOdah20u_-bL0oPVwuMqG-8QeC1J-9tdxTgFwagMZXgP-o0jOqU2FqJFRBJAJxROMjthfrCLTuHv87IlFhIEBWL3o8NdGtPmqZv5SkkaKu9WtCOa2ar8A33pp4dcMVQ3vDpdGaHiVd5wPOa7u58EM6vmbxC38b4nnLBOgkvTinsElOGBx9wD47PSM-eSZ6LFW2FBvRN4jvjJpEMhHN9WTQPmjyEPNhS7WbeA79J-gqYNSUY5958OmIuJ_pOe4wxhmxwYHHVh6-UXfGKzq5ZHjameeoZdwjmoAExmgheZega52O9p25SjnEQ8toXrXNYbpw6EfZ3T-Zc9UTgmeY0xsQ2uSGh1n3sG0pDqqHB5V_HEwgtqskwDkN4Y4twm3ozU0SDh7c5m6qVoptJDBExvstbcfQKE6NLtWbBfZzJJKecNxt_NQeWH2UQDLBmiMHJFIU8W8f3O83cFsQ",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJPfyO4Xb0K4gRSn2U7buSCaY",
+    "plus_code": {
+      "compound_code": "FFCP+F5 Waterloo, ON, Canada",
+      "global_code": "86MXFFCP+F5"
+    },
+    "rating": 4.3,
+    "reference": "ChIJPfyO4Xb0K4gRSn2U7buSCaY",
+    "scope": "GOOGLE",
+    "types": [
+      "shoe_store",
+      "clothing_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 227,
+    "vicinity": "94 Bridgeport Road East #70, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.464668,
+        "lng": -80.52062629999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46598283029151,
+          "lng": -80.51945566970849
+        },
+        "southwest": {
+          "lat": 43.46328486970851,
+          "lng": -80.52215363029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Paul Puncher Men's Clothier",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 379,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113823602126938017843\">Paul Puncher Men&#39;s Clothier</a>"
+        ],
+        "photo_reference": "AeeoHcIytRVF_Y-lNgbT82EbhTO38-5PXWNUD2BX5vLr_campxfZfDTGze_cmvd0hlDqSrMgToAIMNAPdvqwUJLrByH8aEM0xijbbxfw1TaohJuSPJvOAyDxD7YuqdHVi5jCsgK1NZvUFQiNfIDa37CNn0aEZ6T0wJhBXj5CJI-0acZEfFsEwAo3-8BYFmlkhKfcWMNP3RIvTiTHN1WdrKMrOH2cCIbksgkNsCQRBwMW5ZVBHAne9g4p6qPpamBqX9iUmLZs0aHMAPLzMCwRDN1zX10gmh35qTQ7NAG-UqBqfnCpnbIb7crBPpCxmQjjWdoqAiboOX5e",
+        "width": 959
+      }
+    ],
+    "place_id": "ChIJFzkfW230K4gRStnclKBI5kQ",
+    "plus_code": {
+      "compound_code": "FF7H+VP Waterloo, ON, Canada",
+      "global_code": "86MXFF7H+VP"
+    },
+    "rating": 4.9,
+    "reference": "ChIJFzkfW230K4gRStnclKBI5kQ",
+    "scope": "GOOGLE",
+    "types": [
+      "shoe_store",
+      "clothing_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 149,
+    "vicinity": "20 Regina Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.42097899999999,
+        "lng": -80.447689
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4222485302915,
+          "lng": -80.44631406970848
+        },
+        "southwest": {
+          "lat": 43.4195505697085,
+          "lng": -80.4490120302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Running Room",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2988,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100826979862352267820\">Patrick Kozierowski (WickedAwesomeAgent)</a>"
+        ],
+        "photo_reference": "AeeoHcI0UIql7ac7ld5_6orNJ8_JvwfmdZCMlrj_tCWTu3LQZ6D5PsdIdqOlegCAk9gpQp-RVJNfdKcAJzxFY9B1-llzXR0nm9xdTbRwdA6OnahwqJp1B9L6CR6iB1RUHoLK5Z1FD-XsYA-EUyrYdYNCl-dbAAzOtb4ter9dBpVzTfar49JC8SVA7DWnfKSJRJ8V8jT6ow8eiQy4hZW0iDOjIWFm6lfuv8xEY5jdbbyun94LC_3qTuR475mszpfQkPijNG1uHUappWEE6GxzZkWtLAl08OvW2t0LNWj5dj_DUYQzMHIyEifPhVyuStvuCmR2BjqtPEtM7ViSFvVAJQummh21qsmQ9BSpS-59_-q8Zgn4z0LU5W17Br7YRfZynDwLNo92yFpJCHtvCvl6KY8lNgbYg_dAaCQgEjPcRUytD6b1Fxsz5IYgg2BEofAj5V1kqB_lrDQ37MSY6eLnucRpWvOFTVY6HjxlP56Kz3XtSRh9ZwUExIzDZwdVy0s_Ovh8iYpZ0qGCq_D4jM-hcrF_vRThD3jYzOhivyX7W9iVN7PUDSrHgY1K2sBa8mCb5NHUBVn5fPXbL679dK38ks0gt1cf8rYc-sNoBcI3Wx1A2ZCAGiIu5hhuRTfC_7sSBPIt31zamzeK",
+        "width": 3984
+      }
+    ],
+    "place_id": "ChIJF_Bw0dGKK4gRQm6C8X7bRKY",
+    "plus_code": {
+      "compound_code": "CHC2+9W Kitchener, ON, Canada",
+      "global_code": "86MXCHC2+9W"
+    },
+    "rating": 4.6,
+    "reference": "ChIJF_Bw0dGKK4gRQm6C8X7bRKY",
+    "scope": "GOOGLE",
+    "types": [
+      "shoe_store",
+      "clothing_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 91,
+    "vicinity": "500 Fairway Road South #15, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5019236,
+        "lng": -80.5350115
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5031006802915,
+          "lng": -80.53351446970849
+        },
+        "southwest": {
+          "lat": 43.5004027197085,
+          "lng": -80.5362124302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "BioPed Footcare & Orthotics",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1440,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104691968481668167682\">BioPed Footcare &amp; Orthotics</a>"
+        ],
+        "photo_reference": "AeeoHcKS3Z6amaphobmv3b6KYd6QcTt3SYiafAOQXiN5M5qdN32nZPIQz1XyNx6YM0suXc5DbXDb_iLi_25J0IlNZpuHUocYXokI_oVyrUrFC56mnXFU9sVu250gj4CHXKnEuUImHQP4U4CVbuvzdgKh7anoDLbxCI6dFsVNl2oW_sEm7FMX6eqzYHBat1EF1-BZwLGroN60DLA_PrWI3JXgtwNV94TVHMYabbP5aRyD7ESWRV4IHtn7T_Te2mpMb-gMEK5K8n6_9aW2c8GKsR_jueiaTMQUG-t3jXOTcKTOGz3N8lKNaCIvSfXjHcoH1431Im22b0bfdgo",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJCzOZw9rzK4gRdUG6q6Vweog",
+    "plus_code": {
+      "compound_code": "GF27+QX Waterloo, ON, Canada",
+      "global_code": "86MXGF27+QX"
+    },
+    "rating": 4.5,
+    "reference": "ChIJCzOZw9rzK4gRdUG6q6Vweog",
+    "scope": "GOOGLE",
+    "types": [
+      "shoe_store",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 12,
+    "vicinity": "583 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4209773,
+        "lng": -80.4476869
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4222477802915,
+          "lng": -80.4463122697085
+        },
+        "southwest": {
+          "lat": 43.4195498197085,
+          "lng": -80.4490102302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Moores Clothing for Men",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105612268752145423343\">Vishal Shah</a>"
+        ],
+        "photo_reference": "AeeoHcL9074K5X8trJZY_8LhZLH6zQzYUr2Rq7fUsyDGgKg7tH52OPXGR5MZbY39_l7xV3Rl9Rzrnwwx_eDm7WfALFqJeEX6Zh08LZxOoP0GHGsq2urFwGestiYwrl6OTKQrE6PolejSqb3M06jRCnnmlehMs1DDNm7lmA4UPSMtAO8giMErpj9t3h02MYkgKPoc4QEbO8h5MvEBZw31XdilGIYaFI1ZkDIOaJ2aARpD9S_pEsZ9Mt1epl8HimDLxtBen0e7cLgwY8Yc5BYGavJxqe5wmbsF9M4Gv3S-Eq-HYHHJliAddmiZ4pN4mtFKdiVbULt4rak5Ob9maQlPproC4xSuygeUg5jS2Y1Uisg591ai3Sy5vQIwwhg8nApr9eNlmUHGuRqo5IQM_ttEiPIxRKdHkhmE9ANjA6OzEah9Oq6pwePnvVmKhq5hbxhQZO--_8JO6XUjb557W6PE1yv0bXx807cZ5XWN4qXrVV_UaD8CHN7njHow-NpANCWQdysMav8nbKI0U-h1MnJiZ0bT67C6Xxi-Z6n9zzIaGpSvI7tij5ZlR64V5cZc_Su6BHYjP70xGfikwuajD52dxpMBtK9JKBrhxRUHF6cmX9LCSozTucFwqVKuFikUS1oehnNY",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJF_Bw0dGKK4gRTm7M00EyKfk",
+    "plus_code": {
+      "compound_code": "CHC2+9W Kitchener, ON, Canada",
+      "global_code": "86MXCHC2+9W"
+    },
+    "rating": 4.2,
+    "reference": "ChIJF_Bw0dGKK4gRTm7M00EyKfk",
+    "scope": "GOOGLE",
+    "types": [
+      "shoe_store",
+      "clothing_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 242,
+    "vicinity": "500 Fairway Road South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4718254,
+        "lng": -80.5155443
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4731114302915,
+          "lng": -80.5140922697085
+        },
+        "southwest": {
+          "lat": 43.4704134697085,
+          "lng": -80.5167902302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Shoes 22 Waterloo",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102486961927454287842\">Dmitry Skakovski</a>"
+        ],
+        "photo_reference": "AeeoHcKqkAkfz-Mesr3nUqY49Md_96b-xVORYgFu3KbvvtYpJ2XtG1QY0HPRaZQs479p7sZ3XLu0ffwth_GZMVG1dWHGqwESFRw18oFaUS_KnpsG8tfmKMf6YkP_T1LS5XD4fDPWDSJBDXSkch4kd2r1Ydl2uige-sU72hec-XZJIcJ6f4RC6XsH7OGyNfw0n_J_noO3CkePNai-8rES9NB9OigcgwIE2JKiMuEZbR1ncA9_0bIHS9nRc4vmz5qeI6ki60jx8m-uEvL-MNTz1brM7InAz3L28rXxdgofpax3z-tyuiO-CCaZDTMQGhle-xKGJeK7VFht-uDKjzSiy-jt4xfMV8ora9cGybQ7LbCg5JZMw18gUBNUTequqiEXdIILqOc0kJ29bZ2gjrOBbtxw3ndb6F564CSOkayrPaBLobMug4rH3y_8HR9Sg6i3KDShBfJsQ-YdTCatTtNLUlkqyeqI6GwjljBPucVN22fxfp7_uyChtv1eqUlD5jxnEPNyz4h3zl5vnKIQXlCA6Zoz1Yw3qnpGmkKKhAeTmCxRf7iJQm39bHcrO3zrep28qMoPYDMo_CLDWmhbXq0mWWiBuUcY28laErCF5kreiivpye2Gyr_6eUkl1JWrG8gwxnZMOsviyg",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ5fvOFHb0K4gR1jQnqI5QFUI",
+    "plus_code": {
+      "compound_code": "FFCM+PQ Waterloo, ON, Canada",
+      "global_code": "86MXFFCM+PQ"
+    },
+    "rating": 4.4,
+    "reference": "ChIJ5fvOFHb0K4gR1jQnqI5QFUI",
+    "scope": "GOOGLE",
+    "types": [
+      "shoe_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 207,
+    "vicinity": "133 Weber Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4185468,
+        "lng": -80.4476576
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4199782302915,
+          "lng": -80.4463598697085
+        },
+        "southwest": {
+          "lat": 43.4172802697085,
+          "lng": -80.44905783029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "SHOE PER",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3390,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105612268752145423343\">Vishal Shah</a>"
+        ],
+        "photo_reference": "AeeoHcKfTO2lm8umZ7FKGWggroHkyn5VqI4F5aCUoyeiL-76cQ4Tgq0xyzkqJteDvZerG58Eqb60QKmJR_Um6ta4cRdcaa5KXI4s6K4L3hFXPfu49nWjjWMwhdfZBwB5izmCrhyJmFma7Uend1EJV9wSMYJ_yFJicWksax2Hhm22R8qnrN3JiQbQKaWAyRRpQ9jCkSnrQWDPUUGmGtFikIklheKTM-FRIOB7b92kZPPvTZmBFe4EdOiJVK07YwjY5Wtg4XLs-T4qU2ARol7Zj1qs31_e7SI0j2VBJ7l1IMGhR8WAtxX7yR6dMfTOGYqCffncEsY9jJrtcJz2oEJx66z3li348HqdMuxKdEFf6vNS_ajxIuos__M3EThey8Bgrb0dv0QlanYfZL-lKmoz26cvYyx87adzbS8ebox49X6shUzKLop2XZ4r-RzoPaLdYx1_XOZezDMNYCiHIZBUVRgTW3GBjjR9lOD-KHnWkVGhcAXGHtJDP81YpealZwUXL-fdq9HqgbyFwztzWLb6l568luwrNZjRxOREGBi6dbios2Hbpa9ZNDI-3lr7nMDD-dqQfMIMA_RzPD5Eh8Q134ppChu9KYJ36zlfzzLALR-E6h_wEzPQoTsQhBUw6DLXEQJER-XqzQ",
+        "width": 3366
+      }
+    ],
+    "place_id": "ChIJ5U9t-s2KK4gRQvu_Hz4EJ6M",
+    "plus_code": {
+      "compound_code": "CH92+CW Kitchener, ON, Canada",
+      "global_code": "86MXCH92+CW"
+    },
+    "rating": 4.1,
+    "reference": "ChIJ5U9t-s2KK4gRQvu_Hz4EJ6M",
+    "scope": "GOOGLE",
+    "types": [
+      "shoe_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 198,
+    "vicinity": "589 Fairway Road South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4598069,
+        "lng": -80.51869959999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4612050802915,
+          "lng": -80.5172960697085
+        },
+        "southwest": {
+          "lat": 43.4585071197085,
+          "lng": -80.51999403029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Mark Nunes",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101038344528051208666\">Jeff Mulder</a>"
+        ],
+        "photo_reference": "AeeoHcI3sD2_Zn5caGPMghNBqneQVXxzVkjCRajlT0RhSZzLsxrsFpo73nTrW-2_r6rfAC0q4PPGYau-3a6Q3Lx8HMHGwpo7JllsqiJDNM-rmlir_q_R4VHBAuPfRHk38eywFtPMLaTbX-W5rIoNnnGWIUtvDhl9qTXm2dgTvDGLNezWRy2Ocnby5jhkG-eNI5ILc4iTQoprsxJBj9fF37yhI1sFZWAoEmM8us_EqO5_uUcRzjtj8316tGUXriUmTn_G3AUNXOYqCRNnPIq6_ukZRyyl1kqn-LD32-10BNmJ8Z_xW7FfpMA3D5CLtTYxEIXsKKKi_hiMi3NYoLqGZCp0__YGMesxjqVyR-yXrHE95IKKr8mMgtG13CMby4a3LVjSSeyCO5W6klnT0yQwL4dkgDWXFW6qoqbrBUYVQtbXMC2sXnBiBpAfNO8kxRdE8n8QWq6C0OGdSq7fa0KNKNiT41L9f_j_ljN9zQdrT5J8wSNLeSNZ-vYNX4Sgx11G_xShVY13UDozZE6HQ-kxkUFV6oXRgPsP5F37umu6fcs6y297RUja9lR7lIMjQ3gdhpSf4o7ikUMayo8fX7yn2VuiWRM7zcEeFebYrs5boZOTHSO9h-XGq4mx2NolvxY7a7Oino1Xaw",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ14K8Ymz0K4gRMDHN0fTjFyo",
+    "plus_code": {
+      "compound_code": "FF5J+WG Waterloo, ON, Canada",
+      "global_code": "86MXFF5J+WG"
+    },
+    "rating": 4.4,
+    "reference": "ChIJ14K8Ymz0K4gRMDHN0fTjFyo",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "shoe_store",
+      "laundry",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 49,
+    "vicinity": "191 King Street South Unit 107, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46406630000001,
+        "lng": -80.4660901
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46536963029151,
+          "lng": -80.46471441970849
+        },
+        "southwest": {
+          "lat": 43.46267166970851,
+          "lng": -80.46741238029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "BioPed Footcare & Orthotics",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2336,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116167721080154265294\">BioPed Footcare &amp; Orthotics</a>"
+        ],
+        "photo_reference": "AeeoHcIM0aYD5ZHEn4UDXJByZXuywFcxiuvKjn-mBHZpxbXXl_HOxC5JMff0JAaAsA0Exbiz5Ij2aSTFdLgzS2d4Xe7Z9ZxqjuGJX3nO0CTh_umExS0ugCEnqVtDtFoLUvHByPAe4Jn3m0_te5Nwn5zo9vsydvqC97k_Pm3rRtwYtIBK7oybD9mTXRhG25jT-qIarLe1sr1_qNXzmzkkuQKewcJTSVB2Snev2xrtj5X5OX0AsHHx3VSd4RLKGlB_hny8slr19K2Ey3Mmnp6hDcym9k9PzXhADcZBc2lnagxsV9W4KZ0SLBu4zihIJTlZO3ydM6AJUsE2p68",
+        "width": 2625
+      }
+    ],
+    "place_id": "ChIJy1ouSq_0K4gRH3V5YGWbFPo",
+    "plus_code": {
+      "compound_code": "FG7M+JH Kitchener, ON, Canada",
+      "global_code": "86MXFG7M+JH"
+    },
+    "rating": 4.5,
+    "reference": "ChIJy1ouSq_0K4gRH3V5YGWbFPo",
+    "scope": "GOOGLE",
+    "types": [
+      "shoe_store",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 31,
+    "vicinity": "12, 842 Victoria Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4247757,
+        "lng": -80.4385449
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4261949302915,
+          "lng": -80.43699946970848
+        },
+        "southwest": {
+          "lat": 43.42349696970851,
+          "lng": -80.4396974302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "SoftMoc",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102856146073535748525\">SoftMoc</a>"
+        ],
+        "photo_reference": "AeeoHcK8zEd0MoaVTKpQxWhx6icDFvFRBVBNH-qWBnO38yvzYp6iApuMW3P54gCJUQJd66peIUj5NvezFpij1hDcOJJuwY8xgZMuj4dTJHQ2COAgo0b0wvEnnXezj9bsHE5hmBSQl03BN7vyXeshsGcrSRriUGyPjR3JXrOj3vStHxvKWnpVsl6RsXthtWbj7utlPUqd1ijU5rLmZ00XveO4-dvtRxW5xOnrBJaYQP_xKC0XK_0kHiBrTEYcpnvZn19IBtd4wtBG9YSr7YvZKGxt9noFlqzG1kHAfROnMSeDn4uQNsedD2nyfOErN5xkzWGVd40vX6i2V8g",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJq6qqWtmKK4gRaVIpkrraCDo",
+    "plus_code": {
+      "compound_code": "CHF6+WH Kitchener, ON, Canada",
+      "global_code": "86MXCHF6+WH"
+    },
+    "rating": 4,
+    "reference": "ChIJq6qqWtmKK4gRaVIpkrraCDo",
+    "scope": "GOOGLE",
+    "types": [
+      "shoe_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 120,
+    "vicinity": "Fairview Park Mall, 2960 Kingsway Drive Unit E001A, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.42454699999999,
+        "lng": -80.43822999999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.42564153029149,
+          "lng": -80.4365704697085
+        },
+        "southwest": {
+          "lat": 43.42294356970849,
+          "lng": -80.4392684302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Foot Locker",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 768,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118141292848437638476\">Marta Borowska</a>"
+        ],
+        "photo_reference": "AeeoHcJbqBhzWszRN9-RwCU-Rv-66c2dmBFWUTpaK98mn2hAdPgOxhSWAzhliDeRPEWGWkYnIk4xUTnzRSIL7cDRgGgbfQX4pfOqjpSiuHNDuyzmdj-8bamKC2NcoZdifvhVTAjxSrv_ik8yHdcdXo0EWVCk92WPTz5QH1zEloCceD65GwCTFF3yt7jy4oS0Wo9FzI66iXM33z8h_szos4hFVcmxdnRAux-B1hVMIDNjc_dyl3LHJrvRRPfxlveSp02-c0RLZi8X2Jnzm0WpmJFiu4Gw44wojYk291vYc_Oe13SfzgsP4_EZ25SOTthTvB-vp-bLpUAlSXTGaXfnSIr5f8lXupreUydpIJ7952X1wkO4wTw939CivQaPfKlWaapd_5SMup-GFY9BTvyT9IZuhKmP82Bxs8NbS0J469bLHLRZicKqSXXixlag2bKNoaGSHo8UI8XP2tVnerxwn2TIMmV-PSvjHPLFceEy_htChHeqLgR6Cl5eKwgyiff0WRMy5n-4weA85LaVD091ehKkzldG_HDPXRdVXDoH42v3ZO7wRg1mlCCUR7o0ahyrp2oXYjZPZyzsVWn6C_qeV1mHQ-ENmKVbWNrSv5fFUj1ywGk8lGg-XRhnBInooHXfctvR",
+        "width": 1024
+      }
+    ],
+    "place_id": "ChIJTS6cNNmKK4gRLKm41Fwxiho",
+    "plus_code": {
+      "compound_code": "CHF6+RP Kitchener, ON, Canada",
+      "global_code": "86MXCHF6+RP"
+    },
+    "price_level": 2,
+    "rating": 3.7,
+    "reference": "ChIJTS6cNNmKK4gRLKm41Fwxiho",
+    "scope": "GOOGLE",
+    "types": [
+      "shoe_store",
+      "clothing_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 276,
+    "vicinity": "Space E6a, 2960 Kingsway Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5081413,
+        "lng": -80.5544353
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5098825802915,
+          "lng": -80.5532381197085
+        },
+        "southwest": {
+          "lat": 43.5071846197085,
+          "lng": -80.5559360802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Tootsies Shoe Market",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101419977545515094252\">James Milks</a>"
+        ],
+        "photo_reference": "AeeoHcJbct04gYxJi7uuATfCr1aqybaf3a4Iw-v8o26zG3hT98Z51AZ58cwZeB0QeftGMaaMHxaYlVRYouoS2IbGL4Ur-pNW6KUgXlogiFVqQEBVJdrpwEeYII687gbAZJITOK43U5NJ5SvA0dDfnYzE1A5l9xBZ4LBJeaLjGV-xQaLYj0MpWIwb91IUSQPIdgx1sl6dDJXAOPA3eVFp2-Ix3x4nh0cDW0nNn75iUuBmpVs4zKnnNw1i3vHB-VevQ3rRsC05ElF8yUfnc0I8EKGJ5rn5v9wFxWY5wmcnUH_MeFY9IrdL7iFZS_7SbFvZ7Xs1c99qw73o4pAG9Z4djApT2HdfkFuSbM4-zPJkZw-lcFMItktVoUsMQK8ozRH-_hQXD6QCRNF-9XZhcCBTUDlhVGkBlL9aukh4hf0lxUszb6ALhymSsHeF6tPl_zF9uV4Zorz9xqKUPO-LgOT_59_WB7xhnnpUIQTesAkhcAJ83T1K1AvJQDRIG0SuEVyYnUgeMoTIHrx2LC4ivCNen2w84EwQSf_3yDIAivUh7IQVKaAgl_J3FN2Q-MYMuacIPByASqlhlt6Z9ijiYH4MhC1_yBQtxjKKs_PJh766C_5xdsgwYzrTqZ6XUuA7VOrufSgzaYR_3g",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJVXg-D3rxK4gROw8mWFgZjaI",
+    "plus_code": {
+      "compound_code": "GC5W+76 Waterloo, ON, Canada",
+      "global_code": "86MXGC5W+76"
+    },
+    "rating": 3.9,
+    "reference": "ChIJVXg-D3rxK4gROw8mWFgZjaI",
+    "scope": "GOOGLE",
+    "types": [
+      "shoe_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 132,
+    "vicinity": "25 Benjamin Road #15, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4631605,
+        "lng": -80.52332059999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4644369802915,
+          "lng": -80.5220049197085
+        },
+        "southwest": {
+          "lat": 43.4617390197085,
+          "lng": -80.5247028802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Alexandria's",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101038344528051208666\">Jeff Mulder</a>"
+        ],
+        "photo_reference": "AeeoHcIDXaMKBsUpMX08MjULXU8cJN0ek8B6uXVHDhQyP0--P-Yy7v-ohpF3pxOw5oAgVroy8K1Kyk633taxtESgKJWgXXiPcnROOA-Gs5XdKGLMGLfvgVq_WrmcO1EqKYaBKQtms7y5RURP1Dp7DFP6jDfuUja4WbXDT4B6ZQ3VlBa0fT2VfWRL1JSBbuuD0qaDPJjplxoo7VazV8itGifRptG6ZoA3siD8Hehtnj9GbGSbTumFzU_Mfq-49vfBwUG3ZyWC3rkC6ELql-auEHOG-uTAN1-bvByummq8NWSdeL0doMBobAHtR6sjN3UsdaSvHu1Zrgm7N3zuwa4vRK4CimtZMQsxSMD5KauB98NSl3vadziW5nRi43T2m2u1WY0rlrW3FWeC59YydH1mp_UQbJvJ_dHrZM7_U0j1lZFePBFLLwSMpolhjfdIn_8KYyPRyyRvCCBKlSJ8Gwq6r88wgGw-qlJUqrN9V9QlKRC1mY2jkxXItSX6LMrtJc0GXhptaM3qOJ1sRgjXs_BGxnsRPZJALHaK99gHpDBg4fpqPMQjiAtj3NOOxclLaWoSbGrPGks_8IjutBvQQw76i4tN7eWBNTYNDGtlVokCeMUNb8dRZtthZ9j_Yx_nMTrSMq0se4I4qQ",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJuarMkxL0K4gROc9GOLm6U_s",
+    "plus_code": {
+      "compound_code": "FF7G+7M Waterloo, ON, Canada",
+      "global_code": "86MXFF7G+7M"
+    },
+    "rating": 3.9,
+    "reference": "ChIJuarMkxL0K4gROc9GOLm6U_s",
+    "scope": "GOOGLE",
+    "types": [
+      "shoe_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 33,
+    "vicinity": "75 King Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4717838,
+        "lng": -80.51550809999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4730787302915,
+          "lng": -80.51410051970849
+        },
+        "southwest": {
+          "lat": 43.4703807697085,
+          "lng": -80.51679848029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Birken Stock",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJQV-h8Ar0K4gRUS-YcomzTDk",
+    "plus_code": {
+      "compound_code": "FFCM+PQ Waterloo, ON, Canada",
+      "global_code": "86MXFFCM+PQ"
+    },
+    "reference": "ChIJQV-h8Ar0K4gRUS-YcomzTDk",
+    "scope": "GOOGLE",
+    "types": [
+      "shoe_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "vicinity": "170 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4855612,
+        "lng": -80.5263861
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4868747802915,
+          "lng": -80.5249938697085
+        },
+        "southwest": {
+          "lat": 43.4841768197085,
+          "lng": -80.5276918302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Goodwill Community Store",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104188599540043908898\">Abhinav</a>"
+        ],
+        "photo_reference": "AeeoHcKrqOkOsnqzwj9DuvHmfMSUZXe2AGQG_N2ORU0ij0lzvHowf-YxKwU8UoQ8LnnuvNKxQtrmW7pk4DI2u_9z02H89RBj3biOqac2tr88MyR-BPny1Q2n4UVQ-KhqxkvSf7IwIUnppHjgmmHv6ioER_0HradQq6n5VOVHGyv6VhhAKsiCU6B--K8X7jaxmcGpZtpagfF1vK7QzAPNwZQBjocbJ41VvPcazMoF8gx9WJGETU5BdqZuK1OO4PFtYdb-rXb8a8IWKu5xSyvGhjYmwA8Jeg_0_0G1QCJsqu8vC0vIeUiReYLEvuZ6hQNUMhXchqallu3YGdUPut8y_d8GrOxnKgdVHuRgqyc8rKgapC4T0GmKwhrVazzDeqOBO07VxGGs85FYUP2kUgIUd2hZdU3z3d4Xwf1qVj_r_5-N9cwZ-eNnzzoU8sHqyKe1ZVLf_Hp6dY-os5TO54R7eI_oJDXI3kmbsb4lFgyc2s877rnPifI6-FeLjrmM3x4DhlTEb4rTMAGNMX5le7aPfsIfXDUVuap9nEbzCfbg1cKfRaW3d-ExSEce1V50U-oYHgM-Tmm5EL2zVOn2ULwtR2Zi7lIYqoSv_HqlMl1sriW6fRgn4ZIzbAyEaxuQe2pfNM0TAkQqr8nq",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJr4Xr0avzK4gR1jT-j7cjjsc",
+    "plus_code": {
+      "compound_code": "FFPF+6C Waterloo, ON, Canada",
+      "global_code": "86MXFFPF+6C"
+    },
+    "rating": 3.7,
+    "reference": "ChIJr4Xr0avzK4gR1jT-j7cjjsc",
+    "scope": "GOOGLE",
+    "types": [
+      "book_store",
+      "shoe_store",
+      "clothing_store",
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 85,
+    "vicinity": "428 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4542426,
+        "lng": -80.4925004
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4555374802915,
+          "lng": -80.4912009697085
+        },
+        "southwest": {
+          "lat": 43.4528395197085,
+          "lng": -80.49389893029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Shoecrafters",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113101464112531814593\">Mario Cordoba</a>"
+        ],
+        "photo_reference": "AeeoHcJplas-9WNUIvMKvH_hUzvyAElMVQD7orPR4CDm9CxR5-lb6Asu_Ri7rvCaWdrnjkoDkQlfnIns4zOtFm0fzTY6THeJqVqT9tFlAJfBcO-WmABCl5l59squcf1J39Uuw5DcOzNO0NJCcE14B0sdS-nmHPQp3wiWAha0CQbZ2ZFeBO6gYKvxQ7fo_1hMQEQoozFMMQ2I3Ij9tC8d-dvk4CpUjQfse5oYOsVcMQObPoFmuyXQM0wG59WGOP6KVRjkd5a6DC_RSXBcsxF1I3peEK0KvsDK1gAq9ddzu-vhBlrWvGI0KtW_vr8pBDKRQe7tw2nnqp_RX53Cgl5L9ogD04FO-vWFF5mwGN6MTF54NJI8ufNjUChv10RNkBOdb3JnW5tutlhQNOxfovADeHSnhPjDKDLQDbEoLIgBQ_jUCK1W57Kaic_UCZ1Ht26rfb-yKg5uATk1QJoC1Dew2Ho0hcAXMixN2Pt7Wd4fRo9RoVdjKOWc4pb0GV_Dn_xmlo7xDWKcrr8c2Cj_S85Izt2KdxxbeqyEn9mY_7N0Yuj-0O_ljCedamSMMl0TEiCxYybrB4jxZvJ4uHBc2UiMpNixFGktn6CQauz-F3Mmyh8KxGorI8sII1pQjv65jOFe4TTVdaVgJw",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJldqu8oz0K4gRo83GZ73RBT4",
+    "plus_code": {
+      "compound_code": "FG34+MX Kitchener, ON, Canada",
+      "global_code": "86MXFG34+MX"
+    },
+    "rating": 4.3,
+    "reference": "ChIJldqu8oz0K4gRo83GZ73RBT4",
+    "scope": "GOOGLE",
+    "types": [
+      "shoe_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 11,
+    "vicinity": "94 Weber Street West, Kitchener"
+  }
+]

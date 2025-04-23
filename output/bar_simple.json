@@ -1,0 +1,957 @@
+[
+  {
+    "name": "Boston Pizza",
+    "coordinates": {
+      "lat": 43.50283049999999,
+      "lng": -80.53540029999999
+    },
+    "longitude": -80.53540029999999,
+    "latitude": 43.50283049999999,
+    "types": [
+      "bar",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ]
+  },
+  {
+    "name": "The Bauer Kitchen",
+    "coordinates": {
+      "lat": 43.4598078,
+      "lng": -80.519053
+    },
+    "longitude": -80.519053,
+    "latitude": 43.4598078,
+    "types": [
+      "restaurant",
+      "bar",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Wildcraft Grill + Long Bar",
+    "coordinates": {
+      "lat": 43.4867761,
+      "lng": -80.527609
+    },
+    "longitude": -80.527609,
+    "latitude": 43.4867761,
+    "types": [
+      "bar",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Huether Hotel",
+    "coordinates": {
+      "lat": 43.4669868,
+      "lng": -80.5230936
+    },
+    "longitude": -80.5230936,
+    "latitude": 43.4669868,
+    "types": [
+      "restaurant",
+      "cafe",
+      "night_club",
+      "bar",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Bobby O'Brien's",
+    "coordinates": {
+      "lat": 43.4505233,
+      "lng": -80.49166129999999
+    },
+    "longitude": -80.49166129999999,
+    "latitude": 43.4505233,
+    "types": [
+      "restaurant",
+      "bar",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ]
+  },
+  {
+    "name": "AMF Frederick Lanes",
+    "coordinates": {
+      "lat": 43.4559333,
+      "lng": -80.472717
+    },
+    "longitude": -80.472717,
+    "latitude": 43.4559333,
+    "types": [
+      "bowling_alley",
+      "bar",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "The Chill",
+    "coordinates": {
+      "lat": 43.49516999999999,
+      "lng": -80.50105099999999
+    },
+    "longitude": -80.50105099999999,
+    "latitude": 43.49516999999999,
+    "types": [
+      "bar",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ]
+  },
+  {
+    "name": "The Keg Steakhouse + Bar - Waterloo",
+    "coordinates": {
+      "lat": 43.5031642,
+      "lng": -80.53029649999999
+    },
+    "longitude": -80.53029649999999,
+    "latitude": 43.5031642,
+    "types": [
+      "restaurant",
+      "bar",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Phil's Grandson's Place",
+    "coordinates": {
+      "lat": 43.475238,
+      "lng": -80.524389
+    },
+    "longitude": -80.524389,
+    "latitude": 43.475238,
+    "types": [
+      "night_club",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Morty's Pub",
+    "coordinates": {
+      "lat": 43.4777323,
+      "lng": -80.5250425
+    },
+    "longitude": -80.5250425,
+    "latitude": 43.4777323,
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Wax Nightclub",
+    "coordinates": {
+      "lat": 43.4503865,
+      "lng": -80.49173019999999
+    },
+    "longitude": -80.49173019999999,
+    "latitude": 43.4503865,
+    "types": [
+      "night_club",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Beertown Public House Waterloo",
+    "coordinates": {
+      "lat": 43.4639678,
+      "lng": -80.5227484
+    },
+    "longitude": -80.5227484,
+    "latitude": 43.4639678,
+    "types": [
+      "restaurant",
+      "bar",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Elements",
+    "coordinates": {
+      "lat": 43.4505734,
+      "lng": -80.49071409999999
+    },
+    "longitude": -80.49071409999999,
+    "latitude": 43.4505734,
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Jane Bond",
+    "coordinates": {
+      "lat": 43.4666337,
+      "lng": -80.52333279999999
+    },
+    "longitude": -80.52333279999999,
+    "latitude": 43.4666337,
+    "types": [
+      "bar",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Moxies Kitchener Restaurant",
+    "coordinates": {
+      "lat": 43.420655,
+      "lng": -80.442247
+    },
+    "longitude": -80.442247,
+    "latitude": 43.420655,
+    "types": [
+      "restaurant",
+      "night_club",
+      "meal_takeaway",
+      "bar",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ]
+  },
+  {
+    "name": "The Duke of Wellington",
+    "coordinates": {
+      "lat": 43.4629564,
+      "lng": -80.52150979999999
+    },
+    "longitude": -80.52150979999999,
+    "latitude": 43.4629564,
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Ethel's Lounge",
+    "coordinates": {
+      "lat": 43.46917769999999,
+      "lng": -80.52327939999999
+    },
+    "longitude": -80.52327939999999,
+    "latitude": 43.46917769999999,
+    "types": [
+      "bar",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ]
+  },
+  {
+    "name": "McMullan's",
+    "coordinates": {
+      "lat": 43.4408834,
+      "lng": -80.5057427
+    },
+    "longitude": -80.5057427,
+    "latitude": 43.4408834,
+    "types": [
+      "bar",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Cafe Europe",
+    "coordinates": {
+      "lat": 43.4486822,
+      "lng": -80.49005059999999
+    },
+    "longitude": -80.49005059999999,
+    "latitude": 43.4486822,
+    "types": [
+      "cafe",
+      "bar",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ]
+  },
+  {
+    "name": "McCabe's Irish Pub & Grill",
+    "coordinates": {
+      "lat": 43.4642541,
+      "lng": -80.5219233
+    },
+    "longitude": -80.5219233,
+    "latitude": 43.4642541,
+    "types": [
+      "bar",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Proof Kitchen + Lounge",
+    "coordinates": {
+      "lat": 43.4632431,
+      "lng": -80.5284248
+    },
+    "longitude": -80.5284248,
+    "latitude": 43.4632431,
+    "types": [
+      "restaurant",
+      "bar",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Arabella Park Beer Bar",
+    "coordinates": {
+      "lat": 43.4545948,
+      "lng": -80.51823759999999
+    },
+    "longitude": -80.51823759999999,
+    "latitude": 43.4545948,
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Wilf's",
+    "coordinates": {
+      "lat": 43.4735172,
+      "lng": -80.5287853
+    },
+    "longitude": -80.5287853,
+    "latitude": 43.4735172,
+    "types": [
+      "restaurant",
+      "bar",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "The Break Room",
+    "coordinates": {
+      "lat": 43.4758366,
+      "lng": -80.5167606
+    },
+    "longitude": -80.5167606,
+    "latitude": 43.4758366,
+    "types": [
+      "bar",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "POETS",
+    "coordinates": {
+      "lat": 43.4706934,
+      "lng": -80.53924909999999
+    },
+    "longitude": -80.53924909999999,
+    "latitude": 43.4706934,
+    "types": [
+      "night_club",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Bad Axe Throwing Waterloo",
+    "coordinates": {
+      "lat": 43.48096090000001,
+      "lng": -80.5232039
+    },
+    "longitude": -80.5232039,
+    "latitude": 43.48096090000001,
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "SBSA",
+    "coordinates": {
+      "lat": 43.47121859999999,
+      "lng": -80.5427429
+    },
+    "longitude": -80.5427429,
+    "latitude": 43.47121859999999,
+    "types": [
+      "night_club",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Comfy Lounge",
+    "coordinates": {
+      "lat": 43.47179819999999,
+      "lng": -80.5438393
+    },
+    "longitude": -80.5438393,
+    "latitude": 43.47179819999999,
+    "types": [
+      "night_club",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "ABE ERB - Downtown Kitchener",
+    "coordinates": {
+      "lat": 43.45139609999999,
+      "lng": -80.4989851
+    },
+    "longitude": -80.4989851,
+    "latitude": 43.45139609999999,
+    "types": [
+      "restaurant",
+      "liquor_store",
+      "bar",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Dallas Night Club",
+    "coordinates": {
+      "lat": 43.4520011,
+      "lng": -80.4950246
+    },
+    "longitude": -80.4950246,
+    "latitude": 43.4520011,
+    "types": [
+      "night_club",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "The Adventurers Guild Board & Video Game Café",
+    "coordinates": {
+      "lat": 43.45086750000001,
+      "lng": -80.4901527
+    },
+    "longitude": -80.4901527,
+    "latitude": 43.45086750000001,
+    "types": [
+      "cafe",
+      "bar",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "TWH Social",
+    "coordinates": {
+      "lat": 43.45032029999999,
+      "lng": -80.4904097
+    },
+    "longitude": -80.4904097,
+    "latitude": 43.45032029999999,
+    "types": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Crabby Joe's Bar • Grill",
+    "coordinates": {
+      "lat": 43.4495391,
+      "lng": -80.4878
+    },
+    "longitude": -80.4878,
+    "latitude": 43.4495391,
+    "types": [
+      "restaurant",
+      "bar",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "StrykerZ Kitchen and Bar",
+    "coordinates": {
+      "lat": 43.444016,
+      "lng": -80.46848
+    },
+    "longitude": -80.46848,
+    "latitude": 43.444016,
+    "types": [
+      "restaurant",
+      "bar",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Watami Sushi",
+    "coordinates": {
+      "lat": 43.4655768,
+      "lng": -80.5223159
+    },
+    "longitude": -80.5223159,
+    "latitude": 43.4655768,
+    "types": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Kelseys Original Roadhouse",
+    "coordinates": {
+      "lat": 43.4143411,
+      "lng": -80.51469390000001
+    },
+    "longitude": -80.51469390000001,
+    "latitude": 43.4143411,
+    "types": [
+      "restaurant",
+      "bar",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Boston Pizza",
+    "coordinates": {
+      "lat": 43.47235269999999,
+      "lng": -80.45094089999999
+    },
+    "longitude": -80.45094089999999,
+    "latitude": 43.47235269999999,
+    "types": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Players Indoor Golf & Sports Bar",
+    "coordinates": {
+      "lat": 43.469626,
+      "lng": -80.445424
+    },
+    "longitude": -80.445424,
+    "latitude": 43.469626,
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Chicago Pub & Billiards",
+    "coordinates": {
+      "lat": 43.4238972,
+      "lng": -80.4840929
+    },
+    "longitude": -80.4840929,
+    "latitude": 43.4238972,
+    "types": [
+      "atm",
+      "finance",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Molly Bloom's Irish Pub",
+    "coordinates": {
+      "lat": 43.4730278,
+      "lng": -80.5373302
+    },
+    "longitude": -80.5373302,
+    "latitude": 43.4730278,
+    "types": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Casey's Grill Bar",
+    "coordinates": {
+      "lat": 43.4668036,
+      "lng": -80.4571718
+    },
+    "longitude": -80.4571718,
+    "latitude": 43.4668036,
+    "types": [
+      "bar",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "PUBLIC Kitchen & Bar",
+    "coordinates": {
+      "lat": 43.458591,
+      "lng": -80.48410799999999
+    },
+    "longitude": -80.48410799999999,
+    "latitude": 43.458591,
+    "types": [
+      "restaurant",
+      "bar",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "St. Louis Bar & Grill",
+    "coordinates": {
+      "lat": 43.5125717,
+      "lng": -80.52010369999999
+    },
+    "longitude": -80.52010369999999,
+    "latitude": 43.5125717,
+    "types": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Jack Astor's Bar & Grill Kitchener",
+    "coordinates": {
+      "lat": 43.4236408,
+      "lng": -80.43894540000001
+    },
+    "longitude": -80.43894540000001,
+    "latitude": 43.4236408,
+    "types": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Crabby Joe's Bar • Grill",
+    "coordinates": {
+      "lat": 43.4774639,
+      "lng": -80.5204583
+    },
+    "longitude": -80.5204583,
+    "latitude": 43.4774639,
+    "types": [
+      "restaurant",
+      "bar",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Kelseys Original Roadhouse",
+    "coordinates": {
+      "lat": 43.5002736,
+      "lng": -80.5309386
+    },
+    "longitude": -80.5309386,
+    "latitude": 43.5002736,
+    "types": [
+      "restaurant",
+      "bar",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Whale & Ale British Pub",
+    "coordinates": {
+      "lat": 43.46675459999999,
+      "lng": -80.45855879999999
+    },
+    "longitude": -80.45855879999999,
+    "latitude": 43.46675459999999,
+    "types": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "The Jazz Room",
+    "coordinates": {
+      "lat": 43.4669479,
+      "lng": -80.5230548
+    },
+    "longitude": -80.5230548,
+    "latitude": 43.4669479,
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Howl At The Moon",
+    "coordinates": {
+      "lat": 43.4685304,
+      "lng": -80.44954059999999
+    },
+    "longitude": -80.44954059999999,
+    "latitude": 43.4685304,
+    "types": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "The Yeti Cafe",
+    "coordinates": {
+      "lat": 43.4482656,
+      "lng": -80.4843046
+    },
+    "longitude": -80.4843046,
+    "latitude": 43.4482656,
+    "types": [
+      "cafe",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Thirsty's Bar & Grill",
+    "coordinates": {
+      "lat": 43.4847907,
+      "lng": -80.5410386
+    },
+    "longitude": -80.5410386,
+    "latitude": 43.4847907,
+    "types": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "The Bent Elbow",
+    "coordinates": {
+      "lat": 43.43032459999999,
+      "lng": -80.43655509999999
+    },
+    "longitude": -80.43655509999999,
+    "latitude": 43.43032459999999,
+    "types": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Bodega Rose",
+    "coordinates": {
+      "lat": 43.46511899999999,
+      "lng": -80.52138529999999
+    },
+    "longitude": -80.52138529999999,
+    "latitude": 43.46511899999999,
+    "types": [
+      "bakery",
+      "cafe",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "ABE ERB - Uptown Waterloo",
+    "coordinates": {
+      "lat": 43.4645841,
+      "lng": -80.52236359999999
+    },
+    "longitude": -80.52236359999999,
+    "latitude": 43.4645841,
+    "types": [
+      "restaurant",
+      "liquor_store",
+      "bar",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Piper Arms Waterloo",
+    "coordinates": {
+      "lat": 43.46351260000001,
+      "lng": -80.5226309
+    },
+    "longitude": -80.5226309,
+    "latitude": 43.46351260000001,
+    "types": [
+      "restaurant",
+      "bar",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "July Nail Bar",
+    "coordinates": {
+      "lat": 43.4626131,
+      "lng": -80.5214304
+    },
+    "longitude": -80.5214304,
+    "latitude": 43.4626131,
+    "types": [
+      "beauty_salon",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Streetlights (The Miami Crowbar)",
+    "coordinates": {
+      "lat": 43.4658779,
+      "lng": -80.522168
+    },
+    "longitude": -80.522168,
+    "latitude": 43.4658779,
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "The Uptown Zoo",
+    "coordinates": {
+      "lat": 43.4669979,
+      "lng": -80.5223347
+    },
+    "longitude": -80.5223347,
+    "latitude": 43.4669979,
+    "types": [
+      "night_club",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "The Lion Brewery Restaurant",
+    "coordinates": {
+      "lat": 43.4670025,
+      "lng": -80.5232182
+    },
+    "longitude": -80.5232182,
+    "latitude": 43.4670025,
+    "types": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Loloan Lobby Bar",
+    "coordinates": {
+      "lat": 43.4668099,
+      "lng": -80.5237795
+    },
+    "longitude": -80.5237795,
+    "latitude": 43.4668099,
+    "types": [
+      "restaurant",
+      "bar",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ]
+  }
+]

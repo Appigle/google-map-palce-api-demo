@@ -1,0 +1,2964 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5165302,
+        "lng": -80.5683999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5177073802915,
+          "lng": -80.56729136970849
+        },
+        "southwest": {
+          "lat": 43.51500941970851,
+          "lng": -80.5699893302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "Trinity Bible Chapel",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 898,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103484728778230285754\">Trinity Bible Chapel</a>"
+        ],
+        "photo_reference": "AeeoHcLjFdBVODwwafVbpW4D47AmwHuvGmGLQS7Zr9K5eWbFeNgg8vHN9Fqp98dy9wqPfZWBuEpt4VbNY0g76YOjv6eKtQ0mq8EVMCMUvYlx7CPY_nFgZuTFn3D86MCV4UVpvUKZd66Po45YoqHR1DSmnRbY5xRg7sOI7yMSZbs3cbSr9zWiejhesjSvVGcBCkbHHt_Es-tFMjOQcYrZ7w70XmKcqLXQ9nknKvCjHNXNot9LCU8ofTuyBrAQi0jZG8sd6txNQvun05tDONcCrsJg4cTEBpfg83IqLeCR_mu9XoGCAwDye92gR4kUJBrFYXPNXOD6WHZOpjA",
+        "width": 1600
+      }
+    ],
+    "place_id": "ChIJqUpytv-IK4gRqC727nnshPs",
+    "plus_code": {
+      "compound_code": "GC8J+JJ Waterloo, ON, Canada",
+      "global_code": "86MXGC8J+JJ"
+    },
+    "rating": 3.8,
+    "reference": "ChIJqUpytv-IK4gRqC727nnshPs",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 283,
+    "vicinity": "1373 Lobsinger Line, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.484052,
+        "lng": -80.527084
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.48518088029149,
+          "lng": -80.52546466970848
+        },
+        "southwest": {
+          "lat": 43.48248291970849,
+          "lng": -80.5281626302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "Waterloo Pentecostal Assembly",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 795,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112064121185152246911\">Waterloo Pentecostal Assembly</a>"
+        ],
+        "photo_reference": "AeeoHcL56TcxbJ2gUGe8GN0hF9jnjNg63vC91--WaI9GXFvUbSArKUY400rSvUkGBHug8v-P7a4ySAbslqi_CcHY1vPqRPkOuDk5kxUbdEkRIg88IsKtmu7I_qc_indedbQ20QOm8PZTqC5DS6StO5eOFj7nWDrQszKhsbUtElzOoHL9bGr55eqarl_YezkS1l8IeCBjoZPfmnj3vm7b0dKXx1WSquf_T7OA9jrzFDfSpVN-NbySIL67dSHgU-8k1Qj6_TIIRA9S4O48dkf1GAXOo1kIQMkvV0SwtTQ6nfP3iRJ0xqLiSdMxdHK7u0qL6f1vDcgezHNQtIM",
+        "width": 1200
+      }
+    ],
+    "place_id": "ChIJxQZ5B_LzK4gRBiSPwYtmryA",
+    "plus_code": {
+      "compound_code": "FFMF+J5 Waterloo, ON, Canada",
+      "global_code": "86MXFFMF+J5"
+    },
+    "rating": 4.8,
+    "reference": "ChIJxQZ5B_LzK4gRBiSPwYtmryA",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 129,
+    "vicinity": "395 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4756505,
+        "lng": -80.5012343
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4769463302915,
+          "lng": -80.49986741970848
+        },
+        "southwest": {
+          "lat": 43.4742483697085,
+          "lng": -80.50256538029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "St Agnes Catholic Church",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3968,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108177746140256149296\">Alex Cermeno</a>"
+        ],
+        "photo_reference": "AeeoHcIlenEx3Wf7qP_V9o9s4ul821pYGJ3IE3W0vOZ4gcHPmAdhT7ABEijzvetsTpe9LK8hOjsK5UsOj5nuGYFJ9Yb19tmmSSNDDWdRq6aCntGmqzXn4Xq5Hn7bqAZqvMqu9ycxwbgWn8P8gcabsR5Rii_hCzvXDngyTwQQ05OYn0o5fNEmVts3nwSfMSLHeBIG3boyTg3pPE7i1ALlDS-t4g3er1A5R3J5bfAw6F_aIG65FmhZYGspUtEcCRRCJCg-bQbEcpUC5lvNpaoNAy1jX9pN_oB4MF2R8v3dkrIcsZpfwWhUCVfNG_pAxe9f9Pr2-t-a89AuMS8Hg8uwgrlz4WDA02mmyT9pCYsBhUApAUqONW-NpKRsa4IDE98azG6lw3Z7HP_DIWGseAPH2XxwHg3KNTz19ZYXkGv0c3jV_-1lxfgzoeF4Im1zgtkZBBAmDpOLmR5XTKimlwC44Eq0bNTparPkIclhKBwwR6ayyRF0Rzf7LjjHOxRZHJJBDSYCrRouOk7unoJbNXo5bqMdcaT8w80s1M95Q4IEF9Bhc98aAhGSF9ekWurRmEI30GTHOi66KQpf30QviM8pL8HpWZy8jj_zV-YFbNP2OrzbERhIUwHunTfYdinAZpR1gwpfUqS-hw",
+        "width": 2976
+      }
+    ],
+    "place_id": "ChIJAUPA54HzK4gRFZb8MmAEFeY",
+    "plus_code": {
+      "compound_code": "FFGX+7G Waterloo, ON, Canada",
+      "global_code": "86MXFFGX+7G"
+    },
+    "rating": 4.6,
+    "reference": "ChIJAUPA54HzK4gRFZb8MmAEFeY",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 75,
+    "vicinity": "75 Bluevale Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4300096,
+        "lng": -80.5092277
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.43138313029151,
+          "lng": -80.5080253197085
+        },
+        "southwest": {
+          "lat": 43.42868516970851,
+          "lng": -80.51072328029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "Trinity United Church",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 302,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108471020420519102755\">Trinity United Church</a>"
+        ],
+        "photo_reference": "AeeoHcLKIt8KQZikXFwHaZfvYmsE_d7mFLYssQKWO2nhLRUlIDRLV0YfSwrH7m72vxX30AEfHkdosmPVas7T04kL7n0hbB4YptdYgua94NWMZ7tp3Xi2_NTFNxZ6lk_qkCv3wMqEr3APpy1-WJGDwL6kh2pZReM22gdiBBTMZyxys_8xZx_GXzuHdJjjTswT0Dd7qrLi5ae2M9JWImaZGoo_V9uhoogobeoSUrbo0meXs5XX4v7UAhncxAXuYtNZJNuxsEzw7L30sLpV5HFjpLOG0iXDpC8brltRmFdaxo13WcvI9leozWIKZytUWLLoJK5uTJaCBiI37Xk",
+        "width": 500
+      }
+    ],
+    "place_id": "ChIJyfTgP-30K4gRDDAN1WBi5HA",
+    "plus_code": {
+      "compound_code": "CFJR+28 Kitchener, ON, Canada",
+      "global_code": "86MXCFJR+28"
+    },
+    "rating": 3.4,
+    "reference": "ChIJyfTgP-30K4gRDDAN1WBi5HA",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5,
+    "vicinity": "121 Westmount Road East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4519823,
+        "lng": -80.49034309999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4532184802915,
+          "lng": -80.48895681970849
+        },
+        "southwest": {
+          "lat": 43.4505205197085,
+          "lng": -80.4916547802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "St Mary Our Lady of the Seven Sorrows Roman Catholic Church",
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102802459121140060612\">Laddi sharma</a>"
+        ],
+        "photo_reference": "AeeoHcKnHaCvwItE4ssbl6YOAQOae6mfmY0aoYnxNX6Jlv5QKgDiBRQxDcL9QziLYKtCbSi9qV2zBoSakHtlQs0rZHm23Ygxew-401eablNeRwHt6vIqZ3DHevpYxhbdsC-wmYpK8C9WdsXt5fUF37EdmjtTeEsOUL-7maEfIfgzcszBIJV5otzconJKzY1BpkUO73puhpde5coIM56CVA2r1tdnoBpjKvkCo6lyP5LErZBNBFYHUumu6kEKHyJgERHgHo3v9ekSfwT0bvmU5jM1VJvbw_LPTLZx9fHT-AjopBVhZfuMrYw9FwPZhSRt7WKNzDefgPgWeM6lOCZvMoybylkzU719BZDBO502KGa_co-Kpu96hRFl6vI7IZUHEolSCwpVv1UiUaRsSZdLdCJbF3kMnvKhJdJiCfAlZxhywjMILeGONnGbgrfoO0xXJ5zhGj1OQ7tM4hsYw13M9g5gMy9dEvNK9ffa7qQt3Ak8jHM6ZKWkY-9gEGuprzbojUFFRXlMdaSqy7ELfQo4jRfYiryuPGhWm5CDReELfxy8a8BBrkINpETBZbxUpS8RXoxmMp2u9DG99lLwbwmbd7o8TabJLAZGPtPVb2rPrd2T5hsQtnLoURJA0KJdwyEZiYU-VXyduzoC",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJWYy7K_P0K4gRHXKMgy6Fq9w",
+    "plus_code": {
+      "compound_code": "FG25+QV Kitchener, ON, Canada",
+      "global_code": "86MXFG25+QV"
+    },
+    "rating": 4.8,
+    "reference": "ChIJWYy7K_P0K4gRHXKMgy6Fq9w",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 144,
+    "vicinity": "56 Duke Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45653969999999,
+        "lng": -80.5426691
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45791333029149,
+          "lng": -80.5412826697085
+        },
+        "southwest": {
+          "lat": 43.4552153697085,
+          "lng": -80.5439806302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "First Baptist Church Waterloo",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104705279501432623724\">Christine Braun</a>"
+        ],
+        "photo_reference": "AeeoHcKFUrg8AkHwfTOedurMoyWkPyjgCMORLcqUYhqNtg8H7G0QhBGle6YccXMiosrEItXuOD8yDIr-zgTTfYStplR0MQ_vQVAMPN_wTPusEYK8EnZF5Yc4xwBIYTxXlhx5UNJEUq3vtKoP5JbGqFcDrzq6LxRGENVHw5dZEoOxeBZAQpJURaaECzjTexfMZBhMn2y0mENFKrjgVRpHkL4F6AOKXpEwSYdE1xUiuejZ1WF1CvbdU8gIV3ZsmiZ3kYLmJuqeRRYevMSIxBu-Ki9usyraZZceSNudANe7FrxTrtbjaN56vieYJYSwCoOKmXrqqo-UlxwLZrH9NheGkk0C1WESr6BMxtIj5glSxuenfoRnQ99FhTwB7XQGuiC24DjcphIy64YY_-Sj-qYeJTHPKth7EvIyjhnPbnxzUpT4dW19hcRJXM8XtOMu_JXRNGFBlmGdfBmC7kfjHZWJurtqjNjJXbFovXlUsaWoKgZ2z5smzkWBjp6W7204Xnmq7uMs6J0hFocD9xbi1a0k2dsOvN3EoNIW4d8J2VJMFajbrwGGcMWttq3bjRBWEOaSRDRqcLJwMJtH3P_OrmR7kKQRB7PeiMZVFE4H5cdiobggeO-r-s11UV6L32txJxUB9lc1whXX3QVF",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJAY8nGSD0K4gRbgmtZNUeYc8",
+    "plus_code": {
+      "compound_code": "FF44+JW Waterloo, ON, Canada",
+      "global_code": "86MXFF44+JW"
+    },
+    "rating": 4.7,
+    "reference": "ChIJAY8nGSD0K4gRbgmtZNUeYc8",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 51,
+    "vicinity": "306 Erb Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.49372839999999,
+        "lng": -80.51241689999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.49524173029149,
+          "lng": -80.51078166970849
+        },
+        "southwest": {
+          "lat": 43.49254376970849,
+          "lng": -80.51347963029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "Christ Lutheran Church",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1242,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111945997059265620087\">Jennifer</a>"
+        ],
+        "photo_reference": "AeeoHcKohgC2zkB1E0ajItJV5kOe3l3ZnBYhQJI0t-R7d3uOMKTwDS-jJQ1qhtDrw8eNPU9kkkOZWSgOg81p6Kk6FYy8p7impBqxUAdiCnJdzdWJXb4xZFbhrXynrLOLIalH8okOQ1YX1CfpdDnswIx15xr2x9Ky8ZosiUxSx2SEUayQodsSrnOaL-foa-BKd0j1RvgCLQMpl10cYFvlOLStAUtCXapbfFB86AomFeQKpcNZS9kyV4Q5Ruwg20NdatehFr2WcRNTJoHhXIsn2yeZY5V0W6-UXRO7xrNrj8dSm_S_TvfPSixTyEkxEC4Nfvk_mCwGDJ9pKS36oUZFuxmIUNBzzyt8luJS1XUbKljkYd95HlvuyWsoBS2qQnBcWLtTiOL1YXu7NBR_Xrd7iTiI096XAJxKm3H8g3rpYLSTCpvnyKSLXXSLQCYqBPgiKEJgxkU_DovuZpDlRpNnjPMoZOxLeRiwv0C4gvdYQOIOVlxmiFKsns-Wa8UJPnp9txc71OxH_3jzGImBcBKwhiLsKUTNABsAFMwjjSrwhbcMkZFHs5zGPINNf4YQHproNGBVrYVIBC0vg_8AaTcQWWmR7HRT0cFVLLjPic20Vfwyh7F6JNy4rpiGtrNolHD3P63VnpRR9w",
+        "width": 2208
+      }
+    ],
+    "place_id": "ChIJLb0K_bzzK4gROiNrexGbO5A",
+    "plus_code": {
+      "compound_code": "FFVQ+F2 Waterloo, ON, Canada",
+      "global_code": "86MXFFVQ+F2"
+    },
+    "rating": 4.7,
+    "reference": "ChIJLb0K_bzzK4gROiNrexGbO5A",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 14,
+    "vicinity": "445 Anndale Road, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4549898,
+        "lng": -80.4856398
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4563446302915,
+          "lng": -80.4843062697085
+        },
+        "southwest": {
+          "lat": 43.4536466697085,
+          "lng": -80.48700423029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "Church of the Good Shepherd",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3036,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108724181586263211701\">Randall Culp</a>"
+        ],
+        "photo_reference": "AeeoHcKJ-Vhtr-3ourM0BC0RVqK1y1clvBEHQltC_BYoZ_ewHpJmypauGVUHdzE4GOfFHDxRuYRHTPLzvJqOzl7br1fot76VYgVTVGlUmJOwTnsl0iaA7fVX52XCyuWuCkS9d6_3USJxCcfv-_Fqfg2hHa1kN-JC4th_ow23QCulLP4ACfEEutsC5auTjyQ5-p7MJNd1XIG-BQ4FEhboRcP8Kt2SEqOSS6tLMD-BBedz8ZGKRot31YFUudLaQc983rT4_qn7znYgEesASQ_uYvbv3gkjGiktWEqz4bfy9NYQLDuuoSXSPxfkjvX_n3e1Zz34BQK2DCNyg40AeuonASCumIykXMU-yPTFIpj6EUMpHAT90LnGNV7AqqYD86kN-BE8eMX9Qfa5NMbwwg8hAZuhuri4OSxf7uJJF1S0qtJ-XLM1tvW9NgN-U0W07jIE0QcjTBW9t2ofkV_M-43Ry7TzuGZ_fY4lvNhN76XgIQsyn3Yg8vL1tlEy_nCCdD30wwubpTRwV_DduoB8djYi_OR_kYcW_3wWqgUqhEWbMBk7oMTSEnhtGloajDEIEA0FHXFM-46jiYJEYd3nFfuPqlrnQiBq7v8TCJaca7TDGLBtT9RX4ddfylstCA7qhvgJGQQ-xpU6T2M8",
+        "width": 4048
+      }
+    ],
+    "place_id": "ChIJE_JqrZP0K4gRYLeWtP2etyg",
+    "plus_code": {
+      "compound_code": "FG37+XP Kitchener, ON, Canada",
+      "global_code": "86MXFG37+XP"
+    },
+    "rating": 4.6,
+    "reference": "ChIJE_JqrZP0K4gRYLeWtP2etyg",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 22,
+    "vicinity": "116 Queen Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4576082,
+        "lng": -80.53633599999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4591412302915,
+          "lng": -80.53471061970849
+        },
+        "southwest": {
+          "lat": 43.4564432697085,
+          "lng": -80.5374085802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "Mount Zion Lutheran Church",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105040508883495280620\">Mount Zion Lutheran Church</a>"
+        ],
+        "photo_reference": "AeeoHcL0OirEZ0UjCjINa8Yfk3hkzRmcg6Tau3HKMqk7q5HnYbIq5Hvwlm1Jk6Ur9BRZrkA1-km7IGJWBjjsYbZxiUvVN4alZE8ENxFGRItz4LV6OJJSvOG1cksqp6lokZuTBaQuKyfQ0sj6E70XcYahtC3OCay6VmBEBlAYL5-HGybmNVKWUptWWt9gzjdG8Rix8JfICijTCpUj0t6-jOO4xhxmBLtf_nlU9lFnMOSkEb7M1RL75suwEQpgiftxNi7KEFvtz6cR9WqlgMpSl998inMMgdy3piv9W1_bT4GQa7bhfWdK4a-p16yVkwP0uxUzZb0pUZkaoJ8",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJ2Tkn8Bj0K4gRlCHXmnA1RX8",
+    "plus_code": {
+      "compound_code": "FF57+2F Waterloo, ON, Canada",
+      "global_code": "86MXFF57+2F"
+    },
+    "rating": 4.2,
+    "reference": "ChIJ2Tkn8Bj0K4gRlCHXmnA1RX8",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 24,
+    "vicinity": "29 Westmount Road South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.435929,
+        "lng": -80.48652299999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4373731802915,
+          "lng": -80.4850349197085
+        },
+        "southwest": {
+          "lat": 43.4346752197085,
+          "lng": -80.4877328802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "St. Andrew's Memorial Anglican Church",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101023314672850707947\">St. Andrew&#39;s Memorial Anglican Church</a>"
+        ],
+        "photo_reference": "AeeoHcIVxG3_nqazRM01AWr2zhNci7LhqH20cIaIMbPTMscAhGTaJMmM4m08VuGVwuWnf1xy-MlUTEoqvAmWPBwZWZvE3DKohdTkk-Xj6zs95FOwGaXWCqJz9VKcnuQ8RX42_x5R3cZI1nETPjtYIIbm9wLpzr7ewVO79x8f1UF2xTHcWh_ii_QWZhmToD8lyf7kYDk7HnExkLY5nWZReBq6R2Dir9TAAFZ34jIWegvicm_5tE7usweI_jrBJLbw2EJP2AWV3sJYiORGkwWorxLI5ZHjQDtwp2AhVctUn1BMZ7lnSNFDmgl7aJMIEC-xJnEuSjbuZdzGB0s",
+        "width": 960
+      }
+    ],
+    "place_id": "ChIJR9bkDeP0K4gRD_FMkpUJncI",
+    "plus_code": {
+      "compound_code": "CGP7+99 Kitchener, ON, Canada",
+      "global_code": "86MXCGP7+99"
+    },
+    "rating": 4.7,
+    "reference": "ChIJR9bkDeP0K4gRD_FMkpUJncI",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 15,
+    "vicinity": "275 Mill Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4483147,
+        "lng": -80.56660459999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44971818029151,
+          "lng": -80.56531441970849
+        },
+        "southwest": {
+          "lat": 43.44702021970851,
+          "lng": -80.56801238029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "Kitchener-Waterloo Chinese Alliance Church",
+    "photos": [
+      {
+        "height": 2976,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108202357581266270053\">WEI PEI</a>"
+        ],
+        "photo_reference": "AeeoHcJpEYT8-Xfdc2kObDJ8t8oj0zr2VA23VtzN7epSsOU32V_qqGWjY32e9OPo9HamVGmTABPvcICLMuLsK1uwllIBe0TcIuOhBShhGaycCaDYOKKf8O2hPu-It4c9Ap65pJQZpbRVjUjsPKLdUqoRYW5E_Nwh2YhELJ7Y4DLdkwPyXTZVUZX0ux6Y4uGuS5CIE40ifaEs_RIIG8mzwEYCC3a585zelraVoTIZ0mICS2kbxpz17lzHi6zs0_L4aR5UIGhuxPJOKeyn7TOeICE7U52LEqfITd45HcAoNI3bZHs7hJ6qQER9SjeY_Gv6Z-S5GMb92FeHSHC24JJ0aGfv-h4fAS_rl8OyVR3-MCQgJLXqGVzb8rxJtcAq69yHaWuaTL4PZ1fJUSkJ2KkCtWQw25krCPex3SJO1c8eZKFEa2x81hwY1B_G74-mF-Z2rkSiQVXT5juYDWf9kfY_gELEOdq3OvFkRfI2YWHoyiKkAW3WRP72vdBidi-GDHs7OL8sRQ5l63z7G_7dK3uwxPma6fzd9anQrNx-5LNwgUD1ucmqh2PO6QxYILpBF3ILcdMAx8p1dmirohknoQF2-UhbFx3454AWBnDaaqm77Vm1i_WYjarxANIXl4rag7mUEeQd8I2j_Q",
+        "width": 3968
+      }
+    ],
+    "place_id": "ChIJFe98s_L2K4gRgBEw59T8mHI",
+    "plus_code": {
+      "compound_code": "CCXM+89 Waterloo, ON, Canada",
+      "global_code": "86MXCCXM+89"
+    },
+    "rating": 4.7,
+    "reference": "ChIJFe98s_L2K4gRgBEw59T8mHI",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 22,
+    "vicinity": "612 Erb Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.476278,
+        "lng": -80.52188749999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47787723029149,
+          "lng": -80.52051811970848
+        },
+        "southwest": {
+          "lat": 43.47517926970849,
+          "lng": -80.5232160802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "Slate Church Waterloo",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1152,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109178231850632863009\">Slate Church Waterloo</a>"
+        ],
+        "photo_reference": "AeeoHcJTCVKCTxVNUnk8NLmgxFve8THX_w3LJV0E1h-b65_HYsCJ2qEaAqMZy6o2abniZ4_Rdeu3F8CfApyl2MYQf4LGo6eFoeOl6wvbPQF8n6Wk0zvvETowxxm1zLXquOpjJMheZ-e7houlPEw_WtQrukcGWy8MDAkjLgHZTWjY9d9fMsoJBVqaYxqLhlQ9GtfZsc13njPsIOVevUhQgCKsL82G34yiNy6gHu5SU3fdDr3jLQ3lWL3Hm7_bzPvREAKTxYlxIlOtkkFsj5XkY9tX0Hnh93j3FPZJqJlBe-zPL29duSeiDvOS9RLqUzIUef9jp5KJEcvcXuo",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJCdEn3wz0K4gRMlFMiLZVYaE",
+    "plus_code": {
+      "compound_code": "FFGH+G6 Waterloo, ON, Canada",
+      "global_code": "86MXFFGH+G6"
+    },
+    "rating": 4.7,
+    "reference": "ChIJCdEn3wz0K4gRMlFMiLZVYaE",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 79,
+    "vicinity": "35 University Avenue East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.467703,
+        "lng": -80.5248359
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4691756302915,
+          "lng": -80.5235211697085
+        },
+        "southwest": {
+          "lat": 43.4664776697085,
+          "lng": -80.52621913029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "KW 주님의교회",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 768,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115640629288764237607\">KW 주님의 교회</a>"
+        ],
+        "photo_reference": "AeeoHcKRDwG_S8-ar9SzQpUZGVR30H0Qc3y21bsq6Ln2xPcmLIDsCouSOZTKGy4PROKJv-CtdzNkwAtb0sSYUTIiuoU9Vaso4xbRtq0xnuySYOE3-x8CUQceEXKxMnsCv5l5Uy9qm_H4tQ-gmDzsUMZ-Z36jeRipMMlH-y_Ez4fbBkA5LtJd3E_HdWzlmhuIyemr6sS5D7_6TJcMlBe0pc6g_lJQYe6NW-GSYIQnAGdRXvuD3uMhOEQ03L-SNAxRy6_WVnpUuq9ZRVergUBxDrZrNsXBnssEFqIMC8oEy7Hd2D1BTqSAmRqZciWUSDShc2K14K5YTbhrKFM",
+        "width": 807
+      }
+    ],
+    "place_id": "ChIJNUscVwz0K4gRbny667Pi9D8",
+    "plus_code": {
+      "compound_code": "FF9G+33 Waterloo, ON, Canada",
+      "global_code": "86MXFF9G+33"
+    },
+    "rating": 4.8,
+    "reference": "ChIJNUscVwz0K4gRbny667Pi9D8",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 9,
+    "vicinity": "22 Bridgeport Road West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4897445,
+        "lng": -80.54381269999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4911793802915,
+          "lng": -80.54240641970848
+        },
+        "southwest": {
+          "lat": 43.4884814197085,
+          "lng": -80.5451043802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "Waterloo church Of Christ",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1122,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104040921652557491405\">Waterloo church Of Christ</a>"
+        ],
+        "photo_reference": "AeeoHcLbRD_Fb8lQriLA5RE4Cn1B_o1TIPB9Y61Jg17rkz5akN1DHvL-E_zOni_ok4JDKUDiWcAKHr07K6xkafqW1xaukpBnNmrTDoeYY_HlkR5zUF0po-QA38j-CM5t0E5VYGXCMkN7YnlbkArTeYr8NZyiHQ1fNa7VMYktWu6jSbpYIRDK6YiL7DqUc7LQba2LF3eaeZxP15EZ64kcp7e903mNernSAP1DOTE1SOrUB0R2DkXn92QAM4NTXGLsqAKPUKpHIHZy5yYXdkAu8yTM4QUVW7hb0JP5Vn0vBLMMo208nNGgCetuaUxzlJ31jTGtjzG__eluV7U",
+        "width": 1992
+      }
+    ],
+    "place_id": "ChIJgToYqljxK4gRnp6YAUnIvb0",
+    "plus_code": {
+      "compound_code": "FFQ4+VF Waterloo, ON, Canada",
+      "global_code": "86MXFFQ4+VF"
+    },
+    "rating": 4.9,
+    "reference": "ChIJgToYqljxK4gRnp6YAUnIvb0",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 20,
+    "vicinity": "470 Glenelm Crescent, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4656716,
+        "lng": -80.521541
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4672555302915,
+          "lng": -80.5201765697085
+        },
+        "southwest": {
+          "lat": 43.4645575697085,
+          "lng": -80.5228745302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "LifeHouse Church - Waterloo",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3376,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103787788702257753752\">LifeHouse Church - Waterloo</a>"
+        ],
+        "photo_reference": "AeeoHcIDsaHzUbDhCw5Ffgkn3psrYUMG1okX4GCHUH8biytsOM12JwXhu6dvElJfnTg60fNO3ZDfpvZnzzi9bDD1BaNzXbLH035mQk-NwUckvH3I2jtBmFRYjDC7gxOCmibR8JgowtuvkvAnOcb_2t_qxpGgndZFX2S1XFDwASs3-ZkBinCDZL_uF3pgnitJEDToYHv4eui6K2DfhtThvs84yKC09GBVy_63QokjXEeLg8dvMLV_7mL73RxNKP9xe2uXwGYsGhZybGONo1b3YHzlUNkXFD0cpZOpBBUlwaLAWKNWYymQtwoS8CWRz0X8kZM_woEYrjXOGII",
+        "width": 6000
+      }
+    ],
+    "place_id": "ChIJsx5Jkmz0K4gRN0LI350LTIs",
+    "plus_code": {
+      "compound_code": "FF8H+79 Waterloo, ON, Canada",
+      "global_code": "86MXFF8H+79"
+    },
+    "rating": 4.7,
+    "reference": "ChIJsx5Jkmz0K4gRN0LI350LTIs",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 13,
+    "vicinity": "3a2, Regina Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46641950000001,
+        "lng": -80.4869112
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46791143029149,
+          "lng": -80.4857451697085
+        },
+        "southwest": {
+          "lat": 43.46521346970849,
+          "lng": -80.4884431302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "Northside Community Church",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118431106143665220524\">Northside Community Church</a>"
+        ],
+        "photo_reference": "AeeoHcI-Isjwg3nwahoVNbunUGsU6QtHziIxhhjM8oxy0ApBGjYPovBzWlidjjfW41wuTR5PudAk_J6gr4VCzWsIMOQrFYYa6ZHxqQ3cEtsnVxAsXDhq_cZ958jAYO6BKYJKX-kPRZ8D2QjI8wUPOXUbTzpykDclARmfG84lQipLyXz1uojrf4_xioG8AKQ8iSgqz8aES7HmwwO1UgdwoXIC9y6qtHWGTgdxEtmZqdEA1gRz3RhBW4gFPCeOzMPk4OiBWl1maozxsLG9uLwo4XP51TgUtfo1HpfaVZJjb66C91nD6iqou3RdiQChObpSWfhSPuPD6xSTZq8",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJx9QRmZz0K4gRd8jICOrdGMk",
+    "plus_code": {
+      "compound_code": "FG87+H6 Kitchener, ON, Canada",
+      "global_code": "86MXFG87+H6"
+    },
+    "rating": 4.8,
+    "reference": "ChIJx9QRmZz0K4gRd8jICOrdGMk",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 12,
+    "vicinity": "55 Leonard Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47213899999999,
+        "lng": -80.510806
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4733620802915,
+          "lng": -80.50970071970849
+        },
+        "southwest": {
+          "lat": 43.4706641197085,
+          "lng": -80.51239868029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Vision Ministries Canada",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 853,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114982073479726453451\">Vision Ministries Canada</a>"
+        ],
+        "photo_reference": "AeeoHcInAEG3tZXgcXmFbzhDBt3KYEVy93hTvQ9Vt6t-9PXziQTiJvMzHxBFhyqYdBgL2kBdIJaTPvTTnalY3pzRNCDCkZ5SQqt7lmMP_0_Gi74f0PmC72aAdRECP5qQosD3L8aInLAo7Dfk_xemIqeCUmJfhxTZSSYcl67dYRVWK8XOpRBKy8x5CfPE5ZOVOdNpgkCAhDxNUY9uAXvq47-QaxXJUyFakNpj2Y7ua-kOu1ffWZ4hVLYUfnxYDCvFzPohMmYEwrW2vjL3AR6T70u5HOyyyxlsEV4SjCKJN67QayqIo12ltnFWqxtWSOYAWwbC8FoxQHShSRc",
+        "width": 1280
+      }
+    ],
+    "place_id": "ChIJrdiU_4fzK4gRvckUBu3MgXM",
+    "plus_code": {
+      "compound_code": "FFCQ+VM Waterloo, ON, Canada",
+      "global_code": "86MXFFCQ+VM"
+    },
+    "rating": 5,
+    "reference": "ChIJrdiU_4fzK4gRvckUBu3MgXM",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "145 Lincoln Road, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.42736359999999,
+        "lng": -80.50566169999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4286358302915,
+          "lng": -80.50449011970849
+        },
+        "southwest": {
+          "lat": 43.4259378697085,
+          "lng": -80.5071880802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "Calvin Presbyterian Church",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109674499242411442273\">Calvin Presbyterian Church</a>"
+        ],
+        "photo_reference": "AeeoHcI7vX-gt03eEX1zmLMoIZi2AUKXFVYpLTtkTBtH3d4eAha90Z1eLLcAqb1V2xHHBygDAK5sKJ-9yC17hRAHgjazCKuPasGD3OWzA4Mtt6IWcxZRgqlPVzCLPF_b_lewn_4TPcyD87_kbIa3w2VKNlv74qFw_q5JY7eNCtN02GuhiqIxab7GTi0InrG7dElfmvO9jmEmgdGqclE2Tjtxq4T0q1BhvdN8LhFnskv7kCCqLf3imOO5pzvCy_t5wCGzxWkK_EsMAbN43s39OyPYRQy8dq6Pp-AqtPlhsUFTQ2DojRxMyB6RDhOdn6nB6ihL0nnxDpIjv7o",
+        "width": 2560
+      }
+    ],
+    "place_id": "ChIJ6eaA3a71K4gRB39Ks-txqXA",
+    "plus_code": {
+      "compound_code": "CFGV+WP Kitchener, ON, Canada",
+      "global_code": "86MXCFGV+WP"
+    },
+    "rating": 3.7,
+    "reference": "ChIJ6eaA3a71K4gRB39Ks-txqXA",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 15,
+    "vicinity": "248 Westmount Road East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4177119,
+        "lng": -80.5115612
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.41902638029151,
+          "lng": -80.50967636970849
+        },
+        "southwest": {
+          "lat": 43.41632841970851,
+          "lng": -80.5123743302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "Country Hills Church",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113923381652493973351\">KNW</a>"
+        ],
+        "photo_reference": "AeeoHcIL-LtrLkdVh4t6AQJGHd1AlT63ByNwaO_1WaROiLTXFqEfqECsDhg6Sp_ps9eH4f0C496P6JF4A8n3-DCSNHqXLUWPidtpe0x8lZoGY40rpaJaKnQLHrQzM41lNFxAOX3Vz5KPbm_8dtH0gF9y5CtQyqpgy9R7mH03uCQJhM_S0rkByyOYG03RLbH0DXjG7j04S1TLJxjky2a92PtpikBMFY5DfGPkXcSopoOh_n85DsPgAhEE0I8PkRpLwFQJ145FAyDcEMZCCHu6diw-B38MLg_ZzwUMNsU59QNOkmAyQZwt632IcYN4ev-TKSON-jBPqAjQglavzGrktErTUnE0ehCm_Esa-yPNbM5f61Nv8c0525tbM5AXCz7GdkoYpaIJs0-4x28o9VeCjaw-aLMKTqltb47dlvu0fl1X70tTErMFjkYaAS3pHa_hVJSGuxPxSn4HIkQC1KWmo0VeZOzZpBZvfF1Ibh--YORNIn9MceEBhlT0afbknxb18d0P5C_Dfd1N4wN9I1srXeGtuWVD9wQdLUfVseOEhy2NPwKoBPckHEmA0WHidf9Sbldt-h1xU164Kj8JWtIgqAmwLHQ7Rq9C2rOk85NZnJ4gehGRo3bT_elIP1OgMzKFm-L1IRROsQ",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJKaL3Mr31K4gRZnFA_wv0Xog",
+    "plus_code": {
+      "compound_code": "CF9Q+39 Kitchener, ON, Canada",
+      "global_code": "86MXCF9Q+39"
+    },
+    "rating": 5,
+    "reference": "ChIJKaL3Mr31K4gRZnFA_wv0Xog",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 13,
+    "vicinity": "1280 Ottawa Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4479158,
+        "lng": -80.45339349999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4492027302915,
+          "lng": -80.45203136970851
+        },
+        "southwest": {
+          "lat": 43.4465047697085,
+          "lng": -80.45472933029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "Stanley Park Community Church",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1187,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110313675040059612631\">Stanley Park Community Church</a>"
+        ],
+        "photo_reference": "AeeoHcKrOO-1xTpoB3_eyASF884dNbk94NBVJwIj2feiy3GaFJ3HQAcXEDYZw774t89jdNFWy_pGC740MpWo7HGRPkxqJm_X8Y4vkb7CjyBwuf-jJjzmar80P88mNCqowNqiTPFk4L13wOIThIKSzShLvrqNIhuZWV3DkK2X5F5wntX3ETv6XegLda-1-jnaJpufbnZk1DcjKVZcQ110TT7iPj2d_UCKjlwHP9lhrq5w9VZu4sSpikZt6FFTa3ot8XCAxjOAJTdWu-h_C6aB6gFX20epuZOZS9HRYx8ubGNJifhnOz4amEquqa_4iX23wdEZS1x4ldO5n-g",
+        "width": 1782
+      }
+    ],
+    "place_id": "ChIJhWLyPzWLK4gRQ2XkDI7wLDw",
+    "plus_code": {
+      "compound_code": "CGXW+5J Kitchener, ON, Canada",
+      "global_code": "86MXCGXW+5J"
+    },
+    "rating": 4.5,
+    "reference": "ChIJhWLyPzWLK4gRQ2XkDI7wLDw",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 18,
+    "vicinity": "9 Dreger Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.42560719999999,
+        "lng": -80.56271939999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.42708418029149,
+          "lng": -80.56092391970849
+        },
+        "southwest": {
+          "lat": 43.4243862197085,
+          "lng": -80.5636218802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "Kitchener Baptist Church",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113851053228338116486\">Kitchener Baptist Church</a>"
+        ],
+        "photo_reference": "AeeoHcJMFRMeDpKMFt7Ht1fdfWfW78LblFIVX12Kjx_w7aauUW4qxCUd6_GI0UYez91aV5-1_bSa2XXZNCMBC_hZkqcoKv9d4ai18z0ckzrfkU6t_fV3CPAnWrBuLaPAlPAtj_X6kAOi7xEGHJE6mVgbnov_FGEX8pZQ7srU_XURf7UzyKAxRiomM9JCrF-uD3d37eFldDk8own6E_RZC4VbvmRoeAVpG1ZgeJe0Ni7PPAVzPW6tuKbam5smMc1HnVdsbA8eI5ruJ4F2mo2cQMGfkRiMZJmlulR5nEOPRuUOyB97xVke8xdsalIC_q5KyjIppB2rptZgKfM",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJY5uOdWn2K4gRHBnQrFklZHk",
+    "plus_code": {
+      "compound_code": "CCGP+6W Kitchener, ON, Canada",
+      "global_code": "86MXCCGP+6W"
+    },
+    "rating": 4.6,
+    "reference": "ChIJY5uOdWn2K4gRHBnQrFklZHk",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 19,
+    "vicinity": "1720 Glasgow Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4355162,
+        "lng": -80.4641723
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4366342302915,
+          "lng": -80.46274891970849
+        },
+        "southwest": {
+          "lat": 43.4339362697085,
+          "lng": -80.4654468802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "The Meeting House Waterloo",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101230112427088778881\">The Meeting House Waterloo</a>"
+        ],
+        "photo_reference": "AeeoHcKxDYXK8QvCkbKeZ921vVZUiI8HxojSNHn0n1sAxaU872LYfNTP5EYDCdP-Yn_ivu0I0vyspZnDCwjYfGsG_b6RJmb5Pk-7u_ssHQc5_wFyz9nmrWqlfFnS84OfOnNbU5OpkCxob8OigwALnvH2dUnXFTxR8b1r1C-kxTKsBb90U4hzD-g1SoKhLSfIeICEamEBRwahR9BfJjwX05cFZhc_7xbSwNWcfj9kK-WgrME3NA5gGGUjH_ImIX-ccOiFuLXzXGU7CRiTMUKvY3cM_NvytDJzVsastIX3_VJ6AiAvseRjP3Agw2-QddnjNFBfPa3ndvCZnGU",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJn57J_sPzK4gRoHBZHmy4Wj8",
+    "plus_code": {
+      "compound_code": "CGPP+68 Kitchener, ON, Canada",
+      "global_code": "86MXCGPP+68"
+    },
+    "rating": 4.5,
+    "reference": "ChIJn57J_sPzK4gRoHBZHmy4Wj8",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 11,
+    "vicinity": "110 Doon Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45600779999999,
+        "lng": -80.5217972
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45723433029149,
+          "lng": -80.52034351970849
+        },
+        "southwest": {
+          "lat": 43.45453636970849,
+          "lng": -80.5230414802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "Redeemer Lutheran Church",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111939730421954223897\">Redeemer Lutheran Church</a>"
+        ],
+        "photo_reference": "AeeoHcIpwV_GeVEO9F61EtkGQfyWkumknheQ8PYAFPd6jGyOtyo9uG_aG8DSrEALo-L2jTgYW1-kY5kgAtQlDIrZjGUpE3lB02C1XjwE9oyAZAYQ38fGJo8uelUOtydSu7-ZfpK3uxCLmM8xHejB1IdkVdYWESSr1mcIjCZRDYo-Yomg2HRcEz6IOZSkyOTOWN-NEC9HuvMmMS8tUmO-hDW9bLqlejQZpQE0SpIjMcIHv8XQZMJg35JXqaH8QCdCsM3zjncWjFh9x_yRSDcMktIkzl4_CQKi3r-Q_Hfa_g9TemvAaCYzP00VfcYin3vUepLjYUKyrj5hXmQ",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJZVuPtWr0K4gRrdv9nZpreg4",
+    "plus_code": {
+      "compound_code": "FF4H+C7 Waterloo, ON, Canada",
+      "global_code": "86MXFF4H+C7"
+    },
+    "rating": 4.6,
+    "reference": "ChIJZVuPtWr0K4gRrdv9nZpreg4",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 13,
+    "vicinity": "78 John Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4573352,
+        "lng": -80.448627
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4590304802915,
+          "lng": -80.44713781970849
+        },
+        "southwest": {
+          "lat": 43.4563325197085,
+          "lng": -80.44983578029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "Stanley Park Baptist Church",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108724181586263211701\">Randall Culp</a>"
+        ],
+        "photo_reference": "AeeoHcIGOIFtxsm9cEa3RJn8uiCizLB2TRgxBd7UWDdouoI87zfNQ5I-62X6u6wkCKgGvcncsQfjpe1FHZ3_fvNomaC3CmKrBKErj-wuECDDMEoUDP7xd98hsLQnmNOq0f5v33MTxZiqnFWVTo3jkCaYO8YRZflZLSs2V5qZB2mILlCHQLPCVxYsBgLgQCBvPGHFEuW9469RQZp5mSEu-3ZHAULVrx_WmVIt8EtOCJgsmmTXZXHNWKgK3-bm3mTYD1mNCDodXRxGqYuNk2ZIDWTW-eKXQ_K37j0uSjlExqSCjPWvEai-BKqdM295m2QecY3Kt-F1tHBU6c8GS19RKQb1ebpZZaLIki4EBKwADS_m-fcWa3dEkO9fjY_kzli3O5EraGzqjHXq8k8-gicdaFOWW7aeBHEGV8e-GzMKDM-wHDXVLUVCZ72b-hccs12wwSTWwAb5OkLn-KRRs2EE4kkFQENenB44WIfG7McHqSoisesigEc9kh6gdl0kcjEZPhR7WV0PcJRsDpnu0B6TyLvxGfQLA3ekI1wo0vLIxjWO-w-l9NGCHF0z5FlR6Z2pxkL5LbtK2bMqfMKCyaT2PREp5m7QN8HJ42GQZAOoWC0bl9RTPVSdhHPVhcb8pfiUYUEPqsxodA",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJM8fPFk6LK4gRDXsF3eDnAm4",
+    "plus_code": {
+      "compound_code": "FH42+WG Kitchener, ON, Canada",
+      "global_code": "86MXFH42+WG"
+    },
+    "rating": 4.6,
+    "reference": "ChIJM8fPFk6LK4gRDXsF3eDnAm4",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 14,
+    "vicinity": "31 Lorraine Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4493214,
+        "lng": -80.4840507
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4506133802915,
+          "lng": -80.48273871970851
+        },
+        "southwest": {
+          "lat": 43.4479154197085,
+          "lng": -80.48543668029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "KW 한인장로교회 | KW Korean Presbyterian Church",
+    "photos": [
+      {
+        "height": 3840,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110981783083347782939\">김지웅</a>"
+        ],
+        "photo_reference": "AeeoHcITp34N5mOwnCY48EMziK-2A6zsFTBjXz5yWSp3xtvalNeLNAUBEQCu2mojGkAcwPVBStPTg_0yj1bdjiOeWM0ETwJR2FnyqfFtxKMwEz5lx8w0BE4P5IYyZ26Q_AMxg0OYSdnTay65kkjx7gtwHnTBx1XLm_QheOAF1GkhPnNWWYanbyqm71jdVxKxM0J40NVHBu3-rL9sbH-ortKrZx5-HqBNagZR1VD9O8-wBOlOnDu61XesZBY40IQBfJsblW2Nd1mzptvp71mx6PwMCXB1dQbUQv0o3X8E-Yb1D10BxSaEJ98vySThZjA8T-c6FcdRzEj63L2feU3r54nqlBKMdElfemlOFUNCIby11UI98CmUmyNda8gViHg2g2cIsJqnFF8Xd8heWsWI0t43qexe-zwp4_aa0bfM1NOxpc2IFw4-ZHlNNePnVw_FNbH6jEdAnBL-dIJ-xJZE3aJP3SQa_OlnH_cXatDLxr2u2thPWaPtcb4YEv28RpnS9Y3EcYtJSVIz1CxTqt2xj7fURoaBhadq3IxMhzmyVCizG4n_u-_9xKJJ6pbU7pOXJi2z7BHlywEAP6C5a3dvO9ij4erKoveVhXRvDy3AaU4KXEY3-IwUjJPUssrE0DTENMNl",
+        "width": 5760
+      }
+    ],
+    "place_id": "ChIJMTuT9Oz0K4gRfuC39Kht0yc",
+    "plus_code": {
+      "compound_code": "CGX8+P9 Kitchener, ON, Canada",
+      "global_code": "86MXCGX8+P9"
+    },
+    "rating": 4.3,
+    "reference": "ChIJMTuT9Oz0K4gRfuC39Kht0yc",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 10,
+    "vicinity": "130 Duke Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.449741,
+        "lng": -80.5624066
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4510877302915,
+          "lng": -80.5610702197085
+        },
+        "southwest": {
+          "lat": 43.4483897697085,
+          "lng": -80.56376818029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "Westminster United Church",
+    "place_id": "ChIJG6d3UJL2K4gRGTdzGcXbyqg",
+    "plus_code": {
+      "compound_code": "CCXQ+V2 Waterloo, ON, Canada",
+      "global_code": "86MXCCXQ+V2"
+    },
+    "rating": 4.3,
+    "reference": "ChIJG6d3UJL2K4gRGTdzGcXbyqg",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 10,
+    "vicinity": "543 Beechwood Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46458359999999,
+        "lng": -80.5012315
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46587828029149,
+          "lng": -80.4997942197085
+        },
+        "southwest": {
+          "lat": 43.4631803197085,
+          "lng": -80.50249218029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "Glen Acres Baptist Church",
+    "photos": [
+      {
+        "height": 3425,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105147093104971832781\">Stl Vi</a>"
+        ],
+        "photo_reference": "AeeoHcKV6Ov4lqCt3QnHYoadUfh5G6RroAKoiaHWfxmxRMUAa6QPyoqwRaD6yOi8sHa_rmrEJwnV5byG-ZTdtmKR8un5f9YCImkAJLd62dIDz6sjZ7C1lvydCDoFWaD9R259i61hegcT65HF0CzA1PN6PBQCm0YmdwR1HhOVjdaLeq5oCfM0JGWAUqjADgluHTXMzCcfoGUixWBoKfKUrONnCN7tx9CdefFS5rc5DPiuejvlFPmcuM5JgIKU21Fd6jXzVYy8EOJ9KkS4yMdsOKo7wCyd9JZ2MutdssT_9CCLYTmCcvNWKuMT-qBF-J1SrCY2t_11gJ2dmPKWPh1MA08aSR3CbNmy6Kcg_J7z05ItZtzkG7pqu7w6uIDtWnI2jF_qcjEKaKs7fMY_LCqf2jZ-ZPuspxEQ0yFVCiEurHbkihHcefaS6ULaHyFOaHUmtuplYH2CuXYpiSiSiLrKtBx4G4MaHOWctTFL20RXSopN464AuUEWavbNfZSqqw00IRYoSFvLpbw9V7D5BWVmsccG25ulZ5QAkBkOfRwEj1_rJrhip9dAEWbM-LnHeufxuqZbLuEZRgmW_h3IHns0XV72oF3klILAoIiQP8gx9rP8I1aRtuWRVNQi_MLWgxbxEG7dy9kkMg",
+        "width": 5059
+      }
+    ],
+    "place_id": "ChIJLy12IH30K4gRzcDhqLy16Vc",
+    "plus_code": {
+      "compound_code": "FF7X+RG Kitchener, ON, Canada",
+      "global_code": "86MXFF7X+RG"
+    },
+    "rating": 4.6,
+    "reference": "ChIJLy12IH30K4gRzcDhqLy16Vc",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 21,
+    "vicinity": "230 Hartwood Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4945451,
+        "lng": -80.57072699999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4958290302915,
+          "lng": -80.56953676970848
+        },
+        "southwest": {
+          "lat": 43.4931310697085,
+          "lng": -80.57223473029148
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "Trinity Church",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1921,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103058706683059706280\">Trinity Church</a>"
+        ],
+        "photo_reference": "AeeoHcLqBYGyXaiFA2T0MF1jhcEifVzkzijBOQrGJ7vS4y1pF1-Exje6yzbbHjbCFThjCu1ZlY82Ztl_JJ9olmOxBqS06RpCIHIy3nw8NXkx29WbGOweUislMY3gMUrvO1cyo_-5qnNo9wvNi-cShOOalN2TDpAJyVKy7570W08Wp8UnsZcess__FpKm6sri2jxjW37Djir4XO1BZ9_Jd_VsdizjJVGsAsZXIANbl-6UF_EE0-EzX_lB7KbzrVXFe_rnE00pXNWYGtRnG7kaQ93fUvnpcxqI8EbsRoc-7pKbpvJRjs_el4sK1C4j58cCwMFQxreVTsa91QQ",
+        "width": 2560
+      }
+    ],
+    "place_id": "ChIJOwZ3zj3xK4gRwj_f_zTbhuI",
+    "plus_code": {
+      "compound_code": "FCVH+RP Waterloo, ON, Canada",
+      "global_code": "86MXFCVH+RP"
+    },
+    "rating": 5,
+    "reference": "ChIJOwZ3zj3xK4gRwj_f_zTbhuI",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 16,
+    "vicinity": "330 Conservation Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4430625,
+        "lng": -80.5524824
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4443064802915,
+          "lng": -80.55105346970849
+        },
+        "southwest": {
+          "lat": 43.4416085197085,
+          "lng": -80.5537514302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "Waterloo Church of God",
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117489222906128026322\">Logan Jones</a>"
+        ],
+        "photo_reference": "AeeoHcJLXyRpTFZTKYOzge1OmNE5T33M3NINAoyjpojNznsehvuSeslBW40YH5vSWJSaCIB_sItqlA1GUrVqR2klS3Q20DcKRkWpYdxjQeBNw8eDYBv0c4CmZiKscMoR4v_Iwr9uu2t9HJeC3zTx81LiRvq7QnhSbNohB1_ITB-ocmVbJyFS3EuJq84Kd16F3t48qPynlfaKtKnt9OWKjm9wDOaltHE4dNrR1pc4wypKe3Dk8NRjZ9h88E-2g_WHBqVzaVnPScP8SguZ_zBNP4VpQJ4guWmju-vy2B8BCiwdBMAaUvAMeaWolDsPujdOngvpQTOgpAEiQ-t2F5a70mVv1aVUtVnLtr6chkLjARsipyNaZ24tbfe0HYohvGeeeOGGGJnNgwZcCforb6PSEiOFYaFv2wrQPPE-wEUUGlanJKXRsK_3mMLZv0AEylv2tXw_n2EIWhUn2Ichq62WYsQr3CSqmqeDY0vEMiXddF9oEm1HGtf3eM37j3OsvyKewhox42e1LVMFMUSnIEkbT8CiOihpVBRR5mynZ5gUCoiFLBygsqjJYJGbW-MuyUC7oYsiWmtrCq9h5SerKm9JHoftRnGtq-0YcR5WDNoA7P3beMG9VS01nAiF62oDkegy_CdOvM1SMJf3",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJxeKacIb2K4gR3RadA6xkT8o",
+    "plus_code": {
+      "compound_code": "CCVX+62 Waterloo, ON, Canada",
+      "global_code": "86MXCCVX+62"
+    },
+    "rating": 5,
+    "reference": "ChIJxeKacIb2K4gR3RadA6xkT8o",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6,
+    "vicinity": "170 Middlebury Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4384351,
+        "lng": -80.5039254
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4398091802915,
+          "lng": -80.50260186970849
+        },
+        "southwest": {
+          "lat": 43.43711121970851,
+          "lng": -80.5052998302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "Evangel Community Church",
+    "place_id": "ChIJg5mVIlT0K4gRrCssJv2iYxE",
+    "plus_code": {
+      "compound_code": "CFQW+9C Kitchener, ON, Canada",
+      "global_code": "86MXCFQW+9C"
+    },
+    "rating": 4.5,
+    "reference": "ChIJg5mVIlT0K4gRrCssJv2iYxE",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "112 Spadina Road West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.447522,
+        "lng": -80.48708959999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4489775302915,
+          "lng": -80.48557006970849
+        },
+        "southwest": {
+          "lat": 43.4462795697085,
+          "lng": -80.48826803029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "International Gospel Centre",
+    "photos": [
+      {
+        "height": 4072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111684049595910318075\">Eva Shaughnessy</a>"
+        ],
+        "photo_reference": "AeeoHcKaLu7zM2Vix3cYLU1-Bzty-3LKqa4iJC0JYgs1_k9e0aRX-0l_BlWi_Bzh5VBouiWNRqNd-uX1Obrrx4lKdAfO0fS32lOw7nXXmxaOp_9J8v_9bhFNcZoRDaYw518ElGSnRp0jYm155-K7Bx0Z-KRuUBCwm56xIGL3dnHb1ou0DHwX9vWybGOBP5GPmo5sRXceN2DxAFF31gkoPQ_1xf00rjK-yW0ONelFkm2QZAoMpXWJNIb-532hZ6_d2-fdR6EmsXvIGC9Wq3DKCFtxqaPuOoq8EwKIFeMj5k2E6pN-eeOk1dY560hIPqTRZcAhIjS5IeMAaU7KYjGvnemDd1RKb_PurzzEYEgfHzFy0L5FDmGV_75AmEmYiMPCJAEEHT9R6LhUG9LWR-3zsurrTn2kiV4Pmef-xt4mpT7jiq6C7Fbio0EcJT0qrT9NMzRDVLQkczMAfPAgaD0SnyP2d9gaxS0aGpO8Fe_iPYxtSA2gOBIezkkDWZOOlbukiKoAIUuCaswwiPz2dVNV8-rrVArglVhox1i3ReJp1WnqYKvIcHZdgNBVMdaUpCvkCWmCpEm6hbzdQU1UeG2rVQd3ZN1z49Z71tke-5bzgYGsm4z2dBA2VRrPmZCTpik0Gevn",
+        "width": 2970
+      }
+    ],
+    "place_id": "ChIJr46m6O30K4gRpXnzLTA5tyA",
+    "plus_code": {
+      "compound_code": "CGX7+25 Kitchener, ON, Canada",
+      "global_code": "86MXCGX7+25"
+    },
+    "rating": 4.8,
+    "reference": "ChIJr46m6O30K4gRpXnzLTA5tyA",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 37,
+    "vicinity": "35 Charles Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4412642,
+        "lng": -80.4667873
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4427501302915,
+          "lng": -80.4655342197085
+        },
+        "southwest": {
+          "lat": 43.4400521697085,
+          "lng": -80.46823218029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "Bethel Evangelical Lutheran Church",
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108096783076596068162\">Bruna Ribas</a>"
+        ],
+        "photo_reference": "AeeoHcJ7-eG_a9IU2P4Rc00uoI9vjfVrMbzzQy0DDPNRKc0K97Rwhzb5NEjb_3OA7B7M5s3jk0m-Xpz8AfpFg-SKKknsnzqgWhoTCCrdhXUhz6JHvHOUYgOmTpU59sldgBMhLmRCmBpz1SE6nCjp7lbCfnt7FHlGrNwcppvDmC7wXERNX8eMJLMxHP3hExusManzVHXpaFXDm5urECBTDiVmXUs6b23jiREG0TwgSb9rb008BI3Ti4jxz4DB2Dk92pHKd3j7BcP4-20QYmBRoHMsme1pG3_FjHr01QyUtuGUb-Eh1FTMN9b3SxoEOMXXqAAQnX8ewfcuSaQS6QIVS7J_mmb47FpoKNBviKAZX4jevoK6pQZ49iQTjG3kvP22i-L2RtuSoYtbIAqeVMyoGf0PJ9uEgyXl6rx1uy57qttmp4TFS64l6YwMEVFzMD12gHP2OsVA6ndIhtTrOqTot2N0c7FmqLGAACvhJipTJ9RTOO9wwkOROTUOFb1LW1zcwYC6cHfsJFmOE125sE3j4xzdjmHc5luam3tJYvbvf-qjHiCiTbsoVedh0IjtJ61fB8TH-HeF6aXdHDVGtCe96CzkoNIx8XwcSocNsLDIdLVz47TwXe43_wWwZhWDbHvK_qCM",
+        "width": 2268
+      }
+    ],
+    "place_id": "ChIJyxLGT8X0K4gRk3sx0U8xXQw",
+    "plus_code": {
+      "compound_code": "CGRM+G7 Kitchener, ON, Canada",
+      "global_code": "86MXCGRM+G7"
+    },
+    "rating": 4.4,
+    "reference": "ChIJyxLGT8X0K4gRk3sx0U8xXQw",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 14,
+    "vicinity": "47 Sheldon Avenue North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4662333,
+        "lng": -80.518658
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4675471802915,
+          "lng": -80.5172311197085
+        },
+        "southwest": {
+          "lat": 43.4648492197085,
+          "lng": -80.5199290802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "Bethel Chapel",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJ6bqOV3L0K4gReAUX6iwGSP4",
+    "plus_code": {
+      "compound_code": "FF8J+FG Waterloo, ON, Canada",
+      "global_code": "86MXFF8J+FG"
+    },
+    "rating": 5,
+    "reference": "ChIJ6bqOV3L0K4gReAUX6iwGSP4",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5,
+    "vicinity": "16 Laurel Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4339441,
+        "lng": -80.4791911
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4353586302915,
+          "lng": -80.4778240697085
+        },
+        "southwest": {
+          "lat": 43.4326606697085,
+          "lng": -80.48052203029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "Resolute Church",
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109755365417170039354\">Chris Colliver</a>"
+        ],
+        "photo_reference": "AeeoHcLOavr8C-YbEL1MpKQvyfjmM08gRodSiTtfiHk3wjNn7S-MWDUnT8tTbd0h4iM1X0iShZT09SO6v7B00Hf4eFP3G6nD5zKKKwMDIwRhsHEG27PYwyQoyLCXxt0e0b8eAou9xIiWL0g_a7Pwl1--XT9S3XWP1_SNYbfA5Q6xT5qvubW9EsG_C8baQHVcy6HRgyTWqbxxnSbbBOBlQ_OFbYzw0A_J14m5zSrz3jZS5xZk3JGEncl3gNT7sYd9ibcFWFhWXiI3tdpobh2x_DvOLdplQr9AE2Mn29l8MtIuNRqXp0f3RBw1PSR-bNg0wH5tXoDKjMS94RM3id5VAKy9t5OyTuUqFqIUXgI2TdIrRmU5MqiPJn_PcHQ1mxvW0sajc9-AwDJ6XmQzB2U4TGWEfn3L9URbNt2wOkDuFZkbkWrI5NZ0qx5koOyyGjxddZHnmXnUMaCnmxokRi8BQb2ii3iAGUvVIXvBvgMYyj8x_cJlszHSkiR68gNz9_veNLHyUrWcV0bsJVUrLOaqkqUnr1LiGiuJgBB0n7nPA2yvA6C34oQtngJPRyOUYFG33rY0OqbHoCu_bRVwzWSEAZKE5xDAGaTfuX26ec7fX-6WJUBIEnJ64OsOxsK_LvGnWYf4zxlPZw",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJlQBtReD0K4gREZGh_gN_WgE",
+    "plus_code": {
+      "compound_code": "CGMC+H8 Kitchener, ON, Canada",
+      "global_code": "86MXCGMC+H8"
+    },
+    "rating": 4.6,
+    "reference": "ChIJlQBtReD0K4gREZGh_gN_WgE",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 11,
+    "vicinity": "358 Ottawa Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5056051,
+        "lng": -80.55533430000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5071852802915,
+          "lng": -80.55347581970851
+        },
+        "southwest": {
+          "lat": 43.5044873197085,
+          "lng": -80.55617378029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "Waterloo North Mennonite Church",
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108883283690898705720\">Priyeadarshi Khajuria</a>"
+        ],
+        "photo_reference": "AeeoHcKyaZNMg-ltL5MDF5p6rJQcVBI4n_bac7XciIew4ZpnvzBFxykX_khi_-fd8A8cSYb6yjnq1SQzK6eHzr9Nnj8v6LdC_KC1-BbP96uPzKah6ZJDe2daCar2Pn1AgP0iTYWWOldexfTWt2tHLhZRiFF9ArPs4zQuIkgRrd9EJXMqNHuPJ2aketJtlTGWIE9dT8Pas4dVN7aurOU7_P03Dx7nys2yvBVPRT1O6xCcWEtrO9sQ5u0zaSbwV8HoRMImhyG7CkIuRQaYa8SBzBM9bTnmKzxGEzzrF4TeBR9xchoyboTHjLEcxSz7T34Ni3ghpnA9yQr-ErtO2c40QekAny9UKg-4TMgPTJQdXcmkxBpCNsxD3VoUQ6AxkwQnVtE3Oi56sOWINxOGV_gKwOI5W7CPGx0aLlzUSEkd354neKzJGzYCHG813KcDctckOplwlA6tD9DiLY5LRDOFlG-QgK_PFELHRvKArii9ZynDkYxersEOwkTGWGrGg7X8LxByB1PdokqNX2aREVGrju1lCkUgy6X6TdlNdO0wQFPJgMPQZz3Aa-SiAJMM3z8tFDh6f29emFbLLDvYiAmI62jSEf_FtMGtk2yZX-ajxSL_73Y4HPNjYzaAlC_QrEBkx88gqBynvA",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJsYTdA3DxK4gRW26ksAfyryg",
+    "plus_code": {
+      "compound_code": "GC4V+6V Waterloo, ON, Canada",
+      "global_code": "86MXGC4V+6V"
+    },
+    "rating": 4.8,
+    "reference": "ChIJsYTdA3DxK4gRW26ksAfyryg",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 9,
+    "vicinity": "100 Benjamin Road, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46590359999999,
+        "lng": -80.5030113
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4673511302915,
+          "lng": -80.50173391970849
+        },
+        "southwest": {
+          "lat": 43.46465316970851,
+          "lng": -80.5044318802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "German Gospel Church",
+    "photos": [
+      {
+        "height": 4640,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114931359007856505735\">Roman Arauz</a>"
+        ],
+        "photo_reference": "AeeoHcLF0f_FflQn27_aE4o07U35nywSAsWgSejJinEMrd-AeElZzNw4Tk9ZXxAOEyj1x2DjnfcgMK085wpV63HMsRyi329aQonnEU_UBEYnKxCAPmt0h2Quk2T_3QpAYx-xrgUCS7eUIc0zyINYRuUklikrbk5wzahFxiYuRxAylwNq9ld2NOi9os9X5kR2ilpWX4bfzs2XNhCgkvRU4JhrCeS_vvHe71lx0h-E3ebe0CsqcTPb_5qO-4WONFWtVF3MJqI8pLJe-I-gX-9Y0-eyIZrJhAygtSrDPxJFsfCPRmDcmn4NkutoHDzBMTZSVdyR82jG0DoSPWQK3KHs-uNUGAQrVrJV9Ha5Zws-Peym__pnM9DCWsbej7fnmFq8MAgQZHak4wlBpi03tYZNwspCl3blcuWxhiEt6C0hnbWxS2n8hFp9YD4yRGQCwANUA9NWUlJvVhcLByIATku6GAtCBy66i9vFiQjz8qAXOh9PQERxaOiom52JDBiTa-pG_hL2SH23c24UH8ewgn3vo5bR7_0WC7vW62BFbVYtkA6FwS8Y8RG5KWalRzHw0F72yN8lW2ZgLCnJHbJbZ30dlMpxgOVHA9MA1JwckRtTwmO2Zm2_NPPmjMA7VozVV8zcvpcvIPWzgQ",
+        "width": 3480
+      }
+    ],
+    "place_id": "ChIJZYjwRXz0K4gRAj5zFlBhtAs",
+    "plus_code": {
+      "compound_code": "FF8W+9Q Waterloo, ON, Canada",
+      "global_code": "86MXFF8W+9Q"
+    },
+    "rating": 5,
+    "reference": "ChIJZYjwRXz0K4gRAj5zFlBhtAs",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "223 Union Street East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4650194,
+        "lng": -80.51654409999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46644628029149,
+          "lng": -80.51524066970849
+        },
+        "southwest": {
+          "lat": 43.46374831970849,
+          "lng": -80.51793863029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "Elevation",
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102046038756629846289\">Camellia Bustard</a>"
+        ],
+        "photo_reference": "AeeoHcIFjbotip8sqzGFR9CBNzBxSvNaKqVme4fQVydmXFm98pWkLXtuAL9xrQZDFLkqXFy8qCTGV_ibHxpu_tKqJEFojq2OjHduNrNJOriwLTBmMrvaCElO1jFjuRYu0cLwjFDHoTjIEVDuWoe5jU4Umh2MjvQlz8MkLLEk-7WFNLnd5VSnyEoq-sQ4AjOLBjHy7jPoFIgnSXYikg78XXDEQU11FigaAvVeqWJt1VP3hWyIkoQWThEWBeO1JFOTJdRm6yKjIDFGMN2PQUVr5RMB0BHhljPSKzgfCsQAuUwW2BXynNOz-kffZJv27vxr0YOzI82vHWEXZbZYAUytTB-yoXEo_T7XWOp9llYBOtJ6szL3TaU5T8T0HyUdb3_al6NiayNOAv0a2qfQ0A2aIY04kD-54RdexAZVCmhZA-VhU61Tcw5zyOI5FK_-7Mx0v0IaNjRxhhbZ4X16Wj0OIcwH8R9b2Xr5AYcFjU-oo49RiaPD6i6Dsyg_c3CY9YgZv5OV9tJ9l8-oXcjFjYdcDba8LxOJuVwb305oZMolG903iOfLAzSxQxsF9Ic9SmU39hdqAjBBitm8LQQCQatLsU2RNPdtne4pnMSrVn5whxVxOloa0N0V-dMvtSXimiGY0I_oamX_0g",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJGZ4LNNjzK4gRmxNxk9GFqOg",
+    "plus_code": {
+      "compound_code": "FF8M+29 Waterloo, ON, Canada",
+      "global_code": "86MXFF8M+29"
+    },
+    "rating": 4.9,
+    "reference": "ChIJGZ4LNNjzK4gRmxNxk9GFqOg",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 16,
+    "vicinity": "22 Willow Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4831628,
+        "lng": -80.48494579999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4845724802915,
+          "lng": -80.48374681970849
+        },
+        "southwest": {
+          "lat": 43.4818745197085,
+          "lng": -80.4864447802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "Bridgeport United Church",
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117302605228789394289\">Jeremy</a>"
+        ],
+        "photo_reference": "AeeoHcKa-yRhc4nv_C0E0dLcgyBqPKIG1ucv-a_xW6Gzl9yqQDYd04MBpNEjOZ54LPbYY6pNNIrgMD4Z7cObrgKnvygwUNMPSpcIszzGeoaq4kdNxhM7yYV9vplO_H9hmWThgJ9j4Egu9sN3Fay55syH0h8ARlMTYv_r2301wh4xBrHXBgXUmgn6Dgj--5pzpY65eQjIjeKH1wXKDEUftOuQFC1Y27NPC6Dm3n7eogeMeMDyUPbNGLQJTMYV7zaGOaXhJ_o9GjK8i4qjxAH0vHJAvFp60_SDjjtkILBZRiF66UWNs_myjCbd3FU5_Redt8PWLqGvZN7lCdh7izJhT6uGrMD9dTYS41xbYy9PE1grZ2_-6OFnevqmPAHWnk8fkOKVixqR-yRDmNcJqo_0LK6a4PlsA03LeG8KqZkgfKhkuobnc0GY-x-SyasqmX2ob21DsJOoV7EpRX5EIyUWIkEUfFVlK95H-KWoSdCrdI3HjJFBuazUplSNiWvOavYlB45A0hphSGr3VvLvz-wziOMCsS04DFspQEg6-WMoU9_hc863yTwFCd5lWNgGIM4fzYqB3Z5qY2SPK5XhsXTzhqm4c5e4alqX_sXVraPNG6VI45wwczdHvcudOqPa82nEqqZIuvOLng",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJlyh9_G7zK4gRVD4-s97coR0",
+    "plus_code": {
+      "compound_code": "FGM8+72 Kitchener, ON, Canada",
+      "global_code": "86MXFGM8+72"
+    },
+    "rating": 3.9,
+    "reference": "ChIJlyh9_G7zK4gRVD4-s97coR0",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 7,
+    "vicinity": "40 Bridge Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4367129,
+        "lng": -80.4911178
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4380155802915,
+          "lng": -80.4898962697085
+        },
+        "southwest": {
+          "lat": 43.4353176197085,
+          "lng": -80.4925942302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "St. Stephens Lutheran Church",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2988,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104259718217192302952\">Mani Shams</a>"
+        ],
+        "photo_reference": "AeeoHcJf6U5BRks61wxcsq1iMZhxp0jQ0XklaGUfiWmbz7f3Ut3Kn7Xclg3sdonnXjTbjnFsHtk-pmN39upxxO5LgfTU_-PqpwJOsyLiSA6uINsurAWfujkBfltUOe2KgNlrZSuHcctLxQcnOW_JhMRQuugrA4lEUZNh7eAz7R4XJngs51FAYzdbR-hoV3bJm-0eJLSD6Kzn7ah5ONTXcSAIQJEejZYGhLtFpIP6W-nHC6OQv8wMPiQJ72GR7lGcxiYlIiWBnIgiHazZha2w2d8mryPbRvGGkwu9sE0KuryLq9wIYQcigqk0gg1HI0mKrnU6W4YA4sRhgP_U0cJDEUE-WcuuFK9W4P2xMQUxeuu0qLzjoSsj1IgnfwoifTN1y4WrOPiheXYPl7N_90L6_wCA_lfPIpilpLHEjVon-YQOxnZ1gw1nbzDs9fkLlgfOKSqTF-EU-nSbpHirpvD3MXGTim7dJUFks1aOvS0QHhcWSep8BT6M7JBuhCeoGDlxjW88jUa1mm6RQqAHhGM0iZ1_aoZlxUwnJPkIDXWXW1m9nUfTgIH6zN2n4CQ2TKQXBWWUVbfwgzit9nsOEgQ6Au7rKQ4V0MoZMYz0PF3rAgKJtEFoXPE71UzB85ydqhBanh2Y",
+        "width": 5312
+      }
+    ],
+    "place_id": "ChIJiSN-Zvz0K4gRoZ0iaqXWuiY",
+    "plus_code": {
+      "compound_code": "CGP5+MH Kitchener, ON, Canada",
+      "global_code": "86MXCGP5+MH"
+    },
+    "rating": 4.4,
+    "reference": "ChIJiSN-Zvz0K4gRoZ0iaqXWuiY",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 11,
+    "vicinity": "248 Highland Road East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45613590000001,
+        "lng": -80.477696
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4574020302915,
+          "lng": -80.4762640197085
+        },
+        "southwest": {
+          "lat": 43.45470406970851,
+          "lng": -80.4789619802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "Religious Society Of Friends (Quakers) of Kitchener Area",
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109078186295250826368\">Connor Hammond</a>"
+        ],
+        "photo_reference": "AeeoHcLJzB14m4b5rSZ7ebMQvVvhOziEV_nyI-VGjsU0pD9aOtrixO8zv1Rv0Wtk_9EAz_bJnsMtYnqV_8X3vbeMxR5WZBhMvN7dApn5JQyHRMPCJep0gBawvlZhQsjuq8Yrt5EBN_wp55J2IW5sMCaqS6TnkGSm-Ae4yRgmR5MpYyl--VDzn0FVIRMm2BzNPBzCQbF4-G15JsgARMmHPHDgvFXZhLF_6m_i9rPRn8IhD0RbBFzyu1aEO7UV_toxZA9rpDrj6A7_ZPUq34hwh9vd_NAI-gKXZE8l-iyzEAqVwK1UgZ3zSsqROFccckP40Y_HNzqeoPblKlDpfsmoXkLd1HdavcoCU-rf1r2PU5msr10awmsyf50xPiDgXckwSl7mlOlk_xYKyMzM7kTpU9dVZJuc4NSOPJsSazyiKR9h0befPBej-wVlIU0MeA0l_J2VzfRRk1sNLwlt4MWjuGjqNJmVvJy0Y4wnf2SlztaUEkRxg7n6WM9thZ1DNowDjfnDtt2AOE5WwvF9Ve3m_MEJ2pWUH2M7G-uSsdA-Dz5r_RolljY-Js5yVZFuARkvOIszGPu35zYxqjww5H_KQK3RrPBqwc7lNCZjhCPkUNHUcZO5fO1NFlsrzLnU5qaffw6H-lek6pto",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJp3iU_ZX0K4gR3LrwrdeFJnA",
+    "plus_code": {
+      "compound_code": "FG4C+FW Kitchener, ON, Canada",
+      "global_code": "86MXFG4C+FW"
+    },
+    "rating": 5,
+    "reference": "ChIJp3iU_ZX0K4gR3LrwrdeFJnA",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "298 Frederick Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46123499999999,
+        "lng": -80.517465
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4625411802915,
+          "lng": -80.51604596970849
+        },
+        "southwest": {
+          "lat": 43.4598432197085,
+          "lng": -80.5187439302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "B Beleskey",
+    "place_id": "ChIJdXzsWmz0K4gRh2QuPoKQWWI",
+    "plus_code": {
+      "compound_code": "FF6M+F2 Waterloo, ON, Canada",
+      "global_code": "86MXFF6M+F2"
+    },
+    "reference": "ChIJdXzsWmz0K4gRh2QuPoKQWWI",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "33 Allen Street East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4374727,
+        "lng": -80.45512
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4388104802915,
+          "lng": -80.45363586970848
+        },
+        "southwest": {
+          "lat": 43.4361125197085,
+          "lng": -80.4563338302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "Eastwood Christian Fellowship",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113382208439446797780\">aldnane alam</a>"
+        ],
+        "photo_reference": "AeeoHcKXIhV5mTAS9SOI5l3VL_14tVQpbtghE-PBTXMVt3YBqdhosYCWAo6RauddVr_pWbLbMQpJDjMR0bW8w92f-xb7JBl2jNSPpRCQavoKwnmm7TnHOhsadA7yMktmn44cJOUfvtxUoixlNE13loUNjYmJj6xZuib-b1ePhBpwcQca5B8gyKvmcKRxMwjWy5aFj2K7iuQuexB9f_0d5UyyaiOcU_l9E3tfpp7lI0DFUF_hoFLQCOECZjE_PcEdU6h_-Ui91tLs3lc2N3_OfrmVv1Rra4DPETS0H8ixefU8kc5UyebdabBYZk2QaF08Dp0PFz5juabkV_bTB00ZGtLeU9o8Z7CmF_I58RbZBGbcXunMUzPz5Hik8ZcQ4N8j-Eox13R-M4HYbxyofPJIqS_ipTj8jUvldLhs_1fvRTUfASQlJNa4e0w9a7e1cGhq8GHFuGgYHl8T9SE-E21DljDZjoY9OjOgb6jRart0I_FfLbuEbhU0T_AjBPz4qVEpttLzlq6toyhqPy7ALKVSr5xFhRwu-PV6vgcZ-8dusMaSfLW3V2kUgyIWkXT7-71ePMrhjpaMHiNd6chC36Tsm_Y49uzejEMlJ7DFbUjWdJpfenT_TpoePk6MqpPk0n0HeHfVe6D1Sg",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJOwvR1NL0K4gR1j0WgGKNDlk",
+    "plus_code": {
+      "compound_code": "CGPV+XX Kitchener, ON, Canada",
+      "global_code": "86MXCGPV+XX"
+    },
+    "rating": 4,
+    "reference": "ChIJOwvR1NL0K4gR1j0WgGKNDlk",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6,
+    "vicinity": "56 Ross Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.42116999999999,
+        "lng": -80.5155247
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.42259503029149,
+          "lng": -80.51427966970849
+        },
+        "southwest": {
+          "lat": 43.41989706970849,
+          "lng": -80.51697763029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "Kitchener Community of Christ",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105653750077890101192\">Kitchener Community of Christ</a>"
+        ],
+        "photo_reference": "AeeoHcJ4WCCc20gUSJrgmX3vcg7VFdBvUth6EGY-aPiqYyM_O6rOYZvELzynjPqkY19adtZ36e4IfwAfB7jCRFXKcJawlScwtRkPih9lR6NUgCLqt0gK4Srjj6TXUujPUU4XMGe_ItNNOONhHJBnIC0VGKuTLiJtW5Fe5p9nK9zX4nsMkW-0o27JIgyh4n9_Zl-GPJWIepku_gP7AFRecD76lgqa8bINi_1prccAn4BLCSSI-Pj7p1vNHpC71pR8EJbXwMikfU-O7IWhnSt0AsK9WmSNeqTOTVvB93M1ULtj-pdIo3aM6oKwSUdfE9UISafpPQZKo34nz5w",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJWSzDVrn1K4gR-qve6oK7WUg",
+    "plus_code": {
+      "compound_code": "CFCM+FQ Kitchener, ON, Canada",
+      "global_code": "86MXCFCM+FQ"
+    },
+    "rating": 4.8,
+    "reference": "ChIJWSzDVrn1K4gR-qve6oK7WUg",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "414 Fischer-Hallman Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4564718,
+        "lng": -80.4598621
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4579816802915,
+          "lng": -80.45857221970849
+        },
+        "southwest": {
+          "lat": 43.4552837197085,
+          "lng": -80.4612701802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "St James-Rosemount United Church",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1580,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106699559622373853233\">T. L.</a>"
+        ],
+        "photo_reference": "AeeoHcLfX6Qu6Tf1YrG70Ql-S-eBvDEAxjgAjGVOgr9ohSNVHoP3rcXPwBfyd9YPd7azKerw4WlBRmKxsh-rusq5vghtXIAk1GaCb8btyJeRRmivt0R4-JHbcBjmIc7yJYArI2xmIZfAKb1lUJOl6t7CYsZUNX1lXtj9sJ-OdLjK8OcqYJhT40VP8KtWY05eEsOBWQy22AOnf-KGCDT0IyP0klCFn-jLZtSBxPr7ku6GHfwzIMJSJNHkkF0GkWLUhMpQ_kiVLqsvqfoiXVc-R2SnTiFhARHFC0GO2DtpzMVUwLos8jmAtQ7wRIGKiit7HsUbJak6cUeyxOTuXYC_FSI24KoohRbtigMVWTPkJLn67WyXU8bJhO1eEGbli41RUUzh_wEWpShLlAXVWRuK8R3jvHoFxd_DH_UQ6EPEDYsH2hldDC29B1hHo8S9DGU5k8FZhScZZcl-ixA7WfZ5BSg3Tre6p4AUuLULlQ-CDurR91oBs1bhj4FFe8aDZCggeRlkHv-pGcwa8CLQ1RqAYizAxSh1OHlAQJpz0JpoOg0uKIGxvq24BUe7Ygbv9PCVg25jXkl4yGuoNswyFjJ2Khf-cuI238YuIiZ6qwJ1AZ8Y3e5crBwOzMlUfbQdnSss81tfr-C-swGC",
+        "width": 2107
+      }
+    ],
+    "place_id": "ChIJl4wt0LP0K4gRf0xnat3Sz6Q",
+    "plus_code": {
+      "compound_code": "FG4R+H3 Kitchener, ON, Canada",
+      "global_code": "86MXFG4R+H3"
+    },
+    "rating": 4.9,
+    "reference": "ChIJl4wt0LP0K4gRf0xnat3Sz6Q",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 15,
+    "vicinity": "171 Sherwood Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4752544,
+        "lng": -80.4913509
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4766375802915,
+          "lng": -80.4898496697085
+        },
+        "southwest": {
+          "lat": 43.4739396197085,
+          "lng": -80.49254763029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "Church of the Lord Jesus Christ",
+    "photos": [
+      {
+        "height": 1344,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113844971226614729381\">Church of the Lord Jesus Christ</a>"
+        ],
+        "photo_reference": "AeeoHcI2bAPIk2nsjmIRxtCbN1fJnmhV2ASrLlYQyxBQ31GmcQS8z317E7oUAr_zPF_u_AHQbWvE2LxFEBU9bl0USfI2T1rRAzUybDqWqaeBC_iNwk9zVfDxJ_xt_5bsAFQo8fBLguCQrrRDB1TYmfUG6nXrrwxi7DQmD4dBGek_is3yfE5I1csuLeKe7KDPrky7TzdrS1lGFMXtwHGWidbNhE6Kej3PFDwOmmVjZczJkS30XP9YoRnhu8Nsx_S5_E_iU44Opv1om7MCGHarY60O-KEZlJuSZRFOePvEFUAA9ZrvhgNt7mupfG3qq0_OjZQIhV9_Zt2R_OA",
+        "width": 2394
+      }
+    ],
+    "place_id": "ChIJcemKX3zzK4gRGe2HtDbTK2M",
+    "plus_code": {
+      "compound_code": "FGG5+4F Kitchener, ON, Canada",
+      "global_code": "86MXFGG5+4F"
+    },
+    "rating": 4.6,
+    "reference": "ChIJcemKX3zzK4gRGe2HtDbTK2M",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 13,
+    "vicinity": "420 Bridgeport Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4798863,
+        "lng": -80.4844557
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4812096302915,
+          "lng": -80.48303036970849
+        },
+        "southwest": {
+          "lat": 43.4785116697085,
+          "lng": -80.48572833029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "Grace Lao Mennonite Church",
+    "place_id": "ChIJpWByjmXzK4gRnw8nHO4kgA4",
+    "plus_code": {
+      "compound_code": "FGH8+X6 Kitchener, ON, Canada",
+      "global_code": "86MXFGH8+X6"
+    },
+    "rating": 5,
+    "reference": "ChIJpWByjmXzK4gRnw8nHO4kgA4",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "575 Lancaster Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4057685,
+        "lng": -80.51322019999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4071760802915,
+          "lng": -80.5118776197085
+        },
+        "southwest": {
+          "lat": 43.4044781197085,
+          "lng": -80.5145755802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "The Gathering Church Community Office",
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118141292848437638476\">Marta Borowska</a>"
+        ],
+        "photo_reference": "AeeoHcKbYiz2iig5BDq_njQNw_Ia53vEiSIECSwnMKwC8CJ4vqLHww_2wX_A9p0PqqZyhECmrkLDpd5WNqLyVjOFGPaO5v9bUE4TDTLcVCD9OTRoNCeAhqIabXZeWe4aFTlIEHmgdkTuvl8byc15aVLgb2-2s6mrt_FfiiwSXY2_0t6RGdoyHfE0Vabg014h7pBWa1aw8y3O9n3cbyuG39I9VfOnaPDz9AAI9QKMGdqnxFLJouB2afGTbGxdVTqE5vLaSKufhlwdMg5Hs1EJglr5ryNxsvmh3nBRhA8GktjHizBp5ggINN1jm6Yxz_BBofUKHIP8e34KsnLB7zuS8ZPFaImLcM_XEQMw9AGcIgvwxqPgfDRlAkLXwj5j88ixHF6gK523JFTI1ktTKkiLHCjEgPiik_esE8Xhwbm3CqcQZbGJGr-MOGi_V_SAGEfxwNNK2bmlCyexoZ83pnVegV1eFNeEleeW7jkSzeICin_py67mzN1BXfmEj3-f5NLbE1WZ1Jm-m9-A63nbTT8LmZrh4FbU0jjoYgnyN_01_b4XI6NE7hu2r_vfCQWlVYPOgseCMNHcEEf5SEsThciuk2TnTgRQkNRdwnXROW-db1MMVGbsvY2YgE-nMLBDg6POt4t2OhJik9Ld",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ71-LLI71K4gRtOH4lvDpIfQ",
+    "plus_code": {
+      "compound_code": "CF4P+8P Kitchener, ON, Canada",
+      "global_code": "86MXCF4P+8P"
+    },
+    "rating": 4.5,
+    "reference": "ChIJ71-LLI71K4gRtOH4lvDpIfQ",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "192 Activa Avenue Unit 8, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.399953,
+        "lng": -80.50731060000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4014189802915,
+          "lng": -80.5048039
+        },
+        "southwest": {
+          "lat": 43.3987210197085,
+          "lng": -80.50815150000001
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "Freedom in Christ Pentecostal Assembly",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 576,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108904276771936075706\">Freedom in Christ Pentecostal Assembly</a>"
+        ],
+        "photo_reference": "AeeoHcLb0EeTTgALqxILlsvCZ-mrJF887JM9EOv49DZxPuKaBCbS4uCES-iWCdIhgXKu7M5xqBvVUN8vWnwRKaCjbxx7cO40v06R9aR35Hl1ZAK_5U7m71oH8i8FP9MQndiO5xVN1BuD8UDgeHiLDZILirBBopRUl3LbDyqSeAJF-ipWkxdAihLNtdtzIknbCFc0sCZYxtZ9fB6a_z4mI3xfnz3Bm9wd3TDbbtgCoEDjNBa9mAbAfe70TLbLHJGgGJxmwQojBu3NM9Vg3NQPOVbo9AFGMxSUNKErt7iU2AUjtr95iQcnMwwZoyyVMii3H9c87DwXGAC8B88",
+        "width": 1024
+      }
+    ],
+    "place_id": "ChIJoTmeaIb1K4gRauHVAhPK7W4",
+    "plus_code": {
+      "compound_code": "9FXV+X3 Kitchener, ON, Canada",
+      "global_code": "86MX9FXV+X3"
+    },
+    "rating": 4.7,
+    "reference": "ChIJoTmeaIb1K4gRauHVAhPK7W4",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 38,
+    "vicinity": "1643 Bleams Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4686158,
+        "lng": -80.54762310000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46988363029151,
+          "lng": -80.5462966697085
+        },
+        "southwest": {
+          "lat": 43.46718566970851,
+          "lng": -80.5489946302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "Chapel of St. Bede",
+    "place_id": "ChIJVTQI5Kj2K4gRyILHH3TkIDA",
+    "plus_code": {
+      "compound_code": "FF92+CX Waterloo, ON, Canada",
+      "global_code": "86MXFF92+CX"
+    },
+    "reference": "ChIJVTQI5Kj2K4gRyILHH3TkIDA",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "240 Westmount Road North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.48212189999999,
+        "lng": -80.505286
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.48354903029149,
+          "lng": -80.5036787197085
+        },
+        "southwest": {
+          "lat": 43.48085106970849,
+          "lng": -80.50637668029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "Waterloo First Korean Presbyterian Church | 워터루제일한인장로교회",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1171,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109012405187438106056\">Waterloo First Korean Presbyterian Church | 워터루제일한인장로교회</a>"
+        ],
+        "photo_reference": "AeeoHcLmSbtdP-e3HVyBzB87m63TtX3Edn09TIDyJyi0FnD4wGtWUV2N-k-jjcSULx0WjidayvpfqLgPkXQ3n66LmCYGgkzi7m7JkIXM9x9Niu0l1IooDcObf8ebnQ3PriGr43Dh1B1S56JVQJ129sgg53olztmBZ7sFT34kvJflWCS_EIvZcCUCKbwQHL9tDvONnl-A_NfcOnAgy7MefkUbz-NH7wnuDpPCeVZAbMfNzW1opRvQQdmO9Lw8TE2AzaX3H16CfWJ7F3k-1Wk-mLdr69R36H1S-AXKPiB1ua8-nUnLmss_0uhuztGLTYz_Pj5kXEFVWq7Uvts",
+        "width": 1172
+      }
+    ],
+    "place_id": "ChIJ5QpVq4TzK4gRsictVxWJOZc",
+    "plus_code": {
+      "compound_code": "FFJV+RV Waterloo, ON, Canada",
+      "global_code": "86MXFFJV+RV"
+    },
+    "rating": 4.5,
+    "reference": "ChIJ5QpVq4TzK4gRsictVxWJOZc",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 12,
+    "vicinity": "289 Lincoln Road, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45344959999999,
+        "lng": -80.49376319999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4547567802915,
+          "lng": -80.4923186697085
+        },
+        "southwest": {
+          "lat": 43.4520588197085,
+          "lng": -80.4950166302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "First Church Of Christ Scientist",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 568,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109892051347362591046\">First Church Of Christ Scientist</a>"
+        ],
+        "photo_reference": "AeeoHcKsh6MsGiSMRmx2PIHbG69NsFsLjFBoUMDUOTLujWt3-RU3DCAJDPkaSBTeiv4tSYt0LbPCiqb9VyBhMiudTq1lW9gMjJW8nbD6U7VvIC7r1h5XNTtbv4WNgkgVkLctbHYwEPT0apCxuK3BTvl-0JTGrbXql2MXPxzyjaLF8V6tkHjGUx1k1MpbLgppXAZnn_oSwSxD-1VsUDGDdLMtNjj-p38SnIkiyl6Q40mHm4deKFHFYt-yP6dWgIo9_VYBEXOBjCxXLiFmh8fNmPyKTP17Z5gGjvtBCB_NvHNX981Qm_jnILG4iggIv3LYCRarUK7Jh08U",
+        "width": 1250
+      }
+    ],
+    "place_id": "ChIJHxs7p4z0K4gRyHl0JE7h6qM",
+    "plus_code": {
+      "compound_code": "FG34+9F Kitchener, ON, Canada",
+      "global_code": "86MXFG34+9F"
+    },
+    "rating": 3.7,
+    "reference": "ChIJHxs7p4z0K4gRyHl0JE7h6qM",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "64 Water Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4512464,
+        "lng": -80.4898572
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45257128029149,
+          "lng": -80.48844841970849
+        },
+        "southwest": {
+          "lat": 43.4498733197085,
+          "lng": -80.4911463802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "Iglesia de Dios Ministerial de Jesucristo Internacional - IDMJI - CGMJI -- CA KITCHENER",
+    "photos": [
+      {
+        "height": 1152,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115619979684843256810\">Iglesia de Dios Ministerial de Jesucristo Internacional - IDMJI - CGMJI --</a>"
+        ],
+        "photo_reference": "AeeoHcI5TeYeiZbpn_yZV_OoEYYxbIvoqF50rxUfuMZhcznfmvw_FsT2Dn51YtDPMCwOJq2TqxU_s8mVWxuIIS66dlpndO40sXElUFi4FMjALtvqKE6Z991fhht-soIONl81orv4pvxjT-8_purshwA_lOOHbdpZm-0fea-i2_pwm9qltdK2FYYqz2VXrax_39jgJ9eV32fMJlz80Y8PtFPUILpQozhUTiZU1DwMwoF1L9D9QfzzT1_9vyzR_vwdLtBfdw1taFuF5LMddekrgVkSyX9QuE0d8eka3RSNxPmczNxZ7XhGlDviQKiSm73D0l-xQxylVfGvcjs",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJuzHYwPL0K4gR6q-UHS23lkc",
+    "plus_code": {
+      "compound_code": "FG26+F3 Kitchener, ON, Canada",
+      "global_code": "86MXFG26+F3"
+    },
+    "rating": 4.6,
+    "reference": "ChIJuzHYwPL0K4gR6q-UHS23lkc",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 11,
+    "vicinity": "62 Ontario Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46449019999999,
+        "lng": -80.4576233
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46576853029149,
+          "lng": -80.4563938197085
+        },
+        "southwest": {
+          "lat": 43.46307056970849,
+          "lng": -80.45909178029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "Apostolic Christian Church (Nazarean)",
+    "place_id": "ChIJ0WiMm6v0K4gRmr5K-s3QiIY",
+    "plus_code": {
+      "compound_code": "FG7R+QX Kitchener, ON, Canada",
+      "global_code": "86MXFG7R+QX"
+    },
+    "rating": 5,
+    "reference": "ChIJ0WiMm6v0K4gRmr5K-s3QiIY",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 20,
+    "vicinity": "28 Avon Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47686660000001,
+        "lng": -80.4853728
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4782058802915,
+          "lng": -80.48401156970849
+        },
+        "southwest": {
+          "lat": 43.4755079197085,
+          "lng": -80.48670953029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "St Paul's Lutheran Church",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114176121940812093854\">Jason F. Voll</a>"
+        ],
+        "photo_reference": "AeeoHcKjGkR-cQ-hZNTg3qjkwML1TnGYUE2nAKlRYD0R0-4Oq0f-FEuzVvdAJz62BMNBBXCb-L7MmFOUAIkrtTLBJUafC2RGi70Z1paS_ZnscRevApuSBi4SwofXcwFS-4y0qtF7NiwjZYht_SVRTxaJTBD4OtDRELoQc0WmU1_CwIUiJSx-psbY2P4a1bd31uX05TM72YN392kJYTYrttJOrINtYXul8A6IEMkTwC02kcaTU4-mR2QdgFewJXPazfMNclIdXmmj_G2OvQak-37t_cTfqv3i1On9rqdp5E0ktzw4l_CDNwC5XDbmpdWiYGFypDFbxrBrDtpLPC-q5Uz0qw2qrzyRN8iptsdadx_ol1LXV1aHsAnv4kjL8kH3AfnZGeMJpqcGC902bF0T_xTplkfvjeVM4t50JMCwE4cNubFhVEplx2_KVfccvPYlLb-PQTW6QDQPvv5RQcvt9n1eWYlqrc77A7Ap4mKmi-t_nzmslPX5aNXNg3Iu2ZcsOEJ7Pa4t_UqNznpw7R1nocwrOH5ZHQO7ebL9gJc8Iaqav20H6sTNGb4-8s0vZxsoUgQV09AZ1dcl08ha3BxJ_cO0MP-zaQv4lYH41oA2K1XErV8R9Zv3g936UPdx8QoeYHzV",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJGzoaL_L2K4gRDaw4R-_eS3g",
+    "plus_code": {
+      "compound_code": "FGG7+PV Kitchener, ON, Canada",
+      "global_code": "86MXFGG7+PV"
+    },
+    "rating": 4.9,
+    "reference": "ChIJGzoaL_L2K4gRDaw4R-_eS3g",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 7,
+    "vicinity": "544 Bridgeport Road East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45216739999999,
+        "lng": -80.481407
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4535133802915,
+          "lng": -80.48020511970851
+        },
+        "southwest": {
+          "lat": 43.4508154197085,
+          "lng": -80.48290308029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "Freshwater Church",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 480,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116195113376644556162\">Freshwater Church</a>"
+        ],
+        "photo_reference": "AeeoHcJlel4hRBr1ns9qjepJzyVfy-9LY9fjPLQNtX_ig77IpiRiFpbHpekBERi4kEb5y_R1Y9DRuNT9ZI9rm-JLiZRiF9rKAgHJavBP9Akrh5ajSZksHEAzq4ojUWrVnz7kCw6ZOemHD28Su-k_rPaTxsPjHagoEXPxAwA6Jn0mFgGVmj0FxHP6_6DB9lUCl_yDNcfzDaBESOJfFnsGVVYmu7Ch2nEB_L40UI6k5ABfIQoGaWqMsquO5AfNELjzU8YJWOeYsCus5nFbn4Qv-i4zSo5r1yJzer76aoxSyVgQ0Zm9ss-4hZPq5ebNbN1ROi5G-jxMuxZ8EZk",
+        "width": 640
+      }
+    ],
+    "place_id": "ChIJmS9QhSP1K4gRmtFKUum1BKw",
+    "plus_code": {
+      "compound_code": "FG29+VC Kitchener, ON, Canada",
+      "global_code": "86MXFG29+VC"
+    },
+    "rating": 5,
+    "reference": "ChIJmS9QhSP1K4gRmtFKUum1BKw",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "160 Lancaster Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4939181,
+        "lng": -80.53640949999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4952140302915,
+          "lng": -80.53493881970849
+        },
+        "southwest": {
+          "lat": 43.4925160697085,
+          "lng": -80.5376367802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "Ontario Mennonite Churches",
+    "place_id": "ChIJd-dDyuDzK4gR7PV8BIhI1-I",
+    "plus_code": {
+      "compound_code": "FFV7+HC Waterloo, ON, Canada",
+      "global_code": "86MXFFV7+HC"
+    },
+    "reference": "ChIJd-dDyuDzK4gR7PV8BIhI1-I",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "490 Dutton Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.43021299999999,
+        "lng": -80.509052
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4314819302915,
+          "lng": -80.5079374697085
+        },
+        "southwest": {
+          "lat": 43.4287839697085,
+          "lng": -80.5106354302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "Kitchener Walterloo Dream Korean Methodist Church",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2240,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106320009859144234682\">Y.T. (Dan)</a>"
+        ],
+        "photo_reference": "AeeoHcK4eJMfSHYypQNwCQZzR2-jgF1bLGW0-FhWeFLD8GP-xrdbExSv3Q2LtVqRBA3sZGUxF7xuaB425gAr8rlvMizqt7_Xvq6bHAkEOq6tVjVZc0DREwAQ7faNeRCqUMAndhwQFcQiUmPh7NYyac1f-ZyBTbJnQQSnH1HpI40QFHB-fx7iEAQ1ml_NKua0xkmSnoNYDbIEF1_SRKechJc31mcHYFTEbENsNOa26A9ctrPV-zDVHd8Y8afD40-R_KiEl4XZt5ZUKnR_iiBhzHmuy170Wt3P0ksHo5cCfC2es5k9kHNCvRFxApNLrBCiYk4n3BUFGseffjuua46Wv6C3PIKYvDnoGTT8u2T8pX4S8hhzSaTi9S3leqHKY-CebZYBygomxw3HEJeUUHwzuiu3M1I5nPtQplLUfu5fiMgWupcfKdgKGWFnY8b_LIeI8PKcE8EQzGMBsgpIBqVFvL1ZhwGE8sn_UIgGeJ1aTtAOCqcLemC04-2I48w8SNMMl4duSzQ_Um3l4Zsosv_oDU-FlRgoFSqq2oYyDxTtAhmW1xsHXSyprPq7RHnTvgwgEsEoOK777g9BvZoEJu3MszX7qTWpZN7b1bpilsAKy-bg88Jtux-F8GkpC0Y2Ln9yA-4_XozuSQll",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJESoJ2631K4gRHc4NVl0MFrI",
+    "plus_code": {
+      "compound_code": "CFJR+39 Kitchener, ON, Canada",
+      "global_code": "86MXCFJR+39"
+    },
+    "rating": 4.6,
+    "reference": "ChIJESoJ2631K4gRHc4NVl0MFrI",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5,
+    "vicinity": "121 Westmount Road East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4301191,
+        "lng": -80.509096
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4314349802915,
+          "lng": -80.5079594697085
+        },
+        "southwest": {
+          "lat": 43.4287370197085,
+          "lng": -80.5106574302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "Forest Hill United Church",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3036,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108724181586263211701\">Randall Culp</a>"
+        ],
+        "photo_reference": "AeeoHcIYYPG4r4_P37U3Zb9Z6JVydTNbhD3YhNbc6xsP8OzjlCMtNv3NpuNGyd8XYrvTEIFcjFfxmwjwPluUF51zCzmbRai74K85zlFL6wzoHus5mktBxMcq6LEKiKceD6si3SmSAF03lXEAv5rjLkV6nz_IWTU9rLBtfd1jYWYfJDUExZM0PRW4cE2cIjawe4rZcHDyaGcfI-PelqY6Z6I9AtMf_rbIs0n8pdmmhuKCX-t4ZQguYFrKjO_075_dim1mZonv-k0JCPBkz9VBvkjNjl7-c0NvumwvhsP3JwMn_xpuFsWQ6cfxzeCM_HSnp51QDc2qsCM_6DHB2N63Xe8VfaOFStkn_tsbehGOkfnruTgLkxqJ6hk4t8JaVXsn1WKad3GsT69ABwMc1N0tt0PkCDA6JMToQg8RmH-Q9llSBmcQRdEurtwMDsCq0sBQuZiH2pwLnp1gUhu-F39vDgi6PYYI6NUUQ0OPJyQ0wNdLa4PEv-y34coMt85ROsn1IBMWcuFNCod0y5MrYVe0NbyKeiVxTq-DNkLD26k6Kq-16ce-kkfPow1CF1NRkLg2jGOvBvXW84JwYkwA-bOdXh28zJq-5qdP1wgLaY0nkUos1jWnvnyUCH2a3akOmVUOgK50QoczFNa0",
+        "width": 4048
+      }
+    ],
+    "place_id": "ChIJZ-pFoOv0K4gRRiABH4V2it0",
+    "plus_code": {
+      "compound_code": "CFJR+29 Kitchener, ON, Canada",
+      "global_code": "86MXCFJR+29"
+    },
+    "rating": 4.4,
+    "reference": "ChIJZ-pFoOv0K4gRRiABH4V2it0",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 43,
+    "vicinity": "121 Westmount Road East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.43975990000001,
+        "lng": -80.4734052
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44117938029151,
+          "lng": -80.4721805697085
+        },
+        "southwest": {
+          "lat": 43.43848141970851,
+          "lng": -80.4748785302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "Apostolic Faith Mission",
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109906705729660378676\">Dr. Gbenga “Lifted” A</a>"
+        ],
+        "photo_reference": "AeeoHcJvwhnQ_76brJoWsYM75HLp1__SwjS1x7tCLJ8bGVkoLF_SdqxJokEJNaiu3YfySzTV4XCTtt88NCESuOopZZyvEStKvYLy-vQwRLyh9vIGoZYdr6eZWNOoK3Y1uoEvqoiIywaoPindTduoe04zghrQ5g77VzVmytu3owz28c09IwKlbcfPhF6L-p3mdCM49SsrJnJnrY7JrvcWPSiH2sJB9jO7bTYzMtFQ0kDG3NXqe4y9ObIpbH0W34nhmMS4QDLEOMKTZ-eYxkow08zwwP-o6AqJRB1qH5DDUo8NBeUYC7ni06xdsVUJB78LdNJu70dcQ_tl7gzONL6Z4eNlzgkp4bCtAMShvspMGSfMOzETeY_LpJxpOhz7IT5fNPVT2pwa6z57-m4Guzz64nfkMxCu4qKPJUCilmuefEpTKGthdh22Rn9g_Pw-IpWfwO4VQMKKdpYpu6JZOmJhYpmuM4RVKuU0QpOjfyoE6zTCujBWjrGCn-_jWinFWJqp8iQ_6kc8L8OFgRvgRR49kfcAGEuXGRPSvXgsQENG6EshG1uvSWEmoSHGnJ4EUuzuyR93iMF53nOAej2fFYxJy91Ln3SzSHr9bGeQeOhALucJYbs2Qbc6Br7hh0pM07ZBtD9RQjJ02Fwb",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJ5XhWBGyLK4gRHnRoUJJ37Vw",
+    "plus_code": {
+      "compound_code": "CGQG+WJ Kitchener, ON, Canada",
+      "global_code": "86MXCGQG+WJ"
+    },
+    "rating": 4.6,
+    "reference": "ChIJ5XhWBGyLK4gRHnRoUJJ37Vw",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 13,
+    "vicinity": "85 Ottawa Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4228932,
+        "lng": -80.5588427
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4244225302915,
+          "lng": -80.5571156197085
+        },
+        "southwest": {
+          "lat": 43.4217245697085,
+          "lng": -80.55981358029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Taber Kitchener",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1151,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100423851822531587635\">Taber Kitchener</a>"
+        ],
+        "photo_reference": "AeeoHcK1A6fg20DOLIfOEz8kuxQjz2sVMewDqxcrSPVWOT4ipIsFGLD-ZnXxR28mXwuAQtOlfvVEXuN52Wc9vCpwe5lPxZLOFdJ8agQo-YBkIWfvaP5jg9FPRiJRhc5yHL7_m76XnL5eYDDjV99QPdYZdMhzQyZsoK-bFJfeHo3oVbM_EEbW1nAIJv0PbVPBlAB8yeVu8MVH5WOtM_olUlj8-5Y1K3Qv3lWsh_GH_ECNgewffTN-gpBx6zIDrwi-IrfxgYJ4hPPLK0OxC15pX4LMcRNjbkPXnI74Rsw8krIYygtDKy7733jaazlai-uj3dUvLy6MuZnbgXo",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJnb4Y_Wz2K4gRzQhJhcP7ANQ",
+    "plus_code": {
+      "compound_code": "CCFR+5F Kitchener, ON, Canada",
+      "global_code": "86MXCCFR+5F"
+    },
+    "rating": 5,
+    "reference": "ChIJnb4Y_Wz2K4gRzQhJhcP7ANQ",
+    "scope": "GOOGLE",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 28,
+    "vicinity": "1850 Glasgow Street, Kitchener"
+  }
+]

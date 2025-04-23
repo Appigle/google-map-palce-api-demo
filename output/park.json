@@ -1,0 +1,2932 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5031741,
+        "lng": -80.4719449
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.50443645,
+          "lng": -80.46095340000001
+        },
+        "southwest": {
+          "lat": 43.49963704999999,
+          "lng": -80.48298259999997
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Kiwanis Park",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116746058772026352660\">Michael Catsburg</a>"
+        ],
+        "photo_reference": "AeeoHcLolXN-JhQF-SmMxpvQptHDPVEXABiA6w85VIV3VnIU4GlVfoEgyitdkFiPrgaN9LaqDSiNNsfFfGUQ1QV5dtblxdOpnRQn6bBosKnG-ev4fWOu4NL5b3xOOHRop2Fkvl-PglpEFIwykU8kUdecbKNUhvUsjIIYN7EnkWPKkoLSU0Qd8q2XFa93ij0-MmC7sbTIkMH6i5gRS0HBz4ysXY81KIxI3PJUrchWFUSVJHerzUq36oogYmNPX2Y9mOQ0Vc6oF7cUUQU_5dqa--DHy4juOk5CwFFVyRRnxqffvabS85ErGUch1-h60PfKNzbxFs4WncxKhF_2rb07kYRNsrP6Ju_wdEPVZG3cPNYAcDb4kZt34pqZlr2ZXZCL1DkYUe_7-yTRhvY9I-saqqpshqWeFyHjXRGgAfL2LnNSYSpTHq1z2A4S1DTpK_aTzA71V_PzV4rO1mU0MUHBVQYz9Ae030uMu4gAgP-0DEx4xU9pzfLSQtBwuvqXAv3jE07E_F99deD8q4XSLPvHJ9Erog4TgcPj1buTGi3vX2PVaOk4iEYxIuwtm19ERbAiYOpml4SF0PggjUn4k7k9eFm36uYihh1CKlzC9h-L8iAlFG7NsmgVNYE4pKZiJsolMR5dTTlx5Owq",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ_cjk7iPzK4gROQ1WCcStu-c",
+    "plus_code": {
+      "compound_code": "GG3H+76 Kitchener, ON, Canada",
+      "global_code": "86MXGG3H+76"
+    },
+    "rating": 4.4,
+    "reference": "ChIJ_cjk7iPzK4gROQ1WCcStu-c",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1226,
+    "vicinity": "1000 Kiwanis Park Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4735004,
+        "lng": -80.4500826
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4751583302915,
+          "lng": -80.44931665000001
+        },
+        "southwest": {
+          "lat": 43.4724603697085,
+          "lng": -80.45238044999999
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Bingemans",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2656,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108908011889920527735\">Bingemans Camping Resort</a>"
+        ],
+        "photo_reference": "AeeoHcL2p3jmMrG6p_gyLi2DJsQ9XrpKirxwO3FnamXGeZjKb2QkYQQq0ICQZOnyinZdhoZWVaxnDMdDYTJv3f0DVkCXTqLckIHag9DUmKFqkKIdJTwZA-OWsInXi-x6tShe6smdhnSdbjdofZnZkCMPCk2WaJ88bk9_I0TljOGQyWkU4eixNByE_D4HyEHYKiM0D15ejdQ50GOkuhX6VAbDh4TvnR-XtLf8GyYxMv_H7mIVuqCIbULUi-kqCJd9BVpZJKYpW_KTW3mqgxBtdvxfLKdgnIQ9MkGM7WKbfogiWfc9A-FWG_E9eeQiRpK8eAxMOX0a_nBKD6U",
+        "width": 4360
+      }
+    ],
+    "place_id": "ChIJ1V_snq6MK4gRA8suIZwOe_4",
+    "plus_code": {
+      "compound_code": "FGFX+CX Kitchener, ON, Canada",
+      "global_code": "86MXFGFX+CX"
+    },
+    "rating": 4.1,
+    "reference": "ChIJ1V_snq6MK4gRA8suIZwOe_4",
+    "scope": "GOOGLE",
+    "types": [
+      "campground",
+      "amusement_park",
+      "movie_theater",
+      "bowling_alley",
+      "park",
+      "lodging",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6106,
+    "vicinity": "425 Bingemans Centre Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4639429,
+        "lng": -80.5223647
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4653122802915,
+          "lng": -80.52087056970849
+        },
+        "southwest": {
+          "lat": 43.4626143197085,
+          "lng": -80.52356853029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Waterloo Public Square",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 400,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114504923265559535702\">Waterloo Public Square</a>"
+        ],
+        "photo_reference": "AeeoHcLDjAbtlVV94ChlSguh2dAkjsG8XmhvsIBmY_AYexavFUGSESJ_mvEToq91Qy3du4TpRG2e5OPSoktqC5KEKlyrDVrRzv5yQkbgwgwFfDhafy5ssRNpj2f4usr_2aSlxHDO9FdxebClIKeSGMVjxD27remCqiuLLKtBGsBF94l4-mIgvmYABOw7dshZbarjePbVmXNBsclqjrvsODYmDW5JYbvRM5zpa_bDhznuCG2FR5A0MvXGsRiAmuLP-LyJ4rVAWYlbPLfRO_CNdRqdZ3gHJ6bIti8zPZdFK-7lkABstAU4VLmdVLta6Je0Rk_6oCIsweU_aOI",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJrYsz7hL0K4gRUgMpn1AVjw0",
+    "plus_code": {
+      "compound_code": "FF7H+H3 Waterloo, ON, Canada",
+      "global_code": "86MXFF7H+H3"
+    },
+    "rating": 4.5,
+    "reference": "ChIJrYsz7hL0K4gRUgMpn1AVjw0",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2067,
+    "vicinity": "75 King Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4739274,
+        "lng": -80.5114325
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47479405000001,
+          "lng": -80.5101742697085
+        },
+        "southwest": {
+          "lat": 43.47132744999999,
+          "lng": -80.5128722302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Moses Springer Community Centre",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100993546268435292320\">Moses Springer Community Centre</a>"
+        ],
+        "photo_reference": "AeeoHcJ0l8F1cEU2VrE72L8jL_N1EwOn0a11R5-MIP-IMWfizocUkm2ukxEEmuGilxoEFDr3uxAfhDQwE8Wa7yRGZVyUEq41oJ9-GehB2oP8i6K8zDVJiFqY_loW9bk9RURMmEx-94ok5PXKigNMmk1AlEnO8T89cdQynRBNywz2xKJ_8Bmd9d9MeQVZP9bfCecmNdlZx_CtwBOYfzzhesKrJLIgB_9uIRdpCR44OrRYt1rMijq6f4i7_uTcubn2k1pQkIei6qNQXNqhw1YGLp7ZF3YAW030xoRosUoyLcHorO0A-pYH_gv6L8qkdfWEYCl_kwAG0VWLG8I",
+        "width": 900
+      }
+    ],
+    "place_id": "ChIJObXF73f0K4gRaQisv51gIrU",
+    "plus_code": {
+      "compound_code": "FFFQ+HC Waterloo, ON, Canada",
+      "global_code": "86MXFFFQ+HC"
+    },
+    "rating": 4.2,
+    "reference": "ChIJObXF73f0K4gRaQisv51gIrU",
+    "scope": "GOOGLE",
+    "types": [
+      "stadium",
+      "gym",
+      "park",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 333,
+    "vicinity": "150 Lincoln Road, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4457166,
+        "lng": -80.4986983
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44805770000001,
+          "lng": -80.49233315
+        },
+        "southwest": {
+          "lat": 43.4446865,
+          "lng": -80.50093135000002
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Victoria Park",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 9248,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110485975462381243665\">Jeff Gingerich</a>"
+        ],
+        "photo_reference": "AeeoHcJaHawVPrQSL8Dui3C_lg14i06AsSxJ2O29gyUZXqByk1u89mYZEQNyZIU0_SoIp_lZTJ1cPpgxhm5fQdQOzV5duQwnFx4Tw9Qh1YvZm35MvHmASh7ey0AAO706ONXl9-8JCPLoQtNfWBgCwH3Q1bZpTBhkoLkcH3IBk0ZSidBIcf0JOYQSJHsCfdHaTrfSqCuqVd6GryPrM3bz8VFnO9xlnR03SxbJ47fZn9SWA10VXV7S7qRdpR4VW-FiM2ziv14edvcg8VWwEV9Qo1Xe4cPfTtNx2rxoffV_sm0YU5TCF1WXHt7wHfRJYYahYOmFThLPOAtGJy-vS-530Edh7coyfCSiSoryHFRNCnKUIEE1cTYrC1-zNnhzqnx5th74DR2kJxF2wEkt1K1WngndovnKM5sI_-0ZN_J6qBFEsZpwkmarRnG7mx1r7zjIZC1t9uX0op4CmsEpbQ87wtElX1_S80SGTz7478YR6baJBkNXRrp2C9syFyw2OtgTZFhnzZHXaYFB9qmBRLvRRF4OxZOBq5qUSEH3tsAxBqOxJOUNSQ28R66Rzbdiu-gzAZQAiZKy74qN20_m5XuUpRGZ_10c0VX_e3-uBBabDcchp5xX3cIi_uVF8sSaKfwiBN6v",
+        "width": 6936
+      }
+    ],
+    "place_id": "ChIJLykVRPb0K4gRuzfEL2v3dqc",
+    "plus_code": {
+      "compound_code": "CGW2+7G Kitchener, ON, Canada",
+      "global_code": "86MXCGW2+7G"
+    },
+    "rating": 4.6,
+    "reference": "ChIJLykVRPb0K4gRuzfEL2v3dqc",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 7666,
+    "vicinity": "32 Dill Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4675513,
+        "lng": -80.52717299999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4688861302915,
+          "lng": -80.5258107197085
+        },
+        "southwest": {
+          "lat": 43.4661881697085,
+          "lng": -80.52850868029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Waterloo Park",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 6944,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110718356140781521440\">Premal</a>"
+        ],
+        "photo_reference": "AeeoHcK3B85OnECVUqZPy91vBPvgdIb1Eh4epdTuiQayekka72f3ALxoMlTJJ5dRFu_L10WswxxJDzYVrSQ2mku-SU8EG93_E3bdDW_OafrwYYu4WFtY0oq3elz7MEab1IONLuLqKrD7Et5EsNCgrQ1M_o2r75GLoHueFzn-8aA3PVJ4aOVTrgQuonTVgSBsT8gOHYBTFxGkcxW9oE3BjJpsZGpsOHlkgctVHyqPMlwuZssa7cK50YlVtZcp_vRLZ2NTuHujvCqGIlqIw9yG-iTEQoMpcAk01DJ8jFS8Atcxe4gRuqDSlzlq8Qm49mJX_3fciDXT5neDbA4wVyBxlp186m4B-DgoDIsckzvU5EYreFmw8aS2JGyCf0ZlL-U-hJvEd2coEqY3cdNtqZ2H070xFOD2X9biokuFXjbtYePZ8zgt9mxWh-8655kp_YK3yUjog_nObgng0wJGuascomTfePw-pLWfhIHK-j3sAPDnYPdROg6AsFAQMD2_eG6UTYh-pQwif-SnSf8JFNGPLiYf1pP_oKIbjLom9vuCaFe-4Wi9NuJRhf6e6lrLHZcHlVlF5nF5OAbHotxP-fFkum8gRX3EUsNKEzXWZPE-c4Ys7J2lGgOoysqFurgbAHiYN2ijt535zg",
+        "width": 9280
+      }
+    ],
+    "place_id": "ChIJH4BzrwX0K4gR2w0LqfwQcwI",
+    "plus_code": {
+      "compound_code": "FF9F+24 Waterloo, ON, Canada",
+      "global_code": "86MXFF9F+24"
+    },
+    "rating": 4.6,
+    "reference": "ChIJH4BzrwX0K4gR2w0LqfwQcwI",
+    "scope": "GOOGLE",
+    "types": [
+      "tourist_attraction",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6023,
+    "vicinity": "50 Young Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4882097,
+        "lng": -80.484358
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4896104802915,
+          "lng": -80.48317161970849
+        },
+        "southwest": {
+          "lat": 43.4869125197085,
+          "lng": -80.48586958029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Exmoor Park",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117826641852775804770\">Jennifer Robertson</a>"
+        ],
+        "photo_reference": "AeeoHcKFK5Uh33nrPY5WtpqhTAx263jnHy-Lct8GxdelRA2WfygR9B5VxXssKBCOB6zkcCPr3sab-vss7_xy8TE9Ery6MGw0F9yTADWb27PJghhNUsFzSiOwqpwbcCryigHjZztAt130LAWDrJefm-FAXX2rhakCaXmCGj0howetsoPz2jtAJg5dIvU-iDkCLG-weXJOGpBfcCgdVXm_ZkQzT-x27_wDuK_-jPq6iqbm0zDa4ftkVRudhC4Rt0RtGBNcYKjgD4MkX0EY3KfUKDo_6D6caPlvUlwme7jfyHrvdsmOjJDFyLnaJtb4xx9eHcDFfOWEUpqGYv285knhdMgoumOmRL7vgPWBGS8WZkuAt8p_IOwmyy2o9asWjC6HjnB4TyGmwxWFdmI02RDyse9c-CIiL4CinGwRRC1IA6gAt4zKmyb1yihiXBkjC9noQbA2sJjlierWN-2S77JFQLwTSzhywO2tG-RfvXD7NKGnl8vaqi55NTrquJlwCGbXUYAz7caKNb8Gry8GBLrPVu_WHlBfwgUCsmPAIUmor1borC2woVTgvw1fzfkvOnSSb914YazdPCJtWXOUji5OqHv7VTrmRtBanAW9pWIC_M1pJ865MKoLzkXtStp51WWsz-dtSe-glw",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJhUft7WzzK4gRnVOKCzMheMQ",
+    "plus_code": {
+      "compound_code": "FGQ8+77 Waterloo, ON, Canada",
+      "global_code": "86MXFGQ8+77"
+    },
+    "rating": 4.3,
+    "reference": "ChIJhUft7WzzK4gRnVOKCzMheMQ",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 26,
+    "vicinity": "448 Exmoor Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5086081,
+        "lng": -80.499212
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5103584802915,
+          "lng": -80.4978323697085
+        },
+        "southwest": {
+          "lat": 43.5076605197085,
+          "lng": -80.50053033029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Yarmouth Retention Pond",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111904465364991211672\">sanka weerathunga</a>"
+        ],
+        "photo_reference": "AeeoHcLcqkTgl5cyfi19sJvo-jceq0bhDjKwdO4Hye6AvfsU0Qw1hmr0YylNKISswwJ3bm-VS4fcsXUJHZAdW_8DUAg69xZjWq5JIxKMC_ELT6r7XelhEiMVZh3Zr_z8UobwbZTmiuKFpDLFiZ25ES0U54IqpLOx2sOzH53hM5RLbKq-FlM7-qwlwrCZ4kb1DMfEuxoyKbZsIefxzHBHGMwQmitJ-R17szgK7VjpwtxCHJI5H9WTk_Y0LF6Sp-Oyqv5wBHm2BblLwprAmCZPLOka_Qyd_3YdCY9Fx8y5ET5c80B_la-cthLvJtttzvbEwUwDODE3RKVm0UIbUNCgoC8y1qYR8FqiAbKK8PM8eynYynxu_ZfjIokAGk_I81Dy2q8YmeosttRZvJIMJ6UixQrq1H5Qt6goxwMEASinbz9mvuJmer3AOXDsoqX4DNVY8jiC5MsXP0tcmQY2KqA4XpM7D84_2MXecinV5OJoqECq0tCN4-9uO70FfQVdU5_Q3YfpM44PBjrUZ8H0cafvcgEQQ7sqXULYyWF9-YcN0TiBN-6Wk7wRMfdTJhkKhFkEgrljkbGmeK0GEBhFwgYPFR5Qg6OjxJdQKsEnGcWNmfYWavkUEzlV6UAvOz92iGabsaQvuEF3nw",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJf7OndgDzK4gRFjy-zgDTDvY",
+    "plus_code": {
+      "compound_code": "GG52+C8 Waterloo, ON, Canada",
+      "global_code": "86MXGG52+C8"
+    },
+    "rating": 4.3,
+    "reference": "ChIJf7OndgDzK4gRFjy-zgDTDvY",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 22,
+    "vicinity": "618 Yarmouth Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4400819,
+        "lng": -80.4579341
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44143753029149,
+          "lng": -80.4566394197085
+        },
+        "southwest": {
+          "lat": 43.4387395697085,
+          "lng": -80.4593373802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Montgomery Park",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104808949543753156470\">Carl Lobis</a>"
+        ],
+        "photo_reference": "AeeoHcK9lhVURvgYbxj9O2COMXzginQ5tgqPC7xlS_OpSYPefanCNSdX8G7TaJ7wG586IoTlGQKDuCOXyqNhdo_AcfXGly0FWDOPQluggb-M02o2GDi6u5baQ3N9rfGZ1JtOKwiYGYmMRHwNlt2GHf3yWYL4QJpJHmSsgm-WgsaMWdDoePbZ_fRKWFtDxR2xNgr3MLXl8GKOXe5bf-Xx4jxDF6Bb2l-Ybq_jDy61x662iLTRyX2QOKTgw3yXBUFXiO5VdbtXKMvBSc-zTv6n-TKsvXOsxR0YBG17mcUnDzDGCAf1fW39LA3b7DWWP1jJ_3Cp37Gz3lIDyymOlnOqqRyGzgK_BKFH7QjR4RMl-2s0ujppmdSkp4AspCZnrwRTjvgboF8q-teMqog9PumbkRlcNDRVwnItBCfeHZBQEC0fS02wLTdQGa0S7dVzplcgc-ypDi7VLA3Ra7mrEST2lcx1lSUHOKjp4ShTxmUNJMN65y2gGMSuGHEoBzPmLTKbhDrvFaYLU82cKc0Cm8LWvpbTtHz1k3u23Scvze7xHhf97HI65TWkaQOS7KShGyEPD4obb-jde1hcMeWRXTzrnWfPcxPeJaaBP6MsCbNHhrqXn2NoEHbeT0_KPSqv0v0bEc-ytdlW4g",
+        "width": 4160
+      }
+    ],
+    "place_id": "ChIJ931cXkmLK4gRo3JYMxafMoo",
+    "plus_code": {
+      "compound_code": "CGRR+2R Kitchener, ON, Canada",
+      "global_code": "86MXCGRR+2R"
+    },
+    "rating": 4.2,
+    "reference": "ChIJ931cXkmLK4gRo3JYMxafMoo",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 42,
+    "vicinity": "Montgomery Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47560970000001,
+        "lng": -80.5281307
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4772384302915,
+          "lng": -80.52677821970849
+        },
+        "southwest": {
+          "lat": 43.4745404697085,
+          "lng": -80.5294761802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Veterans' Green",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116020328947232313418\">Yuchen Wu</a>"
+        ],
+        "photo_reference": "AeeoHcLM1G2UQxsFv9X8VAY7gq0R-Mn2kBpQBMuxJcCSFV_0bdLetWT4vwg0fkYOyXtZIBQaV8qv6_U6LESVhQLwbhJWPwqeIUyfSZ1VIe02_Ak8FF63OsHTBcDWGO7gFOdRK2GtqlJYv3QdiqlLcK6SBq73CnIzMYsU0JPo_fCEsZOT4RMQfrr0DDlUOshdZz9SKW9vjgkyHZPL_a9R29gvwGnHjcrXl8t8CJ26iuTviPghq-ZAXuicC3yW15502DJkfNCori3FgC481ZU5ptljd0CTj5odUgKmJyIdubaZT5wmPzwFkvLbvRh8009DLFzfvyEgzSb5ZxeKqAQ98ExCposWmE_1hX8P9YtYIRIngUI29d7IYV3J-zsRa0myOH04HMvkKwq1XQzWG0_XVWydzhS-tlzdYGuc6SrNgoRok6pmvSAHmQkCIh1gD0TuSOtqQU0xYr1vmgIoXEAMH0HRnO0SwuStjC21wCSsXjd6LtHZvcqnCd7JM4j4u06ZvQlOFEZu6VaOPuLX_J7MUxb904WEdtijAkavgwO7RfzDCsJyd0p8D8FjzthRaJ7b9xjrwRd_uX3aY56FrYIGwoqMsD0y9LKWz3BoSg7nP3S782jWPZqQPnMo3U1MQz7SjqTSR_QgdXIt",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJLcw6E_bzK4gRz0hOucuPv9A",
+    "plus_code": {
+      "compound_code": "FFGC+6P Waterloo, ON, Canada",
+      "global_code": "86MXFFGC+6P"
+    },
+    "rating": 4.7,
+    "reference": "ChIJLcw6E_bzK4gRz0hOucuPv9A",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 25,
+    "vicinity": "258-242 State Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4714845,
+        "lng": -80.5434537
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47292558029149,
+          "lng": -80.54174461970848
+        },
+        "southwest": {
+          "lat": 43.4702276197085,
+          "lng": -80.5444425802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Peter Russell Rock Garden",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107328972960172576712\">Darth_Vader721</a>"
+        ],
+        "photo_reference": "AeeoHcIN3-x8Pymdmt_H4_ZbVC7-y5jfEak8cx5VLc1DFyMqyLRfxVwOmn8FQRScnU76iXoavfkRvLgmkn-xi45_EfjOE2S4bvGeZak1vlK4CnWYZMywUMntzkk6eSDGUEqCXnXkG546bI7x5OkgL6Q1KN_zg3OdEjBNpbhySlprNhQOmIFCIcAaRVITJpfIr8VvgzqlCW0NF_JXSCMxFHpi-Muh_l67a3SYEDy0Qu2iV0kessQRUjf5FcY6dcDXoJfuQV6gtMua1v1TRYBRIGGBmvyukgJWkf6Oalnn3mieO-zV6in3i8zCWL-yQ4Pj5-VMB9EI86YOiE6dpnGk0-7Uz6MCZMk8OdfrK56U5-ir4V9VeqFpQaNSHZ4R_hFSL8KRBCAaH8CLTYFQVmvgKIJNeIF9quXNqNYtjaF6nXN8g3CzAEzQVlNhOJdOz6IwBhx-UjNQvZZ5CCoCK3FdyYvdIiVk5CXGxpqfl1o8vG5ziFySLWma4VmNRhOBodT0Fld88bCVJzr24kyQwOid5XxeEm6VPPEmzTZW1rEP4B2qiFpeQqfXPK90nrLpiM68t6jii6RsXBMQKbyHZE4WC2RGFyWns6sI37LQpjESl3o7uS2BuQJEcxPf1_lQCWvCBsY2Zh6uBg",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJCyh9-wH0K4gRVhVjGVjA7e0",
+    "plus_code": {
+      "compound_code": "FFC4+HJ Waterloo, ON, Canada",
+      "global_code": "86MXFFC4+HJ"
+    },
+    "rating": 4.7,
+    "reference": "ChIJCyh9-wH0K4gRVhVjGVjA7e0",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 46,
+    "vicinity": "200 University Avenue West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.49380389999999,
+        "lng": -80.49330549999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.49485918029149,
+          "lng": -80.49253181970849
+        },
+        "southwest": {
+          "lat": 43.49216121970849,
+          "lng": -80.49522978029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Auburn Park",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113777825046493060919\">Kate Rehman</a>"
+        ],
+        "photo_reference": "AeeoHcLiNi73xUevDpSS-eHeu3w38jv3YxG3jHl4SUq7ZFinpQhFvDOf5RT3Ddr4ok8lG4oDC5d1WtIbJALzWhQ6H0B2MJyrHbSOiEg7g5Q5ub2tw9eXm9lLxT830PMcypatRWCoB7XEg4OGr6y9aPRz1q-Td5pJp3kQGkHbwIii7y-HabBBrcZwyls-VGz5SC9tg-KDqnHwQmKAi9zYmzczZoqh_b4qEFaMwmBjLAxTAo77HOU1upw34lJbu5joXaCzOLYZpsbDH8dr17W61QTSVO5FyfnVyIrggM2p0uKrtKaYCm-DOtGXR_wQRYEspj4IEetEUWMpvtedsNHM-eUdiUNfKVBFlKzHUR42qSTCC3YwKkgxknLt-m_S_bLazRlwh7Bl4__ZdegSm8iN-7TwMEsqVbL-p5sBT_RUNCpeg9QRMiqgP4mElHC_htdpOSPJ77jo8z47R4eKWVkERApO3q2Fb8qCUbLA-VSs61djuD2aLfTR2g3t4QZV7Zep1-UW2ecDNE8dXowZO3pDIHctfxwpfznVw--c-ahMdUb4H-zA3YYpC_dEYbwXZpNv6tqvm9-VL4H2HEx1KrY0PcMWEcmfJm1Yc7K6F0ox9u5JwATv7xjUxlwdQWNSkPr4-so6wuj-R61O",
+        "width": 1600
+      }
+    ],
+    "place_id": "ChIJxWmXcAzzK4gRDne49GGRanc",
+    "plus_code": {
+      "compound_code": "FGV4+GM Waterloo, ON, Canada",
+      "global_code": "86MXFGV4+GM"
+    },
+    "rating": 4.4,
+    "reference": "ChIJxWmXcAzzK4gRDne49GGRanc",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 27,
+    "vicinity": "304 Auburn Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4864886,
+        "lng": -80.4856176
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4878780302915,
+          "lng": -80.48427611970848
+        },
+        "southwest": {
+          "lat": 43.4851800697085,
+          "lng": -80.4869740802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Shadowood Parkette",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116975294082736281926\">phraseography</a>"
+        ],
+        "photo_reference": "AeeoHcL-ixt8dtAmMvZ82eTXStPnSNLxfqJOeloXdze412IygVc-CIcm3C5vS1fud29V9xZ3dPTVYqVw6m1TVz--8Yaohhn7gks7xM_WEJke4YHpBPXcQ4wtwK-krs8_VnVK8cjM4GxcQyyAncN1hfic1BDFYZmxRYNsRHLFoXQwVsouuckhB0jFf2UuPk69zGE3hrfs1Lgdtx4y_qRy1wovMJrX1R-VYmVCtJU8BQIbhJLHjHkZewhhm-yVkwPF7t3b97Zj2-Be0cg5SauKbpOocEbWPR7tiuiL1Kkl7NRpCWONkuE_L_q1YfWvEqe3YrOoYr31vPyxMf-7mTHgKtZYBRJPPLsg2mBEKJzeDBI-44qaS4kFzOu6pVsUP2E2__rvvOvrdlPRBXi7d6RIp8PZ5ozY7tRZLLaR1fShLkqGF2jeBQd8yY6MS1D3wkkaYUCHLWyHq9giaPhr7PNxtMPLnuNXIsb8ycudYBEniDef8kyKr8FdV52H_ocWJEMbUmlvpgDCXIHhp7ytvVe50qSVGJWR8K_Dtz1RQBiE0Oeh2Zgh9Esjrr-6CcojljSER0ZJKm74b4jYxHVMu5KodivXyP-RS_bCXYGmP3r0iVQ0E-3qV-ZuKpQ6-ypftHcJ_oTIyTppOF7qwtoR2VyLoHoVPg",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJ9VKYym3zK4gRi8awB0sytg4",
+    "plus_code": {
+      "compound_code": "FGP7+HQ Waterloo, ON, Canada",
+      "global_code": "86MXFGP7+HQ"
+    },
+    "rating": 4,
+    "reference": "ChIJ9VKYym3zK4gRi8awB0sytg4",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6,
+    "vicinity": "110 Bridle Trail, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4135186,
+        "lng": -80.53794160000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4151873302915,
+          "lng": -80.53699936970851
+        },
+        "southwest": {
+          "lat": 43.41248936970851,
+          "lng": -80.53969733029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Driftwood Park",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116623518428961615110\">Melanie Gaudun</a>"
+        ],
+        "photo_reference": "AeeoHcJxXaVU7JxoaProvSfr-yLbzUhq1xNZgLw9B5yiTdp6w5fTto_kABzfDhxOGo1yc16ABgBu8QNd-3tN67JCsQVIMNqOxbP7SOgzoB4FWOsuOundDkdK7Vrf_ZYgd9HbD8jKNqupbpvFl989QgoYYxFsBV7PJWyf-NZCXPg0A_Hx4GKrjDly6zSBCksK0un5lYpkL2g-carbLP0GnjveJUYyo8hpvkNT_GmmotFW0HbK6OomlzG1iikcE8uPluCbqmxig-SIC9tGIJl5GzGmMxCaRKMcza5isIpw5ZXeLg5lm-vQVvavg51H5hUzDBgnjK5owgR898GMn-96Cug45Bs7tr49tmHoj-BOpyf9rXx9hZTKEF0uoX8o8eWARcM2PizqlXE0ru8tNSl25n7IOp9H3b_KFBPv28D-0Kk_rua-UtuXHlDacZdEIiRfBbjmOQrIwxJEWbCKWM0dPPcCK3tCKXA2Mf5LvGaJ6CUpVwxntC3diJdRz4HFKU2RtyJKnvjAK8I1V6DIUWUn_8chvLKaK05AdPhA6qY1L7pS7J_2vdVEjWyO3BcokXTUnzEjMAqPrdFqcnCUnVHNmJ85xi6TnmIrAno1oF2L1VloiA9Oyl1TguaE_mycHbL2WXtq",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJwWHQq-b1K4gRxoLGb5No14M",
+    "plus_code": {
+      "compound_code": "CF76+CR Kitchener, ON, Canada",
+      "global_code": "86MXCF76+CR"
+    },
+    "rating": 3.9,
+    "reference": "ChIJwWHQq-b1K4gRxoLGb5No14M",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 21,
+    "vicinity": "66 Driftwood Place, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.48039579999999,
+        "lng": -80.48096980000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.48196633029148,
+          "lng": -80.4794707697085
+        },
+        "southwest": {
+          "lat": 43.47926836970849,
+          "lng": -80.48216873029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Joe Thompson Park",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112965529806846302367\">Shannelle Vickers</a>"
+        ],
+        "photo_reference": "AeeoHcINHoGtJNHFlZ73RAA02diQEhL0qCLmKMk-L6tz9djqIyXjZI2gjvINpvBy-Sr5ZarqfX3wgoNaF8UeRK8b8bTQmwjvg9xCXXmQQw7T2wvk54NUbhbbBdQ6ph7rgX5tPEOHg67w602HF8GjC7wXNrPYZpuk2AK2XTG0KFJtBtCjixRcqcRhYPatOhRkHIeswDWRnuvcnzO-27G88vZ8FH0zV11A3IfXjGDSWMVyOGqOM-tgj2GaY5GH7TKopP8ueEHCym3W2gOQm37KgNhY1qAR6TIihF9P1kGnMwc5frYpY2VEhXR0bUq05JxYMwUtqWfTGFSwCBlpj2tb0QeAwwutTE3tqY9FLVFuCU2suAVz_-LV5viiQ5H64tuH6JVIMlSSF2wTsf3vQPs8gmBHslWtLob0SWyLDrwBjkk9kBt0-qPtX2zGndeV-ZC7yGWBZgBub6h9rk--R6jxSti18F2dVX4g8tWJHgVKh0lO6YyecVxqCkCz5v_GdxvIQE1Wvb21UNuPU7OZ9v_KsDuiZPnLXC2QIWRXroRBKW7cyosQ6xMaLy0KGdlnpv4yTgOvTpBBvVIPwgbEpqScD_SQ0tsANJ7ltXdundvBGmim6Jzbq4JK7seDh96FJx8BKz3B9pZ3SQ",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJF6nkmmjzK4gRB88CWhFNPA4",
+    "plus_code": {
+      "compound_code": "FGJ9+5J Kitchener, ON, Canada",
+      "global_code": "86MXFGJ9+5J"
+    },
+    "rating": 4.3,
+    "reference": "ChIJF6nkmmjzK4gRB88CWhFNPA4",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 58,
+    "vicinity": "8 Bridge Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.49350099999999,
+        "lng": -80.50206800000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4950589802915,
+          "lng": -80.5004190197085
+        },
+        "southwest": {
+          "lat": 43.4923610197085,
+          "lng": -80.50311698029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Dunvegan Park",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104991957782635348923\">Emi B</a>"
+        ],
+        "photo_reference": "AeeoHcI-RF6Xun5XwpY3OKU8WyHPPdRhlAgYhYT2ZJtz42lmP2YPgOvStJcm-07ld66R2QlpGuO6kXk_9vAFARranU1wgTb-dbhpfC0DlLm_YOOdeLWl8vwHjQyo9DKccQzTez7MPfmz7GbnLmbzQq0Wz61j7ECkpBjXBIiCXxzQoDUFtBxD-oLonSrNmW8Oyk17ARKcxfH5om1cmF1OHzF4n42UXThLn7zYSnqoeYtB0si76twZrN32dvWRI9e1jsV6qUv-PYbhQ_X1HCG8IjRia2a2A46X5aVhS2Vo2cqUd9P4x0EP7TQP9T7119rt5ngAFxSuy5GnprIXQB6cq_Zd_MyIGPzkrL6jW_4VRZN1WpW-gbGZsaX1ZpjJSwDoKv84ww9KBOQnUmStLYrO22XLil2Orx97WYwhe_PEZEXjehVV0KbRSUFrM3hsxGyNv_v-VKhqdtuPztGv6Z5xShXMzIgLo_WyeHwKDEmltWNGoecx9eukA62dZWlUSjvF6nlMqVHxLGSCWKWu1muwyKcl_nj5k5jwAa1almcjHcx7bHNT4SOLG9kfhHDpNAFIfmUSgmC63591ilTYYswp-3PRTQGH2iVJTIKqL0rAUsfyCqdWDHfL4hZMENybCg-XYMvhfjt6pQ",
+        "width": 2880
+      }
+    ],
+    "place_id": "ChIJezOKU6DzK4gRTF3zHOCWfZQ",
+    "plus_code": {
+      "compound_code": "FFVX+C5 Waterloo, ON, Canada",
+      "global_code": "86MXFFVX+C5"
+    },
+    "rating": 4.3,
+    "reference": "ChIJezOKU6DzK4gRTF3zHOCWfZQ",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 62,
+    "vicinity": "362 Dunvegan Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4927166,
+        "lng": -80.4927843
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4938365302915,
+          "lng": -80.49026669999999
+        },
+        "southwest": {
+          "lat": 43.4911385697085,
+          "lng": -80.49362350000001
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Bomberger Woodlot",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101899820149548298938\">Shari-Danielle Eagle</a>"
+        ],
+        "photo_reference": "AeeoHcL1pux4BURBVCOHMpbbPIPoXUzJ1HBFx51xWx1PeIWEnoM8_ovNDsrOyy2O4IaCajFRdEvfRP5VkAU6oveatfzF6wX8UrpJGhb_pZPACAWTZ6tKQz_GhzybOTTtvI-7_MknYvLVUv3TVG0Njf3zxOgfMkf_j0dyYXLWY60leFAVPsq2sDinwa7xeta5VJKelpWozi-H1SPhDsCKtvSD-fNYBKFhz9vDz2iOOFIBp_3GcN_LEyq68-WgI22XMRU4JuOBFSrGYDZtZol9jPejW1df6u5m77HqyqHMzdh0o6wkU-aTfJjzeqXV-gbMSm4EzLTTaNZPrD-przlYPN7nPXq3jJrueAX2rIhA07q1pl94g4YyA1OrYN1nS8xrEWLLe__VaGhcCTmhXPCe92KNIpXbqUbfl8_tqIlxfodyj95fZEYk81X7LOZEughEK4ZxwUi3CuZDBHM3dzdthBjJKBrfvofF5fqZyuUUP992O1kInGMym7-oixHtcKzwkFDvti3HNx3GaNU5I71molynU_F1K1Wat3nQXpTiJ-yyEZAu3S3q11TR4T1J88zrGWTiI0pNjn0DI3XpAGc7HJf0l9h5OTZexQlV7PMWAkZH8qTbeQy-hzvDXZjZ3Y4PXP00V5PQkg",
+        "width": 3456
+      }
+    ],
+    "place_id": "ChIJba93YgzzK4gRWYuN2aPR5fA",
+    "plus_code": {
+      "compound_code": "FGV4+3V Waterloo, ON, Canada",
+      "global_code": "86MXFGV4+3V"
+    },
+    "rating": 4.3,
+    "reference": "ChIJba93YgzzK4gRWYuN2aPR5fA",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 7,
+    "vicinity": "500 University Avenue, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4999994,
+        "lng": -80.4960851
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.50159563029149,
+          "lng": -80.49399435000001
+        },
+        "southwest": {
+          "lat": 43.49889766970849,
+          "lng": -80.49716415
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Wintermeyer Park",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1365,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114691323563163680120\">Shawn Ryan</a>"
+        ],
+        "photo_reference": "AeeoHcKK6kcbuA0MfIGsVrg8kKEIy2uCiJpjKlhZnM6JpI9UIMZNLAzQPTiYsMW4dJeLFw8z4kxcf750dAE8lJdi6iNKB26q1lizdfpyOxe5DvmjsOgf-vkoo9sDErpKQAZuNw0MS3BGg0hakZNH0bYDpBE2391PIiOB1Yj3xTp3w0HEJO_Lkwoe5zF7OoUG_iaYRN8AcJ8UsA219uOZjUlugsbnGQbM2LszeYuWU5Er2juh1LMrpgKmodsupOJqzBZi6UVawTTXNKN7GgEIPKAHi_8UrnnHxtE_xwlB_5yVTHHzyJzggqWLqWxdVJVUbS0wMm9FJBtcM_eqhUYLWVncF8Sd2pThql9i8CykiH2B2TUKiP_9mdaQzibixyPqSXd3AoEt-hLX3viSercA9pqIKeRzhMaK3cvOGZPU13gSavWMaeZNEvfMp3vdlXzppJ0n7SS5j1UiSC0OuNDCDhMZcEEHLsSmuTww-0F_vd1eHFmZqDeXe8dvpGCNMv9rqJNjkW0RsbbzyoFjQcS9hbWf7Q88VKfXTPg4B8gi5oDB-RPU9XOJ87YwNz0Kj2oE8-YE_vHa0_9fi3XsLiaxOPTmc-BrjJPExCPGgH1WkLhNowHR1Luh2NPV-jNLD82r5cYkEW2-Tg",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJxy1kiQjzK4gROVNdjSctWss",
+    "plus_code": {
+      "compound_code": "FGX3+XH Waterloo, ON, Canada",
+      "global_code": "86MXFGX3+XH"
+    },
+    "rating": 4.3,
+    "reference": "ChIJxy1kiQjzK4gROVNdjSctWss",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 50,
+    "vicinity": "495/497 Forestlawn Road, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5056187,
+        "lng": -80.54306079999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.50701333029149,
+          "lng": -80.5415853697085
+        },
+        "southwest": {
+          "lat": 43.50431536970849,
+          "lng": -80.5442833302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Tufx-Fort Inc",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 423,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117084708236993773144\">Tufx-Fort Inc</a>"
+        ],
+        "photo_reference": "AeeoHcKhRH13_pELJk5EXiyqmqv5Wr5X45JCNkmuXXscvko2lIv6iEEjkkKGHX3MGGiytiTN_sq6CMQP4G3lb6gg9KIVJ57kEFJoPC8SZ9KxpyKOatW6eZOAQeF3O5jpexGiQRrFDbOPImplqmv27CLR9MjBbFd8aQ_ExMfePFVf-oLUeEoire7slA4gMP1S2h6NzZzaA2ZwdyqG_7HxiDnFjoccjIuHproZ8wubBZJKyKnXJn709c1ZqFrth1paZ5bsZmOwviB16JYRhFzU0QVNEdnYgCoSnb7n20gfhl32P9YDS8uA-6KVHKI1K77PqVP3RUkMJiOxIpw",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJjx230M_zK4gR70Cva0tHlNQ",
+    "plus_code": {
+      "compound_code": "GF44+6Q Waterloo, ON, Canada",
+      "global_code": "86MXGF44+6Q"
+    },
+    "rating": 4.3,
+    "reference": "ChIJjx230M_zK4gR70Cva0tHlNQ",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "general_contractor",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 12,
+    "vicinity": "609 Colby Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.424889,
+        "lng": -80.47036899999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4262474802915,
+          "lng": -80.46897936970849
+        },
+        "southwest": {
+          "lat": 43.4235495197085,
+          "lng": -80.4716773302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Peter Hallman Ball Park",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2988,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115694001000054987726\">Evelyn M</a>"
+        ],
+        "photo_reference": "AeeoHcJmdvLCeqXmAg7XtxtN-827deLpsuJnKYXSt0Aeqbg4qCjT44MrD3K-0FbEbNpaOJUl8k4UuIpdaeQK5m6QjR5kwr3fTtEtjIIhHU-8xYoL4NZ1cr51CDlyF4Jtq-yWq6fx-jw2XGXxu4mZKSpESp2NgMY6kWEjpeVzs--qXS9_CxJbYUwOg9kDOH9oCxpjGAJHq-9E_vkewI-7eAIJDCzqMaBHfi5eM-4rwuEy3hQAitWC6m0-nQDKjQvVFMaIYhvFviZUTs5dE-I23ZnGQ8NLn34a_IXA9IVVqtl_pjyJF7E9EukRQVeXokVQyksXTyMLJD5KB7ZZa9UwPf81PZ-gJA8mFdt4gOjveEY_58C-Cv3MKIp_Iq6BO91VokkZDykMEnch03zo2py5gAkboBpm3A8wnPxYj-GyNNICaPBD9DhwSW7ItmHJt_ws6CnadG5eoLHhJEK34G0GvaNRKRgldwH5ptFqPI_X-67Pi-ZigZATgl5hR6fIFDDqusPaHJyiOf8_pd4h-fmZyZ_a-k0r4C6vKeocXIJqw1adhmrWAws_JOykRpqU5Z6vPPcoVCpa6INEEYlWypDAGmbNVTUVaDs3v5Gdr_Q-JllKuGg3eE5CWSVtRUTzOH-fAifZLidPxg",
+        "width": 5312
+      }
+    ],
+    "place_id": "ChIJMyrVZyT1K4gRNqn6737uF44",
+    "plus_code": {
+      "compound_code": "CGFH+XV Kitchener, ON, Canada",
+      "global_code": "86MXCGFH+XV"
+    },
+    "rating": 4.5,
+    "reference": "ChIJMyrVZyT1K4gRNqn6737uF44",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 28,
+    "vicinity": "Schneider Ave, Kitchener"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 43.46678109999999,
+        "lng": -80.52974820000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46819988029149,
+          "lng": -80.5284595197085
+        },
+        "southwest": {
+          "lat": 43.46550191970849,
+          "lng": -80.53115748029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Park Inn",
+    "permanently_closed": true,
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117489222906128026322\">Logan Jones</a>"
+        ],
+        "photo_reference": "AeeoHcKxdVcdv0NXYS8QYqIFRvbySUlteuuasoD71SZKlQSypDvWr3E3MckzsKc2492RAZ1u3CJc5h-9EMJUxUJDuGrP8v5wFJBF0IsvsbO2Rft4qgX-uDnWQJeedQ0qU95JiUuPZ_gQ3A2l7xRLv9TS_cl-EUbgQvWocqM6_1LfaiMIh1HfDQoXMncgxc_ughk0a0JwH7iFc_7G-EoCPfneoak3R5N_659GavvoDLbHy0oPoKg-nUkK2ddt3aGgR6Ry2PhNktH3_Ha1aLfYSHSVEdPgRBFaik6-3ifYaoc7eDLsMCqS0ybB0g0kTY1XIe2FIMxCLh9VHNKc3VrhYXgfLoVNAar4YfWnFhVa-wfezUbczG6NrkwVEzOxg6naX3qUNT-6If_eo8Zu4dhe0P6GTfpaWzydaZR3j8hfZ8I5kKaeAt-xXkKv_NgRBgYZXb0FJ46gBixGJyY2YAcyuydlizOe6mWpRLDUP7Hkn6rr9YKCMouz25WZv6DGb5veYbSgkKx85ZWf77QHEgfp-Dt0ge8nFkaqIb2V0ngEN0RgDHLafpvYA_cEswVQh7ZNt0XM2sQdbZnGSimaxppTpHLOUelsZwMtMJ8VrN4QhlGUp_6EIeUz0HC0skvxxetzwmsNiRglh2i4",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJYwOiTQ70K4gRLEvrfiwqEu0",
+    "plus_code": {
+      "compound_code": "FF8C+P4 Waterloo, ON, Canada",
+      "global_code": "86MXFF8C+P4"
+    },
+    "rating": 3.9,
+    "reference": "ChIJYwOiTQ70K4gRLEvrfiwqEu0",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 40,
+    "vicinity": "50 Young Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4613746,
+        "lng": -80.5020175
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46266463029149,
+          "lng": -80.5004610197085
+        },
+        "southwest": {
+          "lat": 43.45996666970849,
+          "lng": -80.5031589802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Guelph Street Community Garden",
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109422642719503884629\">Samuel Streeter</a>"
+        ],
+        "photo_reference": "AeeoHcJfJyrUDOCC7DhuHcSyeKKIcGQaPidX1_5Brweh0O2bOtddv7L7fhq8iT6z9CmgxfC7sf-mABokTU_aRlIVW-_yzLC8YLN7KPt3mOz4gyl2i9E4Pk6HXRijpWERaeNY7tlB9giETVAiXC7IiF4sZLnZwiBwhAw-P_l2cqpWuO8AU0VVoqtDMciQmokl986ew0Y1SwzuTDwAHcKqpwxMhxO6uasa9UiIrCtqQYmLlaWkFDHTjbBkRQpRyEMh8KMOOt8hj7sztIdJ0xPIFR3nQUv4iZAJS4oWz9eFLweimc8SxAISbTMTNeyU0TXEcaYZKcELdHQRiYoZmmQeY1kpOTLWvb7jVABWBolqNQxsPJh0GFRG69Zc3pvieAg5RXB6Uuqh41bWGP6IV_LpVZx0tV_l1r9myqMx84eMqdS8oa6t2xKBi6yFhEfXMYBIfQnp258wRmDJxzrfzJrW88ayInhPBIVNwY51rnZEr-Cdwrf95exsONvZlTwWRi71SQf9BSQCdztNU92-UCN0zj-00KbpA5hBpLI5zhwddaPAyEZ8RzjS2-29ItmpJfUDIvcRbI6nm2xWNgJ83lOOo9FWMZGNZQ3629R_zvwpCcaAf2OVWz1OiN-je0qysoPyvZss02HKLg",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJReT6HWP0K4gRWvkFVfA9hGE",
+    "plus_code": {
+      "compound_code": "FF6X+G5 Kitchener, ON, Canada",
+      "global_code": "86MXFF6X+G5"
+    },
+    "rating": 4.5,
+    "reference": "ChIJReT6HWP0K4gRWvkFVfA9hGE",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 23,
+    "vicinity": "250 Guelph Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4840696,
+        "lng": -80.5177976
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.48530238029149,
+          "lng": -80.5166746197085
+        },
+        "southwest": {
+          "lat": 43.4826044197085,
+          "lng": -80.5193725802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Hillside Park",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108084935809631148690\">Trevor Heywood</a>"
+        ],
+        "photo_reference": "AeeoHcIqT2rq33MNmf3MS0whufzUVySSXG530RS278a0YmSxVDCT5NOky2FwSUqRTpxr83HU941bUfQa69SsU0RIXl3hHj1Lts0UU6riIes5YQR-wSceCWVrwNxi5ngIkckPfyOgbIbFfa5A2ThC7VTinoqE-4LQxES3mVQtIM0MvS2xt_d3WbBCXiztMCgaT1DPOkN_23POnIbe8Xz4XQlzklXZVUpGTYPU_9Gu2Fc5oBbLdmkTBxQTPpYMb6oIPW-BBjwT5LaCeDndJdvTDrzb_JSNwZLNJDXQnE0o_Te8jze40u8bM2YWweGRZH_IDDvT0uHAg6o1EDigDEPIjZDxU4qQBSBhlpMmJJiA6lNaWXfqjkOn7IaJDYd9k9CA68MVjdZn_RoUmy0uEb05tn2rMSpEHKTbsO9yrxRpxTIPfiMnaXU5pHccQoYj3aJrjJWVAFzZ5DPgUqDQZxSVjN7S_tQgUr1ZYfJzV7_oVFuy5GDBfh4s5okglhLIZBDdBL7VDa5Z-A2mBs8hWaZZBLkFaZn-ASAo7YnYjhIS_xHV0Zee_jLJ2XkxLdJY7gxxBSghm_i_83rOCjJskypnsT2gcrE53l61Gey-ER2FXfM8kg9eG4ax9ymNcIIzbfV_5jKKEp84Ou17",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJaSy1FJLzK4gRdV1ihYc_PQ0",
+    "plus_code": {
+      "compound_code": "FFMJ+JV Waterloo, ON, Canada",
+      "global_code": "86MXFFMJ+JV"
+    },
+    "rating": 4.4,
+    "reference": "ChIJaSy1FJLzK4gRdV1ihYc_PQ0",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 198,
+    "vicinity": "352 Marsland Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45101169999999,
+        "lng": -80.49884709999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45222888029149,
+          "lng": -80.49743541970851
+        },
+        "southwest": {
+          "lat": 43.44953091970849,
+          "lng": -80.50013338029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Evergrow Plant Care Inc.",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJT-LfusL1K4gRksp2bir3A-E",
+    "plus_code": {
+      "compound_code": "FG22+CF Kitchener, ON, Canada",
+      "global_code": "86MXFG22+CF"
+    },
+    "reference": "ChIJT-LfusL1K4gRksp2bir3A-E",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "The Tannery, 151 Charles Street West #199, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4514591,
+        "lng": -80.4926679
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4526693802915,
+          "lng": -80.49140301970849
+        },
+        "southwest": {
+          "lat": 43.4499714197085,
+          "lng": -80.4941009802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Carl Zehr Square",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3468,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105682155392908374923\">Amal Thomas</a>"
+        ],
+        "photo_reference": "AeeoHcIJ3pM-0_kg2bfmAqxMWWlIRswbf-ruhfVzpzYsX99HLoSUduP3NdbRND_Ckg_QM4NPH9gD7NS0B6i3JYYT9R7yAmRURmjYSoneSMOR-mTq7cBzuQskStP53AMAHHTegpzolq_xsxG-l31QMwiS1WBfTIt22bB07IhZ3bEnbO3r-3Mq-vQbewS4BFbUHf9UYj3l78DiESBfSLE_6exC9CX4P54ynRB5jsJmVtNPoygFzLiGTY0kMdrUW8x5Tm052YXHwewPcVXrCVgfHKUDcomQ7H0PRgFL_wi-LVtTSflfKSB_VQ_KzSpKIxzlPP24i3tqKW_7rEfnTRGbLxSCwWe2A6XXUGevwwwIepTrgGH5hn4ON8SQbk3yX24X_2VveM28LgMIwmeGQyBiLDCgih_T1bn8u-MJwzoBNiNSiTfEDzoJCqLT5cOz4NTkHj_0A4j0FSzTyHNIC_TS0hVHZOZX4uP_E5n1anW_FP7jcrviqxHp_WTx-UPsqYAo3dxzTUZstdUVYk0M1YBUbRqpFF9MjRDVU0__qLDxnHXqbyVo7TmT_j3VVdku9go9CNFL3aJyjOb47Lo8C-qU9TyAVDMYMD-hEsTPe2cxn3dAhjTiPXxV0wey3k0FY0HUpoXKJyzpTw",
+        "width": 4624
+      }
+    ],
+    "place_id": "ChIJ714YOvP0K4gRCE5FHBabq2Y",
+    "plus_code": {
+      "compound_code": "FG24+HW Kitchener, ON, Canada",
+      "global_code": "86MXFG24+HW"
+    },
+    "rating": 4.6,
+    "reference": "ChIJ714YOvP0K4gRCE5FHBabq2Y",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 81,
+    "vicinity": "200 King Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4446781,
+        "lng": -80.494203
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4460673302915,
+          "lng": -80.49292921970849
+        },
+        "southwest": {
+          "lat": 43.4433693697085,
+          "lng": -80.4956271802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "The Queen's Greens Community Garden",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3264,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115106280284278738513\">Poyskna Poy</a>"
+        ],
+        "photo_reference": "AeeoHcJ9HxyqH_Qyx6n3dopJVtNTz6F5IPqYlvymdRa6VuhvBZrkGxpnCAn7u-Qrr5MJyn_L3cJCs_hpyPJ-eu2l3UERJNlN583Ea_9HEYxfnMn211sJXJAQQRXqiDVF3DX4AdMtgKBtsilJxb_x7fxEhv5GaU7S88kwo-MhKRYGwnaMgaqr_3oF5txyrvy_1bncMK5LkP3Ti7qz_khXLtV3n9tz0bEOz86nZT6UsgGk-XN7h05LBCcyeiEhQhghKjOkxCf2VIRNZ2TJn5Zw5AFKu9NhEFXHIuQlrpYf_zGE1DEMOdU1xbTp9rrY7Wu81l785tZTFB4U89o32z2KHn6WP-cwvL3tuH2MlehsXJnbnNdyTnZDk9Rxq2EqEE79r0pPy41iSAlofAj-f43pnmSHAx2TCyH7STs10yruEit7rekkGLmRayG27Kwwhi-hWG7Trm5mR-sQRuAFGgS3MbOMHOkANoOXb57Q1Cifhjqh8HaUVCrSJgHsSke6IFzBuurTB5Zl0GMMQDI19RpVO-TltnxwTb331mL3sseaShMwSOXiR2wa7qlD5ifK7_YACSO29k1qeY-wxcghcV_sEmjSe1vaNIctwL0vK6rdz0EVDAwWvUXORCx84gdn15vX_54-",
+        "width": 2448
+      }
+    ],
+    "place_id": "ChIJvWmEMff0K4gRrrlzMoRLRfk",
+    "plus_code": {
+      "compound_code": "CGV4+V8 Kitchener, ON, Canada",
+      "global_code": "86MXCGV4+V8"
+    },
+    "rating": 4,
+    "reference": "ChIJvWmEMff0K4gRrrlzMoRLRfk",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "Queen Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45545589999999,
+        "lng": -80.48226180000002
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4568106302915,
+          "lng": -80.4807136697085
+        },
+        "southwest": {
+          "lat": 43.4541126697085,
+          "lng": -80.48341163029153
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "GROW Greenhouse and Herbal Gardens",
+    "place_id": "ChIJQf2eDpT0K4gREcpnkxFYPZA",
+    "plus_code": {
+      "compound_code": "FG49+53 Kitchener, ON, Canada",
+      "global_code": "86MXFG49+53"
+    },
+    "rating": 4,
+    "reference": "ChIJQf2eDpT0K4gREcpnkxFYPZA",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "Lancaster Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4492699,
+        "lng": -80.4826131
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4505851302915,
+          "lng": -80.48129276970849
+        },
+        "southwest": {
+          "lat": 43.44788716970851,
+          "lng": -80.4839907302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "May Place Community Garden",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3036,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108724181586263211701\">Randall Culp</a>"
+        ],
+        "photo_reference": "AeeoHcL5p7XPkuZyEMjTI563ecAwsJhIZu3eTyes2-mZK7ePeYQNi5VOJtMRy_2xr7zT8tizreclZJ_1otGy2MHxy3ETdu9jBgj43grShL2Y86CZR5OvPtrIaQ1bVQL72ybApEuNfRkqwi8lUHVHOw3jKKtsQZJIG066UfhPi9OJBfFIf0V2aveKHev3jOFIZmh_vn_FmEvDZUsyMr6Z1TTD__n6XVJxDfUTFnV9awkA7-Dy50gw_vKkbAGNdGiD2Y_vxJNf_oQZemL4IBLtx2yVFomFYnlWELbnxRfKgBtGG9rAMOjBAlSQr1mv1865VRpfjuA26G9ZAq_q21OGurH73jYcUlvlzjiqtBfW4_lkwHsiBL7G2ihdDw7hF9wX7dr_mWbK0npGJlc0twbQQN5bKiHwnMkWbC-7U-8oWk2PeCz0T5lIiWfVRK1sArtndO-ipUZgdn96RYmOj1fLmFx6Gf4yL1I8sA9568S5cLAmZOdPaLEAnaWfN_29rJzY34pdMyM4mvZs4BmXscniFGPDE7lfK84LpbCarYX4g5Kljk0h5xlmF_yfprfshF1H0kxxBzIp9DRXGOdW6fXU-cAoO4IrWcevQbqo-x57AgegF50cOucp57YBUe1G5H-wyV2tTesciQ",
+        "width": 4048
+      }
+    ],
+    "place_id": "ChIJee-Uf-v0K4gRP8ZZCwSsrkQ",
+    "plus_code": {
+      "compound_code": "CGX8+PX Kitchener, ON, Canada",
+      "global_code": "86MXCGX8+PX"
+    },
+    "rating": 4,
+    "reference": "ChIJee-Uf-v0K4gRP8ZZCwSsrkQ",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6,
+    "vicinity": "May Place, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.42820709999999,
+        "lng": -80.5646478
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4298274302915,
+          "lng": -80.5627159697085
+        },
+        "southwest": {
+          "lat": 43.4271294697085,
+          "lng": -80.56541393029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "The Hydrocut",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2736,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108909446890952478530\">Nicholas Pelch</a>"
+        ],
+        "photo_reference": "AeeoHcJ--wKEpsSpH22hBjBHGMBiGOYpO-_tPfFPEJJGNtYGlWmX2lDuHbEoYSV_eiFBc6PzTaH2nrrm-IWx95XWdx1jTtYc2kctUEFXocp9OwjlebNJ-g0j0MoeZ142ZltAP1XtmJXXR60wYwBk9O21TNk3LtWbnHDV2XhC1OfK-kVEIQcPZrDjnYqfLhmcZIeVrcSa6bExd8VFsa09COQXmxU8Wn8otCXvERYulf-iJXicefRCacaVv9KQY0lQdFxASFF3P0n777UqR3ve1Yq7IX9lOX8lNcv3ANqPdYA9eedANcNA0jxZzNUSDgKN02qMDDAENg547Xs1fwEUFEMAaMCldHdh-hhwJaiIokbLpYaoCNRw0d5g5yZs3Goxugh2w_jpdMO3baiMcCzppwBvDSCWlyw8mB-iQAB1J3M9BSnT5fzk1Pv0YXS-nSIv17EyMoCPFAPPk2V1TiZ-6bTQl7ow4DXPzcE4zoQ4r04s3JlXNWMc1m2AaQwnHfGjtKzFzJJ-Nk5uk2Fs4e_3eN6KDyiQ1jUG8FIrJZRFIcnYynhdpyv2Afk6QgyUaoK99zGkC3e_Vnb0afD_B9-wfiixMFZwghHMd3T2Jbu-ANoYVLECzJcPWhUdoVkcmxOewUf_ggDO7Q",
+        "width": 3648
+      }
+    ],
+    "place_id": "ChIJebdafWj2K4gRjk95sMx_MWE",
+    "plus_code": {
+      "compound_code": "CCHP+74 Waterloo, ON, Canada",
+      "global_code": "86MXCCHP+74"
+    },
+    "rating": 4.8,
+    "reference": "ChIJebdafWj2K4gRjk95sMx_MWE",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 243,
+    "vicinity": "1522 Glasgow Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4774393,
+        "lng": -80.5865085
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47869293029149,
+          "lng": -80.58547061970852
+        },
+        "southwest": {
+          "lat": 43.47599496970849,
+          "lng": -80.58816858029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Laurel Creek Nature Centre",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113731952426272609990\">Arnie Weber</a>"
+        ],
+        "photo_reference": "AeeoHcIOUmZkmlpcT7GWRepWVsnkQxxXTcxM-qjRd2lT36_35xF7CA59TBUn8q61NkllJx24XuF9bwFi8b_SKyh4CYzmdu0A2AFnq-EZ9rvrMz4DUEq3k2I9YfnCzQ2jbnBjlZzKn9BDpHN3CWuRMFCXffPVqDY8Zbq5d12OxcUzWzesk04I-QDEwJfarWDOuc4qAPuXoK8nJrhkmCxCetTNO_kRsPzBZRECXn34rV3vRdF5KZe6rFLovRVNzPsd1LNB8ihvdUxyAxFkct5Xr4AxPp7OEnP2X7pW8DMsdzVDeJvaiBd3_i8B0y4QA_t3MkCpr58kN9kilxuAtauMFC8Pm_NQOu855DcubLrItgUrh8J9YCoPrZzMN8PmQo9o1OqgwG9XvPZGjIIY4zJM3iSj98Yvwwyrsox2Guui_ticSg_S4_MNgLsb60s34EZiQtpwhdUcKiFivchIkahEWEFNEMdYZl9Ei3jfXPuDJ0U-UDdGWqhbkg6mxOkhv5MlVhibWqClbo_Yz4TJC62gWd0GaqqdA0PRE-kaeqiWXK310zROjIy7QHlS74BqxWDcBVIGMyAioWbin6rP_6MkVVGISdHLHlfJQOg-IU90Xlb4RarUFG3g-Ui6zijMhNKQm_32lsPZgOgz",
+        "width": 4160
+      }
+    ],
+    "place_id": "ChIJtRdzDtX2K4gR9JkZGXAHh_s",
+    "plus_code": {
+      "compound_code": "FCG7+X9 Waterloo, ON, Canada",
+      "global_code": "86MXFCG7+X9"
+    },
+    "rating": 4.8,
+    "reference": "ChIJtRdzDtX2K4gR9JkZGXAHh_s",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 16,
+    "vicinity": "525 Beaver Creek Road, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4014726,
+        "lng": -80.5232218
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.40336075,
+          "lng": -80.5212428
+        },
+        "southwest": {
+          "lat": 43.39965775,
+          "lng": -80.5254272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Michael Donnenwerth Park",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4624,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114330974067649522588\">Yash Nakrani</a>"
+        ],
+        "photo_reference": "AeeoHcJ3Syaf6nxlw21RWNbXQEd5KcJ-N48omr5rbCWWN9kF9lErvLDOlU0Zt7QSz-PhObCnoMPdiKHDd2sL7T9uJqIHvKhSuK8b2tdiHob6gd31YHvdnu6FV8cxFn4ZTmNMEE07ZhHFSXIBSuXNulOdm3I-t8dd5Tg9I0m1QvJ7-J0Jds_UfnEr70VQeNXNzJdVb-c1QDMbJMxjOayUVeNiR7xzCMg0D7T7hgCvOoqvEXiZk_VrvmEQbzK90EL3EdRlOh75r6XvAtt55xUkA73Qpbsz7a5qgt5BdGMsIIJhJmVIQKD6cBIgyL7J3IsvMHgPvweZnbgsbSUEdMKIoh3-y-Gd1rm02tV1sYwINL1XYQYiJICJUsSlAmR5DYCB0eK6P1j_H4xGQ1gmYQE4hUQcZJcJCCk4a3O1g0X0WFuibgegjY8DSsc3rVxUR4y4fyQGJ1mR0wQ5eYlW3XJ60mSl8JB755CJh8NitQRN3B7rLn_LyjmeMnUIrtTpIkatDqVF1-9pyLxq4iZNvpVY9dAW8m4fLwch7qrrQ2DwSU6-3qanmRESjnVaVyvXnKUNLAJflD0nMdBBxE2JaNWB_3joOzgMr_pyL0EW3csRapWkm2s8euAEd0EtbJ3TzcXtSZHw-DCjgw",
+        "width": 3468
+      }
+    ],
+    "place_id": "ChIJfQRIlPT1K4gRPB1SDXiVJ3c",
+    "plus_code": {
+      "compound_code": "CF2G+HP Kitchener, ON, Canada",
+      "global_code": "86MXCF2G+HP"
+    },
+    "rating": 4.5,
+    "reference": "ChIJfQRIlPT1K4gRPB1SDXiVJ3c",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 35,
+    "vicinity": "94 Isaiah Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.3981265,
+        "lng": -80.48235989999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.3995340302915,
+          "lng": -80.48114256970851
+        },
+        "southwest": {
+          "lat": 43.39683606970851,
+          "lng": -80.48384053029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Huron Natural Area",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101878212343363212272\">Sun Shine</a>"
+        ],
+        "photo_reference": "AeeoHcJKE2vO5-E_s7YcxDL_NIAoldXhe3WX2D1DLV98mILkNjwb13lB8ECIA_0jGz1NiERpcDsf9RdTW1-pl2kE5_8z_9GCjm36sSN5qD1IkXs0mKzOC5bR1Kx47-p7MTbWB2OU7x_PoVTmNFnjWuMJeyr9MBxNdWEdfJPypCwNryfSrcVGSQZvvdCJHEgJ7OA_FKZjIEpimfDPxi1MmpCTqszjIUPHLQo7n6YPbkAfegF1zHKjgdYZ84qws-x24lmMTlTD7bic4lM9ukPgBPsrGDspvKir_8t-wAqyPSAtjYZyacP5ILY0__wX88yu5NsVnjtm2uJHVUORYgldM2FqEVrJx2NIOVeWFeHyBeGH6s5AnsbcbeVchGH930rvmoMnr9XMwkZ0SvDrV14EM2iXGB06X6KGs-JvBlLTKWQg0JjdwjGqUA_-PaGY7pPKc1TCHIJMYchZweMXVVlZ43j-ofbzybmoMzyUb2xMMB6LlBQkSqJZz0cXJvI0332K-FRK-cQNWX5DPM_r7KHNKbbfKX67qZqz2xCh4eVZRad-u83PJN01D4CPD6JvOHegDSsAHceao5kwkbAHSVk7WGa1QQISmvkNdgkyqzYWsKtgnSKQSGZt4Syc0TsAHTBBQSm85j1_hw",
+        "width": 6016
+      }
+    ],
+    "place_id": "ChIJk2BJXGH1K4gRb2qbAvkbOds",
+    "plus_code": {
+      "compound_code": "9GX9+73 Kitchener, ON, Canada",
+      "global_code": "86MX9GX9+73"
+    },
+    "rating": 4.8,
+    "reference": "ChIJk2BJXGH1K4gRb2qbAvkbOds",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3231,
+    "vicinity": "801 Trillium Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4691726,
+        "lng": -80.4094164
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4704929802915,
+          "lng": -80.40812656970849
+        },
+        "southwest": {
+          "lat": 43.4677950197085,
+          "lng": -80.4108245302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Riverside Park",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ247OcY-JK4gRWTCESN185RY",
+    "plus_code": {
+      "compound_code": "FH9R+M6 Breslau, ON, Canada",
+      "global_code": "86MXFH9R+M6"
+    },
+    "reference": "ChIJ247OcY-JK4gRWTCESN185RY",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "45 Leisure Lodge Rd #43, Breslau"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.403735,
+        "lng": -80.59422020000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4050343802915,
+          "lng": -80.59295826970849
+        },
+        "southwest": {
+          "lat": 43.4023364197085,
+          "lng": -80.59565623029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Crown Land Trail",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107035518454845872799\">pavan kumar</a>"
+        ],
+        "photo_reference": "AeeoHcIZXCLzLpIe3HuA_VCGup38T2b6hTJj7WMRe7pFT-FpPlHSrKf_l1yxuOsUtEV0gAlwSPm8svmwL0_sGtnnddcMWvNhjgXS6DfCMgUv3C3OuVYxTh7uB0-3c5__Hqg4TpypOBIkvrHIoCP2PtRgTw-A6BIPLx6ixoYl7XW2Ei4XI4NOppWk_Aa7TSL2ZptIAXUBsnKYRBn6n_RfNS7VdYrImaqE2yujg-4xrjj5LxK8Bm5o1JSU5LaMpAJOVyqJF3tPyOmtVhafcypq_EFFDrA3lWCs9JKza6W4Bxrdt2yKnMSk5FeTOi24pwYr8D6oVmeU2WbtssdnppNgiDdWbBvfT3RSfTSpD85tf7ol04gw31ULa8tKF9hHnbTr_l9opRCJTsEs8t44qjMayBlTX-_j3lQlYCAsKOfjys66lxEQoHQfdcqng3oHEnUQ03_p46vVXofzJMAq2JMSMa_ivooFRdFPwAEV7xfPBv8oRaWO_FYcHMP9E4xBiGG_S1nl3qQ0_YueOKzUyzOvWBEZMPHDYJ-nBw9e8uM-gF9NkxU-Xn-EfyYIv_meHRd-ykevRAYkRNNHRBKpmUiPSQFUoqAj6c41d-OhDB9leMcu7vb6GSv0iCiZgF08MzsSM1Dkn-JGeg",
+        "width": 1616
+      }
+    ],
+    "place_id": "ChIJ3QjQA9b3K4gRFf-ly3R4PPk",
+    "plus_code": {
+      "compound_code": "CC34+F8 Wilmot, ON, Canada",
+      "global_code": "86MXCC34+F8"
+    },
+    "rating": 4.6,
+    "reference": "ChIJ3QjQA9b3K4gRFf-ly3R4PPk",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 256,
+    "vicinity": "2703 Queen Street #2665, Wilmot"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.3843407,
+        "lng": -80.5446504
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.38565983029151,
+          "lng": -80.54328291970849
+        },
+        "southwest": {
+          "lat": 43.38296186970851,
+          "lng": -80.54598088029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/camping-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/camping_pinlet",
+    "name": "Landings Campground",
+    "photos": [
+      {
+        "height": 9000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105596701821279576502\">Jeff Glaves</a>"
+        ],
+        "photo_reference": "AeeoHcJ7hreBpaFD-O2xouuW36Dr_SYmhgpfUVyE2RAamLUuy_KSA7nR38zqM4u_p7maO72wwLJpQytfuHwUjlyTnstT1CDwXVRP_0dQzTWFtCMaOI0s4P-LLIGmtK2XDXdWd3cApaMzvn_TpA-iSpzQOtqy8wZTpC6ULG0EKet8HDBPb_8tXItmtdXqqZrbkcofqMZvIxoKgBROI1JtXypHjDWBZbGBUbHiTQ024Y4alyBHtiuLThUslv2VH7wqcLQnnZ_2LtXPfwZU_ucwHTSvttbckg5lllNHa6xUpzzgzpThMY4GTOliS_llfvrEKaDmvo_VKhEtnyl8yay-K0utJ5fTW6eM6lUU9h_PLbgnGtybkbajnqfVQeHbfUERMNa0bj3CMmgSOA03yQ_kO3hcQxQTKRcE_8Tt3bnBJvpc923zHEzsJDSkz5mzWs7wNNSsftA55jvL7b6K4nueu2LSw0TCgTFL7dmKr-Mu8OV_eAH6d8MYCaqYF766rxMJEdlokt6DmguQJlxEzrGmsFRahnYbV18BLr57SJ0De2qOg3lGF1okGbeQxJS2yD82NfmDp2fvP-D94yn0IATER2-tjercOKPTDiU-Z9aC8h8JqEoWU1h7O7ssrJ1a9oZpA0v4unyxTCMs",
+        "width": 12000
+      }
+    ],
+    "place_id": "ChIJn-A_c1EZWkARaSRUlQTP-08",
+    "plus_code": {
+      "compound_code": "9FM4+P4 Petersburg, ON, Canada",
+      "global_code": "86MX9FM4+P4"
+    },
+    "rating": 4.5,
+    "reference": "ChIJn-A_c1EZWkARaSRUlQTP-08",
+    "scope": "GOOGLE",
+    "types": [
+      "campground",
+      "rv_park",
+      "park",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 197,
+    "vicinity": "1073 Witmer Road, Petersburg"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4090831,
+        "lng": -80.4331737
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4104000302915,
+          "lng": -80.43156540000001
+        },
+        "southwest": {
+          "lat": 43.4077020697085,
+          "lng": -80.43778579999999
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Grand River Corridor",
+    "photos": [
+      {
+        "height": 2736,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118393030681857346496\">Goran Hinic</a>"
+        ],
+        "photo_reference": "AeeoHcLzO0iA7fmyLPgof3KguDAqlyR4oI1_gjpkVzc7uKGRhIBpAnMJ7XxCIWgrZEtzwlPxZ1wqMjVApKafBGwwQqmPyfiP3x0F6WVdtpyvnRxkDXspI8FBE1WrJrXuqdYSJLVdOv-dQj25PsIge-Re-raiSE0TtEImUqHQN3A4KrVLPj8WWWS7FsvIHZrwudh4Uo8VZgJCVT28bBtSoJXoJ1SdbPsNeZN-42IM3460MKQ5IyAC_hNkkLv_H4NnmjAAzBkgNJlVkbJyUK4cAxJA5uSnPVP8PhFnbmxFfUuFuNAQL-hYiAVSryVm5kzn1R2lz3iJ6krybZZ0aEZQD61RWAt7qiMDrJj3xqongvKOPBBJSu0A1sLV7ldsrAU_1vlz1Eu2wyM9SMsU0oyxm6j6u1fJQYhM4VhTt1MRw87KGZ7d783-kl11t1-XG8q0lMELtlKq8o1MoBE6F4j_YX3W5bOlHlzdPa8dZpbmrV8fbhg-nFSF3KbRE4UHdJ3pN-14DVOEWYwri3iodorzuIJFZu4kByY3diHa8fWbaK_pOxnbUQfk-DqqBPx-KBok23FCAQkB5It4EEz_9UeVxZuX3FAv46ecaiUHYfuuORwKSHZBwUuauhAZcwAAISQwmX4aESpi5Q",
+        "width": 3648
+      }
+    ],
+    "place_id": "ChIJY9giDJOKK4gRzYMg7fkvm6s",
+    "plus_code": {
+      "compound_code": "CH58+JP Kitchener, ON, Canada",
+      "global_code": "86MXCH58+JP"
+    },
+    "rating": 4.5,
+    "reference": "ChIJY9giDJOKK4gRzYMg7fkvm6s",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 24,
+    "vicinity": "Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.48570220000001,
+        "lng": -80.4925724
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4870476802915,
+          "lng": -80.49160026970848
+        },
+        "southwest": {
+          "lat": 43.4843497197085,
+          "lng": -80.4942982302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Bechtel Park",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100686802992257616053\">Bechtel Park</a>"
+        ],
+        "photo_reference": "AeeoHcKpF_LhJTQnGkSPGvJN1Ctv70qfdZ0Q4p33limwngYlB62-HFYKz7-2xIjMne9t1_MyKuD_VRun5RkkAQZp2q2oOPxE0ssoXt6OuNr_xahIqJrxFbGCAlncMDKeKKTh-s8D3mr5zmMPZSeiiKgoD-ZGKUmuLOF6mpDa6mNr_vl9P8Ru4T-kPlK0zLm7HILVE5eWtP83kVl10mCC8pVu9jRSyXM1eyGvgne5t-JWHpxxO7OqtCZv3y_3I5OKrt-Jkv1DIXNjQcSnwJ2Kr6pJxkieSUgWKfd9m2yyZhccl_zQeRzJwKcF47zvKINx4IMShWWtgQsnZDo",
+        "width": 1600
+      }
+    ],
+    "place_id": "ChIJbStroHPzK4gRVuEf3pk77Pw",
+    "plus_code": {
+      "compound_code": "FGP4+7X Waterloo, ON, Canada",
+      "global_code": "86MXFGP4+7X"
+    },
+    "rating": 4.4,
+    "reference": "ChIJbStroHPzK4gRVuEf3pk77Pw",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 527,
+    "vicinity": "185 Bridge Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4228342,
+        "lng": -80.4144979
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4242457302915,
+          "lng": -80.40871075000001
+        },
+        "southwest": {
+          "lat": 43.4215477697085,
+          "lng": -80.41642695
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Schneider Park",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2252,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106276308181590448275\">Bilal Alghazi</a>"
+        ],
+        "photo_reference": "AeeoHcLOxk_FqSEZ0Yw7WTmSi2TpFxMMFkMBEBcZkGQOezM4HlI5vSq8rrh22mY3oXL2fMrYZoClM9D_qsBq9Kt6pj1FZrMtF0NKgqkEuufP8C9xLmrJHShlm5tQUWuzd7GFgHdGkXbJAaMhsDnnR2qE8ZYZ4jkM-mT0rzph3HT3B5f3WfyxWHMj-fOFTA1lZfNtEJ3oe89g5B4IG6poj9lnOivNo_nVPqQihhOfp9FqFAK8IDknM6s8JYvt9RRW7RfOMOXAuwXBv7NNaM3KbENbamdNED6ASw7PqhXl6-cxwk3PMUArDzpOVBb8xoZcoy5xuEOb6a5jSNjRgkTq8_jsfpoUXMyP2gtk11o_xwRbS2Bhp4l6yYeRpW1PHDBVeM-IgNicxkEzkPjGxfoJclZOHjK1UO2t-Qzjo8QgN9ocUO9Meqh3s7bNDb8Lt0v-1PrY2KSJgbdYKLq37G_7c0xnD6tLH9Hq6v6lutRG0P_wl94rzP10ziuT7fuyrnDIWSj9m-Asb3VglfXdH_nKTbwZmfLxWtxQG5p7NotQXsFapr0DFk4KYcbdXwssjsDw-Ehy5qCvCzaTmTRj0DCKrlR92BBBYuJMNXlfWoUSn2phKtCbrg1xP5z64NmzGoZJKWqkJLQae2wC",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJnYs9v_6KK4gRgnoFS1HQWLw",
+    "plus_code": {
+      "compound_code": "CHFP+46 Kitchener, ON, Canada",
+      "global_code": "86MXCHFP+46"
+    },
+    "rating": 4.4,
+    "reference": "ChIJnYs9v_6KK4gRgnoFS1HQWLw",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 114,
+    "vicinity": "3595 King Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4904715,
+        "lng": -80.5705126
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.49183713029149,
+          "lng": -80.5691262197085
+        },
+        "southwest": {
+          "lat": 43.48913916970849,
+          "lng": -80.57182418029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Laurel Creek Conservation Area",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3648,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102473600618020569683\">Aziz</a>"
+        ],
+        "photo_reference": "AeeoHcLLAEgoEOqdyBcRl85FtUwjw3vKUzTuJaoPtduppLQCIdOvwO99UX466-ifLaTev7vSEuZoRNdwPgQ_4a3wI02EA-1k3-fZRg7nYbO8hREWi7DqyYoAQ7TOllbeL-d1jtsVN4ELvlqbmGJPjMEXTenJUddszH1r_j_f3__VltEL8rBvYyze9AD0C7aQfbO_CNvPPjyMqOO9xgDM_Qnm-YPvym88AmfFxP8Hcb7E1wVF2-fRMconaMo-7j08DzBbkFtMSYFt9Ch3O2jgUjVKrahoSi2GDJHKN8hTqgLeAcMvZeEqpWL8mzHPigr1yuhUdfYtC_ZuXQd90IaFLAvdqdTwdQEjA0nzWK0uqM1ZoGbJPwys2QO-xHZGv05E8hDJbfOL5Qfy_dnDI13FL860KAmA10fSeWAlrtmCcIfYZFLQ8IpGiRIKy0DFqB_jOwcBYuYXArGcUalOqQVlhPjs4njbDEqpBlOg1Y0Ch4tNhN8Bo8CXpvSsxXgDKD9zjdWvUVrzffuyA96zHLk11J9b-r-H2EjTEdvCHt0dEu0eMDCVLtRp4_pEaJfZvnPs8v-3dCdWsueYqJHIyQ4vS0MyCONskHC9s8WrUjDUjriP2LYcSA2tanUOeT7O7MIHNdTkvGgMNw",
+        "width": 2736
+      }
+    ],
+    "place_id": "ChIJeyIXHjLxK4gRgA53niLDkko",
+    "plus_code": {
+      "compound_code": "FCRH+5Q Waterloo, ON, Canada",
+      "global_code": "86MXFCRH+5Q"
+    },
+    "rating": 4.4,
+    "reference": "ChIJeyIXHjLxK4gRgA53niLDkko",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1465,
+    "vicinity": "625 Westmount Road North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47023129999999,
+        "lng": -80.4955174
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4709868802915,
+          "lng": -80.49386216970849
+        },
+        "southwest": {
+          "lat": 43.46828891970851,
+          "lng": -80.4965601302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Breithaupt Park",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2988,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106827152053742807595\">Monika Wyrozebska</a>"
+        ],
+        "photo_reference": "AeeoHcI3gDlpPzNr8Nf5bl_LrxxFJmfKInigDeIa0cKyzz0_G3oT2ZZxFSLJ0WcbEq2SKNugY1PmKLMA9JczkMQm5GVttLMwxX9AWM-H9O3bi0xvhhgQ7boLfeEu_FttiwWInx7UodJ92kk6AJPaSpjWGQGT9bBzNkm4TZXmjc6U4qSABdFDJvjNX6Lx0ncGejQhScl1dR9sehK8auDuJemlYIWzz3Adx4XgmkkQWTZrS96yXhzUVB8NLyHHZG8nhAdgKtmGB4kSUhqfReykXHFikDC6e-H8eZsyexhqSkR7KPnIiSTmW_RXenNRI0qdHVE78cGcT0LdnQmL1Piq1pFitEy4yyH5Rq2ljMzx6G8Y0lkGJX1eqrNoL6NRkTIuxs9hXtUS5sGkGQTmciZz39LVuGw1-zouKQx1NOPNTfHLYSSXMe9IbZXcsdoCG6NTLPZXvrDokCtGThLVedEnEbwkmIhk4abofHrDprDxLloE4Z29AkHQa0ZbimO44JGmT1pau_IuIFmM_qanRNnzINp8hlygjfYbQyRmQgmdySAdBFFNLk_Y7gVn8aY_eYxDTT57TD0gPuanmrd_9lxhXkCrEC8DVPHogoWr0iVv1FK4qDV6DxIML5WbKSjYDLPdvdy7Yqsfd6pS",
+        "width": 3984
+      }
+    ],
+    "place_id": "ChIJCQ4sDYH0K4gRGPdxyaYs4z4",
+    "plus_code": {
+      "compound_code": "FGC3+3Q Kitchener, ON, Canada",
+      "global_code": "86MXFGC3+3Q"
+    },
+    "rating": 4.4,
+    "reference": "ChIJCQ4sDYH0K4gRGPdxyaYs4z4",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 875,
+    "vicinity": "806 Union Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47177569999999,
+        "lng": -80.543335
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47317968029149,
+          "lng": -80.54181721970849
+        },
+        "southwest": {
+          "lat": 43.47048171970849,
+          "lng": -80.5445151802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Egg Fountain",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102560989102701940852\">程杰</a>"
+        ],
+        "photo_reference": "AeeoHcJIzZ6scbpMhIufuGpGNSd3pLFMvEkysTmQ_ADI6jGsVVqzdSzoiSTKrDuujTU_3YPKKcmSuHBoQf6bCSndn8EngbYGHpv2oNMPmArHkUMVM4UCJiXQAhJ_h7ThiGNt9RxlqeZ-uppVg3tB0vrPkyoS6Y0mJLpbdLKRYVuRPcVqavY6XhODcgnQz51gbbha80vHxAeTS2HKckJdh2VaOWu4IspO2aBedGqX_QXY3wBALL0AqshLL6USaTsr1bUdLkj0y4p-nZAXgfjILEBDsHpqNW2BssZRq6GinAIQadgja6wqIh2ZeYAIZ5lbM2aZ5wri47oMTJ10gU4qt48bC6AWKBjotbABG9tVEo9daCshwcuGh3X6BhRCvzgsJvy9PUUbecpWlZBx4SYiVXSocGolrpXfApddPw8QYHLB2RRC_IBOwn9VJaJFvdwUnRWPQeXrwWPsgLb7lrbBlBHPauAbZInsc7zG4ndmXrUoAkDetkIjGuFUXkeL01JjMUoPpULOGS4dlMdCWbILmUSxSRnrDNCC2_IAahwZc2lTjBngNC2vnJqDxMGQW6Pj1DocDUM9KAulZ7IhzYfjODdHUKvJi3bQ9LQnsn05eakudqzHFwaoq1iQrn1C8-SvB5bATWORIkY5",
+        "width": 1618
+      }
+    ],
+    "place_id": "ChIJGfFN5AH0K4gRc2V2Fz-00Ac",
+    "plus_code": {
+      "compound_code": "FFC4+PM Waterloo, ON, Canada",
+      "global_code": "86MXFFC4+PM"
+    },
+    "rating": 4.3,
+    "reference": "ChIJGfFN5AH0K4gRc2V2Fz-00Ac",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 28,
+    "vicinity": "Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.485512,
+        "lng": -80.589759
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4868214802915,
+          "lng": -80.5884677697085
+        },
+        "southwest": {
+          "lat": 43.4841235197085,
+          "lng": -80.59116573029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/camping-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/camping_pinlet",
+    "name": "Green Acre Park",
+    "photos": [
+      {
+        "height": 12000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100621103929482204230\">Kevin Prouty</a>"
+        ],
+        "photo_reference": "AeeoHcLo_ddtlqk6WJ3AgTUoGaKhDWeISf9rp9Rp2KBwMeUXH-52ufa7HD8exheR9pY69O51JnAGudUbXl_eAcmNPi0zmjnFppj9C7yApe7Bb7ZYaXMcbMAVTQ3dNn9CcvIxPAMMZN2UQGcyWr5nY9lC0RHoVY5QOhk7GgjoYzzUTU9m-TlC6N0MYYe_vsjw49je9p5D4EaiN0B4voEqc7brDJYj3rCqHPgaEo5RIqtxfdB_HOEBnzpCNLlqBWb-0yZMlRklSLDnspLhq4Twa8PUPWCBUC5zgCvLJ_fpAM_P1FMPrBpJGevVh7CsshDymgMxQbbm2rxUIa0sWUx57T7TiZmqe8zFDQOsGEE9CLMNy2TsXyzl17X51S5fOHYDG9AmbasUin_LZkHFQwuaMptkbberJ9p6GmaO_MjA68_6bp2Qb-xWy0M5knIbD4Mko1RKRxqcQ1j8qd009OkmOCktJqDRTx1R7VdE3B1YtSSQLJYSS_QXVF0yUzeg2dRlb92cg8SA9u2OEL4CcCTc_t0jP7blfSPc45M5p_oC4jh0iBI4CwJ1WX8hbuNt2kFEQskHOy7IEGfiBJ4IAh7OOwaIl9zwZyXD3COplO58MbIKIG9gWT0rpDn63M2vlqAt3B_l",
+        "width": 9000
+      }
+    ],
+    "place_id": "ChIJVw35CdH2K4gRVg__2TV8cds",
+    "plus_code": {
+      "compound_code": "FCP6+63 Waterloo, ON, Canada",
+      "global_code": "86MXFCP6+63"
+    },
+    "rating": 4.6,
+    "reference": "ChIJVw35CdH2K4gRVg__2TV8cds",
+    "scope": "GOOGLE",
+    "types": [
+      "campground",
+      "park",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 397,
+    "vicinity": "580 Beaver Creek Road, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4642578,
+        "lng": -80.5204096
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4656209302915,
+          "lng": -80.51906421970848
+        },
+        "southwest": {
+          "lat": 43.4629229697085,
+          "lng": -80.5217621802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Los valles",
+    "place_id": "ChIJYXkYIwD1K4gRJOEyvXi7npo",
+    "plus_code": {
+      "compound_code": "FF7H+PR Waterloo, ON, Canada",
+      "global_code": "86MXFF7H+PR"
+    },
+    "reference": "ChIJYXkYIwD1K4gRJOEyvXi7npo",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4636511,
+        "lng": -80.523355
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46473973029151,
+          "lng": -80.52181946970849
+        },
+        "southwest": {
+          "lat": 43.46204176970851,
+          "lng": -80.5245174302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Uptown Waterloo Ice Rink",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJrRnjawD1K4gR_lqP8T5IRMs",
+    "plus_code": {
+      "compound_code": "FF7G+FM Waterloo, ON, Canada",
+      "global_code": "86MXFF7G+FM"
+    },
+    "reference": "ChIJrRnjawD1K4gR_lqP8T5IRMs",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "75 King Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4617,
+        "lng": -80.52109
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4629543802915,
+          "lng": -80.51983606970849
+        },
+        "southwest": {
+          "lat": 43.4602564197085,
+          "lng": -80.5225340302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Heritage Green",
+    "photos": [
+      {
+        "height": 2459,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101143276139677091820\">Uptown Waterloo</a>"
+        ],
+        "photo_reference": "AeeoHcIf-GwtxrYF5Ph4OI_uifcOGywOLQWb8Kx2EmTDe8qizPGxryw9ACUosM6tJ2devxksTWbas6AqCv4BxKhnZMe4hpSuzfXVyjbDDPXiz6IrwoROYX-xeuBJV6v1xlTiAmPKhFyvkECG4Chexd3ygGePlbG9rogNMaTx2xRMXFE4R6lL9ayRIO5qmcr6PXwq8J4W29aSx6JRww3qMwhfcwNAtbVUPHYdi8Usji7RPtgqlygvYZghtSTFyE01jP3fct0jpaj2VBGqLFb6IXmDLMM3kfJY-KqOxyMjMnGjeQ0XscrW2zYHcAb1fcmkc6kCKjD_H0ZEPc7i5dAsLXMgtH5F3nCxU5CbBeDETxSRjHtLX7Lq2qrb8piMHefvSxXfjZD8MdvOmzLM-c0ALM54FJTiOHF0Flw_sb1yGNMdvYTFGCBwHVjmP4eIK0So6c3lbOUGHC4SxC2XzI9d-RGMgO79lJF4OS5menmjxlW_92PrDvUwbdtZRj1wjX1cFJgBd-5_zg_iYmMRSnZuwi0xa3ZmKvBHLvF9gDg50bCtJWJYP1_wfjH3IpOFKfxws_KTBOb0iok5u-xqua6-fC2G8yRp-kFofXYqdz6cEpRS8HkNmOCtx0Oq1QAtPVuQjH5BpenABA",
+        "width": 2887
+      }
+    ],
+    "place_id": "ChIJc8MaHQD1K4gR9WovDKzhcvk",
+    "plus_code": {
+      "compound_code": "FF6H+MH Waterloo, ON, Canada",
+      "global_code": "86MXFF6H+MH"
+    },
+    "reference": "ChIJc8MaHQD1K4gR9WovDKzhcvk",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "148 King Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4650212,
+        "lng": -80.5242952
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4662790302915,
+          "lng": -80.5228700697085
+        },
+        "southwest": {
+          "lat": 43.4635810697085,
+          "lng": -80.52556803029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Waterloo Horticultural Society",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117816303582368317161\">Waterloo Gardeners</a>"
+        ],
+        "photo_reference": "AeeoHcJH2tUVVEq43xvrXMULupO_mMRo5tJ3LZATiKUOPNbej4z6M9qWNuJju_bB7WStkY8MsLD3bFx-Xh98eX3hha3J21iBJWcHRjyvsWECBRYicQu3p2V_ULtO7uQBC1xoluCHOuEPTu5PLYVorBBq4YmEBknvRmm3ajUI_WC-MwEp_nDb3mASYlD9TKO9smFCeAcyEdG-n3eC7Ap2tJ9zRDq71lHDBjtbVHjepDcexu975LErraxFnEItxD4U60TyUuZgC0kFPYAX1SL1wuy6JNqBEGEt3wuenkNg4JfRZXzd5cMJ0zD6DNHaxX525fAOXiXBGzGv6W76MDXOKwF1zFDiTmWqxBCU2XR67FtOQnkR3sGGRrBgSRVrrsKXPwAH-Ta8pL58LBSjn3JqfO0pfdqbmWN9QqVTLRYgSevOWPYGJsgBdK2xvuXrfHujGXnDLObK6wzvYegnfkgzoZJMz3Kfj24PnR9p9vIHxIO-URvp46iUMcrew2gDg1sSbMty1dYC9X9kiLR7s0MRvUMhlUDLRCMUzPJreMkjZs1tqlcUZh9LDiELQ58UPK-WreX2wDKHFk-vU7udPotjp5xt9I7VZOw2zUGZUQ4sunKRaNnBso3tCGW-5b-LPEoOTReB",
+        "width": 1620
+      }
+    ],
+    "place_id": "ChIJ81XeZzz1K4gRTwOz5a1RW14",
+    "plus_code": {
+      "compound_code": "FF8G+27 Waterloo, ON, Canada",
+      "global_code": "86MXFF8G+27"
+    },
+    "rating": 5,
+    "reference": "ChIJ81XeZzz1K4gRTwOz5a1RW14",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4612772,
+        "lng": -80.5211485
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4626743302915,
+          "lng": -80.5197468697085
+        },
+        "southwest": {
+          "lat": 43.45997636970851,
+          "lng": -80.5224448302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Brewmeister Green Park",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100084716252824298712\">Ladan S</a>"
+        ],
+        "photo_reference": "AeeoHcJfxs3j4cfGCUQnPfMC1NqoBmiuxDMfaunCEKyC1xNr2-cXuXUSEtwodxBO0vhV6AmefVvBRCrz9OwALrTir_6wtrlI-aemtqCWiSbe6Zmw8WC8aIBRP88QtlYdByblCFL-9qzeuiZzI_yVXKd8Fc0p2lvHYjEe-Iltg-MGXjenQ3Chjvf5HaG7scxQWo-3slKgigFryZ32y7esKs8nc4FJh0eHhYsua0g1pMkLWteoQqdRWT6TaqfXjEwt9oz-1ef-px0EQLKGEJ2q9o-QS_R4O96LGeUNxFyI7zrZehAby0omr_uN8SOpUB-TDvmKurPQSlwnNYi2WkH65tvrm3r16yp_GbkUZBMycK3SJlGXmjaO4J7QMrJ_QBJmykeV1-SvyK9ZC_URMJIopL9u8smHs-M7VEze-sYztZEoqQNVKVTFbAqzgHTyIL5_yx3UpunRRnVBIzTetgPxgOOuvfnLOgDaWTg_TU_5P6fRKCX_Jo-82hzAcEJ8WxGiTma2qQ2PcULhArOMOACMOoLmmmEXsF8ED7UZHxtFuITVqgRWw15vZiS_QQXJV3G8EWooOfgkgrz3qzYYvfcVn673MaKXVXFOBTChXJas0eBxekG4qRVgWtUXZivI0NjW7vS_N_UjAA",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJ3aVFzmz0K4gRbGryhWD1eI4",
+    "plus_code": {
+      "compound_code": "FF6H+GG Waterloo, ON, Canada",
+      "global_code": "86MXFF6H+GG"
+    },
+    "rating": 4.7,
+    "reference": "ChIJ3aVFzmz0K4gRbGryhWD1eI4",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 14,
+    "vicinity": "155 King Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4658706,
+        "lng": -80.5151688
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4672375802915,
+          "lng": -80.51410481970849
+        },
+        "southwest": {
+          "lat": 43.4645396197085,
+          "lng": -80.5168027802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Good Earth Community Garden",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103225385716455761164\">Heather</a>"
+        ],
+        "photo_reference": "AeeoHcKgZWWP4k7Gi-ZQacefmjIbqiJVyiYFCZiFtqpjuh8ewCrFwYA5UYXgEnydmUNgrXrxtLcI5uEJVI4Wwnf053JCikgZJuOBr_6Kp2_QdlBW8OEeTTcW42EzC9rsjb8jCTGh08r6VNLY1FygUYT3BN17ydHG0lLHDC4y98GXASBVjOjv-xgj1OoXUrlYhcaC_mUVZxLPKUtJWYwARd7zif68T3vH46zV-M-AeEoxbXazulheUN1Ac7uxZZb88nVGLP7YNtU26C8LSP7D6mZQJuDjsJ9EeSTScglbZObI8D3iib-lPg7DLYKfXevhieaAHJOAwphbEXNx9CvavuK_6gIU_UOk_tIN5XwqrLmI_qHrnlK8SX7uopGScnRWu37izTsReKlfzxfzGy1aOM3-nQVcTUBGFPYVB6xu_8py2kfIuIBkJQPwSPubxUDbZv4XXyohSpMNwx025KXT1doj2FpuBD5XzVq93Gx-J4yD_bqfVCT1e_oohCUk524EVflEWhxx8qq84NxFx6nNpSR6FHZXfr8WODthObZTTLhCfboLOvbg740MyrbXailp-7Au7kxBce7W_maRxPJJooSU0uLbO1S0gOwSOzksiw6PDLvgFSiLv22NWPotlzbmMHi_sjbpcA",
+        "width": 960
+      }
+    ],
+    "place_id": "ChIJiSWim3H0K4gRppJCoRa2N7s",
+    "plus_code": {
+      "compound_code": "FF8M+8W Waterloo, ON, Canada",
+      "global_code": "86MXFF8M+8W"
+    },
+    "rating": 4.7,
+    "reference": "ChIJiSWim3H0K4gRppJCoRa2N7s",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4634962,
+        "lng": -80.514844
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4649736302915,
+          "lng": -80.51367811970849
+        },
+        "southwest": {
+          "lat": 43.4622756697085,
+          "lng": -80.5163760802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Mary Allen Park",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108084935809631148690\">Trevor Heywood</a>"
+        ],
+        "photo_reference": "AeeoHcKnMZgpY3fqn-Gh5PpZps_y2t8bWiN0eAKjQOjv66N6SwznRrnJf-mFzbP-U8ldheNp7JdIWsI-ZH2kT3NKZBA8GSs8C7c-xoUfijGmn_wf1iEbxXMJkoHwKcgfYFJYWhvYiNRkLIsoGJ1s-yMwIZbF-7w0ZLxdRZRuoXnTj1OgWvA1lvaYTI2RpcANKxksXR-Ik0MHJkEBdr0jT4kaIZXdX4reaFn2HCUDW0B6vKYG0WJGd1d1AZCS0mhUqnqmyGNEnSmAbdnwBkDFXGUIv5uEVlwkytbtRIUKQmT-E0rNs59qAiltBQt7fu_gxxXQzpVERCsh8G7ZFzfTXvoZslpdH4c0XCuDDG9X8ELmlQ8NzGCIIl0qVB0dueKV0STURq-Whf0ujEa8-aGeXhqs01Yj32nWgLCZqxkN7Wy5y2nLTjAbOLsMP3VgkUZpx5saDCURHO01mWdF-gBAoaWHm2U510CyeW_2LbdEt1dr3mhZXFuhxWETBxGxSN9hFiB_6uiuxOfBAAGHeOxZ9bgXuHym4e6N1bg-sxbVqOJnjngFy5aJI5LEccaOMMbjSZMfwfEYMzzf_2Oopw0zemrWLQ0nXLEh9TR0rr5p-DdlCSjdpSFSKrdoSCYRMJ6GH-xx3r1wpN1U",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJNQvYGG70K4gR20M8qO11lyI",
+    "plus_code": {
+      "compound_code": "FF7P+93 Waterloo, ON, Canada",
+      "global_code": "86MXFF7P+93"
+    },
+    "rating": 4.6,
+    "reference": "ChIJNQvYGG70K4gR20M8qO11lyI",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 137,
+    "vicinity": "95 Allen Street East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46053190000001,
+        "lng": -80.5242592
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4619413302915,
+          "lng": -80.52279956970848
+        },
+        "southwest": {
+          "lat": 43.4592433697085,
+          "lng": -80.5254975302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Alexandra Park",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112524674843924788166\">Katerina Rossolovich</a>"
+        ],
+        "photo_reference": "AeeoHcKc62uGr4Xpffi6oLFa6-7DsuMObmUkVowqQgeA0_Daq38NpzL67LNlAFNPacpVPgeTnhwLHuBPQSm7QlfSEuCCwax_OwZ_v9Kw9AiIKzMEZo02ymt36Lx0NVbZxK0KQz-n3S7ijpkIGHymiucvSErqEtNRuqcyXYMdVQ9m4BWsevn-iTYpii1YKb5jZE5ZFSOBdh5_pAf4MVtL7q6fLaMC_zKSey79xqFBcwph8peFy41ElxhxkA86aPLrJQNaD7elJX_lVKxXyIssGemmfTDsqmaYaWvsGUYsd9bbm7WfYgK_1MGPq2tkiul6AOCkSZ1Bdv-_sdGy0pUIhYjioP50Jc3NY8GmK-MmcpZnt0B7rn96TPhhj-f9XjU25tWH3QkuPD25_TXKUKLZ2Grk2hUCUPQKevOC_3e6GC6WEEudDrf5296ZjgyiKz3mfrFs2Uqw1fnSLBgrY1TxN9FdkFdGhELXPoQryQnEDAkOeIqRXVWTRF475wrg4a1ZIBKX36GNoNsARm-r7ugE4SizSBn-AkM87XyX1nl5Hhlw2Uasz2gu2r5pjGZBa39YiLKK98J59ikE0Or8v9Sxi8HGPubmYNrJ-QrJXA8vNdl3J1CqP8F571AjYWh1lfCbk1tBFtTpfw",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJiSK7dxP0K4gRb4I-hGThlok",
+    "plus_code": {
+      "compound_code": "FF6G+67 Waterloo, ON, Canada",
+      "global_code": "86MXFF6G+67"
+    },
+    "rating": 4.3,
+    "reference": "ChIJiSK7dxP0K4gRb4I-hGThlok",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 36,
+    "vicinity": "47 Alexandra Avenue, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4667492,
+        "lng": -80.528041
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4682488802915,
+          "lng": -80.52705981970848
+        },
+        "southwest": {
+          "lat": 43.46555091970851,
+          "lng": -80.52975778029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "East Gazebo Waterloo Park",
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111835208059715553206\">ajay patel</a>"
+        ],
+        "photo_reference": "AeeoHcJknyPAThYwjYSW2jTP0ymt6nVxBlfoUhD8tTa9dHhMPfXsCUprKGw6x60Xg9sfEce2P-vq_iRVYDhdIBQTcjy_e6GKzVf-xQkYIDJ1Zopoo-THCiHss22wfEpso2dkNMAfYl16ksgr0zJWiMIs09GIg_62aiyS-rUH9ah2XQrrLYLf2xwUJE8KZZqHvkxoNrEF1WMz_-3gw6U_Ugd8VEt4apXt4RTX1M8UiGUt9ME_mlGZmzLcN2GMvNrmHvNYWxq5xQI8WXjG77njuSKWt77bxXe0Hq-J0UC78XBGv3tdOnzsEkK6dZfW6dmOiRO3k6GKSOV3fbIxKd7UOsdEb84mmU8mCg_T-562L0ozlv1NcAru6iPvwYfhxVYLj0hC5vSw-sB2XuBTz9tyL0lVcuUxuUyRjH1FZfXh2HnRKSWI_8GHTK8rUq4Ht0vi8U393I2IW519arMMZDHgOLW5O1uS5N65-bGT8xqOV8A6T3J4Wc2xHdkDdBpRzeK3jvkymmch3l9OxCnin8KdrSi74GTZtHZBJSMVN6a1_6WtfoluB-BIlekuU4Hrq2kzNCaF-eZmUQ0JEsGV6Cr8x7CJL_w3c26kJo09bJ9arGjsYM4E0203PNl1Ob1bdPO6cc2a",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJb9ndawT1K4gRnEYWSUIdX48",
+    "plus_code": {
+      "compound_code": "FF8C+MQ Waterloo, ON, Canada",
+      "global_code": "86MXFF8C+MQ"
+    },
+    "rating": 4.9,
+    "reference": "ChIJb9ndawT1K4gRnEYWSUIdX48",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 13,
+    "vicinity": "50 Young Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4673384,
+        "lng": -80.5280881
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46863493029151,
+          "lng": -80.5263951197085
+        },
+        "southwest": {
+          "lat": 43.46593696970851,
+          "lng": -80.5290930802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Victorian Gardens",
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117112654818680726173\">Andreea Pocol</a>"
+        ],
+        "photo_reference": "AeeoHcKeTZhGq87T_NPkzKi4g2rK6MUA64mLpmahZFuFnYA2y2cVjgkWvFuDlcBosP4q4xEAWQ_QuyiAB7eNgRjGkH1dRNgi2b6gfOPLFsJM7rjcQv4m69AG1tN2GoV1XGUnd3rRGiJ4W7_6zzEEt9hHrGih2mLMYgsNTuE2svwUFonejFvEdU_EJbtMM0ZDo3-iuasij8amjH3gaMXBKpcofSPMZjPse8vh4hEgF_RgTz3LwIjSiI3E0Bgv3cZ3V0EOgOfm66ymAWsgT-I5emurOLmcKU-PjafTM7iEljI0_QwPbj1YTS2WOI9FPqK3qZgzJiiL4StLogh8REyZXcFk38g-_m9qZD1NhrHTGhyhaAzO06YqX6etvMzxt7uvQfq5pwtT1_nhDw_4ya90PdR0hkeN3rkBsFq9r2d6oyBUiqDAo38Ucpk8uidyYviGPQyvLvhnU6KZBF6tEu0CsZVv-BfD1Re65cMvtjQG54pDlCUm0JKbljelxua82n_B0fIXlcZ1jGLANCl2JEG1ed9VeEIe8dWjT6fVBbAtmpwjVf5qpyodEJjHyJHl3YgSh96E_og5G_p6tiUooHXQfu9xg4iws9E0a-9hiQMZCDq285pFSc7HzxP65_yDDVpxPk2w9S09nQ",
+        "width": 2268
+      }
+    ],
+    "place_id": "ChIJ0VnDh9f1K4gRziSoo_6N-EY",
+    "plus_code": {
+      "compound_code": "FF8C+WQ Waterloo, ON, Canada",
+      "global_code": "86MXFF8C+WQ"
+    },
+    "rating": 5,
+    "reference": "ChIJ0VnDh9f1K4gRziSoo_6N-EY",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4704186,
+        "lng": -80.5176434
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4717905302915,
+          "lng": -80.5162701197085
+        },
+        "southwest": {
+          "lat": 43.4690925697085,
+          "lng": -80.5189680802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Brighton Street Trailhead",
+    "place_id": "ChIJ310vHAD1K4gRdmXAnPyIjg8",
+    "plus_code": {
+      "compound_code": "FFCJ+5W Waterloo, ON, Canada",
+      "global_code": "86MXFFCJ+5W"
+    },
+    "reference": "ChIJ310vHAD1K4gRdmXAnPyIjg8",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4706444,
+        "lng": -80.518317
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4720875302915,
+          "lng": -80.5168165197085
+        },
+        "southwest": {
+          "lat": 43.4693895697085,
+          "lng": -80.5195144802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Brighton Park",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2256,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106507128556058005278\">Samantha Kristoferson</a>"
+        ],
+        "photo_reference": "AeeoHcIvht3z1EEQmEhkTl8YIkokZI0Aw0wF9lCamK3HnFpztlK__MmonFqBsxSknm7sKV7tbYvXn5eSxpzVwOp_hhLeuGwUhpbekinRUyoMWFi49avcgPQoosuH3DomXbMaWd9sYrV49yR3oti9Z-Uc-duO64Y5CE5_5QI87xbDHqJaundK7nXVFCDCn73ADTEB_QUeCfTd_MQWNRwcozL03mYUsqoI4Vum7ZpaZC4N-67pTpG_e-p-tF6fgmzWq-QsxX2nIybUgA49Yhccj4dO0KXgne3x-ez-Ef8agXMErbpY-ERJQqvwtrsqaaGGfh9rPDl7TZmUg7nb_4ZV-p4HqRgKxBzlNHnWmmOqG8M3RVawX4i0I43Xe3H_wZ5Q7uAFZqcow0CyUTk8FieDR4v8Iwnf1ybSrZLwfxpCQfpGNiJd3cKdVKfBiW24jbq7Fd5HC1_R13KaW_dCihVykZEbCya52nIWhonoX__mK3nyNrL6FOJL0nI_GFZMsYHhEaON5UYUYqYhQjRKPkovftmstlbFNlNYvrZi4EzmFz1WAbZXq8c6Fs6gUnH3SEtqjLltGrW9MwbmeNZP5PKs7Mz3qWeDnt7n3wX5C2gO4qyWKZzT0upF_XrtJVkrOPGokaAIINJrQK4A",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJHSyIWnT0K4gRxGn1FDmWGgU",
+    "plus_code": {
+      "compound_code": "FFCJ+7M Waterloo, ON, Canada",
+      "global_code": "86MXFFCJ+7M"
+    },
+    "rating": 4.6,
+    "reference": "ChIJHSyIWnT0K4gRxGn1FDmWGgU",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 22,
+    "vicinity": "4Z5, 139 Brighton Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4678261,
+        "lng": -80.5114866
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4693025802915,
+          "lng": -80.50939844999999
+        },
+        "southwest": {
+          "lat": 43.4666046197085,
+          "lng": -80.51218265
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Glen Acres Park",
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106477766414569991064\">Stephanie Boragina</a>"
+        ],
+        "photo_reference": "AeeoHcIV8Q--mw5GLPmcObsg5nJiEZsW4kaO2FVCwHNICs0QRSanp1Waarm_gIBiwlwk5Mq_1ZBwfvcDOUk2QIAAVdp_uf5opbpoCnwhFxgi8xHhOLtzAh3cjyTAljgRdbPp6eEK2c88ts38Ugacq32CN1ox-lhDzKoL4wxZgS-nvu4Oe3lNKsey-3a_RH2uCKIbZsjGjjXathf6Nd2zCrbXqyPijsIm-Da1nodPYTFp7AYq1kFcE6iiMWstE_ZbLBzPNJ0R_D5sB28iniQEN7Enestu7kTvJkUXP5r6QGU-enXqBJACVWUO2nWd7wDa6HVEc02hPaCxVyBjkYufPl8ockBKMqi3RQ7R_hOeTvXbOTij8l8GIV8P-7TdSKwGkws3wc4gQCqP9x4E1ESKLj-hAbklTaAfz_uQpszUFK2muW7kQoeoUbSJJged1zaEGhTkIfhRzs1of6aoZJNlWnkK1vO9dnlKXIJ-Iec2Az1HwMVFLvTCbq-5aNtY4citqWnxFit9oOt7OFQKZQ2RHfZThNvSRXgNB3Slu_mRWWAF5mYNv9kGu_BgsKUVXKqO-g7TKOhD-C5MgjbIekurZVm75E7AowBV7l27qXxS1xd-jAUYd_LlZIZO1DFsPz-S60tfnAu-vLpv",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJo_KxuDH1K4gRwd8q6BN5DzQ",
+    "plus_code": {
+      "compound_code": "FF9Q+4C Waterloo, ON, Canada",
+      "global_code": "86MXFF9Q+4C"
+    },
+    "rating": 4.8,
+    "reference": "ChIJo_KxuDH1K4gRwd8q6BN5DzQ",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4673872,
+        "lng": -80.52970499999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4687817302915,
+          "lng": -80.52841171970849
+        },
+        "southwest": {
+          "lat": 43.4660837697085,
+          "lng": -80.5311096802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Butterfly Garden",
+    "place_id": "ChIJkWw_Yav1K4gRn79kXaao7_g",
+    "plus_code": {
+      "compound_code": "FF8C+X4 Waterloo, ON, Canada",
+      "global_code": "86MXFF8C+X4"
+    },
+    "reference": "ChIJkWw_Yav1K4gRn79kXaao7_g",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Park Inn, 50 Young Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.470147,
+        "lng": -80.5281976
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4714095802915,
+          "lng": -80.52678256970849
+        },
+        "southwest": {
+          "lat": 43.4687116197085,
+          "lng": -80.5294805302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Waterloo Park",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2296,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110645329527937072282\">Gheorghe Curelet-Balan</a>"
+        ],
+        "photo_reference": "AeeoHcLQ2wJUVdecYQQG3uQCr-RQ6qKtnSthrZWIFCQtmrpKcmHveh78lIdeLngeM5WJLeEC-mi8MiWCny2fBsy4AuaOmGaDXt89mb6P25bCUJ6Bp9V5RpHgFf36aVFZPId2YL7gvXHWiwDzYlFrnaFSIkPPLpqSLTGKC0aItcm7aFJtfwEVT1ThSJ_rUCN2OgZICBqeGBE0cUPJOwhTQ9RhSbMjuo_rJP8GrhGWjDD5p_tNm4KPgUzkkcFKANWZRUmVCOcqYIcTvTIFWy3N8bVTFi4lSK5O8bgUaCbpBsx3N3FCr-y3m-DzseekZp8SL9RdvDctFsowit_95eJ-3hDXOLsoCCs4tGK9FN6bw3x0rFPQHv8PH0XdlCAe8aqEQZ6Q7fm3kYBpqqT-8ZvjRuO6m3jxr70_teGAdrMnvoMIKl3r52EC0v1ocNo3HZWxHVL6sBLkCpn4wbjBiAidqFwwZDDvL1aegvoJhhpVrhKrCNskuBjXQvv-hUHWCD8XLYV0V6jxxOQeXY5JxvgYaMpwrElirz_0bNSOf9qZ6ggf_HxaZ2dNWNaaGk2seU8ppsG_t-Ekae5f48zCCucYrqy2SXlsP76A1U4GnMzyI-QLlBZXUlwUOBK-A9hkzLAEX0Yr",
+        "width": 4080
+      }
+    ],
+    "place_id": "ChIJcWNX2dD1K4gR4Ro2b0TuS4s",
+    "plus_code": {
+      "compound_code": "FFCC+3P Waterloo, ON, Canada",
+      "global_code": "86MXFFCC+3P"
+    },
+    "rating": 4.7,
+    "reference": "ChIJcWNX2dD1K4gR4Ro2b0TuS4s",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 15,
+    "vicinity": "50 Central Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4718458,
+        "lng": -80.5146819
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4732081302915,
+          "lng": -80.51329801970849
+        },
+        "southwest": {
+          "lat": 43.4705101697085,
+          "lng": -80.5159959802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Laurel Trail Weber Entrance",
+    "place_id": "ChIJAemlEQD1K4gRAqqFi26-8A4",
+    "plus_code": {
+      "compound_code": "FFCP+P4 Waterloo, ON, Canada",
+      "global_code": "86MXFFCP+P4"
+    },
+    "reference": "ChIJAemlEQD1K4gRAqqFi26-8A4",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4692127,
+        "lng": -80.5319341
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4708018802915,
+          "lng": -80.5306330697085
+        },
+        "southwest": {
+          "lat": 43.4681039197085,
+          "lng": -80.5333310302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Waterloo Park Baseball Diamond 4",
+    "photos": [
+      {
+        "height": 2184,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101730943167187394838\">Matthew Trask</a>"
+        ],
+        "photo_reference": "AeeoHcKQHPc4G4GchHfW-Kzltx-jJGgbrWZzBPgWhYKwL5MtVn4aOBOfhkrgEpcBErtv6V2QoPbZRaZwrEOjKhR34_uhsGfdafH_hWJEt6s-qJet0Tq_yTXeTL1Vw9eNJQgex9eAPh0MGSYfSf-RCwoBT_HjyNM3b2Mu4ko16Dp-dQbabJt0QRo0K0p8IteBht8xBHtxt9RkprCpIqpdKbfTGLNVBf3oYT3JCfqwH-chjPC3HvtNIZ2HUB8xMzRpT5EBCH3GAx0P-V_AjRk0mjp2CD89aTi2aHHTU4uGZ8AHbxK_McAB6aJ4GBExttd33eebDqe0KSndmK_SZTa245zpI-GI1and7JInmXQoPYoibEFjUK4354bnfwmedP1PNMXXwSr8OoirfjHS64bIQA2WvZhhzlWIc0LU56dPwd2vO3l0bdLtQbn2CkYMBzjShq95J5Y_UTQqzhAxdhLKrxMy-rv6uayBkxxsE4smxEMZPScKxuD3yp40sVS6dNgC6LwuzBwgtkBx385mKQWpjI7zoSTqUqQ5I-CRt2_FlPZJnPab6QQCzk5D8DLNlggXOepGGwCiqajFHTl8Nh-MUOyIL_ZiapuOxT0N0P8T2vE6NkwBgAt2cMPrRMLQyrK4HDhwVEJ19g",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJPXk3pjb1K4gRCri8pOrPhgc",
+    "plus_code": {
+      "compound_code": "FF99+M6 Waterloo, ON, Canada",
+      "global_code": "86MXFF99+M6"
+    },
+    "reference": "ChIJPXk3pjb1K4gRCri8pOrPhgc",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4542189,
+        "lng": -80.5195682
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4553368802915,
+          "lng": -80.51797991970851
+        },
+        "southwest": {
+          "lat": 43.45263891970851,
+          "lng": -80.52067788029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Argyle Park",
+    "place_id": "ChIJyfd5JUD0K4gRlWTA8o9_zJ0",
+    "plus_code": {
+      "compound_code": "FF3J+M5 Kitchener, ON, Canada",
+      "global_code": "86MXFF3J+M5"
+    },
+    "rating": 4,
+    "reference": "ChIJyfd5JUD0K4gRlWTA8o9_zJ0",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Kitchener"
+  }
+]

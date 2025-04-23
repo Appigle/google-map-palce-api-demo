@@ -1,0 +1,1961 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45315950000001,
+        "lng": -80.51818709999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4545823802915,
+          "lng": -80.51684421970849
+        },
+        "southwest": {
+          "lat": 43.45188441970851,
+          "lng": -80.5195421802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Camerons Flower Shop",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104645869710215316011\">Camerons Flower Shop</a>"
+        ],
+        "photo_reference": "AeeoHcKdFdGdjplnO9bgc5cFxh38IOoSXObEIoCg8wYIvgT3UIPwnQ6wfcjeWeWB-5zkeVcRaNEQo7Iybe8ZYioGHf1xPyd_wwUo0mjLGkXWFjz24qdPvakDPYZvVt67PWABP0-ssJ8E46ORYwewz5amsZJXfFTMhLl4j2IzOHSS7XITTR6Eu6M4r2enoIhHIqN4fRCCOVSMDBqSdYOsMN2BZ06XcBhQ9pL5N_onAU9OSNbQA_falL_RquULBihdOUn5ea-3TnPZT62Si7EwPWyUoucWqC0rxXRxBBy2lCXHstYlnBpiXxZF-3m7nuayrwu5MMRqn8bU4vY",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJz_xwt0H0K4gR-WOPvSvEzkI",
+    "plus_code": {
+      "compound_code": "FF3J+7P Kitchener, ON, Canada",
+      "global_code": "86MXFF3J+7P"
+    },
+    "rating": 4.7,
+    "reference": "ChIJz_xwt0H0K4gR-WOPvSvEzkI",
+    "scope": "GOOGLE",
+    "types": [
+      "florist",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 185,
+    "vicinity": "683 Belmont Avenue West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.43549280000001,
+        "lng": -80.4841836
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.43676188029151,
+          "lng": -80.4828609697085
+        },
+        "southwest": {
+          "lat": 43.43406391970851,
+          "lng": -80.4855589302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Belmont Flowers",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3913,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101198438891969448178\">Michelle Dreveny</a>"
+        ],
+        "photo_reference": "AeeoHcJGB07uuXhNxyGzY5kwzgyG3FB64ULs2GwrIJvm7ks9tRpUppUnmHNg0WkiWbPefhl4oFZsrSEk1NZaVMhUld0dIIdDMpLKyo95xiGir6ByGcniFjbGGxMNHB4UKJkxAJiae_DoDTKhYwjQgnrsrMF8J6kV9ec9i91tByCPZVCGRsvoteF1zYgtl_n7FEckM4HbGeXgNbgselJDAQR7elf8uduF7Fvgkuj9eDdjvgaQ_gTn6KtydW7fXl7yZaqqZySaJgOtP7OVneuN3_wbjjIan5pej-eQCONwqLepsi4Rd7a8tGd-5BaeB_iymDDvDqGOTJXIEhAPm8-QF8GUX3oxwSpKPobwO1A6f5sq9mr7o72Nuqglrsg98pCRAR_8R4TIm1VmQtJGO62VgU5jUQ1gK5deIK-reFtF0YNjnOtYzW61qn2V-lRNr8Evo0fA-R7HbbCHet6wRq5q9oMOyfOfYksExez7NiI7lR3F_Y_6AHyLKZHgK664WCqBufel8D4-f2MzB6-_zFUMMOU3zCy7ZcpHWQ3YQLjEJq6tYmNsOZWb--WEpDsvBg4EY7C213RqjmUmKQ_ze_8DFxDDcV8AccaepRn_dzuPnRfKDyMukSvoh3QLhRt7nRDBqt8u",
+        "width": 5869
+      }
+    ],
+    "place_id": "ChIJpXQ010H0K4gRu4hPrcKT-Q4",
+    "plus_code": {
+      "compound_code": "CGP8+58 Kitchener, ON, Canada",
+      "global_code": "86MXCGP8+58"
+    },
+    "rating": 4.9,
+    "reference": "ChIJpXQ010H0K4gRu4hPrcKT-Q4",
+    "scope": "GOOGLE",
+    "types": [
+      "florist",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 102,
+    "vicinity": "330 B Mill Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4653909,
+        "lng": -80.5219892
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4666688802915,
+          "lng": -80.5206136197085
+        },
+        "southwest": {
+          "lat": 43.4639709197085,
+          "lng": -80.5233115802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Charmed Flowers and Gifts Inc",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115014136119941383384\">Annette Hynes</a>"
+        ],
+        "photo_reference": "AeeoHcJkzD_f-xnLYy4_zlt1h9SJYCYxWN6XVOl_04k5hXiG-2FC4tsOEwtQKmt6DUoC7rv6qwYcre1smEeX_7BvjcrDRowSXBSEdH7z4G9DHkH0PBxZ_5wa8JP4KNsLCEiyz8sn_l1ajcMClwgNmdISD5xqvEsd6tLS5Di4SMHvO_7t5qZVhBpQE0BRAseNivYM3hWvEoQRnZf9KoR6AdJw46VW7FVp3_6N-TBNqYjMJQ0aRhrVc9uuq-rN1ewl17hxYwRMOBqGfb1xQj2AOH1Y3m0sZsVPOOiVUuW_OypsRTxhA9oQFys2kvmZU0SRqgRDJvP9WDFMzVigF66qj_wbZd7VVeLtiBQtdQglZN_M-TSItWd0HIcea3CrgarBVQaBpMvZg0PJ0zx4LBhDyiDFFcMlENs_gcQUOPc7KtdChwrWBF2PRN0VuYrtFKfOX36GYyY9ia7p505KGMyw16o2Uxf9_97Gz8P2PxOVjJvyp2Zkc0o8ysUEot2tdTuctvGnGXsFJK5mx6lGgal4t4-6q-wknG0BNQ46RCaiekcqnbkXImqrcrWsFhMfRoVJ0yT8YhXCGOZ4OIqF8fVMmIgz6oic9FhI7kgloTe_WvkifpIwpGQLtD9l0BNUX-So05FRxGVOtw",
+        "width": 2395
+      }
+    ],
+    "place_id": "ChIJs0tppRL0K4gRRFIx6gwxcvc",
+    "plus_code": {
+      "compound_code": "FF8H+56 Waterloo, ON, Canada",
+      "global_code": "86MXFF8H+56"
+    },
+    "rating": 4.8,
+    "reference": "ChIJs0tppRL0K4gRRFIx6gwxcvc",
+    "scope": "GOOGLE",
+    "types": [
+      "florist",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 208,
+    "vicinity": "2 King Street North #6 Entrance on, Erb Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4706286,
+        "lng": -80.51508729999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4719622302915,
+          "lng": -80.5136269197085
+        },
+        "southwest": {
+          "lat": 43.4692642697085,
+          "lng": -80.5163248802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Sobeys Flower Shop",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3840,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104188599540043908898\">Abhinav</a>"
+        ],
+        "photo_reference": "AeeoHcLtMIOzeifEdwpftiN44nReQOhprKp37IxLRxg8dXV-aZ94kTMBRfQJ9Tcw-ElthEOme-NT6ia4hWSh2ucp5hqKRnqnuknTxmUTeOliUXJ7idE3XGMJO_KFA6IRU3-f8BG42aNTKB9Y_PeXJx2N1Vz90xg8_DSiQLOXYOLifCjImjmoaVM9T6FFb5NJVXAma62jpTQuBlgPIaXRhlkS8jH9fZyydXFPmgACb2Kz3I7oASPNigDzQFd4D1Hq6Esf91eZXA7cfHBlTRCVOTNVHbKItJ1zbrI9DLG9-RY_sHDwM4Ti3rt3UxQGNraaSxGrZQxay0-j81J5L3Ti4mgzSQ9zCB5VkTgNrN95Sviti0qBMlktiJImpB0iII2VDO_LQycjuKZ6lr_C39H9zOd917oGJ-ArrtRFrQEx5nejFB0yQwVNCBjg83j6yjLsW-X5cpzpHLB74TYtBv_kaBp9egx9DMHDBRU-IjtrGr6yB4uwvdieTtY10xAL7SHbIW5pbUmvLPh0FThUxjhmd0PxdiD6ZE1i1SFpeOSqgsEr32CvWx49uEVgTY7f8x9rC_AlIR38tPKtD7VYAR1JKEYj2qRWt3_hT13pbHszDp2pPkE892MXgAmabKsa_hHtruLGsAV7sy9q",
+        "width": 2176
+      }
+    ],
+    "place_id": "ChIJlyzZkXb0K4gRl6Howg0WPlo",
+    "plus_code": {
+      "compound_code": "FFCM+7X Waterloo, ON, Canada",
+      "global_code": "86MXFFCM+7X"
+    },
+    "rating": 4,
+    "reference": "ChIJlyzZkXb0K4gRl6Howg0WPlo",
+    "scope": "GOOGLE",
+    "types": [
+      "florist",
+      "grocery_or_supermarket",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 11,
+    "vicinity": "94 Bridgeport Road East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4543942,
+        "lng": -80.51822659999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4556971802915,
+          "lng": -80.51701141970848
+        },
+        "southwest": {
+          "lat": 43.4529992197085,
+          "lng": -80.51970938029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Fresh Look Design Inc. Wedding & Event Specialist",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3989,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102525137353374852170\">Fresh Look Design Inc. Wedding &amp; Event Specialist</a>"
+        ],
+        "photo_reference": "AeeoHcJhWFL78i_f_dtQMg50gIm-gukNK4yfcXHNLkTvbwPdTkTzzaKl95bHIennm53HT0PDwO_R7yaIMzpgP-ELXNyDBr1pARp6JIE_uQdmPUd4DtG94v7W4plBr64g_x_-rNJel_UygNPk0_o2wTgvcAY8rNaR1S_JqquVQ7yaReLzwqok5awbkXnKEOP7y_4bbATECLkzzoLxqWBBu6DoKK8Cz7_oicKVR1kZ7fon88SVnQDQwoNqnTwdtvZ2yKe_JgR_gBv197U60jpxpAJ69HDgwNeThlzhrl-W73IxqsHx5JXd9aj_L4rWFmmx8xhJuWvLC-_i2RQ",
+        "width": 5995
+      }
+    ],
+    "place_id": "ChIJmbCta8yKK4gRhmp_fMLbqC0",
+    "plus_code": {
+      "compound_code": "FF3J+QP Kitchener, ON, Canada",
+      "global_code": "86MXFF3J+QP"
+    },
+    "rating": 4.8,
+    "reference": "ChIJmbCta8yKK4gRhmp_fMLbqC0",
+    "scope": "GOOGLE",
+    "types": [
+      "florist",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 76,
+    "vicinity": "724B Belmont Avenue West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45066,
+        "lng": -80.49030669999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4519847802915,
+          "lng": -80.48889796970849
+        },
+        "southwest": {
+          "lat": 43.4492868197085,
+          "lng": -80.4915959302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+    "name": "Legacy Greens Grocery & Flowers",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106314457991242176470\">Legacy Greens Grocery &amp; Flowers</a>"
+        ],
+        "photo_reference": "AeeoHcIFqCtZNGPQnv6lz7AvXuxaif9t180DuMqxxMX3wCmtPecKrcfVWXT0qtK6qikw-0B1R3DXdwvnsnPpN8emnlpDEdw4cvyibxSKybNqCnj2k0heFaDEbdRs9l6z-Eg93Gb0XZWXn_rzzUL4CBmnHdN_FQFjIWn6aPSHKHSFAhwgyn-j1mPKhkG_BYVZ29VDGPXSWZmnHAeh8IamQe2U4OngBqzpppN7s50C9e7HfTiguO0pIY6YA78YcWv7QisrJzQ5Ubu8X078-SXSe0ckaqGBPSaZTeG7wsneEr1fw7Bt-kwPZyaR2O-iPH-ThsUh80Yk6wsp8_g",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJ615mffL0K4gRKYH_kqcY_nk",
+    "plus_code": {
+      "compound_code": "FG25+7V Kitchener, ON, Canada",
+      "global_code": "86MXFG25+7V"
+    },
+    "price_level": 2,
+    "rating": 4.9,
+    "reference": "ChIJ615mffL0K4gRKYH_kqcY_nk",
+    "scope": "GOOGLE",
+    "types": [
+      "florist",
+      "grocery_or_supermarket",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 152,
+    "vicinity": "18 Ontario Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4396845,
+        "lng": -80.50898529999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4410466302915,
+          "lng": -80.5076051197085
+        },
+        "southwest": {
+          "lat": 43.4383486697085,
+          "lng": -80.51030308029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Sobeys Flower Shop",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100755627623062529311\">Katty M</a>"
+        ],
+        "photo_reference": "AeeoHcKRasRbjkfDGanfP17zcO0QDTF2dSZe52bP9U_eI37UJ2MZf1gydMAPaYJzrjrX8alKhdVu5qTMYby3nFi1FWuun-bbOD2QHY8idCYhMf5X7fag-YcGeGtsXRgwyIzpw2mRn19ppJxMkftNySXF2vYgyJLpngrG_mZoAFAg0hNNVUpbW-HkwC8m09aai2DVsp3pp78Q2yQ_aPD7mb1nrOsKSl297uDiIEIpO0E5lvL-mQrjsQNBQs33LVbpHvR4Yp6TynXUcugymNXjLzzloYjt9CMB1Hkaa9rfACW4vUAolzIiYsHjOuO-irVw-y8t65U5qUH-b1DaXq76IBAgBbczJdDLG2dIIW5qCMja8Coedek7qo5VOA7PLi0hDXI_OcmL4O-Q6KbxJskTE3G4UqZBdnDM10fBpFqCHdesTWmdQo4v6bXWWigtefto0fXX0txyyBQ3xTsdIxNU5IWu5t6RF5ah1YHOMKDDljONn771m_fg2M681ImW1udb1QrdWEstnrH-41KLQE9hCc3ZJgX3WWnagS6YQW_9DpDbomXadGjdUH--AEZ_cd-aPQ4Y04gH0myaUOsp-hlSUiy1GvOQBe8fqX76W_OzeSaOj33gvRx7Wlmd-0xnUXZdI_3_lvFoCiNH",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJYYc_JFL0K4gRZTI9PdnCVQM",
+    "plus_code": {
+      "compound_code": "CFQR+VC Kitchener, ON, Canada",
+      "global_code": "86MXCFQR+VC"
+    },
+    "rating": 4.1,
+    "reference": "ChIJYYc_JFL0K4gRZTI9PdnCVQM",
+    "scope": "GOOGLE",
+    "types": [
+      "florist",
+      "grocery_or_supermarket",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 14,
+    "vicinity": "274 Highland Road West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46885529999999,
+        "lng": -80.56769659999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4699868302915,
+          "lng": -80.5665677697085
+        },
+        "southwest": {
+          "lat": 43.4672888697085,
+          "lng": -80.5692657302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Sobeys Flower Shop",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ_5ND0Mf2K4gRGia5EkT9mnU",
+    "plus_code": {
+      "compound_code": "FC9J+GW Waterloo, ON, Canada",
+      "global_code": "86MXFC9J+GW"
+    },
+    "rating": 3.5,
+    "reference": "ChIJ_5ND0Mf2K4gRGia5EkT9mnU",
+    "scope": "GOOGLE",
+    "types": [
+      "florist",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "450 Columbia Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.429334,
+        "lng": -80.526218
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4306632802915,
+          "lng": -80.5248547697085
+        },
+        "southwest": {
+          "lat": 43.4279653197085,
+          "lng": -80.5275527302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+    "name": "Real Canadian Superstore Highland Road",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110645329527937072282\">Gheorghe Curelet-Balan</a>"
+        ],
+        "photo_reference": "AeeoHcJH8_KbRIXUBZfcDdBUkcFKMKgGNqNaG_297FEFEjC3DPRaze9yNtwNQHduk15jF28l9o6wMQqEPLm3g14X3Jb1MjCgPhMT_J3WO1uBYXQlgz_RFAHHF8ecte5Tw8oUmVRpDujHI5vg52gZ4dtVc-8X1DB8VhmonnzGLVt1s8N-DTbdc2EoHjN82rwYodBRPLyjvpxDmlFsMIT_Wj8tX9a8fewLrQ14zOV4quSJrdGgwHZNSuZaDcayZsgPbNlJihortN0BDz7Ce5ohrzFnXFF0RzgsvreYADbFMlHCgWf3TBi_tDVaD-yfsSreBbLZFjrlD0QWVAw02D5lE3sAuT1f8kGybdUNQK09czteCDpQMMtgB6HLyWaCIVt8QuC5q8o3yGEyPbhhxBN_Porg5uh3GqbypcJFG1uDguitm9GB6Lx78bJNOUfqDRpTyDYo81M3t3ELWU722LkAv0buk5jabGyV1HOOefSq4DH6OLIy9_4HquRl0ORtdlUwMxULkIgURrgLjBYlXvqbIV3fy1ZrHr8yb7YPilru7EMSII_UMDnTdLNZHaao6hQ_-RQ-OYrDdZPeuKMfYviVwX-K7KwQ7DEuY6ag1EMss23yelTZGMGHfdvFzefMA7RcKOPHJIqkiwUa",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJk1sgMsn1K4gRD0okI7msxN8",
+    "plus_code": {
+      "compound_code": "CFHF+PG Kitchener, ON, Canada",
+      "global_code": "86MXCFHF+PG"
+    },
+    "rating": 4.2,
+    "reference": "ChIJk1sgMsn1K4gRD0okI7msxN8",
+    "scope": "GOOGLE",
+    "types": [
+      "grocery_or_supermarket",
+      "florist",
+      "supermarket",
+      "bakery",
+      "health",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 5986,
+    "vicinity": "875 Highland Road West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4490697,
+        "lng": -80.44463879999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4504356802915,
+          "lng": -80.4432458197085
+        },
+        "southwest": {
+          "lat": 43.4477377197085,
+          "lng": -80.4459437802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Lee Saunders Flowers",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 16320,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114138184057500141438\">Jaydeepsinh Darbar</a>"
+        ],
+        "photo_reference": "AeeoHcJC1qqoZRImLfGM-yY6r4bmZKAeElld1Fz-ImW8t0IFAQR3w6_WPrp72Xgqj2IMtonXQn50SsBn6yao5CsVzosvZMxYyW7RfoKqfcrzjpxLO2fWpaed6GhLYfOU-eqbGXiQJ24jTjY3Z_nN0QmSZPNgJfFUzbbf_-W2Z4lM5ODasEWYPyggwKn2pYZB89AV5PMf1xL4EbCttB986Ri3ndJe8OxX4CGGxS05Jtde7seN38GHBsjCgOirOztuf3fRq91aXkT1c3ZpM-PWii07ln9-XhHw38rns0X_jjXPMaLy55PVPYrKkfF-0w02Oeml93EX1oPMoAVpbg7BkIMyoViE5STOUfoOAzDRyGvLj739sW8zdSVslLChL4qMCCic0Jc9bDoMAQrKvNNJjCkvMhgTp8sGrfGfN1cSSqdznMHU-39bZ3JC-KmMWmQb9OVKo6ITnQ_q_z3OQRWHI553wvUvILTsK9pkTJSyeFSldUAID2NeFvSavs2N8FjdRo3AwTPscZtyaAS_4d1xS0CPDk9VpLVU-M6dRVFEz8wjWiUK1S_xCF5S8huzOKjsFV28bj_VwbgQBYh7xgt9vn_U99sdb6wasy4nYIYibAS8gwDycyqi4An7NZjXDtklcJSzW7Y6-XSI6i_MNsAqcSFHwLeyd7g",
+        "width": 12240
+      }
+    ],
+    "place_id": "ChIJt03P06D1K4gROZizc3sBNbY",
+    "plus_code": {
+      "compound_code": "CHX4+J4 Kitchener, ON, Canada",
+      "global_code": "86MXCHX4+J4"
+    },
+    "rating": 3.8,
+    "reference": "ChIJt03P06D1K4gROZizc3sBNbY",
+    "scope": "GOOGLE",
+    "types": [
+      "florist",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 67,
+    "vicinity": "1005 Ottawa Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.432098,
+        "lng": -80.44113399999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.43354903029149,
+          "lng": -80.43986756970848
+        },
+        "southwest": {
+          "lat": 43.4308510697085,
+          "lng": -80.44256553029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+    "name": "Zehrs Hiway Centre",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115430621031518240136\">Steffen Lindner</a>"
+        ],
+        "photo_reference": "AeeoHcLxVZk38fNtfKBfIM05eaH9XnnNZaFm1c-1XTF5-vByQDCSXlUGLTjrzGRf2uu5Rd1Zw9vVhUDIGZM387Q0wSe9z8llLKgOHaZajoynjGuMF3OOsttWVeQNYa8wBi9Ks9GnlUkz8DspuEC5vh9gwaRT030YKlmHnmaDt1OxDXqQ1le-umyadRY0ZVuLo8h8WD5zdNuNvgs74-rQEE01byjXNh-4CFbheIebdKp3rK9Up3ak2kNgJdzj0LaiWv_Gf4DvbBAWCBRUa2NM6ClODy1IruQtFaYKFq-JWyYSmKhKkp-ok-jV4xnWfuu-g1XJ9DnvM4vAXS3JpIxEN_lAzoK8ol_PatPDiKV3TzT-x0nSiSmPB2vNnC8G2BjO0BhYigCWlOd0-19prxGShhUZv4MOZ-15KYpI-VQtUkfgFKcTa1cMOw0riB8Q78_Rf-Bg9QiZw4KAWLxpWMjQ5pg2fXJm4b1DJlRJeTpxBXd2uJZqeyCNbRph0moztuLz5mgZPfhLQBUrsUECfCczyDe82Hd_o7j6H-5Hr_eOOn9daC7aK3cHkhuTqEvZPKiJCC5RByY8NF9bng0d2A2Mb1u49uZdy7UBB82lVMBFnKrLcTC3R7i2DokoKmmPswK2SaB7HZ_7ONk5",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJk2UTcCaLK4gRkCvMqivnfKw",
+    "plus_code": {
+      "compound_code": "CHJ5+RG Kitchener, ON, Canada",
+      "global_code": "86MXCHJ5+RG"
+    },
+    "rating": 4.1,
+    "reference": "ChIJk2UTcCaLK4gRkCvMqivnfKw",
+    "scope": "GOOGLE",
+    "types": [
+      "grocery_or_supermarket",
+      "florist",
+      "supermarket",
+      "bakery",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 1978,
+    "vicinity": "1375 Weber Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5372541,
+        "lng": -80.55441359999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5385148802915,
+          "lng": -80.5529705697085
+        },
+        "southwest": {
+          "lat": 43.5358169197085,
+          "lng": -80.55566853029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Servers With A Smile",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 683,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108925034886884277646\">Servers With A Smile</a>"
+        ],
+        "photo_reference": "AeeoHcJJ9NYkckRihvqVFY0q21sTmyXMg3kQquxUhaNDfCicoVvck-tl3R2NSahUl2xo3mKF1lSBr21cQ47tSEGdivzJhaZi1zMv99v-dvoYfDgVf5aRYcmNsoC-diItzuTmOClCIMZIGr6YA4BAHMHDAcWt7uPYiCbGKHSpvvvRf3z6e5sVtoQLhSQlQ_KpXxog_4QX3Vz2SXA6OHTAU7OpGHt1VJTotNxYmr6E_b7-9hSzpLjaEFgIeNewQ6Kkggzc339WWDmNldL6QD0r_I8pH_q2VV--XNZECCvjD0m7RTflub0aUVS0OGLpHt-_y5C6yCdjYk7ubUw",
+        "width": 1024
+      }
+    ],
+    "place_id": "ChIJTUKIOAQCLIgRnP8YKXIRpBY",
+    "plus_code": {
+      "compound_code": "GCPW+W6 St. Jacobs, ON, Canada",
+      "global_code": "86MXGCPW+W6"
+    },
+    "rating": 4.5,
+    "reference": "ChIJTUKIOAQCLIgRnP8YKXIRpBY",
+    "scope": "GOOGLE",
+    "types": [
+      "florist",
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 58,
+    "vicinity": "4 Hachborn Street West Unit 2, St. Jacobs"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4237663,
+        "lng": -80.48429089999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4251886802915,
+          "lng": -80.48298356970848
+        },
+        "southwest": {
+          "lat": 43.42249071970851,
+          "lng": -80.48568153029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Forest of Flowers",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103772029971007238863\">RAVI HALDANIA</a>"
+        ],
+        "photo_reference": "AeeoHcJXM9WiL9hLJ96SeXjaRwRBPWg5xPWzL34arKjckSHBamKhrgA41sQXCDsPH7aOn_LSeK693KePhhQtPPcRx42m5ePAzlJxUhOJG-JLmePasy2DjjR8SW1OvPbvUJFrkThccvVetGClVvtdZOifqxwvJZTozuv602W7l01xLtE8k_vS9tkVKb8qO1jYx3gQEot3E4G6Xv3BVv45llso1r4oMC6C0qDHzHvSrVwre0u1R8Dh1HPfQZNKJ_S2KfIiORWndTk8fDgrJOLT3vnwp6L1x-uLoBbqm5sqMQ83moOq4PB4ZhCK6KYmQEUOgViSFaOxhJNx2_IhT_hN9OxHyER3bMqoTwa95egQ-PgbMhJTA70oiRHC_QnEmU1eQMHVfLhomGwg975437C3SRQgt2kjqrZP2QSqUghzMjEHo0R-PIfWy8t29rzC8_mFY_VIr6nJf9b_3992IThfstqarWA9OZaXafy47VqJ-pYlU8wiX9bqZMe5Iajipa5CbMd3YkIjFnqJ_G4L2Jmglw_hXdvAql5r5Qt8Ps6M4EHkQY3ci62fJrVb_cPow27fngMwA9Nz1yQg-6ar8r7yamsSnnT-Dsherkjf0vKaJYvFEe1NtEXzr2YFHEywqNuvx_5Bttp-3Q",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJKS4CMxr1K4gRtRLaF0e1egs",
+    "plus_code": {
+      "compound_code": "CGF8+G7 Kitchener, ON, Canada",
+      "global_code": "86MXCGF8+G7"
+    },
+    "rating": 4.5,
+    "reference": "ChIJKS4CMxr1K4gRtRLaF0e1egs",
+    "scope": "GOOGLE",
+    "types": [
+      "florist",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 231,
+    "vicinity": "725 Ottawa Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46867539999999,
+        "lng": -80.5150074
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46997153029148,
+          "lng": -80.5137507197085
+        },
+        "southwest": {
+          "lat": 43.46727356970848,
+          "lng": -80.5164486802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "KW Flowers",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115178367389112920425\">KW Flowers</a>"
+        ],
+        "photo_reference": "AeeoHcIITKZa6IxbPuG_HD4Ccl_e_xGbvuNkUQImDpRGDs-efyUyu1DMQm05uhtIRjq9LAfGLK9AKSKQ83t8gLmCppQyX5sX3hJhRRXkkCcTZi_c_gpowVTlK9w4Zfsql7TeOtHsh1m2Iuw4lOJM2vnVZIbx6UYMf8JSacSLbNDaTOlYpQtuuILRh3dCzdJS6HEfbSmNZdpyn3s1rrAyLWjDZypK3rGRRPAaneSOFzqStzzMUYU6xwU2NkujmMYFRkKzPPLmUoiYoHyJx2YXh-JNm5p7hR2lhxp0v7KFOg_HzzIkgreXIwOgI1fhNK_gMQZor2_4BrKeVDw",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJnzyVmbz0K4gRvHjrgG6-SWU",
+    "plus_code": {
+      "compound_code": "FF9M+FX Waterloo, ON, Canada",
+      "global_code": "86MXFF9M+FX"
+    },
+    "rating": 3.5,
+    "reference": "ChIJnzyVmbz0K4gRvHjrgG6-SWU",
+    "scope": "GOOGLE",
+    "types": [
+      "florist",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 602,
+    "vicinity": "36 Devitt Avenue North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47206,
+        "lng": -80.51521369999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47332283029149,
+          "lng": -80.51376731970849
+        },
+        "southwest": {
+          "lat": 43.47062486970849,
+          "lng": -80.5164652802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Raymond's Flower Shop",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115316916056430714267\">Tim Clarke</a>"
+        ],
+        "photo_reference": "AeeoHcJ3F9Gh56Bg4XR9DN1WxnOQqsHhEAkBU3GfSK0TQrw8P_l4ciAlMRVdvmL-OuArJrLlu7U5x5MCzGnkRxuHxk6wj20VSklt_TYSIBI5Elbr0Mo_YD4MXJflNcYqyIGzNxNKSHToBxo3x9suFyechCFKYVlGg7VMXZ1zl5lgqb9FLkRW17XtvpfwqZx-k2f0ofjGdNK5TpnuzSVwE0zEGFAZZLdm96Jevut6zvIfs0Xd4H6yLXmaEUybs_sHYm83Q_Hxib2HmAt2vsF1gTkmeXzmhjl9j8q_YnxWF9tC9APzdQ2virZZSbImQPHk58JBTY8yTeSR2gSwnjgeoMqUNFNGfWCnjRfl88lhUJp9t3an01LO2KEPwcQ8B6jvfUiw6cDsFbAbL13IvFWEIZ_x9W4Pm7zs26tsy8QYe4c6vHRj4HDNlW7k5fw4z1_F7zmb9UCSQmd-mCd3DfbCumeNYrQiwSSF4xv_7eZM_FbNc6HCZ3dVNAGTUVelHYpQJHfpX6xAQjV1twdgEVf_i1e2XWruow1wJGumc88zZ_Q-HFY745IFxsnLPbCb90rlEBJz9f55xXcZLhPR9eMTj05dzH2PNsAZ7_JoeEfhQCjJG5LCX_mVBT6iAXmTv9JbMDSS5UJjag",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ5fvOFHb0K4gRf4VR1pHMkVw",
+    "plus_code": {
+      "compound_code": "FFCM+RW Waterloo, ON, Canada",
+      "global_code": "86MXFFCM+RW"
+    },
+    "rating": 4.8,
+    "reference": "ChIJ5fvOFHb0K4gRf4VR1pHMkVw",
+    "scope": "GOOGLE",
+    "types": [
+      "florist",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 468,
+    "vicinity": "133 Weber Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.441251,
+        "lng": -80.470596
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4426773802915,
+          "lng": -80.4691882697085
+        },
+        "southwest": {
+          "lat": 43.4399794197085,
+          "lng": -80.4718862302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Simply Elegant Flowers & More",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103213560750550311471\">Nasya van Abbema</a>"
+        ],
+        "photo_reference": "AeeoHcI7IlLYqxvqF8rW47rVJKwSec7EybSmKsQ6_on70dWptWOyQAxtLjer4lNVKsPxtp17zl9TP4UVP9mUJckqI__gL_Q1ecW1M82j-9pvgepCxh0sOH57H0BxydTCgeD5ClWdDHkjrv1SRrY_sqh8bOE1TN9NftWNIsNXm-HssNNCUjWgMKBXgm8Zvs3_MNmDYIWF7nGBqTl_3O4Y1q77qBU-6me8hCDggPCtpngtn0Jt1IdSA0LTjzCCi7BEvr0eNinvosTccDt-_0E5To2pn8YsjSGsvQF34YJP3-Kqib-6s3R3VixMxwxMQyO03d0joB4Zf6wfvaDojk2D_e3NyB7s7Sf0GVMo02zFJClDa58awLltNAcl7NWdivGuS6Gi-qLHSeZmgUPfLrH6IKwnZt-G8j7rAhpKFKh8wx6b3GfCs9EFmhUCNCQ_1SF-6bh_eqqa5FzbIDUXSpSk_gHFELm4h81NXpQN4Y9bzjybf2iqew-GKirBNBwGpxYYolOORtxBQ5iBvvcSdSCauCtK5VBbN6LTAeKDYLK5tu7z8qZAujtrLHE-WYP0pfrM6tN8i8EdL0_70V1Ie69OHubhdJdwsg2XT5BYRB5sWRiySP1QtEPySQDoQ1CnRufeCN8AS0syLw",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJYbp2tsT0K4gRcIM-EjXA3uY",
+    "plus_code": {
+      "compound_code": "CGRH+GQ Kitchener, ON, Canada",
+      "global_code": "86MXCGRH+GQ"
+    },
+    "rating": 4.5,
+    "reference": "ChIJYbp2tsT0K4gRcIM-EjXA3uY",
+    "scope": "GOOGLE",
+    "types": [
+      "florist",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 30,
+    "vicinity": "1167 King Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.50161930000001,
+        "lng": -80.5344076
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.50288163029151,
+          "lng": -80.5331898197085
+        },
+        "southwest": {
+          "lat": 43.50018366970851,
+          "lng": -80.5358877802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Edible Arrangements",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113103333295156455651\">Ava Maria</a>"
+        ],
+        "photo_reference": "AeeoHcIPSPeY2I82DDgmhJA9lPLwp8UH1zcN5-lu-hzd1DUkOq7mesNN9wTXKteK7dgDdjhaN_sLRhC-dR3W3EyaazRfH0Xv7SJz6w2YHoCW515rku8Wlm-WOx3SFnD4MKHT0eAkl1NkVYqP8z-ngwvWektiqSOf8dngt5TUHz7Ykx4_7dgOMvOtVIXtcw_YwzixWxC7cBfUe6MMoxftqfGGP7ZIwmvX0fSMl0NUN6qiw9psFQf1tXRKLDI--BeQOZTZv_9V90nhZF_P27UiflQG_grBL0l0jOTL4AYvHPEsKT6nhJkDUIZWeaF0cFkQTRf42xFBVwI75noD-wFXZNGS7a9f8isE6qJRozFmcHxJXNwSA0ubWqX4txvMvfy-c6o420PzBbn01P5QsWbogfAN9vhmnYDAl5hcuAzC33Jx8KtJJ50gQP89ZPhuznipjW6fj9iQaOK34vGnYAVPD_u4GPKfIdEM4tGboeG7sxqIMg0AxlQrKrrz-iYFCiE5KJ_vBIP8zuyA9al_pNLv3y-qb_c_hM4rrGXdM6jmxvbkrzMQ-6uYlupsq6L_WvkazvQIHgjtXRf02SZB8MLTjvaEkm9t-hzskBZFW2ISqG88lntSwQJ90XCNfxbbfKA8enfp",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJCzOZw9rzK4gRFxgxMrIUX2o",
+    "plus_code": {
+      "compound_code": "GF28+J6 Waterloo, ON, Canada",
+      "global_code": "86MXGF28+J6"
+    },
+    "rating": 3.5,
+    "reference": "ChIJCzOZw9rzK4gRFxgxMrIUX2o",
+    "scope": "GOOGLE",
+    "types": [
+      "florist",
+      "grocery_or_supermarket",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 116,
+    "vicinity": "583 King Street North Unit B-4, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4671183,
+        "lng": -80.478457
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4684053302915,
+          "lng": -80.4770830197085
+        },
+        "southwest": {
+          "lat": 43.4657073697085,
+          "lng": -80.47978098029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Lilies White Floral Studio",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1936,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117064024590106273164\">Lilies White Floral Studio</a>"
+        ],
+        "photo_reference": "AeeoHcIp5dEvCGP_OE91SyV34_-cY3QRFMwKvimk2vvjbV28d2tJ-ODKFx2kCTBju3PVzORRJi9V_94Dxm18R84yS0zXAKH80kAFPlVllShx62BzNuey33OO38b619O02Xk69VHII1DkorrYDhUxYRnPFFFme2_Isx7zYhxIri0__a5kDVagFQfSIjAlzX2YINK4yxb3q5E9VnuSKrjsNZzlQ8o7Fdo7F0Nm7uurR22wRscjrgc0ZHW_iGIGlq50LCSu0CUrI_MitD-6k4zZ8HGiQrNjzRXLTggk2ucUvWqJv3TqrM0pzXIrwtROnbbJEALLxD3UjdKpbmY",
+        "width": 2592
+      }
+    ],
+    "place_id": "ChIJkTF51EH0K4gRAcHfBV38l4E",
+    "plus_code": {
+      "compound_code": "FG8C+RJ Kitchener, ON, Canada",
+      "global_code": "86MXFG8C+RJ"
+    },
+    "rating": 5,
+    "reference": "ChIJkTF51EH0K4gRAcHfBV38l4E",
+    "scope": "GOOGLE",
+    "types": [
+      "florist",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 99,
+    "vicinity": "entrance is at the back of the building, 900 Guelph Street #103, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46468419999999,
+        "lng": -80.5219077
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46601048029149,
+          "lng": -80.5207141697085
+        },
+        "southwest": {
+          "lat": 43.4633125197085,
+          "lng": -80.5234121302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Joy of Flowers",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114595817457583994169\">J C</a>"
+        ],
+        "photo_reference": "AeeoHcJZpepxrwkIDPn9b0FDsTdRMJf4akC3PVpodzZ69DGZmE2GEDLpK8B9BJxqVX4J6wqvg4ZspawQeoMmJ8_M5Jq4LXEBwj5lf4pGMb50qpwWxzJTXmNIwTU6dkiVh_UpZ6HN1iiAv5XkEM0qo5Db6aH6cOsmYx4P8OUzikNnaKaQfEqPdy6wbd5l3IfMSjp0KXT99-ecDBLnLuHKPYzx97Q6v1wY5_D8GZFd7qdgBqRRZM9qQv7C2C1a1cE13PShEdwp4d8a_2x8WjuerfIB7-qi0lN5pLH7vmQS6xGHlH22osk5Us2sNqeOqgLOE1va_q6exbMnG_m2y0b3fjXnFnNsu9TexzW6V05HR5IFT1-UE64ir1mdKKmDP1pe49n5XaC8YgL3Mz5_dyDxNZ8MigjyrgbHxNFbWhzHQ2W9sSJCA1rJM1FDby7stqj9MvFAfZsoa2SyYSN5LALZhCxK5cGf5dSCaZ_Qc4hD05YAz_bu_ju0XXTn80F03371CS-jWGoH7OIU-TrgYKjF9g4s_sTk3hi9aAlG40ANxbwwM9KPlPYYUTB3iVDspEoKSQYT3nGCWKZXKd4kI9eNGFEbLGwckFapOUNf_nAMpiQ94_Kor92ehkY-pAI0-CJ57mGaj0UNiQ",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJd7dffA30K4gRGSz5R0cKxBo",
+    "plus_code": {
+      "compound_code": "FF7H+V6 Waterloo, ON, Canada",
+      "global_code": "86MXFF7H+V6"
+    },
+    "rating": 4.9,
+    "reference": "ChIJd7dffA30K4gRGSz5R0cKxBo",
+    "scope": "GOOGLE",
+    "types": [
+      "florist",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 35,
+    "vicinity": "22 King Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.457209,
+        "lng": -80.5182099
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45862263029149,
+          "lng": -80.5167927197085
+        },
+        "southwest": {
+          "lat": 43.45592466970849,
+          "lng": -80.51949068029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Gold Leaf Botanicals",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102555600129693795447\">Gold Leaf Botanicals</a>"
+        ],
+        "photo_reference": "AeeoHcK2UIVoqlzYq9R1URRybffigtmYlRZ-Yo4NkD9NY9honk-UmHcrvo-AYqwIz6IDQd0KIixXtjZ4kgumXdFQyQPvMtuhROtRJJoLVkuqTNukI-DoHCzVPbPutPpA4kfSM9RRSyvglox6lXKzXJeI8dnWJyfpO8e_sGdLyqfTC_tglXQ8_bWBTIYAj_V9GLLlyhgj8kww7Y88mSpVi_Xk9JQp9PsYZpoBslfcq0_B5NPNXa6ywu8NC53pxeNHASbHMxsX3PCX5YEAjKfLywKXFSlZzRSVf7bZnUeQ9r7Y79v4cf2YvC3lwbWEOtiOFqyFISKcwTyH30M",
+        "width": 1500
+      }
+    ],
+    "place_id": "ChIJN8eFn2L1K4gRibm70isodoU",
+    "plus_code": {
+      "compound_code": "FF4J+VP Waterloo, ON, Canada",
+      "global_code": "86MXFF4J+VP"
+    },
+    "rating": 5,
+    "reference": "ChIJN8eFn2L1K4gRibm70isodoU",
+    "scope": "GOOGLE",
+    "types": [
+      "florist",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 621,
+    "vicinity": "189 Park Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4543942,
+        "lng": -80.51822659999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45550873029149,
+          "lng": -80.51698351970849
+        },
+        "southwest": {
+          "lat": 43.45281076970849,
+          "lng": -80.51968148029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Harp & Fin Co. & HF Events",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2525,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113664309233820834071\">Ron Dutton</a>"
+        ],
+        "photo_reference": "AeeoHcLsizMr4K3tiTfJLYaRNDyIZi-8tHfxFK5bFG7arDg_wtKedO5VWhOWPp0wk2NNLix98j4Aj7Ej-HcGBmDogs_5F0x17NSqdnR32nPdEzVacNOUrYXtN6_bGHDvMkS6XHRk9XJ9kodb8DQeFx_L_PRSMrAxhrDXiU6CQnjFiyb4BYtCwgSv_aePCNnBEFftFTjWKNFJWUNQqdypGVejYjsLQGyv6fpccyGEKtdVGZfl9YBOkpzLQfvslY1UWQzRBoJZWlEZioreCBAvyvPN2mjDNLq22U3-MV0XqWQ-IuA5-exkLhtDiP5SHjOVnY6xLp6_jiy0aEIi2mq6iey7T73JHOT7ONEiw4aiAkglH_VW0u2xnoo7ZBxhDLFLmtYB5FvmzMMyhHIIU6Wz7LLKbqe8BVPd9l5nzbr0cj644Rwm4GvmruJPrUH4a81i4MSGkhaDTibwNvUAlvFlkcCWMUeKD6CS4Tfo4QzoVYlJYoQ0jWyY6qin_OgeAXFluRyuPKR8SfsaODm_aVvhd-wsrfUqA4Z8XMVbanq9Wkvc4TxFDvX0hCTmIW8VfZu9u-zrjCKFS2Rj-NaxlMODVOJmU7-VyXMU00w_4PL22e9v1qNiusMDqdITj98HJoCFFto7eMevcA",
+        "width": 3304
+      }
+    ],
+    "place_id": "ChIJqar6fef0K4gRZjAQipoxelY",
+    "plus_code": {
+      "compound_code": "FF3J+QP Kitchener, ON, Canada",
+      "global_code": "86MXFF3J+QP"
+    },
+    "rating": 4.8,
+    "reference": "ChIJqar6fef0K4gRZjAQipoxelY",
+    "scope": "GOOGLE",
+    "types": [
+      "florist",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 51,
+    "vicinity": "724 Belmont Avenue West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4531741,
+        "lng": -80.51817
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4545900802915,
+          "lng": -80.51684526970848
+        },
+        "southwest": {
+          "lat": 43.4518921197085,
+          "lng": -80.5195432302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Hailly Lucas Floral Design",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1067,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117772819049327381948\">Hailly Lucas Floral Design</a>"
+        ],
+        "photo_reference": "AeeoHcJXPV0K-PCMeNiVkaPJsuK2q7088yIrBZsklELrOcDvVuv4DsZILos3nI_JTbMtFWrASuMzKhjR_F7Z7tOnlqX36msgKniiRO9hpiRf_2lC_2VnCy8AW67uBPv4SyJFHgbiUMw1V4OESoKPBOGAOcFT0S8kdKk0zAim4S74I1_rZmDbPlHvi853h0CbwozroelgeJGMCfWX04Zk5lgrGfhMxQiR22zpp_J91wEL2DFZ7VG1qsxHasU7clZ8qxphC5wqW32sMyUaJ8ahyYWNvKJycS4Vz11lOsaaBSmXxY5ndQHijCPJM5yQnuUjrYwOQi5jJbyF83U",
+        "width": 1600
+      }
+    ],
+    "place_id": "ChIJJ1WARVrxK4gRN4dPqzMv5gg",
+    "plus_code": {
+      "compound_code": "FF3J+7P Kitchener, ON, Canada",
+      "global_code": "86MXFF3J+7P"
+    },
+    "rating": 5,
+    "reference": "ChIJJ1WARVrxK4gRN4dPqzMv5gg",
+    "scope": "GOOGLE",
+    "types": [
+      "florist",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 38,
+    "vicinity": "683 Belmont Avenue West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4516395,
+        "lng": -80.4925337
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45331373029151,
+          "lng": -80.49090121970849
+        },
+        "southwest": {
+          "lat": 43.45061576970851,
+          "lng": -80.4935991802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Grant Wedding Wishes",
+    "place_id": "ChIJE1mIPAD1K4gRJd6DiBNycMA",
+    "plus_code": {
+      "compound_code": "FG24+MX Kitchener, ON, Canada",
+      "global_code": "86MXFG24+MX"
+    },
+    "reference": "ChIJE1mIPAD1K4gRJd6DiBNycMA",
+    "scope": "GOOGLE",
+    "types": [
+      "florist",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4762197,
+        "lng": -80.48492879999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4775657802915,
+          "lng": -80.4835024697085
+        },
+        "southwest": {
+          "lat": 43.4748678197085,
+          "lng": -80.4862004302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+    "name": "Lancaster Mini-Mart/Kitchener Ontario florist💐",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113999529369834172106\">Charlie Lee</a>"
+        ],
+        "photo_reference": "AeeoHcJAezJEak_QKkDsCvyk1May3OKiTvonUgmDqTYa5okBt2LFy0HNM2V-5-D1VL3iNU6SEQGgGHyWBpmoz9kaQOIGUnNeVaqQiOb_IshUtJ2byj6uihOMWg9gLKl32f5eJzGY3vwGSKvjDcwLomUuNCJDoM1rVmdtzTbNDrO1n8RnEYGFUHYtzCuXBZ1v-ya35Mp2jsrTyO4D9uixag2yK_vJyJQCrA0GIR4UDLA7m3SgP3kfpvC0LOyG87Kq2Vsu9IqPsItQxEfNvLCflEQL_ibGVW_wOjvb-vnhC3ig45Fgkq5dzxPCD8iXChP-VcofiSaDWCQicBwp3QJh9o71Q3te_-vbkrXMYgDUtI-JJxNyt1R7R3DX5jzr4Udoc2yvAiUYJLFA4EurhFxsG5bsPn_Bfb6RffIGuwEB0eXt47bK6j3dzGqhwJXdAarmNMpHzOk8XcBLovJKqjrDP02AU3I5mCoCG3Vy2NGAfMvGtGBiAufFM09BzoJPYX-yCapq-ATxcXWLjWjDKndYbzhMrWC6cgSayzGzQk1iC_2BTtP4dM3qms_VxByJI0Xkcr97Iur1roXGjXMMKXc9WUxUFVi5E_Tia5OX-I7NDUcqgCGyHH67gjsfeYGYyEaM9l8-i9AbLryd",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJdyMdGpTzK4gRxM_c-RcB_Zs",
+    "plus_code": {
+      "compound_code": "FGG8+F2 Kitchener, ON, Canada",
+      "global_code": "86MXFGG8+F2"
+    },
+    "rating": 4.5,
+    "reference": "ChIJdyMdGpTzK4gRxM_c-RcB_Zs",
+    "scope": "GOOGLE",
+    "types": [
+      "convenience_store",
+      "florist",
+      "liquor_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 13,
+    "vicinity": "499 Lancaster Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4762197,
+        "lng": -80.48492879999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4775977302915,
+          "lng": -80.48351621970849
+        },
+        "southwest": {
+          "lat": 43.4748997697085,
+          "lng": -80.4862141802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Kitchener Ontario Florist",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114192493999339225886\">Josh Lessard</a>"
+        ],
+        "photo_reference": "AeeoHcK6Vg5EeccbEcHl3tJzV5g6Hs9-cgtSSlStLQD5_Wj9Gz5gN_mWkpUZoUy5Zu8cFpTftUHJ_Us4BUDbJI5ufQjpOvYw12QIB_NjrUAXUzmaGKhN_FvNB_krnzvGySYabg3WQhS3yCIBRN3VvGlv7SxvVSs3RrxzzTrLOT5_rhfhSQKNPBS5emYHHTCfhc5Ed95juhMLHDhCOEQa_v-NzRxqOZGLcmlnfSr-vCJEkiGbhyTFoEz640Ee50MQ0St-uV6kGqZdmiYRh87mN8EG5GuH_yb5DKrPYModB3qwUw5nPSxklOvJr1GAuYR_Zl3c865Pa4hGKGcdoKDOykdMx9vB74Lr4sh8Syi3LTDHpYx5crF4EnLt42axpxFIeIhS_TGkUBsz2audPPTA-M5WxPk0d55kVaIFGYDM1M2j7MN7D0gXah9OYvAvG8F1Wuvt0NNrYDYWyAAE3Di4LamuN-J6jWK0c9liABsw2NFLKQVYjCsWZrE8LOsiCs-ha6KuHWxwvRW0vLoC-lx5oYMPWdZsYd16mG0FeTVA3R44Dw-iNNb9y-SUc61ZF9OKChy1XOEr1CgBSLRySuHxaBmLCvT0AFwqf37j39rL9LkqxwuKefdSlQtfuJLxyj_7oBVn",
+        "width": 3036
+      }
+    ],
+    "place_id": "ChIJjc4qbGTzK4gRv1jFMqUgfWw",
+    "plus_code": {
+      "compound_code": "FGG8+F2 Kitchener, ON, Canada",
+      "global_code": "86MXFGG8+F2"
+    },
+    "rating": 4.3,
+    "reference": "ChIJjc4qbGTzK4gRv1jFMqUgfWw",
+    "scope": "GOOGLE",
+    "types": [
+      "florist",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 131,
+    "vicinity": "499 Lancaster Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4508344,
+        "lng": -80.4820057
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4521449302915,
+          "lng": -80.48072826970851
+        },
+        "southwest": {
+          "lat": 43.4494469697085,
+          "lng": -80.48342623029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "long branch",
+    "place_id": "ChIJ7WeJZwD1K4gRZ0Oq-dzu68s",
+    "plus_code": {
+      "compound_code": "FG29+85 Kitchener, ON, Canada",
+      "global_code": "86MXFG29+85"
+    },
+    "reference": "ChIJ7WeJZwD1K4gRZ0Oq-dzu68s",
+    "scope": "GOOGLE",
+    "types": [
+      "florist",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "58 Irvin Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4395012,
+        "lng": -80.49369639999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4407552802915,
+          "lng": -80.49243971970849
+        },
+        "southwest": {
+          "lat": 43.4380573197085,
+          "lng": -80.4951376802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "The Giftery",
+    "place_id": "ChIJ_YMIrQD1K4gRDi-39tCkAE8",
+    "plus_code": {
+      "compound_code": "CGQ4+RG Kitchener, ON, Canada",
+      "global_code": "86MXCGQ4+RG"
+    },
+    "reference": "ChIJ_YMIrQD1K4gRDi-39tCkAE8",
+    "scope": "GOOGLE",
+    "types": [
+      "florist",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "130 Highland Road East Unit 2, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4569825,
+        "lng": -80.4732871
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45826888029151,
+          "lng": -80.47158951970849
+        },
+        "southwest": {
+          "lat": 43.45557091970851,
+          "lng": -80.47428748029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Julia Flowers",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104095049147676103174\">Doug Gingerich</a>"
+        ],
+        "photo_reference": "AeeoHcJCEAj7xVHKu4A5MjC4GvopU56mnFcOeEVHVa5133FfTbx6K2s1U710dmKAWip-XJWzi-KP6SrK6zIkLB3ZgAJd58i4SJvDJsrB06ScW-zh79MJ6gF8oFe4vwV3D3AaIn2MfaAZ7AZ96XXynHgmEwlCtki9G_3yFAsUpbpX0jcajvFtiv14-tMz9oz9hVSP3qMPKgzWlNsztr90ModIkwldOcLbC5AyggJmPJ_dvDbZdve-orokOyW3PY6qeH4wDpGeI8rIS45DHhtw6TCXRoUfpjb0h-knzOpi1_yxpqEHeh6kO6EcJ7EFhlx_zGoeSZq-65wQqOD3eXr3WDl97k0cp1Ew0jr6VVCC3nXRqHqeRyYkYswu6oBKrg0xSF8d149B1jriGaAzQBZy5mUFVfBn19OHhA8r1_K1nbz1BwkbWjPb72l9_WJFCXSKMt1d-Ev2exa5C05CZICSbufwwG3-qRIkE5kFGY13Y1DdvVKrHM3d68LBs5FNdOj7SXtFFzREyrcEFGtjwSObob2J6wRcZCU1Z30ynFpJL2hOWIMQJHPlurcJoAzlFaZEo98UjHiVjMaYJj18aUSQlNw1sM7VlZyytJAYVxxcFh8P6EJNHnoJcd-8FaUr6fUOrAUXzLMiGA",
+        "width": 1363
+      }
+    ],
+    "place_id": "ChIJ3xaHRLz0K4gRVIkqtM4lx7o",
+    "plus_code": {
+      "compound_code": "FG4G+QM Kitchener, ON, Canada",
+      "global_code": "86MXFG4G+QM"
+    },
+    "rating": 4.6,
+    "reference": "ChIJ3xaHRLz0K4gRVIkqtM4lx7o",
+    "scope": "GOOGLE",
+    "types": [
+      "florist",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 357,
+    "vicinity": "385 Frederick Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4624156,
+        "lng": -80.46872650000002
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4636553302915,
+          "lng": -80.4674369197085
+        },
+        "southwest": {
+          "lat": 43.4609573697085,
+          "lng": -80.47013488029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Starlet Flowers",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJxaS9qqX0K4gRB4navuJ79Zk",
+    "plus_code": {
+      "compound_code": "FG6J+XG Kitchener, ON, Canada",
+      "global_code": "86MXFG6J+XG"
+    },
+    "reference": "ChIJxaS9qqX0K4gRB4navuJ79Zk",
+    "scope": "GOOGLE",
+    "types": [
+      "florist",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "809 Victoria Street North #1, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4186456,
+        "lng": -80.4833894
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.41993678029151,
+          "lng": -80.48202661970849
+        },
+        "southwest": {
+          "lat": 43.41723881970851,
+          "lng": -80.4847245802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Remus house",
+    "place_id": "ChIJebvoDQD1K4gRzOUJUM_0vQQ",
+    "plus_code": {
+      "compound_code": "CG98+FJ Kitchener, ON, Canada",
+      "global_code": "86MXCG98+FJ"
+    },
+    "reference": "ChIJebvoDQD1K4gRzOUJUM_0vQQ",
+    "scope": "GOOGLE",
+    "types": [
+      "florist",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Strasburg Road, Selkirk"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.433042,
+        "lng": -80.4524364
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4343536302915,
+          "lng": -80.45096911970849
+        },
+        "southwest": {
+          "lat": 43.4316556697085,
+          "lng": -80.45366708029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Happily Eco After | Bridal Bouquets + Arch Rental",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1249,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117671957359238455990\">Irene Pan</a>"
+        ],
+        "photo_reference": "AeeoHcJCH6OlhHM5KxEMowief94bvZixc0UHH_xv0mlRbVFvWQBjqdZO591k7s2TR91SVhi5CcqDDvGNPRvMtbjdoAv2PwS8R0pGrUKbo3rNbpodO8CSejP5MBOUbZCrK9rpQwQXlXSQ63_uiP6PRvfJ2ggexIWrT8c4nRiCMntlw_OItmuqRwBPsCpDAD25EYYWeuNoJBaRlrYUrzVh0ZC-snBOKo7_0BDuWeAd3nmHJWTbhHFo8DQqtKDIqG6NM7ZdEN3lwKD68CYeBYs5OC3v_2-hErGU-UzBME4B7PPGQB8Sl9v2sDppKJaybhgcyQiD6FDYgFxK7bezOR9KiU4Dxb5UANnEktXjVVg6Zewc9Nu4gEUBk9KhT_LXqvcYI7nDEft0laBx1J1lRN0UvqQPvME6SkohYo9L4sUy0Qw9Ln4j3vqBBGBpR_of_heTTkvL-ptlXM4QXRzuuaQEIpLDzA2RCsukMeoR8G-zApJXmfHKN7rrfsSrE646rmQ-y2qH8Jm5K7Shf_pOATqpDeT-7emjGYTkuBkm-6hHJD6DsJEwB6j1lV-8aNaKebMUb56Jl8FPvNJxm9F82iYbhyZGRb8yM0TrZYIMNX6xp7CpSvmozTr8ANkCOwee_MH6DcF2hd5m-w",
+        "width": 1874
+      }
+    ],
+    "place_id": "ChIJDc61_Deusm4RTiBZndAkt8A",
+    "plus_code": {
+      "compound_code": "CGMX+62 Kitchener, ON, Canada",
+      "global_code": "86MXCGMX+62"
+    },
+    "rating": 5,
+    "reference": "ChIJDc61_Deusm4RTiBZndAkt8A",
+    "scope": "GOOGLE",
+    "types": [
+      "florist",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 27,
+    "vicinity": "54 Fifth Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4728213,
+        "lng": -80.4370955
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4743427802915,
+          "lng": -80.4356534697085
+        },
+        "southwest": {
+          "lat": 43.47164481970851,
+          "lng": -80.4383514302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Nedal's Flowers",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117919751073516510098\">Renato</a>"
+        ],
+        "photo_reference": "AeeoHcLc-7kaXLkUhegzwFzPPLGXEZ5DSW2zK6UuNq5DjHszXb1uSvzHTa-P_ZTiCkmCbI02zzlu4N2iHdeDPG7tjEyosKV1-n-ybJpZfgE3HxJTXwHFTaeldsoI89PcighXbe1BpUuGIAKvOeiDwExmoc4TFRSiJssTMJHqo-jE6vREmzX9nk1YJ-kLK91Do_7wUdReE7Y3A7sKACCCzmLABG6LZB2-EuYMjtAiyOKe0v6erhscdXlk5MMkLtbIPaKhXBx-b-6WhNNHBqDPdWnT4dPt5le1Ryw9ekj8NqQEvDhOBomHkUZFFwrlrdW0t5sdG0MCmMjmYUnl5-yj-tk4PPGQIPHFEp3Vvl0IDNhnoP5XefXxjk0Lm_fDnA64RJ204a5yNnBgRQbVC11FS-X5lko3oHYgP5Me-bt_oMo3SXKbx9bQG5Sp71hc98RAIK8OBbu7kjKQSUXeVoYT3xANIkPRafWIU-K-fWleTzzSXCKwif3f5Ci08uSkZ4SV2pzVGfW9rfeEUD1B7p2LjUhy5mvAiojL59uV1pGMQZUtZLtyKDNhO26TZVLCZEGezNNWALPffNpwV-khcTOIfqV_dFHyXI4cNgjf_WcjfrgDK2pp9BMJbfDHxJBaKeYAhY7TYIxddg",
+        "width": 2268
+      }
+    ],
+    "place_id": "ChIJddSubO-NK4gRlGcYXH4uIxc",
+    "plus_code": {
+      "compound_code": "FHF7+45 Kitchener, ON, Canada",
+      "global_code": "86MXFHF7+45"
+    },
+    "rating": 4.8,
+    "reference": "ChIJddSubO-NK4gRlGcYXH4uIxc",
+    "scope": "GOOGLE",
+    "types": [
+      "florist",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 12,
+    "vicinity": "1561 Victoria Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4283873,
+        "lng": -80.42178059999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.42964723029149,
+          "lng": -80.4203495197085
+        },
+        "southwest": {
+          "lat": 43.4269492697085,
+          "lng": -80.4230474802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "HiWay Flowers",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102398271613573577260\">Barthee Yoga</a>"
+        ],
+        "photo_reference": "AeeoHcL-Dt76UJ52s7mex1CO97Tx2JPo8YOMAccqR-18fsUQEZTUY-meWvqiODeRMXG1eGmi-Xy76w9Aosmh8bWt43IKG2ku_E5lLmJoH-FXaC5kHSpvMSiSmBBY8acrTvg8Z0i8vbmxRmCsWNt7jsV5tvxeWykhreECy6fzkhpjl1VcEbVMWj_n-gmLnubO5-4JFza1iLevuocO3dy6zyMjjuHgR6iEnlOlzCbb9MJhmIdDZuhrN8fN0OPqFLilVeAQ7flTBbv2KegAaAn13qica5PPPIKIUz_6GPyQOkKO7MKDFEIKz-vHOsqlvBE_AUtxPujLkc4sm9Rsn18iipjvGpd6HP8sykLNTRd4W8dsRXFZ5jaGqzvedVyTdNZjp6MG6wD61aavJpX94KaAqW3Cgsp8QPkIDyJ9YttNUmQEGonRW_n5FpTWElfPcM0io1WPQP6doJxJZNTFGyARrKTcgCO26XL2BGMiFcTrUqztqQXU9ESmHYU9f8xj9Ldsw3Y3siX6S91U_JBA172Pa1p2-1313ftdXkXJEIcL-hpTp_YTFXfTg7SL5ih7hRv537XhIQNUtKv9RQh7m0PbdX49MehMq2cNt7pyPD7q5k5xD5RylDFxTLPtZKoBveWjrzZA_itjag",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJvTPjKSGLK4gRiaCJTH38CvU",
+    "plus_code": {
+      "compound_code": "CHHH+97 Kitchener, ON, Canada",
+      "global_code": "86MXCHHH+97"
+    },
+    "rating": 4.6,
+    "reference": "ChIJvTPjKSGLK4gRiaCJTH38CvU",
+    "scope": "GOOGLE",
+    "types": [
+      "florist",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 85,
+    "vicinity": "1601 River Road East Unit 18, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4596333,
+        "lng": -80.43118989999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4610422302915,
+          "lng": -80.4299857697085
+        },
+        "southwest": {
+          "lat": 43.4583442697085,
+          "lng": -80.4326837302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Flower Your Soul Design Studio",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 790,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112737389459031023897\">Flower Your Soul Design Studio</a>"
+        ],
+        "photo_reference": "AeeoHcKguzZ3fyVfNvoO4bTAUaCSFJo-HAst5s5n8pjzcod5VxIu5nK2XCR4zwgk0dcIE1TVZ9m5mqOMjauLVQ38ppuBbY6auk4VfXH-NE7Seo6E7S417lvrvibzJybftLwOpZhHfOt1oM9Fu0ZIC3vBPjRSyITJsuHwekVQQAv27joDgE4pSElGp_5TH368zOu8L6xst2C5y2d71eEpypy7Gtd1zi0jA0hpKhIQV9_3v6w0IhfT4oJwfKTdqGaV6srNRQpud2WlOKDRgpwxl2I4xh0VmgyebCuZlyzO27h1Mo5WhVL_m0C9pRNFE5gk1ZH3M9VQC5OmNow",
+        "width": 768
+      }
+    ],
+    "place_id": "ChIJLQZhvpblVWERWcgfPME9XI0",
+    "plus_code": {
+      "compound_code": "FH59+VG Kitchener, ON, Canada",
+      "global_code": "86MXFH59+VG"
+    },
+    "rating": 5,
+    "reference": "ChIJLQZhvpblVWERWcgfPME9XI0",
+    "scope": "GOOGLE",
+    "types": [
+      "florist",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 19,
+    "vicinity": "67 Brembel Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.53827159999999,
+        "lng": -80.5534371
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5396348302915,
+          "lng": -80.55224466970849
+        },
+        "southwest": {
+          "lat": 43.53693686970851,
+          "lng": -80.5549426302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Living Fresh Home Goods + Flower Shop",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2642,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108601428103030949239\">Living Fresh Home Goods + Flower Shop</a>"
+        ],
+        "photo_reference": "AeeoHcJEWZKwz-r_JH35p3p9TWDIFL2-5iRMmYI1LWcXJBUpi0FEvtrMaL78GAqFa9nVY8-e2gslwTeT5t46oMBb7Pp6ah29fnY5pBXBu6ZlX4zI--37FH9hC7EAvWlQML02mvJWAdi7E6rz6D-VoxW3CNttlQs8Mt8N0wqjxLVyltLML9mBqxUu5YlrC4hXdK8AL_9_w05tjWsn3ioYZSyuuOjfcH25xGxWXkb9UtsZFxhxYyz7_8jGkGdPaKRM7TxhapUw0YqAYQMtfcpjOjPrWoZfHATPtpYidejjPkgBRvuXBLUuBvZhRSrusRHS0I3LZlzg-sPw",
+        "width": 2642
+      }
+    ],
+    "place_id": "ChIJGYQ4Z_L0K4gRd3NDaXO25AA",
+    "plus_code": {
+      "compound_code": "GCQW+8J St. Jacobs, ON, Canada",
+      "global_code": "86MXGCQW+8J"
+    },
+    "rating": 4.5,
+    "reference": "ChIJGYQ4Z_L0K4gRd3NDaXO25AA",
+    "scope": "GOOGLE",
+    "types": [
+      "florist",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 108,
+    "vicinity": "1382 King Street North, St. Jacobs"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.537438,
+        "lng": -80.5524774
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5387964802915,
+          "lng": -80.55123201970848
+        },
+        "southwest": {
+          "lat": 43.5360985197085,
+          "lng": -80.5539299802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Divine Flowers St. Jacobs",
+    "photos": [
+      {
+        "height": 5336,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104897735422856155938\">Divine Flowers St. Jacobs</a>"
+        ],
+        "photo_reference": "AeeoHcKkasBAOGpPC3nWdIfBeY7cWdaRBACIUhL1f8cU2joV7-NEbX0RR89Wxehp6inIBXuSVKQTHEFyvM61MRltXz6hDS2I5_CqeXY09XktCJLO-v-oJWdKOewVWjAruxzv4pehzOOezrTrrdk0-9I8xOToC0nLlVudlxhMvFP7ePLgzCcyMbcglsYhUvSHM0_zAs5gY5svGjjiHqNVifihI7Eg4nUSVUqvmC3FS2JLXRXA09myscytiiOWYMpUiOq2JuTqnaPkVkyYD894sDg43Z-Yda5UWpfCH2g8Di90C4BqTNAmLqF1HV2MEo3RM3tnt4HeRqE_F0A",
+        "width": 8000
+      }
+    ],
+    "place_id": "ChIJdXUyss_xK4gRxmsUYNjtAdE",
+    "plus_code": {
+      "compound_code": "GCPX+X2 St. Jacobs, ON, Canada",
+      "global_code": "86MXGCPX+X2"
+    },
+    "rating": 5,
+    "reference": "ChIJdXUyss_xK4gRxmsUYNjtAdE",
+    "scope": "GOOGLE",
+    "types": [
+      "florist",
+      "general_contractor",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "39 Young Street, St. Jacobs"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5372541,
+        "lng": -80.55441359999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5385148802915,
+          "lng": -80.5529705697085
+        },
+        "southwest": {
+          "lat": 43.5358169197085,
+          "lng": -80.55566853029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Blooms by Bre",
+    "photos": [
+      {
+        "height": 763,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112815934508861972002\">Blooms by Bre</a>"
+        ],
+        "photo_reference": "AeeoHcK63N7lZMSQTO7-h54cQyJ8PUNUBccVj-nB3zUlsW2HiF0secGvWIv4vL6Us1Qu2qusRogFkTLT9h6zpr-fwmtfbljAJiQ15LCxJ9ZHFXR2xsEsGtb6-w_zGlDuncWnFMqHGOc8NUREMB5nd46PeMvLI1_4iGmomhJlTl95TONQU-I2gDazv7MWtuvXnDOoRBIRyCnYZhg2Cmk0Z4nlu_9mRVSJGhcXgqSSKPbfpaOLucyvYamQY6tKtLZ4ExmADmwir14CIWh-z3qVqPcjEAyar-YtRi3cnqY554RT8SSYPsA_ozazbFdEOYfpaAoUqLtia2NKg7E",
+        "width": 896
+      }
+    ],
+    "place_id": "ChIJ5cuUJdrxK4gRzF4MV8zlEXQ",
+    "plus_code": {
+      "compound_code": "GCPW+W6 St. Jacobs, ON, Canada",
+      "global_code": "86MXGCPW+W6"
+    },
+    "rating": 5,
+    "reference": "ChIJ5cuUJdrxK4gRzF4MV8zlEXQ",
+    "scope": "GOOGLE",
+    "types": [
+      "florist",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "4 Hachborn Street West Unit 2, St. Jacobs"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.387,
+        "lng": -80.48944999999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.3884377302915,
+          "lng": -80.48824616970849
+        },
+        "southwest": {
+          "lat": 43.3857397697085,
+          "lng": -80.4909441302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Raw Flowers Kitchener",
+    "photos": [
+      {
+        "height": 1498,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115275841318431272472\">Raw Flowers Kitchener</a>"
+        ],
+        "photo_reference": "AeeoHcJIvAcDFgwCoCXZc4n_0CFRQJVHTyxjWapYvhS0-U81VHSgGH_4euPwvO5rPjFbExo5uhcK-biaH9QvLj5nNCaVZDlneFNxjJXb4vL0wlbfWjemtW2269qd5IpJfwL8JHonCSh-3REUvozE9loN9retaWyFcQHdEgLI0rURlP647BTImTV1wUag9LSSD4Dt1bDuiQWEmTdlI89Wxb47Q-5sVaoJsVx3BUd81TIWdkAYLSuaIkgTUjy3CXM5Zxa_Ybyk8pPNX3fGT_OjKghx-4UC3ss9W4VSzjJZppV67aR-O_OSX_B5M4UpfmhBLovlHzdNw-qkKR8",
+        "width": 1290
+      }
+    ],
+    "place_id": "ChIJI0lAORkLLIgRZJ_88LBQZLA",
+    "plus_code": {
+      "compound_code": "9GP6+R6 Kitchener, ON, Canada",
+      "global_code": "86MX9GP6+R6"
+    },
+    "reference": "ChIJI0lAORkLLIgRZJ_88LBQZLA",
+    "scope": "GOOGLE",
+    "types": [
+      "florist",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "125 Seabrook Drive G, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.3856316,
+        "lng": -80.4707394
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.3869380302915,
+          "lng": -80.46923966970849
+        },
+        "southwest": {
+          "lat": 43.3842400697085,
+          "lng": -80.47193763029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Bee Witched Gardening Co.",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 951,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112758585421954192141\">Bee Witched Gardening Co.</a>"
+        ],
+        "photo_reference": "AeeoHcJFiknocoEy1TzgH4oJmmlLH1KY8axpvxYnh9gB9Kfd-AZwWR_tD0q99DjnY2Ml11SReqz_3HU6IhbG07Cd8wYR13qeEBkV42fkrlg4DBYyLWH6BqPBszqxZLOGodPzZ9lt8HyGMuv0_JTGrum6WRaao32cXWv_ec8dykaskdIfrK9oiuBVZxdIdJALKV5IIFfoeWO9OrZ7OPfDkg6ZQggiYu9tRqsV1t65ImEsfHHKGKSInLNh9cXNQ60MoPfdKZvVkQWSX6470zOPPrl0vrcQXrQYGtpgdikm3zG3M9AQsiLR6bzNpSqVTdS1B_aLap7OwWS5q2w",
+        "width": 951
+      }
+    ],
+    "place_id": "ChIJ48LFfDYLLIgRzEXxqeLEj1A",
+    "plus_code": {
+      "compound_code": "9GPH+7P Kitchener, ON, Canada",
+      "global_code": "86MX9GPH+7P"
+    },
+    "rating": 5,
+    "reference": "ChIJ48LFfDYLLIgRzEXxqeLEj1A",
+    "scope": "GOOGLE",
+    "types": [
+      "florist",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "138 Newcastle Drive, Kitchener"
+  }
+]

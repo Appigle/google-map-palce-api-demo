@@ -1,0 +1,2838 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4632454,
+        "lng": -80.52010949999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4645617802915,
+          "lng": -80.51899336970848
+        },
+        "southwest": {
+          "lat": 43.4618638197085,
+          "lng": -80.52169133029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "All Pro Roofing & SheetMetal Ltd.",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJDyA5P230K4gRMmUDyImcbHU",
+    "plus_code": {
+      "compound_code": "FF7H+7X Waterloo, ON, Canada",
+      "global_code": "86MXFF7H+7X"
+    },
+    "rating": 3,
+    "reference": "ChIJDyA5P230K4gRMmUDyImcbHU",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "100 Regina Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4713558,
+        "lng": -80.47786119999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4725324802915,
+          "lng": -80.47652361970849
+        },
+        "southwest": {
+          "lat": 43.4698345197085,
+          "lng": -80.4792215802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Aquahalt Inc",
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105979094978802377416\">ECHOBIOSYS</a>"
+        ],
+        "photo_reference": "AeeoHcKugo1b86zjcyJIZOG52IfwaJudfe8lTa0ApPGLvYITuE5dt_yyGqfJKsbBrYc8gw5VZw1HF2s8L_O_g1ugq-zjlsoxmFFoSgQg32O5CkCxk3dOlx8lN5zg6N83cjxnsEQSzb97LjFSkGRJJTLiZzcMZfMPobQ1uigHkGIB5GZuthILMemcpOQQfY9J0v8HzpQi0ct6SRYmx_78IlnSuf97lixqRWBEzCtw1Ynjb0S0W1-IsLn0i9RwdoPpS3JWpN2BaUJ1el8P2puuFpJ08AO7SPDNEcehDJoI1rHWAV8fyBXee2ad-f3b4t_87UA743Zn11DIAyCfk21AgqfoJfEwYyQ0X1lIqo_Ui3v0ysxPIi4lV1iUBSUkH31fGkbmRKCDwBLMNdF3m-zMR1SB7SwHtcSY_nIG_6gLK5nUqEbWCrDnJx-zJsECUnbBAHCyjRBVxGsNwjgBZuaZEmKiVWBlgRDYfDytoFOmblBHDR8TnDzg82fJLWrKArI93u89e5uQgL9qNp39VAKnOdi_rmgGia4A_B2sWEPLzq4q3WbQrL7jtFu4_Ng_apm_9FGTuHakwdf3kPcF5wNw-fjaoK2xsHliTGs3uAeVPxFpoW-I2aBBYcgM12qJ6rRTQNaBlFQEhbO1",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJk8pVLIzzK4gR3rJuBSRsgJY",
+    "plus_code": {
+      "compound_code": "FGCC+GV Kitchener, ON, Canada",
+      "global_code": "86MXFGCC+GV"
+    },
+    "rating": 5,
+    "reference": "ChIJk8pVLIzzK4gR3rJuBSRsgJY",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 11,
+    "vicinity": "26 Sereda Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4682976,
+        "lng": -80.4696316
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4697505302915,
+          "lng": -80.4681080197085
+        },
+        "southwest": {
+          "lat": 43.4670525697085,
+          "lng": -80.4708059802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dean Thackeray Roofing Company Ltd",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ2a-kDKf0K4gRJ7L7dwCgaLQ",
+    "plus_code": {
+      "compound_code": "FG9J+84 Kitchener, ON, Canada",
+      "global_code": "86MXFG9J+84"
+    },
+    "rating": 2.3,
+    "reference": "ChIJ2a-kDKf0K4gRJ7L7dwCgaLQ",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "general_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "199 Riverbend Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45701649999999,
+        "lng": -80.4769578
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4584262302915,
+          "lng": -80.47549376970849
+        },
+        "southwest": {
+          "lat": 43.4557282697085,
+          "lng": -80.4781917302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Alternative Roofing Assistance",
+    "place_id": "ChIJVTJD8730K4gR1XGB4Q5T-nk",
+    "plus_code": {
+      "compound_code": "FG4F+R6 Kitchener, ON, Canada",
+      "global_code": "86MXFG4F+R6"
+    },
+    "reference": "ChIJVTJD8730K4gR1XGB4Q5T-nk",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "107 Filbert Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4499365,
+        "lng": -80.4904389
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45143798029149,
+          "lng": -80.4889732197085
+        },
+        "southwest": {
+          "lat": 43.4487400197085,
+          "lng": -80.4916711802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Infiniti Roofing",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJIbrMoEJ1LIgRttnUK8V3tWA",
+    "plus_code": {
+      "compound_code": "CGX5+XR Kitchener, ON, Canada",
+      "global_code": "86MXCGX5+XR"
+    },
+    "rating": 2.6,
+    "reference": "ChIJIbrMoEJ1LIgRttnUK8V3tWA",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 33,
+    "vicinity": "55 King Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4500579,
+        "lng": -80.4878763
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4513937802915,
+          "lng": -80.48669381970849
+        },
+        "southwest": {
+          "lat": 43.4486958197085,
+          "lng": -80.4893917802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "D'Angelo and Sons | Eavestrough Repair & Roofing",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 563,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112643513980500920627\">D&#39;Angelo and Sons | Eavestrough Repair &amp; Roofing Kitchener and Waterloo</a>"
+        ],
+        "photo_reference": "AeeoHcLLWHn04--BdeSD1Rh8BVHseWhRtzuxavNnLsJTLxH699llI-OZ25vWDKlMtLsA6plmJgXSPzIarcxNqxnXkUXaHuY74-xK1as7urqtlgp75GO5vqCs0uI2_cVsCxumnzEbLHOuU65i7JAtlvlZTM314QaaGrbejBa2bX80qf1bmRvWvb6Eyhhe6dyBeeuXEG9TcxmJ_a6g5PpOy7QezmSxKcMg5ryqS1UWqT3VkFR-fsXeDWnMD5SyWeCeGa1LsHMcjtZKpctFiIeBMGr0YP7Bn_XvFQNAnj0kurEqZvj4wIcim44OLkxjza5WccHT8VyHn5aUfUY",
+        "width": 1000
+      }
+    ],
+    "place_id": "ChIJdY8j-PL0K4gRqcr3E09qY1I",
+    "plus_code": {
+      "compound_code": "FG26+2R Kitchener, ON, Canada",
+      "global_code": "86MXFG26+2R"
+    },
+    "rating": 4.7,
+    "reference": "ChIJdY8j-PL0K4gRqcr3E09qY1I",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 368,
+    "vicinity": "22 Frederick Street #700, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.48084559999999,
+        "lng": -80.4831316
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4821118802915,
+          "lng": -80.48188821970848
+        },
+        "southwest": {
+          "lat": 43.4794139197085,
+          "lng": -80.4845861802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dream Roofing",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJwXIzWW_zK4gRdn0fMuqQOwo",
+    "plus_code": {
+      "compound_code": "FGJ8+8P Kitchener, ON, Canada",
+      "global_code": "86MXFGJ8+8P"
+    },
+    "rating": 3,
+    "reference": "ChIJwXIzWW_zK4gRdn0fMuqQOwo",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "598 Lancaster Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4112253,
+        "lng": -80.4733254
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.41250918029151,
+          "lng": -80.47187626970849
+        },
+        "southwest": {
+          "lat": 43.40981121970851,
+          "lng": -80.4745742302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Prestige Home Inspection Service",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2252,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105902620286898854096\">Prestige Home Inspection Service</a>"
+        ],
+        "photo_reference": "AeeoHcKqntURktulNq5JuZxgKhPk6hSWE8nasphHfmOyWVjy4o8I61TOMp2vh7rsBJUSLbM_SpnPcCbLM4Evc0-L5TErjGSMvk8UB_WBRZSjG930Syf8hiRAd300hUkRhyccHQkNNm5Q9audUZSTuPw-uiUjHLbcIuXNjzfNvvCYYZzeiU6wkcIJd8ylbYSAv6tm5fj3Ug8rjmMCPC69IW59fs6Ccl2jSF0OuSSVPKJjmFX5E7trb3MA9SDPTxN4at6jRGySgcmwudh9Pl9grgltJ6QruFJFJ3ePW2Kc8_iX-qOeCI_UF-rU7_u8jluoy_ZGNlw8gVZE5sA",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJ_0XedZ5lLIgR5fBbVj6Ls6E",
+    "plus_code": {
+      "compound_code": "CG6G+FM Kitchener, ON, Canada",
+      "global_code": "86MXCG6G+FM"
+    },
+    "rating": 5,
+    "reference": "ChIJ_0XedZ5lLIgR5fBbVj6Ls6E",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 44,
+    "vicinity": "11 Devonglen Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4663402,
+        "lng": -80.4652815
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4675282802915,
+          "lng": -80.46383731970849
+        },
+        "southwest": {
+          "lat": 43.4648303197085,
+          "lng": -80.46653528029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Highlander Roofing Ltd",
+    "place_id": "ChIJazvIkKj0K4gRtmeG4xYFwBU",
+    "plus_code": {
+      "compound_code": "FG8M+GV Kitchener, ON, Canada",
+      "global_code": "86MXFG8M+GV"
+    },
+    "reference": "ChIJazvIkKj0K4gRtmeG4xYFwBU",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "31 Shirley Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4191861,
+        "lng": -80.5714789
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4203373802915,
+          "lng": -80.57007126970849
+        },
+        "southwest": {
+          "lat": 43.4176394197085,
+          "lng": -80.5727692302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Waterloo Metal Roofing",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115038604276288375627\">Kirk Vanner</a>"
+        ],
+        "photo_reference": "AeeoHcIK9scTH05N4Sj-NG5u-AOMOUv_AZZsTCrQ4HSzSxSVH8r28bbDI8UqHkae7TkPgAQ69DLb7XP2Hjh8_cSLRTsKyV7g-U2RtlFi7q5fwK38mijVyT6LfFLXSi8KSMc4DNWdIcjX1plZquZ4ko1dFxVZ1Guxu90viD4t-7KCsFloiIvY0fPVaDTDWC-UFcKRnRJvXPx5HHjTM7N9u-LENBYkTOKR4forTrkU8Xo8iApN-y3UyixXP_GtpmEUk972L7_EtILZWhH4kaVgYEoCw7lZGUG4TBJvri_-R7BvH_BfpKk4Mu4QM0D2QZD6Y8J4d5TxdQ3dtdr9MTsNqHf84KHEhL6Cu4My08PliYt4ovPhr8zv75Ckz5bB2mHWp3_CwTbhP7naKskJqYxxe_36nW5cEx1-6qP6wFzohEG6NXZNselyjK8q8tenUTUSIbjTTKxKsfwnQmlSkAqTqIuUrxvok8CMuNEIQwE24XMm89_Koe8uP4K35CmnKAZC8r981-Y4-Q-0XP0tL3o1p21f2ZFUMBGR1JfBVaMQChrFXcXr1zHPUhXeH1lGklpp33FV1M1X72n1A7z8_TeYZzVuzlwuvAqGvzyeM7GuLf-7aZcXJEtbBQjDanEiMSXaCwG1U1BqhQ",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJTW7edYn2K4gRfsstMqjg_G8",
+    "plus_code": {
+      "compound_code": "CC9H+MC Petersburg, ON, Canada",
+      "global_code": "86MXCC9H+MC"
+    },
+    "rating": 4.9,
+    "reference": "ChIJTW7edYn2K4gRfsstMqjg_G8",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 18,
+    "vicinity": "2222 Snyder's Road East Unit #3, Petersburg"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4741734,
+        "lng": -80.4396929
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47576068029149,
+          "lng": -80.4385333697085
+        },
+        "southwest": {
+          "lat": 43.47306271970849,
+          "lng": -80.44123133029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Canadian Metal Roof Manufacturing Ltd",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116343503209631163917\">Canadian Metal Roof Manufacturing Ltd</a>"
+        ],
+        "photo_reference": "AeeoHcKxXUa5KyTCjBtwfQ5W3Hwkb-tbHxMgg8rlvo9zuKXA5rwGmUJBLbt7JK8Ifong8suzSYOR8cYo5JXJBc8MKiXZREuv36t_GQ04dBgdJ2lCRw9GUmv2Le-G3NzsaCG8Y5NNyGMPmxXQy3Qyspd1wBpTbX4M2qQqSuFcNqx6j-FqS-5ISoPM-w2mTIS9lU4jQx37DvOKR10jAl4_jPbhYhXnMikLvIZqa6Yb6_AAkBrNfbAWCKLqX7bO-wNMgpL3aQyVvaA8sBBg-KW0lvRK6p7Vlbvu_JOpI7pFjmOcrGm28tgQtKHrnwk2kMdQIAwmfbqR0Wj92dk",
+        "width": 1200
+      }
+    ],
+    "place_id": "ChIJZUDDeB8HLIgRk4yvd_4xPmU",
+    "plus_code": {
+      "compound_code": "FHF6+M4 Kitchener, ON, Canada",
+      "global_code": "86MXFHF6+M4"
+    },
+    "rating": 4.3,
+    "reference": "ChIJZUDDeB8HLIgRk4yvd_4xPmU",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 37,
+    "vicinity": "2085 Shirley Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5080822,
+        "lng": -80.46245379999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.50947548029149,
+          "lng": -80.4608862697085
+        },
+        "southwest": {
+          "lat": 43.50677751970849,
+          "lng": -80.4635842302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "LP Platinum Roofing & Exteriors",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114830994091525702439\">LP Platinum Roofing &amp; Exteriors</a>"
+        ],
+        "photo_reference": "AeeoHcIcOhQbPC--eQEQ1xS_h8XTa7-wjoz55y-9d7VubbPkX3S634EvGrKyG3U9DaSeinXEyCXZZuqDYzGAHuwXz1-u7pi5vpY1__ckgA17Bo0V9N_28OgQSpM41WNun0iHCGzw_CQW1PVHMnoFCoYHF-JQYTYDBVR04Xz0sO1edIGQA6pLQB9OwlxeygQ1cltd4o7aT7XN1MUaNsczOvM3SjqIczo3m2bIa0KT7Mm24CeeBFhShewC--pyqw65cSx6XqyLig_9rRDmgTVlNeos-6WXtvE2G8DDie1L3NKd5TG8tGJC-Nv9ev0Ihcu85lWlWDx8dFPSKzo",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJFQVmDSiQK4gRexleHVh66S4",
+    "plus_code": {
+      "compound_code": "GG5Q+62 Bloomingdale, ON, Canada",
+      "global_code": "86MXGG5Q+62"
+    },
+    "rating": 4.5,
+    "reference": "ChIJFQVmDSiQK4gRexleHVh66S4",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "general_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 36,
+    "vicinity": "811 Sawmill Road, Bloomingdale"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47944570000001,
+        "lng": -80.4320923
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.48087313029151,
+          "lng": -80.43059101970849
+        },
+        "southwest": {
+          "lat": 43.47817516970851,
+          "lng": -80.43328898029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "H&H Roofing & Sheet Metal",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJuRqVOJaMK4gR6XyXCuD2bbc",
+    "plus_code": {
+      "compound_code": "FHH9+Q5 Kitchener, ON, Canada",
+      "global_code": "86MXFHH9+Q5"
+    },
+    "rating": 3.3,
+    "reference": "ChIJuRqVOJaMK4gR6XyXCuD2bbc",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 7,
+    "vicinity": "35 Crestview Place, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4579981,
+        "lng": -80.4307681
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45931248029149,
+          "lng": -80.42921256970848
+        },
+        "southwest": {
+          "lat": 43.45661451970849,
+          "lng": -80.43191053029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "bulldog-roofing",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJHel8uGeLK4gRfCkDJtpvoSg",
+    "plus_code": {
+      "compound_code": "FH59+5M Kitchener, ON, Canada",
+      "global_code": "86MXFH59+5M"
+    },
+    "rating": 5,
+    "reference": "ChIJHel8uGeLK4gRfCkDJtpvoSg",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "1505 Ottawa Street North unit 203, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.3939798,
+        "lng": -80.46379019999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.3953895302915,
+          "lng": -80.46235811970848
+        },
+        "southwest": {
+          "lat": 43.3926915697085,
+          "lng": -80.4650560802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Bek Roofing",
+    "place_id": "ChIJ2VQutFf1K4gRYWwG2EhEalo",
+    "plus_code": {
+      "compound_code": "9GVP+HF Kitchener, ON, Canada",
+      "global_code": "86MX9GVP+HF"
+    },
+    "reference": "ChIJ2VQutFf1K4gRYWwG2EhEalo",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "206 Templewood Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46540890000001,
+        "lng": -80.4011166
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46651288029151,
+          "lng": -80.3998905
+        },
+        "southwest": {
+          "lat": 43.46381491970851,
+          "lng": -80.40479490000001
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Nedlaw Roofing Limited",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 250,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100097362897128814272\">Ingrid Hicks</a>"
+        ],
+        "photo_reference": "AeeoHcI6Jy53A6k9gvPRi2jO_GcTmKpy0s_8IjdBjxS69zL5KMTTroD7S3yS0gAILBu7d62mLD46thscXFRPSjOiodG1HTBj5wooGZ2PBQgxAKrRafwcYHrzsr3DLJ_amnSvI74T1qUiExtaq09HHTDZPHeTmmLamPq0nQl-DUELXWqsfgdxfHcamqC9OdvL_rB2rEE7KFG9nIybEy3FH_5-CtdYDJrS4kyXmxU81YYAbSqmLzCHDsKbzSmE0SBeAWCQZXqdSYhWA536Z_3S3079CHG8lYBSNUmbVxNIfY1upZ5YVPYLNDOVgxPARCoEEnZH-JmTplZEv_KHxkB_9aTuHwcjTyUpFnA7AFTZ_xExUs4KDGnBvHwyNmwh1OhpiZpeEZ6VHgwV-3Zz3FreoLNb6pb0cd7MezG2ApjvA0EIqORqGjhQQRNCyF5sbuNofSmlM1MJKjhw2nuwXf51m-d-EVa6Z38unefQIRaAYxNESXwZfOQ7smz9UZ0moglSflt0d3IHSzirmZZ51xLrjuVtBvGouG2SNuvnSQ9xEpkXdGtqLWljxYzi8UHpRFOTDpWVw7Bsg1eL390ht3Fn2TEl4oVh0vVmZd7qRit8gec0vfTOmLP-1VfVYcYKfIEIHm2J_uMvVA",
+        "width": 250
+      }
+    ],
+    "place_id": "ChIJmwwGXYeMK4gRF7svT097mO4",
+    "plus_code": {
+      "compound_code": "FH8X+5H Breslau, ON, Canada",
+      "global_code": "86MXFH8X+5H"
+    },
+    "rating": 4.3,
+    "reference": "ChIJmwwGXYeMK4gRF7svT097mO4",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 80,
+    "vicinity": "5179 Fountain Street North A, Breslau"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4816649,
+        "lng": -80.45986649999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.48302073029151,
+          "lng": -80.4584591197085
+        },
+        "southwest": {
+          "lat": 43.48032276970851,
+          "lng": -80.4611570802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Stybek Commercial Roofing",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4480,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100904408446008036206\">Stybek Commercial Roofing</a>"
+        ],
+        "photo_reference": "AeeoHcIl3bATGcx1bypQi11TFSPdBs8Amqd70DtQ5K-wkUsYVhwZB6aCUq3VE-_PJH5Lf6t13ZfkTHy-nxAFOYONekYZdebyDyMx2P3A9ORViggB0t_I9RS02j-8unMQMaed_aS3ThaSgblH4wNOcqgDnigRyx-q88fqP51swSv0TLCBnAnTHRu1uHlF6detzlGFDrakiZ-kIayv0mXUs-tEzSYzZuGjLLrO44JrDtrJWSyJTlQNiLCqrojdgxtks_V7cY2l8VahivRdXRos4_ac96saHGKrzl4l6S1G4uEIMND-r5gdkq9c8O7-rUqdfJj_otoOhQkkLvU",
+        "width": 6720
+      }
+    ],
+    "place_id": "ChIJt8G6JEzzK4gRFuiXOExp8Go",
+    "plus_code": {
+      "compound_code": "FGJR+M3 Kitchener, ON, Canada",
+      "global_code": "86MXFGJR+M3"
+    },
+    "rating": 4.3,
+    "reference": "ChIJt8G6JEzzK4gRFuiXOExp8Go",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 22,
+    "vicinity": "64 Dumart Place, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4684994,
+        "lng": -80.4725141
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46994683029149,
+          "lng": -80.4712200697085
+        },
+        "southwest": {
+          "lat": 43.46724886970849,
+          "lng": -80.4739180302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Roofman Inc",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 768,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116911504704259677550\">The Roofman Inc</a>"
+        ],
+        "photo_reference": "AeeoHcKe-ZP9mqHHHw_pajtaS-9ol0BHgYZAN0N4_miQK2YooYjbHiGGzlByBVt6FpqeBtngZLfPRwW9-bmz1asCuoBjVHluMwXMv28carIb1TxYkNV_NG8U2O2ImiToOoJDm9xkZygaTHGaC74SYsocuy58RsTlbaM5UEz-Aoz9R8Vg4NMX6jtP_-jSX4RvKG0a4Z9HsmCHMtNo7oZF62jWA5dwRWnwDaaPAZ5i3SJPAo224rrDyt63bLHc4x4OdcdrpXLzhns8B-QAsWic7vENM-89jWbxSBmiZyn2S7IqOAiLNLVWpFMsv-UZXQbCj1spsP2uZQe940c",
+        "width": 1024
+      }
+    ],
+    "place_id": "ChIJQ7pBx6D0K4gRsiARPIuQlGA",
+    "plus_code": {
+      "compound_code": "FG9G+9X Kitchener, ON, Canada",
+      "global_code": "86MXFG9G+9X"
+    },
+    "rating": 4.8,
+    "reference": "ChIJQ7pBx6D0K4gRsiARPIuQlGA",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "general_contractor",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 130,
+    "vicinity": "1085 Guelph Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4551087,
+        "lng": -80.5120043
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45652598029151,
+          "lng": -80.51059601970849
+        },
+        "southwest": {
+          "lat": 43.45382801970851,
+          "lng": -80.51329398029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Roof Improvement",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ__-zP2j0K4gRjtc09AjfVhU",
+    "plus_code": {
+      "compound_code": "FF4Q+25 Kitchener, ON, Canada",
+      "global_code": "86MXFF4Q+25"
+    },
+    "rating": 5,
+    "reference": "ChIJ__-zP2j0K4gRjtc09AjfVhU",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "429 Park Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4514742,
+        "lng": -80.5189047
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4527129802915,
+          "lng": -80.51749291970849
+        },
+        "southwest": {
+          "lat": 43.4500150197085,
+          "lng": -80.5201908802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Pro Roofing & Cladding",
+    "place_id": "ChIJq6qO4kD0K4gRDYwGkvJnZRo",
+    "plus_code": {
+      "compound_code": "FF2J+HC Kitchener, ON, Canada",
+      "global_code": "86MXFF2J+HC"
+    },
+    "reference": "ChIJq6qO4kD0K4gRDYwGkvJnZRo",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "232 Glasgow Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4662187,
+        "lng": -80.49892969999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4676425302915,
+          "lng": -80.4974478197085
+        },
+        "southwest": {
+          "lat": 43.4649445697085,
+          "lng": -80.5001457802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Custom Contracting Roofing & Eavestrough Repair Waterloo",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 561,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101601189702300645656\">Ellen Duck</a>"
+        ],
+        "photo_reference": "AeeoHcLMw8dlZl8StFOE3pn9_TWg7QvXo7HmJ6F9JGvkwsewW11iNk56BI9w24t7tx6m_Wztv1NFSscBegDGAHvlEIYMBWgBg9HVgsmRsLsVQy-pKloo6VFj1tj5aJQNILPYWArG3s6QR5K2yZ1zatOxBuJGO9_-zHhfsyP2ADyzL1TJ3NmoatwcFWxeU0TNlFYH9LWVtDWb4Aa6g2T2xn4LW8pMNtfLZwSTORvMpYPrjcqoygdmhRgIKkKFxL1JbK26MthLN6GeYYdkfMKHtK9fJpO5gM8T0IkasGMSE86dwmM9sOBTpQ5yXa6t0C5_MOd0jEMBmN2xFYFML4screwxZPmHRSpNV8ql7S6qPmQi1inhTZ8RbBbj_SgmapSALWTW8S1XIDN_4m_g_kizRx0Aq5x-xwkucsSlejOO7O2ovjNdQxF7LHRywp6Ij2-ajHq9lTsfbpeBy8_PdDaxy0ngpbsh_s3QlJb3lu90kTa9J12m_lEVXc-ZlSr5a5mj8eJaqCmi0y7prTT3u0NlDmfRIkrxcBszvglJLlvRHoEhuhBtRCdwPDlMG7auGoYCR0zyGhn3CQ27wUwXDk0MZNh1PE5tQzfjWNP9XDYghVP2je4xsqNlpLIZ2EsHdG4kE-Wt",
+        "width": 750
+      }
+    ],
+    "place_id": "ChIJsRMX_bH1K4gRe27EQJioXhc",
+    "plus_code": {
+      "compound_code": "FG82+FC Waterloo, ON, Canada",
+      "global_code": "86MXFG82+FC"
+    },
+    "rating": 5,
+    "reference": "ChIJsRMX_bH1K4gRe27EQJioXhc",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 11,
+    "vicinity": "165 Margaret Avenue South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.451345,
+        "lng": -80.50492249999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4525949302915,
+          "lng": -80.5035417197085
+        },
+        "southwest": {
+          "lat": 43.4498969697085,
+          "lng": -80.5062396802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Doctor Roof",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJrRQbf170K4gRxYnP8Co5QgU",
+    "plus_code": {
+      "compound_code": "FF2W+G2 Kitchener, ON, Canada",
+      "global_code": "86MXFF2W+G2"
+    },
+    "rating": 5,
+    "reference": "ChIJrRQbf170K4gRxYnP8Co5QgU",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 9,
+    "vicinity": "20 Stewart Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4465121,
+        "lng": -80.5156221
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4480052802915,
+          "lng": -80.51437171970849
+        },
+        "southwest": {
+          "lat": 43.4453073197085,
+          "lng": -80.5170696802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "AM Group Exteriors - Kitchener",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 576,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112498464093879868142\">AM Group Exteriors - Kitchener</a>"
+        ],
+        "photo_reference": "AeeoHcLPqGQq79j7Y0nVqDLCdavjRQQnlI4XBR8AMtDAoy5ZW3_U-CVPQzJdrXgijLihp8SBkPrqLkHA1Az9tnIBdE4R8G6GYHbDGl1J0ruzi-jJcGV4kNrqj5dbywJx72gWGCDAXQjJtOlNhifjurVv0IyKY3Gqhp5Sg2eQBlI82jocHAKUYIwq9Gp-cFxJrUDTxvVEh6dbf77VNlj0P9FFaMnBjtFZzDS4Zz9H_gL95hOS3oQGDRl3934wzqRXmK5T-9gJl3J3ZdaaR3Hj8l3yBJObw9pRW1Wr1LtUIjejFUmIAZ9qX8xHJ6Npcf_d6NPdvpHH_KSkUZc",
+        "width": 1024
+      }
+    ],
+    "place_id": "ChIJxYFm5k31K4gRD1TW2e5Du3A",
+    "plus_code": {
+      "compound_code": "CFWM+JQ Kitchener, ON, Canada",
+      "global_code": "86MXCFWM+JQ"
+    },
+    "rating": 3.9,
+    "reference": "ChIJxYFm5k31K4gRD1TW2e5Du3A",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "general_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 119,
+    "vicinity": "230 Gage Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4501557,
+        "lng": -80.4908298
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45145948029149,
+          "lng": -80.4893782697085
+        },
+        "southwest": {
+          "lat": 43.44876151970849,
+          "lng": -80.4920762302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Kitchener Roofing & Repair",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ3QD2-vL0K4gRoV5YsaBLXqI",
+    "plus_code": {
+      "compound_code": "FG25+3M Kitchener, ON, Canada",
+      "global_code": "86MXFG25+3M"
+    },
+    "reference": "ChIJ3QD2-vL0K4gRoV5YsaBLXqI",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "73 King Street West #1905a, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.472652,
+        "lng": -80.48658379999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47399838029149,
+          "lng": -80.48542051970848
+        },
+        "southwest": {
+          "lat": 43.4713004197085,
+          "lng": -80.4881184802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Premium Roofing Inc.",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 501,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105829936205529597295\">Premium Roofing Inc.</a>"
+        ],
+        "photo_reference": "AeeoHcL0mTv1y-IjNEmfTJltrhocW-9JmSVa0Zh27juljPugndzo7EgU1qiG1O-I-C370A4BBzhoatqvFQJpXoXEFeKt9TKSxt45sRzyNMY-bj6UoBhER1yXqE1SBWzP0j2tMEdIXSAuzk8vsCme5amygj_BNOhzuMoKSeaOZYWwqVY203zgdMb2OpbnG7DcWdqBSaH7Sv5jVMneY_xF20_T88PPJooMMoGJR1BxeGtRKt32voKyLTLeKGHUTpYMuUFDaMCkWdHWog7tIjTC-8EYGKmGeJBn1Vt194xc9Z8_LBMvyLHDJqQIMl8K0q1IoJ2DyQL5fpoBlTc",
+        "width": 677
+      }
+    ],
+    "place_id": "ChIJVTrW6GLzK4gR2G2R1iMTJ2s",
+    "plus_code": {
+      "compound_code": "FGF7+39 Kitchener, ON, Canada",
+      "global_code": "86MXFGF7+39"
+    },
+    "rating": 5,
+    "reference": "ChIJVTrW6GLzK4gR2G2R1iMTJ2s",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 35,
+    "vicinity": "212 Oxford Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4521317,
+        "lng": -80.4888101
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45351428029149,
+          "lng": -80.48754531970849
+        },
+        "southwest": {
+          "lat": 43.45081631970849,
+          "lng": -80.4902432802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Custom Contracting Roofing & Eavestrough Repair Kitchener",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 352,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116399009135644091874\">Custom Contracting Roofing &amp; Eavestrough Repair Kitchener</a>"
+        ],
+        "photo_reference": "AeeoHcJxvLqFaBqHE8uwyGgaGHR4e6vRFw5MIrEMpKPHvmY10CNY8rKgObTXYos7Pm1cG3JrroQ0GozUVuporvRMmqbMmHpoOxsIapnUCMloyMQkJS9Z2o7IPUFx5FdYlJc3T6JRfeG2nOz_XKo92njCwRVqIYtRmJDrc9T1vOcrozCoVpxGvsevD-Shyb9WBF7GOEUvo-_uiX-qpxA8yxNwAKyAaQy40n2BrET5kerO7yJq3rx6KIr1DXTElMhCRDKTTQyMm12AJxzZe5Pgrf40ZQK1K8pqhW79zSL5QAR4qIRcVpcN--_EC2vdz1Z5gS1DR4J0u1Pw4ec",
+        "width": 352
+      }
+    ],
+    "place_id": "ChIJX9VNV1D1K4gRBncO0jWlLPA",
+    "plus_code": {
+      "compound_code": "FG26+VF Kitchener, ON, Canada",
+      "global_code": "86MXFG26+VF"
+    },
+    "rating": 4.7,
+    "reference": "ChIJX9VNV1D1K4gRBncO0jWlLPA",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 13,
+    "vicinity": "151 Ontario Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4514509,
+        "lng": -80.4871379
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4529344802915,
+          "lng": -80.48570746970849
+        },
+        "southwest": {
+          "lat": 43.4502365197085,
+          "lng": -80.48840543029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "South West Roofing and Construction Inc.",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 576,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112099905136011847349\">South West Roofing and Construction Inc.</a>"
+        ],
+        "photo_reference": "AeeoHcL5K8FwpSqc-Yx6MUate5NT3dIjyAhW5rQUbyS_00DNMxKSzGrxQXdYeX9ucSHjAjNEeTC8E9yYZkxo00LWhYEt3jgUK1YaZ-qOasuIz0tUJjSPKIuSVE9m_b3ZDL1gP3YSKteC2DKmZaloI7h3HuliJQXdFcxpsupjyvLJra6vrduIp8NDITV7uvyVPN2QbI5DV7df-ednVf7EzDJdxvcD5TJv50zvL39gl5ijh3wjWlG-khl-3y3w1R8rayXTK43VK3FHKDUOJczC0A2siy36CzWDIusVIIAPqd5e4gWerkZBpA7ROe8zPKeCdHl5VXpL8VQqbZ8",
+        "width": 432
+      }
+    ],
+    "place_id": "ChIJc7QW3T31K4gRfDpLZMeb_x4",
+    "plus_code": {
+      "compound_code": "FG27+H4 Kitchener, ON, Canada",
+      "global_code": "86MXFG27+H4"
+    },
+    "reference": "ChIJc7QW3T31K4gRfDpLZMeb_x4",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "57 Queen Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4377612,
+        "lng": -80.50931369999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4390129302915,
+          "lng": -80.50787741970849
+        },
+        "southwest": {
+          "lat": 43.4363149697085,
+          "lng": -80.51057538029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Kitchener Affordable Roofing",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1199,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112646172640303871668\">Kitchener Affordable Roofing</a>"
+        ],
+        "photo_reference": "AeeoHcLRgnfcxzIv7sPotFPmCAzPRS32jSZXx4hJEn7grzbwjEcsOnBsl8sGWo33CohEjFwY4ZVJCbXEaAL6FJlJchdM_ndEyvibLvFbxXPfFsq6B4vR_AjYQnfrEf8N1imEJ7ObdZafkoNNBPl-AdB_Qv3kgONR5dvyfjuz8hamUoyMlBxuXjzBQonVReUtBEDX8491hml8yAwxmxKeesAMrC1L78JW_S0LGf0N6kSLm3Z7GGrfxD8V7kS15aX5CsZSc58PWyYei0Hv3owhQX4ZJ0SGgLa0RynVmShg4b7opdkIjJyYGihntGEYqkqXG5sd9O-xeA-Rx1g",
+        "width": 2014
+      }
+    ],
+    "place_id": "ChIJGQa1CBH1K4gRyfpCefpJykA",
+    "plus_code": {
+      "compound_code": "CFQR+47 Kitchener, ON, Canada",
+      "global_code": "86MXCFQR+47"
+    },
+    "rating": 3.7,
+    "reference": "ChIJGQa1CBH1K4gRyfpCefpJykA",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "130 Marlborough Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4517916,
+        "lng": -80.5573273
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4531075302915,
+          "lng": -80.55606981970848
+        },
+        "southwest": {
+          "lat": 43.4504095697085,
+          "lng": -80.55876778029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Kingsley Roofing",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 500,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109113307844978774920\">Kingsley Roofing</a>"
+        ],
+        "photo_reference": "AeeoHcLosIf5cKlIZMbW2yX0gY2kLDRUYtdr6mnTHnE-9osmnYD3rEZH0cI9U4pR2rGzO0wi0MX7G80X4AliW2WPA8Xn_nub2ikGrwRobTmvPr30H80wx5slm2z5chMTEsonhyNMBuuWGDDxCSS6OJ_Lsn7uTrG1tKFivXrJpz-uMp5QHElgn_3smuOkvDHvZ6Z7I4Hh5VKYdN6nFbXyIGGS55DBITiqTXm2v83GeOYxIw-7oyM0F1lPZu-pA43-rQoq8MdAnMIRdpI8j6t_0qY3rm9HUJrvuNDQw15zrOHWYNaYHFVw--3I7ukTwFxtDredYsedZvqrGMI",
+        "width": 500
+      }
+    ],
+    "place_id": "ChIJpdu-xS_3K4gRQD9jWMfnwnk",
+    "plus_code": {
+      "compound_code": "FC2V+P3 Waterloo, ON, Canada",
+      "global_code": "86MXFC2V+P3"
+    },
+    "rating": 3,
+    "reference": "ChIJpdu-xS_3K4gRQD9jWMfnwnk",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "459 Beechwood Place, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4342296,
+        "lng": -80.52859939999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.43562418029149,
+          "lng": -80.52714231970849
+        },
+        "southwest": {
+          "lat": 43.43292621970849,
+          "lng": -80.52984028029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "KW Roofing & Exterior Solutions",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 723,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113599609375914227941\">KW Roofing &amp; Exterior Solutions</a>"
+        ],
+        "photo_reference": "AeeoHcLeOwN9hy-ltIqOjzr8FVuw3K4XzO2B41iX4aMENP0Rbea0doy_YPNOrhKIu2D_998xlkww0u5uNuMgp5ddS1PbqsiiK4SjlruuUB9_VTQpT6arGKX9ejtjGA0HdEdW7SgNhwLo7vuUP9i87owUjAwRPozr3ZVzQV2cScyjce0gUmaL3zJlzHKu-xhpCZoGb6xBVRo2nSsW1odEKXAxgzDUKZY_MvKZLXMp68eupxBmA4ER5GWdiOLSK_EzPg1e73FaFKS0jtp9pRELol0-g4FSu8QcBcx7_4_xVJfv5x15nFg0WXjFMCBQFQT18xNXmQOMnT9Mxys",
+        "width": 1290
+      }
+    ],
+    "place_id": "ChIJlVl-40f1K4gRJpGf-EJtEHo",
+    "plus_code": {
+      "compound_code": "CFMC+MH Kitchener, ON, Canada",
+      "global_code": "86MXCFMC+MH"
+    },
+    "rating": 4.5,
+    "reference": "ChIJlVl-40f1K4gRJpGf-EJtEHo",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "general_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 51,
+    "vicinity": "215 Benesfort Crescent, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4806539,
+        "lng": -80.4842372
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4821157302915,
+          "lng": -80.48279756970848
+        },
+        "southwest": {
+          "lat": 43.4794177697085,
+          "lng": -80.4854955302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Precision Roofing Contracting",
+    "place_id": "ChIJ___bR9r1K4gRJitRjLHQLkA",
+    "plus_code": {
+      "compound_code": "FGJ8+78 Kitchener, ON, Canada",
+      "global_code": "86MXFGJ8+78"
+    },
+    "reference": "ChIJ___bR9r1K4gRJitRjLHQLkA",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "145 Blackwell Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.434664,
+        "lng": -80.5074848
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4359179802915,
+          "lng": -80.50606136970849
+        },
+        "southwest": {
+          "lat": 43.4332200197085,
+          "lng": -80.5087593302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "SSAM ROOFING & RENOVATION",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 610,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117037683305598857030\">SSAM ROOFING &amp; RENOVATION</a>"
+        ],
+        "photo_reference": "AeeoHcKpmGj_MGxoOSV6Qt5S7oJlE0Weh4wLfSkvWe2jwr6-IwDJ3wryYDSh2P_nAwX8u_50_py46h1bNNqF1xFKiMbhaimSwVTXKJgXJLlxRAMUuha2Z4g0psbu1oKdDi5s0nMs5dbZMb1CM_vlQVHU6mKQrB9tehAFI-ai0bn1o_tHiDAMzU-XH61UTT9_Uj2HexVq0E188bp21L4MvDoc25JuFkJL4j6r3tbDeMeORuv8XO_puH4XgjL0YIxF7LL7hCK4kUX2z6yqfaGdlGRanE7rgIewB2Q-otAKz1uq68yNfIBIkimMqnRF-mcYiOA3Et0cRrcf6Bc",
+        "width": 1085
+      }
+    ],
+    "place_id": "ChIJsW58Cg71K4gRnVgh40-051s",
+    "plus_code": {
+      "compound_code": "CFMV+V2 Kitchener, ON, Canada",
+      "global_code": "86MXCFMV+V2"
+    },
+    "rating": 5,
+    "reference": "ChIJsW58Cg71K4gRnVgh40-051s",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "general_contractor",
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "1162 Queen's Boulevard, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4939181,
+        "lng": -80.53640949999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4952140302915,
+          "lng": -80.53493881970849
+        },
+        "southwest": {
+          "lat": 43.4925160697085,
+          "lng": -80.5376367802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "IRC Building Sciences Group",
+    "place_id": "ChIJ7TdkZOfzK4gRP8hW3gQG2JQ",
+    "plus_code": {
+      "compound_code": "FFV7+HC Waterloo, ON, Canada",
+      "global_code": "86MXFFV7+HC"
+    },
+    "reference": "ChIJ7TdkZOfzK4gRP8hW3gQG2JQ",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "490 Dutton Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.43269009999999,
+        "lng": -80.5290682
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4341273802915,
+          "lng": -80.5277904197085
+        },
+        "southwest": {
+          "lat": 43.4314294197085,
+          "lng": -80.5304883802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Roofing Koski",
+    "place_id": "ChIJ7aK3Od_1K4gRkCpLQR-9LTI",
+    "plus_code": {
+      "compound_code": "CFMC+39 Kitchener, ON, Canada",
+      "global_code": "86MXCFMC+39"
+    },
+    "reference": "ChIJ7aK3Od_1K4gRkCpLQR-9LTI",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "5 Benesfort Drive #58, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.481929,
+        "lng": -80.47864369999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.48323823029149,
+          "lng": -80.47732016970849
+        },
+        "southwest": {
+          "lat": 43.4805402697085,
+          "lng": -80.4800181302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Apex Roofing and Exteriors",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102071468854167499787\">Apex Roofing and Exteriors</a>"
+        ],
+        "photo_reference": "AeeoHcLwQw8lmBBCrCyhbY3CLnAsUukUiFXfQWMCAVjZBq3Zd8yKJJCB8oNzl-UI2ZcJ60fbbOYfjFk8pnmcooIYxhHFIOZs46hEZ1vbDBlSG_YNidJn_rHMuWVRaxcAxf-zdjUMFCMecBmc-f_QiIocXAMmeIMbM-HY1rmbQ8BeXnEPzCMgk5ELJkP44rEXTO27wRE_ZGbRSh68mXvMM6w53HGQGLUsjFTqBA50hMrYs3guF_-rkaYAW4fJkN2u-_8X_ehCzGLiRe0VC_NigYt_iXNG6fVCY7FeCFkXHpjfgnzW8Uc9Xr6UmaH8see-C1J5tv7KWQIBioU",
+        "width": 1600
+      }
+    ],
+    "place_id": "ChIJ2Ym4t9Hm3KERx1ZojqQWbeY",
+    "plus_code": {
+      "compound_code": "FGJC+QG Kitchener, ON, Canada",
+      "global_code": "86MXFGJC+QG"
+    },
+    "rating": 5,
+    "reference": "ChIJ2Ym4t9Hm3KERx1ZojqQWbeY",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "general_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6,
+    "vicinity": "20 Horning Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4394304,
+        "lng": -80.485018
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4406778802915,
+          "lng": -80.4834889697085
+        },
+        "southwest": {
+          "lat": 43.4379799197085,
+          "lng": -80.48618693029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Brother's Roofing",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112625544614569305282\">Brother&#39;s Roofing</a>"
+        ],
+        "photo_reference": "AeeoHcI6d6o5jqgMhYT4cDfj5VwEs7ybzJOcURj3AmDquOFQcQOhSYfnd1MuKIcZLgT-vN6-hW0f40qLjD0UZcSPblhY5JC0yMQ-mrB98K53mA_1bAZX2AeeDl1R9sH6wNFlYcELwdQ1NizaTHEPf2tnVygwjFksUZ1dPZV2y4EeGdM4fyM3gD93Mdu5uD2PIvhgLhqkIzG5tHR0GdC7eHL14iMz6hXS6q6PrLTNwUPIPbnxpTFPGvQh28edw2sALkLbt4TAwtz-Qf3xaofGbW8NLFIFpwkgAXb2K-B1c48HC3Z-i-9W6_Xb9qelrd6HH0RRAc5F-jh2EhE",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJG1XB4Z4KLIgRv-9F4H3ebuM",
+    "plus_code": {
+      "compound_code": "CGQ7+QX Kitchener, ON, Canada",
+      "global_code": "86MXCGQ7+QX"
+    },
+    "rating": 4.8,
+    "reference": "ChIJG1XB4Z4KLIgRv-9F4H3ebuM",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "general_contractor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 78,
+    "vicinity": "249 Courtland Avenue East #8, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4374135,
+        "lng": -80.4863135
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4387468802915,
+          "lng": -80.4849279697085
+        },
+        "southwest": {
+          "lat": 43.4360489197085,
+          "lng": -80.48762593029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "MacLeod's Roofing Ltd",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJt-CjQuP0K4gRz4HMsoUjGfw",
+    "plus_code": {
+      "compound_code": "CGP7+XF Kitchener, ON, Canada",
+      "global_code": "86MXCGP7+XF"
+    },
+    "rating": 3.8,
+    "reference": "ChIJt-CjQuP0K4gRz4HMsoUjGfw",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "Mill Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.42858799999999,
+        "lng": -80.5076503
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.43001293029149,
+          "lng": -80.50612106970848
+        },
+        "southwest": {
+          "lat": 43.42731496970849,
+          "lng": -80.50881903029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "marty's quality roofing",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJP-XXWrf1K4gRhV3nieBJ0cw",
+    "plus_code": {
+      "compound_code": "CFHR+CW Kitchener, ON, Canada",
+      "global_code": "86MXCFHR+CW"
+    },
+    "rating": 5,
+    "reference": "ChIJP-XXWrf1K4gRhV3nieBJ0cw",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "191 Westmount Road East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.436148,
+        "lng": -80.48568619999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4374401802915,
+          "lng": -80.4844331197085
+        },
+        "southwest": {
+          "lat": 43.4347422197085,
+          "lng": -80.4871310802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Quality Care Roofing Inc.",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104144534509567883941\">Quality Care Roofing Inc.</a>"
+        ],
+        "photo_reference": "AeeoHcK8DwqHrpKWqrJiBBGHuxj2taC2fxrxruQQuc1QtSApjelLZ2OkIYkGVWe7Ck4yQ1L-SEtBqCSLeX4k81iMGoZIrXRTc0xCYQTRZDLuMBjEZbZqBYdjutBavOTibC-sMMybSzCt2N3a1gPUgUYV5CBtvRjl9xI1qCJVuAbqPg6qJbdlmybOD6Fov-97QsoZ582p5laf8HpbUKHfRy4wk6iSnMyvqPNDvyEFotE5-2nxKl9dbuQqJq1doshkQJAAsIdjXXu4YWI6hxlmb0dXV5z9VIkFYhMmrtj32Lctsc7Zuv_c1aBXjwV4V6HThKsuh7sXUI_ekGA",
+        "width": 800
+      }
+    ],
+    "place_id": "ChIJ5ykj2Vr1K4gRE8DBXVeYNe4",
+    "plus_code": {
+      "compound_code": "CGP7+FP Kitchener, ON, Canada",
+      "global_code": "86MXCGP7+FP"
+    },
+    "rating": 5,
+    "reference": "ChIJ5ykj2Vr1K4gRE8DBXVeYNe4",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 51,
+    "vicinity": "284 Mill Street Unit 3, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.436148,
+        "lng": -80.48568619999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4374401802915,
+          "lng": -80.4844331197085
+        },
+        "southwest": {
+          "lat": 43.4347422197085,
+          "lng": -80.4871310802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Irvine Roofing And Siding - Roofing Contractor",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 300,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102977470520802099331\">Irvine Roofing And Siding - Roofing Contractor</a>"
+        ],
+        "photo_reference": "AeeoHcKEaU3FcTt-y7QfN8MV1VGJl7B3khxiW2YLZ1JCEuUtW4MyitUpgFjtK4haCQLdQZoyTuSShwqfWVlOnvWdRKT7UkCmD_MWnZ6GJezLZQboZRhiZCiW8q5LEzpOns7a1XoCG5DXHHe_9a1Q0kUXkKtbAvK0a3Pi-ts_G2zFxZDO4oAxVhfZD6_udtcXI207WgWD2UKp35bV-U4MVPKE6SF6jgr2ILMabGXr7cLbrYKF1oy7I-vxEj8SIHz6EyydnP9x1-1XmlF7XFK-fLL5fOEnlj1CSb58j_iquCJNSL-ImPIDgux6Gvn_iTU9ct9Gvl1bbZYKdrU",
+        "width": 400
+      }
+    ],
+    "place_id": "ChIJfRBJlI_1K4gRo5xBZNONqYo",
+    "plus_code": {
+      "compound_code": "CGP7+FP Kitchener, ON, Canada",
+      "global_code": "86MXCGP7+FP"
+    },
+    "rating": 3.8,
+    "reference": "ChIJfRBJlI_1K4gRo5xBZNONqYo",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 20,
+    "vicinity": "284 Mill Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.49737509999999,
+        "lng": -80.54723129999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.49890313029149,
+          "lng": -80.54594941970849
+        },
+        "southwest": {
+          "lat": 43.4962051697085,
+          "lng": -80.5486473802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "A1 Pros - Exterior Contractor Gutters Soffit Fascia Siding Roofing",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 750,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115134883907330701086\">A1 Pros - Exterior Contractor Gutters Soffit Fascia Siding Roofing</a>"
+        ],
+        "photo_reference": "AeeoHcIXcarxMi0olBU3EsV4qwds9nNA0vE9Z2hnG12TVRtCGswsrAEIAKM56KqA3wGscy9KXMYbpKqwGO4ByXUCnWUa32cLzr4uwvWvnwFp-A-WxFLNYRfr3sGa655zU37lQy3yVh6z8uDP-7XRhA1u6elC6i43SstSko1_CdTfXMqyMWZRm8WlJhpFD1K1T_4ZIY9riFZ-rpSre-sRhLNgqKkD6z2jMlBIluhA7BylzzLsD0s1v6pwhSJZ8j5P64jusQzShSfCLqPgH8dZjLsMqSvgPjdTMA3Ju5EDGTeAOBTAJMfDxex9kXlsiW5L_0q5Rmo0pGxH4Fk",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJEzbsS8nxK4gRKY1Ho920p30",
+    "plus_code": {
+      "compound_code": "FFW3+X4 Waterloo, ON, Canada",
+      "global_code": "86MXFFW3+X4"
+    },
+    "rating": 5,
+    "reference": "ChIJEzbsS8nxK4gRKY1Ho920p30",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "general_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 61,
+    "vicinity": "180 Northfield Drive West #4, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.49737509999999,
+        "lng": -80.54723129999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.49890313029149,
+          "lng": -80.54594941970849
+        },
+        "southwest": {
+          "lat": 43.4962051697085,
+          "lng": -80.5486473802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Sapphire Roofing Waterloo",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2650,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104619026371553584443\">Sapphire Roofing Waterloo</a>"
+        ],
+        "photo_reference": "AeeoHcJKenycgyESV88ee6_ddMGSX1f3--ZbAROMP5oXyV1vG5XWfDIa72mxkEkiarBdMmhwg-91Mk6nAHAoTHVOPw7c0ARv_ElABTK-SZxmKhtyGP4Wwhg3HH5Jqvqa54mJNInlaSEaV1G_4Gb-bQr6rV4doZExF-00T33JDH-6FzyMAzHka5-0epN94ZoLiMMQW4S6uUd61JMzuN7U089R-QaAo9QPkX64SxhAZ_hAu4HGklLevzKETlDSLuEfEimrWnRLKR2XsADTuJnYEEPLn8-s7qzbri47dXSDHq9NBr2VLCMjhnDuWPKHkQaTln3I3t3TSHI9rfs",
+        "width": 2650
+      }
+    ],
+    "place_id": "ChIJW1UNWEvxK4gRCpZa1y8a3FM",
+    "plus_code": {
+      "compound_code": "FFW3+X4 Waterloo, ON, Canada",
+      "global_code": "86MXFFW3+X4"
+    },
+    "rating": 5,
+    "reference": "ChIJW1UNWEvxK4gRCpZa1y8a3FM",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "180 Northfield Drive West #4, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.43463819999999,
+        "lng": -80.4841842
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.43599813029149,
+          "lng": -80.48289646970849
+        },
+        "southwest": {
+          "lat": 43.4333001697085,
+          "lng": -80.48559443029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Milena's Pro Roofers",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 548,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108247301150892195071\">Milena&#39;s Pro Roofers</a>"
+        ],
+        "photo_reference": "AeeoHcIheSu0JXvt6k3mWxxynsJk56669HAobo9KgfOGB95f5Tf_f5n_K04n3EljRpId42skXURTA9XqdC5_7G2UVVFQ2ovsuYhzK1zSndkscEhMSu3QDkfLwPRi0JOemv3Ns2f8Lt8j1sa5TGPNuaD9Dk7T8yU30liQcObkAVp-gpQdSIjlZ5_n8olxKp_i4jNoRqiWGIN4vTpU5nMxZOHjJfcggP5TwdICrUoqazTbCwVWfFFulUK7smsvmPubnfZSKAx4xb2BwsVz6Ld4CP24ZLXvwKgAQNsGzzrh9nlBiB5uozwdXRsc4mReUWpn0lNkjHjXS6hAhPU",
+        "width": 960
+      }
+    ],
+    "place_id": "ChIJpf7srwr1K4gR9MYHajWbzPY",
+    "plus_code": {
+      "compound_code": "CGM8+V8 Kitchener, ON, Canada",
+      "global_code": "86MXCGM8+V8"
+    },
+    "rating": 4.9,
+    "reference": "ChIJpf7srwr1K4gR9MYHajWbzPY",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 50,
+    "vicinity": "343 Mill Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4412712,
+        "lng": -80.4756965
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4425406302915,
+          "lng": -80.4744022697085
+        },
+        "southwest": {
+          "lat": 43.4398426697085,
+          "lng": -80.47710023029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Budget Windows & Doors",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 706,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111821086625958367660\">Budget Windows &amp; Doors</a>"
+        ],
+        "photo_reference": "AeeoHcLIbo4uJAgvmvt6BWGgOnSqyGECF_f7__xlt1Xh-GanIxFkLLJOGMiQffDKShy2kln_XSrTBJ52u2EOHGl1kpaFlWM2NSvNUslE8x39K8INMT8wK7liiYXbbSiAhKtrPzaXx68pKbJCQLkX7NMc1iU6ifDj-ABjbmoBLt0XVVqPSaT2P2HpFW3zTaRxeFjbzcaMjuYKs5yW4Z8_3gxvMQGN6oYYpH0ASX9USlZvhcaVV6XvvbUDMdUq5suZvroNXjzyQ976lU_z3S1weAstIlYmtgbb_PXS919Nq3xa_2wlX246lYe5nYgvoDpEKSV1aDVGTgNZKOQ",
+        "width": 1430
+      }
+    ],
+    "place_id": "ChIJRWMumx71K4gRAJpRjkWfePY",
+    "plus_code": {
+      "compound_code": "CGRF+GP Kitchener, ON, Canada",
+      "global_code": "86MXCGRF+GP"
+    },
+    "rating": 4.2,
+    "reference": "ChIJRWMumx71K4gRAJpRjkWfePY",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "general_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 31,
+    "vicinity": "70 Borden Avenue South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4256807,
+        "lng": -80.5367917
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4271279302915,
+          "lng": -80.53548361970849
+        },
+        "southwest": {
+          "lat": 43.42442996970851,
+          "lng": -80.5381815802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "NGR Roofing Solutions",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112693259793664303838\">NGR Roofing Solutions</a>"
+        ],
+        "photo_reference": "AeeoHcL0LlaRx9OW5ydk93SEaQ2pQWbD0mJypasEjkLZU7qo_zqC6pXjlkf0PzZT2PI1tDvXB4y87tdogTAKIb-8AmeNh9iuWfUG6xh4DnW4554ahZipVLKcyhjvkvSU6nfPnZviZk-VLJppSU-GeSt_oeYcQw46KlD4IwfYdPErtF7SXmyetIlT45D5Vp7tZxUeoigM2kDgs3oo_lcaGe-DTIHyUhz4H3rWa7P_fJUPG_g72gsqhUGDKrVQc_7Dy4_q32BPCB65q0bbCOz5ILeEt53k3Tqcb5SK0TDStpZZ7wYNwkVVNbnmlvovKo-1lkv7YIpsk-BSSwg",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ_yrjrhLAAkURqtjoYE1Q0xw",
+    "plus_code": {
+      "compound_code": "CFG7+77 Kitchener, ON, Canada",
+      "global_code": "86MXCFG7+77"
+    },
+    "rating": 4.9,
+    "reference": "ChIJ_yrjrhLAAkURqtjoYE1Q0xw",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 44,
+    "vicinity": "145 Blackwell Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46719419999999,
+        "lng": -80.4648126
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4685672302915,
+          "lng": -80.4632659697085
+        },
+        "southwest": {
+          "lat": 43.4658692697085,
+          "lng": -80.46596393029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Black and White Commercial Roofing",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112328659603897327444\">Black and White Commercial Roofing</a>"
+        ],
+        "photo_reference": "AeeoHcIyk1dCZaZnZISpxpAFQv9IuvzUX8YlmySh7UqhGxnfjJBTboSQNJ0bUoQz6jjmLLQndubufPD5j0aRrJbvymH_Je5J2O1yjsAwNioqqAtIPltNMVLCpUKHKpGIPoITDPTtDKYj2kBIsnEqKJLym9-m1R7WV2jJs_T09vYSqGkMKtZf52_rYDymmzzlZWIr8EAQd2-L8tB8JDTca3bgU7XMt5UWK8QoVzWKwzsyjhYfDWauKBgxM27WzylbcjwO3cNYjCiGVw0BWNUC4OLkcrDuarGlDn3D5H98O3syCeTNg73Cke5TNfiA1YIhPFxtDcWZIRZn8Zw",
+        "width": 2592
+      }
+    ],
+    "place_id": "ChIJHxnnZqj0K4gRMswRQbkdl6k",
+    "plus_code": {
+      "compound_code": "FG8P+V3 Kitchener, ON, Canada",
+      "global_code": "86MXFG8P+V3"
+    },
+    "rating": 3.5,
+    "reference": "ChIJHxnnZqj0K4gRMswRQbkdl6k",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 17,
+    "vicinity": "61 Shirley Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4372793,
+        "lng": -80.5647118
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.43870623029149,
+          "lng": -80.56310541970849
+        },
+        "southwest": {
+          "lat": 43.43600826970849,
+          "lng": -80.5658033802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Pro Desk at Rona+",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 597,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116287867324579129118\">Pro Desk at Rona+</a>"
+        ],
+        "photo_reference": "AeeoHcI8TetrIjIPhz5L0sRTwXO5iHbPCGcn8AEhv2M9A5TP2mUlKy5vnPCtBRpGSdIsaKwIyH3VryNRqCaNq6HQ5Hi81ThFpVavIUoqxK2gyvnOJjBnD4ag-KgMP2mOM6EUSNmVQOz91mKe0pPE4VBi3BCDAIrKBIous4Qw1nYCivEcazTrLPyB6WWdA6ckx32UVU5gCdf1umquXeJdX_qGZgPNyEAMjaRsS8345RoR49M0i04Lt-eo0PiMs5KvPjJ4GklnEPGW-WWtAYXGSgue3FSEp4rVaTtJ03fhX5Ms5iMQMxsaOugNHH-SMFpeig-4SQ_kIgSA78Y",
+        "width": 597
+      }
+    ],
+    "place_id": "ChIJw7YFbS_3K4gRuz2_VQAARoI",
+    "plus_code": {
+      "compound_code": "CCPP+W4 Waterloo, ON, Canada",
+      "global_code": "86MXCCPP+W4"
+    },
+    "rating": 3,
+    "reference": "ChIJw7YFbS_3K4gRuz2_VQAARoI",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "plumber",
+      "general_contractor",
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "345 The Boardwalk, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4989019,
+        "lng": -80.485861
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.50034033029149,
+          "lng": -80.4845016697085
+        },
+        "southwest": {
+          "lat": 43.49764236970849,
+          "lng": -80.4871996302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Louis-Z Contracting Inc.",
+    "place_id": "ChIJ9fMN5NDzK4gRZ6aAfrGf_EI",
+    "plus_code": {
+      "compound_code": "FGX7+HM Waterloo, ON, Canada",
+      "global_code": "86MXFGX7+HM"
+    },
+    "rating": 3.7,
+    "reference": "ChIJ9fMN5NDzK4gRZ6aAfrGf_EI",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6,
+    "vicinity": "375 Woolwich Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4222283,
+        "lng": -80.5092784
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4234813302915,
+          "lng": -80.50786476970852
+        },
+        "southwest": {
+          "lat": 43.4207833697085,
+          "lng": -80.51056273029153
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Williamson Jones Contracting",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJvQUn3aT1K4gRZYv9AbXoqFc",
+    "plus_code": {
+      "compound_code": "CFCR+V7 Kitchener, ON, Canada",
+      "global_code": "86MXCFCR+V7"
+    },
+    "rating": 5,
+    "reference": "ChIJvQUn3aT1K4gRZYv9AbXoqFc",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "167 Sweetbriar Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.43107390000001,
+        "lng": -80.48048059999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4323439302915,
+          "lng": -80.4790106697085
+        },
+        "southwest": {
+          "lat": 43.42964596970851,
+          "lng": -80.48170863029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Procraft contracting",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 375,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116978968069662005495\">Procraft contracting</a>"
+        ],
+        "photo_reference": "AeeoHcKzLZg6iN8Id9Wgiqzh3cx_aREnHKBAmID2kfjXVE8268oonytPF0y55Mas4U4-71FGt-S2sNCageYhwxWoNzcE0jsXQmOuEuF602cys5EVFsRWYH-iK6ddeC5quTOYNW-TxDNgWeJTx48SWAFW_Q87UoZ1rszIw5YK0XD_DZY25HGivS1AZWj9z4szDAdAj3bJ6qVJ_YrWsXMoxOHyvzE0Dwa5ZSqDsWhgBKbJB6dFabN80tnM6jHGmGFqdT2W7ygL12xesAvFaLDdIU24p9JjDj0YOw4EAPXyDyF8km0mZEg5yMpQHomD4PIECz5OOByqxYhEVUo",
+        "width": 564
+      }
+    ],
+    "place_id": "ChIJhQIjMdp2BCgRHuSPI6t3VcY",
+    "plus_code": {
+      "compound_code": "CGJ9+CR Kitchener, ON, Canada",
+      "global_code": "86MXCGJ9+CR"
+    },
+    "rating": 5,
+    "reference": "ChIJhQIjMdp2BCgRHuSPI6t3VcY",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "general_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6,
+    "vicinity": "452 Ottawa Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.48105959999999,
+        "lng": -80.4615981
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.48227818029149,
+          "lng": -80.46016106970849
+        },
+        "southwest": {
+          "lat": 43.4795802197085,
+          "lng": -80.4628590302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Paul Harrison Construction Ltd",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111451143489593922397\">Brock Parker</a>"
+        ],
+        "photo_reference": "AeeoHcJH5_SaQecaV3GvivK4G62sEAImi6_I9eYZDYBeYrK6cTQv8tkFvA7Q1SMMmqVvbYO-rJXltl1sr9y_DAO_qK8P-nEGyQE-oZlnrwmNLnCMcMm-SUUsM_gEtFuyrHRadTnLWauYzps44jGfmSFas9ipb-pfr3Fa1WgcY5lIoKktoQdWqjTDFSQ9CtJn65kCKvJUwCMfaArtmTpdiglGYKpk_hS_F8U5Z0ZblPHHjco2fCmTqjarpzvESncUiIijv89WojqQ4Jhev976WLJmVXDKfLSdKsCjLZ3h3lDmskptUBy_3PsnoER7mKyWJBSnyf7V2QObzF2XsGYhAhhLuoH8gzvTf7DtW9ECmO9_yQVuYfFHHUYsuXdfuZvTPqvA1ufDsgM8--AzswUFFqHiLtrLi6Ut6CuWVtwu2UZEa5xc1Y8I14qQ-eZTKeyH-fbrXmiNyEdIj8_9TmkzFcvd4plnpXlszfomMkRpPR3t73-r3F8SfSVZQJcIBy0HX778loh2rxBp93COOAAsBDQ9KdIWbWxVfEIaUpn1OVGw2Y84E2q27y6uc8b4ymugFmrhB86jEbA4djg37BVth6QAOXp8e-Ib3DfJs8G4iHjvIu3lMMz-SuGCLNZCFfceFe2sdbRjjfvj",
+        "width": 1152
+      }
+    ],
+    "place_id": "ChIJYXn0mqKMK4gRhNIV6SoEExE",
+    "plus_code": {
+      "compound_code": "FGJQ+C9 Kitchener, ON, Canada",
+      "global_code": "86MXFGJQ+C9"
+    },
+    "rating": 4.1,
+    "reference": "ChIJYXn0mqKMK4gRhNIV6SoEExE",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 32,
+    "vicinity": "111 Hollinger Crescent Unit 2, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4255539,
+        "lng": -80.48553570000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4267266802915,
+          "lng": -80.48427741970852
+        },
+        "southwest": {
+          "lat": 43.4240287197085,
+          "lng": -80.48697538029153
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Pro Desk at Rona+",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 597,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106662416325768717525\">Pro Desk at Rona+</a>"
+        ],
+        "photo_reference": "AeeoHcIXI1Fh4zL5wrN5e2JKJZmTlytkVCCe-RBbWuqEff4rY9hw4QBLYjxMxZbcwXcnsv5VzVh9yAVlyFSsRL7nryeu_7xmmIyvn6TXNU2Oy0J8QftoJ6UZswVdffQejSYrlvrk63CK8iCUDK1d6cq7DSu_s1cJfttIXGTL2Foi0hWBx04-lF4D-ys178_iEf3IZ72Ub98RfxsCdC783Nv130jxDVmWapGC-UajxemQf4sh6NCNnPlh4XMR-1z74kELw6aYadT7wGWHApS9dZvmAZfreFTA6xtDrvdBxWLYMEF5U4RS8zHh-uPFF6iviWkfKmZACsslpNE",
+        "width": 597
+      }
+    ],
+    "place_id": "ChIJ2ZE7oOz1K4gR640OZ1iX8ic",
+    "plus_code": {
+      "compound_code": "CGG7+6Q Kitchener, ON, Canada",
+      "global_code": "86MXCGG7+6Q"
+    },
+    "reference": "ChIJ2ZE7oOz1K4gR640OZ1iX8ic",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "plumber",
+      "general_contractor",
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "vicinity": "730 Ottawa Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4305555,
+        "lng": -80.476365
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4318038802915,
+          "lng": -80.47512761970849
+        },
+        "southwest": {
+          "lat": 43.4291059197085,
+          "lng": -80.4778255802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Haines Group",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100830534100819468697\">The Haines Group</a>"
+        ],
+        "photo_reference": "AeeoHcKSuy7npFDYqt5XstR85ESIhGhVvttvG5DE1Br8RbRAScRysFc177FiGyhqNfIW-mBnSXpqQXKnv_tkTSOHWzK0ziTBGv1kV8PzKm_FPWUGK1tZqMKh9Zzz6lsHJddMwMxVi8qlnRvhSbk01b5BjXqCBPbtU4ssjQKxQSj3TEnOxS-O5yLDMOqJd7-p-okmeeDQXqljh4Hw-2MlHDqgqTtjsRLENE9fqGa3H5L6S_Gqi5fdbMCl77PhqTB6mS80oMCYJGmB6gy4UDX2-Xgh6mLGNilbI3FZvWBGU0Y6JNyIUU3z-ZrHTwrUX3oUlFaw1UYmDEwSrFw",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJXXbiciP1K4gRht8uk0Ww1Cs",
+    "plus_code": {
+      "compound_code": "CGJF+6F Kitchener, ON, Canada",
+      "global_code": "86MXCGJF+6F"
+    },
+    "reference": "ChIJXXbiciP1K4gRht8uk0Ww1Cs",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "3 Hoffman Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.51257999999999,
+        "lng": -80.52633
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.51404858029149,
+          "lng": -80.5250684697085
+        },
+        "southwest": {
+          "lat": 43.51135061970849,
+          "lng": -80.5277664302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Garcia Roofing Ltd.",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106533011165286926944\">Garcia Roofing Ltd.</a>"
+        ],
+        "photo_reference": "AeeoHcLPJtutlM45rjvhoFM0w3UGEC7BW49qN-j1BgYpnV7g3YZmfNrVFJcczDisLDk0aJ4X-rHcM8TLRHrptGmrczUpUaQ3aYblAf1YH5NzTsuSfnet555fgvuwpzSsjwBpLrx2vIqqAcZPlnJr0dRU01BFwp8TxpJQYCyjQSIeeLphqly8MFn-YIM2dBoTvhVXUYUEkkARhmsZwQhpxaGpIaKY2SkHtsqEpeMXAdI1h7_-xiGylaLiUrn6nvo8irjC3xcctd-1lKeXDwSvF_YB7F4WAXOHbaIl20BauffHyh7Gimqj4lRVJj9uIzRUu6UyZldMUfey",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJmXG_6pL3K4gRx-5_ZgaxfII",
+    "plus_code": {
+      "compound_code": "GF7F+2F Waterloo, ON, Canada",
+      "global_code": "86MXGF7F+2F"
+    },
+    "rating": 4.6,
+    "reference": "ChIJmXG_6pL3K4gRx-5_ZgaxfII",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 22,
+    "vicinity": "225 Bathurst Drive D, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5117292,
+        "lng": -80.5343745
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5128826302915,
+          "lng": -80.5329870197085
+        },
+        "southwest": {
+          "lat": 43.5101846697085,
+          "lng": -80.5356849802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Reuter Roofing",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 612,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117588832614387492909\">Reuter Roofing</a>"
+        ],
+        "photo_reference": "AeeoHcIHSfpA9rbFNIYD5MDYC5wkwvGEXGx-kBjVkH77pGIncQPW9f2ASyzB-pdENCK4Hjh-wwQ66A4qm5veg8qekQorfMZX3Pa2Q4rubAMPEzPhXbTgDXFGN3Ifhw-18lTqFnOu612PMDddtA3PPTaAHNkwnrvncU2MGWo-QOT27koLLOTE1AEMSFDRMbswAMC2BLOEXRyODKN5bBcNjuwjQwYokIZIo1P_NhfV4RhXYI-bEDCqOaWcIk_QF96vXqdwWPbp0-0Pa7nABJ8qZRp3RykZ-xSOUA3D8kVRGJ_m-dLsgYyIcI7wGMoAlJysTojVelnoLYJHb00",
+        "width": 612
+      }
+    ],
+    "place_id": "ChIJGV1PxKrzK4gRGuTficoWc-I",
+    "plus_code": {
+      "compound_code": "GF68+M7 Waterloo, ON, Canada",
+      "global_code": "86MXGF68+M7"
+    },
+    "rating": 4.2,
+    "reference": "ChIJGV1PxKrzK4gRGuTficoWc-I",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 60,
+    "vicinity": "90 Rankin Street Unit 11, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.41961149999999,
+        "lng": -80.4849839
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4208970802915,
+          "lng": -80.4837280197085
+        },
+        "southwest": {
+          "lat": 43.4181991197085,
+          "lng": -80.4864259802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Living My Dream Roofing",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 753,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106201962233899387039\">Living My Dream Roofing</a>"
+        ],
+        "photo_reference": "AeeoHcI9JgjCh2OXFXCM8E_pCilV7f3UnkRWWOXlyI5rVCUe80A-5JNH4X13ZXblQ1eeSu9z2yKxeUqkuKBnZdI7Ago_3BC8mMj7ifj81RQlEmIZybw0CwGJ2uI8eBJm8wyPkAwrHOKrmrrNPnsNfh5QHfnBAGWjRpdDwfKHxmbIT7xh5VjWth72YT7GwPiqVHLgzIRtHDi7IR-AUrPZLqRjB6nKt-BJ8GfP0So6hhwNbJhhxU8JVkP8A4uPBmeOElnLaon3__zgKQ6XF6p3oiqf81wo81MGMyMyMtHPpaLhsNrD5GvW6H7oWBds52uP5shpNC8XEsO2",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJTTq5X1r1K4gR9spOmOIKj4k",
+    "plus_code": {
+      "compound_code": "CG98+R2 Kitchener, ON, Canada",
+      "global_code": "86MXCG98+R2"
+    },
+    "rating": 4.6,
+    "reference": "ChIJTTq5X1r1K4gR9spOmOIKj4k",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 21,
+    "vicinity": "77 Barwood Crescent, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4143746,
+        "lng": -80.489978
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.41563353029149,
+          "lng": -80.4887146697085
+        },
+        "southwest": {
+          "lat": 43.41293556970849,
+          "lng": -80.4914126302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Mara Roofing and Exteriors Inc",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116956187431444367513\">Mara Roofing and Exteriors Inc</a>"
+        ],
+        "photo_reference": "AeeoHcLuhbC3h74vw9wLaN9xtB0BUSzmF6rjxaeH8XxQaIdbZcpU4RAEPDTLmcEGSBjFlEjxI-hO3SEECVdVshSq2ppxHxIYAymkyiOpehkQbFZggs-kNsZZYkjfoEdlUUgx90sq821xNGnlN1DY9caQuzO8fHyHeziMymcGAxeDTPIX0iMjfQRWLlfDFQZraX1QS2R9Nxe-zWjDOBMGq3YyLa1pORAiHVfsc5UlN6jngRrW4iqXACY8QmbKOJQDaphmRHhcAmTRsyDY7u_zYi3DSdwdYMEXBzu4iBQptMlHh-nIWUJu3eud2PWGMzwadZAzDONsiC6Uf84",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ1-9UMQ31K4gRa6MLMB3jjmI",
+    "plus_code": {
+      "compound_code": "CG76+P2 Kitchener, ON, Canada",
+      "global_code": "86MXCG76+P2"
+    },
+    "rating": 4.8,
+    "reference": "ChIJ1-9UMQ31K4gRa6MLMB3jjmI",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "general_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 49,
+    "vicinity": "88 Briar Knoll Drive, Kitchener"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 43.4097346,
+        "lng": -80.5121291
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4109951802915,
+          "lng": -80.5107510197085
+        },
+        "southwest": {
+          "lat": 43.4082972197085,
+          "lng": -80.5134489802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Cordner Brothers roofing a gutter services",
+    "permanently_closed": true,
+    "photos": [
+      {
+        "height": 4624,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111571714780044311243\">Cordner Brothers roofing a gutter services</a>"
+        ],
+        "photo_reference": "AeeoHcL9uRGU6IZSQKkCXRNK90X7_KEkdzsCS1niRQteRxYNuzagCEemJ9aoTJl0HviRYrmN9bDbp-G30TexjW5kPfavTB8G6oUgizU1FxPL1b5KJ8uJfg20Cb059Kng62EZ0eSjrHTyIURyultJ7FmPoYFzC-OMwHM7seUXuC7jFwX5KXvccYmddmIO6WD1oQ7IDWtl01lTFabM9uON1gjcJ3YwLRaC6NM0BYeQpciw9CaDaNINM0UoABWdMvm7wiLMdhzpOHOQ87POBWZkCLVZDu9gLGuUuju1z3BKKu5CpyW1tdi90E8CogNUVVdvXxMX0KzTTpO4sqU",
+        "width": 3468
+      }
+    ],
+    "place_id": "ChIJ9d4QUAT1K4gRkh-Xk3xZqic",
+    "plus_code": {
+      "compound_code": "CF5Q+V4 Kitchener, ON, Canada",
+      "global_code": "86MXCF5Q+V4"
+    },
+    "rating": 2,
+    "reference": "ChIJ9d4QUAT1K4gRkh-Xk3xZqic",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "70 pine Martin crescent, 70 pine Martin cre, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.41917959999999,
+        "lng": -80.57148970000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4203332802915,
+          "lng": -80.57008196970851
+        },
+        "southwest": {
+          "lat": 43.4176353197085,
+          "lng": -80.57277993029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Apply Contracting Ltd",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113894094243794497936\">Apply Contracting Ltd</a>"
+        ],
+        "photo_reference": "AeeoHcKWXLQ8sUws_P3eVwaX8Lx8mgurP8xwYynMEPvAa3hedyWBumeySpzvPrAx2CU7WQVl1RlratqUYAs9ED1TLnP414WwX8NkWbW7NqEg0R8WgRB6YddH9lK5BTmv1A8A8Oqz1YBcXZNbL_mjc9ZnJtdVyEqFYTAqbryfWxQgOvMIYNcNRh3CkHOfaVQYUaeNSoFmG244pLNUO9v85Ul4FtDZS6VqWoDfBUayqwyJ3udxDhz4B4M1xbGZeqT3IA1D3Z7KuGg2HWkwPjZp0VjVKdHeMBVgO3oL42kjLfBZLyUHuj4L-1eKObFR_eL_RYGHLBmMjwDsCwA",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJVVUFMz_2K4gRFv_mIOrwqeM",
+    "plus_code": {
+      "compound_code": "CC9H+MC Petersburg, ON, Canada",
+      "global_code": "86MXCC9H+MC"
+    },
+    "rating": 3,
+    "reference": "ChIJVVUFMz_2K4gRFv_mIOrwqeM",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "general_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "2222 Snyder's Road East Unit#1, Petersburg"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46934590000001,
+        "lng": -80.6011855
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47075968029151,
+          "lng": -80.59972211970849
+        },
+        "southwest": {
+          "lat": 43.46806171970851,
+          "lng": -80.6024200802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "William's United Roofing",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1312,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101985394015318274505\">Cheng Xu</a>"
+        ],
+        "photo_reference": "AeeoHcKJPUZkLYaTq8Pag9Jn1q5J4yCNxu62JerqhTVQ_k64RiZVdony0kUQJzw-dwXPzJ31SdczcyofVhkTe-KSXrKdXNSKczplK8cBybT7JfUZp47brfkMCe5hpfL06igLiSOGSDFXQhaYpYo2iayODGxBQ_7ReslqB7ZGCoCqgRhi0HVsAQKiStCAJNlhu6CxQTaqSsE4mC0MhlUyUZcrxp9_2KNof0_lGyjZ3Gn2S9qCw8DmDmbXfN4AnVu_gj5Pdf2LZXvZE_lhVDs9pFp_Is09G86ONPjocM_WDwlZ1OtAY1YGcx4fQ_fQDfzYfg2sJsSsYgrUmy_xAtLvXMDXzshezLnMSvlObwGfcBcYHhQxZNJtiwTFQSqhodKQfGcna0nZHVztP3x68uodsLZbAI-lQELjEDUcgLr94wYzR0xo9mvzLgsmKCtQBXJCVXA4rHaGOAAlRxmKqdvH7RwyQP08h0e5K2bVMZiwxL5KG9irgHDuGbltwxckYKsGXbdSGpxCQ3kjt3OvRk2P8b7E06MW8qasuQQD6nkxlkqsoRFBBq7mjKevaENFZTAKx73sVd3wri6AObfpALdAfZEfTJNpiz5vH9cQiozty-kWCl9yEc2jh7tmDi6q7hoZtExGnYamRabw",
+        "width": 996
+      }
+    ],
+    "place_id": "ChIJ57El7zr3K4gRJKj8NZ6yMFo",
+    "plus_code": {
+      "compound_code": "F99X+PG Waterloo, ON, Canada",
+      "global_code": "86MXF99X+PG"
+    },
+    "rating": 5,
+    "reference": "ChIJ57El7zr3K4gRJKj8NZ6yMFo",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 54,
+    "vicinity": "385 Red Osier Road, Waterloo"
+  }
+]

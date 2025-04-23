@@ -1,0 +1,89 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4638776,
+        "lng": -80.5251785
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46541868029151,
+          "lng": -80.52415676970848
+        },
+        "southwest": {
+          "lat": 43.46272071970851,
+          "lng": -80.52685473029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Tangam Systems",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110693643074958763358\">Tangam Systems</a>"
+        ],
+        "photo_reference": "AeeoHcI98VGpAicC9A-c5BTsaJTm4U5sx-z32a1bqgsjibrU9QIWYZcuninF82dW65Q4ksLEH0xGdPcNpcW6k6A22rNSuTUJq-hF7qf3yhrR6G8-lw2qMlDhYhNPzhLqq_x_E8zbsN0fFCeIezgw6kTZdnR4zWTjQZJDiEvqysBH4D_F3De2HDk8KqJcJ31jPphOWuaAQd2zaDpGMVQdOk_bhU3SqriMh_CAm8iYOstRB2P2YYAi-PEZr9a_NZSwbs3sNMcJ4yaL_DRhZCTTcVIhBvVFfbYhLaBqVgjmhQWfyvG9vXCSS0FgEHtc0YWNscnlZTmis4NdNnQ",
+        "width": 3000
+      }
+    ],
+    "place_id": "ChIJdfHwtIzzK4gRgJOSJIWGRps",
+    "plus_code": {
+      "compound_code": "FF7F+HW Waterloo, ON, Canada",
+      "global_code": "86MXFF7F+HW"
+    },
+    "rating": 4.3,
+    "reference": "ChIJdfHwtIzzK4gRgJOSJIWGRps",
+    "scope": "GOOGLE",
+    "types": [
+      "casino",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 16,
+    "vicinity": "57 Erb Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4534005,
+        "lng": -80.5534804
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4547851802915,
+          "lng": -80.55235541970849
+        },
+        "southwest": {
+          "lat": 43.4520872197085,
+          "lng": -80.5550533802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Online Bingo Canada",
+    "place_id": "ChIJq6rqkpn2K4gR85yB-XpU5qY",
+    "plus_code": {
+      "compound_code": "FC3W+9J Waterloo, ON, Canada",
+      "global_code": "86MXFC3W+9J"
+    },
+    "reference": "ChIJq6rqkpn2K4gR85yB-XpU5qY",
+    "scope": "GOOGLE",
+    "types": [
+      "casino",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "420 Erb Street West #5, Waterloo"
+  }
+]

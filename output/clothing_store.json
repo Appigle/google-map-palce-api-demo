@@ -1,0 +1,3121 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4187509,
+        "lng": -80.44885049999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4201415302915,
+          "lng": -80.44759026970848
+        },
+        "southwest": {
+          "lat": 43.4174435697085,
+          "lng": -80.4502882302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Marshalls & HomeSense",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2427,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112482415753734225075\">Chung Hsien Lee (Jason)</a>"
+        ],
+        "photo_reference": "AeeoHcJPZndOJHrMMO0C16Iup6Ub-5Fq0h-R1Q9Ii1890wsakLvXCOH0ChCURetPEaQUznMLreRuXuk9io5twdNuTLlCcznK6RrXkPrFeaghs3vmp7lG5uLyjqIXl2rMiM8HaCBF1ZNDdt9kA0pXf33COA4zQJVhc62gPpYR0wPbxV_JXemGxyZiOUwDb4n1ngzFk-D7b6KXwGjGF2oE2XolGij5__B567728dJDjcO63GEj1HcPYAEX1tKOfaNvrMtBvC_XTDxvKqvkguN7IdQNquA_WTO3-N9axT-Iq8R1GlPKcMOjcaJFqka26Cyd5hbwXUgTE6y5ZE6TuM86eepDd-Kqo5ubYeR9JXqno6VxEyzTvbQMw_o-DMQhAyajp2Madgsp2a0yDRpJABK2KNd-4ncANx9YiZKIQWB_yWcEicn4QpwhYOA3qbu95XH1csqvZZYaqCr4HmZoCeVet-W3Kwh3waABjW8s3wgM2sEIfZWjTR0XRtcpf9DHhzUUx7FDJzLyKqnVuyNhz266WF0b0zcsTuuqZx4zVo1_HJ67fazoWRhdyCo4ux82HpoCStcNNtR-iG50mZAGN48GynnWMtgAwh3HHD-rNxKRhskkX3Jf6OrMTxd0SosLmVaPNooIVf9SuQ",
+        "width": 3436
+      }
+    ],
+    "place_id": "ChIJgwclnM2KK4gRpi9FO8lKmBo",
+    "plus_code": {
+      "compound_code": "CH92+GF Kitchener, ON, Canada",
+      "global_code": "86MXCH92+GF"
+    },
+    "rating": 4.3,
+    "reference": "ChIJgwclnM2KK4gRpi9FO8lKmBo",
+    "scope": "GOOGLE",
+    "types": [
+      "department_store",
+      "shoe_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1177,
+    "vicinity": "655 Fairway Road South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46535349999999,
+        "lng": -80.5226783
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4667207302915,
+          "lng": -80.52121001970849
+        },
+        "southwest": {
+          "lat": 43.4640227697085,
+          "lng": -80.5239079802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Stag Shop - Adult Sex Store",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103316456587920961953\">Stag Shop - Adult Sex Store</a>"
+        ],
+        "photo_reference": "AeeoHcIdwvGg7nsfVzEvsSqF4OUDQpqTu20AFZWjiC-8n1xlJ3Ccih04_SDpO_z6rqQlP0WqSom4fybZAoP_hm6-CEAYiD_E-4G0aklfGag7QDIOP3fP1g126QbOarcDqSuSV4YZI4Ra6L7r3-Sj-N3HsMvtCsgLxNCVEXpJS4Sao9HECi7GkJOm9nAGsRmR2wfoLWcNEjiJik2tfsJHy4wJ54lKKQyZPwcwq-muIwQkU4DLhkbZxC2zyDbD62dB_p_eiy8JQcQJdgoFCTbj6ZtlPVdhfraq59niaNT8kjU3DkIThZ-nCVy6A3ksE0vpJzL0-Flnff2PKMY",
+        "width": 667
+      }
+    ],
+    "place_id": "ChIJlUAiRA30K4gRsmV9NthTWnM",
+    "plus_code": {
+      "compound_code": "FF8G+4W Waterloo, ON, Canada",
+      "global_code": "86MXFF8G+4W"
+    },
+    "rating": 4.9,
+    "reference": "ChIJlUAiRA30K4gRsmV9NthTWnM",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 360,
+    "vicinity": "7 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44408000000001,
+        "lng": -80.46925139999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4453903802915,
+          "lng": -80.4679025197085
+        },
+        "southwest": {
+          "lat": 43.4426924197085,
+          "lng": -80.47060048029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Value Village",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3264,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112884209244038256767\">mohammad and nawras</a>"
+        ],
+        "photo_reference": "AeeoHcKpuRl6OHkJjIkIWZ5RDoF5FDab6-pz8lPuN00obe-DT6hfbV20RXZT4RbvCk9qqeRgEqPr1U1e51pWhTijz7GV9kvEk5vos-Cuf3F4HuPmJHApG2okSTWWexonJxFxIwlivzFmQ4Q_gJSlfYkIbRaVUYc8piNBP7-bwW6Jp7Ek7jO3uEJIJFs3wJ4763sPhzusUFJuMCfBHmvE42XCU9peOv96ZUuA9yE-zvYItQx5pBa2klEd6AUI8bGBM9idBtSjsbasTiBGy8_QoCUMriZu5tH2fjxJXfB2sihGl26BmsoGGzbJoU60uqAcfnh0U7hqMZ5s71caJRiV9i8-ZknaaG8B7oQyXp20d69_gEvs3qA5zb_iGamPvvw1aPDp2rXBT8WzjAxPFnHiRJZCKgNzXThgzPFQ_JObBessecdx2imFkZmbG7MSxmzNhFShpua382ITByYb-3_mRSaWoOSwWL7-d4-kQNHXr4UqNls5LfvwgFLi5M-JuaxLhS7HUSlUtOmDhe0zhfl6STKnoX8RpZBxaNt7g0jfxoYmfTpXW8KXRBmWZWt0YRA8RK6uxfsTAhk9xdUoeQSGK8VCnuRO0xD4EBl4D5QJhBSPQwCJr8Jup3AmdostA23pG9kg",
+        "width": 2448
+      }
+    ],
+    "place_id": "ChIJW3lvVcT0K4gRzZXAEdHS4Bw",
+    "plus_code": {
+      "compound_code": "CGVJ+J7 Kitchener, ON, Canada",
+      "global_code": "86MXCGVJ+J7"
+    },
+    "price_level": 1,
+    "rating": 3.8,
+    "reference": "ChIJW3lvVcT0K4gRzZXAEdHS4Bw",
+    "scope": "GOOGLE",
+    "types": [
+      "book_store",
+      "furniture_store",
+      "home_goods_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2125,
+    "vicinity": "120 Ottawa Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.425524,
+        "lng": -80.43790140000002
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.42672093029149,
+          "lng": -80.4370345697085
+        },
+        "southwest": {
+          "lat": 43.4240229697085,
+          "lng": -80.43973253029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Walmart",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109212626794179187661\">Ha Pham</a>"
+        ],
+        "photo_reference": "AeeoHcJpjaMgMAab5xVHtO2N_Szc5HByBWH-jxQlV4f_SSrq1H9ufvehhRmQoQY6ji77tkvr9tz7Bbcbxrp-LuZr_xPQ8Xjv2Ur9J6mwOjW9pV0s5zFfqcuupFnk1PT9POK2zjJVOIgygDcmAMy4QZpfBwuoNC5ANEkRbbOBtWy4-Tc53k_LyS7_NOHP3f4zSNwE3eTOXDMaE-xTaMQZe1lt4rHR6zNMhR3gRz9MHmk39MQkWvDF37xvYgbSIzAeynPZgsFW5LosMtNMMiwrBIFfno0pGz4LEDkLSWWFyJciE3gVBFO5PzypjfUJ4QemdR09ru1cVcu500s0n8GbWNqAPij9SXnXWRqt0yGrWwunYqSDH3vV7v0HkGlWx_MEE-DPIhdhqwTUksNJvbOuA_5LHL1Ah7cf6CZ064vrkHq6i_h2l6lTkBOHoWKHrP4hYbrSLM9QIX5sy6vjnzUk-ctMoHn5FlP2Z0FaZAtg5huovBJ4P_be1yiRKzg9PqYETcRT2MblV1FTZqWVSZ2Ylc6OR-tWnAVOaHPdC3guAuOD95soY0q1-xtWFBmSbjgaEw6JoR8aeJq5JBZxVKlObRPDdfrtRtPQxOjiK_mIoGmfcNZvaqLVyM1UeuwlS6j9u33AKOu_4g",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJq6qqmnfW1IkRZSIUh1tEU_Q",
+    "plus_code": {
+      "compound_code": "CHG6+6R Kitchener, ON, Canada",
+      "global_code": "86MXCHG6+6R"
+    },
+    "price_level": 1,
+    "rating": 3.6,
+    "reference": "ChIJq6qqmnfW1IkRZSIUh1tEU_Q",
+    "scope": "GOOGLE",
+    "types": [
+      "department_store",
+      "electronics_store",
+      "supermarket",
+      "grocery_or_supermarket",
+      "furniture_store",
+      "home_goods_store",
+      "food",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2882,
+    "vicinity": "2960 Kingsway Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44693059999999,
+        "lng": -80.4821833
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44823633029149,
+          "lng": -80.4807448697085
+        },
+        "southwest": {
+          "lat": 43.44553836970849,
+          "lng": -80.48344283029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Biba Boutique",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2692,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108324163100588676835\">George Mastrapa</a>"
+        ],
+        "photo_reference": "AeeoHcILh0OSj2uNSEckYQyjeTYXCkZbxmhLJI_Yz3lotE9VdJbry74H675z6yxecKThWWz18NuJxhkKAB-O8hr4uIX9zVr0vNZiSolv5-XHy-ac5QvfbLzCdOawy6J2dZl-J4PX1Yc03ks0P44-DUTRiFTXPGW_ApfZt00LJuRp3bk84S05IPjwUlpgdTg5eTkvobYmXGyoIUQ95Liy1lMwB6lD2-DRnaYKSUt-xcrO1rRe1zMeMQsT59p3JQxcK6dULtcoAwcIVB6HhGwzqWFqOMDd4DdtmgGzwYQz6s--DjDDtCpVYJK5HsOG11RV3liU_DzTZvGx9Kb1c_s0O5biWjomJaitismYmMkhTohZdEWRPgkWRzP3cmsRrNinq6RaAC74lL4135rVHjoL3tjO3PgghW5_YVSkaOF22dV_CDxoDJc-34G8XbS2teJrm9Xy_NZKMuakMJY9dhttI6ovOOmI9nrs3bEGQuXUsxPbSuqtiG3p0seEUG1jgnrxXSkHsE95MKhJydNR4BLCqt7lnWLByXOizy8JcNtyHZRvV3GeqWQpKivHZEGwFKZrPbEZtjHJnReetK_FcCgIJL8CA0ECerXjdIoC5BIT0P2ZfIZhqfqe_8X8aq_THS-8gq-3",
+        "width": 4038
+      }
+    ],
+    "place_id": "ChIJISwa_ev0K4gRA9Q-7phUqxA",
+    "plus_code": {
+      "compound_code": "CGW9+Q4 Kitchener, ON, Canada",
+      "global_code": "86MXCGW9+Q4"
+    },
+    "rating": 4.4,
+    "reference": "ChIJISwa_ev0K4gRA9Q-7phUqxA",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 24,
+    "vicinity": "426 King Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.416022,
+        "lng": -80.5190083
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4170845302915,
+          "lng": -80.51779851970849
+        },
+        "southwest": {
+          "lat": 43.4143865697085,
+          "lng": -80.5204964802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Walmart Supercentre",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112482415753734225075\">Chung Hsien Lee (Jason)</a>"
+        ],
+        "photo_reference": "AeeoHcIDBhFz2PJCOjUU-BqJLAirMSlV2724V0LTAsIlHimze66zMxo4rfcwQ8CfauYXG3ZA-TgFvvia0Y2CQiu4TPPVv2ixbcm7mSDJIjINKpQuJkBG98z_nOYacXaQH9ODoMa5j4Z2NU8_0QrfgVZcMmEOSgTtbcDMoTOm28buZvC7ow_Ok_q9IsPFBfisf4fSVN6HIS4ur-yB7E8zO9izaRsaVjOL9nxKsSPe2Xjx1Mj4U7wNQqr4jjGCqgurn0JJAbp7RM-uvnlsNiV6Qv_Krsaz0RNFER34RCU1Gs6OYQ6P4qPjJ8qKYOnYAW_WaKFaCtex1WDZ3zG_0YI5cf9NWsVDoC151U1tZbhOLmTH0_8-fo5JUnlzH_Hs4tw_TlVDXxVHpiTUhvsVwaE5Ew2iR0e7LsbeAXNDHxyDMfT2lJKDNZyuPZM_1UD5-2RFYHUzEu77fO2Cdp_mXTk_6eeTAGhZelkzsGlZpjAs65ulA49WsCZBEeDXwO41_0CkhOEutRNAOnrfjgFMmGw8mekQmPwS4R7XVOl36JZOShLwKcCDYVirDj_Twtdd3Tx7eNJzppxDRMaWhfILgSuzb8gYgdQo7lCZXMqH3Z76uIxMbCqD17rvn8mekw4FBSB4eZMr",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJd_NXJr71K4gRS3CzmoRL1JU",
+    "plus_code": {
+      "compound_code": "CF8J+C9 Kitchener, ON, Canada",
+      "global_code": "86MXCF8J+C9"
+    },
+    "price_level": 1,
+    "rating": 3.7,
+    "reference": "ChIJd_NXJr71K4gRS3CzmoRL1JU",
+    "scope": "GOOGLE",
+    "types": [
+      "department_store",
+      "electronics_store",
+      "supermarket",
+      "grocery_or_supermarket",
+      "furniture_store",
+      "home_goods_store",
+      "food",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2686,
+    "vicinity": "1400 Ottawa Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4964422,
+        "lng": -80.5275083
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.49803693029149,
+          "lng": -80.52649131970848
+        },
+        "southwest": {
+          "lat": 43.4953389697085,
+          "lng": -80.5291892802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Hudson's Bay",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102013327316992119002\">praveen Kumar</a>"
+        ],
+        "photo_reference": "AeeoHcJCObbK5DOr8p4lO_oCra72o9IVsLVqZ9i1Z7WIdVlGT9HVcIppZiCCRfZ2-DVgGXEa5RgacpKvudTS11MGAa76Lbw90-XT_zhdv8KVlUglymNJydHm9LaDhl55GhZWiO1HurQnY04FLcjw_ZYSyVAazAZZ7Vl_CIS2wetNAO5e8Y7NXEa1coQZBxyiF4DqOSYP1Qoy286IbqZGtqQiMTb5LtHOF9dbwnIbXj308dDGQ3NqOI6951Uq6snrfOpVpQdkNN5S7dCi74mxIJxQl7wbyRUCrrpTdhnWtRf1cBru2el_ch4HKfNOFFSFsoHk40gvd_ACwNLOLMCvbSeRxBpsEW_AYRHAphwT9X5hP9n5QD0-HHLu8DeNhdEwFS6UfuakzLwzKNfzaY_psT1Bj6cX0k8KfMlnKeoKRb46izdHtH8NtwwLTbMQbbgXDkKbeDMlrmkuDLCFUzof3k2IzhSEAfjhTzv_A6ETHBQee8vH73a8u55E4bmdLl4R1dCU-WyEX8YOA2oEseXfisT7jl49jp5kj30dLzTwVGyus2HBVvBJpTZvZraA-Bplm24pmSL_ex1qCZRmo3249-QuLzUw1AHSQ4hg-371cF1cUUD6rsfqsLZlNoWumsd6bJ7oHPY90A",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJUSvqmcPzK4gRL1tREO_PucM",
+    "plus_code": {
+      "compound_code": "FFWC+HX Waterloo, ON, Canada",
+      "global_code": "86MXFFWC+HX"
+    },
+    "rating": 4.1,
+    "reference": "ChIJUSvqmcPzK4gRL1tREO_PucM",
+    "scope": "GOOGLE",
+    "types": [
+      "department_store",
+      "shoe_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1701,
+    "vicinity": "550 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4629767,
+        "lng": -80.5094912
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4643743802915,
+          "lng": -80.50838461970848
+        },
+        "southwest": {
+          "lat": 43.4616764197085,
+          "lng": -80.5110825802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Len's Mill Store",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113362545092663520608\">Len&#39;s Mill Store</a>"
+        ],
+        "photo_reference": "AeeoHcLSVG640ymuQP6C9LTBlUOeEFhd0Dg_mEp5x1KtNRhj1ALhBMDttbWe-JEHHUw21qzt1ZU7jXvyUdYGHfnL16DSrVJAIT-Po0sC1Cr33mjM67rO9yJtbwlaoOf1Qy2r66REnnIxS4NUtj24vqBgz4oB53pVZ6UXbjY5bu2jA1Nf5mRFOA3gWt5CsoYJws5Ce1w9BNNFp5D406WjZ2BFSojldis-a6smMVlmuhR1bwZMCsPZPwNgZ_2y2itdIpOV2ufVCMVWI4MZ-bjjEuYSlCeFLiDpvrbKKS70qGG_2QQVkrwMKQOaF5rj3AyHNmcjcF7FGiicjiQ",
+        "width": 561
+      }
+    ],
+    "place_id": "ChIJSb04-G_0K4gRHP3tc7UxPvc",
+    "plus_code": {
+      "compound_code": "FF7R+56 Waterloo, ON, Canada",
+      "global_code": "86MXFF7R+56"
+    },
+    "rating": 4.2,
+    "reference": "ChIJSb04-G_0K4gRHP3tc7UxPvc",
+    "scope": "GOOGLE",
+    "types": [
+      "home_goods_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1551,
+    "vicinity": "130 Moore Avenue South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4996081,
+        "lng": -80.52754209999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.50105183029149,
+          "lng": -80.52637516970849
+        },
+        "southwest": {
+          "lat": 43.4983538697085,
+          "lng": -80.52907313029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Sport Chek",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113664309233820834071\">Ron Dutton</a>"
+        ],
+        "photo_reference": "AeeoHcI7rZYIRsE6kU1UTqCMS_jrXEO_FWAW9vaPmRUUxM5LQ5Va8R0bcFCMViMP_Zc-fhOincPDBCeIhEO0Xt9NWNxyt9EaRDaBZgvj1ZRg9-h_qk2tRt5TPYqLzkGs_jRK7nc0iOBJ3pG6huvtwu5kemqywbGD4-EZl3gwCT4TQ1aNwpJOnVOpbiElR1CEeyrCchNWLSr01Mkqt4AEDcpaGkWMPlYbr4XfCTPJ3_n59X-slizLqhaC-FJgzgI2je62X_4VvYG1MtGelc7I0lMI5XEdpmWSk1CePqW-35QyjvoG4HoAk6qqTKM9RWCLy4uTcdVJDgw3kmq5ddD9SrQT970ceSEfqNeG8Xcn67hemaBrbRNrT-PZch__448E-R5sggqaSItHN770a5STx6Lx87jHxDW5qc_94XQ1z9DYSZhR4DrnH02cuQAIQ8wz_qCqiuAISji7xoX2R-vFFYkZl0HVEbqiM44SSMKbauRiH6L3xgG_qKNKBcqQebpFBJDQuNaOkyK8NamTJ4yL95yhyZ-KegCsts4FN719_If-bKh-5P4a8ogZFFpXepGgB6gWkv1frOi8fEOepcmh0w-TGDkIw-Wyvhvdp9vznPdnBuAYjhKrjLpgwtp9KimYHji0",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJn57J_sPzK4gRyWoXaqdvXRE",
+    "plus_code": {
+      "compound_code": "FFXC+RX Waterloo, ON, Canada",
+      "global_code": "86MXFFXC+RX"
+    },
+    "rating": 3.9,
+    "reference": "ChIJn57J_sPzK4gRyWoXaqdvXRE",
+    "scope": "GOOGLE",
+    "types": [
+      "bicycle_store",
+      "shoe_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 299,
+    "vicinity": "550 King Street North Unit N1, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4239041,
+        "lng": -80.43781249999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4249479802915,
+          "lng": -80.4369585197085
+        },
+        "southwest": {
+          "lat": 43.4222500197085,
+          "lng": -80.43965648029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Sport Chek",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105612268752145423343\">Vishal Shah</a>"
+        ],
+        "photo_reference": "AeeoHcIoXPPxme9bIZMH28J5tyt73-_gvsPhjkwc-ERhpDWb2CFPknbgWiIRVLIzZCLeP1al0UIyBv4rsIJqVB2aP0uroGzgOicZSRtBTuXyQGMh-0jR5VYNbRZ-TSXdXi86xvi7NN9Z_etaOZ694kw78MDq4D5_m6yySYZJOG2UT97JzNWVQns4kt9HZ7tbPmSLSEiPhPwoKKj09AoKQrkFYH44QnDrVuzUq9jvhXARIFwYuzKKtU_3ExaxiRTV8hyhITDpnxZqBWQeTN_S_wSO-HnaRwHSJmjg3FyOng3HSArsFrOVyghUQAjPZ5QY9lEAHgqLTExZCciAq9HQa_ih1MBOLKUpI9QOKfb012rmHLEjYnd0GMLC2CDShVjP2Cem2JClvTm3Qfh1Stj2WhXh0taRlz2xnpQ8B1bn6PUiOdhsCsT5EcDFdlXOw5xA_kq5F2aRpHdDrf8-aFToayZFpb8v6CSuA6K4H6YF6Iycg8nixUigDwsvsO2YFO87Skl-xOKz5vp2fI6fN9KynV5zZC7I2fHKYWinPUuhR8mQkBvVA8OXr-da7TgifIrmemw8hlea0ueYCVVCCwgmmWxzLBJ-P2Z9Z9Z_f_iovZNIzrj8LCy7Jjuy9AAcp7qh9mWOiXLxwA",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJgwclnM2KK4gRbSRnSnQilpo",
+    "plus_code": {
+      "compound_code": "CHF6+HV Kitchener, ON, Canada",
+      "global_code": "86MXCHF6+HV"
+    },
+    "rating": 4,
+    "reference": "ChIJgwclnM2KK4gRbSRnSnQilpo",
+    "scope": "GOOGLE",
+    "types": [
+      "bicycle_store",
+      "shoe_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 221,
+    "vicinity": "2960 Kingsway Drive Unit # Y006, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4200576,
+        "lng": -80.43903859999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4215380802915,
+          "lng": -80.4378590197085
+        },
+        "southwest": {
+          "lat": 43.4188401197085,
+          "lng": -80.44055698029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Party City",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115576482300302640346\">ron gole</a>"
+        ],
+        "photo_reference": "AeeoHcIzs2QHhxJH_XugjeNQ4o5zT6QeZEAEiOPgsMuyCMMjrTHrdtcTEE_jUmdtMHEspIhJWWFaHYLXivAuKZ3AD60DWT6Z64MTHBuKsGGT1sjF0GeLQ7HKCClrJlP1YrkTHFfntBcRfqHJJYWDMYXuzvpvPTa3viDaNTNBFyWlE5_8FUlUS2-99fMCqBtAz3U2S7iTkjjXHYAXTRWebfZ8Ev9zOYJ6dNgAXRt-71rpMkCkiyMXAzBLvqmtsIovZPlQU8esiELfa3dFP3N4aakPvoEhGf4c7_fj1MsLLM1t7VS9OvnQRsnoOrIMKfR5wf5ls4iT8lQ8ObpTD31lKRGUaG2QtPmvN1hJqVzC0WUHTN0XH1d9XcscaoZYuwojKNIOCnCbeMGh3Ynxc6xQenMqk4FcHXxNNHBrtIlSGLzUhUa2_KI-Ldb3NBqvrFPS00SgHZX9_hvV_Etayt9pA2LWEgaDWB79NvoutMiZ1wMILIUNme_P693wbcLZGrQaNQQc2aLYdDl8MK8Y822pIVuLsghKuDeX7Hz9UIeWR9tQO6pLlrP4HxE3HaV-CaOmAMUY_LpGEJIPdeqzkcJuQI04gJbLHvvsvwMYcNChSGdcs2itQZxDyg6PoB24rb88BCcKD570xksN",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJV9dEu_IM04kRdrWBUSSMbEU",
+    "plus_code": {
+      "compound_code": "CHC6+29 Kitchener, ON, Canada",
+      "global_code": "86MXCHC6+29"
+    },
+    "price_level": 2,
+    "rating": 3.9,
+    "reference": "ChIJV9dEu_IM04kRdrWBUSSMbEU",
+    "scope": "GOOGLE",
+    "types": [
+      "home_goods_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 731,
+    "vicinity": "Fairview Park Commons, 225 Fairway Road South Unit 01, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.43451489999999,
+        "lng": -80.5622508
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.43596228029149,
+          "lng": -80.56067546970849
+        },
+        "southwest": {
+          "lat": 43.43326431970849,
+          "lng": -80.56337343029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Sport Chek",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 733,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114516024604093611886\">Sport Chek</a>"
+        ],
+        "photo_reference": "AeeoHcJNQbiCl6OUrow-9I2aSxZEduZG2T3hxU7qXKaF3nSfU1If076Fv5muLkKOCubOrksRD8J2osnNLgdtzB1-ZdddnmHaLkRu7wFcwnXIFcYf6a16DJmxZULOMa3ELcYPFDTG-eMzALUOYJo9VNe3YWfQuWySAm2oiEIxal1U6X3ITNu1JLXDZIU86o46Ey6YXtT1-Zt6M6aWWRA5TF_RqJob08jYWoS7xxP3a8WbTVdcvtTrOFD2QkTcM0fsvvmqDXkrfpa5kopvw2vGztch5YJj6IOF7ieJf1GaDnwItOq_bVDUIxbiNiKugm5Bz_-0RBf2jXRQ",
+        "width": 1470
+      }
+    ],
+    "place_id": "ChIJAQAAANz1K4gRYdRtl5Fkto8",
+    "plus_code": {
+      "compound_code": "CCMQ+R3 Kitchener, ON, Canada",
+      "global_code": "86MXCCMQ+R3"
+    },
+    "rating": 3.8,
+    "reference": "ChIJAQAAANz1K4gRYdRtl5Fkto8",
+    "scope": "GOOGLE",
+    "types": [
+      "bicycle_store",
+      "shoe_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 222,
+    "vicinity": "225 The Boardwalk Unit 3, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.43768119999999,
+        "lng": -80.45905499999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.43906098029149,
+          "lng": -80.4578716197085
+        },
+        "southwest": {
+          "lat": 43.43636301970849,
+          "lng": -80.4605695802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Sophie's Gown Shoppe",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1914,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109724523225967529186\">Sophie&#39;s Gown Shoppe</a>"
+        ],
+        "photo_reference": "AeeoHcL6ZcIMxWYA56JU3NR2kj5Z9rAgMw_fsNR4-QBbFmSduxB-Y7EhoUf5I4Zj7ohXpYFw5j9lgxMCE2OGPb3LtMf_eDiwb5xSZVRyC1WQLd1T3r1n7FnWfugKJpnYHRAJ-4UU69pwtrf0BATAQefqNNVLmPF9pZV2fodu1toa7kRqlCslfuzXh1uN7Tx_TRMhSQsQN54im9Mqgfmq3YrxKrXKpH4b95E8u8oGHQh8u5D7YiftuXVtGuHIq3Dz5Ij9w7GhkNkp4Uqo9wtQoZiMdZe9Uufx9eofXqxpkeb37ywULfq9iAQQSG5706AG6hcWoK93gSdUDIM",
+        "width": 2352
+      }
+    ],
+    "place_id": "ChIJ1eJTyNP0K4gRYgmXvKlP4-s",
+    "plus_code": {
+      "compound_code": "CGQR+39 Kitchener, ON, Canada",
+      "global_code": "86MXCGQR+39"
+    },
+    "rating": 4.4,
+    "reference": "ChIJ1eJTyNP0K4gRYgmXvKlP4-s",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 544,
+    "vicinity": "1780 King Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4357642,
+        "lng": -80.5630918
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4371285302915,
+          "lng": -80.5617149697085
+        },
+        "southwest": {
+          "lat": 43.4344305697085,
+          "lng": -80.56441293029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Mark's",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103218525528754912819\">Erez Zukerman</a>"
+        ],
+        "photo_reference": "AeeoHcI0dzNu-pdNvBlNRwHAKHs9lsRmgt8QuWODM8dc61F03UsLoIdn2IqdpnF85IBWbCL29mRbHS95wRR2DMIHpi6c99FcmXbx74bGVP6S9Lup9WIsXYJf_f0IPcFYXiCHkohvVSN6cVGfDwRC0rgtjJpn1R2lRuyVVueYL35YhyhJgvSDelzXhbpO6Mp9_w31zncXoLKxjEA3ZEfhkRwUxxxCpaFcNrVUXO8Mpj_yywkPlFU1fQeaQJhxBCc7qEAHZpwcaU5S0rySPosGTImhd2JUfP3z6iz6n9-pB1aWp2SEZqxM0G3q9y-JnhDJ_7VNaGMCxPdTuXYX5_ixQpDML2ywmx0rqRRkkpMVI-wWnEO_PIitLhO22bIpUAi25cAnIwWzDCmJIumFOco_fAN3t4rLR3sS7C9z0aObcIClVeTwAQD_cRLXh2kmfSZ-M8alJSkmXRxsqfJuOpnkkNUnnsLcMoGF0tu6EZ6mt4S6e9_7nMGBLdWUXXp2UPSbHDw1Z6oOMWp9Uw4_Wuj-XgWI0805oNeaeX-VSTMU57swcX0eZSx7FT5z9Pji69BFqxG0YY6i3CSGLTtkHuh5x0WkwQ3kVEp0inYJasCPrUsD3MZbQc9BqfII56Yoa1xpyLfNN4HBxfwW",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJifr5D_H2K4gRpY961G9ZEv4",
+    "plus_code": {
+      "compound_code": "CCPP+8Q Kitchener, ON, Canada",
+      "global_code": "86MXCCPP+8Q"
+    },
+    "rating": 4.2,
+    "reference": "ChIJifr5D_H2K4gRpY961G9ZEv4",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "shoe_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 349,
+    "vicinity": "225 The Boardwalk, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4592361,
+        "lng": -80.4863586
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46059993029149,
+          "lng": -80.4851656697085
+        },
+        "southwest": {
+          "lat": 43.45790196970849,
+          "lng": -80.4878636302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Carousel Clothing",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101191720981809563564\">H C</a>"
+        ],
+        "photo_reference": "AeeoHcJGmaUzEyguoFxW7l2zpuOv3Fi8MuzEH5ORh5_RRX_jfvQeunvlSkOcba6CJOoxEberuw1cTZXTgXKzZ4jJuAhdlICdajxNjMB3Neb5ZqPZMaCv63ElLmj-A6vWvUSSaIUGjkjCPVM8t12cFc3nhhNc___PGIPROjINOF84RkVbod4krLuo6ylZdChlQDogOLZoSmklpnSoE9MY0cTHOAoYXKYqXutSAwerjl3IgS5nteBYJM7VaGX0f1WAA6IKwoP1RN2jqP9HOPxhByIIQ2LiKh-xitDBwmY6j4rYQ0XTz34nzcdY5R0ZWFwc882WhO04z4z8l0ZCwYu8WJXuUHAK69beJFtCsRHZ_2eXuc8YK1Y5xywEW4gGgN2gKL69UwCPipn-xWFi4F2sHrcHRv8yLOkBqXGrQFmBiBJ02V2PpEqunBL3rWsRw2m3wcrBGqKAOg6JJ_sGzHf-L7uWzRUe_uP5ltQX9K_I18H1fEJvGeDx23OltHRhcPn_tnmAASxnCaqhylcfljlpLtPNY1SFVrRt3dDQHD6nmif7nxZasaf8148ye5H5Blw60NuJcDBqifyZaKvX3EOBWlaIls-w93VQO_ulVSzX4FT7aJ_KNbxdkbVeeY-stlLTFxWk",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJqd3fs5H0K4gRmPC7utBoC7w",
+    "plus_code": {
+      "compound_code": "FG57+MF Kitchener, ON, Canada",
+      "global_code": "86MXFG57+MF"
+    },
+    "rating": 4.4,
+    "reference": "ChIJqd3fs5H0K4gRmPC7utBoC7w",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 133,
+    "vicinity": "72 Saint Leger Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4197511,
+        "lng": -80.4484681
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4211682302915,
+          "lng": -80.4470090197085
+        },
+        "southwest": {
+          "lat": 43.4184702697085,
+          "lng": -80.44970698029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Stag Shop - Adult Sex Store",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102553754607372846734\">Stag Shop - Adult Sex Store</a>"
+        ],
+        "photo_reference": "AeeoHcKhn_1VZOijNvtiF4yqEowRza6MCvEoOVUZJ8PHx4_ABUoHBeVqm1JR2u5iW-ucWXtLXuxOm25inUMkAM1_fhCs6edBHsENUBX-9uVgTtOXABbjpHh85ODortomMSyfsqgz9JV3WRV-nYsc0kCWwMT8UChyDNAgpuZzR4T8iVtVYWnOJll8pGxrHlQqpCoGLPxHNQXYJCENd1eooF1fzeis_AgA6Odseiz4tO7IkXekCr9r1f7vR0gD4WwGb-kgImAYZUIWGrkk_3gqXWbJpem4xC69lEcaHTVg2vxsqzRcFpFxGljzIkJStAPwY7Nk3be2C24iOHc",
+        "width": 1199
+      }
+    ],
+    "place_id": "ChIJ5R2QF82KK4gRAqxOVOW2CIQ",
+    "plus_code": {
+      "compound_code": "CH92+WJ Kitchener, ON, Canada",
+      "global_code": "86MXCH92+WJ"
+    },
+    "rating": 4.9,
+    "reference": "ChIJ5R2QF82KK4gRAqxOVOW2CIQ",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 79,
+    "vicinity": "589 Fairway Road South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4666554,
+        "lng": -80.5249264
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4680693302915,
+          "lng": -80.52344281970848
+        },
+        "southwest": {
+          "lat": 43.4653713697085,
+          "lng": -80.5261407802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Insight Eye Care",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1133,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106741116640167829594\">Insight Eye Care</a>"
+        ],
+        "photo_reference": "AeeoHcJCTdZNEaFE4ibh-hoP7wGYEQNjvzlF_BBTmIzYoUad0nky47zYdkDpK_LFHzrZXqv5JOuY-IzbUh-hx86xlc8SUW4nrAlzScJLYeG1vito9E8ZpVPUjR88jUM7ECX2EsAm3KGSl_I0T3siH25aLQThGEmwE7CyDXPOTJ1CNMaRKRFxV1mzbRHZ9PjEYFSuSLDxoZQyxAaRMnt3o4A24H_97rQfJhiTspJVfP-chkaKpI5DD4j3HHtgq4RAMWKfYewlLrC0j5SqnZZUtzbVjFBIB7sEvfjWhPMjCQ9N4276Wh1FITZNw1yCT7cNqpJ1laSQGCZTttA",
+        "width": 1699
+      }
+    ],
+    "place_id": "ChIJU8pnbovzK4gRqBakUrWRvjU",
+    "plus_code": {
+      "compound_code": "FF8G+M2 Waterloo, ON, Canada",
+      "global_code": "86MXFF8G+M2"
+    },
+    "rating": 4.3,
+    "reference": "ChIJU8pnbovzK4gRqBakUrWRvjU",
+    "scope": "GOOGLE",
+    "types": [
+      "health",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 106,
+    "vicinity": "49 Albert Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.43372299999999,
+        "lng": -80.4402087
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.43494928029149,
+          "lng": -80.4389346197085
+        },
+        "southwest": {
+          "lat": 43.43225131970849,
+          "lng": -80.44163258029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Goodwill Community Store",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110673110719207560549\">Hupte’s Family</a>"
+        ],
+        "photo_reference": "AeeoHcJSxKUfsDXy6WdBCbZvpX_-RcGLDAHX-AbtF8RcLZn4Lw6C5NtFVflpjc-Q9pN7BYBox-62y0-8BYm-yWUlcTLO9T4rqbwY--3sBtZqxtzGkX0lc5aMKegt1X111_iOvD7NPExBLHpcKgBpcB2dPW37moWuRtBmWrqB_8nYmlnNIrtxPEzOhZRS8Anfvg-pAM8gr0sstNJt8Fat6xAw20aCQOswLmh3HGUaWrdHa90hM4tyX7_TZTpsseFjxzdPbvikjv7NjibWqKFwQIGl1P0tF4vbhWFo3NzX2OIJ6NBrofSahmhbaUgCDt7HWw_u6D1gnC2aS5VCYdXIn8umZvC6c56gv98ifuA0N8Agr3dhoa9GJIFPjki1LoNYInyxJFeR6Shoc-vybv8Uhmzk4kLcXJp1Olj3lH2VswpFreQ0x1qZt-6RoIIL3tlX9QiATevJ2wLRBTHgtHhvkwFG7Ra7CdSX-mioB5YPIP8O8_zCyjAEU0ku_6pVxMgrBFKuvcKMNcmoj2FBNw-aEKJBwaZ0CwqxAx99fYNtHZLwcLOQTa9Z_jPxCVDPdziX2eqnufvMf2fLFeXbzS4rzeRt_KuY7maCwsieU5Kj1h26aSyk1hceEwn5fYXwGMrFH-MA",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ39ibhSaLK4gRqqh_1FSC4Xs",
+    "plus_code": {
+      "compound_code": "CHM5+FW Kitchener, ON, Canada",
+      "global_code": "86MXCHM5+FW"
+    },
+    "rating": 4.1,
+    "reference": "ChIJ39ibhSaLK4gRqqh_1FSC4Xs",
+    "scope": "GOOGLE",
+    "types": [
+      "book_store",
+      "shoe_store",
+      "home_goods_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 317,
+    "vicinity": "1348 Weber Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5095311,
+        "lng": -80.55454019999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5106690302915,
+          "lng": -80.55334166970849
+        },
+        "southwest": {
+          "lat": 43.5079710697085,
+          "lng": -80.55603963029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "St. Jacobs Outlets",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2752,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107228572593286298090\">Bharat Shah</a>"
+        ],
+        "photo_reference": "AeeoHcIFNDRfdE1IGXo9HDlHhgd9HWdmpk3EjiFNM_5tJSUJjdLdv7rDmcWMCMrQbeB-_G7NGiLS7KYAWkC_uAnSnmM3D1ZeP6PCJvPf4wHkdkShS2x-g2QaGRiZCdME0Es8aSzCUQxWMZ1zvTQxClr4FZ0x8YMGkvNs8of61HcEZEvJQiA4YBKks2MHdhV9oDnhXAyWbRsqNzojpGEjGjEIu_3B_7ZgR_4ScxELv2Cws-RJ3UZybaC8u-7P5m1zz8POJMhFllk2EpbbZRd-eQw5fixWJu9cJRymwvMU1aKWVBpPEQohaGDp8Ucvp8RlAJZ-zINEvQ19Elf7l0Gk1-3BYktc1z8UYSO-M2yyVtw2T_zd7GrxLAFS14mObrWTxGikWem4FwPPFEbTlt5zJY-olj8W-WL7ne2axwkL-MVsjVbl--ryRrrh0by5GokI8c42F1hmPxNnTwbfax95Z4FkSF__P3oGWf8o0rNQ7LBfDZu48tlb5LNgYvIz1PaB8tWbvlvO1bpB24VlrB9XQ_jmjuxSd97XNF0933YjoQM2Q3bk30Qy2tXYp3GzxPWrW2XBQ_xyW8NNN5DwxGhgL7T2dhD7MHgCww7kxEtY8tqxKi6w2HsmeBqTcfnFjLZrR-P1V1LAFRkz",
+        "width": 5664
+      }
+    ],
+    "place_id": "ChIJVXg-D3rxK4gRWOLHQj-IzzY",
+    "plus_code": {
+      "compound_code": "GC5W+R5 Waterloo, ON, Canada",
+      "global_code": "86MXGC5W+R5"
+    },
+    "rating": 3.8,
+    "reference": "ChIJVXg-D3rxK4gRWOLHQj-IzzY",
+    "scope": "GOOGLE",
+    "types": [
+      "shopping_mall",
+      "shoe_store",
+      "home_goods_store",
+      "food",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2252,
+    "vicinity": "E, 25 Benjamin Road, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.498521,
+        "lng": -80.5276327
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5000759802915,
+          "lng": -80.5262378697085
+        },
+        "southwest": {
+          "lat": 43.49737801970851,
+          "lng": -80.5289358302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Gap",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112629772685752601003\">Andrew Persaud</a>"
+        ],
+        "photo_reference": "AeeoHcIRtw9aynRpd6LDfCGgZ1IjT-OhLrXSUTPuCNcfwuBuN7P1Jwa3o65QPg1RGsswMQQWnzvGpbcZbhzVLMrjG_B4xjjB2EaHpJoSLyrE3amIBnSX_Bvr5RRnRFCqzWUALWUDdVrpTvWXGsKfWE_XNJMhWsBevYPXR6klXbMBjPdgDv6X5poOjXS58kx_XRN5QXw2eUw2EpTY0MtW53rfY-rEmuip8BHS396cZY3tEqR7BXt03ditCCGV2nmvl4kX6T3M5AuW1CATq771aUvAnO0VV3Y6f4lDBLev1nQXbXpSRbFUA8GlUdGqVGLJ_M5kCVrtcveQOE1IcyAbW59cLCVwVPexCA9O9Fv_2vtkG1g6lduYDHyXrLwKZUWY9ekt6RRoMiob9t0B_71LtIxVhdyWveYdHqQb6rpLDht4GaFaycGgiyp9vwI1cKzeHORu3hzD_7dqjUESXB5w7LPMRC7q6qCw3Xxca_s4Z3f_4bDhlP73dw2xE0fzYDfzxq9SQWQb7EXBsw-I4t65W5gfRl0qaQ505fQTrDNFKBBpKSnyTs0fAA99HAFXag4KjMqEYN1XN4KU9hL7YJwpnGlmqcrob2nQLFWJPP9-Wr5X1dYgPbX1VEjsNn3m7eE-7sfh9GyIhY9I",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJn57J_sPzK4gRgBaD02vIdYc",
+    "plus_code": {
+      "compound_code": "FFXC+CW Waterloo, ON, Canada",
+      "global_code": "86MXFFXC+CW"
+    },
+    "price_level": 2,
+    "rating": 4.1,
+    "reference": "ChIJn57J_sPzK4gRgBaD02vIdYc",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 194,
+    "vicinity": "550 King Street North Space E8, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4971802,
+        "lng": -80.5272316
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4981845802915,
+          "lng": -80.52640261970849
+        },
+        "southwest": {
+          "lat": 43.4954866197085,
+          "lng": -80.5291005802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Bath & Body Works",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 755,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102884814698418699128\">TP G.</a>"
+        ],
+        "photo_reference": "AeeoHcJDgejUostS4lcq0zalyjHf8MD_6IqqUjAmOFuj1RnwnJ7et8XD_W1bSbekmWeJIXnN3W07ILIFFRRe4gsjhBArY0ii5ttXoswaWhvU9m6oFB0wvXGL7qszb_MBH2KwUbahwi9C9crGvEO9yXCSUTyVU4B-Q6J_l52s6sotSbh1Zuk5fCKFcpn5GTaee7IMJlc269ZL6P_lDlTkFWOFBU4GbRGhzVqcp_B0QTCakkoxM9zevhrnZHpX3CcbBFF297SB5MVfFvNGwyhAaWz7_S3BawutaNDTKLY-P0sE7fCxnEvA2TrQeK0TLAbnkxMI-TfKdBZs_JF1p51ryXaAXfMtJUN6Duobb_yHcmBphLWjT6tjHFsRd8YvD95KHWRVrqjDy5Cje_hSeLhWnHGtQhGePRhV7-GO4L1VW2wq5RlyT2Jhge8iiuecUoemDcOEaUx768fjSoOlYInCW3E3uA6C26agxmdPZfZ4n_FA_0vglV9VSgwT6ZJ8O_k60G6z01nPRs-MGeTvh-I0mTRBa_AnGSlZBabMoSOQmHX1SqIerU3YRcsw2JmWBuvedF_gHxM_8d1bldoxEcUyZvUGBYxXhmft9A27EqHp4BfHyOco1CbZWLpIuazxMTiNZHx1XaC5eg",
+        "width": 1342
+      }
+    ],
+    "place_id": "ChIJscQz4MPzK4gRHowkIVXrY8Q",
+    "plus_code": {
+      "compound_code": "FFWF+V4 Waterloo, ON, Canada",
+      "global_code": "86MXFFWF+V4"
+    },
+    "price_level": 2,
+    "rating": 4.5,
+    "reference": "ChIJscQz4MPzK4gRHowkIVXrY8Q",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 310,
+    "vicinity": "550 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4032622,
+        "lng": -80.4677842
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4046966302915,
+          "lng": -80.4662318697085
+        },
+        "southwest": {
+          "lat": 43.4019986697085,
+          "lng": -80.4689298302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Canadian Linen & Uniform Service",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113667632153596884581\">Canadian Linen &amp; Uniform Service</a>"
+        ],
+        "photo_reference": "AeeoHcLllIgg3V6nP82I-eDpDd1_RRTo1DwXLu0MXdO-Pl1dFJBHdaqvSyLEZzgJ8u8mIz9UJapKH7E70XbE3HDvJ5a3Zl7_wziBwY27qyLlrEO1wrGGaquGWIa86k2frMUcx0LRrvXKgenoxdfc31UgobNqlhL-hHDY5jiICW6nfE_zimQQkPSdg2DIQObLQOMTzp-IzZMwEiQekhjDog2A-Z8i-32fLEJP494aMdii87FTlnze8vVz5rwKIO_6WVbcjG8AAJQOhfNy0KJzYEIiOCTl_7DI3rTOAF260ICgGZmM38H-0dTAU_RXVDQhVjvlucRL6jMcSaU",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJg-4prlr1K4gRIUK4GENP_BI",
+    "plus_code": {
+      "compound_code": "CG3J+8V Kitchener, ON, Canada",
+      "global_code": "86MXCG3J+8V"
+    },
+    "rating": 2.2,
+    "reference": "ChIJg-4prlr1K4gRIUK4GENP_BI",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 17,
+    "vicinity": "301 Shoemaker Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.497514,
+        "lng": -80.5268741
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.49844718029149,
+          "lng": -80.52523276970851
+        },
+        "southwest": {
+          "lat": 43.49574921970849,
+          "lng": -80.52793073029153
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Garage",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107198089164830315426\">Deepak Vishnu D</a>"
+        ],
+        "photo_reference": "AeeoHcKn2cLioAGQsuKw_nevU_KSiiNGgMeeWHajGJJI_OhUcbL6liLGpiBn4FKkmMx8yf7npz4DCh_22_PmLEwwBbUd1Dfo9nsLh0TMrkMNR20q5o7p0gRhLX9GUgGkVLtZUdELea88oNT2t6nreNgttTtAZDT6e-BgC8XgO_uZ5HqPPb-PdrpuRSiS73OAxZfY4hxxxwH2S3cvRYSKnuM_6pa3HAOUjVdviCFcUCExYeEBhrp3TrAQfzw5HRkuAC7nolD93An5BdpRzDrY1EWxyscAnS276Ax8djPt9O1V_UbmnKH8pRzShnhK1q43GV15AygrF73UIFI6vcid1o0cgJN-p0lgEonddCTNTFLC4f25W1Xd1FuwjJwl94HEEfte7YN0X6sPqi0YsqzuWoykXwOIn9YGxoNpGrbkeCpMrM1kK5Pw24sI05l2A-9OfA66iIozsXtSBe53j1xtovIcGgjfbz64NuaXXGas_a9aipWIraqqiOoGajrWFcGqt0t3gTLv2ZyusmBw0KCknTULdZx3r4l-1jDUtjLYHYewOzw9ABTo3RlKKJmekqplHN3LkgvBwXpL0m6QLck2Dv-ZqXYCoNcOiVvBjCK7iJPG_a5rjwhBPZ63O9TwFEqiOVw9xGuLhYS5",
+        "width": 4160
+      }
+    ],
+    "place_id": "ChIJn57J_sPzK4gR6VqpegB9YM8",
+    "plus_code": {
+      "compound_code": "FFXF+27 Waterloo, ON, Canada",
+      "global_code": "86MXFFXF+27"
+    },
+    "rating": 3.2,
+    "reference": "ChIJn57J_sPzK4gR6VqpegB9YM8",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 35,
+    "vicinity": "550 King Street North H9, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.498103,
+        "lng": -80.529718
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4994626302915,
+          "lng": -80.52832796970851
+        },
+        "southwest": {
+          "lat": 43.4967646697085,
+          "lng": -80.53102593029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Bluenotes",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 840,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102884814698418699128\">TP G.</a>"
+        ],
+        "photo_reference": "AeeoHcLdRSKMfx48MMJz7AlDUlovEqBD8pGcbQ3VEpSccZt-o9UTRBU1RYIsvX1MCwu3ckraqRvRn9k5DzThOUj9evEec25MysZoQLSZdLpqbPAjp3Ti5N34TVm-oCkWj97j1jSZ6GxDsI8dYqUGUC-KgEIx2yo_dd-DywkqVB8u_LgIzriuxtsG4653KkmvMgcB0sto9k6jm4zZOXSyv0jLaTydx1r0VJAkO9ow6KOWPVw7lyXPCr3aQcS-U270YuyWMV3DpLOs0utLwBs_rDQDcgqywWLdlIAoiEWg1fSyBMyTyJLdOT4kNWqGEwhJggT_LU6o2Nf5S2L_WQ2UzryVhE0l13zSsVpQ_9G_Di8FR_uoftq1Ez1vE1I2Kwt5ZauOTqbS1Dx92gQTCYSw03qko0qajcP9G9RNmxVc2f8gWieUEpwZxtCz0A_tUc5Vl6x2ynaXbj3RIxy6fGtt65Bmfbs-a-notIdMU5zeihpEsgsjSLjcjNsGVrfewQPDiL0TxRY-_8LMM1fSM1OLsjm79zD1NmfQJA3_eYar2Aeu7f5ZtWQYYcsr2Sj4DDEQvBBAJNPEbizcVqwaBT0_x6AP2ap2HXY31hXtzsAIWvkVsgwMdHdKeTCacSuVRKyMkdwaRBYlNQ",
+        "width": 1494
+      }
+    ],
+    "place_id": "ChIJV1HZAcTzK4gRHGDaDU99hyk",
+    "plus_code": {
+      "compound_code": "FFXC+64 Waterloo, ON, Canada",
+      "global_code": "86MXFFXC+64"
+    },
+    "rating": 3.4,
+    "reference": "ChIJV1HZAcTzK4gRHGDaDU99hyk",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 69,
+    "vicinity": "550 King Street North Unit A6, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4978397,
+        "lng": -80.5262525
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4990662302915,
+          "lng": -80.5244009697085
+        },
+        "southwest": {
+          "lat": 43.4963682697085,
+          "lng": -80.52709893029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Sirens",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 755,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102884814698418699128\">TP G.</a>"
+        ],
+        "photo_reference": "AeeoHcIwJM6VnVrwju1Y-5kSKT3Ff-EEYakFoHZmFDCcHXUXg1EMlhRH4oU6JkUAZrP0j5a5XpIuoXgvl_5a3qMEZvRqmhnmC7_uKL5_k6RZKwa7jJEYO-yezQe5k0fiMmSi4yzhwLZlng_Mxkn_3Ki5fduN-RgoLSciWNEzhmXTjaHo-Ldw2vryGK4U6A-oeBVPKI1rDwDKH9H96EmPgEmu5yxb_V724UasbxfLYjGad4SKMeAG90z8m6dO84Psji8c0Jg3Rg05qDCTnNh7isSscWToV251DwcA5litVh32KUcSrD46zBL6wibvZwlRUDnHzRP9ay-Vq22ijzkp7aifOIT-PfIBoNqAsrWySeQLr2Xc35ZhkaVBtA3vkYmTGwrxfklwfviN6wr7rFN1u4I4h47k8NrXIhobmRkuSghM2X4cCmCe_W8SlN4dlxN9DocX3hcmFzQn5OqPkXHVibeOYk4oHKl2iz_RJ7CJnXcskUPFV9K1bcJJ_BCTwTBQlTOV0x6p-r5jopfIzkVRO_mJLxhZPPDZtRoVrseVY_o0dceF_ZcrfomoHUQZ1UcZLdzNAcgv0HOoVNBH9yxxCYrYfQCqxNT9UkiNUa-8y1mz6NJ809VMbCWsQgzQmUsU0H5V",
+        "width": 1342
+      }
+    ],
+    "place_id": "ChIJ4_VsTsHzK4gR3NYpPYoomgE",
+    "plus_code": {
+      "compound_code": "FFXF+4F Waterloo, ON, Canada",
+      "global_code": "86MXFFXF+4F"
+    },
+    "rating": 3.5,
+    "reference": "ChIJ4_VsTsHzK4gR3NYpPYoomgE",
+    "scope": "GOOGLE",
+    "types": [
+      "shoe_store",
+      "clothing_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 54,
+    "vicinity": "550 King Street North Unit #G16B, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46885899999999,
+        "lng": -80.52165699999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47012968029149,
+          "lng": -80.52028606970849
+        },
+        "southwest": {
+          "lat": 43.46743171970849,
+          "lng": -80.5229840302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Unique Boutique",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106774717955408124011\">Unique Boutique</a>"
+        ],
+        "photo_reference": "AeeoHcKwwnRcfG-yRxL7JIkWZVLyae4kPcBf_a5bx7NiWYsw-yPMh-WnIqg9QcRpwzDBggunAio24Gc2SbM1zx4i5ZBNRlanpJ3vVJ7FMZqAlkhQ-0a8OW8R--0EDc8FYu10eAz_uc8XMM9xbOs0xL0idfl8_GcSD5CbVT9615-r_NOqeHj7eJSoKBDuuPQChgf3-J0RnP_xrq9phN3xmRNguFLqG2GXeAX3nXjQYNLsju7YkbMx1O73qEenomjFX0CuXBMdcltF-8l6amNhACAWKO5M4gO7eeK7rcw6YB-JGH5MAjPYMxZz6totzrUiaUvK0J_gK9noikw",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJ7em2rAz0K4gRCep7dbGBz18",
+    "plus_code": {
+      "compound_code": "FF9H+G8 Waterloo, ON, Canada",
+      "global_code": "86MXFF9H+G8"
+    },
+    "rating": 4.9,
+    "reference": "ChIJ7em2rAz0K4gRCep7dbGBz18",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 60,
+    "vicinity": "26 Young Street East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4977228,
+        "lng": -80.526911
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.49846608029149,
+          "lng": -80.5262346697085
+        },
+        "southwest": {
+          "lat": 43.49576811970849,
+          "lng": -80.52893263029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "American Eagle",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113664309233820834071\">Ron Dutton</a>"
+        ],
+        "photo_reference": "AeeoHcK13tMc1muGhhquTBVCJhWAK_cB5cHo-zTvOSRNkX1s1LTC-HVNSZSI7cxSpyDB_xrpPMXFEImyGZMpgonx4HBEOEARiXgaOPEf-BtFGczYSb-tqS0kXZM__x3yuRma7qtxYzuk-c5n0hpHZhfCuDfoNtb-7ILoIfdR4iUgqce0D7J5b6rRa2M397yBtIHcsFY26X6GlMmPXPVMI18S2GXY6zDe2JxtCD9ar3TbfQY1ZrXpZBs700SvvvxHC7_oucexFtUUrhjytzUIZFTbGMiTiTM1QqNj65vVP0icyPle_ncDFUdX-0XnTEc3WG3PHbJ2yLggnWlyUScF4OIhH59jW4LiYmjvwVvdm5k5GsfYE2F-TTFvaTBuLS3wHEe4-omK6JoZhi3WPe23gtfS3rEvQo8b-TtlFMT5_MW75zR1FcJ0QEYyXkdk8_u-d-h7YBL9mIKZ7APFx7MuxMuYZQSxaIjmSBn47ShEv7W_USGQQ405bAUEllj_n_Q2WYUoNED7RVjtehOvTE6VpliM84T6h2IpAOA9bHv56JkQ9Tuz3vxCKxmeaUrDE-m0VCxjNobc-UK2IMub057SoSyFRy7Th4ztWDx3ajYPo9a4OMPOXrfh1K54phxvjWuPvKxUhYry2Q",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJY2VDUMHzK4gRPPKV5P6myO0",
+    "plus_code": {
+      "compound_code": "FFXF+36 Waterloo, ON, Canada",
+      "global_code": "86MXFFXF+36"
+    },
+    "price_level": 2,
+    "rating": 4.2,
+    "reference": "ChIJY2VDUMHzK4gRPPKV5P6myO0",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 173,
+    "vicinity": "550 King Street North Unite E12, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4866667,
+        "lng": -80.55694439999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4880684302915,
+          "lng": -80.55568846970849
+        },
+        "southwest": {
+          "lat": 43.4853704697085,
+          "lng": -80.55838643029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "The Children's Marketplace",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 505,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112436887684561092565\">The Children&#39;s Marketplace</a>"
+        ],
+        "photo_reference": "AeeoHcKP94AezSCWtCTWcdT8hAReWgE73mKFKd3vTItBnpM20Kwq_9TOJzV74J-TlKFl2aioSzorMFjoPR0B0SYtje8FlMc-CR9LdiSkKybBbRMVhJaQYcL5BMD4fjoJw_JlsVIh4hrwxxsIXsP8oDf4F2ZWDBusNGzagvsw-Fazwo51eHOXK1orxBxTVEGA8nq82EgoSY6DBve3MZky6CKLPnyirjxBJKCX9haTpf59kCopa-EMroi5W2Gd7VkkqtydXFqM3TaR6Ccht7uRWT_z4JWPclFfdIJCJ9H26ALD4czPSIXVTiwzWoC13bLr8ynJ2XOPfDkJPrQ",
+        "width": 897
+      }
+    ],
+    "place_id": "ChIJJcnKfkXxK4gRHJ66bou-GaU",
+    "plus_code": {
+      "compound_code": "FCPV+M6 Waterloo, ON, Canada",
+      "global_code": "86MXFCPV+M6"
+    },
+    "rating": 4.7,
+    "reference": "ChIJJcnKfkXxK4gRHJ66bou-GaU",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 102,
+    "vicinity": "255 Toll Gate Boulevard, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.497885,
+        "lng": -80.526686
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4996311802915,
+          "lng": -80.52504976970849
+        },
+        "southwest": {
+          "lat": 43.4969332197085,
+          "lng": -80.5277477302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Roots",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103236144332813241481\">Roots</a>"
+        ],
+        "photo_reference": "AeeoHcL2_x7H--Wq9qYpLSD_cLVx9err50AYCKfvJ7-l--fAF94zV4GhCPDfhU_CAl0VJQ8USODuOplbmbaYneNDRZwP8_LVaV4YfHtZb9aV2OUVGSob9pPpeRYApNvTRbCR-mCgPyQZJWQIv4YCyvqsdzI1gVmKaGq5OFJ5Yx4TXs-MM_KIk_LGOCtYCO_p44op3U6AeWC2R4SOz9wahdetdQ4MscYOgX0_N-mpxx3pPGCIMOo5No2paYAUCybuq_naYr-8WcG-SYZWTHnnirw3Llseotx3oymP_jANkv01q4Gb4bluAJq4ajtISTDx6a9RRYzZlu829cM",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJn57J_sPzK4gRJfxks1yJ21I",
+    "plus_code": {
+      "compound_code": "FFXF+58 Waterloo, ON, Canada",
+      "global_code": "86MXFFXF+58"
+    },
+    "rating": 3.8,
+    "reference": "ChIJn57J_sPzK4gRJfxks1yJ21I",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 66,
+    "vicinity": "550 King Street North Unit A13, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4243803,
+        "lng": -80.4392463
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.42621493029149,
+          "lng": -80.4377899697085
+        },
+        "southwest": {
+          "lat": 43.42351696970849,
+          "lng": -80.44048793029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Bath & Body Works",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2592,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117030695927320490538\">Rajesh Kumar</a>"
+        ],
+        "photo_reference": "AeeoHcJmwDD9gypyp6_rX-phl2eQEJZygQSC1twmMOHpGQjlFFhRbg_OJnL0r282cniDmRF9JP0I6RKHvwxEUzYj9jcF6HtFjIurUqQ4-f-PK1bMlOV1NpwhV3RLvar2i9ItNg9Nt7vRY29WBUfbQSN0vUCIEfKE5mqhUYlFE9t6kQlYH3J2eQF_7jIFUnbS_ZB8VIeJympBj1rVuRWlRd-zcxAgWG6hfpQu-NS9Q0uJ4LbLAtSfFHtHGCGXWDyKFlg_AgXj1jLlnUIozJcW4XCFFv2HSHeo_96R9uiIlKh10xlUjSr9A7S1ojbxPl6d14Rh-U_K4EK-yr8WV7PxqUpEtciJlgYPMKvYm120VCSW93cc4J0Kz7dGIB0wS6FGguJ4Oc0IHMDDk-D8jT6DwLh67ZT1cR2U4Wj12Hz73yCh0fgWtCFrEl2T9lhi9hsUFs0f-nYVoBY7ss-bjpbsKLWmAwjNRktBzloVZWvi6YytZxHkYcrC_1tuoOB04S8IohOV1mHZBvHYzYnxWB7UumfuTC5U8UFxxNLZlNgSDC9zHGuB5Nfy-R1ZqQ6ajufb9j6yVUUUrHvl8otzR9xvXSldLZJDkqCtDv6H5gmgp8zu_T_-AbHFba-NSIqGCBB0F6ZZBT1BrQ",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJTS6cNNmKK4gRiNucntm1odw",
+    "plus_code": {
+      "compound_code": "CHF6+Q8 Kitchener, ON, Canada",
+      "global_code": "86MXCHF6+Q8"
+    },
+    "price_level": 2,
+    "rating": 4.5,
+    "reference": "ChIJTS6cNNmKK4gRiNucntm1odw",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 614,
+    "vicinity": "2960 Kingsway Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46397990000001,
+        "lng": -80.5232893
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46523203029151,
+          "lng": -80.5213244197085
+        },
+        "southwest": {
+          "lat": 43.46253406970851,
+          "lng": -80.52402238029153
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Just For You Fine Lingerie",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1936,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117203312460100651639\">janice welch</a>"
+        ],
+        "photo_reference": "AeeoHcL8S4KgkuWYwk2O7MWvyvf5D3I20pPUwK2oM__X2DShVN7bqyaXMRG2wutAVUbHbAz03MhNCk0nz_M5Ay8lggwr-Kf3dld3jWZ0OEFvPy_HKF9My3qmIUlODq8Q3TjWy2s28FWMwqc2K8_aDj7MriqUYCkAnusvd-zF5sFRhESaf6g9C8J7Gx3KEEQtXHf4_JuZaM-NZIJRj0tmoN13p0da98m7kci3iRD4BwrLzFPO8sXfJRdInWEuOA7VBO0pvjzz7PpKL4jRyhPXeNBrlt63yOoaqLFWSrsrLnEAsLCAbaQddoypZy4iTeH2Flzm_b4Cb8LV0w8MlyVwwF0hgRJ8HwQMo3FI0c-3A7K6TUJL5c6iwQ4Wkmloo2m1Z_W_4j9Q_51JBijXNDCpR9xzjqmvTDfOKrilT70Vkj45ehQqNvNoZURJbV_J7tQzf7I5vvSBpK7s-omdq6pW6R8Olr6n6IRzNY3glsFFo89RPowi1sXW5t8iFUuFQlJJEl02BypXTL4XpzZqvhJDqjtje8Igi09n8yyb2PsLq5F1YdmWLQ1DaR2bo7d3HSDhZ8NEIU35-1TlpbtONCQtGmF1Eh8wROH2dgHjm3b4EncTWFOgMJAEPGEeGHTarotlPc7hbwpNcZdF",
+        "width": 2592
+      }
+    ],
+    "place_id": "ChIJrYsz7hL0K4gREvBIOeBXVss",
+    "plus_code": {
+      "compound_code": "FF7G+HM Waterloo, ON, Canada",
+      "global_code": "86MXFF7G+HM"
+    },
+    "rating": 4.7,
+    "reference": "ChIJrYsz7hL0K4gREvBIOeBXVss",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 92,
+    "vicinity": "75 King Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45797820000001,
+        "lng": -80.48566339999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45934378029149,
+          "lng": -80.48408356970849
+        },
+        "southwest": {
+          "lat": 43.45664581970849,
+          "lng": -80.48678153029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Zeus Nutrition And Supplements",
+    "photos": [
+      {
+        "height": 674,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113917487628344040991\">Zeus Nutrition And Supplements</a>"
+        ],
+        "photo_reference": "AeeoHcKjtmi2ag4jt_0eLF78M-VirFBV32uKXaOa5R_yqsUAs1Xhr3l5XI3Ejz-Uk4_g8WaCugjctB8wU6aRumIWQhfxZiUs5jgNAJsh2b8kuX2fjOZX34acATVJAt-n6R_7h6hLZ49Nf_ADK9fsrYnlaL2yZEMfq0OYlnvfwZ31UgovL1pyFYRjyAm44tP_8V-tvnnQIpgJNHmKA7Iv3oWjxO_UE4qoY2_aVMA7evYVaCm7z1eEC1pFNo_9j1TQDN5Q8DaIUSsQcoo_FOz_oyoij5koDwB9viJoM92BANN9nizlxKL5z06WdFs9Io8YVFvabDO3nt21jBs",
+        "width": 1200
+      }
+    ],
+    "place_id": "ChIJv4HKt9qKK4gRMnpmQAW8258",
+    "plus_code": {
+      "compound_code": "FG57+5P Kitchener, ON, Canada",
+      "global_code": "86MXFG57+5P"
+    },
+    "rating": 4.3,
+    "reference": "ChIJv4HKt9qKK4gRMnpmQAW8258",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "health",
+      "point_of_interest",
+      "food",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 12,
+    "vicinity": "280 Victoria Street North Unit #1, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45576539999999,
+        "lng": -80.4994787
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4570327302915,
+          "lng": -80.49807936970848
+        },
+        "southwest": {
+          "lat": 43.4543347697085,
+          "lng": -80.5007773302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "European Vision Of Fashion",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 439,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110064677541401750946\">European Vision Of Fashion</a>"
+        ],
+        "photo_reference": "AeeoHcKSXnBulT5S2XaZkq1YKeSetTLIxDUU0Vu1JQPJOu89Z6FqsQhrCdlAxfwfgOgNmbZaFErrfRGFrKLps1h8CgEDSYdMEVECPIkkehI-uFF6lALzjf51nWJkL2FzxWVR_ass6Fug3weZOlOeNc74wmwumc8J5OVTdiTKFRVyaeN0_x65tAEu0ACVxqXniIbq03iCCOacKrYric8DelicG4ndQzoHgewz9U2xpKrWAAd64oDsqldFd9N8m7JCRZYt5QF2oTEW_aLs4Jdk97lxUDO1bIXzIm-gm_vkhXnl-g1NY3k1T-zwm2_8_dTrtcAaL024_llKPzo",
+        "width": 720
+      }
+    ],
+    "place_id": "ChIJmVcH1mH0K4gRgtadOfiAwvA",
+    "plus_code": {
+      "compound_code": "FG42+86 Kitchener, ON, Canada",
+      "global_code": "86MXFG42+86"
+    },
+    "rating": 5,
+    "reference": "ChIJmVcH1mH0K4gRgtadOfiAwvA",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 23,
+    "vicinity": "80 Wellington Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.49859189999999,
+        "lng": -80.52712269999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5000990802915,
+          "lng": -80.52554256970849
+        },
+        "southwest": {
+          "lat": 43.49740111970851,
+          "lng": -80.52824053029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Stars Men's Shops",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113664309233820834071\">Ron Dutton</a>"
+        ],
+        "photo_reference": "AeeoHcIDKGr_NkgCSul9mEUNzf5_XzHi-Tjb7BAafw3USmbfEm2pr3vO6arYpYlSSqf_OyLvAjDTIMLFiqwzcIawUH90_UTStiO8D1J3Am6jeDSlFqQoG07MBgCbwxVxM3uf04aTJPSjeXmSdqdQYv1b6jIr-3op2v8rdo3eevTGyeVAkITDwHBA7g6BoGu8mx6y8Pc1ftGWvnMU2nun55Opxh7CKAAM5R4zFAAJWW3ovp2QYfXZyspvUMswVc6Slcp1JuiNOGpzBMcCBr_oUUI1ycNlIz90oyDtRLO39mRqRvPibOUjDx443KqvaMgWDoxI1QJHHk81Tovxpicm1NA8E3YdrbYlHB4VOQPVwqnG8MhJn11_6Cl9zhm2ghsldjNvAisWt-Rr9hWYRVW23l9cOU53iJg7uyLnEilWtcD9au1Sh5esmYF8Q0K6Yp5NOniNbXbZIo0v9p8Q3kRFRPKQtNQ7JMmMNmcNG4Gs6ONA4G0f9lmsodRfF09x_31E_1gRWLlg2MSaYT3H-e2xSwUUosSsTJDV_ADv58UzAgUcuUZO-SrZkfHhMaAyEFbdKqQx5eTkbAMt5klV8q6F8rptfAtCvShwNG257C6udzWAfDZ8lw1NMtAcsQpDQqI99BCbQltw-w",
+        "width": 4080
+      }
+    ],
+    "place_id": "ChIJQ97nGzMCWkARzJCo55fh5RI",
+    "plus_code": {
+      "compound_code": "FFXF+C5 Waterloo, ON, Canada",
+      "global_code": "86MXFFXF+C5"
+    },
+    "rating": 4.1,
+    "reference": "ChIJQ97nGzMCWkARzJCo55fh5RI",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 209,
+    "vicinity": "550 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46194759999999,
+        "lng": -80.53741680000002
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4633510802915,
+          "lng": -80.53613126970852
+        },
+        "southwest": {
+          "lat": 43.4606531197085,
+          "lng": -80.53882923029153
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "ZACKS FASHIONS",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2304,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118047142053878260613\">Elizabeth A Kennedy</a>"
+        ],
+        "photo_reference": "AeeoHcIYm1A4dM_s9iiOPkSKgqGWeHs94HP4-VeOmX3ICPwqhv9D5heqsiPOjuGxrkg8deaoEBRcRZzB7uimtmXsg8q_Tasbs1nY4Yf47Hxu5FNtBb8URqRgn9gHq4g0mNt5ZhAmvcnuhD2kJDUgjoMF6a5mhAMmXKbaGYHKfBeTJ53VjecB1ErcNp6Ox-40iZsQoXmb6iSy0oHpj2W4rQNRpvsac_A1BDA_1nCkMf_AVxTx9-NPc3YnvwRf3UvWyrVmBYrFmKYGuBdR6iJvv_Ax3IUHu0jNNUp1plqsNt0NKcnp0Qfqby33BUI7lXQhyPn_8cdNyJJQ8EW6mn6TZSIjbb5AB3_xBb1bohvhvyefHgMUJvCVc8ywBN1ilKedJWtMG8JXNQO6N28jRaVFpcKOgpLjgnugHROn9WGqqdPx30cGUZlBo5PsdKlA50ggOtZSbhNd0VC_sgP7wT7e2swgQwiMWQte0fgoQjfMkVQ0pKc1CtS0UhBAT5TxVPDAV_E7LApvD08iqfwG8GSIqu1IYoUTUTVrUbamWMoa4GAYz4tcQcAbsmAYctbANbrI5H8BF1tqJv_697jUVIEEU8LbRvuNBJ2vxCZXCikCrQcWy78VmtK0DBu9cqxUCNjShqUhHqPP1g",
+        "width": 3072
+      }
+    ],
+    "place_id": "ChIJX5Zxihv0K4gRoSQQSJYt0yc",
+    "plus_code": {
+      "compound_code": "FF67+Q2 Waterloo, ON, Canada",
+      "global_code": "86MXFF67+Q2"
+    },
+    "rating": 4.5,
+    "reference": "ChIJX5Zxihv0K4gRoSQQSJYt0yc",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 12,
+    "vicinity": "50 Westmount Road North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4991033,
+        "lng": -80.52956329999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5005043802915,
+          "lng": -80.52828741970849
+        },
+        "southwest": {
+          "lat": 43.4978064197085,
+          "lng": -80.5309853802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Olsen Fashion Canada",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJn57J_sPzK4gRBm4BfNgIveg",
+    "plus_code": {
+      "compound_code": "FFXC+J5 Waterloo, ON, Canada",
+      "global_code": "86MXFFXC+J5"
+    },
+    "reference": "ChIJn57J_sPzK4gRBm4BfNgIveg",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "vicinity": "550 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.41546259999999,
+        "lng": -80.5165967
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4168322302915,
+          "lng": -80.51515491970848
+        },
+        "southwest": {
+          "lat": 43.4141342697085,
+          "lng": -80.51785288029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Trends For Men",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1660,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118141292848437638476\">Marta Borowska</a>"
+        ],
+        "photo_reference": "AeeoHcKJyHeoHiyIWoIGtesnRlhXxyPwcC8_T1TW_UiyGfy2HvdYMJ3KVtrF-yrzh795VKVzeuSiuINNyOpfB-QuIlE13bjburKJttJ-uSxLbV_I8RssJd22OGc9nvMP35dR-yGu9xcLriUTYlzM8nw8YFOgLfGKFe5gsEAcBIGPgW6T5aMFXXomU-vxD90fIZYVFjv8IzoZRB-zfk9rdWx4SzNgbGohA8dBVebHyOWzRz_VCoh2-v89PBqamZ-au7nZRWZK4YVPuxx0J430mlBpcZGH36Bhq687Z9Cksqc8pCgsxRbKGhaQRkMtEdKrJJMSN53xLmlVGLxgYsF_lOXTjzk8Hsvnet1FVIB9srwcTQ1_u0v35DhxnhscrmQZwEg4OYvx8rE3v6IdKpAMigO2GV-bcAG10gM2d2YWJg3k05PMi3rz1wwJ7qNSQKp_sCt6m4C_84LSfcQoOAWoTDlJyE-L0R7vVUOM3GSM1SsBygwVuQWexPwOM0qpDicpOnd6Mpj_ZrQnnFU_AHUx6_AIUUZFculEmZj5XuPMxQ_nYVVs9G3cchjc6kLRo6Gh6Cai2sYzw_Yn0q6w04ra2444f9zViUSyOgyDbiqD4D3tMi8kaY-ksvPon0dPE7xwcmDK9wa97Vq2",
+        "width": 2898
+      }
+    ],
+    "place_id": "ChIJOaWEnb31K4gRWn7ZlvrOXgQ",
+    "plus_code": {
+      "compound_code": "CF8M+59 Kitchener, ON, Canada",
+      "global_code": "86MXCF8M+59"
+    },
+    "rating": 4.5,
+    "reference": "ChIJOaWEnb31K4gRWn7ZlvrOXgQ",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 63,
+    "vicinity": "1400 Ottawa Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.423853,
+        "lng": -80.440445
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.42527528029149,
+          "lng": -80.4393386197085
+        },
+        "southwest": {
+          "lat": 43.4225773197085,
+          "lng": -80.44203658029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Bluenotes",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109078186295250826368\">Connor Hammond</a>"
+        ],
+        "photo_reference": "AeeoHcJM9_Pfnc-Wwp6D4Y65J4-by8f0XXJKQ3J3OXzyGFx6gGCN6wYqeN1e2uZiqmlYxhpHQbmcqn_M2k97kiWYq2cgnx5LPG1gBT0Xp7BYEJ_XS9DmcS3pl77T3-bXf9luCfz1yraAROIhyW_6vcMZ5cPCfL2gUT8MLnwyK_PRB9Hc-Pr2WkWtyU3NUnpl7-Um1OexJHduHqgGO-sCjn_kb53OPtp0ecmogEquueQA0_Sc6ypNzxbixecaZU0dcDa2mpGes3yZeR2VAlEApd72yOPy-Erytkto23Xol-QNr3RTsT0PtZlMublbdppcLLWgaCulXwAZwEhEc62BEpXB02VeSePrTTI1gTNatub-1reHepKqTc7McK6EWou0rmGOjyDwUXkbPxupl2UuP8WaRqUPM5TVmOAk_TkgIk-8XqS_yESZmubHT47A15PNq4SqhfXEIeVE3mZFDasQNuspTaemw8B3A0vmUEK5vG7AQRw2IAAk15U9A6-ZQx0Nrd8mKE1qLrjO3JBc48zhl1AqaAgCTMoy5FBRQvGEimQTI0hdMbn_ZkRO_0INLpXKJawc3RNQdTj9kY9tINjIKdmElKYKZUppuX9To7rGIXIRkxpDiq03i7YMtQCl1IfDbEjskV7u5Q",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJq6qqWtmKK4gRvqARZII1N6M",
+    "plus_code": {
+      "compound_code": "CHF5+GR Kitchener, ON, Canada",
+      "global_code": "86MXCHF5+GR"
+    },
+    "rating": 3.8,
+    "reference": "ChIJq6qqWtmKK4gRvqARZII1N6M",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 80,
+    "vicinity": "2960 Kingsway Drive unit K002a, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.42388200000001,
+        "lng": -80.4392368
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4250285802915,
+          "lng": -80.43826061970849
+        },
+        "southwest": {
+          "lat": 43.4223306197085,
+          "lng": -80.4409585802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Lids",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103583378488596890483\">Roger Tabares</a>"
+        ],
+        "photo_reference": "AeeoHcJKsMTQxode71-UEBWDOVcgi5TOg7ZJ0fi7SoWoBDATzZeG57oJK4G8VvrV9_4Mkyurck-s_WVNwfdlEjtXLwefiTdtNwQpw64YVtfyT9-1p7aNP_vTxsFPSoKhXkEqI7vWjQPyIggfr4NalCxchtu5pJ6Bj9DQlGBIoDumUhiMu9GJ6pkJotVLB3_6V5ue5trQrjcVFtMe7FS1AZCRiZSMSqvy1m8o0TYu8ru7dAUgcphrPO2EwqruLgcYAK1IfSGaf-8oJwgAIT5vhAIeeRh46-r7JloAJ07OhaB3Z_EDTdccCIN4LmJCTLMCryu5CFLPBRO6IJ6dJbQUtleHRvvk3rcTe6UEc6WbdDDDOCwcGAALCY1IaTkYvmLZHEmyQx4xlPD2KOSB4VVoAUMR0ZoLc5h-h_huPBuOa4NvgON_fecakv1NV15iQLZzGWNmbWN5tzo9Do1W8-HHzMdkpSVzEKbcxp4lQ4Ap1jUBpmngBziOuBexTQ7KLDhsdmn21tS7TgcEF3o905VZkngn5UJHBi4cUv5qVU9BsC4t51YCiOVnnCJIPRd2kZV_NvPK_qOJ9fI8R0CVDd2t30AkS52Xw_2WDLnOuSzb2uk4qkm3iNDzTS9YCPZ3XYYFjn2_EFXTaQ",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJTS6cNNmKK4gR6b8FfQemC2A",
+    "plus_code": {
+      "compound_code": "CHF6+H8 Kitchener, ON, Canada",
+      "global_code": "86MXCHF6+H8"
+    },
+    "price_level": 2,
+    "rating": 3.8,
+    "reference": "ChIJTS6cNNmKK4gR6b8FfQemC2A",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 73,
+    "vicinity": "2960 Kingsway Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.50876950000001,
+        "lng": -80.53918829999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.51016333029149,
+          "lng": -80.53780156970849
+        },
+        "southwest": {
+          "lat": 43.5074653697085,
+          "lng": -80.54049953029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Bridal Classics Incorporated",
+    "place_id": "ChIJLYfFm6iMK4gRDq1-Fi0IEec",
+    "plus_code": {
+      "compound_code": "GF56+G8 Waterloo, ON, Canada",
+      "global_code": "86MXGF56+G8"
+    },
+    "rating": 5,
+    "reference": "ChIJLYfFm6iMK4gRDq1-Fi0IEec",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "60 Bathurst Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.42451439999999,
+        "lng": -80.43948209999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.42545518029149,
+          "lng": -80.43851924999997
+        },
+        "southwest": {
+          "lat": 43.42275721970849,
+          "lng": -80.44191024999999
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Aritzia",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2528,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113664309233820834071\">Ron Dutton</a>"
+        ],
+        "photo_reference": "AeeoHcK6evC7-cqb9SE1jVBfvGPb6zPc9TKKYuCKcy4w5rVPJR3pu5y_F6Ec79vtrchwvRhurBXpL8CCc89LZy0Hc0ChPE9mIrx7xKQW4BtJUjBA7mqC55XKjZMKoy5HWxAu6qE9s7EAjozx1i1JgOud7G-awfbkDJKL-zsCqTwJeHdp2AeNioELRfEjimD2Xpyex6VYDjQOS5JCXPNQrmOLR0LZQVMWkx2JY_knWuiMMXFvD7YH7HwzC_J0tucnsnDHgrkCXnJjOTC80Tq-WzxXzwSvVfdP-TDMy6bLt_oK49Ow4xgHYgdWSJ2Jo8hi1-5MtUIb4ry9fZZHK8P8V3OVNgbfZhPrlJl6OB3xboduSI8GWcU3YAS5XI7TO1jiB6BXhFRsgGNI9wCkQy5_dEosp1geV3bbnuF8mOKb_cvX7UJJZtYWX5bnpTScx-UpARFD1EyJOtlWXY4NCKKcqK4Z-4xjp0zsyfQ2aZ11ckaRTjEZiVOByDP2_BfAefOOZKFafSY0lRfwr1MUZprzF0BJ0qMnZirUV0r165p9-64vqttigGAN5bOIV0IDB0Ze6zGE6ki68Mv_fBcHmteP2j-2quKRcCtFOpBx9RuIu1Io58VBRlv63U8Tc0u8QVwN53mX",
+        "width": 3616
+      }
+    ],
+    "place_id": "ChIJTS6cNNmKK4gRsjNBhQYW4aM",
+    "plus_code": {
+      "compound_code": "CHF6+R6 Kitchener, ON, Canada",
+      "global_code": "86MXCHF6+R6"
+    },
+    "rating": 3.5,
+    "reference": "ChIJTS6cNNmKK4gRsjNBhQYW4aM",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 154,
+    "vicinity": "2960 Kingsway Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.43814829999999,
+        "lng": -80.45961489999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4395238802915,
+          "lng": -80.4582163197085
+        },
+        "southwest": {
+          "lat": 43.4368259197085,
+          "lng": -80.4609142802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Nu Me Mastectomy Boutique",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJryr4RdL0K4gRZHPkUvB7auw",
+    "plus_code": {
+      "compound_code": "CGQR+75 Kitchener, ON, Canada",
+      "global_code": "86MXCGQR+75"
+    },
+    "rating": 4.1,
+    "reference": "ChIJryr4RdL0K4gRZHPkUvB7auw",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 10,
+    "vicinity": "815 Weber Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4166488,
+        "lng": -80.51594109999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4179131302915,
+          "lng": -80.5147633197085
+        },
+        "southwest": {
+          "lat": 43.4152151697085,
+          "lng": -80.51746128029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "la Vie en Rose Outlet Sunrise Centre",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1030,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101629108969516910792\">la Vie en Rose Outlet Sunrise Centre</a>"
+        ],
+        "photo_reference": "AeeoHcJGPI3RNacA2Eq96ZJ_Kp-pXay0P7eRKALPAjJHyrpjXrwGbv25vAnyNcI9Ri5aHyGz9H3B7r-7smS4HaKGl4p8-TetveVPawIVzNgor7wOQhrhHvKCBcqXa0fVoKFRq72eatPzPtUfcxJojGR8qwMp_vPdXxo3lC18hSnjtqYwIo30Hp50f1gyw01pWcrVsanBMuSYQmgm74CO4TX9N7Zj4kKnqIMj0ZZuUvgzqOP1fxkzJ5GNZzZc9mgWPSUnT4bM1w2vcH93tx5n4B6HVreXH5Oj5YrshJJn8OndRMvdlAzB76lARGRQJ1kR3J0Iie75hxv9wNc",
+        "width": 1832
+      }
+    ],
+    "place_id": "ChIJOaWEnb31K4gRh8fvHKUxBEc",
+    "plus_code": {
+      "compound_code": "CF8M+MJ Kitchener, ON, Canada",
+      "global_code": "86MXCF8M+MJ"
+    },
+    "rating": 4.1,
+    "reference": "ChIJOaWEnb31K4gRh8fvHKUxBEc",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 111,
+    "vicinity": "1400 Ottawa Street South Unit #A-8, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.462132,
+        "lng": -80.5375445
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46364148029149,
+          "lng": -80.5364643697085
+        },
+        "southwest": {
+          "lat": 43.46094351970849,
+          "lng": -80.5391623302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Vivian Lee Boutique",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118141292848437638476\">Marta Borowska</a>"
+        ],
+        "photo_reference": "AeeoHcJRNm269BwFtrS-fbUwZyR-kArFN59E2gBWSVpZh5emyffl402pCUdWVnakbMy-zpyDHczAAv2kv7W0uAco-6D-XegMtIUS4DYu-CJqs1UU-QDhF3mAlqkSJoSTFjYpOoxbUvFt5qhzTvN_ZvNPKnm_rocH8KuiwoeVdhy4fgpSwXKsChS6nf4TY7T9Q3n3zLljjzTNgD0N7eDes_cJVhSCKxGgVuwvht8NFmrdjEGuw4LAc7-g0s_CJAkCsoItIvAeGgasBz_5cQ2l8Il8p6PahJLQO8Z1l9tIxJtqWfxiGhSdBnhrf-rWURQ9nsXEXZSsnMVZZz9Zwnzm7S-009Owvtes7oDngvMy-XhLLSBNDE0f5amDox4_AnpNlSkXBiq9GYUooXBZ36IfqVI3DjBw_1ueqSWQkJMaZxl-M9lmc7U6-vDicwMtkbIAs7jjzK8vthZkNccks1HZv4cxETlSSG5O-wEQs_NkoYhFjs2etVG0qKvF4zNlCAHFGU_VXT9EsRyZUy-xhNsjAj3kgPiT8IMTkEgLBBOlEnvzgEiF5kxaUzsB15amAwu6y-_LTYHa-pahIhGGLfgtyXy21ZOYUlpvIFPZeiyzgNftBSfUJatIAaPRbFhzpxWUe10ygkPYrjrQ",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJX5Zxihv0K4gRIiNeVshVo1Q",
+    "plus_code": {
+      "compound_code": "FF66+VX Waterloo, ON, Canada",
+      "global_code": "86MXFF66+VX"
+    },
+    "rating": 4,
+    "reference": "ChIJX5Zxihv0K4gRIiNeVshVo1Q",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "50 Westmount Road North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5081413,
+        "lng": -80.5544353
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5098825802915,
+          "lng": -80.5532381197085
+        },
+        "southwest": {
+          "lat": 43.5071846197085,
+          "lng": -80.5559360802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Northern Reflections",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109790353747549714152\">Northern Reflections</a>"
+        ],
+        "photo_reference": "AeeoHcI7xAniXPOPXwbX1_XDpfRqnoRb5VjvGlQ1_FoM3miOh0PWx0iA5q1lfxGgZrmYLEHqPZIrp0lAF4b-o6kPELQzBdxytwLaNvoeh3qY1cvxZRJcLXEgT2FjwSRz0SKNcMjGQt-76HnvWJ6ffQHHMVGwblxLLf32ZU2zdGotJsXQSau61zAuARIKcvhv3VGbn80hRmUo4VzwobvUM02LrlakiQy0mq3XUXy0B3stva84V8BNfDkJroLx25U8QHeCNvAxw2sOrtG14d7XXMWSUxzK9uqTaz0wUXML4pFnjYu96r8-KBbX8GHNzwMFKC48JY-9UDtwrZ0",
+        "width": 720
+      }
+    ],
+    "place_id": "ChIJVXg-D3rxK4gR-VY_8Bwgp10",
+    "plus_code": {
+      "compound_code": "GC5W+76 Waterloo, ON, Canada",
+      "global_code": "86MXGC5W+76"
+    },
+    "rating": 4.7,
+    "reference": "ChIJVXg-D3rxK4gR-VY_8Bwgp10",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 19,
+    "vicinity": "St.Jacob's Outlet Mall, 25 Benjamin Road, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5034091,
+        "lng": -80.52766900000002
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5047580802915,
+          "lng": -80.52632161970851
+        },
+        "southwest": {
+          "lat": 43.5020601197085,
+          "lng": -80.52901958029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Proforma Promotions",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108414054288759747392\">Proforma Promotions</a>"
+        ],
+        "photo_reference": "AeeoHcIIO4gBedtc1KgWqq_X6gPxMi61NUPDTINO0tHCiNAwTCEwvxY7cmxNynQ1hAJg90Olp5nbHMJnnnYXpbGQxjxjvsE6FBszp-4vKCS3Kvh_ADnPfyJVlvCASOQft9O76LZZmKjTMgv-lWQUWjKfA9CuoAHtuth6xbSmU7HuEALiMI0H5wipZMI55ro9NPjJYHNC6uxyS15-gXbIpNtMBtdpkLyMPgx5pZrN8r0sK_pePPOaXLj8WUkYSku9rz_Wby-wmHOuRRx-PU4RhEWPKmJWPHaASLXYS3ffX-E7_vm5zKQ3SrzX_uuituHfAdPbAoi0XlKWEZY",
+        "width": 520
+      }
+    ],
+    "place_id": "ChIJ7zVAgsnzK4gRnzEULwCpncM",
+    "plus_code": {
+      "compound_code": "GF3C+9W Waterloo, ON, Canada",
+      "global_code": "86MXGF3C+9W"
+    },
+    "price_level": 2,
+    "reference": "ChIJ7zVAgsnzK4gRnzEULwCpncM",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "55 Northfield Drive East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.51337039999999,
+        "lng": -80.52121400000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5147026302915,
+          "lng": -80.5198806697085
+        },
+        "southwest": {
+          "lat": 43.5120046697085,
+          "lng": -80.5225786302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Sunshine Kids Juvenile Product Inc",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJByoyYDXyK4gRc9CunA-6dv0",
+    "plus_code": {
+      "compound_code": "GF7H+8G Waterloo, ON, Canada",
+      "global_code": "86MXGF7H+8G"
+    },
+    "reference": "ChIJByoyYDXyK4gRc9CunA-6dv0",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "275 Frobisher Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5091265,
+        "lng": -80.554642
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5104236802915,
+          "lng": -80.5533841697085
+        },
+        "southwest": {
+          "lat": 43.5077257197085,
+          "lng": -80.5560821302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Trends For Men Outlet",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2645,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103263590135436237263\">Hamed</a>"
+        ],
+        "photo_reference": "AeeoHcLWa32m6zcOhw7AlYdWxmt7gS0t3dn4hwReDluTQwfZbo5wzi188Em8nfMgpc_A19dMhas6op9l_PGh-hR2AQ8VBy_VnNVtjTK4KsHUUJJZ1yqcDoRv9yVISXBon7MqWYA1OcoYyE440zSQKjiwIS_Gdz_ia1inFnRYyO_UpSWa4XaVBXluRrugpN5kBdmelArcb0BUibmIJRd2yGlAgPup8InIuGfqU_8mzrM5TCLX9ZtWauVkc-2WsKmg4-WgDKvPajnR3GBSA_hYzV7GtOzBi7NOH8QgkXI0sm7fdw5vWZQc-2Z2bSJ4Md489s0hckpUKlYbSuZcCpb62Wrxfd5E5Xyl2nCNDKXCvIEd83lfKryLXj0J7fyiXFH4CuuokK36dSTWzRpFAAxJidiQx9JEteJOfmEE6bRsw4ISlhNYcjP19c1JNQNZmuvYV6Hbh-fACZepSof-vuNIHdHWrVmQZCaFamLOywbSzHHDaZb5v8XLA1L0xGplqqXW51EbafB3ucDCD5W1lUJtySFCIlIFM7cZORbluZ-w8pIpJnaewxTricxW6Pxa9NEt1hbn5Z8IaZCxiRpy05OEUzwYl45_niFAw-qT1fVYiaKsSgMCgaJ-nm51FRnjgzg_aUZkCFthnzqD",
+        "width": 3999
+      }
+    ],
+    "place_id": "ChIJVXg-D3rxK4gRjjm05Iqu0CE",
+    "plus_code": {
+      "compound_code": "GC5W+M4 Waterloo, ON, Canada",
+      "global_code": "86MXGC5W+M4"
+    },
+    "rating": 4.3,
+    "reference": "ChIJVXg-D3rxK4gRjjm05Iqu0CE",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 44,
+    "vicinity": "25 Benjamin Road, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.465122,
+        "lng": -80.52202799999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4664462302915,
+          "lng": -80.5208377197085
+        },
+        "southwest": {
+          "lat": 43.4637482697085,
+          "lng": -80.5235356802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Luster & Oak",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 430,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105814191744576058287\">Luster &amp; Oak</a>"
+        ],
+        "photo_reference": "AeeoHcL8ZWORbMITK6T-h4iWS9ipXcGZ73wGTLkLW_c-aCXmgpYvEelcy9Pfvsla3-7aKo5_YwRRlsj7V3IK8GJL3cXrLl0oVBe3KlQG2CFfZTqWcbQUUBhyK-SdIzBa_g4IVgFRjpXbyAs1gUHjt-NjrO5FsazhpDKJJQkw14IMTA955G1pOWCG_2dcjW5sFYChcm1uR5ThzXoF60mqqhM43I67fJrR7I2ZucPFOJyYreUlhMvfjAf0mOcrgaSl13PUeUL1u852uFmEYmLGjjIGCAC9bvQSZQfF1ofRYf1hQ7ukIeT4sJ-7A4aGod-Df2GZblt3_PSn4V0",
+        "width": 645
+      }
+    ],
+    "place_id": "ChIJHdBuRQ30K4gRecTE_HBGXw4",
+    "plus_code": {
+      "compound_code": "FF8H+25 Waterloo, ON, Canada",
+      "global_code": "86MXFF8H+25"
+    },
+    "rating": 4.2,
+    "reference": "ChIJHdBuRQ30K4gRecTE_HBGXw4",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 133,
+    "vicinity": "2 King Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46470399999999,
+        "lng": -80.522573
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4659442302915,
+          "lng": -80.52102761970849
+        },
+        "southwest": {
+          "lat": 43.4632462697085,
+          "lng": -80.5237255802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Running Room",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112556289594355883400\">Running Room</a>"
+        ],
+        "photo_reference": "AeeoHcIliVqxoOzkICF8-Wz5CMddv2ZWXqr_GpO7D672W1DlH5HfeuvC1FxLtJNxBYIahNnWOmiG-mpTTDE_w8Z-uiwfEiccLisoPsyXTLn1j7Z7Pcj7cwJnJYJsx40egLkP4Zdp4UAcaTKFc-Sw8rINWAvR8Ph4QWeA-sSd4o2ExXZUbuTBt0Gi0jdoiPGTtO46qGbbEAeOXQSZOLMPGar2XcOvWfBxfco-nfunD_Cgh0TAHrGmutdM7py-ItlwvMhH5FUHwM2rZbUY8_MLBfUyqjmCZ31zQJU7SgihZv5KLfRiAxTqiG6CsTMiBUDLNrwCsqzISnRRje8",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJNwVfVw30K4gRWtHUKUH-23I",
+    "plus_code": {
+      "compound_code": "FF7G+VX Waterloo, ON, Canada",
+      "global_code": "86MXFF7G+VX"
+    },
+    "rating": 4.4,
+    "reference": "ChIJNwVfVw30K4gRWtHUKUH-23I",
+    "scope": "GOOGLE",
+    "types": [
+      "shoe_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 74,
+    "vicinity": "15 King Street South #3, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4635366,
+        "lng": -80.5235711
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4646240302915,
+          "lng": -80.52212346970849
+        },
+        "southwest": {
+          "lat": 43.4619260697085,
+          "lng": -80.5248214302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "The Sock Factory",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100346015999649802049\">Mitchell D</a>"
+        ],
+        "photo_reference": "AeeoHcLdDeUMSTfY-Ba0jr2-Y2ZNhxp0AL02sDK6RC8z5d43D9IuXKYXFh4Ly8Gvkhd3iu2lLOINhUc7gOUsXKIUMy4CG4Id2wpmak5RJ-GkSxiQ8Du53wX5OwuG2jWnBpa-K-L3i4o6NYSrZdWP5iKteAK67wkbBAbN30xM4dt2cddaGBNBXUZfXYG8eOFmHG5sjmu5BgDVnQXRhLxSmHNdsGWMEjmwOFBHwuW4aE-zjv5aeqq0ESFm48RhDGSUbWOnt5e2Dfkhfto4hVRUvAJ9iDNF9goSFHOJ6bjQmGc_oBs5iT5dDwrm4ZIRlGMWKJTNCGu2XuQ8EBKjeqrpF31G9yHfHb1wuR674lV6fXcl48KueCItpRRxxB0F1v91WHKJYju7SUQ6wj7JeiNF0CByzJPWfmc45_s_wwF9vxSLVhRWytyPol_Fmf3BjprmyQyDQi7OzVhUR8IJ9Ljo352tFMlH68USOHMnMm_q4Sua2l8xFMRwBug3sI4GPvJF_AgNmLFYJA40jDm5nWClXoBwtrzGTcIY_qzA5aPaxFuhyZN4J0g23bDF9Rqa2IktBKsY2JAiJceK6gxml-vwZu7tszbCgKBgvqs7fLS3HdC4CkRoJiaxl_zt0lWh5R4lT8tC",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJPVdXkhL0K4gR2IHjQTosfGk",
+    "plus_code": {
+      "compound_code": "FF7G+CH Waterloo, ON, Canada",
+      "global_code": "86MXFF7G+CH"
+    },
+    "rating": 4.3,
+    "reference": "ChIJPVdXkhL0K4gR2IHjQTosfGk",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 59,
+    "vicinity": "75 King Street South, Waterloo"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 43.4628485,
+        "lng": -80.5233698
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46425243029149,
+          "lng": -80.52192626970847
+        },
+        "southwest": {
+          "lat": 43.4615544697085,
+          "lng": -80.5246242302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "UNIKONCEPT Shoppe & Lounge",
+    "permanently_closed": true,
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107048044530463918142\">UNIKONCEPT Shoppe &amp; Lounge</a>"
+        ],
+        "photo_reference": "AeeoHcKRxSrqOBB6tEEuIiKRcztMFnBBPZ3UgkNbe2y90NoPivFfT7Qbnj-7W3wnaASQwVmnWHK_bzVAaMGr_UmNVVPbm4ksW0xkQJfcRpZBfnICEg3WkPRBVm9vqgJyjKq_CYPOSoJ77UVc3ef3rX6h1xhu78midagwa-SHLSDEfqkaW_VKoYmxdDPGIcQ6mdO4S4A3up_RTR9Zh1-MWwJMQAQcq0ywwznON0hfYJZWF6MKZGBfjmmSGbeFVGl5dQz-RJ3Bd9M0lKvUNkU0JqEYDT7Bk1M7MMupgrIqNogrbWVUtDpZQB-wjTasUDwWnpNr9_AAPLvRKD8",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJXcFrMwb0K4gRJpb2xn87OwY",
+    "plus_code": {
+      "compound_code": "FF7G+4M Waterloo, ON, Canada",
+      "global_code": "86MXFF7G+4M"
+    },
+    "rating": 4.9,
+    "reference": "ChIJXcFrMwb0K4gRJpb2xn87OwY",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 58,
+    "vicinity": "85 Willis Way #115, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4599179,
+        "lng": -80.5182167
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4612503802915,
+          "lng": -80.51688591970849
+        },
+        "southwest": {
+          "lat": 43.4585524197085,
+          "lng": -80.51958388029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Inspirit Beauty Lounge",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 706,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108486225150197007858\">Inspirit Beauty Lounge</a>"
+        ],
+        "photo_reference": "AeeoHcLq_8rNmRfXbjkA1qDpkhkKtKeUhYr9xqj6XC05VphPfjsl9UJ6fmD-4RQJ0QHh3szwkbXNah6oxfCH6b4xbzoNmMGIqXgYYRXKTelURYed_wIYI7UegD1f1Cd1FBJp6_5wxq9dK3XdxjJdzr9TsYtTxcuulySU4o_41xmGATKEAYs-Ip9OineOno-zBphIt9KBLfovjTt2dR8_4DomVDdVR9hAxVHxA2zEoKSqXnXumFekpdY4Q9Fm993GMcdO4qe2SNiqFBzTHt_H3xtO6nrO4t7fsnsQd2ay_NMONxhHvbS13bichhT3oIjq7JdBgb6yeBX3J3I",
+        "width": 706
+      }
+    ],
+    "place_id": "ChIJH3TDQ4L0K4gRPznEn3ssRmY",
+    "plus_code": {
+      "compound_code": "FF5J+XP Waterloo, ON, Canada",
+      "global_code": "86MXFF5J+XP"
+    },
+    "rating": 4.7,
+    "reference": "ChIJH3TDQ4L0K4gRPznEn3ssRmY",
+    "scope": "GOOGLE",
+    "types": [
+      "beauty_salon",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 67,
+    "vicinity": "194 King Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45337729999999,
+        "lng": -80.51768799999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45469418029149,
+          "lng": -80.5164212697085
+        },
+        "southwest": {
+          "lat": 43.45199621970849,
+          "lng": -80.51911923029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Baby Charlotte",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1224,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112410199890423181161\">Baby Charlotte</a>"
+        ],
+        "photo_reference": "AeeoHcICeqjPlV4WoQnThLMd_rhWnc9f5qFYsCcyFX7eYUF5SJFQAH8Ulvj4T_BI6V4GEbz8OmiiG_rMExsgLH3utprgYJs3nrtAwIlWYYnpCgorYQvCyZMGCZtmDn6L3SmO0WzkuKbjO1v6oD6my-bztbihV6_yzZEr_nw2rf3BOMYRm7pBAOuji3obn65t8VT8UA6U808vXRXwEPmtjhpv9xc8J1WKjcJqKyK5LWZ0OQAeX8cIAKlthFj64fLMEmYrG4nKaEOKEy1x58grpAVzJWm3XaZRzaJ1FHwNZfT8Gixi8mlznfBzI-oZ04GYkRuid6Hu_kZXVj8",
+        "width": 1632
+      }
+    ],
+    "place_id": "ChIJxWcqe3zyK4gRTNeK0jCdiXw",
+    "plus_code": {
+      "compound_code": "FF3J+9W Kitchener, ON, Canada",
+      "global_code": "86MXFF3J+9W"
+    },
+    "rating": 4.8,
+    "reference": "ChIJxWcqe3zyK4gRTNeK0jCdiXw",
+    "scope": "GOOGLE",
+    "types": [
+      "shoe_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 52,
+    "vicinity": "692 Belmont Avenue West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47336000000001,
+        "lng": -80.5294428
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47437678029151,
+          "lng": -80.5278859197085
+        },
+        "southwest": {
+          "lat": 43.47167881970851,
+          "lng": -80.5305838802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "The Hawk Shop",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111960333158736096791\">The Hawk Shop</a>"
+        ],
+        "photo_reference": "AeeoHcIXNcN27tz8C4ONo3c-5wjF_n3xhY0X97FeLf4GgTc1HrZAdvZXLdXg2TJveLQ-W0989afU7Y71e4cA_ElFCCo6xA1wp13lRssUtZ9lISuXhiF-PKnv72AnxgyH6TpIEnHLkvUqRhrzAzL6_mbKkc7d2iVrZLUP2WIC2YEZ7VijBsBev-tc1b5iqltYj0F44V6jw5apJuLzZdtaHtvRjHOz8vAgQJ0OWGepJ1EzhInZall-vJgBh9dS9IuyiNqz4C3Cllrzk8H94UuRbs1EPXzvvPgM_1OKM50q3uYLXfXHz0sR05MqgsiCgxKa1ZdolpZhabS_040",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJAcmhwAn0K4gR-6ysq3E0TvA",
+    "plus_code": {
+      "compound_code": "FFFC+86 Waterloo, ON, Canada",
+      "global_code": "86MXFFFC+86"
+    },
+    "rating": 4.2,
+    "reference": "ChIJAcmhwAn0K4gR-6ysq3E0TvA",
+    "scope": "GOOGLE",
+    "types": [
+      "book_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 70,
+    "vicinity": "75 University Avenue West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4819365,
+        "lng": -80.5246234
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.48333763029149,
+          "lng": -80.52333201970849
+        },
+        "southwest": {
+          "lat": 43.48063966970849,
+          "lng": -80.52602998029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Tri City Cycle Clothing & Accessory Centre",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2418,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114459365329809661122\">Tri City Cycle Clothing &amp; Accessory Centre</a>"
+        ],
+        "photo_reference": "AeeoHcIUmtk5DbwrJIncSxKKSEiKSMRfaVqOWO-yMr2lI7OSGj5FW27TdbyYFHBAE5K3nMRjFe94XaA-i6HZr6iSmdJVmLpASjcRFm32lGes9jyDDABR-cSLN8oJZBOR5r5sHcgs125TDbiYY5hiifyVm7KVPjiwfalutVT64NsGQQWCFEkoIaNxOj4C9iVmkTLnlNvovQxSEu-ulkcLaBHK5eq_gOsDRL14jZrmFCSpaeetGgdxurZRErLMS_chTimHXf4yXVZkdz45R7PfNk8h14Y80EAxy9hdMResqbFSzboAdsbUd9Y_Y2pt10dsBDzAyh48nfzlX1s",
+        "width": 2418
+      }
+    ],
+    "place_id": "ChIJvTpjV_LzK4gRMw37hUzxNBI",
+    "plus_code": {
+      "compound_code": "FFJG+Q5 Waterloo, ON, Canada",
+      "global_code": "86MXFFJG+Q5"
+    },
+    "rating": 4.4,
+    "reference": "ChIJvTpjV_LzK4gRMw37hUzxNBI",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5,
+    "vicinity": "360 Regina Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4611411,
+        "lng": -80.5222735
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4624372802915,
+          "lng": -80.5208326197085
+        },
+        "southwest": {
+          "lat": 43.4597393197085,
+          "lng": -80.5235305802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Valentina Bridal & Couture - BY APPOINTMENT ONLY",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 758,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100242216374623216212\">Simona Gagliostro</a>"
+        ],
+        "photo_reference": "AeeoHcJMcBXRGj5BWNARTyB1_4mNWEoVl5vEWFMpoldQPjlOXqrCwEE-vDe9dV3QgU-qTKRXc5rCdL_LX1rpaDquYI1ILM9HJYIrmhajk0IXcdlPxu8doAqVZAqY_X0EEwo8CdXOAIZx5tiWRavl94-0OnXwu8pbiep0aDefEoxjeLh47_AqijoCT4I1uOeth1xi1vVd71iTq_wwph_mpE05Y3sKmUk5otpFuD1lcdH9nUm621KFc0hMWyOwCdgTt8DKvARp_Je2CTKs3yt5JVQJLBRk_OjoSlRgpU2hwQc8hQ7Ma1iyKtDT1ke-n3uBh4E9DQkyIAZKiUwVq6tY9KPgrfXXGxNYfmghg_f6J_KjJrMig5hjGZaBzEFOGiE1SdEFX5MzrpnPzKbxNIxZYnix3Whtv0jR2mDgEdtsKJMwq0I0TDU4wsL8YiSWPrTP3E6AsKd3OHxV3A2Cilxb92sbk99k6V9cqJQQ-a6fD17siHGPzRoL4TJW8gHdfeRzDGC9QfBF19AWC-lfSHqS4E6mhGoZrAAJJhmj4z0V9GWmwftiCwHfEUjRelCJib20f4Bjarv8wBQWJxFww-4rA8MZPeefCHdaZNOCKrJ_MpgEHHWBENaEjucLCCi-AkaF1nHYQK1IAQ",
+        "width": 1599
+      }
+    ],
+    "place_id": "ChIJOzx5NxP0K4gRFlzPmzuD7tw",
+    "plus_code": {
+      "compound_code": "FF6H+F3 Waterloo, ON, Canada",
+      "global_code": "86MXFF6H+F3"
+    },
+    "rating": 4.6,
+    "reference": "ChIJOzx5NxP0K4gRFlzPmzuD7tw",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 180,
+    "vicinity": "20 William Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4690658,
+        "lng": -80.485081
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4704684802915,
+          "lng": -80.4836919197085
+        },
+        "southwest": {
+          "lat": 43.4677705197085,
+          "lng": -80.48638988029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Paradise Boutique",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 5712,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117372609173176377332\">Rahaf Geisa</a>"
+        ],
+        "photo_reference": "AeeoHcInA13TJx7gym2P49VW0g-skTsgBx4qVPziwC7pCEDkp1dce4ZkK0dky2sLjL9aUo_3qEAopzVx634sVV5od-8D4GX0cjZltS69996oN8wNdb1AZ7ThOn3Ais6S3GpQLPdJl_E-DV4cLVztMzG2j0207c2Cvp1y1Xl1hPDi3HwlL7JLC_WXUZ0A_A0--TcprAgu3lDhoPkUz2MeMfaiXFp24a6K4AkOD-o9WwbOWyVzWQiloIJD0NS-6AMPWY5mzVJotXnls0kuQzK_j8kOLwvmFN-IAUmfUIQevU7NnXAeu-BSJIrTxR1tTgGnYkNlHr90mvw44k4hGUreFfli-yMLNyWVYUA-Vt3iFYXPQv5orRFRX4fWKlX1cpb3sygPChw7If3vWY_lMKd4_MGQVqQnOo-M9kL1NkfYff8PWZYokA9kkvtqZzHznEjWbo8EnNWFwiyDYCr_qBb0Kz0RsbhcT4gjHk3NVXJZKQBNdwXgMMgrUqWvXZcyNW7Bw-Wj-uEyB0iAKA7tk1EAHUR3sq_FUBu6HuErGEOZReGGuOfiWDIvh4dOWurjjcYQq79-FD4Dgotzmm7zBqyI04JkqG4XmW0GsNBwH4Apdylruuu1ZHTq4gePAEPqSRxvF1XFulK36A",
+        "width": 4284
+      }
+    ],
+    "place_id": "ChIJDcvKvp30K4gRNw5ihXwuee4",
+    "plus_code": {
+      "compound_code": "FG97+JX Kitchener, ON, Canada",
+      "global_code": "86MXFG97+JX"
+    },
+    "rating": 4.3,
+    "reference": "ChIJDcvKvp30K4gRNw5ihXwuee4",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 91,
+    "vicinity": "315 Lancaster Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4485111,
+        "lng": -80.4845826
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44990853029149,
+          "lng": -80.48319181970848
+        },
+        "southwest": {
+          "lat": 43.4472105697085,
+          "lng": -80.4858897802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "The Green Door",
+    "photos": [
+      {
+        "height": 4080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101832441299243079744\">Emmanuel</a>"
+        ],
+        "photo_reference": "AeeoHcIHhBqDYRZ7E7buBRbog1TAEwY4QXA1VspfFAo8LlBckYRwdRA4R3SY0cnyJhkYSkdZjoDBCC0MQgvF0nIeEJ4odDp3Du29t4xEKPSNiRJ-SwldfDxAg4T1Y_wtu2qgOBjRQnAeASNATgYw6DpJQR_arQK5zGZh-f0RTKkd2xa6Msx6Bj3_25iUZPNpUBVsze5Eg8U_pCjD9FyHECiu4-VG_VPCl2y6R7vOw1HfST74ZmWBWHhZqEMIOyre5reNIkkLckld-ahgXuvjbx0BP6wiu4lw7PB_nxQMNx5FbU5BgfDwspdzlHzYWQ-7wc-zq9QIMwA-FPJD2AEQoXk6zEKg3PZsaWNGLBmqBsY6hxX07KEB_E3HaaavctynOAPYrY5HIyG5OoHhtrT7UankFH_6cssFwk1p-iItDbGPhDHjnuTsQ4q-CSH_nnHxcqIs11a44HMicMt93-QNNfOIGJpoeCacOERk9cWtKpYOKA9p5ymVT_F6lN2hHR5ks4M_2Xrr7RhpMpYhT7DGFgBGzVlpicGUIQvYgEHhnjKfEYgRSYTjUtFpIzmxFinWs1S-8tk2FhxsjMmO6hTKdYs--D-CmrupPApxcvdctxfpsR60EAJKr_6l3vOT5d3WiXmWtnGzyQ",
+        "width": 3072
+      }
+    ],
+    "place_id": "ChIJMxEMauz0K4gROux36yheOIg",
+    "plus_code": {
+      "compound_code": "CGX8+C5 Kitchener, ON, Canada",
+      "global_code": "86MXCGX8+C5"
+    },
+    "rating": 4.8,
+    "reference": "ChIJMxEMauz0K4gROux36yheOIg",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 35,
+    "vicinity": "37 Market Lane, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4974522,
+        "lng": -80.5264948
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4984304802915,
+          "lng": -80.5249009197085
+        },
+        "southwest": {
+          "lat": 43.4957325197085,
+          "lng": -80.5275988802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "RW&CO.",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1520,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107198089164830315426\">Deepak Vishnu D</a>"
+        ],
+        "photo_reference": "AeeoHcKVl6PwFhj07M9nH4OZx3tmX3piKDooZhmrZqf6oLgZfuyyuAGRBkD0doTknmir08GQE2U7lVHT3ucwDfZOzMTV_jvzsL8fSgF6ncJktVMEMOHtEaOaadkxzvnDuui4a_j1mK4x1MIk1md_eZhwQJd-AT0ePsh5UucLoljQVkrDy_oqgKLljy_XgvsxDfrbBuElZIkHsREGae6vwnTZ63PQEYJvARvibmjwBln7Xe-7u9o-7I10FUAF0Y4-0k62UUdc3gnfXmqNOBBO5HU2v9wO-u_3QcMPJRG5MAllsZFgfGLOslCRvWHT1VVUiHu14BJY3PK3cSTJzlQNpVQvW184m5xKencstQgp7pdRJa7WHfEGwcU472SOUUpL1Jn7yGjUF6_WkRSfk0EZOkvDSRMEnpBlBKFNiI5QQjYVs_Y05EYcYFlhvf2QyBq-KPuzlsPDTscHLUy7gq3dLW8irHNZzBmaUrAsxuqoYgg3mN0ETeGjzdF88gh4bA0uqqj_c1cZ_yZaSmTgmwGeLeMhen7i4LY-STdlKaVSKhXjBwDIewIfoj9hqo9bJLYjLi736fZDlIXxyum2f06YBC_mQhV5RKLiftUTN3ogD_fj5YyqnTultWAniohh0lw9fdO0EF8FeA",
+        "width": 2688
+      }
+    ],
+    "place_id": "ChIJ8zLhFjMCWkARQ22WkJfqqKY",
+    "plus_code": {
+      "compound_code": "FFWF+XC Waterloo, ON, Canada",
+      "global_code": "86MXFFWF+XC"
+    },
+    "rating": 4.1,
+    "reference": "ChIJ8zLhFjMCWkARQ22WkJfqqKY",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "shoe_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 131,
+    "vicinity": "550 King Street North, Waterloo"
+  }
+]

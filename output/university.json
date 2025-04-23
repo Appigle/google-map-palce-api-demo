@@ -1,0 +1,2742 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4722854,
+        "lng": -80.5448576
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.48963325,
+          "lng": -80.52672855
+        },
+        "southwest": {
+          "lat": 43.46189984999999,
+          "lng": -80.57275834999999
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "University of Waterloo",
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105351660556364510876\">Jason Xin</a>"
+        ],
+        "photo_reference": "AeeoHcKsXsNEd68UEIguhmb8vfdJxZppl6iDTPpoK3kKAfevJiRJlSuClxwF45wWGm8cDsjeLjqFrqpb2qXHMLOCuV5RV0w3P7xVz_biIDf8ob0f0c50NI2y519hHwBAxg5Z74KLWWfcJjzGSLFazjF_g0d26R1rmEmaATIxfQQ4W44qgidFtrqZC6dSgQCms4BskrpMmAUwg89wKnfo1FvCbGieKH_WeQTndv6fmwOb62flRvPjQfensl-l7tycJBq3i-1KhZTs9iAladegpBETV7fFAgnzSUOQ6rfbjf9DaR4m73fQKNuiJzvwVyrxThfUzwr7KSwJDeRgzr2I6KB2awfrPBds36mmF9tw-Q3YXeZrK1AiHp5SuWr3VwUyXTCn-nZcBxaMIdZVmhBLQRVlyrN57osLrr18NnbqUK8i0uLGa_2lS9Crh_W06iFATZV21WDRmdSXYpJFnH3TwNxIKFYV5ooVby3eYc5vaHkuDrfGvj86oeQSZUEO2JOyrzHiqx2hbiQr8xU_S2CKeyFmB_R1TavgkAPp1YJXHC7A6lkCofmi0J9R8fjncvHLOly8p4VsYOQuWOHEw85iDWs8WTFfiiuYaRs-8SCHly4R032DyodXmTMX35ozHu9vTcYckzT9Wuqt",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ_8ztAq32K4gRF44mljnynd0",
+    "plus_code": {
+      "compound_code": "FFC4+W3 Waterloo, ON, Canada",
+      "global_code": "86MXFFC4+W3"
+    },
+    "rating": 4.3,
+    "reference": "ChIJ_8ztAq32K4gRF44mljnynd0",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1109,
+    "vicinity": "200 University Avenue West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4835113,
+        "lng": -80.52484
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.48492448029149,
+          "lng": -80.52332226970849
+        },
+        "southwest": {
+          "lat": 43.48222651970849,
+          "lng": -80.52602023029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Gina's College Of Advanced Aesthetics",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101038344528051208666\">Jeff Mulder</a>"
+        ],
+        "photo_reference": "AeeoHcLkIfYa93tgyZ-SrdBe9uYJAkS8vrt-hZvxoHHyOYNsq6fVcKSQMYpZDtdvz-m4IR65jVnYPgEdv0LyKjBwXW6QJmQcMfeMYDBzf8w-4uFGXwZF2Lq621-iycVcarc_jKGwVafYK-fItSYU3KdxasJMMjT7iMEV0SKePnvYPYaw9fbVGdLnLS5y-ZLuDzd5kzxypuUjCeHemGOlL7zVIxwyr1ApZKOy-ARxi0_ypwsC7AQbTPFzBP4y1W0JL3kHHFhbvuTrBhNtBJbhxNf7awdAY9K7cdBwrB8nNHlmKDIPu4dsHYjkl90YVU31I0wXWjwuPqS6E5HqnR1V7K99JIO4p311jJENiZhdeUzAly_GH6WBQo_X1Twla2RihN2OWgnzG7Q8-dhH_f1JJVf7UIbiT2LTZk-QyyyJJK87NMiK0ndYa7Z1wkb2LDYxAnZoU9JU2gWWrGfhmrIj_hA10gb6xUx5HFau-0ccT33QdIl3PfUtI7KQOfxX8oQT5uLAqh1U8ioTFja19Cn2nuSWjejf4dLCyyT7wvv1hne6H5QMItvo6w0Kxy1BpRJNi9lDCKOOEFFpfIf1MtYBVaoSHURtGVxzNpI1gQj8no6YPkBVtEp5RowEvN6TpRbmU3AqadVF0P7Y",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJQxyXgO3zK4gRuyClb1JQjmg",
+    "plus_code": {
+      "compound_code": "FFMG+C3 Waterloo, ON, Canada",
+      "global_code": "86MXFFMG+C3"
+    },
+    "rating": 4.3,
+    "reference": "ChIJQxyXgO3zK4gRuyClb1JQjmg",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "beauty_salon",
+      "hair_care",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 83,
+    "vicinity": "385 Weber Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46960540000001,
+        "lng": -80.5465123
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4709097302915,
+          "lng": -80.54517686970848
+        },
+        "southwest": {
+          "lat": 43.4682117697085,
+          "lng": -80.5478748302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "St. Jerome's University",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109270586612419307668\">Milton Segura</a>"
+        ],
+        "photo_reference": "AeeoHcJaWKwykt481KfKF0g_6hs-0T3WbrLtL3tXu5VhAicyohJfTKbHIFvkgPEvOYI5PvEG1t2KDxd2wmocxirM2WG_Sj62KZM-NFZFddjKNIXj2TPu3FHnU8DBAKUhAaVsDNf9so56p3TwdNe0N7AspQI5jEI-ANexFFa6wc1-2S6UZ1fzhNr1FMUJ_v9QXgkcSd9PYM6L05GwDlCDpWtMF6whl_H8GXIkfyY-6sg23HAqVfIFMggemead9YnaJWX8V2jKv5jG9Bg9X0s26bBB3DXMwkL0rnuddMtR6T1-rj9Y-8UXaPQQ5RtckwAOS9_vXSb_fJyrXUJ8q-uAv13Ih14N-CGXWA4cQzm4Lh3vXm97TAuoB59cLrhKbSiS2HnT-mQYjM1Hsy_XOL6erxmWNLRIP_ee4lv0nhZ8er-0r9IsWvS3HwUD3UHGhE9zJqEcp26ToTUKForBlhj5ANU9b1lBF6bqRr27ZADDQTCud3kfPOBMetsch5xngPPSh0GEtdXIKfyzJMbLbjWZj91n5TufSvb9WYlrPKtioUaI0OQpT4ZR8aBlWtpU3lbRwFNwC7NXygs52VjRMZUXZrRCw2uWeP9FXJaJLdkhAYlBmkVgML_NsvTMxkDCnpdgGXGMt-JyEQ",
+        "width": 4080
+      }
+    ],
+    "place_id": "ChIJ3Q1cmgP0K4gRYct0bo-2EzE",
+    "plus_code": {
+      "compound_code": "FF93+R9 Waterloo, ON, Canada",
+      "global_code": "86MXFF93+R9"
+    },
+    "rating": 4.4,
+    "reference": "ChIJ3Q1cmgP0K4gRYct0bo-2EzE",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 36,
+    "vicinity": "290 Westmount Road North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.469487,
+        "lng": -80.5476754
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47088018029149,
+          "lng": -80.5462057697085
+        },
+        "southwest": {
+          "lat": 43.4681822197085,
+          "lng": -80.5489037302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Renison University College",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105223214983245069694\">Ruhiyat</a>"
+        ],
+        "photo_reference": "AeeoHcIvVdvdFjrc5ramJGgfZeLjeLmwxHyB2nkYJ3uPju8iVODfuYPfvexXALsVugl75NSqVkH_F-OjepR6Nb2DcgSIqaVPa4Yr_4lPszY62VvsL6FVA0yfwM68btGk2MFA4K7wFvYKWC89nfEAcaqT8nkAYbIGEIGlT0wqM_gCt1zabulyW-9D8daSiaeV0-LcA9QqbDp2WynNfJDCeuZPDgR9KDqx5pUnGnjLWiLsvzxR-JpWdAvrtLgOVC9cZd3eBToieUOTy8aN_TDk9Vbfblpk39KD52hexpPj6a_E-kvhCEjD_0cX_AXzdF5msyD2J3PTw7KcVoPnI-OZZqve6m8XSZYXRc2r3mgYvzYDn4GsYFPGbCOiuDwd_FGld9d6d9ggWF2t5xitp9ClV2KXBjNLnVNhfAzUOeSHWbK6dS20EPOlaJ6Zz_7dM12myRgBE0G2jdxypkubqG2cSXLTTYi1AZxIQPLP3uaV8_pRr7bI5p5EhlUQr3G1VYq5UGcSjlgV8wLciVO9pnjeZStIaymM4dmDVuTaUQf1v4Bm76TtXkfBr-_r_ZdKeHGVHgxxgEGGBWFbJH7JewDjI_Aba2mWwoYv_L2oG_6nrZX9c0600Ykct5brGLwQg0dOVoVaSy8uAg",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJdZAh1aj2K4gRz7hxlguRM_Y",
+    "plus_code": {
+      "compound_code": "FF92+QW Waterloo, ON, Canada",
+      "global_code": "86MXFF92+QW"
+    },
+    "rating": 4.4,
+    "reference": "ChIJdZAh1aj2K4gRz7hxlguRM_Y",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 53,
+    "vicinity": "240 Westmount Road North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4738499,
+        "lng": -80.5274701
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4785373,
+          "lng": -80.5206309
+        },
+        "southwest": {
+          "lat": 43.46905409999999,
+          "lng": -80.53539049999999
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Wilfrid Laurier University Waterloo Campus",
+    "photos": [
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102824176067937656860\">F. T.</a>"
+        ],
+        "photo_reference": "AeeoHcJ_WbYOACaR_0X4mRQ8h2WKqQgv_sQbh-Lf_olwrOWlKYicJhBasMbna-RmdZCzUnKV5PPM5PSdH2TopuXaxJFiQIIbi3lJKyl-4dtyqCBStdtnoI-gsZPcOUdtCUdVezkndEM1yFmHBhp7w-yomD4dXFlxqNBbuAAq_-c9qNp4teBzf1bfUHTRYcU4ozUy2iq_j_g71d16rdKhI8DVY9NeHCslmf7RK7oxvP5JUZMtpPqMSs2S-rrOfygaCuKENfXPnM7VZg3nB5nzlkIadA92VaPfNdoivUQz_JfI89_9B6JX5x4Q-cBZXucnOLaeEQynCyqwQnaAeaKiMLY9YbXzhS1B6DNbkiLFxnKXMlHNOvnImroWc0WIbjGzidhUYYDnXtowMZRyCuxRkaOSiWAYFEvaDkNAhZpUPa3BzQPKa_6SKfh5GNmFAirI1boL4O64rq4N46C3laiVODPRsF5_Di3D8CsiHQdBQCbLNnDxzHuH4COks8tdd0W0KFh4xUFlBCaA1gGxb_e6XokOWejkD8LTGItCuf_BJrc35kj6SRic-wVG8tPvUsqmefl6C0mI-RMiWbUBg6lvrdcUYELu9j2ihewgqFoq-bCdP6Z3c5l8SpHogKkUC_qOSIdjAi3PnErw",
+        "width": 4160
+      }
+    ],
+    "place_id": "ChIJI5ofG_bzK4gRNyU3WUTmJNI",
+    "plus_code": {
+      "compound_code": "FFFF+G2 Waterloo, ON, Canada",
+      "global_code": "86MXFFFF+G2"
+    },
+    "rating": 3.7,
+    "reference": "ChIJI5ofG_bzK4gRNyU3WUTmJNI",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 462,
+    "vicinity": "75 University Avenue West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4718546,
+        "lng": -80.5453731
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4731043302915,
+          "lng": -80.5443208697085
+        },
+        "southwest": {
+          "lat": 43.4704063697085,
+          "lng": -80.54701883029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Student Life Centre",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1944,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115963730535197301308\">Eric F</a>"
+        ],
+        "photo_reference": "AeeoHcIygroqMTbvS2Z47eCNkrV-sA-JDUzsjlBOy6B_CO0c_PyAlm4FzCEU11ukMqZbb3GMNmy7fctmtJLlPlVVaj5JWSfa6ilvnR8MEwvfGKs8zs3m10hW1TC1bOsRiKwy6iHc_QZ6vHL5Y8BjnJZQ3Jd4G1chX8l0T4bLpslupSEr3Xz_sFAZ0JEOJ6eUXt_8hrQ-tCFXEacUWtOKNb9iXCaltNKtynPfys3O5WFXQQq6gzp_JJoG4O9O9_V2ipv4-nVOfg60A9jaTgya8DhGZ_FYG4Aa60IukUU6VeyWLk1uD9-_hHrFTnbrWKdR-TaD0OqP1wsDz205YRIX_0xqY4Fr1ETzakpeHbTWdB7UgDNMJIPHFQpjnsdHX2oeZlbqEdzSwXmeQP55FfH-0AtKZQ__Pd9fEYMYtQyKPK_dKzxybbIIYDx3uygC15NwqEF9f8L8ShMjvO1r5mD8bNpuAN3bO8hneN9O293ufgZTVLYbErBSRKSgc4ptWQ_YVN9UmzjSFU_dOjqA-t3V3lsOg4_O8gPCxPCkmK1q1NkNt8dh6ko0tAreRwhwoURMoGEyEs8bhYRbRmerUOVV8LnzYjEnUNDN8ZnSabwU9RsA4GlJR0_2mJGwIg-ATH6RX6lXHMsFks6W",
+        "width": 2592
+      }
+    ],
+    "place_id": "ChIJi03GIqr2K4gRz6yy9xQ3EGo",
+    "plus_code": {
+      "compound_code": "FFC3+PV Waterloo, ON, Canada",
+      "global_code": "86MXFFC3+PV"
+    },
+    "rating": 4.3,
+    "reference": "ChIJi03GIqr2K4gRz6yy9xQ3EGo",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 265,
+    "vicinity": "Student Life Centre, 200 University Avenue West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4712794,
+        "lng": -80.5400366
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47270973029151,
+          "lng": -80.5384905697085
+        },
+        "southwest": {
+          "lat": 43.47001176970851,
+          "lng": -80.5411885302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "WEEF Lab",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115329361452258590340\">Mauris Winata</a>"
+        ],
+        "photo_reference": "AeeoHcIhXLt1EFACC_cgskZjnnIwZXfl14lq1hrkxS-ATnp0vk4NFBujHhbvoNqfWYoYwetz1oYNatwXczizT9XLvm8cTRoRdw36GBKiJDJd4glT2pyxhkohaxji6V7p7DmDPuJ06Cr4uOEtpzSHc06tZM2pkxX4m2_K6bOg--X2jKVinYTDMziQ6isEgIslELyxi2ZixTg3je7MsTqRqe2uqVN8LYLNB-FspYUvz5k_MVxASV87TdDdzfczd1oCVymOd92wb10C08wlRVVoPCuTwzo-OPUnx5gSGUy4AVShQqQb8sO_9pirPu2wl1C1W2ny_AhlL9igzq2X9-YMM_3XG3nel6IX1xNCjZvjvU_2Q9sHFIB8U4ND9zzg28eyjdT3tUVyFIIHuaCllKPH2sRDvMSu-nH0zUVMY3Vg5_3KQ1UQ96TErNf0X7NTjU5A6tU4shoRoVEuxRAoqqYlp1OXqDY0KW-LolKJ14D6Mw1mRGAPG1YmdOTdmXFop63h-YsYaKMqW98iQaBySAi0UaseiqeX3BrwTwsv_iNL01sSVwh1ntN3m3JZdHQ5SoQWai0luuhqlIgFNvsI-foPPMKa5hrEl8ikq0UhFCbSHb1ibcrzp0zqO8_GYGBDlvATKVKQ",
+        "width": 4160
+      }
+    ],
+    "place_id": "ChIJH3DFZQH0K4gRj5nrVS3lVVs",
+    "plus_code": {
+      "compound_code": "FFC5+GX Waterloo, ON, Canada",
+      "global_code": "86MXFFC5+GX"
+    },
+    "rating": 4.4,
+    "reference": "ChIJH3DFZQH0K4gRj5nrVS3lVVs",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 14,
+    "vicinity": "University of Waterloo, Engineering Undergraduate Office, 200 University Avenue West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.475096,
+        "lng": -80.529448
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4761917802915,
+          "lng": -80.5280454697085
+        },
+        "southwest": {
+          "lat": 43.4734938197085,
+          "lng": -80.53074343029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Lazaridis School of Business and Economics",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3904,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113172814616880060989\">GEORGE MIHUTIU</a>"
+        ],
+        "photo_reference": "AeeoHcITltCv9-g4r_SMRUK_0h3KypPxCQ-Y5O5RJePoD2aUxJ09ZtzfEywRrcJ4Kdd04ZB3aBgmE1ppl262imvWbN8qWsk8dT0g0ro77LYG9hW-iORAiFUuAvRlA-Fa9FJzrcSHGrPHeHUvZWmW8slR6Mh5ejpCZ4UtkAwDqQfYf5pLICzxu5egU0gkJRPAraFCFsJvyeGMx0lfk4jBZ5J2DFrS06-0CEZRfFDQChHTowj61JqUqpn1TX8Zi0zh8q3YRmE8hcM-4I78MDQ1QfWGVNG2_CCcoq9PYcbezQaOJO2WKA-nLS5dPrG2m8pLTvVUTDsxP6_WUOuujqMBRiCiuMAQEfMlctL5bkC4ALqveSJRGbpS1kyGSdwTYfXDtVnx-gcuRWqMSZuOKqR6m878DTY23e4EoV8JzbYSH7C1erWPBaJm1dfWoMSma2CjAZLomXnxfSAvQT_Ng7HzCQRsmyISaWipCl_LPJkZswngaIGr2sLkxnFM2eVbgQchqP72kAjG7H6ki1oW7GOhlfta4rEytHzS4WvqS9g_fN9RB8qdfHMZR7Jr_D-aaM2ZmITLP_bht_JubfX5kBaoyMFtoGtvvy3CnbJylKlZAd2QbGME5dEl6I4nOKkWbzXdz7LFVrQhwg",
+        "width": 7872
+      }
+    ],
+    "place_id": "ChIJfzQSLPbzK4gRMEsjgqE5DxA",
+    "plus_code": {
+      "compound_code": "FFGC+26 Waterloo, ON, Canada",
+      "global_code": "86MXFFGC+26"
+    },
+    "rating": 4.7,
+    "reference": "ChIJfzQSLPbzK4gRMEsjgqE5DxA",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 53,
+    "vicinity": "64 University Avenue West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47835,
+        "lng": -80.52622
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4795385302915,
+          "lng": -80.5250572697085
+        },
+        "southwest": {
+          "lat": 43.4768405697085,
+          "lng": -80.5277552302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "GLOW Health & Beauty College (Waterloo)",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 557,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105983993509611689687\">GLOW Health &amp; Beauty College (Waterloo)</a>"
+        ],
+        "photo_reference": "AeeoHcIT7PzNS75ZYvsWBzTOPDUvYcnM5bCO9qRvEH0DDYn1u6DN9E0qKzQYqmFb7REMaNP4ea3tsg5BedFoNK5h_DECDcK3wKhwgVx0Mn0cDy6z7ldEcidRTpbbQUnw6P9Afh9duCWkuiaZjagj641wsxTBmIhd7FKJa5jE6MPB0iChT00QgEKUWCzIuv3IpbZ8ErTkYxkYlf1TXp4z_A9Mvo8Oc-lIukpdohjwEBt-qHUuxjMOXCQnaGcd6sPNnzyqmucXy_uutrwbXY-4ODw_kEG-vTyuZBPgQ-s29RXYC6ToextNYrCaGt8VtTjpLBKEISdbJ3Y8",
+        "width": 1350
+      }
+    ],
+    "place_id": "ChIJT-aqFZ_0K4gROnE5g4RCRDg",
+    "plus_code": {
+      "compound_code": "FFHF+8G Waterloo, ON, Canada",
+      "global_code": "86MXFFHF+8G"
+    },
+    "rating": 4.8,
+    "reference": "ChIJT-aqFZ_0K4gROnE5g4RCRDg",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 21,
+    "vicinity": "8 Hickory Street West Unit # 102, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4720455,
+        "lng": -80.5436213
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4737482302915,
+          "lng": -80.5425002697085
+        },
+        "southwest": {
+          "lat": 43.47105026970851,
+          "lng": -80.5451982302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "MathSoc",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 576,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102047108843794236994\">MathSoc</a>"
+        ],
+        "photo_reference": "AeeoHcJf9N89C1s-qYvj0CRLprQ4HVmDnyk9lJO451wnXOtyiwCLnkvVfhd0oOAGZmVRSvN5APOdXInCIEdDz9T941sR9tCtCnt0-m7cmLY3qxZDzF1W6Wka2ADlNExyIdIgYpiC3-RwzuxNrwNJIL4J8Yh_lT7Yal0zDp2KoQCGFNeWaj52ysunpVLlODXWitYTR2DDP1TdtLivD4mpiBDRDSPDfEX-mw6vlKjs2mpjd3aqthWybr8JXP2Tj5k9Vg6K2Xp-vh41WKaYUlO_iGtF5Brm2Hp-HyrfMm0YmD0Q8Tr47vKp_mNv0efPuk2fWNU4WQcqYbWVeu8",
+        "width": 1024
+      }
+    ],
+    "place_id": "ChIJAxQd4QH0K4gRfOb-ZtA9loo",
+    "plus_code": {
+      "compound_code": "FFC4+RH Waterloo, ON, Canada",
+      "global_code": "86MXFFC4+RH"
+    },
+    "rating": 4.7,
+    "reference": "ChIJAxQd4QH0K4gRfOb-ZtA9loo",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 7,
+    "vicinity": "University of Waterloo, 200 University Avenue West #3038, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46874,
+        "lng": -80.5458481
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4700624802915,
+          "lng": -80.5446336697085
+        },
+        "southwest": {
+          "lat": 43.4673645197085,
+          "lng": -80.54733163029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "St. Jerome’s University Library",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1347,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113100037815159252809\">Yasmin Mirzaei</a>"
+        ],
+        "photo_reference": "AeeoHcKLKQXQOCpeixFdK5-7pL8KiYwZpYj132XzTjPzo_QVsknBlQ-DDXbGJtuBdDFv31FcwKaVMboWtKWN31M4qMy0D763Qy_1HX-CBet7NxS0s8E0yDnMneACgcSLeRFbo9JjhOJ2t3Oz0FqzXnboEYl4ExyAFPmL4l-L9EShAovjL7tZ6jG9MjqNcbF43-Mu_yblK6Xlla6nocKKlRFs5R9pOKF2XVOF4mb8LzIujdUl7JrbOKaJEsUN8bPFCz_ILen-mCD9ItzG-LWSuqU2eOylL1HWbgnzB8rrEEecV8Iz2FMdyGXhFgOY9LsmEDzpKsfevSb3UTrQgou-XJWvQmkbaLuXhG_rSyEinAcMcw__-7p_p0omY38i_QUBwoSdR0_WE5blGThCbyR16ua_S0y6szIcvdgg3rpzYIMnHQhrNLLpHOtUtU_UoVweY191OSSit16_3J7UK4P2ilRmxRl2HTHS_ZcRNM1BMsN5ClEsPcs6duueSDTfdvV3hv6Sh12geQkh59vbi06jTaHYqO8q3gkAS0KEuXgJ8ejXr9i1F05mTTzPVijnK8YAX_og4eOc9YfzN4w3XtsL48OoojknjmBnOEOzvrQE3XYONVuaJ8j9WOAzVrktng8S52i_6T416Q",
+        "width": 1021
+      }
+    ],
+    "place_id": "ChIJU_ihUqj2K4gRCMvw0ImIBBY",
+    "plus_code": {
+      "compound_code": "FF93+FM Waterloo, ON, Canada",
+      "global_code": "86MXFF93+FM"
+    },
+    "rating": 5,
+    "reference": "ChIJU_ihUqj2K4gRCMvw0ImIBBY",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "library",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "290 Westmount Road North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4405473,
+        "lng": -80.4858036
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4419953302915,
+          "lng": -80.4843916697085
+        },
+        "southwest": {
+          "lat": 43.43929736970851,
+          "lng": -80.4870896302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Anderson College of Health, Business and Technology",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3744,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112688464575821160730\">Anderson College of Health, Business and Technology</a>"
+        ],
+        "photo_reference": "AeeoHcIWgGQ0xwPs6t2VB0uFJFbyURfQGW39S5vP1nzPVfYaphzGfCOqluT4SovlidILBTjsAhqs-LiYpC2H8nF1dR9euiG3SwJizCqfbnu9dvWwjjOvU3wv9dhPB3qg19Ry6aXAD4WbmCcFFT1JS3y0LP_0NBbEKkV1WbQhTfgEwKU254v8W-QCLhjddjiu1rs2GSvM3BWsL-70M7PQto15W2BDUMzhQVjHbIyHkNfliFiPamipoGO0N9zUMXb28e295BHnjA3sAtpCNDdLyXCrLC5fmuTpRgRuMKJHyJCYFfqKAaPnGo11DKTPfST1FBMqy1ffESmxHq4",
+        "width": 5616
+      }
+    ],
+    "place_id": "ChIJ4awqCeX0K4gRIYQgYyg978k",
+    "plus_code": {
+      "compound_code": "CGR7+6M Kitchener, ON, Canada",
+      "global_code": "86MXCGR7+6M"
+    },
+    "rating": 4.3,
+    "reference": "ChIJ4awqCeX0K4gRIYQgYyg978k",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 132,
+    "vicinity": "248 Stirling Avenue South Unit #14, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4450767,
+        "lng": -80.4793512
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4463741302915,
+          "lng": -80.4780504197085
+        },
+        "southwest": {
+          "lat": 43.4436761697085,
+          "lng": -80.4807483802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Summit College - Academic & Career Studies",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118141292848437638476\">Marta Borowska</a>"
+        ],
+        "photo_reference": "AeeoHcKWM2C35jJsQHn8TFpTV78xr9u-iT_jZYKwq6rc8-UIWBDiR9gnFUvlkofgg1S5D-DszttnnSPhjY2WzKzI5Uvdtwn6Q2dTaKjsWSz5iI0FlC-t66fvdg4WH6UBbJ_GjOYxnM9UJX-v4ZYfhjyBpbu3NS2ncE_t6h2WxDEc-L4LUb3So_mDuKEb8e6ChQeXHH1h9EJd4ogR8Z18EYrNklu2awY4R9Uis_V0ci-5hR4e0XxBGzp6syZ4Rq6_CnzSww_AG-krCs1bqYEffoUvJThFPBW5667zXJutLfyUUiV9V05n_ukEouPQbnwyz_RHhiSSzNOo28wQwPC9MYLff4o0rvVIR6q5GPHs2gPM67Y8iuE3EGBjpxJsFIYXWo184_dfl2HrbuYNjqO2m-X5zI6xlXtW43U91MC3hHkZNU-FS9KzOz-T9ksScNrzUNUoNToV5gwYhwzOoSgcDW-kYqjl9gXlpHcZonQwjobOYR0EIxUZ6_qx35PBx7OQ8B10UcpdSmKZgCd2RH-eL00JSumUIAzyxDzCzRWQLySEqMknHehGqXSdxHpsAacZTvb4r7UKy_8zAW3UnwgzA19L0hv7nkvn8Gu6xUzTph9SM7GaPIVGFUtBUaCAYBnplabFtAN12A",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJvTPjKSGLK4gRpO9XnEE5PDE",
+    "plus_code": {
+      "compound_code": "CGWC+27 Kitchener, ON, Canada",
+      "global_code": "86MXCGWC+27"
+    },
+    "rating": 5,
+    "reference": "ChIJvTPjKSGLK4gRpO9XnEE5PDE",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "625 King Street East L2, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4661278,
+        "lng": -80.5449946
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4674848802915,
+          "lng": -80.5435343697085
+        },
+        "southwest": {
+          "lat": 43.4647869197085,
+          "lng": -80.5462323302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Conrad Grebel University College",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4096,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110645329527937072282\">Gheorghe Curelet-Balan</a>"
+        ],
+        "photo_reference": "AeeoHcLRMzp_IYH0YJGmJqOUTa5c4OKDyIlH3hFQ-VehZLxLOrG4ukWCBgjmkpUj_Zf8EKpPS2kbbr98Z6TT4yKjPaQyHXlPZgL-CFkqOeAYL6t_prjxr5n6vQz5FR4wX_Vmzvb1UWIGS1wqVZUIslQSNGOgLFKfXhtDyjOXioRaYYJEU-5RBBMrrek-7FdtJXlO5DKyco7gO4qiTPJQqIoaed3N9jXs5ONfRxYzCoCzMOiet4dkmUHHYJkhRZzvPFhoH7GA8tmNA5FivRQclHq-ZeMT1q20BRiLze6NyeqVeD6bjffKDHl_VO3bwVu7LVGSJDQL3JVnLBzOWzHAlanz9B7yaUrSj9MwEA3DGlmXtmADmfI4QvXtttBYVagNGmE-UuEo_JK5cD63FSXdUtCV0va_N1gXFeyQX_9QFYuEdSEAIDpPpuIbo4zU8rZNIukBYVk9Z8BL2TX1ZHaJyIEKoPzMHqUyd7sPanzPPKU4nPSk3eLkhAUBDEmmbzi_a4FIEiHkWgc8QLrOuegUn-t2z6E5a78mkBxvA48YsKUt1IH_AF6xEosEhJGWi3aHIWJpxXMEokxFagfWa7EEx3UuK92DU2q_AdvfVnNUYBiR8ZAS6VhcvZFkej8W6i8s0WQvdKsblA",
+        "width": 3072
+      }
+    ],
+    "place_id": "ChIJkRe446f2K4gRClbYkgWIqvE",
+    "plus_code": {
+      "compound_code": "FF84+F2 Waterloo, ON, Canada",
+      "global_code": "86MXFF84+F2"
+    },
+    "rating": 4.8,
+    "reference": "ChIJkRe446f2K4gRClbYkgWIqvE",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 47,
+    "vicinity": "140 Westmount Road North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4672669,
+        "lng": -80.5464566
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4685724302915,
+          "lng": -80.54507981970849
+        },
+        "southwest": {
+          "lat": 43.4658744697085,
+          "lng": -80.5477777802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "United College",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3461,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113632082656760402858\">Olivia Hayes</a>"
+        ],
+        "photo_reference": "AeeoHcIy9twHVOIN88PMQKIVFq1_FbzKAG5ck-yNxM8GQ1N3KY3mBs1FWB2OVhpebatxWIKBt-cwNy_DNM8jWrIMAL6gkviKUJxsDsB_lUEFBEqTDSLM3z5VRXFZeY-cGAsyskEZsx_I2MuYubpLKSy3dDXm-jCzY92_sMAAoO1r32ihuNpzgJoMKbfzas8Our8h33vbl9S12t4RQC9tiyuGCqaP_xOOIrgrt2kocazCH9nT60jvVLEkXxD3eTufMI_mf8Yo6YCmOsY2e4OxBgNwKtohbcyEX2W0wnDhTyepSd6-aLr6U00BqLYxPyMNA7h_D93SJ2hKmq93RVjv3vYrnS1M-KCAD-rOLFhBr-PeuGKEwPEamq9svkGDulQbyVzXSMyPX_wq1oqI58KF7PvZMv4heLGbX0jr3XQmxKfng8ko5ZtvtRLfim5YO4Ng3djeb8xu8RzM7W008y3mL-zsITzULK98lr1lj4SrSHBG8rXUTmlW5o6ZxzInyVH1Jyiy9As_1_QyEz7oe4JDbQ0wTwrECsaHdI8wsgTfSwxJgAPqsDPJOL-V9DOrqCtUXlITOdPyfI3dETmXxBNx0ebCK2CzdW-lrmWpEnYpDaZoY327sFaKEdgqj5qBsBq_i4L_3Dw41A",
+        "width": 4623
+      }
+    ],
+    "place_id": "ChIJvUAoBKr2K4gRN2ZJPzpaMXY",
+    "plus_code": {
+      "compound_code": "FF83+WC Waterloo, ON, Canada",
+      "global_code": "86MXFF83+WC"
+    },
+    "rating": 3.8,
+    "reference": "ChIJvUAoBKr2K4gRN2ZJPzpaMXY",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 48,
+    "vicinity": "190 Westmount Road North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4344591,
+        "lng": -80.4420509
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.43576008029149,
+          "lng": -80.4405447197085
+        },
+        "southwest": {
+          "lat": 43.4330621197085,
+          "lng": -80.4432426802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Emmanuel Bible College",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117986208573143685105\">Anurag Saini</a>"
+        ],
+        "photo_reference": "AeeoHcK4Rd-skv_IFN4IrlamEAQBaXAcm86ygvIMqeEQs2IAa0-AnEgtU9wDkXS8k8r_ttYvtZOjnolTcYsLrlQpPGXq8idMMMVACgYE_MOs_oWqvxjPUo9BkiwbBwoclGLUdPI0UrcRpKVUQIV97e_B_6sDNQ0LBejdBc_GLIzlDzKKDx8kqb_ZelgZwWu1TcrT39lwT997k6FARowi99qiN8gEREUNSqi1FwPc4PDghZdYaZn18FXJIUwBV52Jr1XQjZcdudYJkdkrt3vOYMx1-ftxurEneBkpQG-wJEfMu0j369gSWM061eZJHWsnJHJzSAdQZbQjocY3_bE2Po89jJZnr3TUPXrj7qa1f3RLlJtpVu_n_pbyG5EouoKO6WCSXcSMNJQo8dXKhsljbfRbxFZd83_n3y79c5frssyo84lHF5-W5ZZ94YU7atWCsKjTKr3NbtBcsmjv8JPnkvPLDomR2k0PfDiKn1N0phP9pqb--m0oiHfhicAxYcstGa6K2IFU5GO0nhYv66OdHkzOm6D8mCq7O5I7okcuocattBE-EFNQNcnw1mHZx8musw02y4cMs1fqY6q07I9BHaI0N7NKh7wZSrUfDG1zOx8FgFdqU75QsMsB89RBdioZ9_-jhv2LSM_q",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJL03M2iWLK4gRM3DYT3bVCQQ",
+    "plus_code": {
+      "compound_code": "CHM5+Q5 Kitchener, ON, Canada",
+      "global_code": "86MXCHM5+Q5"
+    },
+    "rating": 4.2,
+    "reference": "ChIJL03M2iWLK4gRM3DYT3bVCQQ",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 20,
+    "vicinity": "100 Fergus Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4479133,
+        "lng": -80.4857184
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4494125302915,
+          "lng": -80.48419536970849
+        },
+        "southwest": {
+          "lat": 43.4467145697085,
+          "lng": -80.48689333029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "triOS College Business Technology Healthcare - Kitchener Campus",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109355970928261987698\">triOS College Business Technology Healthcare - Kitchener Campus</a>"
+        ],
+        "photo_reference": "AeeoHcLACIkhTfmTURwnSistDi3HmjVSCvVMk509tDjzOAV3lIun35RuD44n67ssB4YiIVpc3zIHyfgsg-KcVJYV-bV-W0KEqXKLqcGDFdByGlHTNAU4eHCOakFNWn1e2RNFwBIgi5lTwQZUyujAKiTN_PGe6bD4mxbvnt2TvkSN3C-xCjT29scikWS8zE2JfBYaovasnxOtF123g554dCFUzUtJaBwCCeMzrB8PtbBLfBkwWnApzm-rLBbcSyqXjfuEI3qzdNb0kdanArDyhHNE2xmOvfbgaw-o82jQa_pLgTQ8_ZHzdrh6GprWMLFU5JBWDI2NEawoW2I",
+        "width": 4616
+      }
+    ],
+    "place_id": "ChIJN5Nnmu30K4gRZY--6B7f64g",
+    "plus_code": {
+      "compound_code": "CGX7+5P Kitchener, ON, Canada",
+      "global_code": "86MXCGX7+5P"
+    },
+    "rating": 3.7,
+    "reference": "ChIJN5Nnmu30K4gRZY--6B7f64g",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 107,
+    "vicinity": "235 King Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4717624,
+        "lng": -80.54555069999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4730350302915,
+          "lng": -80.54440966970849
+        },
+        "southwest": {
+          "lat": 43.4703370697085,
+          "lng": -80.5471076302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Waterloo Undergraduate Student Association (WUSA)",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2848,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111977480771232291405\">Waterloo Undergraduate Student Association (WUSA)</a>"
+        ],
+        "photo_reference": "AeeoHcKCFakruJ5c7hWVMgFNux89K5RRQkSRVmzQDj6c2qdfHcPfxEyyvwMTYzgE6RJOP0MkRQn40YhVS5uWmu2yNaPQL0KOPDuctZzJJkaZem3bcrJq1zTuvc2jAE9M0iLc96KV6LZ-V2epHcS-p_RUYPW9mmMi8OiUyO5BOL7TD2PFWRUzoOVF0XyBTcNYqO4wFDG2YNzyDqNBW0y08RKF6jABTUDWOEDDZMubNboksuEBje8AACcvDE8wLwSkg2QMK8tvRYfrSvffc4Brd6RWEclte6nkhPrvbDfx6Icl1iANiRUo5eje-5z94kyZZBi2VEpc5pM6CYU",
+        "width": 4272
+      }
+    ],
+    "place_id": "ChIJi2JII6r2K4gR9fMNEQ8kRFM",
+    "plus_code": {
+      "compound_code": "FFC3+PQ Waterloo, ON, Canada",
+      "global_code": "86MXFFC3+PQ"
+    },
+    "rating": 3.7,
+    "reference": "ChIJi2JII6r2K4gR9fMNEQ8kRFM",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "200 University Avenue West SLC 1116, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4693036,
+        "lng": -80.5404013
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4706648302915,
+          "lng": -80.5387126697085
+        },
+        "southwest": {
+          "lat": 43.4679668697085,
+          "lng": -80.54141063029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Student Success Office",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113664309233820834071\">Ron Dutton</a>"
+        ],
+        "photo_reference": "AeeoHcK6LKcXa05MW4EfE5Scc6cwMlxvarvBvVV3-tM9XQKqxTmzcxMddrIH7fZ4jFeFkTxAd_Efrs1fBYSvuRHvfRs3TU_bW8Cuvmtw_ucsh-asK_J9BlonaBpsM8kywLEEalfLG2NyqePD-O3C4kMwCHTk5YMcect4Fm2wrAP0kibgL_exlQsmWiunGjuEMTZ4OeUCicC5TGVIbhqAmjKr5QHhEbbjCr99ni5jZuSg_El2Bmv8YjKf6wb2S5AoWr4WciT8vVSB7YRvkg1W8QnlT7rMsrcFpSrmxzNvu7hz14GM4A9CFQBz3l5PIIvPUUUo7ed3_locbhslWYgEpUXakhSsRcXmU1hL4SCCBbWQuEw9UT-bZkdC6ZtydZdUnWkggf1SR02R_qXZQKciZdIP320ddGNrbURIrHtcnWG2JWrRmXYf-hkmAL1XoMH-DfI4etyqTLIqrwRNWiwbfVWuONPGNBo0ddwX01Kpgnkz-dFiKUFL-9GRyV6AtypVzfSMPu2r2wx5ujiShwcP0l5lZz_GEYLOEWR7D4DwdmpdUJvg-mXVUSenoP_1C-8loqRlj3orggD1zvM_vcBlzAy11qc666Z8eavahM4m53MnHlCbW6Mlly78iN5m1Cne2P2z",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJZQVodAL0K4gRBEr5D1Jl1NI",
+    "plus_code": {
+      "compound_code": "FF95+PR Waterloo, ON, Canada",
+      "global_code": "86MXFF95+PR"
+    },
+    "rating": 3.4,
+    "reference": "ChIJZQVodAL0K4gRBEr5D1Jl1NI",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5,
+    "vicinity": "200 University Avenue West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4521393,
+        "lng": -80.4989575
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4535868302915,
+          "lng": -80.49737686970849
+        },
+        "southwest": {
+          "lat": 43.4508888697085,
+          "lng": -80.5000748302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "McMaster University, Waterloo Regional Campus",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1207,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117105498754835448946\">McMaster University, Waterloo Regional Campus</a>"
+        ],
+        "photo_reference": "AeeoHcJfpyJqQe4a-8idSY31Ze35Sj85Jv1O3wKk_Gg5dW-_O_aqTtlC71-L74GLBvygTzT-dOusXQTDr68FPn3Dw9AwAv7wMl62mFAbZcZF3U-j8OL8z75BcBBdtfGdHo-JONiZYmRnB4kvRCF-Xpbz7Tz0hOH8M0WUoqxY0L591KUwAw5sEce7mKSc0DNrF_O-7ko9MXLrY_shv8VXoKf7PmAryMP3F9w3BGcF-z6y5RRqv2dM4Si00fSMyUk3gbKniIvGQSCTTLoje5xtt-QRbW8sAyHKPx-lyIdoklcVqA9M8iDStEOk-dv6OLYcbY3f-JurImn7GX4",
+        "width": 1811
+      }
+    ],
+    "place_id": "ChIJLeCAWvX0K4gR5jtsS_Y8NYk",
+    "plus_code": {
+      "compound_code": "FG22+VC Kitchener, ON, Canada",
+      "global_code": "86MXFG22+VC"
+    },
+    "rating": 4.9,
+    "reference": "ChIJLeCAWvX0K4gR5jtsS_Y8NYk",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 14,
+    "vicinity": "10b Victoria Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4642578,
+        "lng": -80.5204096
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4656209302915,
+          "lng": -80.51906421970848
+        },
+        "southwest": {
+          "lat": 43.4629229697085,
+          "lng": -80.5217621802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Sid's convocation point",
+    "place_id": "ChIJaVE71jP1K4gR1JKfV7YcsXs",
+    "plus_code": {
+      "compound_code": "FF7H+PR Waterloo, ON, Canada",
+      "global_code": "86MXFF7H+PR"
+    },
+    "reference": "ChIJaVE71jP1K4gR1JKfV7YcsXs",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "University Of, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4642578,
+        "lng": -80.5204096
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4656209302915,
+          "lng": -80.51906421970848
+        },
+        "southwest": {
+          "lat": 43.4629229697085,
+          "lng": -80.5217621802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "见面会",
+    "place_id": "ChIJHz08LQD1K4gRKQXHZl6sAN0",
+    "plus_code": {
+      "compound_code": "FF7H+PR Waterloo, ON, Canada",
+      "global_code": "86MXFF7H+PR"
+    },
+    "reference": "ChIJHz08LQD1K4gRKQXHZl6sAN0",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4642578,
+        "lng": -80.5204096
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46561983029151,
+          "lng": -80.51906406970849
+        },
+        "southwest": {
+          "lat": 43.46292186970851,
+          "lng": -80.5217620302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Waterloo Bible College",
+    "place_id": "ChIJGbx3X230K4gRww9nSANfMuU",
+    "reference": "ChIJGbx3X230K4gRww9nSANfMuU",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.463694,
+        "lng": -80.5260436
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4651649802915,
+          "lng": -80.5247945197085
+        },
+        "southwest": {
+          "lat": 43.4624670197085,
+          "lng": -80.5274924802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Balsillie School of International Affairs",
+    "photos": [
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110645329527937072282\">Gheorghe Curelet-Balan</a>"
+        ],
+        "photo_reference": "AeeoHcIoa_pKmcbyYVS0pkbXC0XTkLGesdXy8dPOYaFQI1qyWofyeat0wt8HVlGb5UXwcqUYaxOckCoF3EjIFvU9qEiJI2EHslFsFUSx8p03gXQnF2dutczsiJvOEA4tQBRY-zt_WZmQCXyla8IifbPDfZFT6o1TKzCBUajTBEci_gzzR72ooqZQQmKohD5sYOB0yie7_Jf3NACed6_U_yXWRgiypmt7ChecLKeH46nM_gORTMt83oSAZXxwSNeW8a3rvKfdqBDUsDiOYUZNtQS4wD4c5N9g_W2lUuI4EkuCbP2eQk49xOPpLm7ldF8gm-I7H6979t58zsRQU66ZH-hTTjk9s-NQyLTDhaectJbLj5rqfyDJBB5UGFYpj0jugh7kj55Q5DSY16kyWOKViXw1q_C3UsZ1xpLa-z3Fk__aj4EpH60WfUU7ErYpNWoeygx04S8pVS6xD2waNq-i7Cnc4clrDGi11mpHYNoRmY_OxwUPFhGHyHvgAAXUVWFxfvKXhvK1FsOZ1iQkrqIcxPc7OgOcH1TYRSuoLwgHPlgr1xWzcJOJsfW69ewnf9UWp0OQNX_uGwLf7aho54Y9eSfrmRxfaOmJMkfp4-rMdZRVIQJq-vrkautAiRcUv2bA2zrwJG90C3e3",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJY873ahL0K4gROJR1Cp1BqKs",
+    "plus_code": {
+      "compound_code": "FF7F+FH Waterloo, ON, Canada",
+      "global_code": "86MXFF7F+FH"
+    },
+    "rating": 4.7,
+    "reference": "ChIJY873ahL0K4gROJR1Cp1BqKs",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 7,
+    "vicinity": "67 Erb Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4719272,
+        "lng": -80.5287395
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4732248802915,
+          "lng": -80.52738986970849
+        },
+        "southwest": {
+          "lat": 43.4705269197085,
+          "lng": -80.5300878302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Martin Luther University College",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3840,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113300691975162230667\">Martin Luther University College</a>"
+        ],
+        "photo_reference": "AeeoHcLDeNrZ53zfqH3KHEyjB6gTcNCgtemhwBHWEKZtxRy_rcSctfr9AbTnRmUz0l8uUPSUxS4NZjO11GiUarN16I1dAAA_KkPG00ry6vF3j2JgbuB6-BCAjq4o95jZGYpEX42fJntVwBYFICJWTNmdik_I1fZyHjXvq8SIIyvfFTEY0btdUIDCAwXrNoR-s02YyQrq0eYMLW7hjH-Qet2-syEO0RiCE0Q4KgEf0oROHD2WH1gbUplQOCC7T5a4RyCqaC-DJYZlJjXSYqGvVi0ezacxjlsXsI9nhTJiVkcMONHIphrWBLf53tijhFA8AWhMY1PLf_rsimQ",
+        "width": 5572
+      }
+    ],
+    "place_id": "ChIJU8fzCgn0K4gRs-xNm4wahp4",
+    "plus_code": {
+      "compound_code": "FFCC+QG Waterloo, ON, Canada",
+      "global_code": "86MXFFCC+QG"
+    },
+    "rating": 3.3,
+    "reference": "ChIJU8fzCgn0K4gRs-xNm4wahp4",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "75 University Avenue West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.474045,
+        "lng": -80.52213259999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4753377802915,
+          "lng": -80.52075496970849
+        },
+        "southwest": {
+          "lat": 43.4726398197085,
+          "lng": -80.5234529302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "WLU Lodge Administration Building",
+    "place_id": "ChIJCWYzVvXzK4gReNiO9bwsN4U",
+    "plus_code": {
+      "compound_code": "FFFH+J4 Waterloo, ON, Canada",
+      "global_code": "86MXFFFH+J4"
+    },
+    "rating": 3,
+    "reference": "ChIJCWYzVvXzK4gReNiO9bwsN4U",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4746197,
+        "lng": -80.5227653
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4759535802915,
+          "lng": -80.52151836970849
+        },
+        "southwest": {
+          "lat": 43.4732556197085,
+          "lng": -80.52421633029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "WLU Regina Administration Building",
+    "place_id": "ChIJG7gcRfXzK4gRwWear9DweRI",
+    "plus_code": {
+      "compound_code": "FFFG+RV Waterloo, ON, Canada",
+      "global_code": "86MXFFFG+RV"
+    },
+    "rating": 4.5,
+    "reference": "ChIJG7gcRfXzK4gRwWear9DweRI",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "202 Regina Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4748376,
+        "lng": -80.5198193
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4762704802915,
+          "lng": -80.51845741970848
+        },
+        "southwest": {
+          "lat": 43.4735725197085,
+          "lng": -80.5211553802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "WLU Physical Resources",
+    "place_id": "ChIJs8Kdk4rzK4gRAdnTzbBE11U",
+    "plus_code": {
+      "compound_code": "FFFJ+W3 Waterloo, ON, Canada",
+      "global_code": "86MXFFFJ+W3"
+    },
+    "reference": "ChIJs8Kdk4rzK4gRAdnTzbBE11U",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "81 Lodge Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4733058,
+        "lng": -80.5287597
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47457163029149,
+          "lng": -80.5274507697085
+        },
+        "southwest": {
+          "lat": 43.4718736697085,
+          "lng": -80.5301487302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Fred Nichols Campus Centre",
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113664309233820834071\">Ron Dutton</a>"
+        ],
+        "photo_reference": "AeeoHcJOZJjs8dbIFa1gR-9qiIobRpHgZwXSBcShPt7jy2o2ZAWifd6I7kX7OHwfIRKDcuHxP6JbQEzdw4awnacBWlm6dGt_3ZTdcERS3b0QI0AxJsaYLt8nEy6hZu8LlL2Qy9nOXdvX1ONt14WKN7UZlfKIoHzp9C0A_NjIqYlJUzOFiy85gyK_Eb53nleZfAFRqa1aXP9m1YNxWOC_0rFgzrSkUZrV0lbOSYae83U-jJiFbpt5SawPAeKMzYxW7gn5Owaf4T8j2QPlFkrG3nNyCck6AnNEIB8_hlCznfGQ5f3TwKuKlTJ4OlMueCjDguLv5yxCKJnSQKJk8TiQbd9-UsbdjbhkViHxCDaxBaX2UtSet3WOuW9Qo6adu9b5A8dSkBd72EoF10zf2PX4rYpkaxLBdiwhcDhzKv4BLbbxtEAjUgM1dyHbXYhUDuABrRPf_EzJ-iHii71_fPelDHhcf2wmk4q3Jm6MFuChS_WbtLIGu6as-2n22s1oMbzVCvdw8dgSgnhzYJeVQ2g-UPEDaQclOmzgOjUdTxuwyf76jwUIRWCr6nNTIr9W-2tJu_GG4tQsOMV1zu022xC9LcXEoXPaKCuaTfVk0HenCdnz6oHvUDaC6f18RH4RmS8sNJTMZHqUOA",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJVVUVwQn0K4gRiCSvEubsELU",
+    "plus_code": {
+      "compound_code": "FFFC+8F Waterloo, ON, Canada",
+      "global_code": "86MXFFFC+8F"
+    },
+    "rating": 4.7,
+    "reference": "ChIJVVUVwQn0K4gRiCSvEubsELU",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "Fred Nichols Campus Centre, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46944329999999,
+        "lng": -80.5340873
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4707534302915,
+          "lng": -80.5327043197085
+        },
+        "southwest": {
+          "lat": 43.4680554697085,
+          "lng": -80.5354022802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Parking lot F U waterloo",
+    "place_id": "ChIJf3l2YwD1K4gR_P92GeiOfOc",
+    "plus_code": {
+      "compound_code": "FF98+Q9 Waterloo, ON, Canada",
+      "global_code": "86MXFF98+Q9"
+    },
+    "reference": "ChIJf3l2YwD1K4gR_P92GeiOfOc",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4733389,
+        "lng": -80.5295199
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4745124302915,
+          "lng": -80.5280496697085
+        },
+        "southwest": {
+          "lat": 43.4718144697085,
+          "lng": -80.5307476302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Dr Alvin Woods Building (DAWB)",
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100036268551558926207\">Junfei “Leo” Ma</a>"
+        ],
+        "photo_reference": "AeeoHcKBkWfU4hPh8Rfqa0K-v_2wLkMtyLsmR272xo9FdGvC0KXjwDFq9oFPCTe7GlRfku19020xVxYPiofN8jEgVCl6UBZdwEGVjD9hAJ8iybKAI1UZmE0YMbikbHZ6RgtU8HZHnDhotuku96NsyO6o_glo6OeKKacqKvD6yYEBl3k64zskCVJNeLas_BWPVWRY6h83WC5u1KcJWfUoi4UzLnVIi1aTKrxwEAQr_tjGEUosqULDku5BIKFd3HfftFFCxmhwxEzUKcjx5J64EwOQE8iJZw3qD_vGfZFpFO4MOwy10QgxPB4Qk2QkP1iBgHlzNOW-ShQa7Icazw5DWbhpd6GDSK5HIyVWV1Vjt3mVWHstGkviUyAKenfAyEiw0fl6BeFn6lCKAlfRUcFwImy6mvBwb65koDlcCG4J0WtUs4Zhe5AShlVclZvs2zf0vSDrSE49563D7cqoYEtqMwgKBYsCQBlloszRaVTorLtMrHkhTW9T9zqPd7f1fs_a5bkrO0pqZ_IeJ7avy3IJUynSGuhdicgdx_5ZRdsZLYu84etkUSna1ULkorG04lkqO2h-sXohV2qSz_L1fEKdssGSM_KjsTFOz2vi7fI3vto5-HIci3w1UiowWKIL5cz8xdjHPqfpvg",
+        "width": 6000
+      }
+    ],
+    "place_id": "ChIJ__8_tgn0K4gRUm3dUo7_wMI",
+    "plus_code": {
+      "compound_code": "FFFC+85 Waterloo, ON, Canada",
+      "global_code": "86MXFFFC+85"
+    },
+    "rating": 4.3,
+    "reference": "ChIJ__8_tgn0K4gRUm3dUo7_wMI",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "Alvin Woods, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4741747,
+        "lng": -80.5278989
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4758033302915,
+          "lng": -80.5266246197085
+        },
+        "southwest": {
+          "lat": 43.4731053697085,
+          "lng": -80.5293225802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Theatre Auditorium",
+    "place_id": "ChIJGyRW4wn0K4gR39_R-II8dks",
+    "plus_code": {
+      "compound_code": "FFFC+MR Waterloo, ON, Canada",
+      "global_code": "86MXFFFC+MR"
+    },
+    "rating": 5,
+    "reference": "ChIJGyRW4wn0K4gR39_R-II8dks",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4744301,
+        "lng": -80.5282229
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4759310302915,
+          "lng": -80.52674246970848
+        },
+        "southwest": {
+          "lat": 43.4732330697085,
+          "lng": -80.5294404302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "John Aird Centre",
+    "photos": [
+      {
+        "height": 1050,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105785305584048658589\">Mike Sutherland</a>"
+        ],
+        "photo_reference": "AeeoHcK9e0UMzR4LNtVo7aNjn7kjg1rcWv4LDc-rwa-RWgQxNeKESBI0cDJETFYf_TtnLsqsHQK1Wd0r1XXTCosaSi9ZCQu2HhSp0ZZBwf25CqTqS5B5Sre3rB1pV83AlnvlBzaC88-Q1K0LyT1U57lXY_3bYOjVFc_1dxH3Y53lZIdx0eV8b5hcrKc0f5eOy5e1BrrBoHMuJhI42BJ5HLuaOz1yiyRYVH9eo6jbL4drXGTMJ9RzZHFYzR9LIn4bG9IS-poqPLIDIlrgC5rJbArSVtg0BTEVuJuAIUOtZiD1O82XNi3MwHTIewIuQWZT07oXsm1BEAZ81P1NyOUYGiGsf0Br9WFCrS9UYd0i2Awt-KgzNmW-6oPV0crhq885FVgP4hd26YBA860290AwxkNnfJRpjmvVD_MXZ4fIGOdshNVNPzlNxCu5EC5Q2ywOa7RUzfXVcmBtdsE-7fCFrS6TShoTT2-7h2MWCDoQd8RJN7kG8XHJPqogAJfLVTIv0nSxJ-XHNn8wN23PL8fae-lZOu5orr4_kEAU5abPOQnoiw4rGpaINnQnlr6nlt-s2xhPT10xW_J-56NEaQIcMShDKsJBNLYRnlAi25oOiP8z1PQmvt5R1pg6kptDdbwFEYTHfXtXuQyr",
+        "width": 2016
+      }
+    ],
+    "place_id": "ChIJs2z14Qn0K4gRJ0ETHBZ-tGs",
+    "plus_code": {
+      "compound_code": "FFFC+QP Waterloo, ON, Canada",
+      "global_code": "86MXFFFC+QP"
+    },
+    "rating": 5,
+    "reference": "ChIJs2z14Qn0K4gRJ0ETHBZ-tGs",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4738008,
+        "lng": -80.5296936
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47528258029151,
+          "lng": -80.52809566970849
+        },
+        "southwest": {
+          "lat": 43.47258461970851,
+          "lng": -80.5307936302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Arts Building, C Wing",
+    "place_id": "ChIJq6pqzAn0K4gRNnD8waAQvYA",
+    "plus_code": {
+      "compound_code": "FFFC+G4 Waterloo, ON, Canada",
+      "global_code": "86MXFFFC+G4"
+    },
+    "rating": 5,
+    "reference": "ChIJq6pqzAn0K4gRNnD8waAQvYA",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Arts C Wing, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47471830000001,
+        "lng": -80.52816279999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47606693029149,
+          "lng": -80.52671241970849
+        },
+        "southwest": {
+          "lat": 43.4733689697085,
+          "lng": -80.52941038029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Savvas Chamberlain Music Building",
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113664309233820834071\">Ron Dutton</a>"
+        ],
+        "photo_reference": "AeeoHcIs-Vnbc2AYCAZmCnEzuDt5yyvkQHE2fAkXtWhgG2gWTxKkD7T-xD2_1yyZjA98hpcWOTmRl1pimko19hfwzwaQjwQJ-ShgxgTv0YT0VE6mCAzRforeUOD9W8WwZsKSClwSl0DkfYVIT84s5-FNeS818PV5AVPnkC5WEGzPkFicwdpTSsYNZiUQPmko2zrfihS-O4JCMbFoyxPY5IVnrSeXOEpEQIZcMGKwfSLyaQAk6Uu5zi51gTpgjaM3F-Aozt9_fUnfzIq3zwHcZwUSm1X0LL7uIJKgVUqILcoQ_G6qgoF3FlY_y9Mgdki-tmjliwiZhPBSdqFEqSViYZghWIyKdkvX_Eq74QUMl_6VXvoc8_lj279RseGLmkDripJE5M3xbzOP83EApdUGq1xmFw8pavClh1jksLlC5OiHbNln_7T_j-OsbQJ_JxUN6ltc7bZ2aLa2Y08S0QmmdKO-ImJlb6JFRyncSidl9fUIrB2FqFDFdUVahvK_61APLoXJ8HnXFxEVVab7PjycpNQV1EfKOIwDb0H4mJGvId_3B_qvyoe3LDeO6mcjmgkm44NNSHDcH3G55Pvpu2h1icFMaNtfvnXpqfAhIk3j37jRrxjfF1e7-UsHojoyHKB_nbBEZ-79jYkJ",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJizic4gn0K4gRG2ajmM5cB9I",
+    "plus_code": {
+      "compound_code": "FFFC+VP Waterloo, ON, Canada",
+      "global_code": "86MXFFFC+VP"
+    },
+    "rating": 3.8,
+    "reference": "ChIJizic4gn0K4gRG2ajmM5cB9I",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 9,
+    "vicinity": "75 University Avenue West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4564761,
+        "lng": -80.5081143
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45800293029149,
+          "lng": -80.5067189697085
+        },
+        "southwest": {
+          "lat": 43.4553049697085,
+          "lng": -80.50941693029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Escuela Ingles",
+    "place_id": "ChIJF6zueZH1K4gR9gTLwYMZvEE",
+    "plus_code": {
+      "compound_code": "FF4R+HQ Kitchener, ON, Canada",
+      "global_code": "86MXFF4R+HQ"
+    },
+    "reference": "ChIJF6zueZH1K4gR9gTLwYMZvEE",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "800 King Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4737095,
+        "lng": -80.53038819999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47495293029149,
+          "lng": -80.5290822197085
+        },
+        "southwest": {
+          "lat": 43.47225496970849,
+          "lng": -80.5317801802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Wilfrid Laurier University Frank C Peters Building",
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100036268551558926207\">Junfei “Leo” Ma</a>"
+        ],
+        "photo_reference": "AeeoHcLHt1Jfm6pBrYP5f001rRYwKqRSc247RaH_duqj-OMourpjhC1lvL5a5uufj7901WR7mywVn8MyRD-wtYG2Pt4mOVDrvlrdS7z4mskObrJQFmpdjq019nX-6H4ZlQ5xy1NBXRl7_eNX_AFx8zIyFnXwTiJ793fO9CULwHOOdce7KDWRCxkl8UIzw6hyuNn_6kFf1DGnZOjNuhX-qQh5I3dSh_JVyDOt0hQirt7ObvPMVim01BxxLQIqe_tb1WISX3Wl1N6UAdOM4yiXLOHUxkQ4WPJntPfzEjgT3w16gvOE4f7kgQVHYYqlHEE2SRIswWxK8ebVS9HUP8lVNAPLll83XYIWPxt_J_JXp0CiN6MiXq3nq9u5hI_nveRHmv_kC3jdhilbOoxIsF5CDDWonpfBVHaN8o54VaeO4lovOvvIN9ZE4PLXC97_w_QmqF7Pb_mXrzh6hyoCicn941-Vhw2yPv8SKhczqvZY5xjnLPIamwj9FglIL9gabqeosrVbQhbCFVa5M-2eshOpf7xQL1RKiG1Q0IqG9FbbOUoogv4ymIdOKLvFx1sw4-lIOSjhglqP9XBuC1MuSUYwR-FYwd01IfFAKajqJJqNd4cg2TEa04TkLn8V5jUlXlIDVD9z",
+        "width": 6000
+      }
+    ],
+    "place_id": "ChIJq6rqNgj0K4gRXpGdF-OtlfY",
+    "plus_code": {
+      "compound_code": "FFF9+FR Waterloo, ON, Canada",
+      "global_code": "86MXFFF9+FR"
+    },
+    "rating": 4.3,
+    "reference": "ChIJq6rqNgj0K4gRXpGdF-OtlfY",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "Peters Building, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4752543,
+        "lng": -80.5122397
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4762118302915,
+          "lng": -80.51073841970852
+        },
+        "southwest": {
+          "lat": 43.4735138697085,
+          "lng": -80.51343638029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Uni",
+    "place_id": "ChIJo1LIIwDzK4gRoYBgLXHvnz0",
+    "plus_code": {
+      "compound_code": "FFGQ+44 Waterloo, ON, Canada",
+      "global_code": "86MXFFGQ+44"
+    },
+    "reference": "ChIJo1LIIwDzK4gRoYBgLXHvnz0",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4784665,
+        "lng": -80.517332
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4799919302915,
+          "lng": -80.5161039197085
+        },
+        "southwest": {
+          "lat": 43.47729396970851,
+          "lng": -80.5188018802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Bowen Therapy School",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ9QmudIzzK4gR2yWdDz4daxc",
+    "plus_code": {
+      "compound_code": "FFHM+93 Waterloo, ON, Canada",
+      "global_code": "86MXFFHM+93"
+    },
+    "reference": "ChIJ9QmudIzzK4gR2yWdDz4daxc",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "105 University Avenue, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.479007,
+        "lng": -80.5183304
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4801713302915,
+          "lng": -80.51685491970848
+        },
+        "southwest": {
+          "lat": 43.4774733697085,
+          "lng": -80.5195528802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Condors Esports Hub",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116992612198728049857\">Aquib Wahab Ali</a>"
+        ],
+        "photo_reference": "AeeoHcJOrADrtNfWs6MLZ_kJu_RJqdsnIzJEhq5jegmvV9pzys312tDdsf_mY5lpv3Y8deAZelBmE_rkuwTLZ6SUZoVmop6CZ6pZzambba3luKLRGKNj8hkJgPpyIICHuWtbE67hWlSU9rIbd6NUSPiTFt4VnJ0a_OIcg7ZpURPwc5kMjKe0IO4YKwW90qOVX-skxWjyMIZ_iH5DB-EeSZiYpPCYvfRVo_fQEQpQXJDnFufz41DAYs0rQes6BjXKEIqBxLuOP-4PWXP0FtBlfvyHqBCazZTkSxAimU4rUv4nRwy3T6pvqI_TtQ33oLgoxpTXchgMlUdDHGP71B4jGGwM-ApvMhYtAiN-Z5bcyCj8Y9rtV4HFA5eABjQsc04-0PqUaESKVM-WgeUAqF7TWJr4jFNZrEwy3b7ZYX7MA4a1_Klb7zee93nU9ZaYjYvgjQa7W0kDFBx23ODdyJOTunBH5Fp7OdtMafOhYQIco0zhs__Q-r2nrt2mRTpZEWKapae2drFf5Zx33QZlsaL3PdwHF2Z7M552Mni-fV0KRL75bp8DPpLo0KCl7b0VNawMHqYxUAEpvS0Ufx7EQVohcjYn7AgajCFHRB0JUblOFj8qTzSgkRanGKuRQBY6ZmhMKZiLpTzarvRj",
+        "width": 3000
+      }
+    ],
+    "place_id": "ChIJe4iYPSTzK4gRIamg2TfHOQE",
+    "plus_code": {
+      "compound_code": "FFHJ+JM Waterloo, ON, Canada",
+      "global_code": "86MXFFHJ+JM"
+    },
+    "rating": 5,
+    "reference": "ChIJe4iYPSTzK4gRIamg2TfHOQE",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5,
+    "vicinity": "108 University Avenue East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4794047,
+        "lng": -80.5180089
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4811632,
+          "lng": -80.51496920000001
+        },
+        "southwest": {
+          "lat": 43.4779084,
+          "lng": -80.52237960000001
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Conestoga College Waterloo Campus",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2900,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113154375903524256474\">Conestoga College - Waterloo</a>"
+        ],
+        "photo_reference": "AeeoHcKASIP-UKIkLDuA84f5M-sX4w4w9BgAh2zV-RUMT0FAhN-8KAHfJYWcvIvGC5D921etedZ4Dydv8QFXrCaFVzFYOvWJOqjKn9zEwNmM2Mf3FC7gCCeNebxnYLjw0SshKSHiR4BHhGNZcj0FbNpvK1_6migCTLEt1t5qkCeYeY_HWh6D91J55ga3mOsh_C2zXDSqRVZcNBATMrGHmEoxke4tDMIFF64vQbwnnVa7ibjklKN7nfBvGqAC5SIS3LGHXY9KbYLM6VSwqxCkYVix-hQjQXSzcxqySvo_2hIOL0SR_cUBtkavyevUauYtgtvEVQVeNntMA84",
+        "width": 5156
+      }
+    ],
+    "place_id": "ChIJkZTsDB3zK4gRByJtMAz29Ys",
+    "plus_code": {
+      "compound_code": "FFHJ+QQ Waterloo, ON, Canada",
+      "global_code": "86MXFFHJ+QQ"
+    },
+    "rating": 3.9,
+    "reference": "ChIJkZTsDB3zK4gRByJtMAz29Ys",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 268,
+    "vicinity": "108 University Avenue East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4736367,
+        "lng": -80.53703469999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47492133029149,
+          "lng": -80.53585836970849
+        },
+        "southwest": {
+          "lat": 43.47222336970849,
+          "lng": -80.5385563302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Mindtroopers",
+    "place_id": "ChIJ1a20Wr71K4gRdjrXpCEl-pM",
+    "plus_code": {
+      "compound_code": "FFF7+F5 Waterloo, ON, Canada",
+      "global_code": "86MXFFF7+F5"
+    },
+    "reference": "ChIJ1a20Wr71K4gRdjrXpCEl-pM",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "256 Phillip Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4692635,
+        "lng": -80.54031379999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4706865302915,
+          "lng": -80.53877726970849
+        },
+        "southwest": {
+          "lat": 43.4679885697085,
+          "lng": -80.54147523029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Concept by Velocity",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104106376603562604012\">William Hsu</a>"
+        ],
+        "photo_reference": "AeeoHcKXQKI6wfkGLjA93-w62vDYD2kaKad72q434TUAwX4skl8-zfTl3RyvOSqwA4XN32msdM8ui7lyxIuoWvXf_lDtrjuVwXXZAqeGc0WW5y8Cs3uluJIvREVQlej6BaxuXXyXR6jzJwdg1rIC1aoRNugLVjKx7-l0lfDzdHJIaJGiAgaCzaB8Q3i5Zd6B2EaPVW6JJAUsf4z9TzyNHYj55GE8IefKOn5d0ZRksuzFq7DV4JuQ-9TO3HsNWnVbe2-N5d_a06Le5JCsOgpTCVJRZf3-B72tPN77fUIJG0gAihPhgzNIB-toEtXWJFbO3Y-TD5jgxM8XoHJLioLKephuuo8cV98fZpPmPpMZi1iQKM6JYDs-86wJU-FiGeqyxwQQsOn7Bjsms4Xu-33Gs5MMfooNVTQJhah8wQpHMdogjHE2eXje9u9Ym4H8J69zQ1TcfzBG69Ie9yO-5xoziQV-XBYUxl_xt3pv4QTVH_4LSjCs-oAvISWOSHTHICMisM57Fel6Xal3Nv7FWb5KG39_c5T_HaFm5Zi1R4Lyr7pL8e0F50ND4CcrYKomMCjHXIHH_hxrp55LZjNIIQncNC3Zyk_tHHVolqjZgMAv6CdV_Ylc28cw800CSdQE4kRRv7wYJuWS6w",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJmUT2uQP0K4gRvG-QziHK6Go",
+    "plus_code": {
+      "compound_code": "FF95+PV Waterloo, ON, Canada",
+      "global_code": "86MXFF95+PV"
+    },
+    "rating": 4.2,
+    "reference": "ChIJmUT2uQP0K4gRvG-QziHK6Go",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5,
+    "vicinity": "South Campus Hall, 200 University Avenue West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4699096,
+        "lng": -80.5402811
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47120493029151,
+          "lng": -80.5389006197085
+        },
+        "southwest": {
+          "lat": 43.46850696970851,
+          "lng": -80.5415985802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Douglas Wright Engineering Building",
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109078186295250826368\">Connor Hammond</a>"
+        ],
+        "photo_reference": "AeeoHcKjK-JOewDaONm93bu5oOeNMj5VJoaglPHLvZrNkog-zQUneXop9Er4mlwFRsY7a6wdA-wrqfzy_OEvyvcqPLfi9egrgCUruwztF_Psr5W2_tGOF-vrWxlxa-XkjbUEXbz27uU1JcOUr7okuzmP_vbfQ933NSOxwhvvfMmffJGGtVqK_Irvl-JFX9l5NoeyZOTJWXlueQKyvfl2qUjwdGoLDcCcqa2gm6y47vWn_elgZ1wkUAEHe6uyQdM71wTD9nE-zEYy4HlPOGftMR67-B0BpyHAL48wwxCAwyxaRaxPvbzsghlMwW7u2qPqKhtIB726FM3AY7aaDPiJdm-24pGZq7CcQOSZNYxo8qB5zUClIlzlAzb8WrG73E9BFfgIutc6KG-yu4yZwMyZgu7AF95FKVWkswIetOU263RGvsPCsB-nLx0qqpGujFcyZ1QSxTBIc3Zp-7OBCG016UbXwNtg8vt8IFv1FPgrc8DMoX6KL8BA7JqKYkezshY202_YQ2PfmE5sfSTP2obBXNHKXDgc9AeeJpYsMMRNpfD1rZ1iOd1UnwPti0Pu6gs3vaEylSClpym4nJcHiTbefyWYbTZ4fDkbCM-npHTDDJu7CQBJxkheVi26f1e8aaIdWHJScm1osA",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJXfS_xQP0K4gROaVSExWiDAs",
+    "plus_code": {
+      "compound_code": "FF95+XV Waterloo, ON, Canada",
+      "global_code": "86MXFF95+XV"
+    },
+    "rating": 3.8,
+    "reference": "ChIJXfS_xQP0K4gROaVSExWiDAs",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.477651,
+        "lng": -80.531532
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4788283802915,
+          "lng": -80.5297964697085
+        },
+        "southwest": {
+          "lat": 43.4761304197085,
+          "lng": -80.53249443029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Northdale Campus",
+    "photos": [
+      {
+        "height": 4640,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118234511285804440749\">Joshua Alexander</a>"
+        ],
+        "photo_reference": "AeeoHcL7mT4OqKiNaaHwxs_KjokYnlMP7kXxcudSsg8UfgjWvZK3qbT3gEkvXA3IajnZFng-KIkQ_ggeAlPDzmZwxz19gOSuDo2wznDyxPipK8PYrtg7xGnndbNhj-tm3D8RLpWDColEO44K705o1e4TiQ-E_T6pgcmfbjgJPJkKP5ExIDthWdQEGg-XiXQlsH768RhRUEJc4_m8zxEKqlq4bHpPHeddOHSq6aDaJCwdifpx5XDuj6kKzRv0PMppRPPRBdLn6RucRtPuoqhtkjyJ2dmjQafG07vuvd_q92VCb7gvneyG0ez8-nPvhApxabUq88Qg1Sx6JYbctGASOwPjEDPBmSgmwmy2FfCS_I4lpp8QjjMabqG4wrXXJLMritSrhgeyJMs-ErcP6vtYhvk5D70WbXwQqdW-U-MlnNByRlfj23NDuQTW32MqXGdPJiyZTZKx4PTsSJFAGg-RDtYAcXdqi8miFF0oZ9kMtjq6Rw8SRfczAgXUBkytDWEVU7ckZCaZNQBS77S_MT_WY5QCVwFo6_QzvoHQ5QGBULoa55_UBGDMPExdOKDGS8CHuZHnD1jljYkUtiVtApfqGyEcE_JSQXS2RoG0f4RZhAnJZ1pFtWDfkKpY9X3Lkte8RTjPliZdXA",
+        "width": 3472
+      }
+    ],
+    "place_id": "ChIJyb5ZcvfzK4gRBkT9_0pDPzQ",
+    "plus_code": {
+      "compound_code": "FFH9+39 Waterloo, ON, Canada",
+      "global_code": "86MXFFH9+39"
+    },
+    "reference": "ChIJyb5ZcvfzK4gRBkT9_0pDPzQ",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "66 Hickory Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47095170000001,
+        "lng": -80.5403655
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4723501302915,
+          "lng": -80.53913611970849
+        },
+        "southwest": {
+          "lat": 43.4696521697085,
+          "lng": -80.54183408029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Engineering 2, University of Waterloo",
+    "photos": [
+      {
+        "height": 1456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103187781719949593335\">Hassan Ali</a>"
+        ],
+        "photo_reference": "AeeoHcKpMU96Zn7x5ogZsgg-Wj_-SmubtQl8CziqrMv4B48l-cjzURD6Dq4Nm8nS6vypLT99ubv_6RzwMPaW9_t5XEs6pjVnsHge9HUMIhJwLceq4Z5HdCnPm2_EDyOB8RIZxqpifQ09w9QWtSbIPmwKiMC3pWudzlrI5XmbZqDi3prgOeeosfPaAMvar2c5gZi-wuWBus_-iInqg8EiKX12bs3YZwQLDAErMr15bxSDbOcoOUTE0jSDvsjOkBespvG3615HCN7c5zNgFQLNGOAjNUTrF1lOPHLpxf46Tz4wkCyqSeKAz5tGen2nKLUL4x8QS-EFqW_03GHwuoUy5aP3feMJdhlsZkN0kWNiMhyQj8byLkzBI5ODZIAaWW8VD8Y_8htviUG8QpkgEHx0oGnp7nJyfIP5vBMS2VI6fb_gi9Ky3ms11qcafdY5-So6FSHEIR3VcU42Val19TavHe-2j4f1IHYR4QXj1jtZVD-vjUIFxaSNR3uHTqCPakjfyTJcRK5-icgf8MMpvHO125_wfnQiiAyUV9rbsBi1KylKZbyz3VGJnsOS5vjs3M0oZqTmCidsvnB_RI9sypdC7-SVK8WhzhgiPZ1lij9WxzTBtVOBDJuBPQFHPMK7qxjjApaQ60zkfw",
+        "width": 2592
+      }
+    ],
+    "place_id": "ChIJZyW8WwH0K4gR9sAmXopaGP0",
+    "plus_code": {
+      "compound_code": "FFC5+9V Waterloo, ON, Canada",
+      "global_code": "86MXFFC5+9V"
+    },
+    "rating": 3.8,
+    "reference": "ChIJZyW8WwH0K4gR9sAmXopaGP0",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "Ring Road, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4671025,
+        "lng": -80.5422444
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46851918029149,
+          "lng": -80.54072376970849
+        },
+        "southwest": {
+          "lat": 43.46582121970849,
+          "lng": -80.5434217302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Psychology, Anthropology, and Sociology",
+    "place_id": "ChIJ9bPqJAD1K4gRfT4DzP-2ajw",
+    "plus_code": {
+      "compound_code": "FF85+R4 Waterloo, ON, Canada",
+      "global_code": "86MXFF85+R4"
+    },
+    "reference": "ChIJ9bPqJAD1K4gRfT4DzP-2ajw",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "#1292, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4729167,
+        "lng": -80.5401595
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4745195802915,
+          "lng": -80.5386831197085
+        },
+        "southwest": {
+          "lat": 43.4718216197085,
+          "lng": -80.5413810802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "University of Waterloo Electrochemical Society",
+    "place_id": "ChIJcazJHQH0K4gRenVHysCZ-t8",
+    "plus_code": {
+      "compound_code": "FFF5+5W Waterloo, ON, Canada",
+      "global_code": "86MXFFF5+5W"
+    },
+    "reference": "ChIJcazJHQH0K4gRenVHysCZ-t8",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "200 University Avenue West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4682012,
+        "lng": -80.5435861
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4696130302915,
+          "lng": -80.5422702697085
+        },
+        "southwest": {
+          "lat": 43.4669150697085,
+          "lng": -80.5449682302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Environment 3 (EV3)",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113664309233820834071\">Ron Dutton</a>"
+        ],
+        "photo_reference": "AeeoHcI9j-jzhXZkSwYZ94ngYl20rvIx2bHhsM6QoAH7DQqr7T39GNsir4lNruM4zfvHNzzqX_AGsA2_EBql21EbL719VO3-xcjf8WmTBX4_Dsu6a6CCfaR1hbKSNRSfyMCc09FcScN82ym6zMIzVCvz89FbC5GNlQHYG8P6RFgU3UPdhA7j37pARSbK7wWiiZR9rUiAtlpY00UgJEQ_VamB2YuXVY8CvaWN7au0DprwcBavBdAZItt54sVeCi37KISlZ-yl0r0mQUCnB8lJf1Knr0HdeSMeTI8BblkaIXEpaX4Lke4WYWtVyue0Za7gNXUHIZyGyVLztsgZQZp37MoQsKy6xvxCYxNCy3gZuBAAhtRUz4bssob8oxcvIwpdwbNydFhOBKUQg3Q21uaGVXcs17TKZ7gncuvXW_4lyDRaSTBDXByYL0CVPBjyaDSXPfzNz5FsmfW8ywu_W6IDITZ82J9xD-Amb1neo-Wm2WLqTJiHFpMjgc_fULEa8na3KmtAy_RJLUbxHYdoq0Va8OR8VIPVQUmuA-M6sUfpatvmMToz4n7hcuPVAHTgJ9fGhBoHMCXFJW5NQwch50QKGJk9Y7pBgEeonSFGMhL2FsNHG1RuEwEQ_rcg4_GXZP8LsFXvJ8N-ww",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJn2K3gwL0K4gRX45mwKbQmBI",
+    "plus_code": {
+      "compound_code": "FF94+7H Waterloo, ON, Canada",
+      "global_code": "86MXFF94+7H"
+    },
+    "rating": 4.8,
+    "reference": "ChIJn2K3gwL0K4gRX45mwKbQmBI",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 27,
+    "vicinity": "200 University Avenue West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4748853,
+        "lng": -80.53967659999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4762859802915,
+          "lng": -80.5382618197085
+        },
+        "southwest": {
+          "lat": 43.4735880197085,
+          "lng": -80.5409597802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "East Campus 4 (EC4), University of Waterloo",
+    "photos": [
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104607390712034938536\">Varadharajan Jayakumar</a>"
+        ],
+        "photo_reference": "AeeoHcKyZ21N5fZ0HdTtvHO3VfVB8kVu_H_uscrTXA8X7V2mosVTWcoc9t9ztaJM5dDWzqN7jw1PfUdgroz7VZoImuGI8XRX7-xgbeSjFZ3HEDSMvGiyYieImFfLKRAoYv6eSR5R8732-bZLEeRegQqTwxSKUy8HUFRybwhbVBeEjvT56VZATeZc3oUVEh6b_p7eznJJz3yF80ipnPhOXu36lg9CZ-RhAQOFKowQe1yqUxjZCpDU2Ufi8RCk2mMxcVnrVbhYcrO9t-kYO2tymq0XUj2yFepXybLweQVLmTb8e98EoV-l7NB8oIP1Xu1gky7ZOy-tmixXg4fM2QSeK63bHQlC6SZK-bgnscdspfsf4OOT6QoPefZZbmNC_R8JkqFhHbCdaTg1EMuvUqmcaq2y97kiVYtN8487xPWd7iYESq7B0SLSjweGgY__qOzmCysKv1bMkp5kqyu2yx2SO47PMIOnDPfdkF2xfIFwyzweNeBPleSUdh-0kYUFpSTrdGytowwKe56kdVKL7IAcKUuOVmA7wd86tZR96h6Vlv8isS96NezBrzwwh-rrYCcYd25xBQrhgSUit04U88WHWj5XCQXx-2YYmIE2l87mtKjYGwGPlqO9B3n5BhBZ8eN2qoKA",
+        "width": 4160
+      }
+    ],
+    "place_id": "ChIJozyIlwD0K4gRcwXbFbRh8Yg",
+    "plus_code": {
+      "compound_code": "FFF6+X4 Waterloo, ON, Canada",
+      "global_code": "86MXFFF6+X4"
+    },
+    "rating": 4.3,
+    "reference": "ChIJozyIlwD0K4gRcwXbFbRh8Yg",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 8,
+    "vicinity": "295 Phillip Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47129950000001,
+        "lng": -80.542715
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4726925802915,
+          "lng": -80.54130741970849
+        },
+        "southwest": {
+          "lat": 43.4699946197085,
+          "lng": -80.54400538029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Velocity Science",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJlUC4mgL0K4gRiQFpefYWCmI",
+    "plus_code": {
+      "compound_code": "FFC4+GW Waterloo, ON, Canada",
+      "global_code": "86MXFFC4+GW"
+    },
+    "reference": "ChIJlUC4mgL0K4gRiQFpefYWCmI",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Earth Sciences and Chemistry, 200 University Avenue West Building, Room 319, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47060570000001,
+        "lng": -80.5434939
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47180753029151,
+          "lng": -80.54219331970849
+        },
+        "southwest": {
+          "lat": 43.46910956970851,
+          "lng": -80.5448912802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Science Teaching Complex (STC)",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106794487251519727847\">Adam R.</a>"
+        ],
+        "photo_reference": "AeeoHcKySRev9DviIDICHhZRUROsVpbLTsjrnKSmWTVHrxGUvt4CA9PEAwJ3b3WgW8osOdOuuEbc0zy6tBtTFtom8VIOSGxIjdJYBeSXWsQm38MgX4JouNeWY14pJ3Jf6YWGcPx2FnZAx8i6Hcs9Xu0iU83WpvvsGQLv-rjGUTgmB8r6Oakeg-OabZLMZfb9Ojoe5OyZkW-seyCa9vCPKbO-Ei8ttmHpmcGByYUGkTyKIAdjpvfuiytxQdkphTkw55FEWgIXOmfZ78nbk84h1EdKhfiRPy9tkg0SyOrqP5inMQpT1gaXCPSz6-N0CGs5uPQfnj_4_H_ii2mMkWHvhPSKxx4uBEHaf4s9T96lwq4WgTLzb-kr652ci2dDh4NC7A1W-j5tcNdBWm9Roou7Sda2qOjECzrrl5ZEMZHjknPQWwvCSLMJIFodl5UtBF8GWtNcOjKhSABlvV3dFh3nIBwUc9d6a9tB2CbwaQtYzVx_LE6z0JctoooqryMhnScuSxwXDB8V04vKjNjdkzzprNyoto9XDw-DeEphIVEwJvjKz9EzmwMZO0TCa-N5NRhCDf3Bd_RgwqIYMPmAU-afyHy3r82MZbeXYTk6NNqlue41Xywl8Md2Bh0-cgucZFNsVg5ygl0n0dH7",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJY7MVBAL0K4gRgZvELOqbD_s",
+    "plus_code": {
+      "compound_code": "FFC4+6J Waterloo, ON, Canada",
+      "global_code": "86MXFFC4+6J"
+    },
+    "rating": 4.2,
+    "reference": "ChIJY7MVBAL0K4gRgZvELOqbD_s",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 29,
+    "vicinity": "200 University Avenue West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4707845,
+        "lng": -80.5438235
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4721870802915,
+          "lng": -80.5425765197085
+        },
+        "southwest": {
+          "lat": 43.4694891197085,
+          "lng": -80.54527448029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Biology 2",
+    "place_id": "ChIJPTqwaAD1K4gRwmtrexl57Eg",
+    "plus_code": {
+      "compound_code": "FFC4+8F Waterloo, ON, Canada",
+      "global_code": "86MXFFC4+8F"
+    },
+    "reference": "ChIJPTqwaAD1K4gRwmtrexl57Eg",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "200 University Avenue West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4754332,
+        "lng": -80.54073090000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4766914302915,
+          "lng": -80.5393243697085
+        },
+        "southwest": {
+          "lat": 43.4739934697085,
+          "lng": -80.5420223302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "East Campus 5 - University of Waterloo",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104607390712034938536\">Varadharajan Jayakumar</a>"
+        ],
+        "photo_reference": "AeeoHcIKaAOHVL5kwr-lcAWHHVSeImtAp4MDXK7J6kMBqBGYVGieg3CDdRH6g5UtAFaP3OWIBw-qRQXcA7cBkPOrrDncDJ7glEeeliXhGSG3xUvSNyheP0wEg6ppEPqDgGsSkiP1At1WjW8TpKHySdubWyo8f71RxpgLnJ_hjXYQGDobv5eovFTPaRV5H-0LWXO8qag16XthM0vMgaIpNuax3j0Z7z8hPMMcEJKuSCelBiXgQVTkgY0T0uzZmXXg92nRapNjK_V4TRE2agTNScddzPXdsm3mmfva1vv9coYh5fHWj16UqXMHyeA4YWhimd_3ygB4MfbcRH9nrvpqt1Kz60Tu101cp8T06nuO0EOqH74vzsQxMtFPe1O3-C7a3qzR5tUNprAGNS2ZWYD1EL1MWaVMtZ7WfEmcJE7yu9osu3SVMHJOhP2n-Da6MtY3Nx-RD8KwVKQ29elaFRhWpaKKAOEHNggAcJlhlpUWf6RiwClKxlDNCRptpntUVmkExKVVgTidRfpu9tzm0sYvneMiUYRs4nLJMT2QENldZagClRS99mG3L3-cpwyhKLFJX_P888c16_YCxoaVplEAul6WRcBlJQYf37oGV73DX1EhNjYjlke4HYAQjEFtHx0KITMlWdv7Q2_-",
+        "width": 3120
+      }
+    ],
+    "place_id": "ChIJc_WIgQD0K4gRzPtz6hz4o1o",
+    "plus_code": {
+      "compound_code": "FFG5+5P Waterloo, ON, Canada",
+      "global_code": "86MXFFG5+5P"
+    },
+    "rating": 4.8,
+    "reference": "ChIJc_WIgQD0K4gRzPtz6hz4o1o",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "305 Phillip Street EC5, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4712483,
+        "lng": -80.5441159
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47250468029149,
+          "lng": -80.54296056970848
+        },
+        "southwest": {
+          "lat": 43.4698067197085,
+          "lng": -80.5456585302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Waterloo Institute for Nanotechnology (WIN)",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4891,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116908555253919070427\">Waterloo Institute for Nanotechnology (WIN)</a>"
+        ],
+        "photo_reference": "AeeoHcLko0p6WCAVFokIIfAOEspS3CbnXJpnOIe1fr2W26w4Ia-AlIelimy8EuNoOQeIyLpautEjRAYvDKSma-By0C7_mDyJHOi-ySDfGNkkW170TSa5oXSSr3p2AgcJCWf77nkUSdZ0NW9HxrI7wYMULLVwtrnof9rE19bsspM97s1YEXzQ-cO5O0LCz9L5kPDKLex97shrkvyIhKICaKUyvuzvD_fh7PBh9N7ggWHmgmv0nM6XiT85QCWOkyRnc90YoWc77BKHDtaFLICuSlNny0zJ7jvOFQIOqvc4mIiO_50HyEkfOctPXgqfL3TpoRMDFTSdke8rhy0",
+        "width": 7329
+      }
+    ],
+    "place_id": "ChIJadvaaeL3K4gRjQQTb_7-b9I",
+    "plus_code": {
+      "compound_code": "FFC4+F9 Waterloo, ON, Canada",
+      "global_code": "86MXFFC4+F9"
+    },
+    "rating": 5,
+    "reference": "ChIJadvaaeL3K4gRjQQTb_7-b9I",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Mike & Ophelia Lazaridis Quantum Nano Centre, 200 University Ave W, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4692433,
+        "lng": -80.5452159
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4701290302915,
+          "lng": -80.54292699999999
+        },
+        "southwest": {
+          "lat": 43.4674310697085,
+          "lng": -80.5464238
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "J.R. Finn Hall Residence",
+    "place_id": "ChIJOWwmyKn2K4gRBgEdLoL1MOE",
+    "plus_code": {
+      "compound_code": "FF93+MW Waterloo, ON, Canada",
+      "global_code": "86MXFF93+MW"
+    },
+    "reference": "ChIJOWwmyKn2K4gRBgEdLoL1MOE",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4762899,
+        "lng": -80.5403894
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4777244302915,
+          "lng": -80.53900081970849
+        },
+        "southwest": {
+          "lat": 43.47502646970851,
+          "lng": -80.5416987802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "East Campus 1 (EC1), University of Waterloo",
+    "photos": [
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104607390712034938536\">Varadharajan Jayakumar</a>"
+        ],
+        "photo_reference": "AeeoHcK02rH2qcavz6HT1Zvzsg-GM-a65j5x04bH-P5O9GM7rTTAr3VXpvv_K8rj40oCzbAHT9rMFgA-yyzyof1XGz-I5iMRJvviJEPQKLJyv4ZiKcJd09JsbGjSiv_hKrWU0GtHXkRgicIrLTI2XjyJhiw8pm52u6SRQ0LY1G-N8TLVny-7P8ez-TgzsmKl5wBpgTCRSRoso4YF8R8E_HxwQ902Fm84IPiZcnS-LWatHFfMZY2MXhUskAejjBoDWqZQazu1xl0Xhn8CphWWfK9Hu8YNlErJ-yaHxC7O94Gkv-EwerTRoa0Nm7k_yDf0_JVBG3cE-fy72SIhlR1-s70UpAaqCxNUlFn5vXLbXrEKbVqcqn6XaXCDBIaDKyQQ0SnSALC3jIUP40WRQYcqUGktS8z4kKf1jwraJyCiYxwhx9-BuYX2QAVupSyXdoCf_CEUaat7QHreD8hctXrnw_10HswlkJlFm1hfjlPt2g9sLzCfCDn6GiFzXPYGNf2ACFo9wBFkQRbHxO7kAtAP6xtgbhImSn2Mdv4wB3Iuby0qQXv5GQH7vF_Tl0bA6xJxu3lZWaCMQ5xNVE8oqEPpMEYxsuUdJmEw43DaOUk4gLRB8X3ohrfp7ipK5JbcXzmzrp0lpy5SMg",
+        "width": 4160
+      }
+    ],
+    "place_id": "ChIJV5cWbv_zK4gRxhpl_C4BbOE",
+    "plus_code": {
+      "compound_code": "FFG5+GR Waterloo, ON, Canada",
+      "global_code": "86MXFFG5+GR"
+    },
+    "rating": 5,
+    "reference": "ChIJV5cWbv_zK4gRxhpl_C4BbOE",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "East Campus 1, 175 Columbia Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4698791,
+        "lng": -80.5456624
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4712793302915,
+          "lng": -80.54435381970849
+        },
+        "southwest": {
+          "lat": 43.4685813697085,
+          "lng": -80.54705178029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "St. Jerome's University Atrium",
+    "place_id": "ChIJiaLHvan2K4gRq55QIOovzMg",
+    "plus_code": {
+      "compound_code": "FF93+XP Waterloo, ON, Canada",
+      "global_code": "86MXFF93+XP"
+    },
+    "rating": 5,
+    "reference": "ChIJiaLHvan2K4gRq55QIOovzMg",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "290 Westmount Road North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4523048,
+        "lng": -80.4990081
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4540962302915,
+          "lng": -80.4976566697085
+        },
+        "southwest": {
+          "lat": 43.4513982697085,
+          "lng": -80.50035463029153
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Health Sciences Campus of the University of Waterloo",
+    "photos": [
+      {
+        "height": 2304,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100543364187798775239\">Valery Arkhangorodsky</a>"
+        ],
+        "photo_reference": "AeeoHcI9CO-qTYbiGowZV0p8rjeA8YofNqRXDZ9YG9BMIPWpJ3Npy-gJkB98uLbiR9HkJE08ImWhElgZ0Osj0oWcP0oz6cXIArhyYwsDzgiJmrD537x6IJ0ArI2KFcA8xCzu1DJ2Roi_XgLlnL-h9dMK6rc2F4km8V6i1A3QJR7-u9hsOIeNbXYIIkds5vHuEPeIWKkowhappeLEdnuX2WV_HO5WtyffPXjQsh4vZSiVbU7zYDwWEMh5Le3MoaT_cO5thkF5Sr2W9fdMEKtMb1cWMBHejjHmm_rSSYjPipoG-h90MMkWMI2sCW1aHCf9YNzBe5KvSDMfINto5bIVxB9IeekGja_VhOBYpc4sqn-5nk2fUZpRoa-y0DRL3ydUd1rUT2p6WgW5VioR6upUVi92lr8z6XUzthjHUOyyjDVcFzq-NtnS45YpihQ-pchnln7R_8tx2KW7uD_PNHQk1LrJB5gDIbEhwUdLZ35T2gMdTf6T-ldg5J2hJur-QlMdS32ZHhJ7Ce1woRpoFhCgv1Nk8k2434LTEDYw3hYSZBEY3jxhfvqkM6i7l4zP6TgFeZm14A3QBH8tvJkdV6y_N9N4Y03bhcyle5qG71RiNQ6Rvef8_m4uCcxlw-gkZh9DOjdLw5z6qw",
+        "width": 2847
+      }
+    ],
+    "place_id": "ChIJDyVrV_X0K4gRgytcMkEiI38",
+    "plus_code": {
+      "compound_code": "FG22+W9 Kitchener, ON, Canada",
+      "global_code": "86MXFG22+W9"
+    },
+    "rating": 4.9,
+    "reference": "ChIJDyVrV_X0K4gRgytcMkEiI38",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 106,
+    "vicinity": "Victoria Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4696887,
+        "lng": -80.5465201
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47103558029151,
+          "lng": -80.5452642197085
+        },
+        "southwest": {
+          "lat": 43.46833761970851,
+          "lng": -80.5479621802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "St. Jerome's University Reception",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJdzbqpan2K4gRxNsDyFds-x0",
+    "plus_code": {
+      "compound_code": "FF93+V9 Waterloo, ON, Canada",
+      "global_code": "86MXFF93+V9"
+    },
+    "reference": "ChIJdzbqpan2K4gRxNsDyFds-x0",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "290 Westmount Road North, Waterloo"
+  }
+]

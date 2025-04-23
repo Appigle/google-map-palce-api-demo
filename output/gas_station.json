@@ -1,0 +1,3056 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4292134,
+        "lng": -80.4358444
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4305659802915,
+          "lng": -80.43449311970849
+        },
+        "southwest": {
+          "lat": 43.4278680197085,
+          "lng": -80.4371910802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Canadian Tire Gas+",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 564,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116025089597418016485\">Canadian Tire Gas+ - Kitchener South</a>"
+        ],
+        "photo_reference": "AeeoHcKGr7bveFpddY7AJqmPltjWpPn0ukkjdgwxKIODZfQ8yCF6GN6KkOakcWxAqm9eDbuhqC0234nV5f8OqQhcpSSypZCJcXCq19tpP7Bx8SGf6PaFuQwuZdNmJzuKjNQLLqqXxMbsXIdsOT_GhUByN_DLd4vq_wXt1ylY5tSaQRlHqvuRIe2sbutknx_nOK1OOsyrctmfOPzx_1BW_EINZvH-l8G65JVSxDvLrnpa_bGQK0TKsZimWgvfEARO5aM3MVEFWh8qknkkqCRQKwgiEDlzerDflJjI-t4dlI9s2yc34T_J1EbiVTVtJfzEN5vbBVSa81dE1fg",
+        "width": 1036
+      }
+    ],
+    "place_id": "ChIJDY-qjSCLK4gR8ooQhlGfMWw",
+    "plus_code": {
+      "compound_code": "CHH7+MM Kitchener, ON, Canada",
+      "global_code": "86MXCHH7+MM"
+    },
+    "rating": 4,
+    "reference": "ChIJDY-qjSCLK4gR8ooQhlGfMWw",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "car_wash",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 287,
+    "vicinity": "2905 King Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46434889999999,
+        "lng": -80.48312539999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4656642802915,
+          "lng": -80.4817598697085
+        },
+        "southwest": {
+          "lat": 43.4629663197085,
+          "lng": -80.4844578302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Transit Petroleum Ltd",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 400,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105245345137150871376\">Transit Petroleum Ltd</a>"
+        ],
+        "photo_reference": "AeeoHcI61qnBvFdKKkysw_5YjaZVOTUIeHzqnQO_g6ojy3WLCCMYEA1-V6eYOdWfoRg2e6EiRcgtSFgmwCIYVyPf6MPXxCOETuyCbYSWkPL6CS7WI9BCE7o5U28rYqdVayZZ83nrO242-Bit_OohYk_jSWq8Pzu7FluWor6PzA_QekVtJNMCV6_Qt9K00vv0E490xhaqEdLTiwVvLJqhnPoKmzjHguZYOmQDyrkYMbgvYOPEGg-134h74FhoCu_Nf0ChTxhXW4lMStg5hh-2q_eY2cI-ZmertTX_ZtswonxvTqrg1WqlrYecaaA5z-6_7KiKalbnwL3CO2k",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJjUjOyJv0K4gRhz3cM8epc08",
+    "plus_code": {
+      "compound_code": "FG78+PP Kitchener, ON, Canada",
+      "global_code": "86MXFG78+PP"
+    },
+    "rating": 4.1,
+    "reference": "ChIJjUjOyJv0K4gRhz3cM8epc08",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 27,
+    "vicinity": "Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.51555249999999,
+        "lng": -80.5577727
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5168934802915,
+          "lng": -80.55626261970849
+        },
+        "southwest": {
+          "lat": 43.5141955197085,
+          "lng": -80.5589605802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Wagner’s Corner - Esso",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109988421927838517028\">Dushyant Puri</a>"
+        ],
+        "photo_reference": "AeeoHcI5fsAaQMNV8hH3Lccwcy6voe1zjttofDUzvdBEnRaRJdf6VeaPbfikEIhya9WzysdzXHaG8rMZI_AW97mRSD1YlgI1UaSFJzHADr36qKcsOv3ugL5IE_vwKxD46cjkuqr7g4fcrJDWj1AbYldomXzZ-yxoxH3XCHS7voW0pjD6W34pjr2hDiDdVOcBwRGfya1XjPLEsN32JV5eNFYyuT3kFVZRCW66UnIK_q2X-IOk3jguJuZVtQMhRhEXu76Pfzrrha2XO8ihw_ZrlGVYUT0hfRxav2p_yqVyK32cxZSiYHCrr773HhjOgjqlWWt41a7XrVybxWxlUS6qFDK6QNDtL2Z983lPrGGHF5C3pmowWnX1daEyg7pJ1DZR2pKtL6HJ5fYKaytU4FJ_EThy5bXza_P9yRoUZYf1XXHY5qr3a8-A4ygHTlVMJY2AwXroWFZS6AAMIEoI_WEme5c_PEPlpiwQwOeRhR338_A2p82fhpP-_fMYgLKM4t6CYtlFuIHgEUkIdq2zlQ8JJ0AHdIECpw4R4uzfr_IKp73xzGK9TuWSHlrfQX3S2HsWmHlYrefkW6d85QFa0anMVrh2p2uUQIsxaE3CT_pC8Wjif4vhl6dCei4oOBN0Jdj7FKtqZJPyaMBR",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJh3xAgp3xK4gR3O-fbxyURBY",
+    "plus_code": {
+      "compound_code": "GC8R+6V Waterloo, ON, Canada",
+      "global_code": "86MXGC8R+6V"
+    },
+    "rating": 4.2,
+    "reference": "ChIJh3xAgp3xK4gR3O-fbxyURBY",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 117,
+    "vicinity": "885 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44165,
+        "lng": -80.471673
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4430776302915,
+          "lng": -80.47020836970849
+        },
+        "southwest": {
+          "lat": 43.4403796697085,
+          "lng": -80.47290633029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Pioneer - Gas Station",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116194901569264179625\">Pioneer - Gas Station</a>"
+        ],
+        "photo_reference": "AeeoHcIfHxOh_5fiXU1OJw7zSIyj3Io-CShIAR2fChRAckwy8t-MbrMZfPwTMWnSChty6bZXC32rfuCAl9mwx8WNCGyiNELenDGZhta42BU446YFhcI3-6GHFMRmOQ1IoM2C0BmcFm9yhdotVdr9MMFhMPnexZZQ-p0JsjqNCc5aRoyZmbGMLwHv877btU9p9wpupd4FVEmcuOTYJRUJ_BQrZdlMo-kL9gR63S31PY-wyEVj9Ry-2lvbhX7rkFARIGeJPys6aLC1e5EvwrLgVAxeBHm6kBP_Y9FGdI0uYhAwDC230u5lhmtchtwFqBrNB-4fBtZujIrTHl0",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJR-6PWMP0K4gR4POPnL0RIoA",
+    "plus_code": {
+      "compound_code": "CGRH+M8 Kitchener, ON, Canada",
+      "global_code": "86MXCGRH+M8"
+    },
+    "rating": 4,
+    "reference": "ChIJR-6PWMP0K4gR4POPnL0RIoA",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 230,
+    "vicinity": "1105 King Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45047400000001,
+        "lng": -80.444411
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45182983029149,
+          "lng": -80.44303936970849
+        },
+        "southwest": {
+          "lat": 43.4491318697085,
+          "lng": -80.44573733029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Petro-Canada",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJB34DUEiLK4gRAiPtetNUeaU",
+    "plus_code": {
+      "compound_code": "FH24+56 Kitchener, ON, Canada",
+      "global_code": "86MXFH24+56"
+    },
+    "rating": 4,
+    "reference": "ChIJB34DUEiLK4gRAiPtetNUeaU",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 63,
+    "vicinity": "1015 Ottawa Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4465561,
+        "lng": -80.5722378
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44800523029151,
+          "lng": -80.57093256970849
+        },
+        "southwest": {
+          "lat": 43.44530726970851,
+          "lng": -80.57363053029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Canadian Tire Gas+",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 564,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101161088384721441395\">Canadian Tire Gas+ - Waterloo Erb St.</a>"
+        ],
+        "photo_reference": "AeeoHcLMzInIfuEyMjjNzaiL0TP5c4OrclqltMBPbJp5cqTz7-qVGecps_qB5yCS3mDLdReIkwdtW7ewsTI0XgOx9KQlXSbHnENu82oDlPsCVkcvsRte1uVo5saBOEi2s1yCHE0f70nRHCsEKENi-QyCoE1erXgXqygzpzK5cYwxw_6VHZioiFApzfx7c6x_2fKGnB9OoJ9oyeBhKMjma_iUuAtAoLPFNMu7MzAVst1PAavhuRbCOkFR4YgH4IzEN1JEJQ-vKFFqZ33rfcJUI6osun2Zjl_XMJzEZvIKSukVDOOUTrBpJ1p_nT8UriLkyXT50JksxECMgBo",
+        "width": 1036
+      }
+    ],
+    "place_id": "ChIJy5VdYfH2K4gRWPhMz68nKzc",
+    "plus_code": {
+      "compound_code": "CCWH+J4 Waterloo, ON, Canada",
+      "global_code": "86MXCCWH+J4"
+    },
+    "rating": 3.8,
+    "reference": "ChIJy5VdYfH2K4gRWPhMz68nKzc",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "car_wash",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 137,
+    "vicinity": "650 Erb Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4659227,
+        "lng": -80.459954
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4672315302915,
+          "lng": -80.4585828197085
+        },
+        "southwest": {
+          "lat": 43.4645335697085,
+          "lng": -80.4612807802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Petro-Canada operated by Canadian Tire Petroleum",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 900,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111689994857598647568\">Petro-Canada operated by Canadian Tire Petroleum</a>"
+        ],
+        "photo_reference": "AeeoHcJTU65vvdIS79M4e6LS4U2hDK4yIS1IzEGxd9We5FOnuwTqc3OY2YwL8kR-OCaVHzc2mNrB5dvVyGuNoTn_BQp0DcWp8aSVF8wBGLI1mn0PnOwFSKzahovJsSb8Ks9cLD0CfsshcKwYMOovuQZZsATqQEgX3hZZLdYWy5wIFUxaWM4L57dur3d4LX1Q34EIt2TPMW2Oy0ELyPWBzEzXuJd5X5g_t6BvkttbYCxMEAMrDGcKkZSCaCFpzHLCXolLK_ZAy0bsZFadObj2QZtRBKYGn0WPQjuQsNrMZqwXZmJvNl9RfP2i0i17fJBSexnsU37LLwbtdP0",
+        "width": 2000
+      }
+    ],
+    "place_id": "ChIJQVJDz6v0K4gRUeY5BWEVQJY",
+    "plus_code": {
+      "compound_code": "FG8R+92 Kitchener, ON, Canada",
+      "global_code": "86MXFG8R+92"
+    },
+    "rating": 3.4,
+    "reference": "ChIJQVJDz6v0K4gRUeY5BWEVQJY",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 61,
+    "vicinity": "1080 Victoria Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.48449799999999,
+        "lng": -80.52454809999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4858480802915,
+          "lng": -80.52317871970848
+        },
+        "southwest": {
+          "lat": 43.4831501197085,
+          "lng": -80.52587668029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Canadian Tire Gas+",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 564,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109529582544886786504\">Canadian Tire Gas+ - Waterloo - Weber St.</a>"
+        ],
+        "photo_reference": "AeeoHcIOaWXgp3O-lfXB33I-NJaEOVjOdQLS7ea5a-qzMi2WopBqXR5mv8q19WA53pW21dc1pt82VZJpEh7-ODUCCCwucH2k1rKUwupbF51LJmufjP95VJ7Tda8mQTh9PxfEspkx2Eq7feSiU-tEZiHYfnj9I11rT3Ii7bYsqq6wBo9ezA7wm9FURe4-XuHDvRiBgVnTNWZvgetgJGcDzzEOQre_1Ec4rbugdkTr9N2N6TYm2h-cERnkjRdFukfW5Vk69mrPWPpPIMs9fMZegJMSFYCxzc63TogsEw7B_gs4Dxj4hJp-7UpyJ8Mukb-C63QK8x-aMJIi934",
+        "width": 1036
+      }
+    ],
+    "place_id": "ChIJDzQimu3zK4gR3YMo8p3I6Og",
+    "plus_code": {
+      "compound_code": "FFMG+Q5 Waterloo, ON, Canada",
+      "global_code": "86MXFFMG+Q5"
+    },
+    "rating": 3.2,
+    "reference": "ChIJDzQimu3zK4gR3YMo8p3I6Og",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "car_wash",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 68,
+    "vicinity": "400 Weber Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.50320829999999,
+        "lng": -80.52783219999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5045414802915,
+          "lng": -80.52642941970849
+        },
+        "southwest": {
+          "lat": 43.5018435197085,
+          "lng": -80.5291273802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+    "name": "Little Short Stop",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3464,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113512457090145462310\">Ruben Agadzanian</a>"
+        ],
+        "photo_reference": "AeeoHcI_CVR0ty_Kn5fu6nfKRMiMD2QQ_KSmBDVAS6iUoX403Jwpqz8KgnCIXPV0j7GaxiVl0dDvT-Q8gR_YVUsA1C1Gikz440PgPt_vW7DrQZoTTvZx1ezx60hGAJiT_NGIVxJynQTfXunHEp885321P01DA6QAYKA33-cueb1QBo1NagnRUPejPaiugy0X0UMSW4nhSL0NJdYe1Wvt1yB_Heqn9sd_6mmKiT4iWPEtAy3-xGZADp_QdDt3J2YeBfz3UTyd0f5Ro0dwdEKNVDcJgLTAUqFj3MG55YUmykpMrfinWjmXU8QtZyYbX5O3PjUSoHJYLaAOIecSPfHFY5b0TFd8SMCV7JJzU4doCphBWODpFaEob3Y67q4SFLS9jOIg6DXJHn7_se17jPNH7vbN8EBKb-5V_FNDqaZdeRHJhXNrYds9OyVn9YqGAL8gZuKmRh4IMwjZD9M-eEwwd964nJ22v5I58YknMUAjF_dIMezFfVCe8OtiBC2NRbPJZpn5PAfw7NubJLfoWiIhvPfvAVAHqXa1D6h164ovA5FDkjbboKN7oQi8A81YKDqpOodNwsw-0QdxRDGlafZCMJhrSTU1dX2nHbf-BrpCzg7iX4W4r8bo8PkMFbMtrPE24uuYaflP6Q",
+        "width": 4618
+      }
+    ],
+    "place_id": "ChIJoSw0aywCWkARx-D1IB-1vbY",
+    "plus_code": {
+      "compound_code": "GF3C+7V Waterloo, ON, Canada",
+      "global_code": "86MXGF3C+7V"
+    },
+    "rating": 3.5,
+    "reference": "ChIJoSw0aywCWkARx-D1IB-1vbY",
+    "scope": "GOOGLE",
+    "types": [
+      "convenience_store",
+      "atm",
+      "liquor_store",
+      "gas_station",
+      "finance",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 35,
+    "vicinity": "55 Northfield Drive East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4959233,
+        "lng": -80.5015617
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.49728273029151,
+          "lng": -80.50019396970849
+        },
+        "southwest": {
+          "lat": 43.49458476970851,
+          "lng": -80.50289193029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Shell",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1193,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109596735621693323594\">Shell</a>"
+        ],
+        "photo_reference": "AeeoHcJxVqkhLQF71ceEYLs3gJ_lN_f4hu4mANcla5TkicsSYA465R4R93UTkREg5hiIfr27-oP6PomOvTruhU6LA_N9JBKQT0LKd5VHBTYxkQcuo2FieqQd--XCU4PLtvcEJH47NwZuRZ_Jh6cYEixOa9c1p4A9ypOZBUVctKZKimuuXtXkWHRTS_f6zhpvP6UCnGDRC-C3gXw9BKavTA0C5ycWi3avAClpoGYJOb_MrYG-w__D2uljnIJBhdnsufMPPtQxBQuSqm3q9L8oQk2cfy0pcL-l983dRKd5Bhonzxhk882Cps0E_3OnRgPvuFRlfQ83iQPQI8g",
+        "width": 2119
+      }
+    ],
+    "place_id": "ChIJsRJInKDzK4gRgy40mp7LJiQ",
+    "plus_code": {
+      "compound_code": "FFWX+99 Waterloo, ON, Canada",
+      "global_code": "86MXFFWX+99"
+    },
+    "price_level": 2,
+    "rating": 3.5,
+    "reference": "ChIJsRJInKDzK4gRgy40mp7LJiQ",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "convenience_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 35,
+    "vicinity": "373 Bridge Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.465255,
+        "lng": -80.504609
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46670808029149,
+          "lng": -80.5034018697085
+        },
+        "southwest": {
+          "lat": 43.46401011970849,
+          "lng": -80.5060998302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Ultramar - Gas Station",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102583634906146638906\">Ultramar - Gas Station</a>"
+        ],
+        "photo_reference": "AeeoHcI0fHKr4gcafLJhenSBkj1-KnuB4WfkJfch2O7CHtXvfsb4thTTAwvdck1yu3Xx_FHNRxwac-0FHcc3AmwDqf4TFsNaOfaAlCXSROcLwj-hOPIeiJqB4La-WsxFyOmq6UwHbsVpmJzH_qY--dqw6YU3d-VHJYTzMki6Ij7LAJF2b83WH8lN_6Je_AB0_QmHyfYuDbJRDBMKItyNSUrCJ_OFwuBP_ITWzMIJU5HZfKDz4iEpvRdHao7S9gKDeNphI732LYNgARnKl97KJIoDJaTqyNUHoA_HGuO2txQ5VlYRASPWoonIc7rSwk2cDMS2OgrLfYqqfro",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJNWlSgHz0K4gRA5IoWR8E5JA",
+    "plus_code": {
+      "compound_code": "FF8W+45 Waterloo, ON, Canada",
+      "global_code": "86MXFF8W+45"
+    },
+    "rating": 4,
+    "reference": "ChIJNWlSgHz0K4gRA5IoWR8E5JA",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 208,
+    "vicinity": "136 Weber Street South, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.437013,
+        "lng": -80.51278599999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4383461802915,
+          "lng": -80.5114493697085
+        },
+        "southwest": {
+          "lat": 43.4356482197085,
+          "lng": -80.51414733029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Petro-Canada & Car Wash",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103634708711974066884\">Riya D&#39;souza</a>"
+        ],
+        "photo_reference": "AeeoHcJ1EiDJkLkSspERx6SdWXRCFxRdC6c45KsyESOf7y4KrU2A5XzRF4bBRRvwx5D2SpP8VAbJ7Zcs4dQYfNauYYzYmT-eAfEPkcytMUIWdv1ZKbjO9hlMBXu-cd7Bjme5iQL9LV5M2l1k9_iOkMg8GxFQP49nMra-iXuEqLRaXMyh7o1SH_DUJVCWyKy9o_zv_b1zUSUQc0aFacFTK-f4dtLKLTINok_4BQjOnf-kZnxQlwj9igKJSjyYR4KwVb4oM8EPOUUdDotrXHOElzjhK4Dq_fOwGqL018ALHCYm5c1tOmEtChsgDuLod3vW1GYZGAqmP26NZokyoKOHkFhNao7EFT4o9EkXpoyNrfDilWWaziju8k2NUwLCsoH_Bbe-Ac2y0dT66mx_VlwPI9f2GnmlfVLdMYOO64bqmxvG0DyC6DAjCXKlGFrAENkwE2RsYSLj99v73XJIEk3i3KkUAYtoiW7UVShr4AN_U1I3wa-XzB4XkJseSNhJ8V9HsJFtiVYGm88MVglHiW-EqmWR-2Kj8MwB_0lkgtuIoJg9wr-utyrTuaLJKuJZZQKF5sP09toiBU3uHKsYqz-qLrEYnNdKu-XEtlP03uvXT95Or4zM2RBaywi157WaK7Efg_dM",
+        "width": 3000
+      }
+    ],
+    "place_id": "ChIJnRWGBk30K4gRR0n5yJAeMuY",
+    "plus_code": {
+      "compound_code": "CFPP+RV Kitchener, ON, Canada",
+      "global_code": "86MXCFPP+RV"
+    },
+    "rating": 3.2,
+    "reference": "ChIJnRWGBk30K4gRR0n5yJAeMuY",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "car_wash",
+      "convenience_store",
+      "liquor_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 131,
+    "vicinity": "426 Highland Road West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4891226,
+        "lng": -80.492998
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4905684802915,
+          "lng": -80.4916801197085
+        },
+        "southwest": {
+          "lat": 43.4878705197085,
+          "lng": -80.49437808029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Gas Station",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJJ-kvb3PzK4gRnMK4qu3IjM8",
+    "plus_code": {
+      "compound_code": "FGQ4+JR Waterloo, ON, Canada",
+      "global_code": "86MXFGQ4+JR"
+    },
+    "rating": 4.3,
+    "reference": "ChIJJ-kvb3PzK4gRnMK4qu3IjM8",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 22,
+    "vicinity": "207 Bridge Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.43230399999999,
+        "lng": -80.525266
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4336170802915,
+          "lng": -80.52392381970849
+        },
+        "southwest": {
+          "lat": 43.4309191197085,
+          "lng": -80.52662178029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Pioneer - Gas Station",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117451148086983201565\">Pioneer - Gas Station</a>"
+        ],
+        "photo_reference": "AeeoHcLW0N9uyZDdipUUy7VzL9Puc2wkaU1bX_8M6U6rXkamfE7jsuf0eyTZK99nEwPoCz4RDIHUJ6AY33N9T9E-BGSHbz9nXxO2VebVY1txNH0t2Xeq14e45AZ-WJJjafXgoBee-saYWrDZYtZIF9tIhkHV6qAInaCIwIMDNX0aRpGqaZJaQz224CHRUJd8R2lkU9rVcUTCVjkw3lra6EWf7D1iRJir8z95o4lQBxCrXRbAyYeKDySVPhiZg1Bw9T8tf7Y7TaMXGWNCClVRW7uohQxkyySjJbWJjTOsXtzAm65u4i-2wZyxrxTjMKUjULo6eCJBu4suaQM",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJL-Zrxsv1K4gRQ-IKTdGopgk",
+    "plus_code": {
+      "compound_code": "CFJF+WV Kitchener, ON, Canada",
+      "global_code": "86MXCFJF+WV"
+    },
+    "rating": 3.4,
+    "reference": "ChIJL-Zrxsv1K4gRQ-IKTdGopgk",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 86,
+    "vicinity": "780 Highland Road West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.493898,
+        "lng": -80.548109
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4953613302915,
+          "lng": -80.5466268197085
+        },
+        "southwest": {
+          "lat": 43.4926633697085,
+          "lng": -80.5493247802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Petro-Canada",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117058967526677167429\">valliappan p</a>"
+        ],
+        "photo_reference": "AeeoHcLXlwOShOTKxSXpAhd9wil7uf8_Q6brSmeaz_8B0AQnVcGJX2sgp6O8MKOP1ASxw17sY1u3R1aghhFhEWBx24HGNimLnLYklEnkjUa0hIOTOa_SWVtJFJVuUmi5WTgGRsoYHQh9Y-MpFRrJdHutL-hnAs83byW459SYuq5tY3jE4mVus7Uwvt3F5WkUPOpn8HuQVniP3gULsGQZZOP3e5rJKktickDwSTLB9BXJ4Xn-JAy_WMnpQ0gfSGViSweMOLSTrJzCsK9SA260qYjq-_9WQEN011Wx7KcYZd7qboM176xIkz_TAtrMDqhd8WJrmcpqruKy2hGoFAYgEsUQeu1EA0cOUhbwInY_ZXliOOjmcbxqTqqI1rMZQd_ph72VhtzQiN9MlSmLE-UAcwNEmdEQ6peQaeEIieM_22ND04P9Y3xYMkTVKA7tdNFPOzgKC0CoCjK2P8zUnIZi3WYeblG0LfhjxIj88IEBQtQ5izX5y_fLY5QUHQ5l_UGzYj_aO_ZRkXfV-mUgfjSFiN6kvu4pnqAkLXHsJoJJRZRvCo9GThgcmukSsj-9hyHYC_EhmOmXjzHwRySHXpVAyiHyumUrEALlovBZidbG_TWXDvbo5y3xIKWTSeYgYRMkiQYV-yMHtnA8",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJDXG_FV7xK4gR6ii1povjDeU",
+    "plus_code": {
+      "compound_code": "FFV2+HQ Waterloo, ON, Canada",
+      "global_code": "86MXFFV2+HQ"
+    },
+    "rating": 2.7,
+    "reference": "ChIJDXG_FV7xK4gR6ii1povjDeU",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "convenience_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 90,
+    "vicinity": "730 Glen Forrest Boulevard, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.500754,
+        "lng": -80.533136
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.50211953029149,
+          "lng": -80.5317607197085
+        },
+        "southwest": {
+          "lat": 43.49942156970849,
+          "lng": -80.53445868029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Petro-Canada & Car Wash",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117091818027646032203\">Veer Bahadur Singh thiara</a>"
+        ],
+        "photo_reference": "AeeoHcIX_QkMT6NbppoMLjhzaYRIvtXsLbqaXM9yirOfj3DbmCGueZrcz1n22l3Sb0d66Lz9MzgpnAVuOfmY_z3o3CvCcYsfmWDMj6DmijCWWvFXAlkmBOWm1DbaN7C0W68wEHgrAvEmcQGu__HBYw8e1tXc699UmOjLL8sCL4j71HYT-lQBwFkb7hFepcqxViHAwNiHuXkj76W_dMMjeP5jrjnolgAfGschdze4JJAUO8fO9hQhngdDLiwAitrh3D7uvB-KYGiuP8HcoK6DKZ2wTp2Ypms2W_yys6bxDbrHLwCDZUNFgBJVBfCfxF04zLM0-Au0rIUGQr_rAjtTgqgOjjNnEYF-yCSNPkCxl2PT6fn0REpk4p_GiVzl_ObUU_I_0z-qjmF5_By8liQU6dJ7weerHkqjNBeIYTQmGuao8Mfwll799dHdFQd9oTn8iJxy6ZX4vAuX4ljP5CkDCdio4FIu52DZtKRZp14K6s1d_lttyaYcCNfUEoIfFwz7SlvECFmgYF3OyP0-nyrKMn5hi2ErQ9IVxmdhBYywZTEYlzScUpa-udWhpjSlbL0tSx65gRln-skJz85oTgaR70RJVEmM0wQp5deWDf4O7fnTOMo2Z7KEo39grJExPc9DziE3",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJw7TSnC0CWkARjzJKJg_1jAE",
+    "plus_code": {
+      "compound_code": "GF28+8P Waterloo, ON, Canada",
+      "global_code": "86MXGF28+8P"
+    },
+    "rating": 3.4,
+    "reference": "ChIJw7TSnC0CWkARjzJKJg_1jAE",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "car_wash",
+      "convenience_store",
+      "liquor_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 99,
+    "vicinity": "565 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4190008,
+        "lng": -80.4697295
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4203400802915,
+          "lng": -80.4684292697085
+        },
+        "southwest": {
+          "lat": 43.4176421197085,
+          "lng": -80.4711272302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Shell",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1193,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114270967033358740352\">Shell</a>"
+        ],
+        "photo_reference": "AeeoHcICKa0VvSclNijJ2qYnwkPYds3eZm2sddvffP0rPzJBnrA8Bky8Isbhc7mEHIqv85Tizv-9RK3RlMw-W9ikRBI2SbMs0rFc8t7xBstZxCLg58qijZaC8UQRX3-tJ2W7tkmTDko9lRTIzcAdXKIfNZGD4-RsgmRYxtfj4oI4JikzVjjWd8EskPz2vNGDJLfzYyH2ea2dYwWwPqQCiTw-xY_Auje8PDR5yhJIylaHjhJ8iSsahkX-7WIYtR9WKliGP73ofyQeSHEf1lDdf2iH-Vs1rfLTu9RBEnKgMmEuvlAN7Y9rwaZYreOMuR-Fgy4TXeS9fVs9pdQ",
+        "width": 2119
+      }
+    ],
+    "place_id": "ChIJy0yhrjv1K4gR_l5QSZoYtsY",
+    "plus_code": {
+      "compound_code": "CG9J+J4 Kitchener, ON, Canada",
+      "global_code": "86MXCG9J+J4"
+    },
+    "price_level": 2,
+    "rating": 3.6,
+    "reference": "ChIJy0yhrjv1K4gR_l5QSZoYtsY",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "convenience_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 56,
+    "vicinity": "1450 Block Line Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.40675799999999,
+        "lng": -80.499731
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.40806473029149,
+          "lng": -80.4984532197085
+        },
+        "southwest": {
+          "lat": 43.40536676970849,
+          "lng": -80.5011511802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Petro-Canada & Car Wash",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109338729318599261685\">Deniie Patel</a>"
+        ],
+        "photo_reference": "AeeoHcKgYO79I6otRA3BYE1PLl-8qyEd686fvxlm-q34OzU_pkLCtXe9uywYzrCmxmvJi5LUHXzqIEuhyrM8UWUjHdnQeYeYhjfZlY7tsuz0gie-lZG1401z4KVc-suQ-LkO6fNY55C9ICH1NIwKblmmwFuefYU2mYMI1xS3AJGCQE7svNbkFcjV9IFQUPYazD6Dt_8bqX9ij_kMiDp61ctCfaPc2GOELISHc8KUSEQVs9cfpxrn-hJwlu5PDWaBG7Z1hVmKXNg-bWPZnYYsYnjvLViYEwOQlnmDBzt2v4TM9q6mujd5pn9tFoDsHtpRhFFNeZvJbco05-apHN_rnslyAMKdmRtopWzBIuYci6zeKewCbubiGv-1mrRLWF4pxG6hwtQXdk3TU-1-y4ywbyr_b0xrGHHCg0_vYpTZE_YVeHJHdAr19VXELfxVPTFXHXuazGHKVghJ5oLok9m10HFNEev6twlyeOY88nHjHxpVFYG-FIPO1EcsmdCnTJuXsm8bn_Afyy7YuJbN0rZoWglgIh9OFBxCfGBsn3NjWAXFWPCeRidt4W3KHUWDoENQox_MrTTiiRkxHKN7geX1Ewf--E5Ne7CE-QeVRixfd-MyQ-oRpJvGQK0gJaCepfu9xOSQ9my2ug",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJxytiYZ31K4gRiZEnNeHpcLM",
+    "plus_code": {
+      "compound_code": "CG42+P4 Kitchener, ON, Canada",
+      "global_code": "86MXCG42+P4"
+    },
+    "rating": 2.7,
+    "reference": "ChIJxytiYZ31K4gRiZEnNeHpcLM",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "car_wash",
+      "convenience_store",
+      "liquor_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 85,
+    "vicinity": "1178 Fischer-Hallman Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.413602,
+        "lng": -80.605962
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4148919802915,
+          "lng": -80.60431226970849
+        },
+        "southwest": {
+          "lat": 43.4121940197085,
+          "lng": -80.60701023029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Petro-Canada",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112268565545794416380\">Rohan Benny</a>"
+        ],
+        "photo_reference": "AeeoHcKGCRHnNtoeKV_fYW0uJ_7z_G4tYmyajYXzSdMaoUr8PbT6FPBETnsK4utiS_5JmqzlQ2Q2jLssNq5DxbAYVUzxeEmYyb3A3-XVxWpdeJBdThJF9S0Pjv0nm2UIO7NoeXb2Zs-kmd_OKjxn4aq6tjkpNt8c7RCbEISJAL4ENBTOawCPiWFDQEe9i2-zR_JYc16fYMlZgZDtbClrlcXQmU0Dwq22BR4HK_E0KUs-6oH02Xqy4GNuzLpYg2p3NX1JifR94ZaZigCwiN6OiLzdCkPKWSOM0jpszLKcWTo9vEbOGYfo0dz4XRszS2AQMJplOxI-9isz6vZOjOmJvU0fpuGUvlB4rNW9FJs6lfK4RH0SyO61TQ9R-_t4FojxtCtYv9NJP-X-47wzx9UJWz8XrxBKUrfS2wQvwpgDheiDLnNvwinVkG4PXiLeRx8wn-LtaZ5VcNfE-SnFPa9OZp6Qe02pgnm9-YmLm73oOeztuhZu6Ita9f1Vhv8dovcEt4Rq2n2Zw8FllDGBzRUPno_klJJCcJOEg6m2DAwODyc33SyQPePC6VGjQo4sOmLsottPA217A46gYnLIgIGaoGTRBOPf5jltiqcE9_oJeOFecMBzUMg05-r6vcXXmTr_Wmqzj-4HRw",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJqQZhutz3K4gRJ40ed4Dy5hA",
+    "plus_code": {
+      "compound_code": "C97V+CJ Petersburg, ON, Canada",
+      "global_code": "86MXC97V+CJ"
+    },
+    "rating": 4.1,
+    "reference": "ChIJqQZhutz3K4gRJ40ed4Dy5hA",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "convenience_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 43,
+    "vicinity": "1656 Snyder's Road East, Petersburg"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.398597,
+        "lng": -80.44739799999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4000807802915,
+          "lng": -80.4461227697085
+        },
+        "southwest": {
+          "lat": 43.3973828197085,
+          "lng": -80.44882073029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Esso",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 768,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118141292848437638476\">Marta Borowska</a>"
+        ],
+        "photo_reference": "AeeoHcLE4omHIncKBypiS6HsvjyFBWfVrwRilHqSckZdhCOjxIz1t1unAyybO5WZS5f7libij4nINtYIGBqGYTCNUvoYbCcbc58YvadmW20yX00H6UBmi1YsjtIxjxaQYjdoltB0kCKIrrmwBhKq9Dadf5fKDlsRhmmQ7J3EhRMfZPIQ3LGxoMNNK0yAEscSG1c1mBeuocjPs4co7tzRdbra9zmuRvwtXvt9gg7XqPaa6n6dtlphb4R-5KldP54T-CV4rwzV13ENjysKVgjogpBc6BTwCWpcCVDg99FbfYAfmGA785Oa7KbaaFe1FBlaBN0S7C-bxCNbTuPhFk2q5Bur-kWbgSz-M6X9EYuFKot-jSzc1HeAaNXu_hcerIuLcEcfv_zfJiq4pzZp579zm-JR88ZYyjnMX_34f_IdtCOBoCWmz-nHYrH8d7PX9FqiENVeiXzgL8m-c4NqxAts0ElRDCaEw7xfm5bdaozTbthrgd9kAmPbDM0Jlc66x9ojvQDnz706oP_Fk7-6yrrwv1k0AhS-tRXcOaN3NvNSfspjUumcKlOjNxCcNFEqwn14RU9FWR3GMa-3YxtCEY5nPzyWsySaBTuf-HzqlFODrzsqIMreu-kMhpwfr-Hvs4JauF3E",
+        "width": 1024
+      }
+    ],
+    "place_id": "ChIJPXW-V66KK4gRArDesdN7eGs",
+    "plus_code": {
+      "compound_code": "9HX3+C2 Kitchener, ON, Canada",
+      "global_code": "86MX9HX3+C2"
+    },
+    "rating": 3.7,
+    "reference": "ChIJPXW-V66KK4gRArDesdN7eGs",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 201,
+    "vicinity": "585 Doon Village Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4890466,
+        "lng": -80.4928509
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4904423802915,
+          "lng": -80.49143701970848
+        },
+        "southwest": {
+          "lat": 43.48774441970851,
+          "lng": -80.49413498029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+    "name": "7-Eleven",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109034883406018414750\">Peter de Boer</a>"
+        ],
+        "photo_reference": "AeeoHcI_Oo8ETu4IghnVWjfEsgh7qdSIt3ThkN8hR9YsY3bI-EhsYrJh10RspHofSEV_7iqTNPv82uCiVMO-jskTHX0DcfK91tUmlL4Po-sx2sle2JhZJINEDUEtiZZoNtG_J0ab-77NOCesuX6eEj_c6C9yBZpj6AzABHYABUC0Sjfr4VU2OHh-BP1WTj4SqdqrvOyACa6jTFpXgwy8eDjRmXH2fipifAmz0C1RHPJJ9_-45COYZaDgsG8_3LUW6AP-OWYY1_kGQ__kYZ5KRu745nLWkhx6WUX8lj6L_HeHbSfogZp43eLLXkVh_3BosRfM6VCosV3dzwVyRUKaQ71kZGlV4w_KNI6z7tnRt8J5JP6BOfWtduTOdGj_x5HzjlG8xDCYvgS0K3aeBqYuG083SmoYW54zBoLJLAPErBlm7UCvu5yPcCFWP5gaLM9iAZVKIbZPs6UkbfY0ylVmo-V3paaWij2Zam7y0kWDy1RdBJaBU8txQX_2o0fPEoI0Aho8hY5HNzpKdsxl3Kuxrp-mzYG1Mal8Ux5yCFvt-kmnwSKEcbAXkq5h0RFid-J0ehhhMK5EqRZqgJLuZ4jaUv6eZTqUWXRRdfdvENpXLRew0jaQnS_y0eiG5ulyaiavCVQXhQM1MQ",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJYxAXYHPzK4gR24-cewgb5SE",
+    "plus_code": {
+      "compound_code": "FGQ4+JV Waterloo, ON, Canada",
+      "global_code": "86MXFGQ4+JV"
+    },
+    "rating": 2.8,
+    "reference": "ChIJYxAXYHPzK4gR24-cewgb5SE",
+    "scope": "GOOGLE",
+    "types": [
+      "convenience_store",
+      "gas_station",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 73,
+    "vicinity": "@ Bridge, 425 University Avenue East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.41579170000001,
+        "lng": -80.5132622
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4171668802915,
+          "lng": -80.51196586970849
+        },
+        "southwest": {
+          "lat": 43.4144689197085,
+          "lng": -80.51466383029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Canadian Tire Gas+",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 564,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108304361271346388072\">Canadian Tire Gas+ - Kitchener West</a>"
+        ],
+        "photo_reference": "AeeoHcKKfuBwjOWHZ2zr0OVhFo0ay_HZIwujf-qgVEz3GT0ef_6cYr5Go7ctiO6bicFetWMiECUHJ6x7sk9TiJCAQ-SY0Ney0jtD2Iau_kSu-Y8b81xbE_CIds8RcLM9HOiCYyamRO9LHd-0i7v0n3YkJn9WktczEkBdlya4HmAqurbl9rvvvC4J6v3otKL7t2xMxMiXkXeSeLZQOqmZzxPmBNaNgyF4Dhi9ZgEimnwUdUA_xvpz1igsQtHRx337CadRKNTmD-h2C54lkekCowMb0gN_l8863QIcue_1QuPMOSu4whJplQU8r75lojTGLcIFef0ti8_ts5M",
+        "width": 1036
+      }
+    ],
+    "place_id": "ChIJxyeyfb31K4gRcf1nHyDQA24",
+    "plus_code": {
+      "compound_code": "CF8P+8M Kitchener, ON, Canada",
+      "global_code": "86MXCF8P+8M"
+    },
+    "rating": 3.5,
+    "reference": "ChIJxyeyfb31K4gRcf1nHyDQA24",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "car_wash",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 83,
+    "vicinity": "1400 Ottawa Street South UNIT E, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4506112,
+        "lng": -80.44371749999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4520454802915,
+          "lng": -80.44242506970849
+        },
+        "southwest": {
+          "lat": 43.4493475197085,
+          "lng": -80.4451230302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Esso",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 12240,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114138184057500141438\">Jaydeepsinh Darbar</a>"
+        ],
+        "photo_reference": "AeeoHcJpJrBHm8577bVrreFAz_zyiEyxhc6VQTAS6yr-LbrJxUtkh80__sxsFewj3SDV3gmBrkogu5ifKTeVyZFKelSQ6IvBA80QvKahZpoBTk3W9nKgRH2d_ebawn6HlGE5UPe4y4I9Cb5-V16gI9_YRvhCn3ZntIgOnItaEZjM_h6glE2WQfH6MTIjBib-Bytjk9JvRGx6NfwQ9txFrtv9JHS_xUX_XMAXeov7b95oyUQ_pzgmA63Q4UYE-aMR765KSs4SR0LjubTruqxlCJqaWDm7mkyI_op2Rti2ujUnEybLEj8Kci4CNzEWioYqxXi45i3QbJxsKmFqXU0JK_VFJtnzvwgHGMVdG98Hy3chJRmyjt-DmPvKWwyFgjDkbJP_CrBYMIiQxKnGC6lOIIcudWofPQM-A81Nepiqu_r-zceXp1KITTmGm4X732Xn89beALI4WD_Brdr__Ireh9sd7D8zTzrbun6qMcfCDicHI1CZfzryNoZUVUPpJ2gwS3rRn-5mGM0H1K2NZg7Dbg7nemTcOtHZIYQ1JJ_FymUhmTOoWGQOSfuUd9j_hLauDgyaEf_TetqqTGO3Bx5_qugLNtAwmkMNL2kB8_VMLElKtjs6R0KjGJmhWFjRlaiUAvCWipprAPey8w6ijhryFdQxRShS8x4",
+        "width": 16320
+      }
+    ],
+    "place_id": "ChIJ-2iG1UeLK4gRVOk2yoEf7uY",
+    "plus_code": {
+      "compound_code": "FH24+6G Kitchener, ON, Canada",
+      "global_code": "86MXFH24+6G"
+    },
+    "rating": 3.8,
+    "reference": "ChIJ-2iG1UeLK4gRVOk2yoEf7uY",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 215,
+    "vicinity": "1025 Ottawa Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4957946,
+        "lng": -80.50154789999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.49717978029149,
+          "lng": -80.5001338697085
+        },
+        "southwest": {
+          "lat": 43.4944818197085,
+          "lng": -80.50283183029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+    "name": "Little Short Stop",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJd7-rzqDzK4gRYugGRrRqtHI",
+    "plus_code": {
+      "compound_code": "FFWX+89 Waterloo, ON, Canada",
+      "global_code": "86MXFFWX+89"
+    },
+    "rating": 4.2,
+    "reference": "ChIJd7-rzqDzK4gRYugGRrRqtHI",
+    "scope": "GOOGLE",
+    "types": [
+      "convenience_store",
+      "gas_station",
+      "atm",
+      "liquor_store",
+      "finance",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 42,
+    "vicinity": "373 Bridge Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.43319,
+        "lng": -80.444965
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4345561302915,
+          "lng": -80.44360671970848
+        },
+        "southwest": {
+          "lat": 43.4318581697085,
+          "lng": -80.4463046802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Petro-Canada & Car Wash",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113932187865128667984\">13 OTHI</a>"
+        ],
+        "photo_reference": "AeeoHcKhs8jOeWdEfJLc_UiXbVXWLPkK2PefqaY5EuAcjHqykxZkKy0e9EiXxqWTutgRYbRdDqzLeg0jDehY4vprqb1ZSphkcIdHjOZ2eiHCk-TCD0gATYniwPuzttRRMBifIegJBW8Nkm-L-KM2Phnh_SXR5-MbinDp6CwGEr_L1qeHM9bndhjs92s5NxpkwvU8ibirH_oOFc9BsAL73hZb9btCUH0bWunEels1_enm50UmTu_STJK12KKn3AWfLaRGUvczpLS9dGAjwI26DFypeOjvv0z_LMMP4GSOFxe_Ub2T6YolUjn3pEuzdw6fumIHYR-2UMUYajq7rJx_nMas0A1x9SB8wijBcrwq0FyGYBSvkdyKpfN5XzLgpQIunhjEmdc_3fZZXtOkLA-wftbUEcmyKK5fCWrKuELH94HXbrWsC9TPV75seDIThi05q3zRNCPFZKF4hk_qbMe4SIKKi7CwGhPcGw3iONOOSBGZ2TrgthKFSJOmno6K6sJGgQa3jEfHqEDSQKebQMx1nt1tDAVJQp3TdDOjTP9KNFylWovU0p24yKa1X0DjdlRtYuJDsVc7-IkcmtI0qhaFziM9simz_J0TFdbECuYkOpe0flEaOwovH1KuvCoLeKNu71KDk4MTUDFO",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJY8S3tyiLK4gRGUl7jCTLIys",
+    "plus_code": {
+      "compound_code": "CHM4+72 Kitchener, ON, Canada",
+      "global_code": "86MXCHM4+72"
+    },
+    "rating": 3.5,
+    "reference": "ChIJY8S3tyiLK4gRGUl7jCTLIys",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "convenience_store",
+      "car_wash",
+      "liquor_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 224,
+    "vicinity": "1241 Weber Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4848467,
+        "lng": -80.5274058
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4862106302915,
+          "lng": -80.52605576970848
+        },
+        "southwest": {
+          "lat": 43.4835126697085,
+          "lng": -80.5287537302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Esso",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1868,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112662965252321986638\">BR Rasalin</a>"
+        ],
+        "photo_reference": "AeeoHcKphAhwGtL9FQP4wl9U02MCxCMXOo_bhhpWYdcKmHcvlffM8jkSSDXOTwuGNEkkNL2Gn6FW-qXF6XyoVD25G8UrXcgVIgG4szpzRGmxo7Ic-nlxra50nNxmxV0xWjxqLTXEwpN_VO4BwpQgQkNx6-hpkl8l5DrfqX6MgNkJdnXs1dFWr9YlhHen1u4kJAWKeMWeu1NrQs4wWHJqKaTQKj6I-H4UYuPSx9vle9-MIn7fGaWSupnlPITz53wVAN5zfgc5Et0EQYDWN_D-v1sVdPM8Ap0xtjSRjvr09nFccZVreURqJhApzBhOJEW1nI-NkU75xHofbT91JER9N6Jsm_AyXAUOjoWtbPsYu0YI3bZIbpG0o0UG1DI55GzvCWxzYdgOKqnIvH2MxjU5v8dO_pfsU28iHwRCIAm6WjvfwXl9L_KJpstdbrSHocp0ecrnJ1MkDZH1HBWTdw4IzX-5QAOHJ1Xeh7tJ09hy0Avmgah1OO9mk1lA8x-iN_frtfD5dQ60qDK35ozdDp3UxA3Nh0TPHw_Ezjbwnbr1YM9pWPh2-d9vPUsUVobMjhkLmiLA94TMM79CA_Rv6Mownwo1JLJO84UM6AKgSvnhmrE5dBeFpd6Rg0P4ZeZBw2Euoj3oUJo8Gw",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJvxnZC-7zK4gRKzeVsOZ__mo",
+    "plus_code": {
+      "compound_code": "FFMF+W2 Waterloo, ON, Canada",
+      "global_code": "86MXFFMF+W2"
+    },
+    "rating": 4,
+    "reference": "ChIJvxnZC-7zK4gRKzeVsOZ__mo",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 291,
+    "vicinity": "415 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.467695,
+        "lng": -80.56726700000002
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4689952302915,
+          "lng": -80.5658550197085
+        },
+        "southwest": {
+          "lat": 43.4662972697085,
+          "lng": -80.5685529802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Petro-Canada & Car Wash",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112827822780863524246\">Jaswant Brar</a>"
+        ],
+        "photo_reference": "AeeoHcIS3vdtxefg00DWLvFyLsn391LuhW4avke15vBBtV4Im_keibjhMEThJiqN96_O0m3SHmLvVtLnEANr5dQqoAz6suAJGt2Cjz2pIg_AbvzKRyHJtXErSEd60AYgCITU057PsdbTv289s7jZlvvS6E5kAViKyz37sj0dZhH7DRr7o8KqaHboOtG0MTbOoDLXu8xV9V1DdT6se_YtLhF-BgMkvZNlAgk92OM0peKwxRzlB4BuwXsoiOB2R5r0hTD_bqeiH7EvxdWugAwyAKIDPXFC1pt4NSxYLrjn8d8edFu5q4O47RrpermLWqLehxU-IGf1RamSq1gZxLMYiHxd-RZLCFB5MqM_hwgeaiExmbpnpBwyr9vk4yOT-3l-C3YkWLO8MmK9v11_pwQKFqvI4vrQ-F-fwFXsvbiS1uFsHbl7Rpm2bSfx-xhG5RC60VAx6-N0R4w_Eb1Mz684v66fn0tyf8FhI3kLUtCtpg714keXcpPdtQ8XTV2NtmuOK-vAwtIizwgXOxGsPkcb35Egzpao7pKymRmTf-pwIT5EveJGKfHwRboev5TcvpatWipRtBoZBE4fYrdQB04BNq_-CGUZqms65lMjWn_pft2JBACu7h6suYt58LAF9SzwFbp2eJtH_mth",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJT6gt-sf2K4gRMZ_hXMhbyrA",
+    "plus_code": {
+      "compound_code": "FC9M+33 Waterloo, ON, Canada",
+      "global_code": "86MXFC9M+33"
+    },
+    "rating": 3.1,
+    "reference": "ChIJT6gt-sf2K4gRMZ_hXMhbyrA",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "convenience_store",
+      "car_wash",
+      "liquor_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 152,
+    "vicinity": "440 Columbia Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4578821,
+        "lng": -80.4851948
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4591501302915,
+          "lng": -80.48379771970849
+        },
+        "southwest": {
+          "lat": 43.45645216970851,
+          "lng": -80.4864956802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Darshan Gas Bar",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJNe1onpH0K4gR8V40Cxoxmdk",
+    "plus_code": {
+      "compound_code": "FG57+5W Kitchener, ON, Canada",
+      "global_code": "86MXFG57+5W"
+    },
+    "rating": 3.4,
+    "reference": "ChIJNe1onpH0K4gR8V40Cxoxmdk",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 63,
+    "vicinity": "280 Victoria Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.469921,
+        "lng": -80.515485
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4715426802915,
+          "lng": -80.51153355
+        },
+        "southwest": {
+          "lat": 43.4688447197085,
+          "lng": -80.51680215
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Petro-Canada",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108839165786012261617\">Soran Mirza I.</a>"
+        ],
+        "photo_reference": "AeeoHcJBg6ki7rYJ1DGhXgv2aZRZbiNKkT1VggvlDiovZPSqOtvzonABLnDuu6EBDW_u2IvHEibIXkOqUfzQfqcZFP7xAqhxT8qUUmbxxxGqRZhI2m0mZM2QJhcgmcs_-65bg49RzDQKrxah-RdSNHohiDxyzRX0PNqiDfBgtHJ-OLWs_nT1yO2bb5j6s3F6MgTJUXYttPvXsGtj-OYUgZ81YFEvqzJrNJWDWZ-WlYcYbQVHJXy-qE9hsBexdAky1ONaDODFhsRYmWPDve73v4iLBPdIbTwQLaz7HBROCmOZLpuyjxNZqrBfXHWvAlrPdeIr0GSUj88EZjCVwo9816CFo2EU5cjo6s9KJKQLG_jPp52FwTK7LLGEjUkLx3D4JmlsopE5x54LJzeCanzyObBchkEixFCuRWyZ5ZMhO0moDy-FbwBR6CAMKDHJ7RkzZbPFdNn_SmXzF7jlET_onzBFrsPMR_lTa0nEgGSfBK9MJNTBU-zTK9aG8wTf_8qLzW4smLKVWb34AU2dXztAwQK4BQyiWGIQZA1VGNVfdse-HT7oGD-0HvgxExEo31WYxCpL8yD1C8v-KwYIl7XsBFbQZFKHALH86vVyCQQReOYNnLf1A-8KSu7CsGs9EOJfg9OnVj58glK2",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJy1bPGnf0K4gReb0qubEdswQ",
+    "plus_code": {
+      "compound_code": "FF9M+XR Waterloo, ON, Canada",
+      "global_code": "86MXFF9M+XR"
+    },
+    "rating": 3.1,
+    "reference": "ChIJy1bPGnf0K4gReb0qubEdswQ",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "convenience_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 54,
+    "vicinity": "106 Bridgeport Road East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4221878,
+        "lng": -80.48779429999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4235642302915,
+          "lng": -80.48651566970848
+        },
+        "southwest": {
+          "lat": 43.4208662697085,
+          "lng": -80.4892136302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Petro-Canada & Car Wash",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101528657312900022770\">Alex Parmar</a>"
+        ],
+        "photo_reference": "AeeoHcKkKgZV8Yd2n3_QVmIgkFqdW6r_hYCCdEUINO57aNdCWzj36JcS_xUDnQo0DteA1pg0dtqyqoNwFdnBh7_FctGmRxbeevmYlIhXtHDAYQfT-fnJscsacV4SJyib8PdRezyeWPmwRZ3c1Hug7WLblLY2MY7pk4ieIl-_dwYmcgm3a6uzWoOtsQKCPY6irAac7i_5jSaub5s6USG2Z7QewUcSANLgE-IKs8Ej6yyFumH87R-lAlg8F3Ssq32RW1SiRh12DFySNRbc-LGLu9LQMWDfqR44ZsoGqTGW3F__otAe0oSkEnqHtp_3joVDqcoaKx6Bxf0aPzkjv8kfBQexXhBZYmf6K8S-n93Z-_kDDU4q0c0D9kihw10YnRHK5YG9VdNQ1XqH41EBXD8PtuE31EldkwgTpzXRICM13GVQqjizk_FEKv-99W8bxzvvfrEG976K661yYrD_QIOaTG3zAQrLl3_RFeo25jyYaW1he3efdn8aS7F73j7zBZmbko1Ue_bOTx7eT1Pr6Tplnqf5zX11eft7rwERacIk8_X7lliqYu-0g0mANdgtwbINYdOrGwd-OWeQBZqeqyIGXFtMXoflHFZx1LZsAPaTrYoBehbWS6jWjxWANyMrEzAy23UcPsAbxU7y",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJtyFmFxD1K4gRGh28qh9N-gw",
+    "plus_code": {
+      "compound_code": "CGC6+VV Kitchener, ON, Canada",
+      "global_code": "86MXCGC6+VV"
+    },
+    "rating": 3.3,
+    "reference": "ChIJtyFmFxD1K4gRGh28qh9N-gw",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "convenience_store",
+      "car_wash",
+      "liquor_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 139,
+    "vicinity": "795 Ottawa Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47764699999999,
+        "lng": -80.519986
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47901413029149,
+          "lng": -80.51859441970849
+        },
+        "southwest": {
+          "lat": 43.47631616970849,
+          "lng": -80.5212923802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Petro-Canada",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2304,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104188599540043908898\">Abhinav</a>"
+        ],
+        "photo_reference": "AeeoHcLxIbeBiCeOWvjUeg7RwYuEyqLYNsQCe2Si1yWc8uZuvd322jmGfmKydspEKMA5aqFU6Rw-0CFjZsGUSRs7qeJhxVqgE2-WKqGq1DljCXZPDATwqk12GL2bNbAq4nQjwTU4CxeyohsTDnftQA8x90xIn4k6eBMUkQwxi2RobYwltRgCrwtWbjRBDtWgEAIcVvddriaT368eY_2YPvruJF2OVMCFkTKymoE_ilhOXFM8HjPmTd5gzbgjr5fzPCsimfgG05Ij0j0ohr1ukez31jvxcqNtdMfRbCJQMldQIhNznDqVu1OkHvV82Jk_oTB0bBptMYrbcwcFRho4aSZxDJ_CNiAQwXPD7WwjpozVecUqmdEmFGR1q4gbQcWV_N86DnfdPNGwBnCXI73G6We8y0U5KAmnD2lp5sLUiOks4F819qIaCuPzE-3-a8e_DkAp7M1-obsC0mDIpPe41RUbMkeLE5drvGOpURHse6pQryl8cO_Y9uws5rncTjWr4q7kBK4XrGdbEcW7M9JHG2HYdAnlgGwAW-7F7Wba_qx9vv7kNX60Hw5wKrYxo2ixZuKmr3LCAW2oVeG_Btet1gstLVc72jITKtI_QKU6PkeH1ePbq27CZBoJiazaGPp5wg4hN_Q3LsoZ",
+        "width": 4096
+      }
+    ],
+    "place_id": "ChIJNZOWbYvzK4gR56oz-lAx8sY",
+    "plus_code": {
+      "compound_code": "FFHJ+32 Waterloo, ON, Canada",
+      "global_code": "86MXFFHJ+32"
+    },
+    "rating": 3.4,
+    "reference": "ChIJNZOWbYvzK4gR56oz-lAx8sY",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "convenience_store",
+      "liquor_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 97,
+    "vicinity": "245 Weber Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4773658,
+        "lng": -80.5396552
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47865728029149,
+          "lng": -80.53810821970849
+        },
+        "southwest": {
+          "lat": 43.4759593197085,
+          "lng": -80.54080618029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Shell",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1193,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108002155041314548649\">Shell</a>"
+        ],
+        "photo_reference": "AeeoHcJtq9_yVblR0pJ1pg2wn7G4uScKTk02r0bayYHd4x_gAXAXTaoBIezb26S0lBdwM3txq0JXO6XLOrDHafaMGdQ-MydHlBXZLAfAe1Y0Jcr_mQTj-9gef3UL1xZcfpFIOFVpRmCDpFDkZwiQv67AiBzS-H97qfb9ABYT_QVoyV9PUrWVUKyKr-wMa3eR5V5uJqA9tA_0Pa6GZUe684Cg8Zwr601qhc3cldxnlNYtlqRdsu2P_6IhPQmiOlJwui6AvqkJuq_TyfJ2KBtQds0j6Qj2KaukizjxdQZUH6aVs1oM2pN8v_JEFwdj0zJyb8KRysxUDAGUNPE",
+        "width": 2119
+      }
+    ],
+    "place_id": "ChIJh_hzAf3zK4gR5HBxRSQNtnE",
+    "plus_code": {
+      "compound_code": "FFG6+W4 Waterloo, ON, Canada",
+      "global_code": "86MXFFG6+W4"
+    },
+    "price_level": 2,
+    "rating": 3,
+    "reference": "ChIJh_hzAf3zK4gR5HBxRSQNtnE",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "meal_delivery",
+      "convenience_store",
+      "car_wash",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 73,
+    "vicinity": "360 Phillip Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4761298,
+        "lng": -80.4841208
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47745963029151,
+          "lng": -80.48281136970849
+        },
+        "southwest": {
+          "lat": 43.47476166970851,
+          "lng": -80.4855093302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Shell",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1193,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111297935356172067843\">Shell</a>"
+        ],
+        "photo_reference": "AeeoHcKRKPSYPYwtJV_gnEUwF5LCjV0VU0yxTxuywTQtagd6fOSMqF0oVTHKaA81Ee0aAJeSa0kAndtQhYqQvFqu4IgAZE7Rv1GQk9Y57mgOl_2Bu46VA3PaPYVItKqAJoJ8OaKRxVaZsR4lLDK_ES6XqX18p0mGY4bIqoZIMubJw8aoFMvpQfjK6X2V2wCzj1t0MJlht1OJ-QOGOvZCUFyxzqut4JKe3Gn6aQP06otRK5StEOz6Hx91_jTH11SRznqjSB2HIoPaj7cS9Ax6uWfyRlGIuKGrv-6NbqGw0JFSghpMJ6YxKNQNCm783eoqNXKsiLoFdEZjDmM",
+        "width": 2119
+      }
+    ],
+    "place_id": "ChIJnWnydWTzK4gRlLGiU2ZLJ94",
+    "plus_code": {
+      "compound_code": "FGG8+F9 Kitchener, ON, Canada",
+      "global_code": "86MXFGG8+F9"
+    },
+    "price_level": 2,
+    "rating": 3.4,
+    "reference": "ChIJnWnydWTzK4gRlLGiU2ZLJ94",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "meal_delivery",
+      "convenience_store",
+      "liquor_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 73,
+    "vicinity": "504 Lancaster Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.462756,
+        "lng": -80.506502
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46416608029151,
+          "lng": -80.50521021970849
+        },
+        "southwest": {
+          "lat": 43.46146811970851,
+          "lng": -80.5079081802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Petro-Pass Truck Stop",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107148459703902013644\">yuvraj dutta</a>"
+        ],
+        "photo_reference": "AeeoHcK6EQdyp8dxLVnJqhIR2qz6HyOwbk_ydOIDw3ZWxO_jLJ30ZMKYyVBI8qcrE9XBz0QDSmRlSlaAAF4tFblQNnAuhBK7PJb1VUyemhGIb-X3gYx52w-q8ljg5NWRa8VaKYDEr3gavC9MBON-Lw7TUTWt-Z0Phh0SWuHGAZtP6maI4DtJa1SAredbVOD_qmzhCBCyo8IRu-NH8rnbjslaH_uc47c-GH_4YrDAdtrVHSDgBx4U_cPZVTHF13Shw6oiSPU1ynL58fikIMVEzxwa07STLMJ8jNj4Hz1Aud9cNRJ-QanTQxw5gYixOgHTnbOkXkcpbuBhoZr09f8Zqi5lg46QeYgsSCaYHGvDEEWJtGrJw7f45y3PTm2MUvnGxkoJDPMIAtpFIecD4u697_F04CaLUrUoKNkc2_qUP6Quftgg4Rb50GThIZzXjem3P9ZFtHi2k4mXEo_ZXjoEsR31GRXFPb2l6xCxRH_FafIhnoZdj_TmVmhcIklclTEUCcqy7-sp_LZbKghqedn4ohZY0xEYl4CBUYJdzMcN5Xx7nj_jcZbAYaj0mNxlsxl4d0vx_LoJl1Xm5BfNoFGfJzt5xKmFIn8viEDAXDMdHZrozjyjPJPEnYjNaeEFNW33ir6eND6LUQ",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJ3SSrxWT0K4gReHPScGkDwBI",
+    "plus_code": {
+      "compound_code": "FF7V+49 Waterloo, ON, Canada",
+      "global_code": "86MXFF7V+49"
+    },
+    "rating": 3.6,
+    "reference": "ChIJ3SSrxWT0K4gReHPScGkDwBI",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 14,
+    "vicinity": "155 Roger Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.476878,
+        "lng": -80.5393
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4781941302915,
+          "lng": -80.53802711970849
+        },
+        "southwest": {
+          "lat": 43.4754961697085,
+          "lng": -80.5407250802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Petro-Canada",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104519170046879835041\">David Hu</a>"
+        ],
+        "photo_reference": "AeeoHcKa4IYGmGzrMBVF_IZaGJmD_3bFDrqGdU6LlCUsPNIq9Wkh6fEEN9lzNNYTO6COilUHrKrwj5_YbmFD5MHeFtqk884wpNKtmgZ3DQSY7UVEHIDngdRPSv2qbJONikY1ca3JaAid5HjAh-JrwZaaINTz1CASTS8ZXQmzeF_0uGcvbWDB4f-As1PXj0ivA2uEFlNU1RVf6YJR4kpbKBlT4J_SnC-sp3OsEgj1fLllq2kkDabs9PY5gHV-l7ygAM6g83zSEeYB3t6oDHxMDCujGsBZjGpLowxygr2PJpnSO_pSYZ_hZG76dPYXzTqhGBOvqCqfe5_AbcDeXRuCuNwIPBiWhmc_jZvA-M9AUZPd-U2e577gh1ifT8VwHGyBXX_NMLC0UNugvoKK6V7ZWc3EssQ9qK_j4_oaljsTRXPt0gHJTYs5lhZn15QLQLak4ALvFKqcBhCo6Xvh8s1YVuL8qWIw4wER6OOvYzeBwk-p4JfGwYPOzQHgBrxvLkVqy3KOLWNukw-iNl8_VILU-LQXlIIk5tNWMoxqye7nhhXeincUOCzYW0V3Mi2YbQl_FBUTxPJmgHvhAuq8Ge69ND_XDHfbYqqLRqV8l01gUJL2m_L5wGsH2rk1T81elR5YWpOT",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJa4WfFv_zK4gRGrMOpGBkLtc",
+    "plus_code": {
+      "compound_code": "FFG6+Q7 Waterloo, ON, Canada",
+      "global_code": "86MXFFG6+Q7"
+    },
+    "rating": 3.4,
+    "reference": "ChIJa4WfFv_zK4gRGrMOpGBkLtc",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "convenience_store",
+      "liquor_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 90,
+    "vicinity": "151 Columbia Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.439692,
+        "lng": -80.5217
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4411220802915,
+          "lng": -80.5203294197085
+        },
+        "southwest": {
+          "lat": 43.4384241197085,
+          "lng": -80.52302738029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Pioneer - Gas Station",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105234615227211677457\">Pioneer - Gas Station</a>"
+        ],
+        "photo_reference": "AeeoHcJi3qEK3kALwOkS5NlfmQFWxhuyCC-aHBbKled1nwhZy6cWf_Qhm4upqWRI9SdrM69vQsQaaCAyqVFMfJ3B7kCbjWxkZwbAUdYqDBTd018ewRIMlpjF-h8zsbom7etTgUr1tl0XTGHC2zU-Gy4uvAkfUaxoICskHafoBzySMe6N4TfZrH1FgvS5mLBIbMTaBu1rYYmgzY5TjmympZxdllZQD44MrStCUyIznbseR6SVdTpNgin9sSJWMLHPq928gzZlT8MmRKJnfYj509HQxtMyY9Sczi251bgGaWqrvU3yjJ-Ua09gF8_U17OUJ8q8llA9YKZv3Eo",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJK7c8DEr0K4gRNNbVjM9biig",
+    "plus_code": {
+      "compound_code": "CFQH+V8 Kitchener, ON, Canada",
+      "global_code": "86MXCFQH+V8"
+    },
+    "rating": 3.3,
+    "reference": "ChIJK7c8DEr0K4gRNNbVjM9biig",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 151,
+    "vicinity": "720 Victoria Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4589335,
+        "lng": -80.4821815
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46015568029149,
+          "lng": -80.48089876970847
+        },
+        "southwest": {
+          "lat": 43.4574577197085,
+          "lng": -80.48359673029148
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Shell",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1193,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104840111805156680887\">Shell</a>"
+        ],
+        "photo_reference": "AeeoHcITuLJmOzJNkrxTokK0kyP8LhmiEAa9Ovf564wEPI7e-GzcNJFFGmpedPNHxC92D4Y2Zn4caYxEV5cU6-yXV53DyAADu5RJo87UbvskVGnA9dUCx-zwd3qeHf1ai7rJRkbDWp6Gp0KfpegnhpHPyO6-hf-2PNsm9HKjAtrmgntOIPCSBsTocOWZYYLolqD-RWLtP2BqIkEtIvyx6gNuqLNDvNP99w7eM2GZipaiY5hKWj_APcBg-38TlKIx9Em5yENLeNN7a-T-JBGW9JOdpwuADsW6neqkEzN8T2CAr7MWzjNhfzIbeiT7eXkQusIeTP6Xr3pxk0M",
+        "width": 2119
+      }
+    ],
+    "place_id": "ChIJF_a5KZf0K4gRuIjBhFqbScE",
+    "plus_code": {
+      "compound_code": "FG59+H4 Kitchener, ON, Canada",
+      "global_code": "86MXFG59+H4"
+    },
+    "price_level": 2,
+    "rating": 3.5,
+    "reference": "ChIJF_a5KZf0K4gRuIjBhFqbScE",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "convenience_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 62,
+    "vicinity": "366 Victoria Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4604446,
+        "lng": -80.47585180000002
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4618954302915,
+          "lng": -80.47456971970851
+        },
+        "southwest": {
+          "lat": 43.4591974697085,
+          "lng": -80.47726768029153
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Esso",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2773,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101855077137007315863\">Travis Merkley</a>"
+        ],
+        "photo_reference": "AeeoHcJ_22pUgOTYK51e8h1uDsF8ojz_uxdnizrh0EKDz5BmeYuacuoTXYv0eDyG9jKEPpS6stclYA2mmHH9kKufR5MHrRiy5Ogc3eFg0mK7JPaa0z5nyrkIkiH5k7vHiElDhj5TRIOCK8diheds2wPhKeBb32JisDcocgzyYC_k_T4IyJbIUV6CWaXhgBqkGWiU4OVT6Sze4D8RzDBx5asH1Ws7SnO7S7usnKPoL0rBmFa4hnmQOnYSk_iUwe2JnK1ld7tjEoSDiJz7WUM3BqpSEK1kVFok3CARItptmNw-lwSORbRJbRPYifQEB3met4Lf4qplt1k7-qdxUGCYymA0r4bFp98C_cjM6NJVJbHH9MEAcSpY25_GysD34LSsE0Y6kZjqn383PtaH-V0fBqV3XYnDfw-wws7wHK8rPUdY22pA7rGGNsnzl_EepoiPUs4qNDsWs8aj15P5cbE6Td8B6YkParcauGsOXjBy4uoBAJ9xox8bGpJB2xASJFkmeslfYZxpPYt-Rl-uvgKZD8k8pmI4Y73WWkzmbsznOpYjY8CQbtxw5Eie4a9YZIYAxSDSOsnTDBIzAzlLVjCu7WnoIlfcsN_ypw3GoWLUUKv5N4jAcKhH12lKBvNsKhMIrqdtTspUow",
+        "width": 2670
+      }
+    ],
+    "place_id": "ChIJA1m8y6L0K4gRey-S5EjZsyo",
+    "plus_code": {
+      "compound_code": "FG6F+5M Kitchener, ON, Canada",
+      "global_code": "86MXFG6F+5M"
+    },
+    "rating": 3.7,
+    "reference": "ChIJA1m8y6L0K4gRey-S5EjZsyo",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 213,
+    "vicinity": "593 Victoria Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.43156099999999,
+        "lng": -80.524812
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4329816302915,
+          "lng": -80.52369086970849
+        },
+        "southwest": {
+          "lat": 43.4302836697085,
+          "lng": -80.52638883029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Esso",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105436530406015347726\">vipin kv</a>"
+        ],
+        "photo_reference": "AeeoHcJj1p2V7NjX1O-d5VQy-JXhrqGVAHRgRk8BK9I_jAXxmquvOlP_qOPhdiDyB1koYvdbXj9wXKeruQryZelSc7fm2IEJmUMIwFqNaKwZG38YAkZBnkvQkDKcUEYN4neUPSEK-SgC-QrB0BpNFlutoWiaSYzMr60PLWLlV1iZVDwvfdDHDryrr8AxG05ZCwXmOpgTpcXVK7dXrIuaa1gqFxO4NZGMjHkoKfOCMCHmgjr2NDofzNliMF-mezFrrIhAShn-kxzRgCknO0maYVbjo3afgXMxPJuNhi741dsFPWbbUl5BFEVozb4cg3gBmbGNnFSylkc1xJ1xCBYzSvLAXvfneagAduTW4utKvbhP1R4F8Gr0uzuRX0lfEpMzB6boxFonVuGvqgXFJoGOL3C_KnSSZHNe2HCdtvVxnkCyOXUIoFJ_2DlwX_2asmfnxX-Afo5w96AqK_qHoNi8Km1yXV8apD-M-561j2kU46PYEbL-jz3YK4TzviZxOD5FHSQH_Pdq3pt9Y24soAXQfNJGkRc6NGj78B9SJJi14pENs7y3OrNMqwWPGdnwVBTubei8tUlTC9DCP5ejxKNZSU7oLyzEG1uhmcEEn7g-jtkgW18gJI6SD-8sJEE-A57niPUWEIWTqw",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJ5yapzcv1K4gRpJkTx1n-iPY",
+    "plus_code": {
+      "compound_code": "CFJG+J3 Kitchener, ON, Canada",
+      "global_code": "86MXCFJG+J3"
+    },
+    "rating": 4,
+    "reference": "ChIJ5yapzcv1K4gRpJkTx1n-iPY",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 248,
+    "vicinity": "775 Highland Road West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4519746,
+        "lng": -80.5174715
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45322108029149,
+          "lng": -80.51605251970851
+        },
+        "southwest": {
+          "lat": 43.4505231197085,
+          "lng": -80.51875048029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "ESSO / Belmont Energy Station",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2988,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109895224809262748318\">ESSO / Belmont Energy Station</a>"
+        ],
+        "photo_reference": "AeeoHcJCgo1IMWgR4alG0UqbOXl-kkI9SGNeGiHwXX7sksWCSFcIAJviwN7k0XVvGa6QwI1sKK2trkPWR8ADxh6AvQrFZArVxFcOoTwHvRSDM8_ARS8TXVJfwZrbAYYk2AkYMcFlpnK8QDIUsOWFIGXuoM9vG6ZmmcbikNqywPOQ4VBxEIfK8DfuhZT2_1NraQinqxwr4z5WEH6U9kzn5HB0GCwed5h55PGslq-8nt0fNcKKxPIWT8x-9BSVKqhLCjG59vS4iI3G6VpmlWq1wncBJmd_xsv9v_OleCy-xM3PnhMeqsb1zX2o56a30jLDK02TB3H_J0JHjwg",
+        "width": 5312
+      }
+    ],
+    "place_id": "ChIJa7YYdEH0K4gRvei_XBvuJuE",
+    "plus_code": {
+      "compound_code": "FF2M+Q2 Kitchener, ON, Canada",
+      "global_code": "86MXFF2M+Q2"
+    },
+    "rating": 2.6,
+    "reference": "ChIJa7YYdEH0K4gRvei_XBvuJuE",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 159,
+    "vicinity": "200 Glasgow Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4629888,
+        "lng": -80.5390146
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4642949802915,
+          "lng": -80.5377881697085
+        },
+        "southwest": {
+          "lat": 43.4615970197085,
+          "lng": -80.54048613029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Shell",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1193,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113363786293614482181\">Shell</a>"
+        ],
+        "photo_reference": "AeeoHcJiW4FQ_aQiRYMmyWlXzxkJ0_jnvjPOWCwLtL9FWgGeMEJNPhDvDPl9HPW5M-cM538lXmsiC1hv8oX9ZTVJ2PXbruHxqNuD8lGa00UmPAMdMdOz7JdLkYE9zNLBvWevPzc5sw0A-K6rzOYBgTbPmEdJWDMAsa_dJOVMOTgyNub8D_F6vHbKmridlGe7MSV2yfItrSImM9F1JLU9paLfKxTKldUFHheeqwX8Wwuj2Y6tJplqK6NQ8ci5wdSlgC0uovPoYDI2s3f5UHbw3A2kW1edyOASaXvqsQ2F8ZzSNjO7oLMzzI_5fCYL-9WjSH8Ei5ArMLl-V3U",
+        "width": 2119
+      }
+    ],
+    "place_id": "ChIJA8j_-hz0K4gR3fTeqKmeJnI",
+    "plus_code": {
+      "compound_code": "FF76+59 Waterloo, ON, Canada",
+      "global_code": "86MXFF76+59"
+    },
+    "price_level": 2,
+    "rating": 3.3,
+    "reference": "ChIJA8j_-hz0K4gR3fTeqKmeJnI",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "meal_delivery",
+      "convenience_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 82,
+    "vicinity": "70 Westmount Road North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4630419,
+        "lng": -80.4937018
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4643196802915,
+          "lng": -80.4924842197085
+        },
+        "southwest": {
+          "lat": 43.4616217197085,
+          "lng": -80.49518218029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Esso gas station",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106719219537232420655\">Chris Goodwin</a>"
+        ],
+        "photo_reference": "AeeoHcICZmuSbsJhaF5WlGQ8J0fVNmygmuH9o_kH_03ziM0pdSWtCMSmG4ZmmiSJ9vOHYS-goFiiYtJcEnc7WuFuFCoX37AFqsj_E_ydJW-owHfIuClxxenGJ5ewBhu9eDEce6qsQhlEuzg0ADlZ5K2VhYX1r87HNjWjFDKTJMKdvJkR8jhFvhOvvOS-BuCYBO-Ww_XaZFGhSheF9Cz6f2WzHlSLByIlhpnjc45DrzPKkv8Zy-mgFeHuFEun2gnXtoSdXAWbrHvzHYjXdmg0AyoePgrbruiaI_U6TNe00ILqlPOEFudBkJZv0mzXy2eKzYGuno0sdLxe8oIMTvWS1vVK2v2nwpuY8WbhsHTrt4ec6FtAEwPPnHimT0PaLzPqlfKDRgl9zDxc-QZUyltnKZMU9JvLYv46BuoLT4VNG9JkPYX2s8PSux97_qGqomfiNnBJZusbAENDFRJR8mQWg6RH-GQQkUB-5G3scdpLdH7rG4YjlyUbNN9VbgAns4F6LeqD-DevPeHWu5ag5ziT4JOmCtc4Hawho0KnpDLHDkoA9ECJML6WZPa4tDP4lYQw1tITlbocznhqNLZ2EAnqupZUq6EdxzhDWBpz8lvqH5ct-HCbmm7rRCK31qOsqo4QScZ7gTp0rw",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJp2lmUL31K4gRCCTCjwaAJio",
+    "plus_code": {
+      "compound_code": "FG74+6G Kitchener, ON, Canada",
+      "global_code": "86MXFG74+6G"
+    },
+    "rating": 4.1,
+    "reference": "ChIJp2lmUL31K4gRCCTCjwaAJio",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "atm",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 61,
+    "vicinity": "244 Margaret Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4581309,
+        "lng": -80.4842726
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45941518029149,
+          "lng": -80.4828853697085
+        },
+        "southwest": {
+          "lat": 43.45671721970849,
+          "lng": -80.4855833302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Carimex",
+    "place_id": "ChIJvVqrEZH0K4gRZZq-ehy_9vs",
+    "plus_code": {
+      "compound_code": "FG58+77 Kitchener, ON, Canada",
+      "global_code": "86MXFG58+77"
+    },
+    "reference": "ChIJvVqrEZH0K4gRZZq-ehy_9vs",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4649441,
+        "lng": -80.4821029
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4661975302915,
+          "lng": -80.4807020697085
+        },
+        "southwest": {
+          "lat": 43.4634995697085,
+          "lng": -80.4834000302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Gazolina",
+    "place_id": "ChIJBXPFAAD1K4gRmpSPvnbriHU",
+    "plus_code": {
+      "compound_code": "FG79+X5 Kitchener, ON, Canada",
+      "global_code": "86MXFG79+X5"
+    },
+    "reference": "ChIJBXPFAAD1K4gRmpSPvnbriHU",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "5 Hill Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.439044,
+        "lng": -80.493861
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44047553029149,
+          "lng": -80.4924273697085
+        },
+        "southwest": {
+          "lat": 43.43777756970849,
+          "lng": -80.49512533029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Esso Highland",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1836,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107443541289641014410\">Josh Goodwin</a>"
+        ],
+        "photo_reference": "AeeoHcI2sXsM0fvFG1vjyLEh8fq-gmEwG5kt1PSZ8QyEaEJQhBz-EFrSTgPhK8ExrimEho3iVP9rjp6o0fSqQs33i3tc_b7aHjq94mBdPLBS8s8rp29X5QXD3hGlincczrU6_Q6ALTo_LB4rJ1ivNHVqtcMfkSw-lD4qAHBcYsWv_1FWkhJPAlTQ2whTGcnvRsDBvHIqYZ_O9JBWCIY12EJGHTNV79tW42rAkJ5zJtq9G8DzAY-_RR6Y0zLiqWqTiZyd9xWRh5W_wxFSfCJabwUbyLjeHdyveubavlvu1YyBH5pf5VTti6Bum9--7rybMPHn79WA-7-5g6sm_EUMcSji4814esPbFJrSEljE2rGiv1zZKwkTmi50j0wmPMUqZBud3QWfq8LHUjHlQoSiG8h1HWh83UYgbIVHHUnkSDxXMe3Um4yUqCrG0m5Erf2x6jxvtzretHYDWXE9Q74JZqmJIyVMumBiotZX9PxjXLa4USQ2x3SM1jKDL4HynlYIbd8VUgPBymAqvUBhv4Ag5mtH-x32njG7Vb7t0Nl9Vg4HWGgQ7JIOEUVn_4ztbqDW60vALPZgyGeABnC9DWRramspYJyClMF_QJaf6oH33VzL1a0KtAgvCo8Q1h5pxt90JgWS6PkTwA",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJ3ezv4fv0K4gRdwAEC7pgC1k",
+    "plus_code": {
+      "compound_code": "CGQ4+JF Kitchener, ON, Canada",
+      "global_code": "86MXCGQ4+JF"
+    },
+    "rating": 3.7,
+    "reference": "ChIJ3ezv4fv0K4gRdwAEC7pgC1k",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 236,
+    "vicinity": "125 Highland Road East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4188142,
+        "lng": -80.4543339
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4200551802915,
+          "lng": -80.4529622697085
+        },
+        "southwest": {
+          "lat": 43.41735721970851,
+          "lng": -80.4556602302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Esso",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102824176067937656860\">F. T.</a>"
+        ],
+        "photo_reference": "AeeoHcKweC4PFd765O_f7-0JyapGKcjtoWQoU3c_53KuL6lg0v8RUq2jgPAI-fJQTerJlXHi8iDw4ISGNfjChpchtZCUOmGzOmQm15YVMtE0RpnT3abLZR1ks2NQr8WehMcslzFwDHZYzT7CqMDN_m_H0enXfXnusqMspSdSpv3QfjvIF_X6qdT9FRndXWc7Nzlzsl2v7Dj8A0dvEA4dMkoYxZGQUVCx_8u5PELGPbW2aNuTvbk7mf49dgql4B_Zn-VwkjvB_8kHWGM8XGpFYQcGLY1QZEZmm59sdaeQQ09p6PKigdMll2uJPQbmbzDAKKmfddVJ1U6L6d_ySZaMuoCmCHeYd_rOS7p_laxNs56qxjS9ulGsz8j0AOq3movmoIPd2Lw4oHBLckXpsvfkgyQ5QHw7yNYvKSMN8CrowwjaH-J7uCPSbMP2txGQMJaXQQtL11gKp9ZctF2pCbQdpcKR82lbzfhvQsKNKpzkLIo66cOG8iccBQnz2uHADWqYV_NjpwCxgtE3TvBMzO1t0wloJWSh2pBwpG43fkxYprVYvmOQC6Id2_XtvmC-eeauOlKge14FNGnPmhdHBkb_F05PX64QNUXMM3bWnYXMchyFMhJKBcm81IvfdeglqtJA_RcKITik3g",
+        "width": 4160
+      }
+    ],
+    "place_id": "ChIJC8ZAMM2KK4gRNoEA4U2uNcc",
+    "plus_code": {
+      "compound_code": "CG9W+G7 Kitchener, ON, Canada",
+      "global_code": "86MXCG9W+G7"
+    },
+    "rating": 3.7,
+    "reference": "ChIJC8ZAMM2KK4gRNoEA4U2uNcc",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 252,
+    "vicinity": "1321 Courtland Avenue East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4322536,
+        "lng": -80.5253123
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.43361668029149,
+          "lng": -80.5239556697085
+        },
+        "southwest": {
+          "lat": 43.43091871970849,
+          "lng": -80.52665363029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Corner Store",
+    "place_id": "ChIJu7Xrxsv1K4gRkNbSx2n3jyQ",
+    "plus_code": {
+      "compound_code": "CFJF+WV Kitchener, ON, Canada",
+      "global_code": "86MXCFJF+WV"
+    },
+    "reference": "ChIJu7Xrxsv1K4gRkNbSx2n3jyQ",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4605395,
+        "lng": -80.4747362
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4620257802915,
+          "lng": -80.47362186970851
+        },
+        "southwest": {
+          "lat": 43.4593278197085,
+          "lng": -80.47631983029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Petro-Canada",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116991669897350856715\">Honey Chopra</a>"
+        ],
+        "photo_reference": "AeeoHcJI6PAdMDH8ToCtz070CUwW1mot942K5H3ygsel3R3OkPyEZSgyxz2gcivq8P2esbPMxIIn_f1KPV-PFVjQdq60w2sw8QqVtjZrkcElmB0stPb6mOoSnFpdIIkiVcSL2E0dxvMf4EyJX_wZgRj4nCZQ2sX8CpwhKcvGb8mkvkHtCGeO3xGBe3dpOpVG70tTuFtijnA3MFsueoRPqIUfvjeZqPDVvfKJqLV8BXkeKmwm-NOyZynaFDsYG9baXef76DdLZGK1A2v7TfGVvrlrtSFJsODsLz5aWlYTEpF0HwiZAxZ9ECszTzVXucOCmljg1quqasDD7NsXlUwNl5rg6LoZUH94Qb9BdrU9cxEb32IafYpCzI5aWNpSkpqIpNCE5oPH7POZHZNCfkdanyVXTtsyFI3cgFoTxRiCKG8J2VFPX8w1c7V1ZI9ptqT2l0cWmqemoduW7cF9_Ohko6tHAP6el3ikXIR3SmmtREjbUXJPufu-eJWX5udL2EbjGhjOxMdMxfbrYHHb1H1VtxCb5hF70M9QbTbUh68XWpdkcBHu91LgxQ_diT5TCX7u5vGV6rsbd9nQPGWebSn3-h1ZWbDur7Hvkm-znyGwNIAtP_I3CNB8eYApWFLvHpLIbxRY",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJHRVPtFv1K4gRCR4bwTrPb7A",
+    "plus_code": {
+      "compound_code": "FG6G+64 Kitchener, ON, Canada",
+      "global_code": "86MXFG6G+64"
+    },
+    "rating": 4.1,
+    "reference": "ChIJHRVPtFv1K4gRCR4bwTrPb7A",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 46,
+    "vicinity": "607 Victoria Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5032781,
+        "lng": -80.5280069
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5046279302915,
+          "lng": -80.52666396970851
+        },
+        "southwest": {
+          "lat": 43.5019299697085,
+          "lng": -80.52936193029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Shell",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1193,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115133290366324167576\">Shell</a>"
+        ],
+        "photo_reference": "AeeoHcK8N_opE4S2PQJLaaIRTpkQMpznS8SNWg-LVSJ2aLEH3pVFyXS3xOJ5I-wsh7IwVXWW3H4FnQ1nrSmcXb1vgDREAJoZSkCba2fmEuEhP8lMvKBdsifZI8kPHqj0wawMFVqYvvVSHDT_OusEZIh6ozSIGLwYW3RP_EwRHzeufpXuskfVnB-TTO9bLFRv7waA5xY3HCEVCog5aPrmB-yjzYrbDbSb9cxlyg3gBBN11xe-PH-ET6B6_nQnIEV5f9jH6BKCT4Okny1Lrf6msHNIxszl8AhCcSANgfifS1Cxzqc3J1lg4qVNNfsYB4PJRaVCUzCAyPWYLgM",
+        "width": 2119
+      }
+    ],
+    "place_id": "ChIJPw8MXs_zK4gRKj47yHMBz4U",
+    "plus_code": {
+      "compound_code": "GF3C+8Q Waterloo, ON, Canada",
+      "global_code": "86MXGF3C+8Q"
+    },
+    "price_level": 2,
+    "rating": 3.1,
+    "reference": "ChIJPw8MXs_zK4gRKj47yHMBz4U",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "convenience_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 51,
+    "vicinity": "55 Northfield Drive East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5039032,
+        "lng": -80.53294509999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5050570802915,
+          "lng": -80.5313250697085
+        },
+        "southwest": {
+          "lat": 43.5023591197085,
+          "lng": -80.53402303029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Hogg Fuel Frobisher",
+    "place_id": "ChIJYZ63A9DzK4gRae8UUsItSBk",
+    "plus_code": {
+      "compound_code": "GF38+HR Waterloo, ON, Canada",
+      "global_code": "86MXGF38+HR"
+    },
+    "rating": 4,
+    "reference": "ChIJYZ63A9DzK4gRae8UUsItSBk",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 14,
+    "vicinity": "70 Frobisher Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4253296,
+        "lng": -80.5446316
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.42669868029151,
+          "lng": -80.5433195697085
+        },
+        "southwest": {
+          "lat": 43.42400071970851,
+          "lng": -80.54601753029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Esso",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102824176067937656860\">F. T.</a>"
+        ],
+        "photo_reference": "AeeoHcL_VTSoGk0zZLKbj1nHQ8EUJgUu8WA9GWCTdFuuoqE7qKyWX1Tv0Q9tUSpXLPau2o_Q5WGoYtSonKF589znsxA-42UtIoa6MG2u3UNjJk9vTeRoIQmSDnbeScchN4vkBU2vvJdbLJJpTH353h4oatiCVFdLtAiEvB_DHd8UFin8bKIkZ4xdVnGjF2IJNrfIl4ZKtnXGFr33MXDYGr9tUiqeB7sT4wClqka2x1DJmIhcgfI5hfDZttzKyGfxtF3NsWaeE2yIrDvjaOF0oxByqt9mARLqqNG6lDrkpOW19vcR0nm6hZLcwP7fR8FavjHtmT24JnTrK4H6uECmnBWKg9pVYoPKt01xYyOPB_tFuZFBKykaBAR0KuOvoGQnmxX-hzlEaOJJ-5KL3ahdcNlf8ED7BnXbprdmO3c6DI_FY-tVKROVQNyJ6Ex97Auw4QmYncF2yZQPLbpIgQSyBlOO7sgmt2m8k5IePF0rZ0yVWkRYlKNPrrS8zukCFEN76cZ1k9Ra-b7ra87b7ca_vAWN_HFUO2sWGLELh7sdVArSiCyicXAhXpNZrh7JRLFq6bYF4mzUcUuPQLEBqQ8aaWEVnW0PvyhwpjbQfZFvQrdEOZFAbHj7l253v1ICYFuUlON2",
+        "width": 4160
+      }
+    ],
+    "place_id": "ChIJbcDIznf2K4gRUJl-pCSTey4",
+    "plus_code": {
+      "compound_code": "CFG4+44 Kitchener, ON, Canada",
+      "global_code": "86MXCFG4+44"
+    },
+    "rating": 3.9,
+    "reference": "ChIJbcDIznf2K4gRUJl-pCSTey4",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 116,
+    "vicinity": "540 Westforest Trail, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4447892,
+        "lng": -80.5769584
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44637898029149,
+          "lng": -80.5759699197085
+        },
+        "southwest": {
+          "lat": 43.44368101970849,
+          "lng": -80.5786678802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Costco Gas Station",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105361935815121792273\">Tim Young</a>"
+        ],
+        "photo_reference": "AeeoHcJW_1N_J4UtX-k43fsWLsiJqwtyihNncFGtWtYjhKYotqE4s3eIq-a6dNxK8ahvL_wUy2RonAGChJATkXMXIcd0KsasreyWOqCNEsiWz1PTynWdg-LCuQqHPZ9FYKtVkoSZqHkOc3cwmyLYGoTGQb3FwTyEP3x1tQomm5RBPQqkBVzFHKfJOICxhjSwrDeTp-mmGeEc64yJ1m4Rnz6pZgxeHzyYXTJPymKusVTtEg-x2oxUXhyx86D5rkq69kPKnnLAT8Y7bEjNFOig_HvMfWKJgWWM6lBl1M40oc8nzl_TcO9Gcl0TVdkL4utjA-U_hSpteBC2asYDxGGLBto2mJzIPpDI6cOtSaWSiwyscOKn5AJKRVxTqxWXmJ6dXctgz18HBayRASJKNXwmqYK4hQ0KWH-YUcNRA4Q7Gp5DGsDeA437UaPYlVSbGXMxjPIyOcyAX7e5o8OnilTGPTDnH4O7ti4unS52Al-3YaMkG-MiKwPQ__4bO6EpolyIMpjPKgmveIWAz5l8Ec2bVKKLgzdU3MscmwjtPIK9D3Ve8Y6_1c1lWWD8lTSXyOaMu-WdVTH9fRlzgnuKhWgnSJHyefBDdInIwTIVTRE46-H90uj0Wt4_2FHf58rtWZeTFkSDqPa38JlP",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJU_KZlvn2K4gR1BdlqRfaBZo",
+    "plus_code": {
+      "compound_code": "CCVF+W6 Waterloo, ON, Canada",
+      "global_code": "86MXCCVF+W6"
+    },
+    "price_level": 2,
+    "rating": 4.6,
+    "reference": "ChIJU_KZlvn2K4gR1BdlqRfaBZo",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 968,
+    "vicinity": "930 Erb Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.467434,
+        "lng": -80.4555759
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46871193029151,
+          "lng": -80.4541424697085
+        },
+        "southwest": {
+          "lat": 43.46601396970851,
+          "lng": -80.4568404302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "KITCHENER MOBIL",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2783,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118141292848437638476\">Marta Borowska</a>"
+        ],
+        "photo_reference": "AeeoHcKKOpYYdfX4sfkUZNfunWoHgOZ8xgTdWxH3NqNZAZ-w7ZjeuTQVF3OkO6zUVR-YC8mWmE99B1O0SsybHncG2oUkv0fMDtB_iFbKCWrIqq2YdCbu5rFnGgbyShNVfUbLzd8umR3pdLh2P9aMjFWyvtePo480kfuTaEyxkDO3VDhhZSD-7QiyLS9dw64VV2E9-OjlNSaqqBQblVQ8C1xoSVC6pslJCa8-9cImSlpSQGeK_Hjvl4-E2DeT_yB6Hq71LEtlqY5MoW-ABs7Q6-izsbQwNz0-OuIjRvPWs7P5HKLzihLgjbY_sZWEA6RCe11sz_igE3PKxmX2iObwAawZf_bCruw9vUoNEqxpapfKQdYMgSuWE-y4YCPokEehURsCReFm5C-2ia17TmH9NvH2hS5HKm-A7M_lCylzLYRX5XwME5S4XZGF5XQSV_KMHPrMr_DhzInkcanOzeJKkae-52NLbQJyZKUhHS6cxLGOVwrVu5c3wiP8YwYSgYu8tikP7eziCfKqGyZmkkhrBUYq9zCxQifurNHdDNwKBGkg58jui8WnHBv3el4Dg_oebxCZjzRINj5okRlCBwCYQFROFuJwLosQTwyw__TSHdiikWPFySBc-N2iuH4szaxN7zTSrUpRQA",
+        "width": 3710
+      }
+    ],
+    "place_id": "ChIJj6K4g3_1K4gR3CziJqhBJeQ",
+    "plus_code": {
+      "compound_code": "FG8V+XQ Kitchener, ON, Canada",
+      "global_code": "86MXFG8V+XQ"
+    },
+    "rating": 4.4,
+    "reference": "ChIJj6K4g3_1K4gR3CziJqhBJeQ",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 156,
+    "vicinity": "1166 Victoria Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.42355320000001,
+        "lng": -80.5531506
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4248992302915,
+          "lng": -80.5517480197085
+        },
+        "southwest": {
+          "lat": 43.4222012697085,
+          "lng": -80.5544459802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Shell",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1193,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108749005172860224887\">Shell</a>"
+        ],
+        "photo_reference": "AeeoHcITLiwrtqU6mzgqyeuBjmjmY-jkFFH2z4IK-z3bFUtPe6Z9we-aam1VA3Yx4feHRO0yXLnWHKC6fH1cRa2PsGDY0P71W0XA58j48UftYMzB1Xp8Kht-HO6DKrYTIixiKGv0KqujHjjHlS01kmCkwROKYNkPmWw9zZbK4PmwqYhTwb9g9cgrTKV5oA54_RSiR1sHz3to34zmZTpvUH6bVXF3B4Zlok_sb4_gPT_E5GhSypRZbJ9OJfI9Y4LLphV2DEuM7OUE_BOeY2ogwpRokWdhfYuzYHK3UuY9n_Q4DitdCuB8OG1McsdiGhrKn79HJiVvD_csYoQ",
+        "width": 2119
+      }
+    ],
+    "place_id": "ChIJ17BT53P2K4gRmJj79gXY2e4",
+    "plus_code": {
+      "compound_code": "CCFW+CP Kitchener, ON, Canada",
+      "global_code": "86MXCCFW+CP"
+    },
+    "rating": 3.7,
+    "reference": "ChIJ17BT53P2K4gRmJj79gXY2e4",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "convenience_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 173,
+    "vicinity": "1500 Highland Road West, Kitchener"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 43.4682056,
+        "lng": -80.4504221
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4697274302915,
+          "lng": -80.44918006970849
+        },
+        "southwest": {
+          "lat": 43.4670294697085,
+          "lng": -80.45187803029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Shell",
+    "permanently_closed": true,
+    "photos": [
+      {
+        "height": 1193,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117913225523884798537\">Shell</a>"
+        ],
+        "photo_reference": "AeeoHcLBT9TLcpoo7PUp69YE50K_4tmQIjuPWcwnT0RI7rp50fcLqhVn_VUnniyzEbMAxxkPvfk8QgmbUl3ADYuD8DWk-JlewFwaxkH5cDpwhb1rGLoEGG1RjFiv3llb_SiMLxK18QzD01SJQGAnC1qIIBziXQ3Awh8BeINrqZ6Wxm0wovAk7shofhhsRLdlimdBsJiJ4ZNMFnWfPvshmnWeSE7mwNIZ9Pb1bD6dk5NLWWZElqXshai9Zv9UyUcX3VmqsmMSMfKh5gssDCQYx61oW8Q6mvvtbGwpU40loAUXv2u4AnrEQJw5K7i6TvFO1qkOG98BiDHjBPI",
+        "width": 2119
+      }
+    ],
+    "place_id": "ChIJJWusv6ONK4gRoAuE8UfkarY",
+    "plus_code": {
+      "compound_code": "FG9X+7R Kitchener, ON, Canada",
+      "global_code": "86MXFG9X+7R"
+    },
+    "price_level": 2,
+    "rating": 2.1,
+    "reference": "ChIJJWusv6ONK4gRoAuE8UfkarY",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "convenience_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 36,
+    "vicinity": "1253 Victoria Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4158103,
+        "lng": -80.4792974
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.41715053029149,
+          "lng": -80.47792151970849
+        },
+        "southwest": {
+          "lat": 43.41445256970849,
+          "lng": -80.48061948029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Esso",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104973008609779854668\">Arsha Girish</a>"
+        ],
+        "photo_reference": "AeeoHcLydjNQcYM6ddsVt8mIffrwIlKrD6IbbA6cXtRtH_-_o59ZUepaXbaxROO1h67pr07bG40FrnfaqvhTkd2_q_nV1cxHffOG7XfohGudGxk_dtk0AOk5TE5uqZTyB36m3VXBOTZaq5lJ0dm_ITBEMaRjc_m8GMCvZvSuJ6QyMniTajwPzwozhMVMH-TUG5KNTFUW2QNriOZvMxOx5XjJAc19QMDaKC3ueoVuirkKWHCk4VHRSikPtxoXpeEEovk1q9K5pupTdbooM73RxZuDlars6A65s6R9cxC-dh-jfQ6q8OZsLALbKjRo_dJUAJo_c_NpTexGxX0-OXQqsEiWTqRHs9kXRFCZD3bQXBZqOB4MhXOWqHhgDADIr1Wlw34ttwz0s3gnkGqdjHBEjSxnkZbmKYD4poIkrqdmQURT3dbLP2l1SVBNWyXCnAa6PvmC0-Mp3JtErEfZqiLbZfwvCGZEMmxBWq5YZ3h9Gkq67O1fhUmOQHQY8ZwXxFnYu60JRgcJDA7PJBofck73Zoi1DjEE4HEpj5r8tbcGHLIPaYIpDl-uhfes2IifNbaE2nKodIhCrJfSqTRuI7ryHIY8R9XRKl3LsZ3YBuhhagwXS3zMB-1pUwZczTuaBHgF9QVBkafL1w",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJBdpZrxX1K4gRTb-kxng-6GA",
+    "plus_code": {
+      "compound_code": "CG8C+87 Kitchener, ON, Canada",
+      "global_code": "86MXCG8C+87"
+    },
+    "rating": 4.1,
+    "reference": "ChIJBdpZrxX1K4gRTb-kxng-6GA",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 210,
+    "vicinity": "655 Strasburg, Block Line Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4181775,
+        "lng": -80.47298839999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4194861802915,
+          "lng": -80.47178781970848
+        },
+        "southwest": {
+          "lat": 43.4167882197085,
+          "lng": -80.47448578029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Kitchener MOBIL",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109036590942953771542\">Andrii</a>"
+        ],
+        "photo_reference": "AeeoHcIOnwJizmgpzKYhiqY774Q4MRdqbBB_59mfPjsVh9iNlSnjU6mzyu2mGLupadRwm8STbtAzFbWn6uY3Fikcym1S-13zh6J3nO7mpZfHOOaG_z0Ylf9tTwtd_mUX8WpnO8g1RaYbBVzqx8esF06oyJZ0nc7k0qpgVwNptl7ypvYGMB-wCY2f7fz4C0R6aSYC9mZqeU_sBXb3X1bLoqP_gvbE2500Eb9glnYFtchkOg5XPDlUbAy-PIB791WHee0fGwfI9-TtntJmFrjshxOHS6al1s1qKaMf5CVpqNtasG1GVxkA1wbStTfW3rnKhlAq7aTiII34h4DYEhGDuOlnojSGzkwFu3wQueQIZdEsd8fTt3Cn1qLxz-8w_m4ajTY7ujrT7vNgUHBWifDxMUN1h760Q19QwjoCWP3q1xY3I-uEMD33O-ZUdDA6QgIoXpBda_33N1MajWkynQORAumJr4cM9OOR_H8C7YP5ITFPcuXXJTJeOTRL-93xuIOctJpP07ai8TT9IBThBUg1nFWC5weiRgBDzfxKW_Zt6o_iKViLs2DjlrkIc6_hDgFGCmLVyDNFhzvahkF0bpGsfdRPBCXkSm2oVLMUkAK-CC9SGo5pwseZU7h-SV4tOdd_2JlZTRzVnQ",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJodzEp8_1K4gRp73gUtFQpOA",
+    "plus_code": {
+      "compound_code": "CG9G+7R Kitchener, ON, Canada",
+      "global_code": "86MXCG9G+7R"
+    },
+    "rating": 3.4,
+    "reference": "ChIJodzEp8_1K4gRp73gUtFQpOA",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 52,
+    "vicinity": "340 Kingswood Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.418203,
+        "lng": -80.4729294
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4195978802915,
+          "lng": -80.4715264197085
+        },
+        "southwest": {
+          "lat": 43.41689991970851,
+          "lng": -80.47422438029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Corner Store",
+    "place_id": "ChIJDZobFjz1K4gR6qiXi8fKsFQ",
+    "plus_code": {
+      "compound_code": "CG9G+7R Kitchener, ON, Canada",
+      "global_code": "86MXCG9G+7R"
+    },
+    "reference": "ChIJDZobFjz1K4gR6qiXi8fKsFQ",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Canada"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.402413,
+        "lng": -80.497418
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4037884802915,
+          "lng": -80.49593886970851
+        },
+        "southwest": {
+          "lat": 43.4010905197085,
+          "lng": -80.49863683029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Pioneer - Gas Station",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111009078913360904376\">Pioneer - Gas Station</a>"
+        ],
+        "photo_reference": "AeeoHcI08MLD23VzJC1tSQM7kzv4JPtaBHVsURqbiP9DjLzg6eHbSr7McFZaptD3Zss-dVT69uiM33hwvEp2OTm_YweWK9K-CcBecrIFDgCD9ANDSLnLbgaBYMrul5VPfU-w_5UWLBUXzfBt4cUaK8_aDCftSB0SFRd44E1MHdr01Eui3IpEgWBEkrN5cig8rlowOFqz8081yl7r7Wr7cM1rkcEy1lW6iMW4eDKa8tp_B3dXv7fK8W7wTh7sOAmEQ1KhvljaLb_DyqRdK5rv9n_uOVBOxW1ayqhr8taJ_gjdwhVd2iQSWFcyjNt2JfcfmQH0EpXyUTfTKAE",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJ1_3U2Df1K4gR2jik-tNlxC0",
+    "plus_code": {
+      "compound_code": "CG23+X2 Kitchener, ON, Canada",
+      "global_code": "86MXCG23+X2"
+    },
+    "rating": 4.1,
+    "reference": "ChIJ1_3U2Df1K4gR2jik-tNlxC0",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 178,
+    "vicinity": "1205 Fischer-Hallman Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4102207,
+        "lng": -80.4619223
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.41140273029149,
+          "lng": -80.46075936970848
+        },
+        "southwest": {
+          "lat": 43.40870476970849,
+          "lng": -80.46345733029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Esso",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2818,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112784692068089557519\">Khaled Shablout</a>"
+        ],
+        "photo_reference": "AeeoHcIdPe1Dy6M2OmU-95OrI8hlh2zJbXN9llmv3C4QrKtvy4m9-Cu8mFJtNdcc2g9tF-fq-XBjOvjaVDZlPEGLlwVj6cjsE6XzWBTItT4H40t59261ruq-iPnm1xvNCHp4GdQAGgBidVmKfaPIBANRdMHBZwcFi_P76Kft12Jn3xH0_z4HnD-MG0irYdIXoNlgf9CY68OPATJb77qrcDBK8aAMw2G4oYYXOWsYddJBToSgMXo8ialzbNSrGDnE5rRAZLvtfpqhgH8mA_Jg8LhY7Wy8ZgOXvuzWX9HBX5hqUxqsop3swIO_8dG6iN3ytAr-2CLfwqopzngnJevnKFE9_4HWvh-f-bWpuHBR0CqhvqHrkcx32cUZL1v2Ymm78rjYxo8fX6Z50QqgCF5gxV-QSU_ELjuQt7Fe3oMz-Rz-hRckX9TnATiq0e3bzsjb7pL1Xm3xCdyAGItVUgUwwaEdSUBAu7com1stmlyFqWe8Mb2xDNrh_FtDRZ2m4cc4jJHTTMY53bl5cortdDPpr9iAIwyHT4qiOGtS7CZKY5Z5JUNpEgB4dgisuqQTq0FXJRqbqrUjNXPDqT5Ft9zkO3ki2R7mIWHcr5AoAZ0SAJpbOQCW_grMMAgsJscUfIpTuOXDL7UMNg",
+        "width": 3275
+      }
+    ],
+    "place_id": "ChIJsx1_PKj1K4gRk9_mKAQmvnI",
+    "plus_code": {
+      "compound_code": "CG6Q+36 Kitchener, ON, Canada",
+      "global_code": "86MXCG6Q+36"
+    },
+    "rating": 4.1,
+    "reference": "ChIJsx1_PKj1K4gRk9_mKAQmvnI",
+    "scope": "GOOGLE",
+    "types": [
+      "gas_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 135,
+    "vicinity": "300 Bleams Road, Kitchener"
+  }
+]

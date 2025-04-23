@@ -1,0 +1,2743 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4496387,
+        "lng": -80.5016019
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45092778029151,
+          "lng": -80.50010381970849
+        },
+        "southwest": {
+          "lat": 43.44822981970851,
+          "lng": -80.50280178029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "KPMG",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1314,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104962571987928092492\">KPMG</a>"
+        ],
+        "photo_reference": "AeeoHcImhfeRZfNO2EdGC2XOs6PjmwCecwRRrq0e8yfVCOE26BxZGSuHze5kV1ps-9YlzvLw4vZpuNPB8WUM9K2z2UDW2z7gcLseHfukYDcVhcUk6JHRtlIdoIoUpWWXC6SF9oA5q1Ok9nXJ10vv4nPCPNCyi6eG-CydzLEKbi_i6PoVAEISJUf2sov_Py43OIuhs8odNzwd2JWnVCQNK49BzDgBzZoXoCOZoC8zjG0fZLpgtqJb10IfwN_NKi6tJjnMXyjgWRwqzE7zieOIwWkXGJhczh8kYp73qSf8juPbOyh_gxfL-A-E5XhVKXhc5UESI5t0gFBf",
+        "width": 1688
+      }
+    ],
+    "place_id": "ChIJg34IKhP0K4gRpgCMnvGfaOs",
+    "plus_code": {
+      "compound_code": "CFXX+V9 Kitchener, ON, Canada",
+      "global_code": "86MXCFXX+V9"
+    },
+    "rating": 3.5,
+    "reference": "ChIJg34IKhP0K4gRpgCMnvGfaOs",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6,
+    "vicinity": "120 Victoria Street South Suite 600, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4442765,
+        "lng": -80.4952308
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4457168302915,
+          "lng": -80.4938400197085
+        },
+        "southwest": {
+          "lat": 43.4430188697085,
+          "lng": -80.4965379802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "DLB Consulting",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ3xHzQff0K4gRrheeOdwVD5c",
+    "plus_code": {
+      "compound_code": "CGV3+PW Kitchener, ON, Canada",
+      "global_code": "86MXCGV3+PW"
+    },
+    "rating": 5,
+    "reference": "ChIJ3xHzQff0K4gRrheeOdwVD5c",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "15 Schneider Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4364698,
+        "lng": -80.5142322
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.43778608029151,
+          "lng": -80.51295276970848
+        },
+        "southwest": {
+          "lat": 43.43508811970851,
+          "lng": -80.5156507302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "H&R Block",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 896,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107744312142359083444\">H&amp;R Block</a>"
+        ],
+        "photo_reference": "AeeoHcK-QBTxWwFuaAWzfzdpZ4wLfurzI2cjqYcAMsHpzeC_gsR6HrZTt4fAJTQF36uhCgSSGNWMtNwhxJDizMg5DIYQCe4NDYsPNgnV8yj0gjyfkepP_mNYzOIFo2Ytu-NnVpbMEr5aZMLA59ANMlleSAa5mP38qTNSNfxFz1vQmZq9EeNZXFeO7NLAvfbPtvBspXujtKEiMfFJCbNuG7OjJ2hR0iCdjVBmvgkC13QjjrSME9X_XBpu875DsRYU4U50AtSavQWwuEycTs5NbIYi-GDRJqi_7tQFSJQ5l-LOjndqEJoI2Kygt0RUKqsk8swHpRfqY-g4aMY",
+        "width": 1600
+      }
+    ],
+    "place_id": "ChIJg_UL3kz0K4gRzhs7t6yY8w4",
+    "plus_code": {
+      "compound_code": "CFPP+H8 Kitchener, ON, Canada",
+      "global_code": "86MXCFPP+H8"
+    },
+    "rating": 4.7,
+    "reference": "ChIJg_UL3kz0K4gRzhs7t6yY8w4",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 203,
+    "vicinity": "470 Highland Road West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4520208,
+        "lng": -80.4806236
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45343148029151,
+          "lng": -80.47931531970852
+        },
+        "southwest": {
+          "lat": 43.45073351970851,
+          "lng": -80.48201328029153
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Comp-A-Counting Services",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 648,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117713668353323115180\">Comp-A-Counting Services</a>"
+        ],
+        "photo_reference": "AeeoHcIlRGgf7FYIS_5OyKoTczUoa6NQmiQvnfgsE5nB7sj_yuCIaOde2D33T0luuMXBpk-S-o1UAVvbjq9_fzdTLIbJ7sT_yUaoJrkO5JaEiqHSZMlRvIhgMbFQqVVgQGeayZdFgcsSoj3BcQPbRwCszelYB5IgfnDGTFL1YHn2rdL3Dd5fPNKfhQQLsw8TP-FY7qqSvtKdC1x8xP6gEZdburv7GNqhhOHCgk_wjh9_9lJ-u9ed7rSpQFqlI7_DSU7QvNXjzr8EEiO5fchUl7aZsuLIcAKWZqokXaF5gFpl-_VIvT18MH5a2yIqG2jell3B9PlsXQQ1h4Q",
+        "width": 1152
+      }
+    ],
+    "place_id": "ChIJR0_vBo_0K4gR56vVVXSv8i4",
+    "plus_code": {
+      "compound_code": "FG29+RQ Kitchener, ON, Canada",
+      "global_code": "86MXFG29+RQ"
+    },
+    "rating": 5,
+    "reference": "ChIJR0_vBo_0K4gR56vVVXSv8i4",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "21 Chapel Street Unit C, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.49381899999999,
+        "lng": -80.53633660000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.49514003029149,
+          "lng": -80.53492281970851
+        },
+        "southwest": {
+          "lat": 43.4924420697085,
+          "lng": -80.53762078029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Zebroski And Associates",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ-1b1tODzK4gRDpHi5B1GToc",
+    "plus_code": {
+      "compound_code": "FFV7+GF Waterloo, ON, Canada",
+      "global_code": "86MXFFV7+GF"
+    },
+    "rating": 4.4,
+    "reference": "ChIJ-1b1tODzK4gRDpHi5B1GToc",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 7,
+    "vicinity": "c9, 490 Dutton Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5081514,
+        "lng": -80.5395649
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5094241802915,
+          "lng": -80.5380303697085
+        },
+        "southwest": {
+          "lat": 43.5067262197085,
+          "lng": -80.5407283302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Doane Grant Thornton LLP",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 768,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108166241286251711852\">Doane Grant Thornton LLP</a>"
+        ],
+        "photo_reference": "AeeoHcIMUrh7SCnmiKb9uYxx3a5Tm-bk2nDusZQOovo5YHkAltD7lzONnNNHHMXm31vshTMaVD929oypimUrAL2X1Eb5wIQvustuTuTorz-3A3pUVw4tc0ZprQIb5tMQkSaPwbfNkG-CxZZX4Sa2G19Mgb3LBSC3puXYX63MCAjSWC9eOBPffeDpahgmHy-hJgp9YKl2iBQN3TN28xegD0gwVswrk2Yf0qhy0ZMzjvS6Ds5egSIueiAoyC9MdSPxSp2zZY612ZmKR2ydhsEQV8mTKAx8EPKC2Q4lX9kEYYD9RMZOvQ9ykP3dsOIAqrZ6vUITWgKqxgOAFXc",
+        "width": 1365
+      }
+    ],
+    "place_id": "ChIJY35r3mj0K4gRues5OT_S3mg",
+    "plus_code": {
+      "compound_code": "GF56+75 Waterloo, ON, Canada",
+      "global_code": "86MXGF56+75"
+    },
+    "rating": 3.8,
+    "reference": "ChIJY35r3mj0K4gRues5OT_S3mg",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 19,
+    "vicinity": "60 Bathurst Drive Unit 6, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.47445459999999,
+        "lng": -80.5935077
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47588148029149,
+          "lng": -80.59205856970851
+        },
+        "southwest": {
+          "lat": 43.4731835197085,
+          "lng": -80.59475653029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "BELL Chartered Accountants",
+    "place_id": "ChIJ6_RIQCn3K4gR_4PAYiPWtC0",
+    "plus_code": {
+      "compound_code": "FCF4+QH Waterloo, ON, Canada",
+      "global_code": "86MXFCF4+QH"
+    },
+    "reference": "ChIJ6_RIQCn3K4gR_4PAYiPWtC0",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "849 Creekside Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46312870000001,
+        "lng": -80.4657099
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4645391302915,
+          "lng": -80.46444466970848
+        },
+        "southwest": {
+          "lat": 43.4618411697085,
+          "lng": -80.46714263029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Vine & Partners LLP",
+    "place_id": "ChIJE9r086X0K4gR0hFdNkkXYMA",
+    "plus_code": {
+      "compound_code": "FG7M+7P Kitchener, ON, Canada",
+      "global_code": "86MXFG7M+7P"
+    },
+    "reference": "ChIJE9r086X0K4gR0hFdNkkXYMA",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "871 Victoria Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4752034,
+        "lng": -80.47862409999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47662743029149,
+          "lng": -80.47733311970849
+        },
+        "southwest": {
+          "lat": 43.47392946970849,
+          "lng": -80.4800310802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "LRK Tax LLP",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJdeGwvmbzK4gRbm24hJhc0zs",
+    "plus_code": {
+      "compound_code": "FGGC+3H Kitchener, ON, Canada",
+      "global_code": "86MXFGGC+3H"
+    },
+    "rating": 5,
+    "reference": "ChIJdeGwvmbzK4gRbm24hJhc0zs",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 8,
+    "vicinity": "508 Riverbend Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.453074,
+        "lng": -80.5173969
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45438108029149,
+          "lng": -80.51616826970849
+        },
+        "southwest": {
+          "lat": 43.45168311970849,
+          "lng": -80.5188662302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Toffson Management",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJLxwJu0H0K4gRvJyIUE7LafA",
+    "plus_code": {
+      "compound_code": "FF3M+62 Kitchener, ON, Canada",
+      "global_code": "86MXFF3M+62"
+    },
+    "reference": "ChIJLxwJu0H0K4gRvJyIUE7LafA",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "678 Belmont Avenue West Unit 303, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4858027,
+        "lng": -80.5286593
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4870365802915,
+          "lng": -80.5269624697085
+        },
+        "southwest": {
+          "lat": 43.4843386197085,
+          "lng": -80.5296604302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Tax Care Inc",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 432,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118321829762846655098\">Tax Care Inc</a>"
+        ],
+        "photo_reference": "AeeoHcJxzDIz79-sOF23U4LNwZR54GFV_I2YBfqHZPqHKZwm8yriqUONsFI7SfZ1KoOf_AZfHuTKUzDFNw4mdRXjGiMenplXJ4qURQwro9OWhBMqoP-P3EabGYC65s8XHDDbkrWZ7scx31uyzBkAXQ9yqzA7LVjwKHmEoqg9GtcWCFkmqNZBBuIUkGBsu22ya5kOxTs4GC-M56x-PNpu77MK-btowBcGuNBI4wCGlLnZKtnCUWHXHFqN56yvXumvb7wb0edREvxHAUhp86MhX_VR6ryVR_Ycs_FFTSGSkzJMg2RNNZhr3ScV2tzKS0lDiRkFK8qzLWLYtsw",
+        "width": 396
+      }
+    ],
+    "place_id": "ChIJ32EXSu7zK4gRF1cbtVehyPY",
+    "plus_code": {
+      "compound_code": "FFPC+8G Waterloo, ON, Canada",
+      "global_code": "86MXFFPC+8G"
+    },
+    "rating": 4.9,
+    "reference": "ChIJ32EXSu7zK4gRF1cbtVehyPY",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 76,
+    "vicinity": "420 Weber Street North Unit B3 at, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4513531,
+        "lng": -80.4713419
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45269768029149,
+          "lng": -80.46998946970851
+        },
+        "southwest": {
+          "lat": 43.44999971970849,
+          "lng": -80.47268743029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Ark Accounting & Tax Professional Corporation",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115138535175889575814\">Ark Accounting &amp; Tax Professional Corporation</a>"
+        ],
+        "photo_reference": "AeeoHcLRheODsSb20XxFJ5nHPGLc-GCT11uGyL-fY-kOWoH-7krOKlEUXRByCIJWwRmPGyFN00mnKIVJIJY-3t4YFDA3EFjUZxsseo_2UQLN3_eaqM5wt58ovoISPokNYDN2jLjoG5kVcaZA1GV9P27p7IBUBN2DanPma-QR32EIbMQJZTicKPRng04UnmkzMU_KzRSIGmwK5GKDXn8wr3bzqfMTb494eanapjZrhPXv-zlqhgRpsXxDpJOqWc7tZx-tN1B9XXQcQow6zPWqOHD2OrnUr2wmJAOmAMQgrNW7mIT--iv9GvpHlj0K_3rQO8enRE9p9w0_Sok",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJPbZ2Tr_0K4gRP7P1_C2DxYE",
+    "plus_code": {
+      "compound_code": "FG2H+GF Kitchener, ON, Canada",
+      "global_code": "86MXFG2H+GF"
+    },
+    "rating": 5,
+    "reference": "ChIJPbZ2Tr_0K4gRP7P1_C2DxYE",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 8,
+    "vicinity": "230 East Avenue #202, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4995333,
+        "lng": -80.50036039999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5009628302915,
+          "lng": -80.49911296970848
+        },
+        "southwest": {
+          "lat": 43.4982648697085,
+          "lng": -80.5018109302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Thornegate Consulting",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ1dI47KfzK4gRcBUj9YeTu7o",
+    "plus_code": {
+      "compound_code": "FFXX+RV Waterloo, ON, Canada",
+      "global_code": "86MXFFXX+RV"
+    },
+    "reference": "ChIJ1dI47KfzK4gRcBUj9YeTu7o",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "385 Forestlawn Road, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4791064,
+        "lng": -80.5162405
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.48041258029149,
+          "lng": -80.51484521970849
+        },
+        "southwest": {
+          "lat": 43.4777146197085,
+          "lng": -80.51754318029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Books By Kristi",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJwbZ_Cl_0K4gRg0xBe9I4B2A",
+    "plus_code": {
+      "compound_code": "FFHM+JG Waterloo, ON, Canada",
+      "global_code": "86MXFFHM+JG"
+    },
+    "reference": "ChIJwbZ_Cl_0K4gRg0xBe9I4B2A",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "119 University Avenue East #31, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4444082,
+        "lng": -80.47761179999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44573658029149,
+          "lng": -80.4761112697085
+        },
+        "southwest": {
+          "lat": 43.4430386197085,
+          "lng": -80.4788092302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Eggett Tax Services",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 303,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114231811144337130960\">Nicole Del Cul</a>"
+        ],
+        "photo_reference": "AeeoHcKsRiYcZvheSfKhvRpi7JLS5DRoKgKal7hUMcE3zzl2hDrarFtWeO867h0E6VbKAYe8RtCbYZUBfEg96EBwo5z_apUp_tj4Z9GRNernONBxTmxvRpglGKNQN-hqJvzupLzCWE1TVSfFJXQjKRFDgMKQWA03Tt3x8zJALbgzEkOXXhncuFs7vWRCMzDcv-LrqRAJJaMOeuewno1e1P0U-g7dVqpTfTuT1JDgO51ruiNYFFmxz80Aww_MqllqTnYvy1jK_5-3et9HbJ5GhTHVOO8yf6vcYoBqzjtaSSxXNliHPSbO3kp4C9KV8RxcEYhMf8URGBSnw6T5OVe-IbwkLzezg1U7NTWgBwhoVk56actgW8jnXVHmI8sxHK49Uz8YgZ3IRftDnNFnQwrfGmlsNM95MpC7dVqs1xOuotmrSkiSec7puKt2ibkFoZmOerFKpHEry9PYdNC4F7lB7wopS8RnJ7WQdIvfPx08n9J8Pd3Tkq4IIl1jCG68h6424_Aw3d-8DR_uXZnt-0dOJ_GBxOnYtdNSEn-sZheXntjrYedZfYGjWnLk7yFtWqmN2tvDJkSj7FDDxXWZbBJwfBpBBVs-0k8vwSXYgAx2UQQN46fPr41Mev5rCGOhyaTW6Lrr4uqfIw",
+        "width": 300
+      }
+    ],
+    "place_id": "ChIJr4m1f4v0K4gRo0XrvuE-ruo",
+    "plus_code": {
+      "compound_code": "CGVC+QX Kitchener, ON, Canada",
+      "global_code": "86MXCGVC+QX"
+    },
+    "rating": 2.8,
+    "reference": "ChIJr4m1f4v0K4gRo0XrvuE-ruo",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 36,
+    "vicinity": "729 King Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4614846,
+        "lng": -80.45309929999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46270138029149,
+          "lng": -80.45176561970848
+        },
+        "southwest": {
+          "lat": 43.46000341970849,
+          "lng": -80.4544635802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "GE Solutions",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJzUpMvP1P1YkRHWmy_ltuCXc",
+    "plus_code": {
+      "compound_code": "FG6W+HQ Kitchener, ON, Canada",
+      "global_code": "86MXFG6W+HQ"
+    },
+    "rating": 4,
+    "reference": "ChIJzUpMvP1P1YkRHWmy_ltuCXc",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "14 Peachwood Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4412186,
+        "lng": -80.4703921
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4423867302915,
+          "lng": -80.4690044697085
+        },
+        "southwest": {
+          "lat": 43.4396887697085,
+          "lng": -80.47170243029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Lund & Associates",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ9wVGtMT0K4gRAAlRDNSbiNs",
+    "plus_code": {
+      "compound_code": "CGRH+FR Kitchener, ON, Canada",
+      "global_code": "86MXCGRH+FR"
+    },
+    "rating": 3,
+    "reference": "ChIJ9wVGtMT0K4gRAAlRDNSbiNs",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "1183 King Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4148157,
+        "lng": -80.4822966
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4162601302915,
+          "lng": -80.48104306970849
+        },
+        "southwest": {
+          "lat": 43.41356216970851,
+          "lng": -80.4837410302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Accounting 911",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJkSW0nRT1K4gRFTLB9PkyWDI",
+    "plus_code": {
+      "compound_code": "CG79+W3 Kitchener, ON, Canada",
+      "global_code": "86MXCG79+W3"
+    },
+    "reference": "ChIJkSW0nRT1K4gRFTLB9PkyWDI",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "59 Blackhorne Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4125236,
+        "lng": -80.5365977
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.41394658029149,
+          "lng": -80.5353101697085
+        },
+        "southwest": {
+          "lat": 43.4112486197085,
+          "lng": -80.53800813029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "CK Accounting & Tax Services",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 649,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105175604223669884027\">CK Accounting &amp; Tax Services</a>"
+        ],
+        "photo_reference": "AeeoHcJBF6lZWXXv3l-wn7O_9X7L98gUTdmtPZsuLMDwDI6PRWO0Zkp64P0lAssaI3hG0zhv6At0LzYPxtMCx_PFai8fFdckCqocbCHC0Bq3ntHVkkfbGgAFDiLxvuDGirWvkKbcci5ySl7dnKUjEGu4fyjMOg3O8YcbiyT1WN9EdHJET6QAtWkLfpGjN4dcKuLMDnuTnWW_MyuLebavOdH2ulPESzDP6bej5nZBH7LYpbiEnWjlfRqAkNZhZX4FhyN5shNBjonZe8_GIFpfAfmeifZAMEx8OPnpaPvRGWEkmRIKN-FXX31TcGPhmblCDgcH2vDT0_a1Uuk",
+        "width": 973
+      }
+    ],
+    "place_id": "ChIJjaIKPZH1K4gR_A9K2a7ZlEo",
+    "plus_code": {
+      "compound_code": "CF77+29 Kitchener, ON, Canada",
+      "global_code": "86MXCF77+29"
+    },
+    "reference": "ChIJjaIKPZH1K4gR_A9K2a7ZlEo",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "214 Driftwood Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4509118,
+        "lng": -80.5135779
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4525012302915,
+          "lng": -80.5126591197085
+        },
+        "southwest": {
+          "lat": 43.4498032697085,
+          "lng": -80.51535708029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dynac Inc",
+    "place_id": "ChIJj_TVeVR1LIgREIaUEp56xSo",
+    "plus_code": {
+      "compound_code": "FF2P+9H Kitchener, ON, Canada",
+      "global_code": "86MXFF2P+9H"
+    },
+    "rating": 5,
+    "reference": "ChIJj_TVeVR1LIgREIaUEp56xSo",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "137 Glasgow Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4531614,
+        "lng": -80.5175223
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45448143029149,
+          "lng": -80.51626616970849
+        },
+        "southwest": {
+          "lat": 43.4517834697085,
+          "lng": -80.51896413029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Prudent Accounting and Tax Services",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 354,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100371061714949633293\">The Prudent Accounting and Tax Services</a>"
+        ],
+        "photo_reference": "AeeoHcKQBj9DDjNtcfatY0pP1lndEnDfPO1Oo391ZSQ1Zu5MYbRmW6Mk8u6dUyxPmtI07TfVCBa3k5uX9TmRkB3943K31dLWm7PP_Mykl7_wygQE2YHKqQEeN0YuFC13Oe9NbjdgcFXQgLrFf26P4_0V5szffocPrLDWoU1WRMLcC_713Z-nUryhdVvWEewJGJ23MYRlHmiZs2uEmq43Kp4ciM_thEc7AKRE1-lTmDddDpCxE7_e43q8UeFw_IotZteMcNC4ZmWLAMpI8VCpmZLqLArZMYj2Ic8SwA82ElD_B4mFE0IvLbZgU7rNfu_pkvrMpfyaiSQE1bY",
+        "width": 774
+      }
+    ],
+    "place_id": "ChIJ5R5GhE70K4gR4OdPJVHwy8c",
+    "plus_code": {
+      "compound_code": "FF3J+7X Kitchener, ON, Canada",
+      "global_code": "86MXFF3J+7X"
+    },
+    "rating": 5,
+    "reference": "ChIJ5R5GhE70K4gR4OdPJVHwy8c",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 122,
+    "vicinity": "Unit 303, 684 Belmont Avenue West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4888511,
+        "lng": -80.494215
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4902649802915,
+          "lng": -80.4929250197085
+        },
+        "southwest": {
+          "lat": 43.4875670197085,
+          "lng": -80.4956229802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Fritsch & Laitar",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJHyxvy87zK4gR0rAL1nAwWEs",
+    "plus_code": {
+      "compound_code": "FGQ4+G8 Waterloo, ON, Canada",
+      "global_code": "86MXFGQ4+G8"
+    },
+    "rating": 5,
+    "reference": "ChIJHyxvy87zK4gR0rAL1nAwWEs",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "375 University Avenue East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4250487,
+        "lng": -80.55406599999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4263959802915,
+          "lng": -80.5526628697085
+        },
+        "southwest": {
+          "lat": 43.4236980197085,
+          "lng": -80.5553608302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "H&R Block",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111692177500169007946\">H&amp;R Block</a>"
+        ],
+        "photo_reference": "AeeoHcK1pNiZmcwdOd_V2kn4_VsAwemKp5eGBBPtRluJ8M9xNHvzc4Ow6DQeHPlkwwBBtmKYxCKhJ5guvzK98SPHj80wV5bugIowY8XBCNkrhF9xgUzHu-_OTKkffIjIhtaQbRlYS33f23fpcWhDMmd1WCH2zmLqmp8H7mL-5GfVDcBQPkApIE_XxKjDjbChHGDJjftyT9HU51cu7mfB9kV7w84D-Z35lPXQp5YyuU51Rc1bz2K_If9V-57cmuomFYQqLWZRr5FtZi5qbikLjhRiyT_qSPbxAkg98GNNP-kot4Per16iBiUq833SKMUIu-Kty1kR6PqJrFo",
+        "width": 1200
+      }
+    ],
+    "place_id": "ChIJP97WO_H2K4gRrAk7U0203f0",
+    "plus_code": {
+      "compound_code": "CCGW+29 Kitchener, ON, Canada",
+      "global_code": "86MXCCGW+29"
+    },
+    "rating": 4.4,
+    "reference": "ChIJP97WO_H2K4gRrAk7U0203f0",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 55,
+    "vicinity": "235 Ira Needles Boulevard #5, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4939319,
+        "lng": -80.5373221
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4951937802915,
+          "lng": -80.5359394697085
+        },
+        "southwest": {
+          "lat": 43.4924958197085,
+          "lng": -80.5386374302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Cameron Keller & Company",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ-1b1tODzK4gR5_grUOQi0Ps",
+    "plus_code": {
+      "compound_code": "FFV7+H3 Waterloo, ON, Canada",
+      "global_code": "86MXFFV7+H3"
+    },
+    "rating": 5,
+    "reference": "ChIJ-1b1tODzK4gR5_grUOQi0Ps",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "490 Dutton Drive A-3, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4317779,
+        "lng": -80.50914379999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.43319993029149,
+          "lng": -80.50784376970849
+        },
+        "southwest": {
+          "lat": 43.43050196970849,
+          "lng": -80.5105417302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Sathya Tax Plus Inc.",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJh02Qma31K4gRdcEmBgCH-_U",
+    "plus_code": {
+      "compound_code": "CFJR+P8 Kitchener, ON, Canada",
+      "global_code": "86MXCFJR+P8"
+    },
+    "reference": "ChIJh02Qma31K4gRdcEmBgCH-_U",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "7325 34, Dublin"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4363086,
+        "lng": -80.51417169999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4376617802915,
+          "lng": -80.51286126970848
+        },
+        "southwest": {
+          "lat": 43.4349638197085,
+          "lng": -80.5155592302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Cash-A-Cheque",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1512,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113505204283963160263\">Cash-A-Cheque</a>"
+        ],
+        "photo_reference": "AeeoHcKuK2gYNhjJWdgr6z4YW34uW0Rc3zjdZ6RBLw9d7JB0BAKKDZ4JgQnc0HrqgD_NsheTl8tNjwCYud7HbFkinQICoIl5ZoBckWbrZxBRu2CqCOF0kEW8rcbuHcX1Hr5G1bbWN3jtaBQlGsAea9z2dD5L5HWV1JlqUJs_456-gfExRzA62lolJB9WRaOII7zogrGdE_F4ju3V-kghBAXXhXbkdjHJohcXePoTVQt7b2EckbEa1Z6N64j38AM9330QyLwkxQTIWPJtFE7ZIYq4aWNOOp1Oj8TLuJbLxcylrosLr-QWZj4nX8jbIthUwWqXPwILUpxUyxo",
+        "width": 2016
+      }
+    ],
+    "place_id": "ChIJQaEL3kz0K4gRaapqx6UT1MM",
+    "plus_code": {
+      "compound_code": "CFPP+G8 Kitchener, ON, Canada",
+      "global_code": "86MXCFPP+G8"
+    },
+    "rating": 4.2,
+    "reference": "ChIJQaEL3kz0K4gRaapqx6UT1MM",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 95,
+    "vicinity": "470 Highland Road West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4447833,
+        "lng": -80.4777146
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4460654802915,
+          "lng": -80.47643071970849
+        },
+        "southwest": {
+          "lat": 43.4433675197085,
+          "lng": -80.47912868029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Common Cents Accounting Services",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3648,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108822761296561478687\">Patrick Asselin</a>"
+        ],
+        "photo_reference": "AeeoHcJwf0KcA_43oSS1lTDo5Yoc6K4pyELKaGllO-D8B9XIcxP-PCxPe6xAoB7Kauxe7ai7SA7Umiy8knR8B5x5WPN0v0YrzJwUPmeP8QFy25mI_pv1Z7IxSpjFk118EFWi9FtAsWjgVZARYjTMQytH5fAxnJrFWTmX2LOdZKjsliCANigG3DCoHOdt3xZc9_tO50M7T6c9knlvB-BCUbjuTMgYgffoknz4R6ghPG4Sv4mx-xo_fe07yXO8fFWeRe4068xcyI8M3BNMTpR8BxFW0oA52E8KM9viwbpfHUSFhfjGQo7D-FloPFvhJH3jky86ReaUn46BrHEpFlOMvCxRUtbJOz4_PLt8b_ctxc93m9vaUrfB5QpKGwfySzE5c_YedKt6LbfrWBZ2gkXFDCK4QniXI2QfJyfp9uh2BSWlzcyDIVIzz5Azesjaxs9Bq4YcvPf5464ThqAtDkv2jFBbO0BjwEpoeE088IJNqVmVkhwbqFxZFzBBCFSB06RCeP85fw6OWElKAHpeu_FezDmeordoEchMYNDbtgiqjO342O4SauAEIQf9mNd2P9nfbes2q1A9s_sj2XhfUHXPJMU4CzlQvVnsoCzLU0UcHw7tRCjrGUMc7T87RW8CHkjAgOOQsK-Ijg",
+        "width": 2736
+      }
+    ],
+    "place_id": "ChIJCXsUxen0K4gRAXi3rLRdVtQ",
+    "plus_code": {
+      "compound_code": "CGVC+WW Kitchener, ON, Canada",
+      "global_code": "86MXCGVC+WW"
+    },
+    "reference": "ChIJCXsUxen0K4gRAXi3rLRdVtQ",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "706 King Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4664763,
+        "lng": -80.5208042
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4677200802915,
+          "lng": -80.5194188197085
+        },
+        "southwest": {
+          "lat": 43.4650221197085,
+          "lng": -80.52211678029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Arbuckle Financial Services",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1836,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110709771379276605691\">Tara Kachroo</a>"
+        ],
+        "photo_reference": "AeeoHcLbtANdY1dRPqXblMn7qGuun5xuSGEGPcrC_DEdCqIo02MezFP3nXMhbqF2rqkO-ITtQekNxhgVPbv6tyrQL19LARgSdtwKMvUFRnC6LJW7K8g3Hwjjqo5435KK87E1GSsWMkRh1y1CdUghAiTKtELdgtBlSNqYAGiRMyTVwVNwJhE_G1kC3pSVNixDwrpOyeNroOJuigu87W9fj4NOsh977PdLbJwsu_UeW6wM13ldWt-1hd6sG9XI9XT2Q-HHOy-4GtlfZ-phDMa3oBPskg2NQ5hZcZoaPfkHilOGI3R34rjBj8U9CIkebV75v2fb-hleOLGCm8zev2MUvC_xPiARAoP3E8yrcBovnj7-YJZEszJfdEQTD7Tv4i3LmwGqCTA-KCAWuwM_HSG-oczMv-MGNdIz7XgIhQyyQJgu6u-8ueOMFYbjqRVno1Euu1M1489p8sjVS_k9YibUO5nw3QFQxjv1fploUAeH38IjfyDhvYZ0_uiXF07d8cXbJfDXWO57cVu3BGd7p7V3asmpOppgVlXgnwD7QvZjCQt6gozLBqVmM-PvV0vQp6lx28CZZ4YyuM_W8qcvbmqe72KGtJ1j-tN9lkLbKMZCAHblbcn0z8W_BIbFxk8ufVJh1CaGaSnIYQ",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJsxYz2nL0K4gRZDwdBxIxNFg",
+    "plus_code": {
+      "compound_code": "FF8H+HM Waterloo, ON, Canada",
+      "global_code": "86MXFF8H+HM"
+    },
+    "rating": 1,
+    "reference": "ChIJsxYz2nL0K4gRZDwdBxIxNFg",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "30 Dupont Street East #205, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4802107,
+        "lng": -80.5226789
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.48146873029151,
+          "lng": -80.52125576970849
+        },
+        "southwest": {
+          "lat": 43.47877076970851,
+          "lng": -80.5239537302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "McKerlie Michael J, CPA Professional Corporation",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJl3mnSvPzK4gRlsjt-5kj9EU",
+    "plus_code": {
+      "compound_code": "FFJG+3W Waterloo, ON, Canada",
+      "global_code": "86MXFFJG+3W"
+    },
+    "reference": "ChIJl3mnSvPzK4gRlsjt-5kj9EU",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "285 Weber Street North #3, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4477376,
+        "lng": -80.4778134
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4490206302915,
+          "lng": -80.4765184697085
+        },
+        "southwest": {
+          "lat": 43.4463226697085,
+          "lng": -80.4792164302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Mitchell & Company",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3648,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108822761296561478687\">Patrick Asselin</a>"
+        ],
+        "photo_reference": "AeeoHcJUYc-LxN7bY8tvTa4qyViClh8trBXaEO2cfBFXapoDQLvaWqCkc-csZqD-9-4bzNV1Z4_z8UWNh8-WgSQcCxgx-xcUM14XAlCjVEey7NqWGOCtexcYkK9N7-I9k83QQOuVlq7IExA6LYvVzq3IojradhHtanYXBaSPp3_2EYYLy_IZ3QofHY1mXHM01kh5Z13gfW8hZPj8UlQPwfIiYnmx3rSD0xVOJgNDyNDnElSJ0HP3ioxUOMyE3clJfztJ3iER2bv9IvN3kyv6yNJiWxHDmYKVGAmQgGpJv4x1Jd7gZSnTJTL2-FLuSqSjLwb5Aausk15-sbRcSDWT-6jkPi175YVKbzDmWGjhH_yIkVw-llTfU_GwkK8ZvLdtiU9UFgBlxD3D9HWqAh-Vc6sliY_jH9H-ed5YLuZiDo3qsZsDk6w_dBwMhZiNQ9-HQdVlmh7CFe1VK8Rj5tbMaZOdpASOTsHX2kBf7qPqThciz4vXafyntmCQfMza7Mmignq5aNY27UEY7MRUMKHo20Q8-LW-S6cfzMsYRnykawsJOYx1i9TwooTmRPYfSWSnPsMABsCB-YCDJrqhkMnoFSvD1HBgI1a6CXIxIKKiRSUGWD-E-Q_v2ps7u74P52k7G593jwI0Hg",
+        "width": 2736
+      }
+    ],
+    "place_id": "ChIJl1hzber0K4gRLQNnA9gjSHQ",
+    "plus_code": {
+      "compound_code": "CGXC+3V Kitchener, ON, Canada",
+      "global_code": "86MXCGXC+3V"
+    },
+    "rating": 5,
+    "reference": "ChIJl1hzber0K4gRLQNnA9gjSHQ",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "178 Weber Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45448270000001,
+        "lng": -80.51902009999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45586488029151,
+          "lng": -80.51757236970849
+        },
+        "southwest": {
+          "lat": 43.45316691970851,
+          "lng": -80.5202703302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Ledgers (Kitchener)",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 460,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111371239313211870032\">Ledgers (Kitchener)</a>"
+        ],
+        "photo_reference": "AeeoHcLX4oTNrYIaprwalwcxo7_uJWBlx-IKgpua07BSpcDwWxr6_fHFxoZCBPiVx4rWG-czr2ovVTYQTHE-lgcFwkOy1Tx6tryN6N6eL4JQLiksm8AxkTijLtXUfwwZA9KbK2huFzlpcJ080Ncnot2_dvFNEt8xSsuNirb3vFks9VzfZFQXP6oKZEBfLLksFnM6DGgV7q4Y5veCVp5dJkQAop5bB25S38MtkOw-16BCo-jD511fXlylCnbPMfkq5TrDu7BRlal4G0eB7xpKvjxVPfUGw0ojbbkMoUYwaSwvzk3uEch_-TsUtq5ukRMNY4ZUQuIG20jIkHg",
+        "width": 460
+      }
+    ],
+    "place_id": "ChIJb0zmjLz0K4gRxDiuogm66bY",
+    "plus_code": {
+      "compound_code": "FF3J+Q9 Kitchener, ON, Canada",
+      "global_code": "86MXFF3J+Q9"
+    },
+    "rating": 4.9,
+    "reference": "ChIJb0zmjLz0K4gRxDiuogm66bY",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "local_government_office",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 24,
+    "vicinity": "737 Belmont Avenue West Suite 3, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4889101,
+        "lng": -80.49413179999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4903172802915,
+          "lng": -80.49283571970848
+        },
+        "southwest": {
+          "lat": 43.4876193197085,
+          "lng": -80.49553368029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Acumax Business Solutions Inc",
+    "place_id": "ChIJHyxvy87zK4gRKyGCSsxr2sY",
+    "plus_code": {
+      "compound_code": "FGQ4+H8 Waterloo, ON, Canada",
+      "global_code": "86MXFGQ4+H8"
+    },
+    "reference": "ChIJHyxvy87zK4gRKyGCSsxr2sY",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "375 University Avenue, Waterloo"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 43.46991149999999,
+        "lng": -80.5236389
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47126608029149,
+          "lng": -80.52224721970849
+        },
+        "southwest": {
+          "lat": 43.46856811970849,
+          "lng": -80.5249451802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "sss",
+    "permanently_closed": true,
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101339499200833496241\">Sergey Design</a>"
+        ],
+        "photo_reference": "AeeoHcKcCraE3VlL2foMp7ucXrHIE2AV9ZncUgpm3jvsIOb5seu-RfB02emZ4GKaptvJYcfn_igl_ZZnat1JqmQ-A7fEll2MIH37hnW6xug1XDgHqHggsdqYIfbAD1VtEN93BF-tD4VsoCrueTVMPkNQoGCmbUnQvfSTpsFpVd9hS5uWwDb7q7tuHUERBeyLqdnCm8FS91c0gvxLZQX9OJWyZh1pd3ytkr9QIa4GrfPp9JCEk3mAaN2IcDp5AHk6Y39mSn99Ar7lACsgXiZer0nW19Y5TlPjAEHIb--5q3yfefDrb2YEyAXEuvFeL4UnwR_7DVmcEuZvqO2ektR9apJMoersic4R7SDZ1fzzOVlQmDcR6vx4r6rOZS8W8k_SpJyJYpIN1Q6lSLJaXwTo3C1GPTNbqGooM4lSjbb91zYmKPgUEKee5uiHuh8sTcPV6vsmDb2HBVx00ZSyOS0-ytBf694QoMxGHTzrxwJnRlt_y3UQmrVekDpgL7WVuHPY4ouTuXS9c9uu4i-yPfP-1qMym4kptDUFf7Yj_pTLlv0KL8NVWR8ip512xRFsDxp9wEUgwDTRzW4sERMupD-fN_90unmxZlzSGJphK08VYR0U9acE80pvTq4rWnLxHodTZp_O",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJnb29mINvK4gRS_A6--JFmUY",
+    "plus_code": {
+      "compound_code": "FF9G+XG Waterloo, ON, Canada",
+      "global_code": "86MXFF9G+XG"
+    },
+    "rating": 1,
+    "reference": "ChIJnb29mINvK4gRS_A6--JFmUY",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "135 King Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45128270000001,
+        "lng": -80.4840476
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4525823302915,
+          "lng": -80.48277751970849
+        },
+        "southwest": {
+          "lat": 43.44988436970851,
+          "lng": -80.48547548029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Tom Wilhelm Professional Corporation",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 990,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105036545477798762773\">Tom Wilhelm Professional Corporation</a>"
+        ],
+        "photo_reference": "AeeoHcJDmSK2db1LYzr62jXjyKJiuEsYfllW1bKFLxIvDUcgF-VcLZpW0jX-HY0C1z33bzq6ffcCRt8Q5I96Y-w0XGwFzzSlduU0tDOuuE0RaaD5ThUuY1oP4oAYxnxZzwSp85NeuQDzdOf2Yf8gKy-dbLoHOJIBwIE8oHnL0JFiDO6GFRgZD0UUbuC2il24-W2z3RsRrQYLHPuA93JMqAzbYOZo2TpvVUGy-k3rD0Ri4PKshRw9hCh3eUuk3NT5BmiBJ94LlFw4CKc7j2V89Z135Ns_1w1WNs_OemPvl-c0TJ7zpG634Ytew7jNUwntrlOMLRgRYOYsjws",
+        "width": 990
+      }
+    ],
+    "place_id": "ChIJIbi1q-n0K4gR5A1lAPWJ5A4",
+    "plus_code": {
+      "compound_code": "FG28+G9 Kitchener, ON, Canada",
+      "global_code": "86MXFG28+G9"
+    },
+    "rating": 3.4,
+    "reference": "ChIJIbi1q-n0K4gR5A1lAPWJ5A4",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 11,
+    "vicinity": "30 Spetz Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4646993,
+        "lng": -80.5219499
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4660294802915,
+          "lng": -80.52073641970848
+        },
+        "southwest": {
+          "lat": 43.4633315197085,
+          "lng": -80.5234343802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Larry Stolberg CPA | Waterloo Tax Specialist",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 313,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116796442926479984964\">Larry Stolberg CPA | Waterloo Tax Specialist</a>"
+        ],
+        "photo_reference": "AeeoHcJkd_gr6RW1rwW1YVlv34DEjj8r_1kL9z7PW6dGaHLVLbPj-iyQbU9SA4VsL8VVvr9-w91TsmEXzLvuBmAxW1kprJYL1MHj2h_wBS5rjN-WVRXErZyYu3g5EEAMejroIt2E1H1s27a1krUYDeCAWx9Qvy3aXmZwGi5SJbMOc4yf0hU7T4lLByOgo3MyCnUenYDeM9Jz0BdkxGxtYpdQC30t38Q9_9VtTb-UG6TfTbR7tWKN2m8KMCKndoN6AqFvX2fu-S3cXX0WO7kvxfleLXMKqVdYNCvWeKe6_QXahkl7jvqzHBdbw3NRZs1Bp8Zx7zZSyCyh",
+        "width": 968
+      }
+    ],
+    "place_id": "ChIJdagOVA30K4gREKGHIE1xZyA",
+    "plus_code": {
+      "compound_code": "FF7H+V6 Waterloo, ON, Canada",
+      "global_code": "86MXFF7H+V6"
+    },
+    "rating": 1,
+    "reference": "ChIJdagOVA30K4gREKGHIE1xZyA",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "22 King Street South Suite 300, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4606528,
+        "lng": -80.5193951
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4619314802915,
+          "lng": -80.5180356697085
+        },
+        "southwest": {
+          "lat": 43.4592335197085,
+          "lng": -80.5207336302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Edward Jones - Financial Advisor",
+    "place_id": "ChIJt_d182z0K4gRNUGd8ft8RdU",
+    "plus_code": {
+      "compound_code": "FF6J+76 Waterloo, ON, Canada",
+      "global_code": "86MXFF6J+76"
+    },
+    "reference": "ChIJt_d182z0K4gRNUGd8ft8RdU",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "180 King Street South #150, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4564447,
+        "lng": -80.5319286
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4578570302915,
+          "lng": -80.5306259697085
+        },
+        "southwest": {
+          "lat": 43.4551590697085,
+          "lng": -80.5333239302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Sheila Matson, CPA, CA",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJTyKz7xf0K4gRMBaKtSlk3y4",
+    "plus_code": {
+      "compound_code": "FF49+H6 Waterloo, ON, Canada",
+      "global_code": "86MXFF49+H6"
+    },
+    "reference": "ChIJTyKz7xf0K4gRMBaKtSlk3y4",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "199 Alexandra Avenue, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4790947,
+        "lng": -80.5264504
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4804998802915,
+          "lng": -80.52522331970849
+        },
+        "southwest": {
+          "lat": 43.4778019197085,
+          "lng": -80.5279212802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Spruce Accounting Professional Corporation",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 270,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116647439876014518568\">Spruce Accounting Professional Corporation</a>"
+        ],
+        "photo_reference": "AeeoHcInH4S1AGcfvnaktloC8Cw1LrRC6FmuD3gWd3PRTck-pUPdMxHIqGNarHg6s9Z84kBl-V9ySCtWGQZL8RwrrP6duJGxyrhyIYeI29JdY_f5wlX84eVYZrzdQMuSjXo9iXhwfQhwc_cnlP5DUV1iGLoPmtTQ8FCiWpOiTtUrkBTMJAF9akmAxohka4gbB5F64O9lRu4zcqoIn4LUDILfYzwQljzNhAiB-tjkFAP_sV0rdZpUorb9yLQ3D_X0YCFG_WrYvjbA-OGiQDF14F8V-KBlP637KkVETw2uLwiPBZpjPSQLYjt6bNqRbjIePUPTBZTP7WJOPPo",
+        "width": 480
+      }
+    ],
+    "place_id": "ChIJ8wMCCPTzK4gRzJAMz5zkUQk",
+    "plus_code": {
+      "compound_code": "FFHF+JC Waterloo, ON, Canada",
+      "global_code": "86MXFFHF+JC"
+    },
+    "reference": "ChIJ8wMCCPTzK4gRzJAMz5zkUQk",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "318 Spruce Street #105, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4633148,
+        "lng": -80.4881699
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4647024802915,
+          "lng": -80.4868469197085
+        },
+        "southwest": {
+          "lat": 43.46200451970851,
+          "lng": -80.4895448802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "AccountingKW",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 5000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112441549503171138036\">AccountingKW</a>"
+        ],
+        "photo_reference": "AeeoHcKSGrkbgkTFFdYnmWxQ5prsO3sGpCOGzDlEa5QEOwtAxkdP3eDe4IIVQqFz6mngZlZ2MSArfPz8vUNLiqjbvgbc2E3Rckk8cLzGa18X1jnOrGzSHTDOooGk_PdSWCLbSaGRWybbJ6BQPut0FPfgBtHZAyMMj0_hH6b8wWI73jJn3RSQ-E5J1hBH2FA1Rv3ebPKEy-0ihBOIQUd5t09vMx3ONCkH0MPlGBsnyMo79i3D_QVnCk6PAnuxs2ocDCzbTWdNNhfbTscRzkqgbfWwUja4yvWADN8XMpW8Vw2V36E_jP2hdiOkREPuJ9edMAV1UNmiIfneBLM",
+        "width": 5000
+      }
+    ],
+    "place_id": "ChIJ-4KVzZr0K4gRjsXqnRRtwgE",
+    "plus_code": {
+      "compound_code": "FG76+8P Kitchener, ON, Canada",
+      "global_code": "86MXFG76+8P"
+    },
+    "rating": 4.9,
+    "reference": "ChIJ-4KVzZr0K4gRjsXqnRRtwgE",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 60,
+    "vicinity": "85 Edwin Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4516395,
+        "lng": -80.4925337
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4533341802915,
+          "lng": -80.49102961970848
+        },
+        "southwest": {
+          "lat": 43.4506362197085,
+          "lng": -80.4937275802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Simply Bookkeeping",
+    "place_id": "ChIJSUO-Le50K4gRFwJWQV7SE8U",
+    "plus_code": {
+      "compound_code": "FG24+MX Kitchener, ON, Canada",
+      "global_code": "86MXFG24+MX"
+    },
+    "rating": 1.8,
+    "reference": "ChIJSUO-Le50K4gRFwJWQV7SE8U",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5,
+    "vicinity": "Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4442762,
+        "lng": -80.495183
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.44571178029149,
+          "lng": -80.49379581970851
+        },
+        "southwest": {
+          "lat": 43.4430138197085,
+          "lng": -80.49649378029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dan Bechtold Ca",
+    "place_id": "ChIJKy_MOPf0K4gRv3XCqvFyD9A",
+    "plus_code": {
+      "compound_code": "CGV3+PW Kitchener, ON, Canada",
+      "global_code": "86MXCGV3+PW"
+    },
+    "rating": 4,
+    "reference": "ChIJKy_MOPf0K4gRv3XCqvFyD9A",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "15 Schneider Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44520899999999,
+        "lng": -80.49284349999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4465239802915,
+          "lng": -80.49152716970848
+        },
+        "southwest": {
+          "lat": 43.4438260197085,
+          "lng": -80.4942251302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dedicated Bookkeeping Solutions Inc.",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101101783702668253051\">Dedicated Bookkeeping Solutions Inc.</a>"
+        ],
+        "photo_reference": "AeeoHcJrIpaAsPfQWOj9Ro6zvznFfmeVojvdLfMXif4Z_KMBJxjS8MQeR9HBgARp_mlxGd1xVVCehoF8sVIWjyFn--sza48I254HUtpBeilkZ4JSZXSoFvvBa-V-6IZduklPHfV-7Tt9F_1O7avCFCZr0ruo5OwDLfDPe-pGRnjHoT3v_SsFYgc0B6CSWy0QzN9BxNDoQ3jZ2Jy0cchLkrUevLpzBWmXXygTch0T2f2r7ZIhRw3LeBCBbExY4J2Oh5lXqK0EVE4_saoQ-JKCtuA9gn_Jlr1l2jI6FjAuMHsxMkfjGHaCTC2N8zUEDQVKjlHGFBaBRPs-Hr0",
+        "width": 4592
+      }
+    ],
+    "place_id": "ChIJRTxlwPn0K4gRmKNVAT-xaXs",
+    "plus_code": {
+      "compound_code": "CGW4+3V Kitchener, ON, Canada",
+      "global_code": "86MXCGW4+3V"
+    },
+    "rating": 4.8,
+    "reference": "ChIJRTxlwPn0K4gRmKNVAT-xaXs",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 26,
+    "vicinity": "The Coach House, 379 Queen Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44520899999999,
+        "lng": -80.49284349999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4465239802915,
+          "lng": -80.49152716970848
+        },
+        "southwest": {
+          "lat": 43.4438260197085,
+          "lng": -80.4942251302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Deborah Hughes, CPA",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103630225542801277077\">Deborah Hughes, CPA</a>"
+        ],
+        "photo_reference": "AeeoHcK1QwIxp83zZbSve4YYH3HLU1fDN3lea3h6h-iUjA7byXHgxVBeJjpY8cX7IY8eugDBWzthGbTKPuWPNvbiReMYDIiJYZJW_lTiPAxKp6Lvvurh5v6LNgTRBHoAWiezCEHuh4Jh3bOgA6aQ3w-XHKAH3ZLUs6fcoVX05elYcluS7LRTg0rSJ7onfd-qKWpgNN1jpldOBQ_l1Ywf7eRfhOsgQ-efymnE-UstB3onLk3we66RDsFwnoku4XMhisCQM4sb4iyx3pY3UTWSFDrW-mri7oZK79d0xGutnrcOH5oYyJnjNT-VMeWx4V7PqE8k_QeMDDM7",
+        "width": 4592
+      }
+    ],
+    "place_id": "ChIJRTxlwPn0K4gRGL8aHBqrveM",
+    "plus_code": {
+      "compound_code": "CGW4+3V Kitchener, ON, Canada",
+      "global_code": "86MXCGW4+3V"
+    },
+    "rating": 5,
+    "reference": "ChIJRTxlwPn0K4gRGL8aHBqrveM",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "The Coach House, 379 Queen Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4923449,
+        "lng": -80.53825909999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.49373273029151,
+          "lng": -80.5370049197085
+        },
+        "southwest": {
+          "lat": 43.49103476970851,
+          "lng": -80.5397028802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "MAC LLP",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114595817457583994169\">J C</a>"
+        ],
+        "photo_reference": "AeeoHcIgIKfEdWf162KPxhVaC6tmL1jTOM1JlqdegrhFfuOPnD5hSB9F9HJA8JQRfRNuQH7taVVmMYduJtrMwKHpxuYVbrzHLPG93w_wikBrVktRbaA4xE6xXBDe6A8aptUGYRBNfE34h5Dqsgo07SjIVF3IcNBzUo16jRLp_M37uK6WnL5xz3YCJSB645j-pL1U6sAYPy6TeTvyIa6uGRqw_Pi85oJL1HeH4HgHzNGE7LFGQbTAtghDW-PvVJpLmZeLn_FTBJD3eLr0CN_Or7wsy7VzFS2x9zVuohKQ6TVuZNKG9NLJAGn4F4Y3EU4rLmH-BOiR-havwLr_J3SpQtwlp6Bexyh7Jv3B_WSwvxovNB9ColLA6vVVJ0INUcBHw7KSYuJHHD1xm2dES7BAfEzaiXBIn1swAUJG1iGfBWZpif3PZRRybFepL_D1GpFVcgyGKj4Gm1If5bp-OFBGxN0xd8WJHPl8aPZEOGqGFN4FaSUHhhOGclEEUM749D1A9k-q3OghGiaTfYQtVJfXxqiK3PRB6gOdL_LY2U6DeHAvh6RnL1X1t3GiZqCVT42tDY2GZ6UYCqrF6k0p_iS5tBzQniQSGjPD5wBuRI-Z2r-gGj-nC4krjxdZn0c2NCpqmNUE1pJbhw",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJd-dDyuDzK4gR5Dj5kxj6ahc",
+    "plus_code": {
+      "compound_code": "FFR6+WM Waterloo, ON, Canada",
+      "global_code": "86MXFFR6+WM"
+    },
+    "rating": 4.3,
+    "reference": "ChIJd-dDyuDzK4gR5Dj5kxj6ahc",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6,
+    "vicinity": "510 Weber Street North, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4773479,
+        "lng": -80.48160279999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4786474302915,
+          "lng": -80.48044581970849
+        },
+        "southwest": {
+          "lat": 43.4759494697085,
+          "lng": -80.4831437802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dallmeier Accounting Professional Corporation",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJC8UwjGbzK4gRhCeIzzjnCnU",
+    "plus_code": {
+      "compound_code": "FGG9+W9 Kitchener, ON, Canada",
+      "global_code": "86MXFGG9+W9"
+    },
+    "rating": 5,
+    "reference": "ChIJC8UwjGbzK4gRhCeIzzjnCnU",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5,
+    "vicinity": "650 Riverbend Drive a2, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4773933,
+        "lng": -80.48161800000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4786780802915,
+          "lng": -80.48045731970849
+        },
+        "southwest": {
+          "lat": 43.4759801197085,
+          "lng": -80.48315528029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "RLB LLP - Kitchener Office",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1334,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105245372361161612362\">RLB LLP - Kitchener Office</a>"
+        ],
+        "photo_reference": "AeeoHcJbJ5S5c-6c-3OYWZH0VbIF8Owgn_nRAXR8j0eKWl8RgrlWNAekU7ue141NjVSQfGYSQU8MuxJu7OFrSkIqQ4yqp8Ce8bj2jEyJt0oWf7Oubw-0YnTC5TDiKYkEBVjtflHhUc5P4_dVkuNCHxgUULLxH-NRSNB4Mj2M3fzs5elenql48xZSGqXiTvnLSogekqkmJ8M3KjV1oXaBRlYQ-bNTxCvHv82GQQRaAW8Sr-l-zX7Fdu2xuGUAm93M9iojxFrrrLYy9U9kowXS7lYDVKqJjXYEFIuQYo_a4Up-VCtZppxr_j7sXLWiK6ld0m9gnEJw0J_kH8A",
+        "width": 2000
+      }
+    ],
+    "place_id": "ChIJGdJM2s7zK4gRHv-HsZBQXIw",
+    "plus_code": {
+      "compound_code": "FGG9+X9 Kitchener, ON, Canada",
+      "global_code": "86MXFGG9+X9"
+    },
+    "rating": 4,
+    "reference": "ChIJGdJM2s7zK4gRHv-HsZBQXIw",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 12,
+    "vicinity": "650 Riverbend Drive b, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4554897,
+        "lng": -80.4789227
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45675183029151,
+          "lng": -80.4774826197085
+        },
+        "southwest": {
+          "lat": 43.45405386970851,
+          "lng": -80.4801805802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Brixton, Thomas & Ahmad LLP",
+    "place_id": "ChIJfbdR25X0K4gRubNzACX4bYI",
+    "plus_code": {
+      "compound_code": "FG4C+5C Kitchener, ON, Canada",
+      "global_code": "86MXFG4C+5C"
+    },
+    "reference": "ChIJfbdR25X0K4gRubNzACX4bYI",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "274 Frederick Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4751428,
+        "lng": -80.4787341
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4765383802915,
+          "lng": -80.47749211970849
+        },
+        "southwest": {
+          "lat": 43.4738404197085,
+          "lng": -80.4801900802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Argyle Bookkeeping Services Inc.,",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJe4hrXAYDWkARksvFnWfjsiM",
+    "plus_code": {
+      "compound_code": "FGGC+3G Waterloo, ON, Canada",
+      "global_code": "86MXFGGC+3G"
+    },
+    "reference": "ChIJe4hrXAYDWkARksvFnWfjsiM",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "508 Riverbend Drive #304, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4979436,
+        "lng": -80.52682829999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4997896802915,
+          "lng": -80.52527846970848
+        },
+        "southwest": {
+          "lat": 43.4970917197085,
+          "lng": -80.52797643029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "H&R Block",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1667,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110399889283513267642\">H&amp;R Block</a>"
+        ],
+        "photo_reference": "AeeoHcJ8OykgKQOni5uBgFbd3LOX-1vmEMG_kVNu1Rp8lgR_lXz__6-s2sfzfLpKWBMYlkaf-4ov_FXOJXaxkyqCyvJtfSh9j26HMgEa-PsbzMrwFRsbj5s1-hCc3ljbnme2ExmvNCuFEzHwJdWB2KAJ6i69ISudrZTWr9W2YpEYUMiIeR3CEJ1McM0HNXeqhtXTO2DEEUG07OfGVbPBtGsEXiyf4BqmWit21G31hr2iOs9WjO_cevnYaXtugbGXDR-nqIYUxzsHQTEr-VzeH-9S2oSUn6uN4xMeZjFWqooayvrxcaG96ykx8FMggJhS1Aj3L-0c4olN1Nc",
+        "width": 2500
+      }
+    ],
+    "place_id": "ChIJbwAUVsHzK4gREZi64gI4TZs",
+    "plus_code": {
+      "compound_code": "FFXF+57 Waterloo, ON, Canada",
+      "global_code": "86MXFFXF+57"
+    },
+    "rating": 4,
+    "reference": "ChIJbwAUVsHzK4gREZi64gI4TZs",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 25,
+    "vicinity": "550 King Street North Kiosk, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4932754,
+        "lng": -80.5479666
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4945247302915,
+          "lng": -80.54653991970848
+        },
+        "southwest": {
+          "lat": 43.4918267697085,
+          "lng": -80.5492378802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Start To Finish Bookkeeping Services",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJdzqFXl7xK4gR0Qw-wPSlsrA",
+    "plus_code": {
+      "compound_code": "FFV2+8R Waterloo, ON, Canada",
+      "global_code": "86MXFFV2+8R"
+    },
+    "reference": "ChIJdzqFXl7xK4gR0Qw-wPSlsrA",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "604 Mount Anne Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.49751699999999,
+        "lng": -80.544061
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4988882802915,
+          "lng": -80.5427276697085
+        },
+        "southwest": {
+          "lat": 43.4961903197085,
+          "lng": -80.5454256302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "MNP LLP - Accounting, Business Consulting and Tax Services",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112331082946922752409\">MNP LLP - Accounting, Business Consulting and Tax Services</a>"
+        ],
+        "photo_reference": "AeeoHcJv_PeiZisrTgoo7PHp0WOKrjwKeYuJtPazt3t4RLJ5zRY0dQmjmGamt3oe9DcNkunT5OHjc_A3nxUQp-4uCwdy2dI0ghEg95bYf2Z4LXFxIvXpRESGCi_1pJl7jfvC1L-ilKvvQArjdTnRjrHg51q6Z6pxvf9xRHoVOQ59uZC8UqV7EiT7Hp9HhW7LibSJ4UdL3DPZnvW1kvHO9nKzF8xIM4AvYf1Fof4dA-47JmB4oQHjuWZIYuHLaoXEaGm9cZls4i__3zUA06eb960j3zEyp7lNRebMufFfSBEPwXG4SWZkAmxOKupGCelVUSE9d8MoR-Ubi2M",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJGbcetF_xK4gRYXrTqhJXGHg",
+    "plus_code": {
+      "compound_code": "FFX4+29 Waterloo, ON, Canada",
+      "global_code": "86MXFFX4+29"
+    },
+    "rating": 5,
+    "reference": "ChIJGbcetF_xK4gRYXrTqhJXGHg",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5,
+    "vicinity": "139 Northfield Drive West #3, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.49737509999999,
+        "lng": -80.54723129999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.49890313029149,
+          "lng": -80.54594941970849
+        },
+        "southwest": {
+          "lat": 43.4962051697085,
+          "lng": -80.5486473802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Baker Tilly Canada Cooperative (formerly Collins Barrow National Cooperative Incorporated)",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJMzhV9_L0K4gRyBPYdRMBi5c",
+    "plus_code": {
+      "compound_code": "FFW3+X4 Waterloo, ON, Canada",
+      "global_code": "86MXFFW3+X4"
+    },
+    "rating": 1,
+    "reference": "ChIJMzhV9_L0K4gRyBPYdRMBi5c",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "180 Northfield Drive West #4, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5030496,
+        "lng": -80.5276804
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5044131302915,
+          "lng": -80.52638091970849
+        },
+        "southwest": {
+          "lat": 43.5017151697085,
+          "lng": -80.52907888029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "AC Cloud Inc.",
+    "place_id": "ChIJ36QqWM_zK4gRO5Nj49BNR0A",
+    "plus_code": {
+      "compound_code": "GF3C+6W Waterloo, ON, Canada",
+      "global_code": "86MXGF3C+6W"
+    },
+    "reference": "ChIJ36QqWM_zK4gRO5Nj49BNR0A",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "55 Northfield Drive East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4112253,
+        "lng": -80.4733254
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.41250918029151,
+          "lng": -80.47187626970849
+        },
+        "southwest": {
+          "lat": 43.40981121970851,
+          "lng": -80.4745742302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Prestige Home Inspection Service",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2252,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105902620286898854096\">Prestige Home Inspection Service</a>"
+        ],
+        "photo_reference": "AeeoHcKeOxjc86FhAk_K8AGt__t_J-5C4U_6ok0QgUMHPMHz0ZrD7W5F1bZbzPaDMVjiH4wTG3hxpSRG1EPq1EIqT71w67OuUaCr6JTA2Kt7APQTM-R7_YS3trfnUAEIAvLzyv8kra_W-up7cUEVLMt3_btNWZmAfpfyCJU4OYJSkGzBW-AnsZgMI-scr_AYV6_dZaQK3m2OssBhutPwN7HssMhTG8ZW1U2LrAE-BmD5yEarNNwcSCqweH6A3BKWPQgbyBTecAcgjVFareDHieCZja_Cc36J5xNaF9lXJqqJZ19Bp7InA8KGREx-dGaWV-cseg4hMTFilVg",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJ_0XedZ5lLIgR5fBbVj6Ls6E",
+    "plus_code": {
+      "compound_code": "CG6G+FM Kitchener, ON, Canada",
+      "global_code": "86MXCG6G+FM"
+    },
+    "rating": 5,
+    "reference": "ChIJ_0XedZ5lLIgR5fBbVj6Ls6E",
+    "scope": "GOOGLE",
+    "types": [
+      "roofing_contractor",
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 44,
+    "vicinity": "11 Devonglen Drive, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.43978560000001,
+        "lng": -80.465349
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4410621302915,
+          "lng": -80.4639854697085
+        },
+        "southwest": {
+          "lat": 43.4383641697085,
+          "lng": -80.46668343029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Gary J Martin Professional Corporation",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ-QgQwKD0K4gRSm3PW1A3M2g",
+    "plus_code": {
+      "compound_code": "CGQM+WV Kitchener, ON, Canada",
+      "global_code": "86MXCGQM+WV"
+    },
+    "reference": "ChIJ-QgQwKD0K4gRSm3PW1A3M2g",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "1448 King Street East, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5124628,
+        "lng": -80.5287987
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5137790802915,
+          "lng": -80.52721971970848
+        },
+        "southwest": {
+          "lat": 43.5110811197085,
+          "lng": -80.52991768029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Ironbooks Inc.",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ08Tay8zzK4gRYffoQ0ZUnaU",
+    "plus_code": {
+      "compound_code": "GF6C+XF Waterloo, ON, Canada",
+      "global_code": "86MXGF6C+XF"
+    },
+    "rating": 5,
+    "reference": "ChIJ08Tay8zzK4gRYffoQ0ZUnaU",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "200 Bathurst Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4249393,
+        "lng": -80.47422790000002
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4261881802915,
+          "lng": -80.47275831970852
+        },
+        "southwest": {
+          "lat": 43.4234902197085,
+          "lng": -80.47545628029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Advantage Accounting",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105306773549297829173\">Advantage Accounting</a>"
+        ],
+        "photo_reference": "AeeoHcIJ9ge5Z1XnvueQBKkAOuXxqFJnXtAVmXTBqMtCdqvIxuvMkBAWOf6hwHZ-MB_Y-XXL5p45-x0NkNKhVM0GyAmYuLY7gMgWRMI6G58EUTI7UhW-4ARyQUHDWxhPmuwXVyWDm4EK18mvy6NAR5_zw9qEn0NabroeT9XddpOTHZ9onf8vecqoXRTNCDxCBPCxel6CrTFXLqzdt3EQZ-mNd27KCn1267I9S-guTnvkZYQCWrlkHQgVl6maSAp6z2cejoPMxQp2YfseIf_xRaiYluiHkIp3htzzNfUrEoIs5Yk-mP-pEqPUdsXl9gtle0l1TY5mfyF1fus",
+        "width": 1200
+      }
+    ],
+    "place_id": "ChIJpyPz2MyKK4gRsIHRKcz5jvs",
+    "plus_code": {
+      "compound_code": "CGFG+X8 Kitchener, ON, Canada",
+      "global_code": "86MXCGFG+X8"
+    },
+    "rating": 3.8,
+    "reference": "ChIJpyPz2MyKK4gRsIHRKcz5jvs",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "local_government_office",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 17,
+    "vicinity": "20 Hanson Avenue #5, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.50929629999999,
+        "lng": -80.46184939999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5105895302915,
+          "lng": -80.46077701970849
+        },
+        "southwest": {
+          "lat": 43.5078915697085,
+          "lng": -80.4634749802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Scott Nosal Professional Corporation",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJAUMGW9byK4gRjj2WElC09T8",
+    "plus_code": {
+      "compound_code": "GG5Q+P7 Bloomingdale, ON, Canada",
+      "global_code": "86MXGG5Q+P7"
+    },
+    "reference": "ChIJAUMGW9byK4gRjj2WElC09T8",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "832 Sawmill Road, Bloomingdale"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.40719759999999,
+        "lng": -80.5024257
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4084112802915,
+          "lng": -80.5008808697085
+        },
+        "southwest": {
+          "lat": 43.4057133197085,
+          "lng": -80.5035788302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Informative Tax Inc",
+    "place_id": "ChIJPyUMMZ31K4gRmaNxr19edpE",
+    "plus_code": {
+      "compound_code": "CF4X+V2 Kitchener, ON, Canada",
+      "global_code": "86MXCF4X+V2"
+    },
+    "rating": 4,
+    "reference": "ChIJPyUMMZ31K4gRmaNxr19edpE",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "1187 Fischer-Hallman Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.42391490000001,
+        "lng": -80.4404318
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4252921802915,
+          "lng": -80.43928886970849
+        },
+        "southwest": {
+          "lat": 43.4225942197085,
+          "lng": -80.44198683029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "H&R Block",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1667,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101591354497882039468\">H&amp;R Block</a>"
+        ],
+        "photo_reference": "AeeoHcJ_A9Ee7x8nyjUANEGbFcsTNnTIgpvisti2NOTcRYf4wyBs9HU-fA2uu-2u7ikRjZWi946Lp6IjOAXMqTrK5stjp76TkRpsX3zadTTdqslX-nY5fTwpJf_pSVdKZDcjUrCtGk9KU4dbJxcAUc_GvflDAmz5o0BYZxIQJm7Oa-P1ubkC_PNP6VJc37OV6LAUr1W5HhgK9OXzW-sFe614d0ahCHxwuaBuTAZ5pjMMM9Ku3846BCksGTxjKAK5MkKA84iSDVt1b6XpSQj6hrPKh1mvVDsDyelakaqP0N9ZBb9hReIxFg1wDvYVwlqjWZ1Pss93oXp9vI4",
+        "width": 2500
+      }
+    ],
+    "place_id": "ChIJd-XgfOD0K4gReo39_vV_eqs",
+    "plus_code": {
+      "compound_code": "CHF5+HR Kitchener, ON, Canada",
+      "global_code": "86MXCHF5+HR"
+    },
+    "rating": 4.1,
+    "reference": "ChIJd-XgfOD0K4gReo39_vV_eqs",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 49,
+    "vicinity": "N002A, 2960 Kingsway Drive, Kitchener"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4089456,
+        "lng": -80.5027087
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.41228565000001,
+          "lng": -80.49981539999999
+        },
+        "southwest": {
+          "lat": 43.40701305,
+          "lng": -80.50376299999999
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Highbrook Park",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108084935809631148690\">Trevor Heywood</a>"
+        ],
+        "photo_reference": "AeeoHcJzmUzi3mK9rJPS7W5ZhEKcSSlZDojUbLPcRxSr5JY-xxMzfzgrsle46AprCvdjJ3X3XgVljFMeHfCrPThLFufEp8U93YgnMdfF2VlM52x7dpy26oEM0MnD7v7825QbKuWh1pKtzTTylnb_XxGHZM5_epJmKU11mU0x2UBOJqZhvOSKW7N7WFOqGraqvArifloqB9pqzoQ7TPoQHDGmGphG0uNkG-rKrIyK8rnULVSd4V_GZ-NiCO_o_WZR1nOacn5dvvgP4JAUA27oTmbRW60cg0ZdFq0dtqXv0Cb4svEJ1K6O15qDQx3sZTBOfCGDXkHFX9Ihgo5tZV3KAnAoUJj9hgdJvuB7PTQ9qRBp3ObIDoZW3JilHSuI5-iBD7CSoztbSTfamOc7Xn3yFwhDaH44-Yr9zxhQ-_vIX_Be8heWVFjxofyChgntsu09VcohD_IQS_UdZm2LNwVNvZIHuLdKA997ygE_pFZnOdCIJqgvg85nSDHOBibTO-ThvTSQE2nBtAn8D0PnS9RbqV9QZz-4NiTzevKC_gJz0qiH_iW-10-Rv_6iP24zgZYphCZe-bO-RxoKljcaDzkWFZTD1X2I18x7NnZeZvmt0mnxwnJ-rdAVm00QHCoz8qBHnJSBfNE8tQ",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJd3TmoZv1K4gRyRsK7ERE4vA",
+    "plus_code": {
+      "compound_code": "CF5W+HW Kitchener, ON, Canada",
+      "global_code": "86MXCF5W+HW"
+    },
+    "rating": 4.7,
+    "reference": "ChIJd3TmoZv1K4gRyRsK7ERE4vA",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "zoo",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 22,
+    "vicinity": "Kitchener"
+  }
+]

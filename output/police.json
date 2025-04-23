@@ -1,0 +1,296 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4753143,
+        "lng": -80.5244582
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47676053029149,
+          "lng": -80.52313371970851
+        },
+        "southwest": {
+          "lat": 43.4740625697085,
+          "lng": -80.52583168029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "WLU Campus Police",
+    "place_id": "ChIJ48SQHfbzK4gRbeX3o7re58g",
+    "plus_code": {
+      "compound_code": "FFGG+46 Waterloo, ON, Canada",
+      "global_code": "86MXFFGG+46"
+    },
+    "reference": "ChIJ48SQHfbzK4gRbeX3o7re58g",
+    "scope": "GOOGLE",
+    "types": [
+      "police",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "75 University Avenue West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4538534,
+        "lng": -80.4828819
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45496483029149,
+          "lng": -80.48128921970849
+        },
+        "southwest": {
+          "lat": 43.4522668697085,
+          "lng": -80.48398718029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Waterloo Regional Police Central Division",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116123438045668368103\">Waterloo Regional Police Central Division</a>"
+        ],
+        "photo_reference": "AeeoHcLTqTUpEaMLXRjK3zdFJb2tquAbhsZdquu05L301QgRhnPWrPpSPbzG5_RgF4M5Pr0Y1d3S_C-dVYJ-YlcAc-6KBzbX7T2pJ2JvYxaqdmRV0ueJziwowCpd089_eiKpB0szEqqSq3LlJeHWoZ_kBRgyIEQ7bIjqsnrZwk1RhyVd90zI3Q_a6JXJmOhfGP_BbL9wJzXQOEy0S6-E6EnIQKqsNo9DS7HIqvJBdG3nzwcN2ZcPV7zUBkU4K5MxBQ2QIu5y3960MBUe7TXu5Vhv2_3ZiVUtgbuWRfyS-z-4Ljw9YylKC30ex7BR3uq4-tjwG_uTMcbvmyQ",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJleTZKpP0K4gR29Dhg8EMWBw",
+    "plus_code": {
+      "compound_code": "FG38+GR Kitchener, ON, Canada",
+      "global_code": "86MXFG38+GR"
+    },
+    "reference": "ChIJleTZKpP0K4gR29Dhg8EMWBw",
+    "scope": "GOOGLE",
+    "types": [
+      "police",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "200 Frederick Street, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4824095,
+        "lng": -80.5230335
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4837914802915,
+          "lng": -80.5215921197085
+        },
+        "southwest": {
+          "lat": 43.4810935197085,
+          "lng": -80.52429008029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Waterloo Regional Police North Division",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3744,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115753456129920759868\">Waterloo Regional Police North Division</a>"
+        ],
+        "photo_reference": "AeeoHcJfugQ--lwBABdogmc9l4kfOXVwNUaybG2AC_ttG_AWKO6-C4RkNxHg67X2cRjqPMd6hBbqfMiNV1u73M9re-aMFceTf_FTukGWMXlzssGFyRsFMFbMiFCEMhdvRFdPnOHGs_Q8rApfV4osL36TU1rHnpiwKRUdMoslzGL4DRft678oBaws2Bvhj1oHqm0cxCD_Wg7xkqYZDRtljIZtH-F6gE1bObawnc91Q5T8f6D9Ce7tqkskFe3dXCay0Bs7pVGTO1m7jjYQAKzwbcF-PK67IE0-nV59Y3TYxoCrE5607fBiPXk7-QZG7ieURbr7RaTz5avxsyM",
+        "width": 5616
+      }
+    ],
+    "place_id": "ChIJiUEGVO3zK4gRKAyUMzgFCPo",
+    "plus_code": {
+      "compound_code": "FFJG+XQ Waterloo, ON, Canada",
+      "global_code": "86MXFFJG+XQ"
+    },
+    "reference": "ChIJiUEGVO3zK4gRKAyUMzgFCPo",
+    "scope": "GOOGLE",
+    "types": [
+      "police",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "45 Columbia Street East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4824095,
+        "lng": -80.5230335
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4837914802915,
+          "lng": -80.5215921197085
+        },
+        "southwest": {
+          "lat": 43.4810935197085,
+          "lng": -80.52429008029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Police Collision Reporting Centre",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 899,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112071397526570741928\">Police Collision Reporting Centre</a>"
+        ],
+        "photo_reference": "AeeoHcJ3k9qn1_3LjOb1QTk8j_jNx57hr1YceP8oWr1ryfGJlorzdngxcpT_m3eNpsT4oAeYJcczpd4d4IZjsYsvFIVnsvnNfOtkWr4RgppHGF-LFVr1Ls8OK9tOqFMs0zAL4OwYPlzm_Dcp2Yvxbl3_PQXMaUfmd_VV3Q4JtMxQ1_dcXLLnON4iehZwVWNmNMRyL13Yw36i9YnddT1LeegpMHc0maBS5RgzaPeLuoM4TPXdEsjIfRCvvE3u3W2angHnT8CysHZwFQc4_pm_RIhGXzl7pLcOma6m1Av_5jA-k2lQrELA0idiXn-UiGLE5Upw0YL8IWkp5sI",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJI_Vn96TzK4gRLG0uKDDQlLQ",
+    "plus_code": {
+      "compound_code": "FFJG+XQ Waterloo, ON, Canada",
+      "global_code": "86MXFFJG+XQ"
+    },
+    "reference": "ChIJI_Vn96TzK4gRLG0uKDDQlLQ",
+    "scope": "GOOGLE",
+    "types": [
+      "police",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "45 Columbia Street East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4743378,
+        "lng": -80.5427595
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4755669802915,
+          "lng": -80.5412469697085
+        },
+        "southwest": {
+          "lat": 43.4728690197085,
+          "lng": -80.5439449302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "University of Waterloo Special Constable Services",
+    "place_id": "ChIJExaog7r1K4gRma13LYiXByk",
+    "plus_code": {
+      "compound_code": "FFF4+PV Waterloo, ON, Canada",
+      "global_code": "86MXFFF4+PV"
+    },
+    "reference": "ChIJExaog7r1K4gRma13LYiXByk",
+    "scope": "GOOGLE",
+    "types": [
+      "police",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.41503859999999,
+        "lng": -80.51315799999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4163886802915,
+          "lng": -80.5118108697085
+        },
+        "southwest": {
+          "lat": 43.41369071970851,
+          "lng": -80.5145088302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Red Light Camera",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJU1LSN0_1K4gRrIKwAOI3vQ0",
+    "plus_code": {
+      "compound_code": "CF8P+2P Kitchener, ON, Canada",
+      "global_code": "86MXCF8P+2P"
+    },
+    "reference": "ChIJU1LSN0_1K4gRrIKwAOI3vQ0",
+    "scope": "GOOGLE",
+    "types": [
+      "police",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "1429 Ottawa Street South #1439, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5141526,
+        "lng": -80.4979997
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5155604802915,
+          "lng": -80.49660846970849
+        },
+        "southwest": {
+          "lat": 43.5128625197085,
+          "lng": -80.4993064302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Police",
+    "place_id": "ChIJE3tLjw3zK4gRlPemqmRadrQ",
+    "plus_code": {
+      "compound_code": "GG72+MR Waterloo, ON, Canada",
+      "global_code": "86MXGG72+MR"
+    },
+    "reference": "ChIJE3tLjw3zK4gRlPemqmRadrQ",
+    "scope": "GOOGLE",
+    "types": [
+      "police",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "911 University Avenue, Waterloo"
+  }
+]

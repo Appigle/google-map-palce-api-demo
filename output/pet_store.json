@@ -1,0 +1,1350 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4191092,
+        "lng": -80.4437233
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4205079302915,
+          "lng": -80.4423377697085
+        },
+        "southwest": {
+          "lat": 43.4178099697085,
+          "lng": -80.44503573029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Big Al's Aquarium Services",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101038344528051208666\">Jeff Mulder</a>"
+        ],
+        "photo_reference": "AeeoHcLR1WlbveidsKZgnCSjlEPtVWmD_PyefoFpkNdv9MK_esWEBKiq2w34HU4DM9ipIJcvShNtd7AwhBqA9Dc1TAyVHPEbZz6vHMN4ntUEgUwEwNlNR4BuC4bhOGHxUiF5XqNZ90XVFtOsMsqu3v3Uo3WoFGaInDUswMQAwXVGzV169iOJ4DgybEkPIAMsXC7MqhE4o_pxw3677bMUXVoWKm8OSMZoT75nddHwm8ehpJabgiOQSXRI7loPAQtAEIx_4oqToMgKRsyt8byLPXjBSnF2BawWCXdbGQZX5f29wbCx_yQ_xL9R1ELIsiiaG2AkGpDFAypg8s74RuBanMz1Gl30DlSVRXFuygN28sp4ovLdLsK0jKbJUYX18c0SD09Wjp98iSx2IzsuAxBgcafeQUqSAzk9uFXpFwaNFuymjQPySAfhdsZ6OIdhX8PLgJc-gMeu6UEh_GQ_pq-OnLBeN8xyiLBkqaxVYUT73F1ZZHBWN3V16cBf68ZjY8Op428wf4mgFxgqAHwxwgs5xXHxUII9rZxRBVtI5MJlWVBEQ8ccsl3zIHG__x-EOnS160s-WSqn-3muJsx9xcnCyy2IUer8BOu8b0_JhRuN1Zija2Kc2o2ytmP1I2lHAxfZNacjnt7MhOHt",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJv4HKt9qKK4gReZAlgv015Ks",
+    "plus_code": {
+      "compound_code": "CH94+JG Kitchener, ON, Canada",
+      "global_code": "86MXCH94+JG"
+    },
+    "rating": 4.3,
+    "reference": "ChIJv4HKt9qKK4gReZAlgv015Ks",
+    "scope": "GOOGLE",
+    "types": [
+      "pet_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 1743,
+    "vicinity": "509 Wilson Avenue, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.44924770000001,
+        "lng": -80.4455859
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4504172302915,
+          "lng": -80.44428816970849
+        },
+        "southwest": {
+          "lat": 43.4477192697085,
+          "lng": -80.44698613029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Pet Valu",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1603,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101855077137007315863\">Travis Merkley</a>"
+        ],
+        "photo_reference": "AeeoHcJBB4TxtKsLmttVdZR5HIzEiz8GratDiGojzevQiFpJft5bfk5K16qXQIE8w4PDesPaqdR4n2kVyhbRBBJR2oXd5al-4A3ENy0h_pZIcYnGU7Rud23kwlUAuSrd-3l9Z9kqgDCDRwlIKB0it2hLdQRuRUe_AZ7g7RvlbaLjZLkwtffCqhpdZgxm2eKAcOePQAJO1emqmZC9K6l2v0cHeO5iF22kk454vufyfuwi5eWGbRF1cMtqDsrJ3p5ZYINfDAoHvG22sHYTPs-14imsvbhZXA2zBHGrI1LXfkb8mdUV5pQUsvmb_1PrH20XFM4Ix4KWYqDmrVOuS-G9ieEoXqvF9eLr1x-O0Uz-zrfTLh9X1TyHl4LWitijdFJ6mxgpvpVqqzI6dd9yk5HaT9-Tdq4w9ol0et-OW8q95CNptUCb3eigAedOVoxWTmkq8DagX-klKXq7RGRRs0_tl71U1j2QmwFI64EH_x_dkMd6O1rvEsadEdAwx5GGLk3ZDqCSc6g6c3Bnc19ClRogN-O4MUUiz9R9tlI08PO-fzGFJRZPLsJwYyQJku80YOwTiMs1rrcE3g54QT6cN7sP-qlwWLcC9sjBftEwXwyXxHQBF13hu8ze5aUj1Eh5jiNs8I1LQ2fRBg",
+        "width": 1861
+      }
+    ],
+    "place_id": "ChIJHWA_TkiLK4gRcI8mPRmQnP0",
+    "plus_code": {
+      "compound_code": "CHX3+MQ Kitchener, ON, Canada",
+      "global_code": "86MXCHX3+MQ"
+    },
+    "rating": 4.6,
+    "reference": "ChIJHWA_TkiLK4gRcI8mPRmQnP0",
+    "scope": "GOOGLE",
+    "types": [
+      "pet_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 227,
+    "vicinity": "1005 Ottawa Street North, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.41334389999999,
+        "lng": -80.480358
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.41472193029149,
+          "lng": -80.47885981970848
+        },
+        "southwest": {
+          "lat": 43.4120239697085,
+          "lng": -80.4815577802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Global Pet Foods",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2988,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116305691841104010397\">Jay Penney</a>"
+        ],
+        "photo_reference": "AeeoHcLc4-nrum21rIN45qhc_Z7IjxGTB-yp9gGboMjiHH18CubXHzITzFp3RbnxnMc4nhrlSja296ggZXX6OBKDjt8jFhLUZ4xACMq8yFksqVDPuSZ5qIP5pDTXJ0hgzCcmffa2p2ztgUtAajiY4rvuLY_a_syGtQ9IiOjeuuLqH7Gg24ewFQzxH4f7-l4_cb2Y-I64cExeqzXyc50PF6UtxAoK7PhhTP4Bq8dFo02-q-i94XeOxuVuxSRHDuaP6DL0FLBaqRDahXi1VNGYEfeheIsEV48yU1trgnJB7e1YerOfMEZr8zolp-TFmgULIR1AL_6dXbS43HS0qC5evNz7F7Y_TiU-lxSma3IeUd-X93suu9UrXFFVZXfCj57d2NsdzVOLNJVaQT2Dw9BYRr0WIfE-x9ltI9fOyTWZ3Sr1HTM2RKiF9tNVWMzPOwcmfkZ-GRe9mj_zHw0AdUh1YJ_X7EHCQP_3toTN5hRR5GWT22IMxTMlNwFV3km2K_PcFdEprcA-jQXfJIqpbkDOgspY8XjhNtz1-YWxidEtM_-PvZIS9mZB70lAYOFVH51vLots0hjKn9SLxHmh2cTipgb0rr3iQ_wRFEugWcr3uW7dekteZX3h5Ef7FnsdLjMLysndQu2KpsIp",
+        "width": 5312
+      }
+    ],
+    "place_id": "ChIJoVKOURX1K4gRxlPn5I7mjgw",
+    "plus_code": {
+      "compound_code": "CG79+8V Kitchener, ON, Canada",
+      "global_code": "86MXCG79+8V"
+    },
+    "rating": 4.5,
+    "reference": "ChIJoVKOURX1K4gRxlPn5I7mjgw",
+    "scope": "GOOGLE",
+    "types": [
+      "pet_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 217,
+    "vicinity": "700 Strasburg Road Unit 13, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4331218,
+        "lng": -80.4413769
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4344496302915,
+          "lng": -80.4399706697085
+        },
+        "southwest": {
+          "lat": 43.4317516697085,
+          "lng": -80.44266863029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "CB Pet Food & Supplies",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111397641224719226337\">Lalo Salamanca-Varga (Ραρι lαlσ Ѕαlαмαиçα)</a>"
+        ],
+        "photo_reference": "AeeoHcIzVKffMDZUvXThBPa5-4xpkwEqew0DlSq12_mJmKf3RcNxz8g0Qk1W18K42rI5Y4TR0kvXtONxd0MI3K2D53bl9VZAHNlE0m6ly7y91jb9gxhOacpmXVnvxR9yfsxdK8-3UHWW5JHLY-P88dit55Uc1UvFKnpmIX0E-S-38B6Og4-ngZvwj5-UkHG8eMiTBUGiPFxGivxZzoqrfNjWqBzRMvxaG7cAGK9uLrW-nqefLf3QYzjUVvQeeaKeW1I9hEBAdNzkIYm56mUEq2B2OChF1_8i-anwfHd7sPMG4emCpYpX_7urLs7OpKzG15oWfsUMJ6Mj_Ku_cXBaqOIHgXXbHCPdJR7jFDv3lWGon_rlZxPvxcxJJWBY0REOsTnr59LpSl5M0HzCNji3b6UMkxwN6GT6w3sqmiJ3YIZeYX6u5TtafKuOVafTQLy8Y_tCRDepGuYcCFjklZ-Nv0Pkr7vnrKwaJnfObsTAO7FZ7V7SFLufF0OstaNNtSSiXk3hld82WNyJOnjFoJ5enyadb-S-8nboHzFGLtRP2cuEwwZL3LwswTdjfDxsAVQZEmid1RjXCQ3I-maI6s3HHEXKQV6CcHgIvgSujlwgqEc8bNEaWlisssdc4OI9W45vEYXTWsg4qeaH",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ7wpyeiaLK4gR8eSxEZCaKMk",
+    "plus_code": {
+      "compound_code": "CHM5+6C Kitchener, ON, Canada",
+      "global_code": "86MXCHM5+6C"
+    },
+    "rating": 4.7,
+    "reference": "ChIJ7wpyeiaLK4gR8eSxEZCaKMk",
+    "scope": "GOOGLE",
+    "types": [
+      "pet_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 185,
+    "vicinity": "1335 Weber Street East #1, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4561597,
+        "lng": -80.46142019999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45756528029149,
+          "lng": -80.45991681970848
+        },
+        "southwest": {
+          "lat": 43.45486731970849,
+          "lng": -80.4626147802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Best In Show Dog Supplies",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJr8WfbJ_0K4gReOKtFsgtlMw",
+    "plus_code": {
+      "compound_code": "FG4Q+FC Kitchener, ON, Canada",
+      "global_code": "86MXFG4Q+FC"
+    },
+    "rating": 5,
+    "reference": "ChIJr8WfbJ_0K4gReOKtFsgtlMw",
+    "scope": "GOOGLE",
+    "types": [
+      "pet_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "501 Krug Street Unit 112, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4595773,
+        "lng": -80.5188285
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4608818802915,
+          "lng": -80.51739371970848
+        },
+        "southwest": {
+          "lat": 43.4581839197085,
+          "lng": -80.5200916802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Paws Evolution Inc",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1400,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114304450759930153062\">Paws Evolution Inc</a>"
+        ],
+        "photo_reference": "AeeoHcK3JOtNo4hijTdLY0aB7BDBIsO-mCU_krydLK0TZ1pnfZWCnSlarTx47MdOUGRi1U7-JCz44KYrHTkP1NUHS6rW0sQZk4FODTxU7YT1JRLLQTmV3dhfYJ4CMF8qx2InPqVYcZ8kBDunX07tOGXvOgDdweKgYDlQsZ8u8MTVNhaw9SnDDROCBzLZlbZmwm685jL6YvD8U_RYsuGbV_IN4C10NEeROZ_AhAO8DT9VSppA8dVqdQDTofx4xaJEsJmgOa6FcWs6di3izww0FFZyDjDyoUEwp5QaVxUpuAdVL7el6VolCbQ0JtyHGhi4MaOetafJUbZnBgI",
+        "width": 2100
+      }
+    ],
+    "place_id": "ChIJM-y_gGz0K4gRJ2OQQVnsNFY",
+    "plus_code": {
+      "compound_code": "FF5J+RF Waterloo, ON, Canada",
+      "global_code": "86MXFF5J+RF"
+    },
+    "rating": 4.4,
+    "reference": "ChIJM-y_gGz0K4gRJ2OQQVnsNFY",
+    "scope": "GOOGLE",
+    "types": [
+      "pet_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 131,
+    "vicinity": "191 King Street South Unit 104, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4710275,
+        "lng": -80.51486849999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4723648302915,
+          "lng": -80.51343186970848
+        },
+        "southwest": {
+          "lat": 43.4696668697085,
+          "lng": -80.5161298302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Pet Valu",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 622,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106644125313353424395\">Petvalu Bridgeport</a>"
+        ],
+        "photo_reference": "AeeoHcLbavHOq6PWMnltnTRryVYimxfebSvdC2l4tHvsuccpUII5IIKeLPDSO2bna9jGdGZ13mKR8aCDyi8EkaB3ii3O_JIRg_58_IK-VgwssftwaHwRB-u1Ct_s8aBP6_rkgGiIsxWA8kiQyQNHOVMBQ6vqtLz_dqxxRV9syHLS5MkVENF6i9PYKMZyrDT0AfH4JafGXlZ9PbQiHTQN3I9mn_lCA1SLo97g-s3bGGZIQitWXtmEGg2TYBM6Bgh77Akt_DpL_c1M8FRy-CMZxSJM__z9qXlxbbHsBxINo0_NVVmp_bW3fXeUfXjIz8J23ZxeI0xhT9WGQVcRo8thsI0RRAgVDADJxvK0iOX-y2Gi7eoza8SxF7X22xG8Rp4xv5faiZrswXPzSK0Qa86SZp9zOgh3WslIoUO9kCscMQvBT9jqE2Ryr7yXzen8eaqvLYUu6-hJOxwB_OR9BhYApIgqh9DcNOOLYGTgA7KJ4BXTLzcrO_mO5BQkHWl1xDNpzfahlrXSOsUb3Ijcg13pYNVz739s-g4_0VH5GdpIWW6VluPPNCYUzm_jpqEI_sAEYcKre-Hyfbhfopd0JRxeX7RUhaIeGylC3gh6liQR25clqJ5erBgZBZRusQ7vPurD6hu0",
+        "width": 717
+      }
+    ],
+    "place_id": "ChIJPfyO4Xb0K4gRfeuD65dZqaU",
+    "plus_code": {
+      "compound_code": "FFCP+C3 Waterloo, ON, Canada",
+      "global_code": "86MXFFCP+C3"
+    },
+    "rating": 4.5,
+    "reference": "ChIJPfyO4Xb0K4gRfeuD65dZqaU",
+    "scope": "GOOGLE",
+    "types": [
+      "pet_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 287,
+    "vicinity": "94 Bridgeport Road East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4390198,
+        "lng": -80.5105186
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4403438802915,
+          "lng": -80.5091155197085
+        },
+        "southwest": {
+          "lat": 43.4376459197085,
+          "lng": -80.51181348029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Pet Valu",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101038344528051208666\">Jeff Mulder</a>"
+        ],
+        "photo_reference": "AeeoHcKwwSpzH-EHKgMG_lsMx81t8ysB812gWSDW-S8TYS1Yby3jaWtKt-Zetq0bhwhEw3ZeUW17oNQF6nmxM6nLboMiTcaU2ntHJP5IrPXr-Qtse4Cc3RlfzqFw5JQKT96VCaCdZp6RubeRFa5VkW3hzUhAYGBqgdFCJm8G7uE1IbyZ3ruGc43KPerxn6rdS5qlFs6aBwk_pNMVRp6hZSqNq-Kx5NF-4NrrxQhIzByzdAxdz9rm-VMfyope_wTPHYqtsXfVIONOATyuOTAtZtSRcPMAZD4VajoD6MICqapESfa7nqaKUYPJ0PFAOADd3aqIjnxZ0L7eXOhpA5T0NdA6Kiq4VhnBzSXAJsB0-4U_Q48pbdg1HXck7IbrEIbz4ffARcsms8bocCI2a9RGWluUa79DRXEmeOwHNExzP9VDpbD1RPHmXIZe0XX1wcIeOrAAm8umrHf6IhJrmUizrp9VB1Yzy2ll9scEpx_iP5OdR3j430Vp8s_lHH_p9ZGLCbbaWwGhwoFA8rVaOua9n0w9phG24Jl2pQYGiYNolGAnYpv7Sn8iuxZbl35AbYtkMV7JmSEnFJ29gydc6X8nEobP_TUAakewwo0zEQ-U-qhTgMCGvUShuUXyZe5K7cECx5Fu8hBbzA",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJn1t4I1L0K4gR-LD21bbb-YI",
+    "plus_code": {
+      "compound_code": "CFQQ+JQ Kitchener, ON, Canada",
+      "global_code": "86MXCFQQ+JQ"
+    },
+    "rating": 4.5,
+    "reference": "ChIJn1t4I1L0K4gR-LD21bbb-YI",
+    "scope": "GOOGLE",
+    "types": [
+      "pet_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 235,
+    "vicinity": "324 Highland Road West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4250796,
+        "lng": -80.554068
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4264268302915,
+          "lng": -80.55266296970849
+        },
+        "southwest": {
+          "lat": 43.4237288697085,
+          "lng": -80.55536093029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Pet Valu",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1831,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110709771379276605691\">Tara Kachroo</a>"
+        ],
+        "photo_reference": "AeeoHcK17uFKVHqV9ITmod8W8Z0uUyO6g0opyBS31pdgvlOOf451hR4_yYQ2ReTXiXn2jxDXT9Vugq1XU7xYhGby-EcbOGx4KVaJP0ekHCO_pZbW9VwS7t6FjCt4wBL3smTWFwHfwCMBcGTvttcc_lMKl5w2w7mbcRbqJc_h_HM2KujN_mv5YGV-CxaJ-COkl5kZ0QoKRogA9IwZPMlY9YN6MBWDD2J3aRn3U2IzwdUdWtzV9jjk7kIoZMfPMThlDYalyjBJyKKlvuYO-e9Ien6v5L6yWSun5rmrgoZ_EvDHFQlGxLLHsVfZq5aWPmKeNoUc4bUPuIdXIUwzQVrcZSWTtvega9xvEVK-Z78-7cxlBQf_YslFV--YcdNUxgdHcGQXV-g6tMxajdZFTVx5AzJkez-xYDDI9_gFj6kLF62FerjDMm_3BUwP6D4sN7GR-HhivyCmgFkezF9xW-JD_y7i6laSGeXtwq3tJCuGxax6Pw0stupjmvImZRq-ViFc5FcKrsM1EGV-KbKPz8EAeglwRJuQhUtm0vJmgr_f3IT4pJjKFPcxtouUxyVOukEa07_lmXht7xMUeEh5PPqwFjjKHt558UzEHR60H3LqIbmM2eBwP43hMovSxCrULfN98cyBYvftfQ",
+        "width": 2166
+      }
+    ],
+    "place_id": "ChIJ2QwYeA72K4gRjT5wxMHYZl8",
+    "plus_code": {
+      "compound_code": "CCGW+29 Kitchener, ON, Canada",
+      "global_code": "86MXCCGW+29"
+    },
+    "rating": 4.4,
+    "reference": "ChIJ2QwYeA72K4gRjT5wxMHYZl8",
+    "scope": "GOOGLE",
+    "types": [
+      "pet_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 88,
+    "vicinity": "235 Ira Needles Boulevard, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.46393,
+        "lng": -80.52991
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4653230302915,
+          "lng": -80.52845551970849
+        },
+        "southwest": {
+          "lat": 43.4626250697085,
+          "lng": -80.5311534802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Adventure Ready Paws",
+    "photos": [
+      {
+        "height": 2816,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115542264431466937333\">Adventure Ready Paws</a>"
+        ],
+        "photo_reference": "AeeoHcLsxd2YPDmm-4RTKvqMyabS9PncMrqxrpJtT_ZWh47ktI3mFhVA_Iqi0aVQfNX01XPxxGk6h1MoBuobevnUFyrfcywt-vIoooHWERMjBxSS23JGywOCEbWTY6J9s7ZWRmsPEE34igptwY0nmZzzL5Rd7a2cMZNOE5R2J6CixPrhpUvQeww0KwmvtivIR0qVhPrLJAh5XCrS6v9sKc5AJw7ynNhjLzqVMPTQqoN6jGq021aeJoNcdyX2ThH9AO3v-eS-uF1np-lRcY2CPxgA2CzUw-jsBzFp_oiWpqw3A_jpRklfw1jYRvh8Z2mBr-NBvmtINiVhFUc",
+        "width": 3755
+      }
+    ],
+    "place_id": "ChIJAd5uz3H1K4gR2XE9VUt6KTQ",
+    "plus_code": {
+      "compound_code": "FF7C+H2 Waterloo, ON, Canada",
+      "global_code": "86MXFF7C+H2"
+    },
+    "rating": 5,
+    "reference": "ChIJAd5uz3H1K4gR2XE9VUt6KTQ",
+    "scope": "GOOGLE",
+    "types": [
+      "pet_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 9,
+    "vicinity": "17 Barrel Yards Boulevard, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4574042,
+        "lng": -80.5185072
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4588109302915,
+          "lng": -80.5170923197085
+        },
+        "southwest": {
+          "lat": 43.4561129697085,
+          "lng": -80.5197902802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "The Healthy Barker",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 811,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116893257510775773506\">The Healthy Barker</a>"
+        ],
+        "photo_reference": "AeeoHcK7jRzS7vQtY_1KLHxwdqd6-kF1WVI-oiZMB4TaRl4CVVIxTSpLpt7AJXM57rZQ7uCi0ezxXhc9z-KvWimfn9fSZbP2vpNjWxQlWDLoIbTHHIbllAB2I20JspkCk4C6gRCbTWEhzqx0Be55uv5-CA0PiqLEXcQPl6JodewhgxxbNyBGgqGaZfKh1LxEVuzzdeD_pKgtqhF_3uRs3yJ4uGUKZSNRWapEHeQE0pQCw0eeOsjaY8cnHlI7Bn7To6HLumx7j5FR0EnDi6hGyEENTF8XJCC9gR-HkmmZpgOu0Shgmg6PhKqUDIdth3_s2CnA9j5Kkvesyww",
+        "width": 1685
+      }
+    ],
+    "place_id": "ChIJdQkJfob1K4gRK-SlV76Y_u4",
+    "plus_code": {
+      "compound_code": "FF4J+XH Waterloo, ON, Canada",
+      "global_code": "86MXFF4J+XH"
+    },
+    "rating": 4.7,
+    "reference": "ChIJdQkJfob1K4gRK-SlV76Y_u4",
+    "scope": "GOOGLE",
+    "types": [
+      "pet_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 74,
+    "vicinity": "181 Park Street, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4641038,
+        "lng": -80.5325706
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4656036802915,
+          "lng": -80.5309641197085
+        },
+        "southwest": {
+          "lat": 43.4629057197085,
+          "lng": -80.5336620802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Kitchener Waterloo Aquarium Society",
+    "place_id": "ChIJbdIrdRD0K4gRkOUcudbuPIo",
+    "plus_code": {
+      "compound_code": "FF78+JX Waterloo, ON, Canada",
+      "global_code": "86MXFF78+JX"
+    },
+    "reference": "ChIJbdIrdRD0K4gRkOUcudbuPIo",
+    "scope": "GOOGLE",
+    "types": [
+      "pet_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "vicinity": "Waterloo Memorial Recreation Complex Community Pavilion, 101 Father David Bauer Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4800416,
+        "lng": -80.5154476
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4813793802915,
+          "lng": -80.5140886697085
+        },
+        "southwest": {
+          "lat": 43.4786814197085,
+          "lng": -80.5167866302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "PupTown Waterloo",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108918778795313936734\">PupTown Waterloo</a>"
+        ],
+        "photo_reference": "AeeoHcIO1crLPp8akrcRPUWy4tStPTAp0z0z7HuaAmlcFjlmlpCzYVBJkvGhN_HeCkDNLPm2DY4pL0sjPYjeIhxeUpHOgT0yFhpmaStU6V85sACUTkY3I9zCH_ACUkdCqu1AbEi3XNqQh2eKf0N34EEDKxVN0-hzWPP9dyu0_d9eGKvqs1tWuKY6zVB3Qa1a2-ICp6GU2HCOwEHc1yPacrURamg4iTkksoc2m-ww7ICQbXMk4AMk6HSDz6Br6VM22CLPs9Tb18nuGkevtD6MhASRHowYbfMiQ9WF2FM1pR9Yw7UFUzPvDoJDTgQk6SsKtx6QA2Yq00aue_A",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJTbW10-fzK4gR6l14jcplpeQ",
+    "plus_code": {
+      "compound_code": "FFJM+2R Waterloo, ON, Canada",
+      "global_code": "86MXFFJM+2R"
+    },
+    "rating": 4.5,
+    "reference": "ChIJTbW10-fzK4gR6l14jcplpeQ",
+    "scope": "GOOGLE",
+    "types": [
+      "pet_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 187,
+    "vicinity": "140 University Avenue East, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4597919,
+        "lng": -80.4980278
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46115538029149,
+          "lng": -80.4966518197085
+        },
+        "southwest": {
+          "lat": 43.45845741970849,
+          "lng": -80.49934978029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Bearosa Family",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJcWm_c3P1K4gR3baVg3CJnTU",
+    "plus_code": {
+      "compound_code": "FG52+WQ Kitchener, ON, Canada",
+      "global_code": "86MXFG52+WQ"
+    },
+    "reference": "ChIJcWm_c3P1K4gR3baVg3CJnTU",
+    "scope": "GOOGLE",
+    "types": [
+      "pet_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "vicinity": "Weber Street West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4469117,
+        "lng": -80.512388
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4481970802915,
+          "lng": -80.5111286197085
+        },
+        "southwest": {
+          "lat": 43.44549911970851,
+          "lng": -80.51382658029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "WaggyTail Emporium",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ2X9j8g_1K4gRgwTG0p1_WBg",
+    "plus_code": {
+      "compound_code": "CFWQ+Q2 Kitchener, ON, Canada",
+      "global_code": "86MXCFWQ+Q2"
+    },
+    "reference": "ChIJ2X9j8g_1K4gRgwTG0p1_WBg",
+    "scope": "GOOGLE",
+    "types": [
+      "pet_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "vicinity": "460a Belmont Avenue West, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.45247759999999,
+        "lng": -80.5543971
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.45369368029149,
+          "lng": -80.55316376970849
+        },
+        "southwest": {
+          "lat": 43.45099571970849,
+          "lng": -80.55586173029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Pet Valu",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101038344528051208666\">Jeff Mulder</a>"
+        ],
+        "photo_reference": "AeeoHcKbl4dKOkwqBwHyRsXJn1_4pkiNUyeAUFIHEqoCu2eojfkU5clpV-tODpGL98ZdHMYy37jbFqOOyCdDwD8OPl64YHwfGiIKhIwTEnYn1tFLyCypIoXzGJ8lZ5xQS-0y4nftWcbrrkbd5h804I9FNOKoIMixEVfS-MMIT_0ukCWQiy64H3gwdGxDFFbX-cZDc6ZLxMbAlkBDu49Z8y4h5gz3x09WmC07SIfhVOuQRqDi_OfK2RbSAN1hb-Rz9JD2qMn-44MZMLN4vUfiClofgphnl69z753lb-iALJ01CsCmAhHTwBEWxpDQlje5BbSn9DZMMjWrUwMk52KIFmQeFb2AD82yiNx13iV2oJDPGffU9QVNJxd4SLRc62i4eEYROjHj1ndm9J9rEzvWAE2G-h9IR0eJPrC3yHsbuTa0G2PnVs8F0YMoIBtE4XQko4RwQger6c1wIHem-v5QbKGZwiHl7Cmz1M7nB1fBwHbyvZacJYiUAWNppSIEkdNWv0z-AE_3GpEg30IbQDfUw-_VPZG27yXyRleFxMl2vSzPgCIoL1HiM5NzXx3axtXY4g2Ab2VBPPvEmCdpQmJ7bafZaK9dGr23t6d0KsCzw0MdDqrUrffXAVjc4y4ySYKSh0YVxAwePA",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJm65XTJf2K4gRfGI1Cahs2m4",
+    "plus_code": {
+      "compound_code": "FC2W+X6 Waterloo, ON, Canada",
+      "global_code": "86MXFC2W+X6"
+    },
+    "rating": 4.3,
+    "reference": "ChIJm65XTJf2K4gRfGI1Cahs2m4",
+    "scope": "GOOGLE",
+    "types": [
+      "pet_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 154,
+    "vicinity": "450 Erb Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4679403,
+        "lng": -80.56880570000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46932303029149,
+          "lng": -80.5673717697085
+        },
+        "southwest": {
+          "lat": 43.46662506970849,
+          "lng": -80.57006973029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Global Pet Foods- Laurelwood",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3464,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110081852887105319508\">Global Pet Foods- Laurelwood</a>"
+        ],
+        "photo_reference": "AeeoHcI0UDtSicrsLuJcjwllDPiecqt7pHPg1uXuHNLvxfBPGE2vU-SLcBT7JiG9DkWJHiiPzumV9D5fAU9-60R1YGrnqPqKH6MwY_uCqAPYRWDuFWNB86PxSd-wvOC5etmJP5xnWCWeNhd2rvNCzvpQx3aPqYrYL_LvyvqZ5i1SfBB3grrYYXGkCDUHl3WrxKurIy8QNV-0U_dBBJGGNfjBxgtIcSGAp1q77igxKYspQrqlsDqBQ-xT7Uq5GbZZdTLafHBWYD_WUHS3YUIhW9k3RtGD24zV8zlN9hM2Av7CL-8BELqLSFzbBNlPLI4h6GwQeScGIt9DIZM",
+        "width": 4618
+      }
+    ],
+    "place_id": "ChIJQXFpf8j2K4gR6O6h6uZzDpE",
+    "plus_code": {
+      "compound_code": "FC9J+5F Waterloo, ON, Canada",
+      "global_code": "86MXFC9J+5F"
+    },
+    "rating": 4.6,
+    "reference": "ChIJQXFpf8j2K4gR6O6h6uZzDpE",
+    "scope": "GOOGLE",
+    "types": [
+      "pet_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 167,
+    "vicinity": "450 Columbia Street West, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4990995,
+        "lng": -80.5213933
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.50052443029149,
+          "lng": -80.5200520697085
+        },
+        "southwest": {
+          "lat": 43.4978264697085,
+          "lng": -80.52275003029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Piper's Pillows",
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118428627008085503654\">Mon B</a>"
+        ],
+        "photo_reference": "AeeoHcJPjULJS8d3GnNNuRiYyzIfiSq12uVZ7sMGsY4F4A-VRlb6iUY800wks9PohIhNG6ohu8-wJL5Z7xwLQK3xXGUtM2BMFlsJCOgzv3H3119SLJ9sNxkWseCOIoxLvHskB3OBLwF3vHeln0VpLZWKOq8eHEShsrAiVPUeGsaoS18iIdO4eZ6dfSLOxcHC0UUsZkxHNQAJuPiUTtcD7U_wMxQ7h0PYAg1a-eWcHqxSSf_mdyR9CiH4b6g0S3S0ubDtQ7Ir7RBCNZexPXtja_FfkZ4xO_X3OMrILgMmWLi8K9iqLrUZRcRIDDqXMgrzoaxM4Hk33FjEM5XvXCZcPQluLcKE9OQSYm4LhDu4180ucF8X7iOHYozk9HgiybAIJSISKwZH5GBNO9EFzJsjCqqOM0P3Pc6djffwPpHThKblglnFVHUHI91cS5BKRKAEceshqRSpUbpNJl5wKX0OnVwUeLDNJ3D_d-1jaGV42FT5Ik1w9ZeuwgDvUFxEYkhWXKP2zEuuc6eQD63l-YxjNcBewgvrf5TtKRBXA5QmYQEzZHKftoVXqxyF0nBmsLxGctffvV-5LiE_AHgwRjWnvrtx__6OiusGdXvMlnFipD2cTMDC-Qwgt7nPDXcHQvWjf8hloJ37XsoD",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJR-qam8zzK4gRxZIyNCX_V4Q",
+    "plus_code": {
+      "compound_code": "FFXH+JC Waterloo, ON, Canada",
+      "global_code": "86MXFFXH+JC"
+    },
+    "rating": 5,
+    "reference": "ChIJR-qam8zzK4gRxZIyNCX_V4Q",
+    "scope": "GOOGLE",
+    "types": [
+      "pet_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "543 Hallmark Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4969942,
+        "lng": -80.5496047
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4983662302915,
+          "lng": -80.54819856970849
+        },
+        "southwest": {
+          "lat": 43.4956682697085,
+          "lng": -80.5508965302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Pet Valu",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 840,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102884814698418699128\">TP G.</a>"
+        ],
+        "photo_reference": "AeeoHcLtb-ltC1G8cM775_PLc-h_TYtXNUVqlyONyT165QOXi8_b3QYHkx-OQpJAb8gFna1fX52192p6UNPFQJrfKhc2FautdBiPqiy3Xjp69KQ5CLEs1xScVhFE9-zRCWCLXj6NI2is6a1-ZBLiFbJUGjjkw9w67M4AQC13p6FEWE1pZBtE3OwgUKHnXEvG09hEU349o_LDqAAowvzzmZsHCZCOCaUkv1YLZdOYcaqY7nSQdJESxxnDMI_Z0-MXrtl_naHBQbuY3TAfIg4cguPzDxJ7vE7cYrgE4bHSWgED857yNaexKJ08IgcYBy7W8zXGyXBEal6UMHeE3SBfSloZRI-2kSAgraNf9zKwKEleEFyGXdIPg5bP1IuvRfS8gYMeAlS8vqyE0EEGOylCmySWw_KugKsRdnnKM1f4SfMZpiWjQp592Y0fGJBwnfyewuq8FwVz-nnA6nxVQCquqjRysOH3Xu-0uaN_IJkqJzafthSYvzKfXxNJK7-Fnafy3D0Ul8m1JgNvQ2yg8oI0ONcHrjCsx0vdOs393HoNlUCusziL5N95avME4SSiZddWZIKPQOkYPwRk-Z_PPhtjZGvwK-Nst1RDQcg0zbvL8pzeVGBi9Scr-Z1EgfKZc8dszfp4MWjbNw",
+        "width": 1494
+      }
+    ],
+    "place_id": "ChIJbSfBsmDxK4gR-OIc0kG6oKE",
+    "plus_code": {
+      "compound_code": "FFW2+Q5 Waterloo, ON, Canada",
+      "global_code": "86MXFFW2+Q5"
+    },
+    "rating": 4.3,
+    "reference": "ChIJbSfBsmDxK4gR-OIc0kG6oKE",
+    "scope": "GOOGLE",
+    "types": [
+      "pet_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 258,
+    "vicinity": "582 Weber Street North J2 - #J3, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4154834,
+        "lng": -80.5167179
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4168322302915,
+          "lng": -80.5152155197085
+        },
+        "southwest": {
+          "lat": 43.4141342697085,
+          "lng": -80.51791348029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Healthy Planet - Kitchener",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 382,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110124663433968021431\">Healthy Planet - Kitchener</a>"
+        ],
+        "photo_reference": "AeeoHcKelILWtCnWxeAQxoFw86xwVZz8MMA5Iu3OPKoSqgf3d5saOOHJFgbldjEoZ7WNHF3Mb7frT7W_P04CemIiay_5HHqjRROzsyRtoPg_IUhkgTyYEZYlbQNADQxPQ65yJ4n3YC_9ek3VOUhA0MttJYYaPmOYS7u8Qa-Il8yTPcK2POZarx6z93yf4u9kiApoYHnWqkkZdDuFXlvWNAI2JZT7bVM3nsbQPzzwNUOyR2WHZ-ZPUyXhsorSEi51Xtb97DOAf8d6iqhSqbdaOyoPgmrcyQs0QT7sEOUAFp7gQAEgq-pvc4JEFLgQQJtfpB3stbeRoZTm8Pk",
+        "width": 680
+      }
+    ],
+    "place_id": "ChIJ67PFJjL1K4gR6-mLc-voZS0",
+    "plus_code": {
+      "compound_code": "CF8M+58 Kitchener, ON, Canada",
+      "global_code": "86MXCF8M+58"
+    },
+    "rating": 4.8,
+    "reference": "ChIJ67PFJjL1K4gR6-mLc-voZS0",
+    "scope": "GOOGLE",
+    "types": [
+      "grocery_or_supermarket",
+      "pet_store",
+      "health",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 512,
+    "vicinity": "1400 Ottawa Street South b21, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4153928,
+        "lng": -80.5161729
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4167775302915,
+          "lng": -80.51464511970849
+        },
+        "southwest": {
+          "lat": 43.4140795697085,
+          "lng": -80.51734308029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Pet Valu",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118141292848437638476\">Marta Borowska</a>"
+        ],
+        "photo_reference": "AeeoHcIE9YRZZjaBxmMaAtS2_1_Aj3mW7kS_VQuJTYB0FS3_9Lu4InoyKZodcggjvvvz3h71a3QQReJ9sSFc__fmHxCS03_Ll_SyAjoesMyNk0gpuguD7lEYlqZY786qWbx_eMLBArHJXf9Zd286c8QVXvYKpQv652fn0gdnLoS3Jp-sCuDwJtxJeB7LS8q9dzL5yq2XrKKDZOBndJKKEnwJP_vKIKsciq-gJOgA7aMS-WH_Oyrdq1w84hYg2LXO0umTNlSRyRjnG6reQW___rGJPAscdh04Hp95NHcCk9nWdXbL796W7r3-yJuG59oK1BRmhWp6w-VzKkNxq8NH21tscHYkwb19H-aN7J_oeB-UvIrkQRTiYwr-gKbV37nKiA24cxEh3gyOZEO0-qUsjxYhkmboyC5r8eQb1FmV0i8Y1xXZehaXhhau3qQ4GcyQ67SUDQGGmPg8fAjwjQPZEBzy8lWK_v8rVcrRPP83BRzKBRgLK5bWMu-_N2VWgGXhHbhd6XoA0mqSyQJHmSHxb4Q9p1flZhIN1HGAvo33qX5bM4tz_pj9Iw0ioqwGu7ncNgmdD61iJN3khBwg_PiCu6uDD1ZRkHH3dV_NuWvTsr8MHIFP58vuVAPW4db86_7JPkjNWlHlzw",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJ2ZBx_JX1K4gRoM_F_wpfINc",
+    "plus_code": {
+      "compound_code": "CF8M+5G Kitchener, ON, Canada",
+      "global_code": "86MXCF8M+5G"
+    },
+    "rating": 4.4,
+    "reference": "ChIJ2ZBx_JX1K4gRoM_F_wpfINc",
+    "scope": "GOOGLE",
+    "types": [
+      "pet_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 368,
+    "vicinity": "1400 Ottawa Street South, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4718628,
+        "lng": -80.5935009
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.47328968029149,
+          "lng": -80.59218981970848
+        },
+        "southwest": {
+          "lat": 43.47059171970849,
+          "lng": -80.5948877802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Pet Valu",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107803259842139087878\">Shashi patel</a>"
+        ],
+        "photo_reference": "AeeoHcLQv1XnMSfIuwzKo6RaHbou0Ql4Yar8KXWhlviLl1xQ65_5v3Zm-CQqMSodvAicwyh4IIs82dF51fQffNg0kXcP8u4g3sF-HdMsYLNp05U7WpDJcHGInY8-e9ibwAkqyT8WNzl8_z1PAWNtaL3azbElbWDWwhdWpTodnkX3Be8VhqsxwOW6sjcIKFyvPIF9DMq8f9kfH1Jk3Hj35jViCKQ_39aKAlgd3RY849jIcifrRZpB1ZzUo6O9CzFgd8IQpmRR5i34Xg-sdiyivFBAALq5sjUXShgucqK5DCGr9-E9hVh-Giw7WtpljoFx88CfQmWFCi6V5CalA_JedG_p39CSjei9IcYDzUBpEqnPSIOU2i3zxhftlQm261p_FrvVyiLDJsgTZhgn-Be8lncW7rhqkUTXoGdLnKCmtgjYMlfpcMW2Wt9C1wtrFtX_yiTEC1BiPsIMWbinfSZMM1ZWUToQ2TW03V18s1hfIXZ8KHLWJBJT-5Y_JDLsL-F5bmhCkgGY9OvK1MC4U8tovhOP6-hjM8KG-Xd2DApKcSzoCl8Mc1l_jtbkp1nHhPcFxlPu2zfdg5-8E1UF4ZKNabjsl-M9ZGrxa5p5ur1674gLE6L7bTi258EOBnDaHZZpRXb11A2LFg",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJV3Rw6Cv3K4gR5NBpSnofn8E",
+    "plus_code": {
+      "compound_code": "FCC4+PH Waterloo, ON, Canada",
+      "global_code": "86MXFCC4+PH"
+    },
+    "rating": 4.4,
+    "reference": "ChIJV3Rw6Cv3K4gR5NBpSnofn8E",
+    "scope": "GOOGLE",
+    "types": [
+      "pet_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 26,
+    "vicinity": "600 Laurelwood Drive, Waterloo"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.5117665,
+        "lng": -80.5551108
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.5131351302915,
+          "lng": -80.5537577197085
+        },
+        "southwest": {
+          "lat": 43.5104371697085,
+          "lng": -80.5564556802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Discount Pet House",
+    "place_id": "ChIJ-c1VYnfxK4gRSUWS8l0oKRE",
+    "plus_code": {
+      "compound_code": "GC6V+PX St. Jacobs, ON, Canada",
+      "global_code": "86MXGC6V+PX"
+    },
+    "rating": 5,
+    "reference": "ChIJ-c1VYnfxK4gRSUWS8l0oKRE",
+    "scope": "GOOGLE",
+    "types": [
+      "pet_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "St. Jacobs"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4038053,
+        "lng": -80.5257201
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.40515113029149,
+          "lng": -80.5243902197085
+        },
+        "southwest": {
+          "lat": 43.40245316970849,
+          "lng": -80.5270881802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Fish Harbour",
+    "place_id": "ChIJo_iHiuP1K4gRYJ4s8HFzFro",
+    "plus_code": {
+      "compound_code": "CF3F+GP Kitchener, ON, Canada",
+      "global_code": "86MXCF3F+GP"
+    },
+    "reference": "ChIJo_iHiuP1K4gRYJ4s8HFzFro",
+    "scope": "GOOGLE",
+    "types": [
+      "pet_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "118 Gravel Ridge Trail, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.4240868,
+        "lng": -80.45335999999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4254960302915,
+          "lng": -80.4518642197085
+        },
+        "southwest": {
+          "lat": 43.4227980697085,
+          "lng": -80.4545621802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Variety Vista",
+    "place_id": "ChIJRRyRzhiLK4gRMH4DnG0wZPE",
+    "plus_code": {
+      "compound_code": "CGFW+JM Kitchener, ON, Canada",
+      "global_code": "86MXCGFW+JM"
+    },
+    "reference": "ChIJRRyRzhiLK4gRMH4DnG0wZPE",
+    "scope": "GOOGLE",
+    "types": [
+      "pet_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "35 Maywood Road, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.465404,
+        "lng": -80.42996149999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.46666763029151,
+          "lng": -80.42867031970849
+        },
+        "southwest": {
+          "lat": 43.46396966970851,
+          "lng": -80.4313682802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Danny CC",
+    "place_id": "ChIJTS1ryUSLK4gR-nPiQW4RPdY",
+    "plus_code": {
+      "compound_code": "FH8C+52 Kitchener, ON, Canada",
+      "global_code": "86MXFH8C+52"
+    },
+    "reference": "ChIJTS1ryUSLK4gR-nPiQW4RPdY",
+    "scope": "GOOGLE",
+    "types": [
+      "pet_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "32 Gloucester Court, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.40036289999999,
+        "lng": -80.4956931
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.4016637302915,
+          "lng": -80.4943266197085
+        },
+        "southwest": {
+          "lat": 43.3989657697085,
+          "lng": -80.49702458029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Pet Valu",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2571,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107541566938526615387\">Pet Valu</a>"
+        ],
+        "photo_reference": "AeeoHcKZOrTn6_DiOPKq1QMAopHKr0hm2SfO5X51dOnKRSJqehLQM5g85C3mIBFs26r58BroFvSlt_UgcAn-En9wLkdNidIXoed5pq1sZHZCMc9t9lmt8cOGzbtx-GS37kgQhxHvGfoSLUUmVPqBlrfpiMMb9QVPa52u3Qoo6PAF96EExl2EWVGNXezwmtTyWr7woQ1i7r2FO8cTGk9IfivweSC8v1NLFrAbHBphgAPSSAFlXuiN3-3agzDr05xdva_GsAz_2I0G9k_5GO7CZHdINZozdEy9ZRs5uZ4-ZSkGa3dLjFJdgs4RTEpCYlTizllhwQZNGSjdYMI",
+        "width": 3429
+      }
+    ],
+    "place_id": "ChIJTc5OGqH1K4gRXWOsL8I8P9I",
+    "plus_code": {
+      "compound_code": "CG23+4P Kitchener, ON, Canada",
+      "global_code": "86MXCG23+4P"
+    },
+    "rating": 4.7,
+    "reference": "ChIJTc5OGqH1K4gRXWOsL8I8P9I",
+    "scope": "GOOGLE",
+    "types": [
+      "pet_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 15,
+    "vicinity": "1270 Fischer-Hallman Road Units 2 - 4, Kitchener"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 43.545874,
+        "lng": -80.55277339999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 43.54717233029151,
+          "lng": -80.55142721970849
+        },
+        "southwest": {
+          "lat": 43.54447436970851,
+          "lng": -80.5541251802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Creature Comfort Pet Emporium",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1948,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113894514978702817444\">Creature Comfort Pet Emporium</a>"
+        ],
+        "photo_reference": "AeeoHcLNnCQiXOXYUQYc77DrI2t4ZOSK_nLwAh61N_T-S1A6lYGb1h67cL0BIgRRj5DPF0GewEEQqK0SpM7wqB12r5gYZPC0aUS1ndI-1bIaFb_zwk2wjHwuaK6jVxEP9isMhVbrFn9bA3_VVxrwHL_hLHYsQeSkX9fBHdkainMI2r4AqaAa08VeRR0dWWZpn3yy5Fl_B_U7TSAEhz_t_U2L0tnoO-VRv8qNqrL8xgcfaDjSZ2D2uV75Hbl9T6bmbL-3uY9Xc_G-rVLX91hcUEUUh6cggio9DB6FB58MJ-_25irDcD3spKw35T_zyZqP3b7IlgjXJa8qAho",
+        "width": 1536
+      }
+    ],
+    "place_id": "ChIJIWt_-frxK4gRTs9fzRfim9I",
+    "plus_code": {
+      "compound_code": "GCWW+8V St. Jacobs, ON, Canada",
+      "global_code": "86MXGCWW+8V"
+    },
+    "rating": 4.7,
+    "reference": "ChIJIWt_-frxK4gRTs9fzRfim9I",
+    "scope": "GOOGLE",
+    "types": [
+      "pet_store",
+      "health",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 146,
+    "vicinity": "1553 King Street North, St. Jacobs"
+  }
+]

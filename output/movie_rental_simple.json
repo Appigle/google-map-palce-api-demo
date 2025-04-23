@@ -1,0 +1,47 @@
+[
+  {
+    "name": "The Beat Goes On",
+    "coordinates": {
+      "lat": 43.48186909999999,
+      "lng": -80.52357930000001
+    },
+    "longitude": -80.52357930000001,
+    "latitude": 43.48186909999999,
+    "types": [
+      "movie_rental",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "The Beat Goes On",
+    "coordinates": {
+      "lat": 43.42029849999999,
+      "lng": -80.4403583
+    },
+    "longitude": -80.4403583,
+    "latitude": 43.42029849999999,
+    "types": [
+      "movie_rental",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "name": "Sunrise Records",
+    "coordinates": {
+      "lat": 43.498217,
+      "lng": -80.5268773
+    },
+    "longitude": -80.5268773,
+    "latitude": 43.498217,
+    "types": [
+      "movie_rental",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ]
+  }
+]
