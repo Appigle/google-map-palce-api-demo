@@ -1,0 +1,5 @@
+API_KEY=your_google_maps_api_key # Replace with your Google Maps API key
+LOCATION=43.6532,-79.3832 # Toronto
+LOCATION_WATERLOO=43.4643,-80.5204 # Waterloo
+MAX_PAGES=5
+RADIUS=5000
